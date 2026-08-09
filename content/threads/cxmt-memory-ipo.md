@@ -16,7 +16,7 @@ blurb: Up-to-$9.8B STAR Market listing (allotment 07-22, lists 07-27) funding Ch
 
 ## 2026-08-07 — The tracked "coming days" administration letter still hasn't landed; Congress's actual letter went to Apple instead, over a week ago
 
-- **The `cxmt-congress-letters` expectation (bipartisan letters to the
+- **The cxmt-congress-letters expectation (bipartisan letters to the
   administration seeking a CXMT national-security probe, "coming days"
   as of 07-28) is due this week and still hasn't produced a letter to
   the administration.** The only bipartisan Senate letter that actually
@@ -29,9 +29,9 @@ blurb: Up-to-$9.8B STAR Market listing (allotment 07-22, lists 07-27) funding Ch
   Entity List addition itself remains the previously-logged June-2026
   postponement tied to live trade talks — no new movement found this
   check.
-  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-29/senators-warn-apple-not-to-buy-memory-chips-from-chinese-firms), [Sen. Schumer](https://www.schumer.senate.gov/newsroom/press-releases/citing-core-national-security-and-economic-reasons-schumer-demands-apple-reject-chinese-military-linked-chips)) ⟨daily 2026-08-07⟩
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-29/senators-warn-apple-not-to-buy-memory-chips-from-chinese-firms), [Sen. Schumer](https://www.schumer.senate.gov/newsroom/press-releases/citing-core-national-security-and-economic-reasons-schumer-demands-apple-reject-chinese-military-linked-chips))
 - **The 08-05 DRAM-price-refusal story (below) just got its tier-1-adjacent corroboration — MacDailyNews and TechJuice independently confirm CXMT rejected Apple's bid for a discount, ending the "no wire pickup" confidence flag that story carried.** Same facts, better-sourced: Apple spent months trying to qualify CXMT as a fourth LPDDR5X source; CXMT had no reason to discount because Huawei, Xiaomi and other Chinese OEMs had already locked its output into long-term deals at market rates. New detail this pass added: TSMC is reportedly sitting on ~$1B of finished A20 Pro chips it can't complete without matching DRAM — the iPhone 18 Pro supply risk this thread flagged 07-22 is now the live mechanism, not a hypothetical.
-  ([MacDailyNews](https://macdailynews.com/2026/08/06/chinas-cxmt-rejects-apples-price-cut-demands-for-dram-boosting-samsung-and-sk-hynixs-pricing-power-amid-global-shortage/), [TechJuice](https://www.techjuice.pk/apple-and-cxmt-reportedly-fail-to-agree-on-dram-pricing/)) ⟨daily 2026-08-07⟩
+  ([MacDailyNews](https://macdailynews.com/2026/08/06/chinas-cxmt-rejects-apples-price-cut-demands-for-dram-boosting-samsung-and-sk-hynixs-pricing-power-amid-global-shortage/), [TechJuice](https://www.techjuice.pk/apple-and-cxmt-reportedly-fail-to-agree-on-dram-pricing/))
 
 ## 2026-08-05 — CXMT reportedly refuses Apple's push for a lower DRAM price (moderate confidence)
 
@@ -43,54 +43,54 @@ blurb: Up-to-$9.8B STAR Market listing (allotment 07-22, lists 07-27) funding Ch
   Apple's volume, while Samsung/SK Hynix are simultaneously reallocating
   fab capacity toward higher-margin AI memory (HBM4, LPCAMM2, enterprise
   SSD), tightening standard-DRAM supply industry-wide — direct read-
-  through to `ai-memory-shortage`. **Confidence flag:** every path to
+  through to [Memory Squeeze](/threads/ai-memory-shortage/). **Confidence flag:** every path to
   this story runs through PANews (a Chinese aggregator), attributing it
   to Korean outlet Digital Daily via a second Chinese aggregator
   (Gelunhui) — no tier-1 wire (Reuters/Bloomberg) pickup found. Real and
   dated, not independently corroborated at primary-source level.
-  ([PANews](https://panews.io/articles/019fd122-b2c9-7349-af73-23014e4740b2)) ⟨daily 2026-08-05⟩
+  ([PANews](https://panews.io/articles/019fd122-b2c9-7349-af73-23014e4740b2))
 
 ## 2026-07-30 — Alibaba's pre-IPO stake is up ~20x
 
 - **Alibaba's pre-IPO stake in CXMT is up roughly 20x, near $20.9B** —
   well-corroborated (finance.biggo.com, Seoul Economic Daily, FourWeekMBA).
   A new concrete figure, joining DeepSeek/High-Flyer as a confirmed debut
-  winner. ⟨daily 2026-07-30⟩
+  winner.
 - **SK Hynix/Micron read-through fallout continues into a third day**;
   CXMT's own day-2/3 share-price gap (flagged 07-28) is still open — no
-  figures found yet. ⟨daily 2026-07-30⟩
+  figures found yet.
 - **A Global Times rebuttal of "reported" US Senate warnings** on
   Apple/CXMT-YMTC sourcing reads as continued circulation of the same
   pressure this thread already discounted (Moolenaar/Whitesides letter,
-  07-16) — noted, not treated as new. See `ai-memory-shortage` for the
+  07-16) — noted, not treated as new. See [Memory Squeeze](/threads/ai-memory-shortage/) for the
   fresher, dated version of this (a bipartisan senator letter to Apple,
-  Aug-21 deadline). ⟨daily 2026-07-30⟩
+  Aug-21 deadline).
 
-## 2026-07-28 (overnight) — A second probe effort, and a lithography read-through ⟨daily 2026-07-28⟩
+## 2026-07-28 (overnight) — A second probe effort, and a lithography read-through
 
 - **A prospective bipartisan letter campaign** — at least half a dozen
   members plan to write the administration "in the coming days" seeking a
   national-security probe, calling CXMT part of "the Chinese industrial
   military complex."
-  ([AOL/wire](https://www.aol.com/articles/us-lawmakers-seek-national-security-141013000.html)) ⟨daily 2026-07-28⟩
+  ([AOL/wire](https://www.aol.com/articles/us-lawmakers-seek-national-security-141013000.html))
 - **⚠ Logged rumored, deliberately.** The coverage carrying this recycles
   the exact "debut triggered a Capitol Hill probe" framing this thread
   killed earlier the same day — the Moolenaar/Whitesides letter is dated
   **07-16** and never mentions the IPO. What would confirm a *second*
   action is a letter with signatories, not another restatement of the
-  first. Ledger entry written with that test. ⟨daily 2026-07-28⟩
+  first. Ledger entry written with that test.
 - **CXMT named as a first recipient of China's homegrown DUV tools** —
   Reuters reports Shanghai Aishengna has begun mass production of
   immersion DUV lithography, ~5 units in 2026 and ~20 in 2027, with SMIC,
   Hua Hong and CXMT expected to take delivery this year. If it holds, the
   domestic-substitution story this thread tracks gains a tool layer it
   did not have.
-  ([Reuters](https://www.globalbankingandfinance.com/exclusive-china-starts-production-home-grown-immersion-duv/)) ⟨daily 2026-07-28⟩
+  ([Reuters](https://www.globalbankingandfinance.com/exclusive-china-starts-production-home-grown-immersion-duv/))
 - **Day-2 price action could not be sourced.** No dated figures for
   CXMT's 07-28 session were found; only the 07-27 debut (+466%) is
-  verified. Recorded as a gap rather than guessed. ⟨daily 2026-07-28⟩
+  verified. Recorded as a gap rather than guessed.
 
-## 2026-07-28 — Washington reacts, a DeepSeek-linked fund profits ⟨daily 2026-07-28⟩
+## 2026-07-28 — Washington reacts, a DeepSeek-linked fund profits
 
 - **A "senior federal official" told the New York Post there's "a real
   suspicion" of CCP-orchestrated price action** behind the 466% debut
@@ -105,13 +105,13 @@ blurb: Up-to-$9.8B STAR Market listing (allotment 07-22, lists 07-27) funding Ch
   genuinely new element is the federal official's on-the-record
   suspicion of manipulated pricing.
   ([TechTimes](https://www.techtimes.com/articles/321807/20260728/cxmts-466-first-day-surge-spooked-micron-triggered-capitol-hill-probe.htm) ·
-  [House Select Committee on the CCP — letter text](https://chinaselectcommittee.house.gov/media/letters/moolenaar-whitesides-to-secretary-lutnick-hold-firm-on-chinese-memory-chips-ban)) ⟨daily 2026-07-28⟩
+  [House Select Committee on the CCP — letter text](https://chinaselectcommittee.house.gov/media/letters/moolenaar-whitesides-to-secretary-lutnick-hold-firm-on-chinese-memory-chips-ban))
 - **DeepSeek founder Liang Wenfeng's High-Flyer hedge fund confirmed
   among the debut's biggest winners** — the 12.55B-share institutional
   bid flagged in the 07-22 crawl paid off on the 466% pop.
-  (Bloomberg, via Google News RSS) ⟨daily 2026-07-28⟩
+  (Bloomberg, via Google News RSS)
 
-## 2026-07-28 — Black Tuesday ⟨crawl 2026-07-28⟩
+## 2026-07-28 — Black Tuesday
 
 - **The debut's second-day shockwave: Seoul sold off hard** — SK Hynix
   −14.65%, KOSPI −10.84%, coverage explicitly attributing the rout to
@@ -119,7 +119,7 @@ blurb: Up-to-$9.8B STAR Market listing (allotment 07-22, lists 07-27) funding Ch
   real competitive threat, not a domestic-substitution story. One-day
   reaction; check whether it holds past SK Hynix's 07-29 print.
 
-## 2026-07-27 — The debut ⟨daily 2026-07-27⟩
+## 2026-07-27 — The debut
 
 - **Closed +466% at ~$489B — the most valuable China-listed company,**
   above Intel's market cap; Asia's biggest 2026 IPO (~$8.5-9.1B raised).
@@ -131,11 +131,11 @@ blurb: Up-to-$9.8B STAR Market listing (allotment 07-22, lists 07-27) funding Ch
 - **Pricing finalized at 8.66 yuan/share, raising ~$8.6B** (up from an
   earlier $4.3–4.4B target range) — implied market cap ~588B yuan
   (~$87B) at listing.
-  ([BigGo Finance](https://finance.biggo.com/news/503cd6f5-6bde-4e19-8e0c-e4bd74249f8b)) ⟨daily 2026-07-23⟩
+  ([BigGo Finance](https://finance.biggo.com/news/503cd6f5-6bde-4e19-8e0c-e4bd74249f8b))
 - **Institutional bookbuilding came in 462.85x oversubscribed** — roughly
   4x SMIC's 114.97x when it listed on the STAR Market in 2020, an extreme
   demand signal. Listing date confirmed July 27, ticker 688825.
-  ([EBC](https://www.ebc.com/forex/cxmt-ipo-688825-dram-china-2026)) ⟨daily 2026-07-23⟩
+  ([EBC](https://www.ebc.com/forex/cxmt-ipo-688825-dram-china-2026))
 
 ## 2026-07-22 — Allotment landed as staged
 
@@ -143,7 +143,7 @@ blurb: Up-to-$9.8B STAR Market listing (allotment 07-22, lists 07-27) funding Ch
   accounts, institutional 570×; a clawback shifted ~502M shares from the
   institutional to the retail tranche; $9.8B raise confirmed, 07-27 STAR
   Market listing on track.
-  ([SCMP](https://www.scmp.com/tech/article/3360892/chinese-memory-giant-cxmt-oversubscribed-212-times-mega-shanghai-ipo)) ⟨daily 2026-07-22⟩
+  ([SCMP](https://www.scmp.com/tech/article/3360892/chinese-memory-giant-cxmt-oversubscribed-212-times-mega-shanghai-ipo))
 
 ## ← Backstory (crawl 2026-07-22 → artifacts/findings/cxmt-memory-ipo-2026-07-22.md)
 
@@ -156,7 +156,7 @@ blurb: Up-to-$9.8B STAR Market listing (allotment 07-22, lists 07-27) funding Ch
   DeepSeek) bid for 12.55B shares.** Six banks split ~$41M in fees —
   0.48% vs the 4.52% A-share average.
   ([SCMP](https://www.scmp.com/tech/article/3360892/chinese-memory-giant-cxmt-oversubscribed-212-times-mega-shanghai-ipo) ·
-  [DealStreetAsia](https://www.dealstreetasia.com/stories/chinese-banks-cxmt-ipo-489355)) ⟨crawl 2026-07-22⟩
+  [DealStreetAsia](https://www.dealstreetasia.com/stories/chinese-banks-cxmt-ipo-489355))
 
 ## 2026-07-13→15 — Pricing at ~$85B, state-built
 
@@ -164,7 +164,7 @@ blurb: Up-to-$9.8B STAR Market listing (allotment 07-22, lists 07-27) funding Ch
   biggest-ever Chinese A-share semiconductor IPO (past SMIC 2020).
   Pre-IPO state ownership 36.29% (Anhui + the Big Fund); prospectus filed
   07-15 showing Micron/Samsung alumni in leadership.
-  ([Korea Herald](https://www.koreaherald.com/article/10812818)) ⟨crawl 2026-07-22⟩
+  ([Korea Herald](https://www.koreaherald.com/article/10812818))
 
 ## Context — what the raise races against
 
@@ -175,4 +175,4 @@ blurb: Up-to-$9.8B STAR Market listing (allotment 07-22, lists 07-27) funding Ch
   needs primary confirmation. Dell/HP/Lenovo/Apple reportedly locking
   supply through 2027 (low-confidence).
   ([Korea Herald](https://www.koreaherald.com/article/10812818) ·
-  [The Register](https://www.theregister.com/systems/2026/07/17/chinese-memory-ban-would-cut-off-rampocalypse-relief/5273993)) ⟨crawl 2026-07-22⟩
+  [The Register](https://www.theregister.com/systems/2026/07/17/chinese-memory-ban-would-cut-off-rampocalypse-relief/5273993))

@@ -18,7 +18,7 @@ blurb: Microsoft shipped 7 in-house MAI models and says it was "set free" from t
   genuine independence or a hedge.
 ---
 
-## 2026-07-27 — First vertical MAI model ⟨daily 2026-07-28⟩
+## 2026-07-27 — First vertical MAI model
 
 - **Microsoft launched MAI-Cyber-1-Flash + "Project Perception"** — its
   first in-house model built for cyber workflows, an agentic security
@@ -33,7 +33,7 @@ blurb: Microsoft shipped 7 in-house MAI models and says it was "set free" from t
 - **Microsoft expanded its Mistral partnership** — frontier Mistral models
   deployable in fully disconnected Azure environments for regulated
   industries; a fourth leg of the multi-supplier hedge.
-  ([Microsoft Source](https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/)) ⟨daily 2026-07-21⟩
+  ([Microsoft Source](https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/))
 
 ## ← Backstory
 
@@ -42,4 +42,4 @@ blurb: Microsoft shipped 7 in-house MAI models and says it was "set free" from t
 - **Microsoft shipped 7 in-house MAI models**, saying it was "set free"
   from the OpenAI contract to pursue superintelligence — the most
   important giant-vs-lab decoupling; a three-way hedge
-  (OpenAI/Anthropic/in-house). ⟨seed 2026-07-22⟩
+  (OpenAI/Anthropic/in-house).

@@ -23,29 +23,28 @@ blurb: 'The Grok line closing the frontier gap as a FAST FOLLOWER, not mid-pack 
 
 - **Grok 4.6 did not ship this week**, its unofficial target (a single
   Musk X reply, 07-24: "in two weeks"); no outlet reports the model
-  accessible or benchmarked. `upcoming.yaml`'s `grok-4-6-ship` (due
-  08-07, week-precision) flips to passed-silent. ⟨daily 2026-08-07⟩
+  accessible or benchmarked. upcoming.yaml's grok-4-6-ship (due
+  08-07, week-precision) flips to passed-silent.
 - **xAI shipped Grok Imagine Image 2.0**, an image-generation update xAI
   says ranks second in Arena benchmarks behind OpenAI's GPT-Image-2 —
   incremental product news, not a Grok 5/4.7 milestone.
-  ⟨daily 2026-08-07⟩
 - 💡 **Not verified as a signed deal**: SemiAnalysis published an analyst
   projection that SpaceX could reach ~10GW of AI compute by end-2027
   (modeled ~$300B ARR) with Microsoft as its largest offtaker, including a
   reported ~3GW/~$150B deal "in talks." This is analyst modeling plus an
   unconfirmed in-talks report, not a signed contract — flagged for the
-  thread, not stated as fact. Cross-refs `spacex-colossus`.
-  ([SemiAnalysis](https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real)) ⟨daily 2026-08-07⟩
+  thread, not stated as fact. Cross-refs [Colossus](/threads/spacex-colossus/).
+  ([SemiAnalysis](https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real))
 
 ## 2026-07-24 — Opened + crawled
 
-- **Thread opened** (ben-steer). ⟨steer 2026-07-24⟩
+- **Thread opened** (ben-steer).
 - **Verdict: Grok is genuinely closing the gap, not mid-pack — but as a
   fast follower, not the leader.** Grok 4.5 posted the biggest
   single-generation leap on the Artificial Analysis Intelligence Index
   (38→54, landing 4th at launch), strong on coding and price, but trails on
   peak intelligence and has a serious factuality gap. Two of our working
-  facts were wrong (corrected below). ⟨crawl 2026-07-24⟩
+  facts were wrong (corrected below).
 
 ## ← Backstory (crawl 2026-07-24 → artifacts/findings/grok-frontier-2026-07-24.md)
 
@@ -57,10 +56,10 @@ blurb: 'The Grok line closing the frontier gap as a FAST FOLLOWER, not mid-pack 
   GPT-5.5). Corrects our seed facts — it is **not ~9th, and coding is a
   strength; the real weakness is factuality (~54% hallucination on
   AA-Omniscience).**
-  ([OpenRouter](https://openrouter.ai/x-ai/grok-4.5)) ⟨crawl 2026-07-24⟩
+  ([OpenRouter](https://openrouter.ai/x-ai/grok-4.5))
 - **OpenAI shipped GPT-5.6 (Sol/Terra/Luna) 07-09**, one day later, re-topping
   the board and likely bumping Grok to ~5th.
-  ([OpenAI](https://openai.com/index/gpt-5-6/)) ⟨crawl 2026-07-24⟩
+  ([OpenAI](https://openai.com/index/gpt-5-6/))
 
 ## 2026-06-16 — The $60B coding bet
 
@@ -68,7 +67,7 @@ blurb: 'The Grok line closing the frontier gap as a FAST FOLLOWER, not mid-pack 
   startup acquisition ever, arming Grok's coding stack (Grok 4.5 was
   co-trained on Cursor data). ⚠ Well-sourced (CNBC/TechCrunch/Forbes) but a
   dedicated financing crawl rated the sourcing thinner — track for a filing.
-  ([CNBC](https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html)) ⟨crawl 2026-07-24⟩
+  ([CNBC](https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html))
 
 ## 2026-01-28 — Grok 5 begins training
 
@@ -77,7 +76,6 @@ blurb: 'The Grok line closing the frontier gap as a FAST FOLLOWER, not mid-pack 
   date has slipped Q1→Q2→Q3+ 2026; only the *training* is confirmed, specs
   are rumored.
   <!-- k: cross-refs spacex-colossus -->
-  ⟨crawl 2026-07-24⟩
 
 ## 2025-07-09 → 2026 — The arc that got it here
 
@@ -87,4 +85,4 @@ blurb: 'The Grok line closing the frontier gap as a FAST FOLLOWER, not mid-pack 
   (04-30-2026, 1M context, cut to $1.25/$2.50) before 4.5. The distinctive
   moat throughout: real-time X-timeline data no rival has, plus Tesla
   in-car distribution ("Hey Grok").
-  ([Wikipedia](https://en.wikipedia.org/wiki/Grok_(chatbot))) ⟨crawl 2026-07-24⟩
+  ([Wikipedia](https://en.wikipedia.org/wiki/Grok_(chatbot)))

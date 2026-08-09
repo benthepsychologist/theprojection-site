@@ -20,13 +20,13 @@ blurb: 'Is the tape turning against the AI trade as a whole? Distinct from the c
 - **The iShares Semiconductor ETF (SOXX) fell 22.1% in July, its worst
   month since December 2002 (−23.3%), while still holding +67.7%
   year-to-date.**
-  ([CNBC](https://www.cnbc.com/2026/07/28/chip-stocks-head-for-one-of-their-worst-months-ever-is-it-the-end.html)) ⟨daily 2026-08-01⟩
+  ([CNBC](https://www.cnbc.com/2026/07/28/chip-stocks-head-for-one-of-their-worst-months-ever-is-it-the-end.html))
 - **The S&P 500 posted its first negative July since 2014** — outlets
   confirmed the direction but none gave a precise monthly percentage, so
   the magnitude is recorded as slight and unquantified.
-  ([Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-friday-july-31-dow-sp-500-nasdaq-081227738.html)) ⟨daily 2026-08-01⟩
+  ([Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-friday-july-31-dow-sp-500-nasdaq-081227738.html))
 - **This map had no record of the SOXX figure at all, which is the
-  cleanest single number on the rotation thesis it has been tracking.** ⟨daily 2026-08-01⟩
+  cleanest single number on the rotation thesis it has been tracking.**
 
 ## 2026-07-31 — July closes with the AI complex carrying the month's losses almost alone
 
@@ -37,19 +37,19 @@ blurb: 'Is the tape turning against the AI trade as a whole? Distinct from the c
   the AI complex rather than distributed across the market, which is this
   thread's whole question stated as one figure. Deltas computed from index
   levels directly and cross-checked against independently stated monthly
-  percentages. ⟨daily 2026-07-31⟩
+  percentages.
 - **Friday itself closed higher — S&P 7,489.72 (+0.70%), Nasdaq
   25,373.85 (+1.00%), Dow 52,485.03 (+0.53%)** — but on single-name
   earnings (Amazon +15.3%, Apple -7.4%) rather than a chip-led bid; the
   AI/semi complex was mixed, not uniformly rallying. A strong last
   session only partly repaired the month.
-  ([Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-friday-july-31-dow-sp-500-nasdaq-081227738.html)) ⟨daily 2026-07-31⟩
+  ([Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-friday-july-31-dow-sp-500-nasdaq-081227738.html))
 - **Micron fell 4.3-6.0%**, tied to forced-liquidation selling out of the
-  Situational Awareness unwind (see `ai-circular-financing-risk`) and
+  Situational Awareness unwind (see [Circular Financing](/threads/ai-circular-financing-risk/)) and
   Michael Burry adding to a short — a direct, traceable line from one
   leveraged fund's failure into a specific name's tape. ⚠ Friday closes
   for Nvidia, AMD and TSMC could not be verified and are deliberately
-  omitted rather than approximated. ⟨daily 2026-07-31⟩
+  omitted rather than approximated.
 
 ## 2026-07-30 (overnight) — The four prints landed: rewarded for returns, punished for the bet
 
@@ -57,47 +57,47 @@ blurb: 'Is the tape turning against the AI trade as a whole? Distinct from the c
   Azure crosses $100B annualized, cloud growth accelerated to its
   fastest since 2022, Copilot paid seats hit 30M; Q4 AI-infra capex hit
   ~$41B, full-year capex guidance held steady. Rewarded for capex with
-  visible cloud-revenue conversion. ⟨daily 2026-07-30⟩
+  visible cloud-revenue conversion.
 - **Meta: revenue +28% to $60.8B, but free cash flow collapsed 91% to
   $784M**, stock fell ~10% — Q2 AI capex alone was $31.1B, and Meta
   raised the LOW end of full-year capex guidance. Punished for capex
-  without a near-term return story. ⟨daily 2026-07-30⟩
+  without a near-term return story.
 - **Qualcomm: EPS missed by $0.02 despite a revenue beat**, guided to a
   faster Apple-modem revenue decline, announced a Sept-1 price hike tied
   to memory-cost inflation. Grouped by outlets with Arm as the two
   "outlooks rattle markets" prints of the night (Arm's own result:
   beat-and-raise, stock fell further on the smartphone-royalty guidance
-  cut — full detail in `arm-royalty-regime`). ⟨daily 2026-07-30⟩
+  cut — full detail in [Arm Royalty Regime](/threads/arm-royalty-regime/)).
 - **The verdict, stated plainly:** hyperscaler capex with visible
   cloud-revenue conversion (Microsoft) got bought; capex framed as a bet
   without near-term return (Meta) and legacy/smartphone-exposed chip
   revenue (Qualcomm, Arm) got sold. The bifurcation this thread's
   "AI-specific vs. macro" watch predicted — not a clean turn, not a clean
-  relief rally. ⟨daily 2026-07-30⟩
+  relief rally.
 - **Macro crosscurrent stacked on top:** Fed Chair Kevin Warsh's
   credibility was publicly questioned after Tuesday's 9-3 split vote; oil
   back above $90 on the widening Iran conflict — both pulling on the same
-  tape as the earnings verdicts. ⟨daily 2026-07-30⟩
+  tape as the earnings verdicts.
 
 ## 2026-07-29 — FOMC holds 9-3, dissents replace unanimity, credit leg eases
 
 - **The Fed held at 3.50%-3.75% on a 9-3 vote, with three dissents for a
   quarter-point hike — Hammack, Kashkari and Logan** — six weeks after a
   unanimous 12-0 decision.
-  ([Federal Reserve](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm)) ⟨daily 2026-07-29⟩
+  ([Federal Reserve](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm))
 - **The statement's language barely moved from June; the committee did.**
   The descriptive text is essentially unchanged — the split is in the
-  votes, not the prose. ⟨daily 2026-07-29⟩
+  votes, not the prose.
 - **The Dow fell roughly 800 points into the close**, ahead of the
   decision and four major earnings prints.
-  ([TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-29-2026stock-market-today-july-29-2026)) ⟨daily 2026-07-29⟩
+  ([TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-29-2026stock-market-today-july-29-2026))
 - **Nvidia fell about 2.1% intraday on the standing $250B guarantee
-  reports**, not any new disclosure — old news repricing again. ⟨daily 2026-07-29⟩
+  reports**, not any new disclosure — old news repricing again.
 - **The bear turn's credit leg eased today rather than extended** — the
   pressure rotated to Oracle instead of Nvidia — and tonight's four
-  prints are the real test of whether this was a pause or a turn. ⟨daily 2026-07-29⟩
+  prints are the real test of whether this was a pause or a turn.
 
-## 2026-07-28 (overnight) — Korea rallies on the print, then breaks again ⟨daily 2026-07-28⟩
+## 2026-07-28 (overnight) — Korea rallies on the print, then breaks again
 
 - **The second circuit breaker in two sessions — this time after good
   news.** The 07-29 KST session opened **+1.1%**, ran to **+2.76%
@@ -105,28 +105,28 @@ blurb: 'Is the tape turning against the AI trade as a whole? Distinct from the c
   to an intraday **−12.63% (5,262.77)**, tripping a Level-1 breaker at
   **12:32pm KST**, and closed **5,663.24, ~−6%**. SK Hynix itself:
   **+3.74% → −9.61% (1,401,000 won)**; Samsung **+4.55% → −5.23%**.
-  ([Korea Herald](https://www.koreaherald.com/article/10824514)) ⟨daily 2026-07-28⟩
+  ([Korea Herald](https://www.koreaherald.com/article/10824514))
 - **That is the sharper version of this thread's thesis.** A market that
   cannot hold a bid for three hours on the best operating quarter in its
   lead company's history is not repricing earnings — it is repricing the
   *durability* of the earnings. The bear turn's Asia leg no longer needs
-  bad news to fire. ⟨daily 2026-07-28⟩
+  bad news to fire.
 - **The divergence says it is a chip event, not regional risk-off:**
   Nikkei **−1.49% (61,434.19)** but Hang Seng **+1.8% (25,762.80)**.
   US tape the same day: AMD ~−10%, Micron **−8.85% ($820.53)**, SOX −6%
   in a **fourth straight losing session**, Nasdaq-100 **9.7% off its
-  record**. ⟨daily 2026-07-28⟩
+  record**.
 - **⚠ NVDA date corrected:** the **−5% was 07-27**, not 07-28 (07-28
   closed **+0.25%, $197.01**, after a ~2% intraday dip). The
   US leg of this thread is a **credit/equity divergence**, not a
-  synchronized break — see `nvidia-vendor-financing`.
-  ([stockanalysis.com](https://stockanalysis.com/stocks/nvda/history/)) ⟨daily 2026-07-28⟩
+  synchronized break — see [Nvidia as Lender](/threads/nvidia-vendor-financing/).
+  ([stockanalysis.com](https://stockanalysis.com/stocks/nvda/history/))
 - **Counterpoint kept on the record:** Q3 DRAM contracts reportedly
   settling **20-30% higher** this month, and analyst framing that "the
   panic appears to be indiscriminate." The tape and the contracts are
-  pointing opposite ways. ⟨daily 2026-07-28⟩
+  pointing opposite ways.
 
-## 2026-07-28 (close) — the loud-no faded by the bell ⟨daily 2026-07-28⟩
+## 2026-07-28 (close) — the loud-no faded by the bell
 
 - **NVDA closed +0.3% ($197.01)** — the −5% morning move on the record
   CDS widening fully reversed intraday. The day's bear signal was a
@@ -151,22 +151,21 @@ blurb: 'Is the tape turning against the AI trade as a whole? Distinct from the c
   07-21, but consensus still points to a HOLD tomorrow with odds shifting
   to a September hike instead (77% per one prediction-market read). See
   the FOMC brief for detail.
-  ⟨daily 2026-07-28⟩
 
-## 2026-07-28 — Circuit breakers ⟨daily 2026-07-28⟩
+## 2026-07-28 — Circuit breakers
 
 - **Korea's session closed −10–11% with circuit breakers triggered** — SK
   Hynix below $140 into its own earnings; NVDA −5% + record CDS move the
   same day. Both legs of the turn fired at once, the day before FOMC.
 
-## 2026-07-28 — The Seoul leg ⟨crawl 2026-07-28⟩
+## 2026-07-28 — The Seoul leg
 
 - **The turn went global: KOSPI −10.84% ("Black Tuesday"), SK Hynix
   −14.65%** — triggered by CXMT's debut rather than US capex anxiety, but
   the same repricing impulse. The bear-turn now has US (index bear
   territory, NVDA CDS) and Asia (Seoul) legs in the same week.
 
-## 2026-07-27 — Opened ⟨steer 2026-07-27⟩
+## 2026-07-27 — Opened
 
 - **The AI-heavy index slid into bear-market territory** (IBD); ASML
   plunged on China news; NVDA −4% on its own guarantee. Running tally into

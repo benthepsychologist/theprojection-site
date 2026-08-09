@@ -29,7 +29,7 @@ blurb: The grid is the binding constraint (not chips) — interconnection queues
   "supports Department of War operations." Escalates this thread's
   already-logged DOJ national-security shield into a precedent fight
   that could outlive this specific case.
-  ([Fortune](https://fortune.com/2026/08/08/lazarus-26-years-citizen-suits-musk-xai/), [Earthjustice](https://earthjustice.org/press/2026/trump-administration-attempts-massive-power-grab-in-defense-of-musks-xai)) ⟨daily 2026-08-08⟩
+  ([Fortune](https://fortune.com/2026/08/08/lazarus-26-years-citizen-suits-musk-xai/), [Earthjustice](https://earthjustice.org/press/2026/trump-administration-attempts-massive-power-grab-in-defense-of-musks-xai))
 
 ## 2026-08-07 — Trump publicly calls the Texas pause "a mistake"
 
@@ -41,8 +41,8 @@ blurb: The grid is the binding constraint (not chips) — interconnection queues
   fight — pulls what had been a state-level grid/water dispute into
   national politics. Same interview, Trump separately said Congress
   wants to regulate AI "out of business" (logged on
-  `frontier-model-gov-review-precedent`).
-  ([Texas Tribune](https://www.texastribune.org/2026/08/07/donald-trump-texas-data-centers-greg-abbott/)) ⟨daily 2026-08-07⟩
+  [Frontier Gatekeeping](/threads/frontier-model-gov-review-precedent/)).
+  ([Texas Tribune](https://www.texastribune.org/2026/08/07/donald-trump-texas-data-centers-greg-abbott/))
 
 ## 2026-08-05 — PJM's answer to the same-week Texas freeze: bring your own power or get cut off
 
@@ -57,29 +57,28 @@ blurb: The grid is the binding constraint (not chips) — interconnection queues
   Trigger: capacity-auction costs hit $16.4B in the June auction, data
   centers were 38% of that, and PJM projects 30-34GW of new data-center
   demand by the early 2030s.
-  ([Canary Media](https://www.canarymedia.com/articles/data-centers/pjm-data-center-plan)) ⟨daily 2026-08-05⟩
+  ([Canary Media](https://www.canarymedia.com/articles/data-centers/pjm-data-center-plan))
 - **Filed alongside a separate, more immediate fix: a one-time "backstop"
   capacity auction**, submitted to FERC 2026-07-31, running 2026-09-30 to
   2026-10-21, to plug a 6.8GW shortfall from PJM's last base auction —
   can procure up to $20B in new generation capacity through 2027.
-  ([Utility Dive](https://www.utilitydive.com/news/pjm-backstop-capacity-auction-ferc-data-centers/826792/)) ⟨daily 2026-08-05⟩
+  ([Utility Dive](https://www.utilitydive.com/news/pjm-backstop-capacity-auction-ferc-data-centers/826792/))
 - 💡 **This thread went quiet 07-25 on the "equipment ceiling + DOJ
   shield" verdict; the story has moved from equipment scarcity to grid
   governance.** PJM is now doing structurally what Texas's PUCT/ERCOT
-  freeze did procedurally the same week (see `ai-power-buildout` and
-  `where-the-capex-lands`) — pushing the risk of an unbuilt or
+  freeze did procedurally the same week (see [Power Buildout](/threads/ai-power-buildout/) and
+  [Where the Capex Lands](/threads/where-the-capex-lands/)) — pushing the risk of an unbuilt or
   under-powered site back onto the developer instead of the ratepayer.
-  ⟨daily 2026-08-05⟩
 
 ## 2026-07-24 — Opened + crawled
 
-- **Thread opened** (ben-steer). ⟨steer 2026-07-24⟩
+- **Thread opened** (ben-steer).
 - **Verdict: severe, worsening, multi-dimensional — power is the gating
   factor.** The defining escalation is legal-political: the DOJ now invokes
   national security to keep unpermitted turbines running against a citizen
   Clean Air Act suit — the improvisation has outrun the regulatory system.
   ⚠ WebSearch budget exhausted (fan-out) — flagship + high-value claims
-  re-verified via fetch; some figures RSS-only, flagged. ⟨crawl 2026-07-24⟩
+  re-verified via fetch; some figures RSS-only, flagged.
 
 ## ← Backstory (crawl 2026-07-24 → artifacts/findings/datacenter-power-grid-2026-07-24.md)
 
@@ -91,7 +90,7 @@ blurb: The grid is the binding constraint (not chips) — interconnection queues
   **data centers drove 38% of the latest capacity-auction charges (46%
   across four auctions)**; the 2028/29 auction cleared at the $325/MW-day
   price cap; FERC's chair warned PJM faces a "grave legitimacy crisis."
-  ([GE Vernova](https://www.gevernova.com)) ⟨crawl 2026-07-24⟩
+  ([GE Vernova](https://www.gevernova.com))
 
 ## 2026-06-16 — The DOJ national-security shield
 
@@ -100,8 +99,8 @@ blurb: The grid is the binding constraint (not chips) — interconnection queues
   Southaven turbines threatens security because Grok "supports Department
   of War operations" (a DoD official called Grok "paramount national
   security," citing the Iran strikes). Converts an environmental-permitting
-  fight into a federal-power question. Cross-refs `spacex-colossus`.
-  ([NYT](https://www.nytimes.com/2026/06/16/climate/)) ⟨crawl 2026-07-24⟩
+  fight into a federal-power question. Cross-refs [Colossus](/threads/spacex-colossus/).
+  ([NYT](https://www.nytimes.com/2026/06/16/climate/))
 
 ## 2026-04 — Improvising around the grid, at scale
 
@@ -110,14 +109,14 @@ blurb: The grid is the binding constraint (not chips) — interconnection queues
   Earthjustice sued xAI** over 27 unpermitted methane turbines (~495 MW,
   alleged 1,700+ t/yr NOx) at Southaven — "a de facto power plant without
   an air permit," in a historically Black neighborhood leading TN in asthma.
-  ([Earthjustice](https://earthjustice.org)) ⟨crawl 2026-07-24⟩
+  ([Earthjustice](https://earthjustice.org))
 
 ## 2026-01 — EPA: the turbines ran illegally
 
 - **EPA ruled xAI's Memphis turbines ran illegally** under a bogus
   "temporary" exemption — 35 operated, only 15 permitted. Memphis is really
   two braided sites: Colossus 1 (Boxtown, TN) + Colossus 2 (Southaven, MS).
-  ([TechCrunch](https://techcrunch.com/2026/01/16/epa-rules-that-xais-natural-gas-generators-were-illegally-used/)) ⟨crawl 2026-07-24⟩
+  ([TechCrunch](https://techcrunch.com/2026/01/16/epa-rules-that-xais-natural-gas-generators-were-illegally-used/))
 
 ## Backstory — the queue + the equipment wall
 
@@ -126,4 +125,4 @@ blurb: The grid is the binding constraint (not chips) — interconnection queues
   projected a 30% transformer supply deficit; AEP Ohio's landmark
   data-center tariff (07-2025) is the template other states now copy
   (make data centers pay for their minimum contracted power). ⚠ ERCOT
-  438GW + transformer figures RSS/secondary-sourced. ⟨crawl 2026-07-24⟩
+  438GW + transformer figures RSS/secondary-sourced.

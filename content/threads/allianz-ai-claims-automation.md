@@ -28,9 +28,9 @@ blurb: 'Allianz ranked #1 on the 2026 Evident AI Index for Insurance and signed 
   first time this thread has a hard financial figure for what displacing
   legacy claims systems with the Anthropic-built agentic stack actually
   costs, not just what it's expected to save.
-  ([RTE](https://www.rte.ie/news/business/2026/0807/1586884-allianz-quarterly-results/), [ad-hoc-news](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/allianz-s-record-operating-profit-collides-with-a-sharper-focus-on-the/69927072)) ⟨daily 2026-08-07⟩
+  ([RTE](https://www.rte.ie/news/business/2026/0807/1586884-allianz-quarterly-results/), [ad-hoc-news](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/allianz-s-record-operating-profit-collides-with-a-sharper-focus-on-the/69927072))
 
-## 2026-08-04 — Thread opened + crawled ⟨crawl 2026-08-04⟩
+## 2026-08-04 — Thread opened + crawled
 
 - **Opened following a board-pass audit that found the entire insurance
   pocket with zero live thread coverage.** Allianz wasn't one of the two
@@ -41,7 +41,7 @@ blurb: 'Allianz ranked #1 on the 2026 Evident AI Index for Insurance and signed 
   of 30 other global insurers, citing 900+ registered internal AI use
   cases and an AI talent pool "28% larger than the next strongest
   performer."
-  ([Allianz](https://www.allianz.com/en/mediacenter/news/articles/260616-allianz-ranked-first-in-2026-evident-ai-Index-for-insurance.html), 2026-06-16) ⟨crawl 2026-08-04⟩
+  ([Allianz](https://www.allianz.com/en/mediacenter/news/articles/260616-allianz-ranked-first-in-2026-evident-ai-Index-for-insurance.html), 2026-06-16)
 - **A formal global partnership with Anthropic, announced 2026-01-09** —
   independently re-fetched and confirmed directly against Allianz's own
   press release: Claude models become free to all Allianz employees
@@ -50,20 +50,19 @@ blurb: 'Allianz ranked #1 on the 2026 Evident AI Index for Insurance and signed 
   and health insurance claims with human-in-the-loop oversight on
   sensitive/complex cases; Model Context Protocol used for secure data
   integration. Reportedly Anthropic's first major enterprise deal of 2026.
-  ([Allianz](https://www.allianz.com/en/mediacenter/news/media-releases/260109-allianz-and-anthropic-forge-global-partnership.html)) ⟨crawl 2026-08-04⟩
+  ([Allianz](https://www.allianz.com/en/mediacenter/news/media-releases/260109-allianz-and-anthropic-forge-global-partnership.html))
 - **Project Nemo, an agentic claims system using seven specialized AI
   agents, went live in Australia in July 2025**; by November 2025 it was
   settling small food-spoilage claims (under AUD $500) in minutes instead
   of days — roughly 80% faster — with a human retaining final payout
-  authority. ⟨crawl 2026-08-04⟩
+  authority.
 - **AllianzGPT**, an internal generative-AI platform on Microsoft Azure
   (launched 2023, offering GPT-4o/DALL-E/DeepSeek access), had grown to
   60,000+ active users and 10M+ prompts by February 2025 — dated context
   for the scale Allianz's AI push already operated at before this year's
-  headline moves. ⟨crawl 2026-08-04⟩
+  headline moves.
 - No US-style state regulatory scrutiny of AI claims/underwriting found
   against Allianz specifically — its regulatory exposure runs through
   EU/Solvency-II channels, not US state insurance regulators.
-  ⟨crawl 2026-08-04⟩
 
 ## ← Backstory

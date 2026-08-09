@@ -18,12 +18,12 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
 
 ## 2026-08-07 — Opened (ben-steer)
 
-- **Opened as a dedicated child thread of `mh-evidence-watch`**, seeded
+- **Opened as a dedicated child thread of [What Works](/threads/mh-evidence-watch/)**, seeded
   from the EBP digital/AI-science research crawl. Distinct from
-  `meta-ai-csam-ads` (platform/ad-system liability) — this thread tracks
+  [CSAM Ads](/threads/meta-ai-csam-ads/) (platform/ad-system liability) — this thread tracks
   the evidence fight over whether social media causally harms adolescent
   mental health, not a specific platform-liability incident.
-  (EBP digital/AI-science crawl, 2026-08-07) ⟨steer 2026-08-07⟩
+  (EBP digital/AI-science crawl, 2026-08-07)
 
 ## 2026-08-07 — Four months on, still no published reply to the Haidt-camp rebuttal
 
@@ -35,7 +35,7 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
   unanswered.
   ([SAGE](https://journals.sagepub.com/doi/10.1177/21677026261425910),
   [Platformer](https://www.platformer.news/social-media-bans-candice-odgers-haidt/))
-  (wave: mh-q08) ⟨daily 2026-08-07⟩
+  (wave: mh-q08)
 
 ## 2026-08-03 — A new matched-comparison US study also lands null on school phone bans
 
@@ -47,7 +47,7 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
   genuine methodological upgrade that lands in the same place as the
   existing null studies below.
   ([ProMarket](https://www.promarket.org/2026/08/03/school-smartphone-bans-show-no-effect-on-youth-mental-health/))
-  (wave: mh-q08) ⟨daily 2026-08-07⟩
+  (wave: mh-q08)
 
 ## 2026-06 — US age-verification litigation becomes a genuine circuit split, trending toward the Supreme Court
 
@@ -65,7 +65,7 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
   running only loosely coupled to the causality debate itself.
   ([Bloomberg Law](https://news.bloomberglaw.com/litigation/state-age-verification-law-rulings-leave-trail-of-uncertainty),
   [BiometricUpdate](https://www.biometricupdate.com/202603/court-signals-netchoice-faces-tougher-road-on-age-check-laws))
-  (wave: mh-q08) ⟨daily 2026-08-07⟩
+  (wave: mh-q08)
 
 ## 2026-06 — Australia doubles penalties and expands enforcement power; evasion holds near 85%
 
@@ -83,7 +83,7 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
   direction.
   ([Fortune](https://fortune.com/2026/06/27/australia-enforcement-under-16-social-media-ban-fines-maximum-penalties/),
   [JURIST](https://www.jurist.org/news/2026/06/australia-moves-to-strengthen-under-16-social-media-ban-amid-evidence-of-enforcement-concerns/))
-  (wave: mh-q08) ⟨daily 2026-08-07⟩
+  (wave: mh-q08)
 
 ## 2026-06 — Australia's under-16 ban: ~80% still accessing banned platforms at 3 months
 
@@ -95,7 +95,7 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
   age-verification tech "private, robust and effective." An independent
   early academic assessment (University of Newcastle) found "insufficient
   evidence of any substantive early effects."
-  ([The National](https://www.thenationalnews.com/future/technology/2026/06/25/age-verification-flaws-undermine-australias-social-media-ban-for-under-16s/)) ⟨steer 2026-08-07⟩
+  ([The National](https://www.thenationalnews.com/future/technology/2026/06/25/age-verification-flaws-undermine-australias-social-media-ban-for-under-16s/))
 
 ## 2026 — A large within-person UK panel study also lands null on social media and mental health
 
@@ -109,7 +109,7 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
   and it reinforces the skeptic camp with better methodology than most of
   the pro-causation literature currently has behind it.
   ([Journal of Public Health / Oxford Academic](https://academic.oup.com/jpubhealth/article/48/1/59/8371934))
-  (wave: mh-q08) ⟨daily 2026-08-07⟩
+  (wave: mh-q08)
 
 ## 2026 — A fresh rebuttal shows the fight is still live, not settling
 
@@ -119,14 +119,14 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
   publishing new critiques of each other's flagship evidence as of this
   year, not converging. Month of publication not specified in the
   underlying crawl.
-  ([SAGE](https://journals.sagepub.com/doi/10.1177/21677026261425910)) ⟨steer 2026-08-07⟩
+  ([SAGE](https://journals.sagepub.com/doi/10.1177/21677026261425910))
 
 ## 2025-12 — Australia's under-16 social media ban takes effect
 
 - **Australia's under-16 social-media ban took effect December 10, 2025**
   — the world's first national law of its kind, and the single most
   important live test of whether legislation can fix what the causality
-  debate can't resolve. ⟨steer 2026-08-07⟩
+  debate can't resolve.
 
 ## 2025 — The youth mental-health trend line is more ambiguous than either camp's framing suggests
 
@@ -142,7 +142,7 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
   public framing currently reflects this divergence; CDC's next YRBS wave
   (2025 data) is the concrete milestone to watch.
   ([CDC YRBS](https://www.cdc.gov/yrbs/dstr/index.html))
-  (wave: mh-q08) ⟨daily 2026-08-07⟩
+  (wave: mh-q08)
 
 ## 2025-02 — School phone bans: real academic gains, null mental-health effects
 
@@ -154,7 +154,7 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
   exposure barely moved even where in-school behavior clearly did — the
   academic and mental-health claims are being cited as one finding when
   the evidence says they're two separate ones.
-  ([ScienceDaily](https://www.sciencedaily.com/releases/2025/02/250205131611.htm)) ⟨steer 2026-08-07⟩
+  ([ScienceDaily](https://www.sciencedaily.com/releases/2025/02/250205131611.htm))
 
 ## 2025 — NBER: no clear wellbeing improvement from school phone bans
 
@@ -163,7 +163,7 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
   wellbeing from the policy** — corroborating the null mental-health
   finding above from a separate dataset. Exact month within 2025/2026 not
   specified in the underlying crawl.
-  ([NBER](https://www.nber.org/papers/w35181)) ⟨steer 2026-08-07⟩
+  ([NBER](https://www.nber.org/papers/w35181))
 
 ## 2025 — Sapien Labs: n≈28,000, earlier smartphone age correlates with worse adult wellbeing
 
@@ -176,7 +176,7 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
   cross-cultural, but still self-report and correlational, and run by an
   advocacy-adjacent tracking organization rather than an independent
   academic RCT — flag carried forward from the source crawl.
-  ([Sapien Labs](https://sapienlabs.org/age-of-first-smartphone-tablet-and-mental-wellbeing-outcomes/)) ⟨steer 2026-08-07⟩
+  ([Sapien Labs](https://sapienlabs.org/age-of-first-smartphone-tablet-and-mental-wellbeing-outcomes/))
 
 ## 2024 — ABCD Study: no evidence of drastic tech-linked change
 
@@ -184,7 +184,7 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
   US longitudinal youth brain-development study — found no evidence of
   drastic changes associated with digital-technology use**, a heavyweight
   null/small-effect data point on the skeptic side of the debate.
-  ([Nature](https://www.nature.com/articles/d41586-024-00902-2)) ⟨steer 2026-08-07⟩
+  ([Nature](https://www.nature.com/articles/d41586-024-00902-2))
 
 ## 2023 — Vuorre & Przybylski: 72-country study finds no evidence of widespread harm
 
@@ -195,7 +195,7 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
   credibility thresholds in every analysis. A companion piece extended
   the analysis into *Clinical Psychological Science* in 2024. This is the
   flagship evidence the 2026 rebuttal above directly challenges.
-  ([Royal Society Open Science](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10410217/)) ⟨steer 2026-08-07⟩
+  ([Royal Society Open Science](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10410217/))
 
 ## ← Backstory
 

@@ -28,11 +28,11 @@ blurb: 'Broadcom''s two tolls. ①The custom-ASIC co-design book — FIVE majors
   chip revenue down 20% in the quarter. A second serious bidder for the
   toll position this thread tracks, funding it explicitly rather than
   opportunistically.
-  ([The Star](https://www.thestar.com.my/tech/tech-news/2026/07/31/mediatek-plans-5-billion-financing-for-ai-data-center-chips)) ⟨daily 2026-07-31⟩
+  ([The Star](https://www.thestar.com.my/tech/tech-news/2026/07/31/mediatek-plans-5-billion-financing-for-ai-data-center-chips))
 
 ## 2026-07-25 — A new toll layer: Broadcom and Samsung sign a >$200B MOU through 2030
 
-<!-- DATE CORRECTED ⟨finalize 2026-08-01⟩: this block was previously dated
+<!-- DATE CORRECTED: this block was previously dated
      2026-07-30 and its text said the story "broke 07-28". Both were wrong.
      Verified against Samsung's own newsroom release, datelined July 25 and
      using "today announced" language; CNBC, Fortune and US News published
@@ -48,36 +48,36 @@ blurb: 'Broadcom''s two tolls. ①The custom-ASIC co-design book — FIVE majors
   in Q1), **Samsung Foundry** runs 2nm-and-below wafer manufacturing for
   Broadcom, and **advanced packaging** (2.3D/2.5D) is included rather than
   merely "expected to extend."
-  ([Samsung Global Newsroom, primary](https://news.samsung.com/global/samsung-electronics-and-broadcom-expand-strategic-collaboration-across-memory-and-foundry-technologies)) ⟨daily 2026-07-30, corrected 2026-08-01⟩
+  ([Samsung Global Newsroom, primary](https://news.samsung.com/global/samsung-electronics-and-broadcom-expand-strategic-collaboration-across-memory-and-foundry-technologies))
 - **A genuinely new toll layer**, distinct from the co-design customer
   book (Google/Meta/OpenAI/Apple/ByteDance): memory-supply lock-in plus a
   foundry hedge beyond TSMC-exclusivity. Cross-references
-  `ai-memory-shortage` (the HBM-cost driver) as much as this thread's own
-  ASIC-customer angle. ⟨daily 2026-07-30⟩
+  [Memory Squeeze](/threads/ai-memory-shortage/) (the HBM-cost driver) as much as this thread's own
+  ASIC-customer angle.
 
-## 2026-07-06/13 — Apple joins ⟨crawl 2026-07-28⟩
+## 2026-07-06/13 — Apple joins
 
 - **Apple confirmed as the fifth co-design customer — $30B through 2031**
   (8+ outlets converge).
 
-## 2026-06-24 — Jalapeño unveiled ⟨crawl 2026-07-28⟩
+## 2026-06-24 — Jalapeño unveiled
 
 - **OpenAI's Jalapeño went from rumor to unveiled product** (OpenAI
   newsroom): LLM-inference chip, gigawatt-scale target from 2026 — no
   tape-out/production date confirmed.
 
-## 2026-06-17/18 — The second toll litigated ⟨crawl 2026-07-28⟩
+## 2026-06-17/18 — The second toll litigated
 
 - **Tesco pulled 40,000 servers off VMware and sued for >£100M** — the
   licensing backlash became litigation; "VMware refugees" coverage
   continues through late July.
 
-## 2026-04-14 — Meta to 2029 ⟨crawl 2026-07-28⟩
+## 2026-04-14 — Meta to 2029
 
 - **Meta extended the MTIA co-design through 2029** (1GW+); **Hock Tan
   left Meta's board the same week** — resolving the optic.
 
-## 2025-12 → 2026-04 — The Google book ⟨crawl 2026-07-28⟩
+## 2025-12 → 2026-04 — The Google book
 
 - **A $21B Google TPU order** (Dec-25) plus **Anthropic's multi-gigawatt
   Google+Broadcom TPU expansion** (04-07/08).

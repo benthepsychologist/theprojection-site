@@ -20,25 +20,25 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
 - **Anthropic confidentially submitted a draft Form S-1 registration
   statement to the SEC on 2026-06-01**, announced by the company itself
   the same day.
-  ([Anthropic](https://www.anthropic.com/news/confidential-draft-s1-sec)) ⟨daily 2026-08-02⟩
+  ([Anthropic](https://www.anthropic.com/news/confidential-draft-s1-sec))
 - **The filing was covered on 06-01 by TechCrunch, Fortune (twice),
   PYMNTS, Fox Business and CNBC**; this map logged it on 2026-07-27 as a
   thin single-source rumor after a small aggregator restated it. The
-  recall failure was ours, not the sourcing's. ⟨daily 2026-08-02⟩
+  recall failure was ours, not the sourcing's.
 - **The ~$965B figure is the Series H funding-round valuation** (~$65B
   raised, closed late May), not an IPO price — Anthropic says share count
-  and price are not yet set. ⟨daily 2026-08-02⟩
+  and price are not yet set.
 - **The underwriter trio (Goldman Sachs, Morgan Stanley, JPMorgan), the
   06-03 selection date and the October-2026 target all trace to a single
   Bloomberg anonymously-sourced report** that other outlets re-reported;
   CNBC's own hedge is that October is "the earliest date under
   consideration" with nothing locked in. Nasdaq as the listing venue has
   no traceable source at all.
-  ([CNBC](https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html)) ⟨daily 2026-08-02⟩
+  ([CNBC](https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html))
 - **SEC EDGAR full-text search shows no public S-1 or S-1/A**, consistent
-  with confidential draft status. ⟨daily 2026-08-02⟩
+  with confidential draft status.
 
-## 2026-07-25 — Reported confidential filing ⟨daily 2026-07-25⟩
+## 2026-07-25 — Reported confidential filing
 
 - **Anthropic reportedly filed confidentially for an IPO at ~$965B**
   (single-source — Briefs Finance; thin, needs a second source), with an

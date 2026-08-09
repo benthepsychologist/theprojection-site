@@ -18,7 +18,7 @@ blurb: 'Fidelity''s mutual-fund complex (FMR) taking growing primary-market equi
   toward a 2027 listing).'
 ---
 
-## 2026-08-04 — Thread opened + crawled ⟨crawl 2026-08-04⟩
+## 2026-08-04 — Thread opened + crawled
 
 - **Opened following an asset-manager-pocket triage crawl** that checked
   Fidelity against BlackRock's peers State Street and Vanguard (both
@@ -34,7 +34,7 @@ blurb: 'Fidelity''s mutual-fund complex (FMR) taking growing primary-market equi
   Capital Group, Coatue, D1 Capital, GIC, ICONIQ, XN; Fidelity sat in
   the significant-investor tier alongside Blackstone, Brookfield, T.
   Rowe Price, and Temasek). Source: Anthropic's own release
-  (anthropic.com/news/series-h). ⟨crawl 2026-08-04⟩
+  (anthropic.com/news/series-h).
 - **OpenAI — smaller, but real and dated.** Fidelity holds ~$1.09B in
   OpenAI shares across 33 separate fund vehicles as of Q1 2026 — the
   third-largest fund sponsor by OpenAI exposure (behind Capital Group's
@@ -44,7 +44,7 @@ blurb: 'Fidelity''s mutual-fund complex (FMR) taking growing primary-market equi
   Company also participated as an additional investor in OpenAI's
   2026-03-31 round: $122B in committed capital at an $852B post-money
   valuation — the largest single private-market round on record at the
-  time. ⟨crawl 2026-08-04⟩
+  time.
 - **Context on how to read this.** Both labs are IPO-adjacent —
   Anthropic's bankers began investor roadshow meetings mid-July 2026,
   and OpenAI was reported in late June 2026 to be leaning toward
@@ -55,9 +55,9 @@ blurb: 'Fidelity''s mutual-fund complex (FMR) taking growing primary-market equi
   different kind of watchable risk than BlackRock's physical-asset
   position, and one that touches Fidelity's own retail fund-holders
   more directly (owned inside ordinary mutual funds, not a dedicated
-  alternatives vehicle). ⟨crawl 2026-08-04⟩
+  alternatives vehicle).
 - **Note on the Series H figure:** this round is the same one
-  `board.yaml`'s `pif` node's AI run-rate math doesn't yet capture —
+  board.yaml's pif node's AI run-rate math doesn't yet capture —
   flagged there separately as a candidate for a later axes refresh.
 
 ## ← Backstory

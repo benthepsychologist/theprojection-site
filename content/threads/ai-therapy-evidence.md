@@ -20,7 +20,7 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
 
 - **Opened as the science-track sibling to the existing courts/legislatures
   thread**, seeded from the EBP digital/AI-science research crawl. Parent:
-  `mh-evidence-watch`. (EBP digital/AI-science crawl, 2026-08-07) ⟨steer 2026-08-07⟩
+  [What Works](/threads/mh-evidence-watch/). (EBP digital/AI-science crawl, 2026-08-07)
 
 ## 2026-08-07 — Registry check: Therabot still has zero independent replication
 
@@ -31,7 +31,7 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   Therabot trial as of this check.
   ([ClinicalTrials.gov NCT06013137](https://clinicaltrials.gov/study/NCT06013137),
   [NCT06920238](https://clinicaltrials.gov/study/NCT06920238))
-  (wave: mh-q05) ⟨daily 2026-08-07⟩
+  (wave: mh-q05)
 
 ## 2026 — Wysa's own chief scientist co-publishes a null result on Wysa's core clinical claim
 
@@ -42,7 +42,7 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   genuine negative finding published with the company's own scientist's name
   on it, not extracted by a critic.
   ([DOI: 10.1177/00207640251415507](https://doi.org/10.1177/00207640251415507))
-  (wave: mh-q05) ⟨daily 2026-08-07⟩
+  (wave: mh-q05)
 
 ## 2026-01-23 — Slingshot pulls Ash from the UK over unresolved medical-device classification
 
@@ -56,7 +56,7 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   Slingshot has separately complained to the FDA that press coverage
   "skewed" public risk perception.
   (STAT News, Nov 2025 and Jan 21 2026 — no direct URL in the underlying
-  research) (wave: mh-q05) ⟨daily 2026-08-07⟩
+  research) (wave: mh-q05)
 
 ## 2025-09 — Three non-Dartmouth generative-AI RCTs complete with active or human comparators, all unpublished
 
@@ -72,7 +72,7 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   demanded.
   ([ClinicalTrials.gov NCT06992180](https://clinicaltrials.gov/study/NCT06992180),
   [NCT06725147](https://clinicaltrials.gov/study/NCT06725147))
-  (wave: mh-q05) ⟨daily 2026-08-07⟩
+  (wave: mh-q05)
 
 ## 2025-06-30 — Woebot shuts its consumer app; its FDA-track trials had already been quietly wound down 2022-24
 
@@ -86,7 +86,7 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   chatbot maker in the sector and still couldn't sustain the consumer
   product built on it.
   ([ClinicalTrials.gov NCT05551195](https://clinicaltrials.gov/study/NCT05551195))
-  (wave: mh-q05) ⟨daily 2026-08-07⟩
+  (wave: mh-q05)
 
 ## 2026-02 — VERA-MH becomes the first clinician-validated automated safety benchmark
 
@@ -101,7 +101,7 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   standard. Co-authored/funded in part by Spring Health, a commercial
   MH-benefits vendor — notable that industry is building the safety-eval
   infrastructure the field otherwise lacks.
-  ([arXiv](https://arxiv.org/abs/2602.05088)) ⟨steer 2026-08-07⟩
+  ([arXiv](https://arxiv.org/abs/2602.05088))
 
 ## 2025-08 — RAND/NIMH study: chatbots falter specifically on intermediate-risk suicide questions
 
@@ -112,7 +112,7 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   clinician ratings). Gemini over-refused even low-risk queries; ChatGPT
   and Claude sometimes gave direct answers to method-lethality questions —
   exactly the intermediate-risk zone where safe response matters most.
-  ([RAND](https://www.rand.org/news/press/2025/08/ai-chatbots-inconsistent-in-answering-questions-about.html)) ⟨steer 2026-08-07⟩
+  ([RAND](https://www.rand.org/news/press/2025/08/ai-chatbots-inconsistent-in-answering-questions-about.html))
 
 ## 2025-04 — EmoAgent: simulated vulnerable-user chats show deterioration in a third of interactions
 
@@ -122,7 +122,7 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   measures) in 34.4% of interactions; their proposed EmoGuard safety layer
   cut that deterioration rate by more than half. Posted to arXiv April
   2025, later published at EMNLP 2025.
-  ([arXiv](https://arxiv.org/abs/2504.09689)) ⟨steer 2026-08-07⟩
+  ([arXiv](https://arxiv.org/abs/2504.09689))
 
 ## 2025 — Scientific Reports: chatbots roughly triple the unsafe-response rate of human therapists
 
@@ -132,7 +132,7 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   a direct, quantified human-benchmark comparison rather than a
   standalone chatbot audit. Month of publication not specified in the
   underlying crawl.
-  ([Nature/Scientific Reports](https://www.nature.com/articles/s41598-025-17242-4)) ⟨steer 2026-08-07⟩
+  ([Nature/Scientific Reports](https://www.nature.com/articles/s41598-025-17242-4))
 
 ## 2025 — Torous: no replicated evidence any chatbot improves clinical outcomes
 
@@ -144,7 +144,7 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   separately warns that marketing uses therapeutic language while legal
   fine print disavows providing therapy. No direct URL for the testimony
   itself in the underlying crawl; his position is drawn from public
-  commentary compiled in the same report. ⟨steer 2026-08-07⟩
+  commentary compiled in the same report.
 
 ## 2025 — NEJM AI publishes formal critique letters against the Therabot trial
 
@@ -155,7 +155,7 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   team that built the product), and that it misapplied a
   human-therapeutic-alliance measure to a chatbot. The Therabot authors
   published a response in the same venue.
-  ([NEJM AI](https://ai.nejm.org/doi/abs/10.1056/AIp2500390)) ⟨steer 2026-08-07⟩
+  ([NEJM AI](https://ai.nejm.org/doi/abs/10.1056/AIp2500390))
 
 ## 2025-03 — Therabot RCT: the first generative-AI therapy chatbot trial
 
@@ -170,7 +170,7 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   Jacobson, Therabot's own PI, not an independent journalist — a
   conflict-of-interest angle worth carrying every time his lab's coverage
   of its own product is cited.
-  ([NEJM AI](https://ai.nejm.org/doi/full/10.1056/AIoa2400802)) ⟨steer 2026-08-07⟩
+  ([NEJM AI](https://ai.nejm.org/doi/full/10.1056/AIoa2400802))
 
 ## ← Backstory
 

@@ -27,7 +27,7 @@ blurb: 'Demis Hassabis is stepping down as DeepMind CEO to become chairman and A
 - **Alphabet/Google shares fell roughly 4-5% (~$160-200B in market cap) the day of
   the announcement** — the clearest signal yet that markets read this as more
   than a ceremonial reshuffle, not just a title swap.
-  ([CNBC](https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html)) ⟨daily 2026-08-06⟩
+  ([CNBC](https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html))
 - **Hassabis had been quietly delegating CEO duties to Koray Kavukcuoglu for
   about a year before the announcement**, per a Semafor exclusive — a gradual
   handover, not a sudden departure. Hassabis, in a note to staff: "now is the
@@ -37,12 +37,12 @@ blurb: 'Demis Hassabis is stepping down as DeepMind CEO to become chairman and A
   in 2024, running Isomorphic Labs (Google's AI-drug-discovery spinout) than
   in day-to-day tech-executive duties — that's where he's said to be
   refocusing, alongside the new chairman/Chief-Scientist roles.
-  ([Semafor](https://www.semafor.com/article/08/05/2026/demis-hassabis-was-shifting-away-from-deepmind-ceo-duties-for-a-year)) ⟨daily 2026-08-06⟩
+  ([Semafor](https://www.semafor.com/article/08/05/2026/demis-hassabis-was-shifting-away-from-deepmind-ceo-duties-for-a-year))
 - **Kavukcuoglu's mandate is concrete: he now runs Gemini day-to-day**,
   including the anticipated Gemini 4 model — this reads as a real operational
   handoff, answering one of this thread's open watch questions (it is
   succession with a real portfolio, not an honorary bump).
-  ([CNBC](https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html)) ⟨daily 2026-08-06⟩
+  ([CNBC](https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html))
 - **Discovery Loop's founding team is larger than first reported: Jeff Dean,
   Sanjay Ghemawat, Oriol Vinyals, and Quoc Le** — four senior Google/DeepMind
   research leaders, not Dean alone. Structured as a public benefit
@@ -50,20 +50,19 @@ blurb: 'Demis Hassabis is stepping down as DeepMind CEO to become chairman and A
   Google as a founding investor and cloud partner. Framed internally as an
   amicable exit — Pichai reportedly expressed personal sadness at Dean's
   departure.
-  ([CNBC](https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html)) ⟨daily 2026-08-06⟩
+  ([CNBC](https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html))
 - **Competitive backdrop, per the same coverage**: Google's AI models are
   reportedly running roughly 6 months behind frontier capability on coding —
   where the industry's compute race is currently concentrated — though no
   outlet has yet drawn a direct causal line from that gap to the timing of
   this transition. Worth watching as context, not yet a confirmed driver.
-  ⟨daily 2026-08-06⟩
 
 ## 2026-08-05 — Opened (ben-steer), promoted the same day it was offered
 
 - **Promoted from a same-day thread candidate.** Offered by the tier-2
   AI/governance research sweep — "a leadership reset at a top-3 frontier
   lab with no thread to hang it on" — and promoted by Ben the same
-  session: "track the DeepMind thread." ⟨steer 2026-08-05⟩
+  session: "track the DeepMind thread."
 - **Hassabis steps down as DeepMind CEO; Jeff Dean leaves Google after 27
   years.** Demis Hassabis becomes DeepMind chairman and Alphabet's Chief
   Scientist; Koray Kavukcuoglu is promoted to SVP of DeepMind, reporting
@@ -73,7 +72,7 @@ blurb: 'Demis Hassabis is stepping down as DeepMind CEO to become chairman and A
   Confirmed via Pichai's own post. Unclear from initial coverage whether
   the CEO transition and Dean's departure are connected or coincide by
   timing.
-  ([Axios](https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai), [CNBC](https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html)) ⟨daily 2026-08-05⟩
+  ([Axios](https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai), [CNBC](https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html))
 
 ## ← Backstory
 

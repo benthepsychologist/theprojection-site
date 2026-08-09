@@ -35,14 +35,14 @@ blurb: 'Guidance is climbing (€36-40B to €43-45B for FY2026) while the China
   Shanghai Aishengna is on pace for roughly 5 immersion DUV machines a
   year**, and notes China's separate Shenzhen-based EUV prototype effort
   has **produced no usable chips yet**. (Tom's Hardware — headline-level,
-  full body not retrievable) ⟨crawl 2026-08-04⟩
+  full body not retrievable)
 
 ### 2026-08-02 — CXMT's LPDDR6 push shows a DUV performance ceiling (unverified)
 
 - **TechTimes reports CXMT nearing LPDDR6 memory production but flags a
   12.8 Gbps vs. 14.4 Gbps performance gap** attributed to China's
   DUV-only (no EUV) manufacturing ceiling — thin: article body was
-  blocked (403), headline only. ⟨crawl 2026-08-04⟩
+  blocked (403), headline only.
 
 ### 2026-07-30 — Domestic 7nm scanner forecast lands much later than the breaking story implied
 
@@ -50,7 +50,7 @@ blurb: 'Guidance is climbing (€36-40B to €43-45B for FY2026) while the China
   Chinese domestic 7nm immersion scanner between 2032 and 2038 (median
   2035)** — far beyond the "delivered this year" framing of the
   2026-07-28 breaking story below. (Tom's Hardware — headline/snippet
-  confirmed, full body not retrievable) ⟨crawl 2026-08-04⟩
+  confirmed, full body not retrievable)
 
 ### 2026-07-29 — The reverse-engineering ceiling, explained
 
@@ -66,7 +66,7 @@ blurb: 'Guidance is climbing (€36-40B to €43-45B for FY2026) while the China
   coaters/developers, Hoya/AGC on mask blanks, KLA on metrology, and
   Lasertec's near-monopoly on actinic mask inspection. ASML also runs
   ~10,000 field-support engineers who need close to a year of training
-  each — a services moat on top of the hardware one. ⟨crawl 2026-08-04⟩
+  each — a services moat on top of the hardware one.
 
 ### 2026-07-28 — Shanghai Aishengna named as China's first domestic immersion-DUV maker
 
@@ -81,16 +81,15 @@ blurb: 'Guidance is climbing (€36-40B to €43-45B for FY2026) while the China
   features in a single exposure (7nm-class only via multi-patterning) —
   consistently described as "a generation behind" ASML, which still
   holds an estimated ~98.7% of the global immersion-lithography market.
-  This is the same story this repo's `china-duv-lithography` thread
+  This is the same story this repo's [Homegrown DUV](/threads/china-duv-lithography/) thread
   already tracks; the identity and detail here are fresher.
   (TrendForce, corroborated by Tom's Hardware/TechPowerUp/TechTimes)
-  ⟨crawl 2026-08-04⟩
 
 ### 2026-06-24 — Dutch government still irritated over MATCH Act's reach
 
 - **Dutch government reported "irritated" by new US ASML restriction
   plans**, continuing pushback that began with April's royal visit to
-  Washington below. (NL Times) ⟨crawl 2026-08-04⟩
+  Washington below. (NL Times)
 
 ### 2026-06-19/21 — ASML denies an EUV tool ever reached China
 
@@ -100,7 +99,7 @@ blurb: 'Guidance is climbing (€36-40B to €43-45B for FY2026) while the China
   allegations "false and reputation-damaging." A confirmed violation
   would breach the multilateral Wassenaar Arrangement. No source found
   confirms a resolution either way as of this crawl (2026-08-04) — the
-  matter appears to remain open. (TechTimes, Asia Times) ⟨crawl 2026-08-04⟩
+  matter appears to remain open. (TechTimes, Asia Times)
 
 ### 2026-07-15 — Q2 2026 earnings: guidance raised again, and Intel ships the first High-NA logic chips
 
@@ -113,7 +112,7 @@ blurb: 'Guidance is climbing (€36-40B to €43-45B for FY2026) while the China
   stopped — H1 order intake was only characterized as "very strong." 2027
   EUV order coverage called "close to being fully covered," with a
   planned 30% capacity increase for both low-NA EUV and DUV immersion
-  systems. (ASML press release / GlobeNewswire) ⟨crawl 2026-08-04⟩
+  systems. (ASML press release / GlobeNewswire)
 - **Same day: Intel Foundry became the first company anywhere to ship
   high-volume commercial logic made with ASML's High-NA EUV tool** —
   select layers of Intel 18A-node Core Ultra Series 3 ("Panther Lake")
@@ -121,14 +120,14 @@ blurb: 'Guidance is climbing (€36-40B to €43-45B for FY2026) while the China
   the established (lower-NA) platform. This is a production-readiness
   milestone on select layers, not a full-chip High-NA process yet.
   (ASML press release, corroborated by SiliconANGLE/Tom's Hardware/
-  TechTimes) ⟨crawl 2026-08-04⟩
+  TechTimes)
 - **CFO Roger Dassen, same call: "We still look at China as approximately
   20% of our total net sales, so that percentage hasn't changed"** —
   attributed to domestic-led logic-chip demand moving in sync with
   global demand. This sits against a reported H1 2026 actual of 16%
   (down from 19% in Q1, 36% in Q4 2025) — the two figures aren't
   reconciled by any source found; both are carried rather than picked.
-  (ASML Q2 2026 earnings call transcript) ⟨crawl 2026-08-04⟩
+  (ASML Q2 2026 earnings call transcript)
 
 ### 2026-04-15 — Q1 2026: guidance set with export-control risk already priced in
 
@@ -136,7 +135,7 @@ blurb: 'Guidance is climbing (€36-40B to €43-45B for FY2026) while the China
   €36-40B net sales, 51-53% gross margin, with Fouquet stating directly
   that "the bandwidth in our 2026 guidance accommodates potential
   outcomes of ongoing discussions around export controls" — guidance was
-  built with the fight below already in mind. (ASML SEC 6-K) ⟨crawl 2026-08-04⟩
+  built with the fight below already in mind. (ASML SEC 6-K)
 
 ### 2026-04-02/08 — The MATCH Act: a real legislative vehicle targeting DUV, not just EUV
 
@@ -155,17 +154,17 @@ blurb: 'Guidance is climbing (€36-40B to €43-45B for FY2026) while the China
   the House this year but not become law in the 119th Congress, with the
   Senate side possibly folded into the NDAA instead. ASML shares reportedly
   fell ~3.44% on the initial news. (Yahoo Finance, TechWireAsia, NBC News,
-  ChinaTalk, Manufacturing Dive) ⟨crawl 2026-08-04⟩
+  ChinaTalk, Manufacturing Dive)
 - **Dutch PM Rob Jetten named ASML export controls as a primary reason
   for King Willem-Alexander and Queen Máxima's April 2026 state visit to
   Washington**, including a White House dinner with President Trump —
   talks described as "constructive but without consensus." (NL Times,
-  MarketScreener, MLQ News) ⟨crawl 2026-08-04⟩
+  MarketScreener, MLQ News)
 - **Around the same period, Commerce Secretary Howard Lutnick began
   privately questioning senior ASML executives** over a concern that an
   EUV lithography system may have reached China in violation of export
   controls — see ASML's denial above (2026-06-19/21). (Implicator.ai,
-  TechTimes, Techzine, Foreign Policy Journal) ⟨crawl 2026-08-04⟩
+  TechTimes, Techzine, Foreign Policy Journal)
 
 ### 2025-09-09 — ASML leads Mistral AI's Series C, becomes its largest shareholder
 
@@ -177,7 +176,7 @@ blurb: 'Guidance is climbing (€36-40B to €43-45B for FY2026) while the China
   reportedly "in talks" for a new round at ~$23B valuation (~$3.5B
   raise), but no source confirms whether ASML is participating — status
   unresolved. (CNBC, ASML press release, ASML governance page, Yahoo
-  Finance) ⟨crawl 2026-08-04⟩
+  Finance)
 
 ### 2024-12-05 — The standing US legal mechanism (background)
 
@@ -186,4 +185,4 @@ blurb: 'Guidance is climbing (€36-40B to €43-45B for FY2026) while the China
   US jurisdiction leverage over ASML indirectly via Cymer, its San
   Diego-based excimer-laser subsidiary — the active legal mechanism
   underneath the 2026 fight above, unchanged this crawl window.
-  (Federal Register, doc 2024-28270) ⟨crawl 2026-08-04⟩
+  (Federal Register, doc 2024-28270)

@@ -28,14 +28,14 @@ blurb: Where the capex lands in SILICON — the $ flowing to Nvidia/AMD/TSMC/ Br
   ~13% sequential). Stock fell ~7-9% after-hours despite the beat — a
   sell-the-guide reaction, not a demand-miss one.
   ([AMD IR](https://ir.amd.com/news-events/press-releases/detail/1295/amd-reports-second-quarter-2026-financial-results)
-  · CNBC/Stock Titan corroborating) ⟨daily 2026-08-06⟩
+  · CNBC/Stock Titan corroborating)
 - **CEO Lisa Su: "Instinct deployments scale and Helios begins to ramp"** —
   the call highlighted MI400-series launches (MI455X, MI430X) and MI350P,
   and reiterated Anthropic's commitment to deploy up to 2GW of MI450-series
   GPUs in AMD Helios racks. That Anthropic commitment itself reads as
   restated on the call, not newly announced this quarter — its original
   announcement date wasn't independently re-confirmed this pass, flagged
-  rather than dated as new. ([AMD IR](https://ir.amd.com/news-events/press-releases/detail/1295/amd-reports-second-quarter-2026-financial-results)) ⟨daily 2026-08-06⟩
+  rather than dated as new. ([AMD IR](https://ir.amd.com/news-events/press-releases/detail/1295/amd-reports-second-quarter-2026-financial-results))
 - 💡 **Adjacent, not added to this thread's record:** multiple secondary
   outlets (TechPowerUp, Tech Times, biggo.com) reported 2026-08-06 that
   TSMC is sitting on roughly $1B / NT$32B+ of finished Apple 2nm iPhone-18
@@ -45,20 +45,20 @@ blurb: Where the capex lands in SILICON — the $ flowing to Nvidia/AMD/TSMC/ Br
   a reputable direct fetch (TrendForce's own news page has no matching
   item, direct fetches to the secondary outlets 403'd) — noted here as a
   lead worth a primary-sourced check on a future pass, not logged as a
-  timeline fact. ⟨daily 2026-08-06⟩
+  timeline fact.
 
 ## 2026-07-30 — Samsung's earnings put a number on the memory side of the silicon spend
 
 - **Samsung posted record Q2 chip-division profit** (~250x YoY per
   multiple outlets), driven by AI-linked HBM/DRAM shortage pricing — the
   clearest fresh data point on where AI silicon dollars land outside the
-  GPU line itself. ([CNBC] · [WSJ]) ⟨daily 2026-07-30⟩
+  GPU line itself. ([CNBC] · [WSJ])
 - **Samsung locked ~70% of memory output into long-term deals with "5
   major Big Tech firms"** (unnamed) and sees the shortage extending to
   2028 — direct evidence of hyperscalers contracting AI memory supply
-  years out. ([finance.biggo.com]) ⟨daily 2026-07-30⟩
+  years out. ([finance.biggo.com])
 
-## 2026-07-27 — The silicon split: undisclosed at all four ⟨crawl 2026-07-27⟩
+## 2026-07-27 — The silicon split: undisclosed at all four
 
 - **The industry's common non-disclosure:** none of Google / Microsoft /
   Amazon / Meta publishes its own-chip vs Nvidia dollar or unit split —
@@ -73,6 +73,6 @@ blurb: Where the capex lands in SILICON — the $ flowing to Nvidia/AMD/TSMC/ Br
 
 ## 2026-07-24 — Opened
 
-- **Thread opened** (ben-steer) — meta-thread — groups the child threads below. ⟨steer 2026-07-24⟩
+- **Thread opened** (ben-steer) — meta-thread — groups the child threads below.
 
 ## ← Backstory

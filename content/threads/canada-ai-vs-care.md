@@ -24,4 +24,4 @@ blurb: 'Budget 2025 put $925.6M+ into AI infrastructure the same cycle multiple 
   next year. The counter-signal keeps recurring: private AI-health
   capital moves fast in Canada while the federal MH funding side (the
   2027 bilateral-agreement cliff) stays static.
-  ([The Logic](https://thelogic.co/news/alan-insurance-expansion-ai/)) ⟨daily 2026-07-28⟩
+  ([The Logic](https://thelogic.co/news/alan-insurance-expansion-ai/))

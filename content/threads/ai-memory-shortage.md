@@ -29,8 +29,8 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   and semiconductor firms, with SK Hynix possibly retaining a minority
   stake. The plant handles NAND back-end packaging — separate from the
   HBM lines that supply Nvidia — and the company says discussions are
-  early and nothing is decided. Cross-refs `china-stack-independence`.
-  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-07/sk-hynix-is-said-to-mull-options-for-3-billion-chongqing-assets)) ⟨daily 2026-08-07⟩
+  early and nothing is decided. Cross-refs [China's Stack](/threads/china-stack-independence/).
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-07/sk-hynix-is-said-to-mull-options-for-3-billion-chongqing-assets))
 
 ## 2026-08-05 — The 2027 DRAM market closes with no room for a fourth supplier, and Apple's China hedge fails
 
@@ -42,19 +42,19 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   Samsung, SK Hynix and Micron have now fully booked their 2027 output,
   with existing customers getting only 60-70% of requested volume against
   advance deposits.
-  ([Tech Times](https://www.techtimes.com/articles/323108/20260805/apple-failed-find-fourth-dram-supplier-2027-market-closes-completely.htm)) ⟨daily 2026-08-05⟩
+  ([Tech Times](https://www.techtimes.com/articles/323108/20260805/apple-failed-find-fourth-dram-supplier-2027-market-closes-completely.htm))
 - **CXMT DRAM is already inside HP, Asus and Acer laptops sold outside the
   US** — sold at prices matching Samsung's (adopted for supply, not
   discount), and flagged as a fresh risk: Chinese law requires CXMT to
   report chip vulnerabilities to Beijing's industry ministry within 48
   hours, before notifying the PC makers using the chips.
-  ([Tech Times](https://www.techtimes.com/articles/323114/20260805/cxmt-dram-now-inside-laptops-china-learns-chip-flaws-before-pc-makers-can-patch-them.htm)) ⟨daily 2026-08-05⟩
+  ([Tech Times](https://www.techtimes.com/articles/323114/20260805/cxmt-dram-now-inside-laptops-china-learns-chip-flaws-before-pc-makers-can-patch-them.htm))
 - **Samsung and SK Hynix are separately testing Chinese chipmaking
   equipment (AMEC) for their own Chinese-based fabs**, hedging against a
   further tightening of US export controls — testing reported to have
   started roughly two years ago and now surfacing as the squeeze
   intensifies.
-  ([Reuters](https://www.reuters.com/world/china/samsung-sk-hynix-test-chinese-chip-tools-hedge-against-us-risks-2026-08-05/)) ⟨daily 2026-08-05⟩
+  ([Reuters](https://www.reuters.com/world/china/samsung-sk-hynix-test-chinese-chip-tools-hedge-against-us-risks-2026-08-05/))
 - 💡 **The "who blinks first on capex" question this thread has been
   tracking now has a concrete answer for Apple: it blinked and lost** —
   it tried the CXMT hedge specifically to route around the Samsung/SK
@@ -62,7 +62,7 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   sanctioned option. The 2027 sellout also sharpens the DoD-ban overhang
   already on this thread's watch: CXMT is filling gaps for HP/Asus/Acer
   and Huawei/Xiaomi while still being too expensive for Apple, not too
-  restricted. ⟨daily 2026-08-05⟩
+  restricted.
 
 ## 2026-08-01 — Memory prices become large enough to move a hyperscaler's capex line
 
@@ -70,10 +70,10 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   07-30, explicitly citing higher memory costs** — the first instance in
   this map of memory-price inflation moving a hyperscaler's own capex
   number rather than only its cost line.
-  ([CNBC](https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html)) ⟨daily 2026-08-01⟩
+  ([CNBC](https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html))
 - **Management said even $220B would not buy enough capacity to meet 2026
   demand, and expected the same into 2027-28.**
-  ([CNBC](https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html)) ⟨daily 2026-08-01⟩
+  ([CNBC](https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html))
 
 ## 2026-07-31 — Cook: "a hundred year flood on memory pricing"; Samsung converts a NAND line to DRAM
 
@@ -86,13 +86,13 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   diversifying beyond Micron/SK Hynix/Samsung — while Apple continues
   lobbying Washington to clear CXMT/YMTC purchases despite the
   bipartisan Senate Aug-21 deadline.
-  ([MacRumors](https://www.macrumors.com/2026/07/30/tim-cook-on-apple-price-increases/), [Fortune](https://fortune.com/2026/07/30/tim-cook-signed-off-on-his-final-apple-earnings-call-with-a-warning-about-a-hundred-year-flood-in-memory-chip-pricing/)) ⟨daily 2026-07-31⟩
+  ([MacRumors](https://www.macrumors.com/2026/07/30/tim-cook-on-apple-price-increases/), [Fortune](https://fortune.com/2026/07/30/tim-cook-signed-off-on-his-final-apple-earnings-call-with-a-warning-about-a-hundred-year-flood-in-memory-chip-pricing/))
 - **Samsung completed a NAND-to-DRAM line conversion at its Hwaseong
   fab**, shutting an older 2D NAND wafer line and repurposing it for
   DRAM — secondary reporting (paywalled primary) puts the capacity gain
   at roughly +15% general-purpose DRAM by end of 2026; a concrete
   supply-side response landing the same day as Cook's warning.
-  ([Digitimes, paywalled](https://www.digitimes.com/news/a20260730PD202/samsung-dram-capacity-fab-nand.html)) ⟨daily 2026-07-31⟩ — confidence: medium, single secondary source on the figure.
+  ([Digitimes, paywalled](https://www.digitimes.com/news/a20260730PD202/samsung-dram-capacity-fab-nand.html)) — confidence: medium, single secondary source on the figure.
 
 ## 2026-07-30 — Samsung's Q2 answers the pending flag: chip profit ~250x, phones eat the squeeze, shortage guided to 2028
 
@@ -102,7 +102,7 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   "elevated component cost pressures across the industry." Samsung's own
   phone business is now eating the DRAM/NAND squeeze its chip arm profits
   from — the consumer-price-echo thesis, inside one company's P&L.
-  ([Korea Herald] / AP) ⟨daily 2026-07-30⟩
+  ([Korea Herald] / AP)
 - **Samsung locked ~70% of memory output into long-term agreements with
   five major customers** (reported names include AWS, Microsoft, Google)
   and guided the shortage to extend through 2028 — widened past the
@@ -110,7 +110,7 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   split: "through 2028" is the figure carried near-uniformly across
   Reuters/Bloomberg/WSJ/Yonhap, almost certainly earnings-call
   commentary rather than release text — strong-secondary, not
-  primary-document-confirmed. ⟨daily 2026-07-30⟩
+  primary-document-confirmed.
 - **Bipartisan senators (Banks, Schumer, others) sent Apple a letter
   demanding it not buy CXMT/YMTC memory chips, with an August 21
   deadline** — warning that once a China-market part clears Apple's
@@ -119,7 +119,7 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   purchased (unused) YMTC chips. Converges this thread's China-capacity
   strand with the Apple consumer-price echo into one live political
   fight. ([AppleInsider], corroborated Bloomberg/The Information/
-  9to5Mac/Business Standard) ⟨daily 2026-07-30⟩
+  9to5Mac/Business Standard)
 
 ## 2026-07-28 — The best print in the cycle's history couldn't hold a bid
 
@@ -132,7 +132,7 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   past hyperscalers to frontier AI labs themselves — SK Hynix also
   participated in Anthropic's May Series H round.
   ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-25/sk-chair-says-anthropic-asked-for-supplies-to-make-its-own-chips) ·
-  [Digitimes](https://www.digitimes.com/news/a20260728PD201/anthropic-sk-hynix-chips-chairman-ceo.html)) ⟨daily 2026-07-28⟩
+  [Digitimes](https://www.digitimes.com/news/a20260728PD201/anthropic-sk-hynix-chips-chairman-ceo.html))
 - **Samsung's chip talent is defecting to SK Hynix over a bonus gap
   reported as wide as 100x** — ~200 Samsung engineers have moved to SK
   Hynix since December (SK Hynix pays out 10% of operating profit as a
@@ -141,29 +141,29 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   Hynix, citing chips as protected "national core technology." A
   labor-market echo of the same squeeze — the profit differential is now
   visibly reallocating headcount, not just capital.
-  ([MIT Technology Review](https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/)) ⟨daily 2026-07-28⟩
+  ([MIT Technology Review](https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/))
 - **Then the quarter itself landed. SK Hynix Q2, primary-sourced:** revenue **79.3187T won**, operating
   profit **60.5426T won** (**+557% YoY**, 76% margin), net profit
   **93.9226T won**. A record in absolute terms — and a **miss** against
   the 63.7-64.1T consensus this thread's ledger entry tracked as
   "~$43.7B." Revenue missed too (~83.6-83.9T expected). The net-profit
   beat is **non-operating gains**, not operations.
-  ([SK hynix](https://news.skhynix.com/en/q2-2026-business-results/)) ⟨daily 2026-07-28⟩
+  ([SK hynix](https://news.skhynix.com/en/q2-2026-business-results/))
 - **HBM4 mass shipments began in Q2**, "full ramp" guided for 2H26;
   **~10 customers** signed to long-term supply agreements. Management
   called **Blackwell/HBM3E demand still strong** and said **Rubin —
   which needs HBM4 — is running later than expected**. The shortage
-  thesis survives the miss; the timing shifts right. ⟨daily 2026-07-28⟩
+  thesis survives the miss; the timing shifts right.
 - **⚠ A capex claim this thread is NOT adopting:** secondary outlets
   reported capex raised to the **~40T-won high end (~45T/$31B)**. The
   release itself says "capital expenditure discipline," phased "based on
   customer demand and investment efficiency." Primary and secondary
   disagree in direction, not just degree — flagged pending the 07-30
-  Samsung breakdown. ⟨daily 2026-07-28⟩
+  Samsung breakdown.
 - **The market's answer (07-29 KST session):** SK Hynix opened up, ran
   **+3.74%**, then closed **−9.61% at 1,401,000 won**. Samsung **+4.55%
   → −5.23%**. Micron had already fallen **8.85% to $820.53** in the US
-  session. ⟨daily 2026-07-28⟩
+  session.
 
 ## 2026-07-28 — Capacity-race backstory: the trio, plus a same-day shock
 
@@ -179,7 +179,6 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   quarter (Q3 FY26: $41.5B revenue vs $9.3B a year ago, 84.6% gross
   margin) while running a $200B US buildout as the only US-based DRAM
   maker.
-  ⟨crawl 2026-07-28⟩
 - **The "three-year HBM deficit" claim, sourced.** It traces to **SK
   Hynix's own Q1 2026 earnings call (04-23)** — CFO Kim Woo-hyun and VP
   Park Joon-deok guiding that demand will outpace supply for at least
@@ -190,7 +189,6 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   only claims that clear medium confidence are outcome-side (Samsung's
   confirmed Q2 sequential DRAM +44%/NAND +53%; SK Hynix's ~72-77%
   operating margins), not a clean industry percentage.
-  ⟨crawl 2026-07-28⟩
 - **"Black Tuesday" — the squeeze gets a same-day shock.** CXMT's Shanghai
   STAR-market debut (07-27, +466% to ~$489B) triggered a 2026-07-28 Seoul
   selloff: KOSPI -10.84% with a circuit breaker, SK Hynix -14.65% —
@@ -200,8 +198,7 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   sharpest, most immediate market pricing of CXMT-as-threat found in
   either this crawl or last week's CXMT-focused one — worth checking
   whether it holds past SK Hynix's 07-29 and Samsung's 07-30 earnings
-  prints, or gets partly reversed.
-  ⟨crawl 2026-07-28⟩ Finding:
+  prints, or gets partly reversed. Finding:
   artifacts/findings/memory-trio-2026-07-28.md
 
 ## 2026-07-23 — The supply side raises guidance too
@@ -211,14 +208,13 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   2029–2030" — the supply-side echo of the same squeeze. Chip stocks
   (incl. Nvidia, -2.2%) still slid Friday on profit-taking despite the
   beat.
-  ⟨daily 2026-07-23⟩
 
 ## 2026-07-20 — Capital-side marker set
 
 - **CXMT set July 27 for an up-to-$9.8B Shanghai IPO** — Asia's largest
   2026 listing, funding Chinese DRAM/HBM capacity into the squeeze (now
-  tracked as `cxmt-memory-ipo`).
-  ([MarketScreener](https://www.marketscreener.com/news/china-s-changxin-memory-technologies-sets-july-27-listing-date-sources-say-ce7f5edcdc8bf420)) ⟨daily 2026-07-20⟩
+  tracked as [CXMT IPO](/threads/cxmt-memory-ipo/)).
+  ([MarketScreener](https://www.marketscreener.com/news/china-s-changxin-memory-technologies-sets-july-27-listing-date-sources-say-ce7f5edcdc8bf420))
 
 ## ← Backstory
 
@@ -226,4 +222,4 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
 
 - **Apple price hike attributed to the DRAM/NAND squeeze** — The Neuron /
   Rundown AI led with it; we tracked the buildout but missed the
-  demand-side cost echo (the gap that opened this thread). ⟨seed 2026-07-22⟩
+  demand-side cost echo (the gap that opened this thread).

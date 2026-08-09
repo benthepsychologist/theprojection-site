@@ -29,14 +29,14 @@ blurb: The wave of the AI giants moving into health/MH — the cross-actor narra
   shift pulling every giant into health, not any one company's product
   move. Verified: Aflac's own survey, corroborated by the article's
   cited figures (survey publish date 2026-08-05).
-  ([Business Journal Daily](https://businessjournaldaily.com/survey-gen-z-millennials-turn-to-ai-for-healthcare/)) ⟨daily 2026-08-05⟩
+  ([Business Journal Daily](https://businessjournaldaily.com/survey-gen-z-millennials-turn-to-ai-for-healthcare/))
 - **The mental-health carve-out inside the same survey**: despite skipping
   primary care (only 48% of Gen Z has a regular doctor), Gen Z is
   comparatively more willing to see a mental-health therapist (25% have
   engaged one) than older cohorts — the AI-first substitution effect is
   uneven across care types, cutting deeper into primary/preventive care
   than into therapy specifically.
-  ([Business Journal Daily](https://businessjournaldaily.com/survey-gen-z-millennials-turn-to-ai-for-healthcare/)) ⟨daily 2026-08-05⟩
+  ([Business Journal Daily](https://businessjournaldaily.com/survey-gen-z-millennials-turn-to-ai-for-healthcare/))
 
 ## 2026-07-28/29 — OpenAI's health push goes institutional; a HIPAA gap flagged
 
@@ -50,16 +50,16 @@ blurb: The wave of the AI giants moving into health/MH — the cross-actor narra
   actual institutional/enterprise healthcare delivery — the concrete "is
   this push real" answer this thread has been watching for. Confirmed via
   direct fetch of HIT Consultant + corroborated by MobiHealthNews and a
-  press release. ([HIT Consultant](https://hitconsultant.net/)) ⟨daily 2026-07-30⟩
+  press release. ([HIT Consultant](https://hitconsultant.net/))
 - **A single, lower-reliability outlet claims ChatGPT Health carries no
   HIPAA coverage as of 2026** — consistent with this thread's own
   evidence-gap framing (a health layer that walls off liability rather
   than becoming a regulated clinical product), but single-sourced — flag,
-  not confirmed. ⟨daily 2026-07-30⟩
+  not confirmed.
 - **One low-confidence report of a second entrant** — Perplexity launching
   a health platform with Apple Health integration — single non-major
   outlet, worth a follow-up crawl before adding a sixth entity to this
-  meta-thread's tracked list. ⟨daily 2026-07-30⟩
+  meta-thread's tracked list.
 
 ## 2026-07-23 — First real entry: OpenAI's health layer goes live, MH still absent
 
@@ -72,13 +72,13 @@ blurb: The wave of the AI giants moving into health/MH — the cross-actor narra
   is the liability. MH specifically is not a named feature of the
   launch — it walls off general physical-health tracking while the
   companion-chatbot harm keeps accruing on the same underlying model.
-  Cross-refs `openai-health` and `ai-therapy-regulatory-reckoning`
+  Cross-refs [OpenAI Health](/threads/openai-health/) and [The Reckoning](/threads/ai-therapy-regulatory-reckoning/)
   (where this was first logged 07-24 but not yet folded into this
   meta-thread).
-  ([TechCrunch](https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/)) ⟨daily 2026-07-28⟩
+  ([TechCrunch](https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/))
 
 ## 2026-07-24 — Opened
 
-- **Thread opened** (ben-steer) — meta-thread — groups the child threads below. ⟨steer 2026-07-24⟩
+- **Thread opened** (ben-steer) — meta-thread — groups the child threads below.
 
 ## ← Backstory

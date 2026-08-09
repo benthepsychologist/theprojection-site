@@ -44,18 +44,18 @@ blurb: 'The empire''s concentration play, assembled from pieces other threads ca
   center?" This is a new axis on the thread — political influence over
   how the Ohio campus got approved — distinct from the financing/
   collateral mechanics already logged here.
-  ([The Verge](https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio), [Washington Post](https://www.washingtonpost.com/politics/2026/07/01/democrats-ask-softbank-explain-trump-library-donation/)) ⟨daily 2026-08-07⟩
+  ([The Verge](https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio), [Washington Post](https://www.washingtonpost.com/politics/2026/07/01/democrats-ask-softbank-explain-trump-library-donation/))
 
 ## 2026-08-06 — The Q1 FY26 print lands: net profit down 18%, Arm's post-earnings slide erases ¥14T of pro-forma NAV, and the stalled $10B OpenAI-collateral loan gets signed
 
 - **SoftBank Group's Q1 FY2026 (quarter to 2026-06-30) results, released as scheduled 2026-08-06 JST: net income ¥347.3B, down 18% YoY** (from ¥421.8B) despite investment gains surging roughly 300% YoY to ¥1.86T — the gain was almost entirely ByteDance (¥2,221M of a ¥2,394M SVF1 quarterly gain) and Intel (¥1.33T of unrealized gains), not OpenAI, which recorded no valuation gain this quarter. SoftBank Group shares fell **4.41%** on the print itself, reversing the pre-print rally recorded here 08-05.
-  ([Investing.com](https://in.investing.com/news/company-news/softbank-q1-fy2026-slides-record-nav-amid-massive-ai-bets-93CH-5538941), [Daily Sabah](https://www.dailysabah.com/business/tech/softbanks-q1-profit-falls-18-as-tech-investor-gains-on-intel-stake)) ⟨daily 2026-08-06⟩
+  ([Investing.com](https://in.investing.com/news/company-news/softbank-q1-fy2026-slides-record-nav-amid-massive-ai-bets-93CH-5538941), [Daily Sabah](https://www.dailysabah.com/business/tech/softbanks-q1-profit-falls-18-as-tech-investor-gains-on-intel-stake))
 - **This directly answers the "Arm's post-earnings slide" ledger question: quarter-end NAV hit a record ¥72.3T ($445.2B) as of 06-30, but a same-release pro-forma mark as of 08-05 shows NAV down to ¥58.3T — a ¥14T (~19%) reduction — driven specifically by Arm's own contribution to that NAV falling from ¥43.4T to ¥31.1T.** Arm's own Q1 print (07-29) beat on revenue ($1.29B, +22% YoY) and EPS ($0.45), but shares still fell ~8% same-day and continued sliding into August (−3.15% on 08-05) on a supply-demand mismatch (AGI CPU demand >$2B vs ~$1B secured supply) and smartphone-royalty softness — that slide is what shows up as the ¥14T NAV cut. ⚠ The pro-forma figure is single-sourced (Investing.com); treat as directionally confirmed, not exchange-verified.
-  ([Investing.com](https://in.investing.com/news/company-news/softbank-q1-fy2026-slides-record-nav-amid-massive-ai-bets-93CH-5538941), [TIKR](https://www.tikr.com/blog/arm-stock-fell-8-after-reporting-record-q1-earnings-revenue-of-1-29-billion-heres-the-bigger-picture)) ⟨daily 2026-08-06⟩
+  ([Investing.com](https://in.investing.com/news/company-news/softbank-q1-fy2026-slides-record-nav-amid-massive-ai-bets-93CH-5538941), [TIKR](https://www.tikr.com/blog/arm-stock-fell-8-after-reporting-record-q1-earnings-revenue-of-1-29-billion-heres-the-bigger-picture))
 - **The second ledger item resolves too: the OpenAI-stake margin loan that stayed "stalled on valuation concerns" as of 08-03 is now signed.** Bloomberg (08-06): SoftBank secured a **$10B, two-year margin loan against its OpenAI stake**, agreed 2026-08-05 with Goldman Sachs Bank USA, JPMorgan Chase Bank NA, Mizuho Securities USA, Apollo Global Funding and Sumitomo Mitsui Banking Corp, with drawdown planned this month. Combined with the $30B already funneled to OpenAI via Vision Fund 2 and the existing $40B bridge loan, **SoftBank's total OpenAI-linked commitments now exceed $60B** — cumulative OpenAI investment is reported at $32.4B as of 03-31-2026, projected to $64.6B by 10-01-2026 for roughly a 13% stake, consistent with the three $10B tranches (04-01, 07-01, planned 10-01) already on this thread's record.
-  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-06/softbank-secures-10-billion-margin-loan-backed-by-openai-stake)) ⟨daily 2026-08-06⟩
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-06/softbank-secures-10-billion-margin-loan-backed-by-openai-stake))
 - **Balance-sheet detail: cash fell to ¥2.3T from ¥3.5T; loan-to-value stayed at 13%, well inside the self-imposed 25% cap** — the $30B H2-2026 obligation flagged 08-04 is still outstanding and unaddressed by this print. CFO Goto pushed back on bubble framing on the earnings call: *"There's clear demand and an overwhelming shortage of supply"* on AI datacenter buildout, *"I think we're in a very healthy state."*
-  ([Daily Sabah](https://www.dailysabah.com/business/tech/softbanks-q1-profit-falls-18-as-tech-investor-gains-on-intel-stake)) ⟨daily 2026-08-06⟩
+  ([Daily Sabah](https://www.dailysabah.com/business/tech/softbanks-q1-profit-falls-18-as-tech-investor-gains-on-intel-stake))
 
 ## 2026-08-05 — Arm's 17% US rally plus a SoftBank Corp beat send SoftBank Group up ~12%, one trading day ahead of the FY26 Q1 print
 
@@ -67,15 +67,15 @@ blurb: 'The empire''s concentration play, assembled from pieces other threads ca
   note) reporting Q1 operating profit of ¥302.3B, ~10% above the
   ¥275.54B consensus, on 31% YoY AI/cloud-segment revenue growth and a
   reaffirmed ~30% CAGR guide for AI/cloud through FY2027.
-  ([Investing.com](https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-surging-today-93CH-4836375), [TradingKey](https://www.tradingkey.com/analysis/stocks/more/262074932-softbank-openai-ipo-masayoshi-son-arm-tradingkey)) ⟨daily 2026-08-05⟩
+  ([Investing.com](https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-surging-today-93CH-4836375), [TradingKey](https://www.tradingkey.com/analysis/stocks/more/262074932-softbank-openai-ipo-masayoshi-son-arm-tradingkey))
 - **This is a pre-print sentiment rally, not the Group's own results** —
   the SoftBank Group FY26 Q1 earnings this thread is tracking still
   print tomorrow, 08-06, as already confirmed 08-04; today's move is
   Arm-and-subsidiary-driven, one trading session ahead of the number
   that actually resolves the loan-stack/AI-credit question this thread
-  watches. ⟨daily 2026-08-05⟩
+  watches.
 
-## 2026-08-04 — How the bet is funded, the "Physical AI" fourth lever, and Vision Fund's real concentration ⟨crawl 2026-08-04⟩
+## 2026-08-04 — How the bet is funded, the "Physical AI" fourth lever, and Vision Fund's real concentration
 
 - **SoftBank sold its entire Nvidia stake — 32.1M shares, $5.83B —
   disclosed 2025-11-11 (shares sold Oct 2025), proceeds earmarked toward
@@ -83,20 +83,20 @@ blurb: 'The empire''s concentration play, assembled from pieces other threads ca
   $9.17B in the same round.** This is the funding side of the loan stack
   the thread already tracks — SoftBank isn't only pledging assets as
   collateral, it's actively liquidating legacy holdings.
-  ([CNBC](https://www.cnbc.com/2025/11/11/softbank-sells-its-entire-stake-in-nvidia-for-5point83-billion.html)) ⟨crawl 2026-08-04⟩
+  ([CNBC](https://www.cnbc.com/2025/11/11/softbank-sells-its-entire-stake-in-nvidia-for-5point83-billion.html))
 - **A self-imposed 25% loan-to-value limit is constraining further
   margin borrowing**, and independent credit research (CreditSights)
   sizes a **$32B funding gap over the next two years**, combining bond
   maturities with signed obligations including the ABB Robotics deal
   below; **$30B specifically falls due in H2 2026.**
-  ([ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/softbank-s-infrastructure-bet-creates-a-32-billion-funding-gap/69276518)) ⟨crawl 2026-08-04⟩
+  ([ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/softbank-s-infrastructure-bet-creates-a-32-billion-funding-gap/69276518))
 - **A fourth lever alongside OpenAI/Arm/Stargate: SoftBank is acquiring
   ABB's robotics division for $5.375B** (board-approved 2025-09-22,
   signed 2025-10-08, closing mid-to-late 2026), folding it into a new
   US-listed spinout called **Roze** — autonomous robots building AI data
   centers — targeting an IPO **as early as H2 2026 at up to a $100B
   valuation** (KPMG engaged; analyst day held July 2026).
-  ([SoftBank Group](https://group.softbank/en/news/press/20251008), [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/softbank-plans-100b-u-ipo-115700056.html)) ⟨crawl 2026-08-04⟩
+  ([SoftBank Group](https://group.softbank/en/news/press/20251008), [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/softbank-plans-100b-u-ipo-115700056.html))
 - **Vision Fund's FY2025 (year to March 2026) ~$46B gain and the
   Q4/Q3 gains before it were "nearly all driven by OpenAI"** — SoftBank
   took losses in the same periods on Coupang, DiDi Global, Klarna and a
@@ -104,20 +104,20 @@ blurb: 'The empire''s concentration play, assembled from pieces other threads ca
   assets are now "ASI-oriented investments."** Answers this thread's open
   question on whether Vision Fund is a real hedge: it functions as a
   single concentrated position wearing a diversified-fund wrapper.
-  ([CNBC](https://www.cnbc.com/2026/05/13/softbank-earnings-fy-2025-vision-fund-openai-stake.html)) ⟨crawl 2026-08-04⟩
+  ([CNBC](https://www.cnbc.com/2026/05/13/softbank-earnings-fy-2025-vision-fund-openai-stake.html))
 - **Credit ratings are diverging, not moving together**: Moody's upgraded
   SoftBank Group to Ba2/stable on 2025-09-17 (leverage reduction,
   transparency); **S&P instead revised its outlook to negative in March
   2026**, explicitly over running a ~¥2.5T ($24B) buyback alongside ~$41B
   of asset-sale fundraising.
-  ([Bloomberg](https://www.bloomberg.com/news/articles/2025-09-17/moody-s-upgrades-softbank-s-debt-rating-on-credit-fundamentals), S&P Global Ratings) ⟨crawl 2026-08-04⟩
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2025-09-17/moody-s-upgrades-softbank-s-debt-rating-on-credit-fundamentals), S&P Global Ratings)
 - **Market is pricing real stress ahead of the 08-06 print**: stock down
   ~50% since early June 2026 despite three straight quarters of large EPS
   beats each followed by a stock decline ("beat-and-drop"); Deutsche Bank
   downgraded to Hold; CDS costs on SoftBank debt have risen; a technical
   "dead cross" formed 2026-07-28 ahead of the 2.6% Arm-sympathy drop
   already on this thread's 07-30/08-01 entries.
-  ([Investing.com](https://www.investing.com/news/stock-market-news/softbank-q1-earnings-preview-low-bar-arm-risk-and-the-beatanddrop-pattern-93CH-4832632)) ⟨crawl 2026-08-04⟩
+  ([Investing.com](https://www.investing.com/news/stock-market-news/softbank-q1-earnings-preview-low-bar-arm-risk-and-the-beatanddrop-pattern-93CH-4832632))
 - **Confirmed: the 08-06 Group print has not happened yet** as of
   2026-08-04 (3-day GDELT sweep found no contradicting report); the
   SoftBank Corp/SoftBank Group entity-guard trap this thread flagged
@@ -125,15 +125,15 @@ blurb: 'The empire''s concentration play, assembled from pieces other threads ca
   **Arm's own SEC 6-K filing puts SoftBank's beneficial stake at ~86.4%
   as of 2026-05-21** — close to, but below, the 87.1% currently on the
   board.
-  ([SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001973239/000197323926000114/arm-20260630.htm)) ⟨crawl 2026-08-04⟩
+  ([SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001973239/000197323926000114/arm-20260630.htm))
 - **Son's own framing treats the concentration as deliberate, not
   incidental**: the strategy is branded internally as "Izanagi" (single-
   source, unconfirmed) and at a shareholder meeting Son said "SoftBank's
   mission is to drive human evolution and realize ASI," predicting ASI
-  "10,000 times smarter than humans within a decade." ⟨crawl 2026-08-04⟩
+  "10,000 times smarter than humans within a decade."
 
-Full sourcing and confidence levels: `artifacts/findings/softbank-2026-08-04.md`
-and `artifacts/bundles/softbank-2026-08-04/provenance.yaml`.
+Full sourcing and confidence levels: artifacts/findings/softbank-2026-08-04.md
+and artifacts/bundles/softbank-2026-08-04/provenance.yaml.
 
 ## 2026-08-03 — The one OpenAI-collateral loan lenders won't extend, ahead of the 08-06 print
 
@@ -143,7 +143,7 @@ and `artifacts/bundles/softbank-2026-08-04/provenance.yaml`.
   concerns" (halted 06-10, renewed talks 07-01, no resolution), a
   lenders'-eye read on the OpenAI valuation as collateral, as Arm weakness
   compresses SoftBank's NAV into Thursday's 08-06 print.
-  (Invezz/Investing.com; SoftBank IR, 08-03) ⟨daily 2026-08-03⟩
+  (Invezz/Investing.com; SoftBank IR, 08-03)
 - **⚠ Entity guard: the "record SoftBank Q1" on the overnight wires is
   SoftBank *Corp* (9434), not SoftBank *Group* (9984)** — the domestic
   telecom carrier reported revenue ¥1,814.7B (+9% YoY) and operating income
@@ -151,33 +151,33 @@ and `artifacts/bundles/softbank-2026-08-04/provenance.yaml`.
   listed company from the Vision Fund/Arm/OpenAI holding vehicle this thread
   tracks, which reported nothing overnight and still prints **08-06**.
   Moderate-confidence sourcing (wire pickups of an earnings-call
-  transcript). ⟨daily 2026-08-03⟩
+  transcript).
 - 💡 **Worth writing down as a standing trap:** the two entities share a
   brand, a founder and a reporting season, and only one of them is the
   AI-financing story. Any "SoftBank beats" headline needs its ticker checked
-  before it touches this thread. ⟨daily 2026-08-03⟩
+  before it touches this thread.
 
 ## 2026-08-01 — The $40B OpenAI bridge loan's full structure, ahead of the 08-06 print
 
 - **The $40B bridge loan splits $30B flowing to OpenAI via Vision Fund 2
   and $10B for general corporate use, drawn in $10B tranches on
   2026-04-01, 2026-07-01 and a scheduled 2026-10-01.**
-  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-27/softbank-s-40-billion-loan-for-openai-stake-gets-21-new-lenders)) ⟨daily 2026-08-01⟩
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-27/softbank-s-40-billion-loan-for-openai-stake-gets-21-new-lenders))
 - **Lead arrangers are JPMorgan, Goldman Sachs, Mizuho, SMBC and MUFG;
   the 07-27 syndication allocated roughly $7B across 21 new lenders,
   with First Abu Dhabi Bank, GIC and Standard Chartered each taking about
   $1B.**
-  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-27/softbank-s-40-billion-loan-for-openai-stake-gets-21-new-lenders)) ⟨daily 2026-08-01⟩
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-27/softbank-s-40-billion-loan-for-openai-stake-gets-21-new-lenders))
 - **Effective interest cost is reported at approximately 6.14% (SOFR plus
   roughly 250bps), with the loan maturing 2027-03-25** — the maturity
   date matches what this thread already had on record; the interest cost
   is new.
-  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-27/softbank-s-40-billion-loan-for-openai-stake-gets-21-new-lenders)) ⟨daily 2026-08-01⟩
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-27/softbank-s-40-billion-loan-for-openai-stake-gets-21-new-lenders))
 - **Arm's most recent quarterly print — record revenue of $1.289B, +22%
   — was followed by shares falling about 7% after hours to $209 on GAAP
   operating margin compression to 7.1% from 10.8%; SoftBank fell 3.2% to
   ¥6,367 in the following session, compounded by an HSBC downgrade.** ⚠
-  These price moves are secondary-sourced and not exchange-verified. ⟨daily 2026-08-01⟩
+  These price moves are secondary-sourced and not exchange-verified.
 
 ## 2026-07-31 — Q1 earnings date was wrong (real date 08-06); stock hits limit-up on the Tokyo AI rally
 
@@ -186,7 +186,7 @@ and `artifacts/bundles/softbank-2026-08-04/provenance.yaml`.
   **2026-08-06** (report disclosed 3:30pm JST, briefing 4:30pm JST); all
   Q1 materials still show placeholders as of this check. The prior
   07-30 date traced to a single uncorroborated secondary source.
-  ([SoftBank Group IR](https://group.softbank/en/event/earnings_2026q1)) ⟨daily 2026-07-31⟩
+  ([SoftBank Group IR](https://group.softbank/en/event/earnings_2026q1))
 - **SoftBank shares hit the exchange's daily limit-up (+12-15%, to
   ~5,322 yen) and Arm rose 9% overnight**, part of a broad Tokyo
   AI/semiconductor rally (Nikkei 225 +4.37%, Advantest and Tokyo
@@ -194,21 +194,21 @@ and `artifacts/bundles/softbank-2026-08-04/provenance.yaml`.
   reversing the "rotation away from chips" framing that closed out
   07-29's Arm earnings coverage one trading day later, independent of
   SoftBank's own still-unreported results.
-  ([Bloomberg Japan](https://www.bloomberg.com/jp/news/articles/2026-07-31/TJ0K57KJH6V400), [Nikkei](https://www.nikkei.com/article/DGXZQOFL3119J0R30C26A7000000/)) ⟨daily 2026-07-31⟩
+  ([Bloomberg Japan](https://www.bloomberg.com/jp/news/articles/2026-07-31/TJ0K57KJH6V400), [Nikkei](https://www.nikkei.com/article/DGXZQOFL3119J0R30C26A7000000/))
 
 ## 2026-07-28 — The bridge widens, and gets a maturity date
 
 - **SoftBank's $40B bridge loan against its OpenAI stake added 21 new
   lenders** (reported 07-27, caught here by the cold rotation) — the
   syndicate widening rather than the exposure shrinking.
-  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-27/softbank-s-40-billion-loan-for-openai-stake-gets-21-new-lenders)) ⟨daily 2026-07-28⟩
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-27/softbank-s-40-billion-loan-for-openai-stake-gets-21-new-lenders))
 - **It matures 2027-03-25** — now a ledger entry, because that date is a
   hard clock on the position and it falls **before** the 2027 window
   analysts are converging on for an OpenAI listing. Refinance, repay or
   extend: whichever happens, it dates the liquidity story this thread
-  tracks. ⟨daily 2026-07-28⟩
+  tracks.
 
-## 2026-07-27 — The stack, assembled ⟨seed 2026-07-28⟩
+## 2026-07-27 — The stack, assembled
 
 - **The concentration picture** (pieces from stargate-buildout,
   openai-ipo-timing, arm-royalty-regime, intel-rescue — first drawn

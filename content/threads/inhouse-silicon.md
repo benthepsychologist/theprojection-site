@@ -30,7 +30,7 @@ blurb: The custom-silicon revolt (TPU/Trainium/Maia/MTIA) — real but INFERENCE
   terms only swept the hyperscalers' chips, which is exactly why the
   thread had gone quiet). First frontier-lab entrant on a thread that
   had been hyperscaler-only; term and entity added.
-  ([TechCrunch](https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/)) ⟨daily 2026-08-07⟩
+  ([TechCrunch](https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/))
 
 ## 2026-08-05 — A fifth entrant: Anthropic starts building its own chip-design team
 
@@ -48,9 +48,9 @@ blurb: The custom-silicon revolt (TPU/Trainium/Maia/MTIA) — real but INFERENCE
   hyperscaler chips. Coverage doesn't specify whether the target is
   training or inference/serving — a genuine open question, not yet
   resolved by any source.
-  ([TechCrunch](https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/)) ⟨daily 2026-08-05⟩
+  ([TechCrunch](https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/))
 
-## 2026-07-27 — Four programs, one wall ⟨crawl 2026-07-27⟩
+## 2026-07-27 — Four programs, one wall
 
 - TPU v7 Ironwood (Broadcom/MediaTek/TSMC co-design) · Maia 200
   (dual-purpose, volumes undisclosed) · Trainium 1.4M deployed ·
@@ -59,12 +59,12 @@ blurb: The custom-silicon revolt (TPU/Trainium/Maia/MTIA) — real but INFERENCE
 
 ## 2026-07-24 — Opened + crawled
 
-- **Thread opened** (ben-steer). ⟨steer 2026-07-24⟩
+- **Thread opened** (ben-steer).
 - **Verdict: diversification at the margin and on inference, not a rout.**
   The CUDA-vs-XLA software moat keeps Nvidia the default for anyone without
   a captive anchor customer; the "in-house" silicon is largely outsourced
   to Broadcom/Marvell. ⚠ WebSearch budget exhausted (fan-out) — primary-doc
-  fetch path; Maia 200 + some codenames single-sourced, flagged. ⟨crawl 2026-07-24⟩
+  fetch path; Maia 200 + some codenames single-sourced, flagged.
 
 ## ← Backstory (crawl 2026-07-24 → artifacts/findings/inhouse-silicon-2026-07-24.md)
 
@@ -75,7 +75,7 @@ blurb: The custom-silicon revolt (TPU/Trainium/Maia/MTIA) — real but INFERENCE
   ~6 hyperscaler XPU customers. Marvell (Trainium/Maia co-design)
   projecting ~$11B AI-ASIC revenue in 2026. The revolt enriches the
   co-designers.
-  ([Reuters](https://www.reuters.com/business/broadcom-tumbles-revenue-miss-clouds-ai-boom-bets-2026-06-04/)) ⟨crawl 2026-07-24⟩
+  ([Reuters](https://www.reuters.com/business/broadcom-tumbles-revenue-miss-clouds-ai-boom-bets-2026-06-04/))
 
 ## 2026-04 — Google Ironwood + the Anthropic anchor
 
@@ -83,7 +83,7 @@ blurb: The custom-silicon revolt (TPU/Trainium/Maia/MTIA) — real but INFERENCE
   2025 Anthropic–Google deal (up to 1M TPUs / >1GW in 2026, first phase
   400k Ironwood). SemiAnalysis: Ironwood ~44% lower TCO than a GB200 server;
   Anthropic ~52% lower TCO/PFLOP vs GB300 — the economics behind the revolt.
-  ([SemiAnalysis](https://newsletter.semianalysis.com/p/tpuv7-google-takes-a-swing-at-the)) ⟨crawl 2026-07-24⟩
+  ([SemiAnalysis](https://newsletter.semianalysis.com/p/tpuv7-google-takes-a-swing-at-the))
 
 ## 2026-03 — Meta MTIA: inference, not frontier
 
@@ -91,7 +91,7 @@ blurb: The custom-silicon revolt (TPU/Trainium/Maia/MTIA) — real but INFERENCE
   cadence, "hundreds of thousands" deployed for inference — but explicitly
   NOT frontier-LLM training (Meta still buys Nvidia/AMD for that). The
   workload-specific pattern.
-  ([Meta](https://about.fb.com/news/2026/03/expanding-metas-custom-silicon-to-power-our-ai-workloads/)) ⟨crawl 2026-07-24⟩
+  ([Meta](https://about.fb.com/news/2026/03/expanding-metas-custom-silicon-to-power-our-ai-workloads/))
 
 ## 2026-01 — Microsoft the laggard
 
@@ -100,7 +100,7 @@ blurb: The custom-silicon revolt (TPU/Trainium/Maia/MTIA) — real but INFERENCE
   furthest behind and still overwhelmingly Nvidia-reliant for training. ⚠
   Maia 200 specs are a vendor claim, single-sourced — don't treat as
   independent benchmark.
-  ([Microsoft](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/)) ⟨crawl 2026-07-24⟩
+  ([Microsoft](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/))
 
 ## 2025-10→12 — The Anthropic-on-Amazon anchor
 
@@ -109,4 +109,4 @@ blurb: The custom-silicon revolt (TPU/Trainium/Maia/MTIA) — real but INFERENCE
   AWS passed 1M+ Trainium deployed (+150% YoY); Anthropic committed >$100B
   to AWS/10yr, up to 5GW Trainium. A frontier lab running mostly off Nvidia
   is the strongest evidence the revolt is real.
-  ([Anthropic](https://www.anthropic.com/news/anthropic-amazon-compute)) ⟨crawl 2026-07-24⟩
+  ([Anthropic](https://www.anthropic.com/news/anthropic-amazon-compute))

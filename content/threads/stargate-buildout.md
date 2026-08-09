@@ -31,7 +31,7 @@ blurb: ~$500B / ~10 GW joint venture (OpenAI/SoftBank/Oracle/MGX); ~7 GW + >$400
   targeted 2028. WSJ broke it 07-26, converging across Bloomberg/CNBC/
   DCD/NYT through 07-28 — still described everywhere as early-stage and
   could change.
-  ([CNBC](https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html)) ([Data Center Dynamics](https://www.datacenterdynamics.com/en/news/openai-in-talks-to-lease-10gw-data-center-from-sb-energy-in-ohio/)) ⟨daily 2026-07-28, evidence dated 2026-07-26/27⟩
+  ([CNBC](https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html)) ([Data Center Dynamics](https://www.datacenterdynamics.com/en/news/openai-in-talks-to-lease-10gw-data-center-from-sb-energy-in-ohio/))
 
 ## 2026-07-22 — A new site: Georgia
 
@@ -39,25 +39,24 @@ blurb: ~$500B / ~10 GW joint venture (OpenAI/SoftBank/Oracle/MGX); ~7 GW + >$400
   County, Georgia** — 3.2GW contracted via Georgia Power, buildout
   2028–2032 — the JV keeps adding sites while the SoftBank loan's fee
   trail is still fresh from yesterday.
-  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-22/openai-plans-to-spend-over-30-billion-on-georgia-data-center)) ⟨daily 2026-07-22⟩
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-22/openai-plans-to-spend-over-30-billion-on-georgia-data-center))
 
 ## 2026-07-21 — The financing gets a fee trail
 
 - **SoftBank's $40B OpenAI bridge loan is minting $100M+ in bank fees**
   for JPMorgan/Goldman and co-underwriters — the loan named in this
   thread's watch now has a visible cost of carry.
-  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-21/jpmorgan-goldman-set-for-100-million-paydays-on-softbank-s-record-loan)) ⟨daily 2026-07-21⟩
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-21/jpmorgan-goldman-set-for-100-million-paydays-on-softbank-s-record-loan))
 
 ## ← Backstory
 
 ## 2026-07-01 — Sovereign tranche landed
 
 - **SoftBank's $10B OpenAI tranche and MGX's $49B AI-fund close** both
-  landed, before kestrel's first window. ⟨seed 2026-07-22⟩
+  landed, before kestrel's first window.
 
 ## 2026-06-28 — Thread opened
 
 - **~7 GW + >$400B committed over 3 years**; UAE live via "OpenAI for
   Countries" (UK/Norway/Argentina/South Korea in train); the single
   biggest concentration of AI capital + sovereign money's entry point.
-  ⟨seed 2026-07-22⟩

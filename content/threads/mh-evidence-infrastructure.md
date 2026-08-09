@@ -19,9 +19,9 @@ blurb: 'The machinery that produces the evidence base is under strain from three
 
 ## 2026-08-07 — Opened (ben-steer)
 
-- **Opened as a dedicated child thread of `mh-evidence-watch`**, seeded
+- **Opened as a dedicated child thread of [What Works](/threads/mh-evidence-watch/)**, seeded
   from the EBP therapy-science research crawl. (EBP therapy-science
-  crawl, 2026-08-07) ⟨steer 2026-08-07⟩
+  crawl, 2026-08-07)
 
 ## 2026-08-07 — PHTI has gone quiet on mental health specifically
 
@@ -32,7 +32,7 @@ blurb: 'The machinery that produces the evidence base is under strain from three
   million" founding commitment either — every source, including PHTI's own
   site, calls it "initial" or "seed" funding with no stated end date.
   ([PHTI](https://phti.org/), [PHTI assessments](https://phti.org/assessments/))
-  (wave: mh-q04) ⟨daily 2026-08-07⟩
+  (wave: mh-q04)
 
 ## 2026-07-23 — CHAI answers the "will it credential?" question with a deliberate no
 
@@ -44,7 +44,7 @@ blurb: 'The machinery that produces the evidence base is under strain from three
   standard.** Evidence for a "capture deferred, not resolved" reading of
   CHAI's 2025 pivot away from its failed Assurance Labs model.
   ([CHAI](https://www.chai.org/blog/coalition-for-health-ai-chai-releases-new-best-practice-guide-and-testing))
-  (wave: mh-q04) ⟨daily 2026-08-07⟩
+  (wave: mh-q04)
 
 ## 2026-07-07 — Done Global's He and Brody get the first federal prison sentences for digital-MH executives
 
@@ -56,7 +56,7 @@ blurb: 'The machinery that produces the evidence base is under strain from three
   date had itself been continued once already, from an earlier April 28,
   2026 setting.
   ([DOJ](https://www.justice.gov/opa/pr/founderceo-and-clinical-president-digital-health-company-sentenced-8-years-90-million-scheme))
-  (wave: mh-q04) ⟨daily 2026-08-07⟩
+  (wave: mh-q04)
 
 ## 2026-03 — 70+ signatories demand NICE finally update its 2011 anxiety guideline
 
@@ -64,7 +64,7 @@ blurb: 'The machinery that produces the evidence base is under strain from three
   on NICE to update its anxiety guideline (CG113)**, which has remained
   substantively unchanged since 2011 — a live campaign, distinct from the
   already-updated (and separately contested) depression guideline below.
-  ([Psychotherapy.org.uk](https://www.psychotherapy.org.uk/policy-and-research/public-policy/nice-anxiety-guideline-campaign/)) ⟨steer 2026-08-07⟩
+  ([Psychotherapy.org.uk](https://www.psychotherapy.org.uk/policy-and-research/public-policy/nice-anxiety-guideline-campaign/))
 
 ## 2026-02-03 — Congress rejects the NIH funding cut and consolidation; grant-litigation stays open on a separate track
 
@@ -77,7 +77,7 @@ blurb: 'The machinery that produces the evidence base is under strain from three
   ruling shunting grant-termination claims to the Court of Federal Claims,
   which can pay damages but can't force reinstatement), with no ruling yet.
   ([ACLU](https://www.aclu.org/press-releases/federal-appeals-court-hears-case-challenging-nih-grant-terminations))
-  (wave: mh-q04) ⟨daily 2026-08-07⟩
+  (wave: mh-q04)
 
 ## 2026-01-20 — BACP joins the NICE anxiety-guideline campaign; NICE still hasn't replied
 
@@ -87,7 +87,7 @@ blurb: 'The machinery that produces the evidence base is under strain from three
   2026 stakeholder letter above — with no NICE response found as of this
   check.
   ([Psychotherapy.org.uk](https://www.psychotherapy.org.uk/policy-and-research/public-policy/nice-anxiety-guideline-campaign/))
-  (wave: mh-q04) ⟨daily 2026-08-07⟩
+  (wave: mh-q04)
 
 ## 2025 — The US federal funding shock: NIMH hit hardest of any NIH institute
 
@@ -100,7 +100,7 @@ blurb: 'The machinery that produces the evidence base is under strain from three
   entire evidence base this strand tracks — the structural shock sits
   underneath essentially every meta-analysis and trial cited across the
   other EBP threads.
-  ([AJMC](https://www.ajmc.com/view/nih-grants-terminated-amid-trump-administration-raising-concerns-for-us-research-minority-health-disparities); [The Transmitter](https://www.thetransmitter.org/funding/nih-cuts-quash-323-million-for-neuroscience-research-and-training/)) ⟨steer 2026-08-07⟩
+  ([AJMC](https://www.ajmc.com/view/nih-grants-terminated-amid-trump-administration-raising-concerns-for-us-research-minority-health-disparities); [The Transmitter](https://www.thetransmitter.org/funding/nih-cuts-quash-323-million-for-neuroscience-research-and-training/))
 
 ## 2025 — NHS Talking Therapies: official success story vs. a placebo-equivalence critique
 
@@ -118,7 +118,7 @@ blurb: 'The machinery that produces the evidence base is under strain from three
   psychotherapy-delivery models in the world, and a live, unresolved
   fight over whether its own numbers can be trusted. Scott's critique has
   no direct URL captured in the underlying research crawl.
-  ([NHS Digital](https://digital.nhs.uk/data-and-information/publications/statistical/nhs-talking-therapies-for-anxiety-and-depression-annual-reports/2024-25/therapy-based-outcomes)) ⟨steer 2026-08-07⟩
+  ([NHS Digital](https://digital.nhs.uk/data-and-information/publications/statistical/nhs-talking-therapies-for-anxiety-and-depression-annual-reports/2024-25/therapy-based-outcomes))
 
 ## 2025 — APA's PTSD guideline downgrades EMDR; a formal published critique disagrees
 
@@ -134,7 +134,7 @@ blurb: 'The machinery that produces the evidence base is under strain from three
   guideline. APA's separate depression guideline (still the 2019 version)
   is mid-update, with a new multidisciplinary panel appointed in 2025 and
   no output yet.
-  ([Science Partner Journals](https://spj.science.org/doi/10.34133/jemdr.0034)) ⟨steer 2026-08-07⟩
+  ([Science Partner Journals](https://spj.science.org/doi/10.34133/jemdr.0034))
 
 ## 2025 — Cochrane expands into Global Mental Health amid a standing "gold standard tarnished" critique
 
@@ -144,7 +144,7 @@ blurb: 'The machinery that produces the evidence base is under strain from three
   discourse) that Cochrane's mental-health reviews suffer from datedness,
   narrow evidence-type inclusion criteria, and diagnostic-category
   assumptions that don't map well onto real clinical populations.
-  ([Cochrane](https://www.cochrane.org/news/launch-cochrane-global-mental-health); [standing critique](https://pubmed.ncbi.nlm.nih.gov/23117176/)) ⟨steer 2026-08-07⟩
+  ([Cochrane](https://www.cochrane.org/news/launch-cochrane-global-mental-health); [standing critique](https://pubmed.ncbi.nlm.nih.gov/23117176/))
 
 ## 2023-03 — Cochrane retires its Common Mental Disorders review group
 
@@ -156,7 +156,7 @@ blurb: 'The machinery that produces the evidence base is under strain from three
   pass (which also confirmed the successor site has no RSS feed — no
   MH-specific Cochrane feed exists to subscribe to). The retirement is
   why "who referees the MH evidence base" is a live question rather than
-  a rhetorical one. ⟨steer 2026-08-07⟩
+  a rhetorical one.
 
 ## 2022-06 — NICE updates its depression guideline after a five-year, contested process
 
@@ -166,7 +166,7 @@ blurb: 'The machinery that produces the evidence base is under strain from three
   distinctions between depression subtypes, and underweighted patient
   experience. The predicate for the still-unresolved anxiety-guideline
   campaign above.
-  ([NICE](https://www.nice.org.uk/guidance/ng222); [stakeholder position statement](https://cdn.ymaws.com/www.psychotherapyresearch.org/resource/resmgr/uk-spr/spruk_nice_01_2022.pdf)) ⟨steer 2026-08-07⟩
+  ([NICE](https://www.nice.org.uk/guidance/ng222); [stakeholder position statement](https://cdn.ymaws.com/www.psychotherapyresearch.org/resource/resmgr/uk-spr/spruk_nice_01_2022.pdf))
 
 ## ← Backstory
 

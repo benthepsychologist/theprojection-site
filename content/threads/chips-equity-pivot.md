@@ -19,7 +19,7 @@ blurb: 'Grants→stakes as policy: the state converting subsidy into ownership. 
 ## 2026-08-07 — The portfolio hits exactly the "~30" figure this thread flagged two weeks ago
 
 - **Six more semiconductor firms signed letters of intent for CHIPS Act funding in exchange for "minority, non-controlling" equity, taking the government's total stock portfolio to 30 companies — the same "~30 deals" estimate this thread logged on 07-26 is now a confirmed, named count.** The new tranche: GlobalFoundries plus five smaller/earlier-stage firms (Kepler, Multibeam, Extropic, Thintronics, Obsidia Semiconductors, Aeluma), drawing on up to $874M from the 2022 CHIPS Act. Cumulative government position: ~$26.7B — unchanged from the 07-26 figure, meaning this tranche is additive rather than a revision to the earlier estimate. Intel remains the flagship (9.9% at announce, ~$42B on paper).
-  ([Yahoo Finance/AP](https://finance.yahoo.com/markets/article/trump-administration-adds-6-chipmakers-to-the-governments-stock-portfolio-which-now-spans-30-companies-140535555.html)) ⟨daily 2026-08-07⟩
+  ([Yahoo Finance/AP](https://finance.yahoo.com/markets/article/trump-administration-adds-6-chipmakers-to-the-governments-stock-portfolio-which-now-spans-30-companies-140535555.html))
 
 ## 2026-07-26 — The portfolio nobody can size
 
@@ -30,13 +30,13 @@ blurb: 'Grants→stakes as policy: the state converting subsidy into ownership. 
   no single budget line where the Intel position's rise from $8.9B shows
   up. The "grants→equity" pivot this thread tracks is now a policy
   pattern, not a single Intel-specific deal.
-  ([Fortune](https://fortune.com/2026/07/26/the-u-s-government-invested-27-billion-in-corporate-stakes-good-luck-finding-them/)) ⟨daily 2026-07-28⟩
+  ([Fortune](https://fortune.com/2026/07/26/the-u-s-government-invested-27-billion-in-corporate-stakes-good-luck-finding-them/))
 - **⚠ Cross-sourced contradiction on the Intel position's current value:**
   three figures in circulation for the same $8.9B-cost stake — $36-42B
   (Fortune/TheNextWeb/Biggo), ~$56.5B implied by a separate "$47.6B
   unrealized gain" figure (Yahoo Finance), and Trump's own claimed "$70
   billion" made. ~~None reconcile.~~ **RESOLVED same day by crawl** —
-  see the backstory entry below. ⟨daily 2026-07-28⟩
+  see the backstory entry below.
 
 ## ← Backstory
 
@@ -46,8 +46,8 @@ blurb: 'Grants→stakes as policy: the state converting subsidy into ownership. 
      four real threads"), rode the /daily dispatch tiers. -->
 
 ### Backstory — the Intel-stake tangle as the thesis's cleanest exhibit, 2026-07-28
-Finding: `artifacts/findings/intel-stake-tangle-2026-07-28.md` · Bundle:
-`artifacts/bundles/intel-stake-tangle-2026-07-28/provenance.yaml`
+Finding: artifacts/findings/intel-stake-tangle-2026-07-28.md · Bundle:
+artifacts/bundles/intel-stake-tangle-2026-07-28/provenance.yaml
 
 - **The portfolio's flagship position has no official valuation
   anywhere** — no SC 13D/13G, no budget-document line (Fortune 07-26),
@@ -57,4 +57,4 @@ Finding: `artifacts/findings/intel-stake-tangle-2026-07-28.md` · Bundle:
   price — while the filing-accurate holding (290.3M issued shares,
   $25-28B) has never been quoted in public at all. The gap between the
   claimed and the documentable IS this thread's thesis, now with
-  receipts. ⟨crawl 2026-07-28⟩
+  receipts.

@@ -17,12 +17,12 @@ blurb: Amazon's push is primary-care + pharmacy + a Bedrock 'Health AI' agent la
 
 ## 2026-07-24 — Opened + crawled
 
-- **Thread opened** (ben-steer). ⟨steer 2026-07-24⟩
+- **Thread opened** (ben-steer).
 - **Verdict: primary-care + pharmacy + AI-infra led; the MH angle is mostly
   adjacent.** For a clinical-MH lens the thread to watch is
   AWS-as-behavioral-health-infrastructure (HealthScribe/Netsmart) — quieter
   but more structural than the consumer One Medical headlines. ⚠ WebSearch
-  budget exhausted (fan-out) — fetched via DDG + primary press. ⟨crawl 2026-07-24⟩
+  budget exhausted (fan-out) — fetched via DDG + primary press.
 
 ## ← Backstory (crawl 2026-07-24 → artifacts/findings/amazon-health-2026-07-24.md)
 
@@ -33,7 +33,7 @@ blurb: Amazon's push is primary-care + pharmacy + a Bedrock 'Health AI' agent la
   HIE, routes complex cases to partner systems (Rush/Cleveland Clinic);
   Prime members get up to 5 free consults. First shipped to One Medical
   members 01-21.
-  ([TechCrunch](https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/)) ⟨crawl 2026-07-24⟩
+  ([TechCrunch](https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/))
 
 ## 2026-02 — Consumer MH-adjacent touches
 
@@ -42,7 +42,7 @@ blurb: Amazon's push is primary-care + pharmacy + a Bedrock 'Health AI' agent la
   to ~4,500 US cities — psychiatric-med fulfillment is MH-adjacent
   distribution. One Medical's "Mindset" (virtual therapy/psychiatry)
   carries over as an Amazon asset.
-  ([aboutamazon](https://press.aboutamazon.com/2026/2/amazon-one-medical-introduces-health-insights-to-help-patients-better-understand-their-lab-results)) ⟨crawl 2026-07-24⟩
+  ([aboutamazon](https://press.aboutamazon.com/2026/2/amazon-one-medical-introduces-health-insights-to-help-patients-better-understand-their-lab-results))
 
 ## 2025-02 — The MH-native move (upstream)
 
@@ -50,10 +50,10 @@ blurb: Amazon's push is primary-care + pharmacy + a Bedrock 'Health AI' agent la
   Netsmart (a behavioral-health EHR) integrated — Amazon as the
   documentation infrastructure the therapy industry runs on. The clearest
   MH-native item, and it's in AWS, not the consumer stack.
-  ([AWS](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-healthscribe-girpp-note-template-behavioral-health/)) ⟨crawl 2026-07-24⟩
+  ([AWS](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-healthscribe-girpp-note-template-behavioral-health/))
 
 ## 2023-2024 — The anchor
 
 - **Amazon closed the One Medical acquisition** (~$3.9B, 02-2023); Amazon
   Clinic folded into One Medical (06-2024) — the base the whole push
-  builds on. ⟨crawl 2026-07-24⟩
+  builds on.

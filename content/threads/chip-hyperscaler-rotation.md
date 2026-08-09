@@ -13,15 +13,15 @@ blurb: 'Analysts (Morgan Stanley, UBS, Forrester) are calling an explicit alloca
   a call rather than inferred from the chip-stock selloff itself. BofA dissents, calling
   it mid-innings. Track: whether tonight''s four prints (Microsoft/Meta/Arm/Qualcomm)
   confirm or kill the peaking thesis, and whether the rotation shows up as fund-flow
-  data, not just analyst notes. Distinct from `chips-equity-pivot` (CHIPS Act grants-to-equity
-  policy) and from `ai-trade-bear-turn` (the broader AI-stock drawdown) — this is
-  specifically the reallocation call between the two cohorts.'
+  data, not just analyst notes. Distinct from CHIPS Equity Pivot (CHIPS Act grants-to-equity
+  policy) and from AI Bear Turn (the broader AI-stock drawdown) — this is specifically
+  the reallocation call between the two cohorts.'
 ---
 
 ## 2026-08-08 — The scare that triggered the rotation debate starts unwinding
 
 - **South Korea's SK Hynix-led selloff began easing as roughly $1.4B in leveraged trades unwound, a day after a brief pre-market "flash crash" (a 30%-limit-down print on an alternative exchange, lasting under an hour) had rattled the KOSPI.** The rout traced to Wall Street spillover — SanDisk's strong earnings but soft guidance sparked broader memory-sector jitters — layered onto South Korea's own leveraged-ETF exposure to AI/semiconductor names. The easing doesn't resolve this thread's core question (is the rotation real or noise), but it does mark the specific volatility episode this week's "peaking" debate was reacting to as a market-structure event (leverage unwind), not a fresh fundamentals signal.
-  ([CNBC](https://www.cnbc.com/2026/08/06/asia-tech-selloff-wall-street-samsung-sk-hynix.html)) ⟨daily 2026-08-08⟩
+  ([CNBC](https://www.cnbc.com/2026/08/06/asia-tech-selloff-wall-street-samsung-sk-hynix.html))
 
 ## 2026-08-05 — A named fund manager pushes back on "peaking": this is a reset, not a rotation
 
@@ -38,7 +38,7 @@ blurb: 'Analysts (Morgan Stanley, UBS, Forrester) are calling an explicit alloca
   on-the-record voice landing on the "capex not peaking" side of the
   split this thread already tracks, not a new data point from fund-flow
   data itself.
-  ([Wealth Professional](https://www.wealthprofessional.ca/investments/equity-markets/does-the-correction-in-chip-stocks-represent-a-new-rotation-for-ai-investors/393183)) ⟨daily 2026-08-05⟩
+  ([Wealth Professional](https://www.wealthprofessional.ca/investments/equity-markets/does-the-correction-in-chip-stocks-represent-a-new-rotation-for-ai-investors/393183))
 
 ## 2026-08-03 — Megacap chip names bounce, but SOXX breadth lags its own leaders
 
@@ -47,24 +47,24 @@ blurb: 'Analysts (Morgan Stanley, UBS, Forrester) are calling an explicit alloca
   SOXX gained only +0.55% (ARM −0.26%), so July's rotation-away stabilized
   at the megacap-leader level without breadth across the broader complex
   recovering.
-  (Yahoo/Google Finance, stockanalysis.com, 08-03) ⟨daily 2026-08-03⟩
+  (Yahoo/Google Finance, stockanalysis.com, 08-03)
 
 ## 2026-08-01 — The chip complex fell 22% in July while Nvidia went sideways
 
 - **SOXX fell 22.1% in July, its worst month since December 2002, against
   +67.7% year-to-date.**
-  ([CNBC](https://www.cnbc.com/2026/07/28/chip-stocks-head-for-one-of-their-worst-months-ever-is-it-the-end.html)) ⟨daily 2026-08-01⟩
+  ([CNBC](https://www.cnbc.com/2026/07/28/chip-stocks-head-for-one-of-their-worst-months-ever-is-it-the-end.html))
 - **Nvidia was essentially flat for the month — roughly +0.33%, from a
   06-30 close of $200.09 to a 07-31 close of $200.75, and +2.93% on 07-31
   alone** — a divergence from its own index worth reconciling rather than
   assuming NVDA fell with the group. ⚠ Single-source (stockanalysis.com);
   flag as needing a second check if load-bearing.
-  ([stockanalysis.com](https://stockanalysis.com/stocks/nvda/history/)) ⟨daily 2026-08-01⟩
+  ([stockanalysis.com](https://stockanalysis.com/stocks/nvda/history/))
 - **Broadcom was roughly flat over a trailing 30-day window (−0.04%)
-  despite a −3.1% single session on 07-24.** ⟨daily 2026-08-01⟩
+  despite a −3.1% single session on 07-24.**
 - **⚠ Clean July monthly percentages for AMD, TSMC, Micron, Arm and
   Qualcomm could not be obtained from a reliable source in this pass** —
-  no such figure should be treated as confirmed if it appears elsewhere. ⟨daily 2026-08-01⟩
+  no such figure should be treated as confirmed if it appears elsewhere.
 
 ## 2026-07-30 — Samsung answers half the watch question; the four prints show a bifurcated verdict, not a clean turn
 
@@ -74,14 +74,14 @@ blurb: 'Analysts (Morgan Stanley, UBS, Forrester) are calling an explicit alloca
   selloff two nights earlier, despite all three being "chipmakers."
   Reinforces this thread's monetization-proven-vs-unproven reframe rather
   than breaking it: Samsung's profit is realized, Arm's was bookings.
-  ([Reuters]) ⟨daily 2026-07-30⟩
+  ([Reuters])
 - **Amazon answered the other half: AWS grew 37% YoY, the fastest in 18
   quarters** — a clean beat against the ~31-33% consensus, completing
-  this thread's own watch question. Full detail on `aws-capex`. The
+  this thread's own watch question. Full detail on [AWS Capex](/threads/aws-capex/). The
   monetization-proven-vs-unproven line now holds across all five prints
   checked this week (Microsoft, Samsung, Amazon rewarded on visible
   revenue conversion; Meta, Arm, Qualcomm sold on bookings/legacy
-  exposure without it). ⟨daily 2026-07-30⟩
+  exposure without it).
 - **Restating the four-print verdict with today's fuller detail:**
   Microsoft (+8-9%, Azure $100B annualized, cloud growth fastest since
   2022) was rewarded for capex with visible revenue conversion; Meta
@@ -92,31 +92,30 @@ blurb: 'Analysts (Morgan Stanley, UBS, Forrester) are calling an explicit alloca
   anyway on a smartphone-royalty cut) both sold off on
   legacy/smartphone-exposed revenue. The dividing line is
   monetization-proven vs. monetization-unproven, confirmed again by
-  Samsung's opposite reaction. ⟨daily 2026-07-30⟩
+  Samsung's opposite reaction.
 - **Macro crosscurrent stacked on the same tape:** Fed Chair Kevin
   Warsh's credibility was publicly questioned after Tuesday's 9-3 split
   vote; the Iran conflict widened further overnight with oil back above
   $90 — both pulling on the same market as the earnings verdicts.
-  ⟨daily 2026-07-30⟩
 
-## 2026-07-29 — Opened: analysts call the rotation explicitly ⟨steer 2026-07-29⟩
+## 2026-07-29 — Opened: analysts call the rotation explicitly
 
-- **Split from `chips-equity-pivot`** (ben-steer) — that thread is CHIPS
+- **Split from [CHIPS Equity Pivot](/threads/chips-equity-pivot/)** (ben-steer) — that thread is CHIPS
   Act grants-to-equity policy; this is the separate chipmaker-to-hyperscaler
   reallocation trade a tier-2 agent had written into it by mistake, and
-  flagged as a topic mismatch itself. ⟨steer 2026-07-29⟩
+  flagged as a topic mismatch itself.
 - **Analysts are framing the selloff as a rotation from chipmakers to
   hyperscalers**, on fear that AI infrastructure capex is peaking faster
   than expected — Morgan Stanley, UBS and Forrester; BofA dissents and
   calls it mid-innings.
-  ([Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/ai-investors-may-pivot-hyperscalers-133026207.html)) ⟨daily 2026-07-29⟩
+  ([Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/ai-investors-may-pivot-hyperscalers-133026207.html))
 - **This is the first time the thesis has been stated as an explicit
-  allocation call rather than inferred from price.** ⟨daily 2026-07-29⟩
+  allocation call rather than inferred from price.**
 - **The four prints answered, and split the thesis in two.** "Capex is
   peaking" is undercut — both hyperscalers that disclosed guidance moved
   it up: Meta's floor rose to $130-145B (its second raise this year),
   Microsoft guided FY27 to "grow year-over-year" plus $50B+/quarter.
-  Neither showed a peak. ⟨daily 2026-07-29⟩
+  Neither showed a peak.
 - **"Rotation to hyperscalers" is real but was the wrong axis.** Arm and
   Qualcomm both fell on genuinely strong AI-specific numbers — Arm's
   AGI-CPU bookings doubled to $2B+, Qualcomm's FY2029 data-center target
@@ -126,7 +125,6 @@ blurb: 'Analysts (Morgan Stanley, UBS, Forrester) are calling an explicit alloca
   actually drew tonight was **monetization-proven vs.
   monetization-unproven spend**, not hyperscaler vs. chipmaker: Microsoft
   bought tolerance for its capex with 43% Azure growth; Meta did not.
-  ⟨daily 2026-07-29⟩
 
 ## ← Backstory
 

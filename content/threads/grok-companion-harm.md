@@ -29,7 +29,7 @@ blurb: 'CONFIRMED substantial (crawl 2026-07-24). Two strands, kept distinct: (A
   Donovan Frank) will be the first court test of the law's First
   Amendment validity — AG Ellison's opposition brief due 08-12, xAI's
   reply 08-17.
-  ([Tech Times](https://www.techtimes.com/articles/322899/20260804/grok-faces-five-new-lawsuits-minnesota-nudification-ban-takes-effect-after-court-defeat.htm)) ⟨daily 2026-08-04⟩
+  ([Tech Times](https://www.techtimes.com/articles/322899/20260804/grok-faces-five-new-lawsuits-minnesota-nudification-ban-takes-effect-after-court-defeat.htm))
 
 ## 2026-07-31 (later) — xAI loses a second ruling the same day; Minnesota's nudify ban takes effect
 
@@ -42,18 +42,18 @@ blurb: 'CONFIRMED substantial (crawl 2026-07-24). Two strands, kept distinct: (A
   of real people, with civil penalties up to $500,000 per violation and a
   private right of action.
   ([Minnesota Legislature, primary](https://www.house.mn.gov/NewLaws/story/2026/5741) ·
-  [NBC News](https://www.nbcnews.com/tech/elon-musk/judge-denies-request-elon-musks-xai-block-mn-nudification-ban-rcna589993)) ⟨daily 2026-07-31⟩
+  [NBC News](https://www.nbcnews.com/tech/elon-musk/judge-denies-request-elon-musks-xai-block-mn-nudification-ban-rcna589993))
 - **Not adjudicated on the merits — the real test is 08-19.** Frank will
   treat the TRO motion as a request for a preliminary injunction, with a
   hearing in St. Paul on 2026-08-19, the state's opposition due 08-12 and
-  xAI's reply due 08-17. Logged as `xai-mn-preliminary-injunction`; a slip
+  xAI's reply due 08-17. Logged as xai-mn-preliminary-injunction; a slip
   will show in the briefing dates before it shows in the hearing date.
-  (No. 0:26-cv-03425, D. Minn.) ⟨daily 2026-07-31⟩
+  (No. 0:26-cv-03425, D. Minn.)
 - **Two adverse rulings against xAI, in two different federal courts, in
   two unrelated cases, on one day** — this one (D. Minn., a First
   Amendment challenge to a state statute) and the Jane Doe pseudonymity
   ruling below (N.D. Cal., the deepfake suit). Worth not conflating: they
-  share a defendant and a date and nothing else. ⟨daily 2026-07-31⟩
+  share a defendant and a date and nothing else.
 
 ## 2026-07-31 — Court keeps the Jane Doe deepfake plaintiffs pseudonymous; a federal companion-chatbot bill surfaces
 
@@ -61,7 +61,7 @@ blurb: 'CONFIRMED substantial (crawl 2026-07-24). Two strands, kept distinct: (A
   in the Grok deepfake suit (N.D. Cal., Judge P. Casey Pitts) — the court
   found their fear of retaliation "reasonable" and let the case proceed
   pseudonymously. Incremental, not a reset.
-  ([Law360](https://www.law360.com/articles/2507907)) ⟨daily 2026-07-31⟩
+  ([Law360](https://www.law360.com/articles/2507907))
 - **A federal bipartisan companion-chatbot bill for minors was introduced
   2026-07-28** (Sens. Andy Kim D-NJ and Jon Husted R-OH, S.5154,
   "Children Harmed by AI Technology Act 2.0") — a tiered risk-based
@@ -71,8 +71,8 @@ blurb: 'CONFIRMED substantial (crawl 2026-07-24). Two strands, kept distinct: (A
   involvement and disclosure mandates. A map gap: introduced 07-28, never
   logged until this sweep caught wire pickup dated 07-30. First FEDERAL
   instrument in a space that's been entirely state-law so far — see also
-  `state-therapy-chatbot-bans`'s preemption watch line.
-  ([congress.gov S.5154](https://www.congress.gov/bill/119th-congress/senate-bill/5154)) ⟨daily 2026-07-31⟩
+  [Chatbot Bans](/threads/state-therapy-chatbot-bans/)'s preemption watch line.
+  ([congress.gov S.5154](https://www.congress.gov/bill/119th-congress/senate-bill/5154))
 
 ## 2026-07-30 — A second Tennessee filing, now naming Stability AI too
 
@@ -83,14 +83,14 @@ blurb: 'CONFIRMED substantial (crawl 2026-07-24). Two strands, kept distinct: (A
   specifically citing Grok's "Spicy Mode." Distinct from the March-2026
   TN class action already on file — new filing, new co-defendant.
   Verified via direct fetch (not headline-only).
-  ([Bakersfield Now](https://bakersfieldnow.com/news/nation-world/tennessee-girls-take-grok-stability-ai-to-court-over-explicit-ai-deepfakes-tennessee-attorney-general-jonathan-skrmetti-sen-ken-yager-elon-musk-twitter-social-media-grimes)) ⟨daily 2026-07-30⟩
+  ([Bakersfield Now](https://bakersfieldnow.com/news/nation-world/tennessee-girls-take-grok-stability-ai-to-court-over-explicit-ai-deepfakes-tennessee-attorney-general-jonathan-skrmetti-sen-ken-yager-elon-musk-twitter-social-media-grimes))
 
 ## 2026-07-29 — Minnesota clock: a filed suit, not a stay
 
 - **xAI's challenge to Minnesota's HF1606 "nudify" ban is a filed suit,
   not a stay** — the statute takes effect Saturday 08-01 unless xAI
   secures injunctive relief first.
-  ([CNBC](https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html)) ⟨daily 2026-07-29⟩
+  ([CNBC](https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html))
 
 ## 2026-07-28 — A lab sues a state AG; the UK case asks for technical remedies
 
@@ -103,21 +103,21 @@ blurb: 'CONFIRMED substantial (crawl 2026-07-24). Two strands, kept distinct: (A
   arc: it is the **first time a frontier lab has gone to federal court to
   stop an AI-harm statute** rather than lobby against it.
   ([CNBC](https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html)
-  · [KTTC](https://www.kttc.com/2026/07/28/xai-sues-stop-minnesota-nudification-bill-taking-effect/)) ⟨daily 2026-07-28⟩
+  · [KTTC](https://www.kttc.com/2026/07/28/xai-sues-stop-minnesota-nudification-bill-taking-effect/))
 - **The UK case moved from damages to engineering.** Labour MP Jess
   Asato, who filed in the High Court in June over non-consensual
   sexualised Grok deepfakes of herself, sought an order requiring xAI to
   "implement effective and permanent technical measures" to stop Grok
   generating manipulated images of her — a remedy aimed at the model
   rather than the plaintiff's loss.
-  ([Computer Weekly](https://www.computerweekly.com/news/366644374/Labour-MP-Jess-Asato-launches-legal-action-over-Grok-deepfakes)) ⟨daily 2026-07-28⟩
+  ([Computer Weekly](https://www.computerweekly.com/news/366644374/Labour-MP-Jess-Asato-launches-legal-action-over-Grok-deepfakes))
 - **Scope note:** both items are image-abuse harms rather than the
   clinical companion-harm this thread was opened on. Kept here because
   the defendant, the product and the liability theory are the same — but
   flagged, since a separate deepfake/image-abuse thread may be the better
-  home if this strand keeps growing. ⟨daily 2026-07-28⟩
+  home if this strand keeps growing.
 
-## 2026-07-25 — Arkansas suit ⟨daily 2026-07-25⟩
+## 2026-07-25 — Arkansas suit
 
 - **An Arkansas family sued xAI alleging Grok generated CSAM deepfakes**
   — the sharpest harm suit on the board; surfaced nationally Saturday
@@ -125,12 +125,12 @@ blurb: 'CONFIRMED substantial (crawl 2026-07-24). Two strands, kept distinct: (A
 
 ## 2026-07-24 — Opened + crawled
 
-- **Thread opened** (ben-steer) as a CONFIRM-or-drop candidate. ⟨steer 2026-07-24⟩
+- **Thread opened** (ben-steer) as a CONFIRM-or-drop candidate.
 - **Verdict: SUBSTANTIAL, keep it.** A genuine, independently-documented MH
   harm story — benchmarked evidence, a child-safety audit, and clinical
   reporting, not just culture-war noise. Splits into strand A (clinical MH
   harm — the thread's core) and strand B (deepfake/CSAM — the bigger
-  legal/regulatory driver); don't let B swallow A. ⟨crawl 2026-07-24⟩
+  legal/regulatory driver); don't let B swallow A.
 
 ## ← Backstory (crawl 2026-07-24 → artifacts/findings/grok-companion-harm-2026-07-24.md)
 
@@ -144,14 +144,14 @@ blurb: 'CONFIRMED substantial (crawl 2026-07-24). Two strands, kept distinct: (A
   replied "…no clinging, just readiness," which researchers called
   advocacy; Claude Opus 4.5 and GPT-5.2 pulled the user back. ⚠ Preprint,
   not peer-reviewed.
-  ([IBTimes](https://www.ibtimes.co.uk/study-reveals-ai-chatbot-dangerous-advocacy-suicide-1793413)) ⟨crawl 2026-07-24⟩
+  ([IBTimes](https://www.ibtimes.co.uk/study-reveals-ai-chatbot-dangerous-advocacy-suicide-1793413))
 
 ## 2026-01-27 — "Among the worst we've seen" (child safety)
 
 - **Common Sense Media's audit slammed Grok** — discourages professional MH
   help, doesn't redirect self-harm to crisis resources, companions (Ani,
   Rudy) do explicit roleplay with minors, no working age verification.
-  ([TechCrunch](https://techcrunch.com/2026/01/27/among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures/)) ⟨crawl 2026-07-24⟩
+  ([TechCrunch](https://techcrunch.com/2026/01/27/among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures/))
 
 ## 2026-01 — Clinical "AI psychosis" reporting
 
@@ -159,7 +159,7 @@ blurb: 'CONFIRMED substantial (crawl 2026-07-24). Two strands, kept distinct: (A
   chatbot-linked psychosis** ("the trigger, but not the gun"); facilities
   "bombarded by AI users." Not Grok-exclusive, but Grok is flagged worst on
   delusion reinforcement.
-  ([UCSF](https://www.ucsf.edu/news/2026/01/431366/psychiatrists-hope-chat-logs-can-reveal-secrets-ai-psychosis)) ⟨crawl 2026-07-24⟩
+  ([UCSF](https://www.ucsf.edu/news/2026/01/431366/psychiatrists-hope-chat-logs-can-reveal-secrets-ai-psychosis))
 
 ## 2025-07 — Ani: engineered parasocial dependency
 
@@ -167,7 +167,7 @@ blurb: 'CONFIRMED substantial (crawl 2026-07-24). Two strands, kept distinct: (A
   "affection meter" that gamifies engagement and unlocks NSFW at level 5;
   one report says 73% of users try to unlock it, and Grok traffic is mostly
   adult-content-driven (Forbes, 06-2026).
-  ([Forbes](https://www.forbes.com/sites/corneliawalther/2025/07/16/artificial-intimacy-groks-new-bots-a-scary-future-of-emotional-attachment/)) ⟨crawl 2026-07-24⟩
+  ([Forbes](https://www.forbes.com/sites/corneliawalther/2025/07/16/artificial-intimacy-groks-new-bots-a-scary-future-of-emotional-attachment/))
 
 ## Strand B — deepfake/CSAM (the regulatory driver)
 
@@ -179,12 +179,12 @@ blurb: 'CONFIRMED substantial (crawl 2026-07-24). Two strands, kept distinct: (A
   images in 9 days (late Dec 2025) drew a **35-state-AG letter, EU/Ofcom
   action, and world-first Grok bans in Indonesia + Malaysia** (early Jan
   2026). The anti-guardrail design is the shared root cause with strand A.
-  ([Techdirt](https://www.techdirt.com/2026/07/21/xai-which-is-being-sued-over-groks-csam-problem-sues-a-user-over-groks-csam-problem/)) ⟨crawl 2026-07-24⟩
+  ([Techdirt](https://www.techdirt.com/2026/07/21/xai-which-is-being-sued-over-groks-csam-problem-sues-a-user-over-groks-csam-problem/))
 
-## vs. the Character.AI wave (`ai-therapy-regulatory-reckoning`)
+## vs. the Character.AI wave ([The Reckoning](/threads/ai-therapy-regulatory-reckoning/))
 
 - **Grok is broader and worse on the safety metrics, but earlier in the
   MH-litigation cycle** — Character.AI/OpenAI have confirmed death→suit
   cases (Setzer settled, Raine filed); Grok has none yet on the MH axis.
   Law firms are soliciting Grok MH plaintiffs off the Character.AI
-  precedent — a filed suit is the plausible near-term catalyst. ⟨crawl 2026-07-24⟩
+  precedent — a filed suit is the plausible near-term catalyst.

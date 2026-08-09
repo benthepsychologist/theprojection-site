@@ -27,12 +27,12 @@ blurb: The nuclear-for-AI wave — but ~0 net-new MW power any AI datacenter bef
   postings that leaked pre-announcement, and the county moving toward new
   data-center zoning restrictions) rather than a stated power-supply
   failure.
-  ([Southern Maryland Chronicle](https://southernmarylandchronicle.com/2026/08/04/amazon-pulls-plug-on-contentious-lusby-data-center/)) ⟨daily 2026-08-05⟩
+  ([Southern Maryland Chronicle](https://southernmarylandchronicle.com/2026/08/04/amazon-pulls-plug-on-contentious-lusby-data-center/))
 - 💡 **Directly on this thread's "announced-to-operational gap" watch
   line** — this isn't a licensing failure like the thread's usual
   SMR-timeline skepticism, but it's the same underlying pattern: a
   nuclear-adjacent AI site that was announced and then didn't happen,
-  for reasons outside the nuclear technology itself. ⟨daily 2026-08-05⟩
+  for reasons outside the nuclear technology itself.
 
 ## 2026-08-03 — A Nvidia-linked nuclear startup raises $1B to go from prototype to production (caught 08-05)
 
@@ -41,15 +41,15 @@ blurb: The nuclear-for-AI wave — but ~0 net-new MW power any AI datacenter bef
   running a single test reactor in Utah to a production line building
   small reactors, following a development deal signed with Nvidia in
   June 2026.
-  ([TechCrunch](https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/)) ⟨daily 2026-08-05⟩
+  ([TechCrunch](https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/))
 - **A second, smaller nuclear-for-AI data point the same week:** Aalo
   Atomics (already on this thread's radar via its 07-30 Crusoe tie-up)
   reported reaching criticality in its own test reactor — a real
   technical milestone, but still a prototype step, not new AI-serving
   capacity. ⚠ single-source (American Nuclear Society), not
-  independently corroborated. ⟨daily 2026-08-05⟩
+  independently corroborated.
 
-## 2026-07-27 — The nuclear book across the four ⟨crawl 2026-07-27⟩
+## 2026-07-27 — The nuclear book across the four
 
 - Microsoft: TMI/Crane 2027 (DOE $1B, NRC draft + FERC cleared) ·
   Amazon: Talen 1.92GW/17yr firm + X-Energy 5GW-by-2039 · Google:
@@ -57,7 +57,7 @@ blurb: The nuclear-for-AI wave — but ~0 net-new MW power any AI datacenter bef
   Vistra) — but hedged with a 7.5GW gas pivot. Skeptical note: SMR
   timelines lag near-term demand (Bulletin, 07-20).
 
-## 2026-07-25 — First federal dollar ⟨daily 2026-07-25⟩
+## 2026-07-25 — First federal dollar
 
 - **DOE tapped Oklo/X-Energy for a $200M nuclear-for-AI push**; aggregate
   nuclear deals signed by AI companies now ≈ 7M homes of power (07-26
@@ -65,14 +65,14 @@ blurb: The nuclear-for-AI wave — but ~0 net-new MW power any AI datacenter bef
 
 ## 2026-07-24 — Opened + crawled
 
-- **Thread opened** (ben-steer). ⟨steer 2026-07-24⟩
+- **Thread opened** (ben-steer).
 - **Verdict: power is the binding constraint, and nuclear is a real but
   2030s-weighted marathon.** Carnegie (06-2026) pegs the ~13GW of announced
   hyperscaler nuclear at <20% of projected datacenter demand through 2035;
   a single year of planned US solar (43GW) dwarfs the whole mid-2030s
   nuclear pipeline. The near-term "firm" adds are restarts/uprates that
   *re-label* existing MW, not new generation. ⚠ WebSearch budget exhausted
-  (fan-out) — some 2026 items aggregator-only, flagged. ⟨crawl 2026-07-24⟩
+  (fan-out) — some 2026 items aggregator-only, flagged.
 
 ## ← Backstory (crawl 2026-07-24 → artifacts/findings/nuclear-for-ai-2026-07-24.md)
 
@@ -82,14 +82,14 @@ blurb: The nuclear-for-AI wave — but ~0 net-new MW power any AI datacenter bef
   (~835 MW, still in SAFSTOR, final finding ~Sept 2026) — the first firm
   power, targeted 2027. Same month, Carnegie's "Beyond the Hype" quantified
   the announced-vs-real gap.
-  ([Carnegie](https://carnegieendowment.org/research/2026/06/beyond-the-hype-assessing-hyperscaler-nuclear-commitments-against-us-energy-realities)) ⟨crawl 2026-07-24⟩
+  ([Carnegie](https://carnegieendowment.org/research/2026/06/beyond-the-hype-assessing-hyperscaler-nuclear-commitments-against-us-energy-realities))
 
 ## 2026-01 — Meta's nuclear trifecta
 
 - **Meta signed three deals in one month** — TerraPower (~2.8GW Natrium by
   '35), Oklo (1.2GW Aurora, Ohio, by '34), Vistra (~2.6GW existing-plant
   PPAs + uprates) — new-build plus fleet re-labeling.
-  ([Carnegie](https://carnegieendowment.org/research/2026/06/beyond-the-hype-assessing-hyperscaler-nuclear-commitments-against-us-energy-realities)) ⟨crawl 2026-07-24⟩
+  ([Carnegie](https://carnegieendowment.org/research/2026/06/beyond-the-hype-assessing-hyperscaler-nuclear-commitments-against-us-energy-realities))
 
 ## 2024-2025 — The wave's anchors
 
@@ -99,4 +99,4 @@ blurb: The nuclear-for-AI wave — but ~0 net-new MW power any AI datacenter bef
   Kairos** (50→500MW by 2035, first US Gen-IV PPA). Every genuinely NEW
   build is a 2030-2039 SMR/Gen-IV project on designs not yet operating in
   the US.
-  ([World Nuclear News](https://www.world-nuclear-news.org/articles/constellation-to-restart-three-mile-island-unit-powering-microsoft)) ⟨crawl 2026-07-24⟩
+  ([World Nuclear News](https://www.world-nuclear-news.org/articles/constellation-to-restart-three-mile-island-unit-powering-microsoft))

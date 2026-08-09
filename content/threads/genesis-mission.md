@@ -25,7 +25,7 @@ blurb: 'The $5B+ cross-agency AI overlay (DOE-led; spans NSF/NIH/DoD/NASA — $5
   telecoms, water treatment, financial platforms and healthcare systems.
   Extends the tracked agency roster beyond DOE/NSF/NIH/DoD/NASA to
   Commerce-department NIST. Verified directly against NIST's own release.
-  ([NIST](https://www.nist.gov/news-events/news/2026/08/nist-joins-national-genesis-mission-accelerate-ai-innovation)) ⟨daily 2026-08-05⟩
+  ([NIST](https://www.nist.gov/news-events/news/2026/08/nist-joins-national-genesis-mission-accelerate-ai-innovation))
 - **Fusion-energy company SHINE disclosed its own Genesis Mission
   nuclear-AI award** — prime recipient for a Phase I project,
   "AI-Guided Fuel Cycle Facility Optimization," with Argonne National
@@ -35,7 +35,7 @@ blurb: 'The $5B+ cross-agency AI overlay (DOE-led; spans NSF/NIH/DoD/NASA — $5
   a named private-sector nuclear-AI participant but does not resolve the
   program's per-agency allocation question this thread is still tracking.
   Verified directly against SHINE's release.
-  ([PR Newswire](https://www.prnewswire.com/news-releases/shine-selected-for-two-doe-genesis-mission-projects-advancing-ai-in-nuclear-fuel-recycling-302841934.html)) ⟨daily 2026-08-05⟩
+  ([PR Newswire](https://www.prnewswire.com/news-releases/shine-selected-for-two-doe-genesis-mission-projects-advancing-ai-in-nuclear-fuel-recycling-302841934.html))
 
 ## 2026-07-30 — Fact-check: a circulating "$5B total" figure doesn't hold up
 
@@ -49,7 +49,6 @@ blurb: 'The $5B+ cross-agency AI overlay (DOE-led; spans NSF/NIH/DoD/NASA — $5
   nuclear energy"* — almost certainly the same Microsoft $60M commitment
   already logged below, not a separate figure. The $5B headline is
   unconfirmed against primary source — flagged, not propagated.
-  ⟨daily 2026-07-30⟩
 
 ## 2026-07-22 — Primary source pinned: DOE names the first 278 awards
 
@@ -65,8 +64,8 @@ blurb: 'The $5B+ cross-agency AI overlay (DOE-led; spans NSF/NIH/DoD/NASA — $5
   discovery, nuclear energy, quantum, climate/weather, accelerator
   research — the nuclear-for-AI overlap the thread is watching for.
   ([DOE](https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate) ·
-  [DOE partner commitments](https://www.energy.gov/undersecretaryforscience/articles/us-department-energy-announces-more-800-million-partner)) ⟨daily 2026-07-28⟩
+  [DOE partner commitments](https://www.energy.gov/undersecretaryforscience/articles/us-department-energy-announces-more-800-million-partner))
 - **DOE separately announced 24 collaboration agreements and 26
   Genesis Mission "science and technology challenges"** — the program's
   institutional scaffolding beyond the first award tranche.
-  ([DOE](https://www.energy.gov/articles/energy-department-announces-collaboration-agreements-24-organizations-advance-genesis)) ⟨daily 2026-07-28⟩
+  ([DOE](https://www.energy.gov/articles/energy-department-announces-collaboration-agreements-24-organizations-advance-genesis))

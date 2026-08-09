@@ -10,8 +10,8 @@ entities:
 thread_kind: story
 blurb: 'Wired reported 2026-08-05 that Meta ran ads containing AI-generated child
   sexual abuse imagery on its platforms. Distinct from the companion-chatbot harm
-  strand tracked on xAI/Grok (`grok-companion-harm`) — this is a platform/ad-system
-  liability story, not a companion-AI one. Watch: Meta''s own response and moderation-failure
+  strand tracked on xAI/Grok (Grok Harm) — this is a platform/ad-system liability
+  story, not a companion-AI one. Watch: Meta''s own response and moderation-failure
   explanation; whether regulators (FTC, state AGs) open an inquiry; whether this becomes
   a pattern question across ad platforms broadly, not just Meta; any parallel with
   the Grok/ Stability CSAM suits already tracked elsewhere on this map.'
@@ -32,7 +32,7 @@ blurb: 'Wired reported 2026-08-05 that Meta ran ads containing AI-generated chil
   logged here rather than split into a new thread. Ruling landed evening
   of 2026-08-06 ET, ahead of the 2026-08-07 digest window; dated
   explicitly rather than presented as breaking today.
-  ([CNBC](https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html), [PBS NewsHour](https://www.pbs.org/newshour/nation/new-mexico-court-orders-meta-to-pay-567-million-over-mental-health-harms-to-kids-online)) ⟨daily 2026-08-07⟩
+  ([CNBC](https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html), [PBS NewsHour](https://www.pbs.org/newshour/nation/new-mexico-court-orders-meta-to-pay-567-million-over-mental-health-harms-to-kids-online))
 
 ## 2026-08-06 — Opened (ben-steer)
 
@@ -43,7 +43,7 @@ blurb: 'Wired reported 2026-08-05 that Meta ran ads containing AI-generated chil
   mechanism). Offered as a thread candidate by the AI-lens fresh-story
   sweep the same day; promoted same-session ("track the Meta CSAM ads...
   thread, good one").
-  ([Wired](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)) ⟨steer 2026-08-06⟩
+  ([Wired](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/))
 
 ## ← Backstory
 

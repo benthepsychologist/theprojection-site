@@ -13,12 +13,12 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   07-29/30 Russia launched 70+ missiles and 280+ attack drones at Ukraine (260+ intercepted,
   8-10+ civilians killed), and a Kh-101 cruise missile crossed into Poland — a NATO
   member — landing near Tarnawa-Kolonia; NATO scrambled jets, logged as a critical
-  flash (`russia-missile-poland-nato-airspace`). Track: territorial/combat developments,
+  flash (russia-missile-poland-nato-airspace). Track: territorial/combat developments,
   any ceasefire or negotiation track, further NATO-airspace or NATO-adjacent incidents,
   and Western military/financial aid decisions. Distinct from any capital-markets
   read (sanctions, energy, defense-spending), which would split out to a global-capital
-  sibling thread the same way `iran-conflict-widening` / `red-sea-oil-shock` did,
-  if and when that read becomes substantial enough to carry on its own.'
+  sibling thread the same way Iran''s Widening War / Red Sea Shock did, if and when
+  that read becomes substantial enough to carry on its own.'
 ---
 
 ## 2026-08-08 — Kyiv agrees, under US pressure, to spare non-Russian Black Sea oil tankers
@@ -33,7 +33,7 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   points for shipping companies to arrange safe passage. Targeting
   policy is this thread's beat; the CPC/oil-flow market read (August
   exports down roughly a third) belongs to a global-capital sibling.
-  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-08/us-says-ukraine-to-avoid-targeting-tankers-black-sea-oil-site)) ⟨daily 2026-08-08⟩
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-08/us-says-ukraine-to-avoid-targeting-tankers-black-sea-oil-site))
 
 ## 2026-08-06 — An explosive-laden drone found near a Ukrainian cargo plane on German soil
 
@@ -44,13 +44,13 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   "hybrid attack" with suspected state-actor involvement — no formal
   attribution yet. Independently corroborated by Al Jazeera, CNN, The
   Guardian, Euronews, Reuters and DW, all dated 2026-08-06.
-  ([Al Jazeera](https://news.google.com/rss/search?q=Leipzig+Halle+airport+drone+Ukraine)) ⟨daily 2026-08-06⟩
+  ([Al Jazeera](https://news.google.com/rss/search?q=Leipzig+Halle+airport+drone+Ukraine))
 - 💡 **First reported direct-sabotage incident on NATO/German soil this
   thread has tracked.** A genuine escalation in kind (covert sabotage
   targeting war-materiel logistics inside a NATO member state), distinct
   from the front-line combat and airspace-incursion developments this
   thread otherwise watches. No confirmed state actor named — watch for
-  attribution. ⟨daily 2026-08-06⟩
+  attribution.
 
 <!--
   RULES (reframe Phase 0, 2026-07-22):
@@ -58,9 +58,9 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
     (rebuild-in-place; re-runs never duplicate). /crawl APPENDS backstory
     at the bottom under the "## ← Backstory" divider. Two writers, two
     zones, no collision.
-  - Every entry line ends with a provenance marker: ⟨daily YYYY-MM-DD⟩
-    (chain = that day's digest + sidecar) · ⟨crawl YYYY-MM-DD⟩ (chain =
-    finding + bundle) · ⟨seed YYYY-MM-DD⟩ (migration) · ⟨steer YYYY-MM-DD⟩
+  - Every entry line ends with a provenance marker:
+    (chain = that day's digest + sidecar) · (chain =
+    finding + bundle) · (migration) ·
     (Ben dictated). No entry without a marker.
   - Entries are CURATED DEVELOPMENTS, not item mirrors — ambient matches
     update last_seen in threads.yaml but don't earn an entry.
@@ -83,7 +83,7 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   pressed partners for more anti-ballistic systems. This is a direct
   hit on this thread's own watch item (Western military/financial aid
   decisions), distinct from Monday's Patriot-licensing story.
-  ([NPR](https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage)) ⟨daily 2026-08-05⟩
+  ([NPR](https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage))
 
 ## 2026-08-04 — Kyiv's heaviest missile barrage in months; no interceptions reported
 
@@ -97,7 +97,7 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   is the new data point. Considered for the flash rail and not filed:
   a severe escalation inside an already-tracked ongoing war, not a
   novel, first-of-its-kind event.
-  ([Kyiv Independent](https://kyivindependent.com/russian-ballistic-missile-attack-on-kyiv-aug-5/), [CNN via KESQ](https://kesq.com/news/national-world/cnn-world/2026/08/05/russian-attack-kills-15-in-kyiv-region-ukraine-emergency-services-say/)) ⟨daily 2026-08-04⟩
+  ([Kyiv Independent](https://kyivindependent.com/russian-ballistic-missile-attack-on-kyiv-aug-5/), [CNN via KESQ](https://kesq.com/news/national-world/cnn-world/2026/08/05/russian-attack-kills-15-in-kyiv-region-ukraine-emergency-services-say/))
 
 ## 2026-08-03 — Record strikes both ways; an unconfirmed claim a Russian missile crossed into NATO airspace
 
@@ -107,13 +107,13 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   (5–12 killed across outlets), disabled ~two-thirds of Wildberries'
   largest logistics warehouses, and used Magura naval drones to hit radar
   in occupied Crimea for the first time.
-  (AP/PBS/Ukrinform via RSS, 08-02/03) ⟨daily 2026-08-03⟩
+  (AP/PBS/Ukrinform via RSS, 08-02/03)
 - **Ukraine claims a Russian missile — not a drone — violated Polish NATO
   airspace** — a step up from the recorded 07-30 drone incursion, but the
   missile claim is a single-source Ukrainian government assertion that
   Poland says only that it is "examining"; separately Polish F-16s
   intercepted a Russian IL-20 ~60km off the Baltic coast.
-  (AOL/Reuters wire, 08-02) ⟨daily 2026-08-03⟩
+  (AOL/Reuters wire, 08-02)
 - **A second Wildberries wave overnight, plus a refinery fire** — Ukrainian
   drones hit the warehouse at **Chekhov**, ~65km south of the Kremlin (5
   killed, 6 injured, per Moscow Oblast Governor Vorobyov) and a second at
@@ -121,30 +121,30 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   Wildberries' own press service), while the **Syzran oil refinery** in
   Samara Oblast caught fire; Kyiv Independent states it cannot verify the
   reports and Ukraine's military did not comment.
-  ([Kyiv Independent](https://kyivindependent.com/russian-oil-refinery/)) ⟨daily 2026-08-03⟩
+  ([Kyiv Independent](https://kyivindependent.com/russian-oil-refinery/))
 - **The night's incoming: one Iskander-M and 136 drones, 117 neutralised**
   between 18:00 08-03 and 08:00 08-04 Kyiv time, per Ukraine's Air Force —
   consistent with the nightly tempo, single-sourced.
-  (UNN, 08-04) ⟨daily 2026-08-03⟩
+  (UNN, 08-04)
 - 💡 **The target set is narrowing onto commercial logistics.** Two
   successive nights of strikes on the same e-commerce operator's warehouses,
   now reaching both Moscow's and St Petersburg's hinterlands, alongside the
   long-running refinery campaign — this is attrition of civilian
   distribution capacity, and it is a different campaign from the front-line
-  and energy-grid strikes this thread has mostly tracked. ⟨daily 2026-08-03⟩
+  and energy-grid strikes this thread has mostly tracked.
 
 ## 2026-08-02 — Kharkiv postal terminal hit; NATO confirms no Article 4 response
 
 - **A Russian strike hit a postal terminal in Kharkiv's suburbs on 08-02**,
   killing one person and setting a large fire among cargo trucks.
-  ([Kyiv Post](https://www.kyivpost.com/post/81583)) ⟨daily 2026-08-02⟩
+  ([Kyiv Post](https://www.kyivpost.com/post/81583))
 - **A senior NATO military official said there are "no current plans" to
   invoke Article 4** over the Kh-101 cruise missile that landed at
   Tarnawa-Kolonia, Poland on 07-30 (~10m crater, no casualties, no
   residential damage) — a more restrained response than Poland's September
   2025 Article 4 invocation over a drone incursion. No new airspace
   violation and no force-posture change since.
-  ([Newsweek](https://www.newsweek.com/poland-hit-by-unidentified-object-after-major-russian-strikes-ukraine-nato-12263217)) ⟨daily 2026-08-02⟩
+  ([Newsweek](https://www.newsweek.com/poland-hit-by-unidentified-object-after-major-russian-strikes-ukraine-nato-12263217))
 
 ## 2026-08-01 — Ukraine reaches the Engels-2 bomber base; Russia sends 133 drones back
 
@@ -155,26 +155,26 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   drone-launch site near Navlya in Bryansk Oblast, and a warehouse in
   Samara Oblast; Saratov Oblast Governor Roman Busargin said two people
   were killed. Overnight 08-01→08-02.
-  ([Ukrainska Pravda](https://www.pravda.com.ua/eng/news/2026/08/02/8046896/)) ⟨daily 2026-08-01⟩
+  ([Ukrainska Pravda](https://www.pravda.com.ua/eng/news/2026/08/02/8046896/))
 - **Russia launched 133 Shahed-type drones at Ukraine overnight**;
   Ukraine's air force downed 109, and 24 struck 19 locations. Drone
   strikes on Kharkiv's Industrial District and the village of Lohachivka
   injured five including two children and a rescue worker; a FAB-250
   guided bomb hit Sloviansk in Donetsk, destroying about a dozen homes.
-  ([Kyiv Post](https://www.kyivpost.com/post/81583)) ⟨daily 2026-08-01⟩
+  ([Kyiv Post](https://www.kyivpost.com/post/81583))
 - **The 07-31→08-01 Kyiv barrage toll settled at 9 dead** (one outlet,
   CNBC, reported 10) and 30+ injured with 17 hospitalised, across five
   districts — Darnytskyi worst hit with 7 dead and 14 injured,
   Solomianskyi with 2 dead, 8 injured and 35 evacuated from a five-storey
   building. No outlet reported a higher figure or used final-count
   language.
-  ([NPR](https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes)) ⟨daily 2026-08-01⟩
+  ([NPR](https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes))
 - **Trump elaborated on declining Ukraine's request to license domestic
   Patriot missile manufacturing**, saying the US "has not agreed," calling
   the technology "a hard thing to give away" and warning a recipient
   country could "someday turn on you," while saying the two sides are
   still "talking about it." Said at the 07-31 Camp David Cabinet meeting.
-  ([CNBC](https://www.cnbc.com/2026/07/31/trump-ukraine-patriot-missile-license-russia.html)) ⟨daily 2026-08-01⟩
+  ([CNBC](https://www.cnbc.com/2026/07/31/trump-ukraine-patriot-missile-license-russia.html))
 
 ## 2026-07-31 (later) — Russia strikes Kyiv directly: 9+ killed, and Poland pointedly does not invoke Article 4
 
@@ -186,19 +186,19 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   this thread two days earlier — the incursion was the diplomatic event,
   this was the human one.
   ([Al Jazeera](https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv) ·
-  [AP via KSAT](https://www.ksat.com/news/world/2026/08/01/russia-hits-ukrainian-capital-with-ballistic-missiles-and-drones-killing-at-least-9/)) ⟨daily 2026-07-31⟩
+  [AP via KSAT](https://www.ksat.com/news/world/2026/08/01/russia-hits-ukrainian-capital-with-ballistic-missiles-and-drones-killing-at-least-9/))
 - **Poland did NOT invoke NATO Article 4** over the Kh-101 incursion — a
   deliberate contrast with its own September 2025 response to a drone
   incursion, when it did. Tusk convened an emergency coordination group
   and took bilateral solidarity pledges instead. A negative finding worth
   keeping: the alliance's formal consultation machinery was specifically
   not triggered, which bounds how far this escalated institutionally and
-  is the thing to watch if a second incursion follows. ⟨daily 2026-07-31⟩
+  is the thing to watch if a second incursion follows.
 - **Zelenskyy is pressing Washington for a licence to manufacture Patriot
   missiles domestically; Trump has declined so far** — "we have not
   agreed to that... it's a hard thing to give away that kind of
   technology." The first Western-aid decision point this thread has
-  logged. ⟨daily 2026-07-31⟩
+  logged.
 
 ## 2026-07-31 — Thread opened; a NATO-airspace incident is the opening development
 
@@ -208,7 +208,7 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   candidate that day in the frontier-ai and world-news digests,
   unanswered — answered directly here instead of via a third re-offer).
   Also recorded as a standing coverage-scope principle in AGENTS.md
-  discipline 13. ⟨steer 2026-07-31⟩
+  discipline 13.
 - **Opening development: a Russian Kh-101 cruise missile crossed into
   Polish — NATO — airspace overnight 07-29/30**, during the war's
   largest missile-and-drone barrage on Ukraine in weeks — 70+ missiles
@@ -219,10 +219,10 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   scrambled fighter jets, an attack helicopter, and ground defenses;
   Secretary-General Mark Rutte called it "yet another reckless act by
   Russia." Logged as a critical flash
-  (`russia-missile-poland-nato-airspace`, expires 08-03) — a second
+  (russia-missile-poland-nato-airspace, expires 08-03) — a second
   concurrent flash alongside the active Iran one, the "two is
   exceptional" case AGENTS.md's own bar anticipates.
-  ([NPR](https://www.npr.org/2026/07/30/g-s1-136276/russia-ukraine-war), [Al Jazeera](https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland), [Foreign Policy](https://foreignpolicy.com/2026/07/30/poland-russia-missile-incursion-nato-ukraine-war-strikes/)) ⟨daily 2026-07-31⟩
+  ([NPR](https://www.npr.org/2026/07/30/g-s1-136276/russia-ukraine-war), [Al Jazeera](https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland), [Foreign Policy](https://foreignpolicy.com/2026/07/30/poland-russia-missile-incursion-nato-ukraine-war-strikes/))
 
 ## ← Backstory
 

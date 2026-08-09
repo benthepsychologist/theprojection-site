@@ -25,6 +25,6 @@ blurb: 'CMS''s 10-year Outcome-Aligned-Payments demonstration (launched 07-05) �
   accepted applicants chose the BH track, including Headspace, SonderMind,
   Concert Health, Mindoula Health, and April Health by Wysa — tying
   outcomes-based payment directly to multiple watchlist entities at once.
-  ([Fierce Healthcare](https://www.fiercehealthcare.com/digital-health/cms-taps-150-digital-health-companies-providers-access-model)) ⟨daily 2026-07-23⟩
+  ([Fierce Healthcare](https://www.fiercehealthcare.com/digital-health/cms-taps-150-digital-health-companies-providers-access-model))
 
 ## ← Backstory

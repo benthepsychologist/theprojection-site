@@ -9,12 +9,12 @@ entities: []
 thread_kind: story
 blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-month structural
   closure as a one-week price spike. The Strait of Hormuz has been effectively closed
-  since 2026-02-28, the opening day of the Iran war (see `iran-conflict-widening`,
-  whose origin was corrected the same day): transits are running roughly 10 ships/day
-  against a 60-140/day norm, and Maersk, MSC, CMA CGM and Hapag-Lloyd have ALL suspended
-  Hormuz transits, rerouting via the Cape of Good Hope. War-risk insurance is the
-  sharpest number on this thread: 3-10% of hull value versus ~0.25% pre-war, so insuring
-  a $100M tanker for one transit went from ~$250K to $3-10M. VLCC Gulf-to-China freight
+  since 2026-02-28, the opening day of the Iran war (see Iran''s Widening War, whose
+  origin was corrected the same day): transits are running roughly 10 ships/day against
+  a 60-140/day norm, and Maersk, MSC, CMA CGM and Hapag-Lloyd have ALL suspended Hormuz
+  transits, rerouting via the Cape of Good Hope. War-risk insurance is the sharpest
+  number on this thread: 3-10% of hull value versus ~0.25% pre-war, so insuring a
+  $100M tanker for one transit went from ~$250K to $3-10M. VLCC Gulf-to-China freight
   +24% to ~$1.67/bbl. Sourced to Lloyd''s List, a Congressional Research Service product,
   and GulfNews. The 07-23 Houthi strikes on two Saudi tankers and the Brent spike
   to ~$100.69 were therefore an ESCALATION INSIDE an existing blockade, not its start
@@ -34,25 +34,25 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
 ## 2026-08-09 — A second Jazan refinery hit, and Iran's IRGC separates "reopening" from the Oman talks entirely
 
 - **Yemen's Houthis hit Saudi Aramco's Jazan refinery for a second time (first was 07-25/27) — fire extinguished, no injuries, framed by the Houthi spokesman as retaliation for Saudi airspace incursions into Saada/Hajjah.** Aramco itself reported Q2 profit +33% YoY to $33.4B on 08-04 (realized crude $108.1/bbl, +62% YoY) — the same war repeatedly hitting its refining assets is also the reason its upstream earnings are up sharply, a tension worth holding rather than resolving.
-  ([NPR](https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news)) ⟨daily 2026-08-09⟩
-- **Iran's Revolutionary Guard hardened its own Hormuz stance overnight, explicitly separating "reopening" from the Oman negotiations and listing six maximalist conditions — a real risk signal for the `iran-oman-hormuz-deal-signing` expectation this thread has tracked toward ~08-12.** The IRGC's own words: the strait is "a theatre of war... not just a waterway" until the US ends threats/military action, withdraws its naval blockade force, pays war-damage compensation, lifts sanctions, and releases frozen Iranian assets. Iran's Foreign Minister separately called the Oman talks "nearing their final stages" — two different Iranian power centers pointing opposite directions on how close a deal actually is.
-  ([Punch](https://punchng.com/iran-wont-reopen-hormuz-until-us-meets-all-conditions-revolutionary-guards/), [Gulf News](https://gulfnews.com/world/iran-sets-new-conditions-for-hormuz-reopening-1.500635088)) ⟨daily 2026-08-09⟩
+  ([NPR](https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news))
+- **Iran's Revolutionary Guard hardened its own Hormuz stance overnight, explicitly separating "reopening" from the Oman negotiations and listing six maximalist conditions — a real risk signal for the iran-oman-hormuz-deal-signing expectation this thread has tracked toward ~08-12.** The IRGC's own words: the strait is "a theatre of war... not just a waterway" until the US ends threats/military action, withdraws its naval blockade force, pays war-damage compensation, lifts sanctions, and releases frozen Iranian assets. Iran's Foreign Minister separately called the Oman talks "nearing their final stages" — two different Iranian power centers pointing opposite directions on how close a deal actually is.
+  ([Punch](https://punchng.com/iran-wont-reopen-hormuz-until-us-meets-all-conditions-revolutionary-guards/), [Gulf News](https://gulfnews.com/world/iran-sets-new-conditions-for-hormuz-reopening-1.500635088))
 
 ## 2026-08-08 — Iran's IRGC hits a 16th ADNOC tanker — a continuation, not a new front
 
-- **Iran's Revolutionary Guard struck a UAE state-oil tanker with a missile in the Strait of Hormuz — ADNOC's 16th vessel hit since the war began, not a new escalation tier.** UAE state media confirmed the strike (no injuries); the UAE foreign ministry called it "piracy" and a violation of UN Security Council Resolution 2817, with Qatar joining the condemnation. ADNOC's own running count: 15 vessels attacked transiting the strait since the war began, three of them this week alone, one crew death and 20 injuries across the full campaign. Assessed against this map's flash-rail bar: real, sourced, and worth the digest bullet, but inside the standing five-month war `capital-context.yaml` already prices — not a new theatre, combatant, or materially bigger strike.
-  ([Al Jazeera](https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2), [The National](https://www.thenationalnews.com/news/mena/2026/08/08/uae-and-qatar-condemn-iranian-strike-on-adnoc-oil-tanker/)) ⟨daily 2026-08-08⟩
+- **Iran's Revolutionary Guard struck a UAE state-oil tanker with a missile in the Strait of Hormuz — ADNOC's 16th vessel hit since the war began, not a new escalation tier.** UAE state media confirmed the strike (no injuries); the UAE foreign ministry called it "piracy" and a violation of UN Security Council Resolution 2817, with Qatar joining the condemnation. ADNOC's own running count: 15 vessels attacked transiting the strait since the war began, three of them this week alone, one crew death and 20 injuries across the full campaign. Assessed against this map's flash-rail bar: real, sourced, and worth the digest bullet, but inside the standing five-month war capital-context.yaml already prices — not a new theatre, combatant, or materially bigger strike.
+  ([Al Jazeera](https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2), [The National](https://www.thenationalnews.com/news/mena/2026/08/08/uae-and-qatar-condemn-iranian-strike-on-adnoc-oil-tanker/))
 
 ## 2026-08-07 — Brent closes above $83 as Houthi strikes widen and IEA calls this the largest-ever oil supply disruption
 
 - **Brent closed the day +1.2% at $83.48/bbl, not the $81.69 morning-check figure this thread's own daily draft originally carried — full-day Houthi missile/drone strikes on Saudi-backed forces in Yemen's Marib and Hadramout regions, plus continued Hormuz-transit uncertainty, pushed it higher through the session.** The IEA separately characterized the ongoing disruption as the largest in the historical record tied to a single conflict. The Iran-Oman deal (tracked separately) moved to "final drafting" language but remains unsigned, keeping the whipsaw pattern this thread has logged since 08-01 intact.
-  ([SundayGuardianLive](https://sundayguardianlive.com/business/brent-crude-oil-price-today-august-7-brent-climbs-above-83-wti-nears-79-as-strait-of-hormuz-tensions-deepen-check-latest-brent-crude-wti-oil-rates-today-255609/)) ⟨daily 2026-08-07⟩
+  ([SundayGuardianLive](https://sundayguardianlive.com/business/brent-crude-oil-price-today-august-7-brent-climbs-above-83-wti-nears-79-as-strait-of-hormuz-tensions-deepen-check-latest-brent-crude-wti-oil-rates-today-255609/))
 
 ## 2026-08-06 — Brent rebounds into the low-$80s as the still-unsigned Hormuz deal keeps the market whipsawing
 
-- **Brent traded back up off the 08-05 slide** — readings cluster around $80.80 (+1.7% on the session, Oilprice.com) to $83.64 (Forbes/Fortune's Aug-6-morning read, essentially flat on the day) — a rebound from the ~$78.4-78.7 close logged here yesterday, even though the Iran-Oman deal remains unsigned (status: `iran-conflict-widening`, now "agreed in principle" on shipping-lane coordinates but still pending Iran's Supreme Leader and still gated by a US-Iran dispute over fees/control). Two aggregators ~$3 apart — recorded as a range, consistent with this thread's practice when a clean print isn't available.
-  ([Oilprice.com](https://oilprice.com/futures/brent/), [Fortune](https://fortune.com/article/price-of-oil-08-06-2026/)) ⟨daily 2026-08-06⟩
-- **Same pattern flagged 08-05, now repeating in the other direction:** this thread has already watched one de-escalation trade fail to survive a night (08-03) and a slide build on deal anticipation (08-05); today's rebound is the same anticipation trade wobbling, not new information about the strait itself. Nothing here yet confirms which way it ultimately breaks — that depends on an actual signed deal and real transit volumes, not headlines. ⟨daily 2026-08-06⟩
+- **Brent traded back up off the 08-05 slide** — readings cluster around $80.80 (+1.7% on the session, Oilprice.com) to $83.64 (Forbes/Fortune's Aug-6-morning read, essentially flat on the day) — a rebound from the ~$78.4-78.7 close logged here yesterday, even though the Iran-Oman deal remains unsigned (status: [Iran's Widening War](/threads/iran-conflict-widening/), now "agreed in principle" on shipping-lane coordinates but still pending Iran's Supreme Leader and still gated by a US-Iran dispute over fees/control). Two aggregators ~$3 apart — recorded as a range, consistent with this thread's practice when a clean print isn't available.
+  ([Oilprice.com](https://oilprice.com/futures/brent/), [Fortune](https://fortune.com/article/price-of-oil-08-06-2026/))
+- **Same pattern flagged 08-05, now repeating in the other direction:** this thread has already watched one de-escalation trade fail to survive a night (08-03) and a slide build on deal anticipation (08-05); today's rebound is the same anticipation trade wobbling, not new information about the strait itself. Nothing here yet confirms which way it ultimately breaks — that depends on an actual signed deal and real transit volumes, not headlines.
 
 ## 2026-08-05 — Oil extends its slide to ~$78.5 as Hormuz-deal optimism builds again
 
@@ -60,16 +60,16 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   its decline from the 08-03 close of $84.75 — a roughly 7% two-day
   drop — as markets price in a reported 60-day US-Iran-Oman deal to
   reopen the Strait of Hormuz (terms and status on
-  `iran-conflict-widening`). Gold, the mirror trade, gained for a third
+  [Iran's Widening War](/threads/iran-conflict-widening/)). Gold, the mirror trade, gained for a third
   straight day on the same easing-risk-premium logic, holding above
   $4,100.
-  ([Trading Economics](https://tradingeconomics.com/commodity/brent-crude-oil), [NBC News](https://www.nbcnews.com/world/iran/trump-iran-war-deal-strait-hormuz-deal-oman-rcna590920)) ⟨daily 2026-08-05⟩
+  ([Trading Economics](https://tradingeconomics.com/commodity/brent-crude-oil), [NBC News](https://www.nbcnews.com/world/iran/trump-iran-war-deal-strait-hormuz-deal-oman-rcna590920))
 - **The deal is still unsigned, and this thread has already watched one
   de-escalation trade fail to survive a night** — the 08-03 rally
   reversed within hours after a third vessel was struck in the strait.
   This move is running on the same kind of anticipation; whether it
   holds depends on an actual reopening materializing, not on the
-  announcement of one. ⟨daily 2026-08-05⟩
+  announcement of one.
 
 ## 2026-08-03 — Oil craters ~5% on the de-escalation claim after touching $90 intraday
 
@@ -78,16 +78,15 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   Friday's $90.12 settle, after Brent touched $90 intraday on the second
   Hormuz tanker strike; the catalyst is the claimed Hormuz-reopening deal
   that Iran denies.
-  (TradingEconomics/USA Today/Guardian, 08-03) ⟨daily 2026-08-03⟩
+  (TradingEconomics/USA Today/Guardian, 08-03)
 - **The de-escalation trade did not survive the night** — Brent recovered
   to **$84.75 (+$0.98)** and WTI to **$80.49 (+$0.15)** in Asian hours,
   after a third vessel was struck in the strait.
-  ([AP](https://www.wsls.com/business/2026/08/04/asian-shares-mostly-dip-after-us-stocks-rally/)) ⟨daily 2026-08-03⟩
+  ([AP](https://www.wsls.com/business/2026/08/04/asian-shares-mostly-dip-after-us-stocks-rally/))
 - **Reported deal terms would keep a risk premium in the price rather than
   remove it** — the Iran–Oman arrangement described by NYT routes inbound
   traffic through an Iran-controlled corridor with fees split between Tehran
   and Muscat, which prices passage rather than restoring free transit.
-  ⟨daily 2026-08-03⟩
 
 ## 2026-08-02 — ⚠️ SCALE CORRECTED: the strait has been shut for five months, not one week
 
@@ -95,24 +94,24 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   the opening day of the Iran war — not since the 07-23 Houthi strikes
   this thread was opened around. Transits are running roughly **10
   ships/day against a 60-140/day norm**.
-  ([Lloyd's List](https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates)) ⟨daily 2026-08-02⟩
+  ([Lloyd's List](https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates))
 - **Maersk, MSC, CMA CGM and Hapag-Lloyd have all suspended Hormuz
   transits**, rerouting via the Cape of Good Hope — the four largest
   container lines out, which is a structural fact this thread never
-  carried. ⟨daily 2026-08-02⟩
+  carried.
 - **War-risk insurance is the sharpest number here: 3-10% of hull value
   against ~0.25% pre-war**, taking a single transit for a $100M tanker
   from roughly $250K to $3-10M. VLCC Gulf-to-China freight is +24% to
-  ~$1.67/bbl. ⟨daily 2026-08-02⟩
+  ~$1.67/bbl.
 - **This thread was reading a price without the volumes underneath it.**
   It was opened 07-24 on the day Brent spiked to ~$100.69 — a market
   reaction — and took that as the shock's origin. The 07-23 strikes and
   the 07-31 tanker attacks are escalations inside an existing blockade.
   Note the standing level is now **below** the spike the thread was opened
-  on. ⟨daily 2026-08-02⟩
+  on.
 - **Reopening the strait is now an explicit term of Trump's claimed
   deal**, which Iran denies. The test is transit volumes, not
-  communiqués — this thread should watch ship counts. ⟨daily 2026-08-02⟩
+  communiqués — this thread should watch ship counts.
 
 ## 2026-08-01 — An LNG tanker is struck and disabled; Brent settles at $90.12 into a closed weekend
 
@@ -122,11 +121,11 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   Casualty reporting conflicts and is unsettled: some outlets describe
   injured crew evacuated, Bloomberg reports none. Four further vessels
   turned back after warnings.
-  ([Bloomberg via Yahoo Finance](https://finance.yahoo.com/energy/articles/tanker-carrying-qatari-lng-struck-102523607.html)) ⟨daily 2026-08-01⟩
+  ([Bloomberg via Yahoo Finance](https://finance.yahoo.com/energy/articles/tanker-carrying-qatari-lng-struck-102523607.html))
 - **Brent settled Friday at $90.12 and WTI at $84.67**, both up about 1%,
   with July Brent's biggest monthly gain since March. Futures are shut
   over the weekend, so this is the last tradeable print into Monday.
-  ([CNBC](https://www.cnbc.com/2026/07/31/oil-prices-today-brent-wti-hormuz-trump-iran-.html)) ⟨daily 2026-08-01⟩
+  ([CNBC](https://www.cnbc.com/2026/07/31/oil-prices-today-brent-wti-hormuz-trump-iran-.html))
 
 ## 2026-07-31 — The blockade produces its first direct strike on transiting tankers
 
@@ -136,13 +135,13 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   pressure has been exercised through underwriting, insurance extortion
   and threat up to now — this is the first direct action against ships
   actually moving through.
-  ([Washington Times](https://www.washingtontimes.com/news/2026/jul/31/irgc-says-struck-two-tankers-strait-hormuz-escorted-us-military/)) ⟨daily 2026-07-31⟩
+  ([Washington Times](https://www.washingtontimes.com/news/2026/jul/31/irgc-says-struck-two-tankers-strait-hormuz-escorted-us-military/))
 - **Brent closed around $88-90/bbl, up roughly 1.1-1.2%** — and the
   attribution matters: the move tracked the tanker strikes, not the
   43-nation Saudi maritime coalition announced the day before. A
   coalition announcement did not move the price; a strike did. ⚠ Sources
   spread across the range ($90.12 in two recaps against ~$88 in a direct
-  fetch), so this is a range, not a print. ⟨daily 2026-07-31⟩
+  fetch), so this is a range, not a print.
 
 ## 2026-07-29/30 — The underwriting layer gets sanctioned directly
 
@@ -151,16 +150,16 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   Iranian scheme extorting insurance payments for Strait of Hormuz
   passage — the underwriting layer directly, not oil as its proxy.
   ([Bloomberg — headline/date confirmed via search, not directly
-  fetched](https://www.bloomberg.com/)) ⟨daily 2026-07-29⟩
+  fetched](https://www.bloomberg.com/))
 - **Brent reached ~$92.10 and WTI ~$85.23** this morning, continuing
   rather than reversing Tuesday's surge; Houthis are reportedly weighing
   a Red Sea transit toll near Bab-el-Mandeb, a second supply-risk vector
-  distinct from Hormuz. ⟨daily 2026-07-29⟩
+  distinct from Hormuz.
 - **The one stale item worth flagging:** a widely-circulated "US
   Government's Energy Arm assumes Hormuz stays shut through late May"
   headline is a re-indexed story from **2026-05-12** — roughly 2.5 months
   old, no new EIA assessment behind it. Same aggregator-re-indexing
-  pattern already caught twice on other threads. ⟨daily 2026-07-29⟩
+  pattern already caught twice on other threads.
 
 ## 2026-07-30 — No clean print; the underwriting story keeps developing
 
@@ -168,7 +167,7 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   reports ranged $87.30 to above $90/bbl within a two-hour window, WTI
   near $83-84 — noisy but still well above pre-conflict levels; no clean
   single print to cite. Full account of the diplomatic fragmentation
-  driving this volatility is on `iran-conflict-widening`. ⟨daily 2026-07-30⟩
+  driving this volatility is on [Iran's Widening War](/threads/iran-conflict-widening/).
 
 ## 2026-07-28 — Brent craters, then round-trips on the day's whiplash
 
@@ -177,15 +176,15 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   US-Iran fighting pause held through Tuesday. Oil read as a
   disinflationary story again, cutting against one of the week's own
   drivers of Fed hike odds.
-  ([CNBC](https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html)) ⟨daily 2026-07-28⟩
+  ([CNBC](https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html))
 - **Oil round-tripped the day: Brent +4.3% to ~$87.7, WTI +4.2% to
   ~$82.6** — erasing the afternoon crater to ~$84 (−4.8%, a third losing
   session) once Iran fired on the US base in Jordan (full account:
-  `iran-conflict-widening`). A **3.3M-barrel US crude draw** (week ended
-  07-24) compounded it. ⟨daily 2026-07-28⟩
+  [Iran's Widening War](/threads/iran-conflict-widening/)). A **3.3M-barrel US crude draw** (week ended
+  07-24) compounded it.
 - **The Fed meets today (14:00 ET) with its inflation impulse re-armed
   overnight** — and hike odds that don't agree across venues (CME
-  ~30-38% vs Polymarket ~20-25%, Kalshi ~27%). ⟨daily 2026-07-28⟩
+  ~30-38% vs Polymarket ~20-25%, Kalshi ~27%).
 
 ## 2026-07-26/27 — Bab el-Mandeb traffic collapses
 
@@ -194,7 +193,7 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   north to the Suez Canal or turn back rather than run the Houthi
   blockade. The price shock partly cooled but the physical disruption is
   now showing up in shipping data, not just spot prices.
-  ([Japan Times](https://www.japantimes.co.jp/news/2026/07/27/world/red-sea-shipping-houthi-saudi-arabia/)) ⟨daily 2026-07-28⟩
+  ([Japan Times](https://www.japantimes.co.jp/news/2026/07/27/world/red-sea-shipping-houthi-saudi-arabia/))
 
 ## 2026-07-25 — Direct hit on Saudi oil infrastructure; Brent spikes back above $100
 
@@ -202,8 +201,8 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   Aramco refineries at Jizan and Yanbu — Yanbu alone handles ~92% of
   Saudi seaborne crude exports (Kpler/AFP). The strike itself (first
   direct hit on Saudi oil infrastructure since 2022) is on
-  `iran-conflict-widening`.
-  ([Washington Post](https://www.washingtonpost.com/world/2026/07/25/houthis-claim-attack-saudi-oil-refinery-iran-war-widens-red-sea/)) ⟨daily 2026-07-28⟩
+  [Iran's Widening War](/threads/iran-conflict-widening/).
+  ([Washington Post](https://www.washingtonpost.com/world/2026/07/25/houthis-claim-attack-saudi-oil-refinery-iran-war-widens-red-sea/))
 
 ## 2026-07-23 — Blockade declared; the market's answer
 
@@ -213,14 +212,14 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   Fed-hike-odds spike, and equity selloff — compounded the Alphabet-led
   Magnificent 7 rout into its worst day since April 2025's tariff
   tantrum. The triggering tanker strikes and blockade declaration are on
-  `iran-conflict-widening`.
-  ([NBC/Yahoo](https://www.nbcnews.com/business/markets/oil-prices-rise-red-sea-attacks-houthis-saudi-trump-iran-war-rcna588851)) ⟨daily 2026-07-23⟩
+  [Iran's Widening War](/threads/iran-conflict-widening/).
+  ([NBC/Yahoo](https://www.nbcnews.com/business/markets/oil-prices-rise-red-sea-attacks-houthis-saudi-trump-iran-war-rcna588851))
 
 ## 2026-07-24 — Partial retreat
 
 - **Brent retreated ~4.3% to ~$97.04**, pulling back from the peak as new
   Trump tariffs (60 countries, effective 07-24) added a competing
   demand-destruction headwind.
-  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-23/latest-oil-market-news-and-analysis-for-july-24)) ⟨daily 2026-07-24⟩
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-23/latest-oil-market-news-and-analysis-for-july-24))
 
 ## ← Backstory

@@ -16,9 +16,9 @@ blurb: Evidence is not the DTx bottleneck — payment-model design is. Pear went
 
 ## 2026-08-07 — Opened (ben-steer)
 
-- **Opened as a dedicated child thread of `mh-evidence-watch`**, seeded
+- **Opened as a dedicated child thread of [What Works](/threads/mh-evidence-watch/)**, seeded
   from the EBP digital/AI-science research crawl. (EBP digital/AI-science
-  crawl, 2026-08-07) ⟨steer 2026-08-07⟩
+  crawl, 2026-08-07)
 
 ## 2026-07-15 — PHTI generalizes its payment-model critique beyond mental health
 
@@ -30,7 +30,7 @@ blurb: Evidence is not the DTx bottleneck — payment-model design is. Pear went
   mental health even though no commercial fix has emerged anywhere it's
   been applied; PHTI's own scope just broadened from "the mental-health DTx
   referee" to "the payment-model referee for all of digital/AI health."
-  ([PHTI](https://phti.org/)) (wave: mh-q07) ⟨daily 2026-08-07⟩
+  ([PHTI](https://phti.org/)) (wave: mh-q07)
 
 ## 2026-04 — Commercial results read as continuation, not resolution: Akili's thin revenue, Click's raise-and-cuts
 
@@ -44,7 +44,7 @@ blurb: Evidence is not the DTx bottleneck — payment-model design is. Pear went
   Rejoyn's FDA clearance.
   ([pharmaphorum](https://pharmaphorum.com/news/akili-says-otc-switch-adhd-dtx-leads-sales-rise),
   [Behavioral Health Business](https://bhbusiness.com/2026/04/13/click-therapeutics-lands-50m-in-series-d/))
-  (wave: mh-q07) ⟨daily 2026-08-07⟩
+  (wave: mh-q07)
 
 ## 2026-01-01 — Germany's DiGA re-pricing formally goes live — but no product can be re-priced until 2027
 
@@ -55,7 +55,7 @@ blurb: Evidence is not the DTx bottleneck — payment-model design is. Pear went
   quarterly real-world usage data collection (AbEM) doesn't even begin
   until Q3 2026.
   ([Inside EU Life Sciences](https://www.insideeulifesciences.com/2026/02/03/germany-changes-rules-for-digital-health-applications/))
-  (wave: mh-q07) ⟨daily 2026-08-07⟩
+  (wave: mh-q07)
 
 ## 2026 — Germany's DiGA reform ties price to outcomes
 
@@ -64,7 +64,7 @@ blurb: Evidence is not the DTx bottleneck — payment-model design is. Pear went
   price to performance** — a direct regulatory response to the evidence
   quality problem the 2025 review below identified. Exact effective date
   within 2026 not specified in the underlying crawl.
-  ([PubMed](https://pubmed.ncbi.nlm.nih.gov/40750660/)) ⟨steer 2026-08-07⟩
+  ([PubMed](https://pubmed.ncbi.nlm.nih.gov/40750660/))
 
 ## 2025-05 — PHTI: blended-care tools work best clinically, worst on cost structure
 
@@ -77,7 +77,7 @@ blurb: Evidence is not the DTx bottleneck — payment-model design is. Pear went
   SilverCloud) cut net payer spend with modest clinical benefit;
   prescription DTx (DaylightRx, Rejoyn) help mainly combined with other
   care. PHTI recommends outcomes-based payment instead.
-  ([MedCity News](https://medcitynews.com/2025/05/digital-mental-health-solutions/)) ⟨steer 2026-08-07⟩
+  ([MedCity News](https://medcitynews.com/2025/05/digital-mental-health-solutions/))
 
 ## 2025 — CMS's Digital Mental Health Treatment codes go live — but claims volume stays low
 
@@ -94,7 +94,7 @@ blurb: Evidence is not the DTx bottleneck — payment-model design is. Pear went
   ADHD digital therapy devices.
   ([Nixon Law Group](https://www.nixonlawgroup.com/resources/cms-proposes-expanded-coverage-for-digital-mental-health-devicesand-seeks-input-on-broader-digital-therapeutics-use-cases),
   [AAPC](https://www.aapc.com/blog/93026-medicare-implements-digital-mental-health-treatment-codes/))
-  (wave: mh-q07) ⟨daily 2026-08-07⟩
+  (wave: mh-q07)
 
 ## 2025 — Germany's DiGA approval studies: large effects, high risk of bias
 
@@ -105,7 +105,7 @@ blurb: Evidence is not the DTx bottleneck — payment-model design is. Pear went
   outcome measurement and missing data. The evidence looks strong in
   aggregate and shaky study-by-study — the direct predicate for the 2026
   reform above.
-  ([PubMed](https://pubmed.ncbi.nlm.nih.gov/40750660/)) ⟨steer 2026-08-07⟩
+  ([PubMed](https://pubmed.ncbi.nlm.nih.gov/40750660/))
 
 ## 2025 — The field still can't tell engagement from a digital placebo effect
 
@@ -115,7 +115,7 @@ blurb: Evidence is not the DTx bottleneck — payment-model design is. Pear went
   engagement causes better outcomes. Reminders and human support improved
   retention; gamification did not. Month of publication not specified in
   the underlying crawl.
-  ([Nature](https://www.nature.com/articles/s41746-025-01778-w)) ⟨steer 2026-08-07⟩
+  ([Nature](https://www.nature.com/articles/s41746-025-01778-w))
 
 ## 2025 — Linardon's updated meta-analysis: apps as fallback, not first choice
 
@@ -125,7 +125,7 @@ blurb: Evidence is not the DTx bottleneck — payment-model design is. Pear went
   systematic review and meta-analysis (Linardon, Torous, Firth et al.,
   Lancet Digital Health, 2025) building on the 176-RCT base below. Month
   of publication not specified in the underlying crawl.
-  ([The Lancet](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(25)00105-0/fulltext)) ⟨steer 2026-08-07⟩
+  ([The Lancet](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(25)00105-0/fulltext))
 
 ## 2024 — Linardon meta-analysis: the base rate this whole paradox sits on top of
 
@@ -136,7 +136,7 @@ blurb: Evidence is not the DTx bottleneck — payment-model design is. Pear went
   the evidence-isn't-the-bottleneck baseline the rest of this thread
   argues against: apps clear a real, modest efficacy bar, and still lose
   on reimbursement and business-model design.
-  ([PubMed](https://pubmed.ncbi.nlm.nih.gov/41369265/)) ⟨steer 2026-08-07⟩
+  ([PubMed](https://pubmed.ncbi.nlm.nih.gov/41369265/))
 
 ## 2023 — Pear Therapeutics collapses despite one of DTx's strongest evidence bases
 
@@ -148,7 +148,7 @@ blurb: Evidence is not the DTx bottleneck — payment-model design is. Pear went
   reimbursement, and trying to disrupt both care delivery and payment
   simultaneously. The founding case for this thread's core claim: strong
   evidence did not translate to reimbursement or adoption.
-  ([MedCity News](https://medcitynews.com/2023/10/digital-medicines-sector-draws-lessons-from-pear-therapeutics-demise/)) ⟨steer 2026-08-07⟩
+  ([MedCity News](https://medcitynews.com/2023/10/digital-medicines-sector-draws-lessons-from-pear-therapeutics-demise/))
 
 ## ← Backstory
 

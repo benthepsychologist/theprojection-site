@@ -20,19 +20,19 @@ blurb: Whether the FY27 capex step-up (~$70-95B, depending on source) and a repo
   RPO slice ($638B total, roughly half tied to OpenAI per multiple outlets).
 ---
 
-## 2026-08-04 — Opened: Oracle's own arc, separated from six threads that only carry it as supporting cast ⟨crawl 2026-08-04⟩
+## 2026-08-04 — Opened: Oracle's own arc, separated from six threads that only carry it as supporting cast
 
-- **Oracle is a `kingdom`-rank board entry** (~$64B commandable capital)
-  that until now only appeared as an `entities:` tag on six other
-  threads — `ai-circular-financing-risk`, `stargate-buildout`,
-  `ai-power-buildout`, `ai-datacenter-sites`, `nuclear-for-ai`,
-  `datacenters-as-targets` — each of which is really about a different
+- **Oracle is a kingdom-rank board entry** (~$64B commandable capital)
+  that until now only appeared as an entities: tag on six other
+  threads — [Circular Financing](/threads/ai-circular-financing-risk/), [Stargate](/threads/stargate-buildout/),
+  [Power Buildout](/threads/ai-power-buildout/), [Datacenter Sites](/threads/ai-datacenter-sites/), [Nuclear for AI](/threads/nuclear-for-ai/),
+  [Targets](/threads/datacenters-as-targets/) — each of which is really about a different
   actor's story (Nvidia's financing web, OpenAI's Stargate buildout, the
   hyperscaler capex picture generally). This thread tracks Oracle's own
   concentrated, debt-funded bet specifically — the same shape as
-  `softbank-all-in` (SoftBank's own concentration play) and closer in
-  substance to `coreweave-backlog-bet` (a leveraged financing wager) than
-  to `arm-royalty-regime` (a disputed-guidance story) — because the RPO
+  [Son All-In](/threads/softbank-all-in/) (SoftBank's own concentration play) and closer in
+  substance to [CoreWeave Bet](/threads/coreweave-backlog-bet/) (a leveraged financing wager) than
+  to [Arm Royalty Regime](/threads/arm-royalty-regime/) (a disputed-guidance story) — because the RPO
   figure itself is now well-sourced; the doubt is about the payer, not
   the receipt.
 - **Q4/FY2026 results (fiscal year ended 2026-05-31, reported
@@ -44,7 +44,7 @@ blurb: Whether the FY27 capex step-up (~$70-95B, depending on source) and a repo
   primary-sourced figure. Operating cash flow **$32.0B** (+54%); free
   cash flow **-$23.7B**; capex **$55.7B**; FY26 debt raised **$43B**,
   equity raised **$5B**; FY27 guided to raise **~$40B more debt**.
-  ([Oracle Q4 FY26 press release, SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001341439/000119312526265848/orcl-ex99_1.htm)) ⟨crawl 2026-08-04⟩
+  ([Oracle Q4 FY26 press release, SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001341439/000119312526265848/orcl-ex99_1.htm))
 - **S&P downgraded Oracle one notch, BBB → BBB-, outlook stable, on
   2026-07-09** — one step above junk — citing FY27 capex projected to
   jump to **$90-95B**, the FCF deficit widening toward **-$42B**,
@@ -56,7 +56,7 @@ blurb: Whether the FY27 capex step-up (~$70-95B, depending on source) and a repo
   a cycle high around 2026-07-20/21, spiking further into early August
   per later coverage.
   ([S&P downgrade coverage, Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/oracle-stock-shrugs-off-p-185346661.html)) ⚠ total-debt figure not reconciled: $156B (board) vs $167B vs a
-  $130-156B range across sources — flagged, not resolved. ⟨crawl 2026-08-04⟩
+  $130-156B range across sources — flagged, not resolved.
 - **The concentration, not the RPO figure, is the live credibility
   question.** Roughly half of Oracle's RPO traces to OpenAI; one
   analyst-level breakdown puts it at **~$300B / 54.25%** tied to the
@@ -71,9 +71,9 @@ blurb: Whether the FY27 capex step-up (~$70-95B, depending on source) and a repo
   what it owes Oracle" doubt entered the credit story. A separate,
   thinly-sourced "round-trip revenue" critique (2026-05-25) argues
   Oracle's equity stakes in unprofitable labs (OpenAI, Anthropic) cycle
-  back as its own cloud revenue — the same pattern `ai-circular-financing-risk`
+  back as its own cloud revenue — the same pattern [Circular Financing](/threads/ai-circular-financing-risk/)
   already tracks, noted here for completeness rather than duplicated.
-  ([RPO skepticism roundup](https://news.ssbcrack.com/oracles-638-billion-backlog-key-to-success-amid-skepticism/), [OpenAI-shortfall/concentration analysis](https://finance.yahoo.com/markets/stocks/articles/openai-shortfall-puts-oracle-ai-050252163.html)) ⟨crawl 2026-08-04⟩
+  ([RPO skepticism roundup](https://news.ssbcrack.com/oracles-638-billion-backlog-key-to-success-amid-skepticism/), [OpenAI-shortfall/concentration analysis](https://finance.yahoo.com/markets/stocks/articles/openai-shortfall-puts-oracle-ai-050252163.html))
 - **Confirmed Stargate build sites** (via OpenAI's own announcements):
   Abilene TX (flagship, 1.2GW), Shackelford County TX, Doña Ana County
   NM, Lordstown OH, and a Wisconsin site — cumulatively approaching
@@ -86,7 +86,7 @@ blurb: Whether the FY27 capex step-up (~$70-95B, depending on source) and a repo
   framing Oracle's own code increasingly as AI-model-written — a stance
   that sits awkwardly next to Oracle's own ban on AI-generated code
   contributions to OpenJDK on safety/security grounds.
-  ([OpenAI's Stargate site announcement](https://openai.com/index/five-new-stargate-sites/), [The Register, 2026-08-03](https://www.theregister.com/ai-and-ml/2026/08/03/as-larry-ellison-bets-the-farm-oracle-says-it-loves-ai-written-code-just-not-in-openjdk/5281851)) ⟨crawl 2026-08-04⟩
+  ([OpenAI's Stargate site announcement](https://openai.com/index/five-new-stargate-sites/), [The Register, 2026-08-03](https://www.theregister.com/ai-and-ml/2026/08/03/as-larry-ellison-bets-the-farm-oracle-says-it-loves-ai-written-code-just-not-in-openjdk/5281851))
 - **Cerner/healthcare (MH-lens surface) stays a minor, separate story
   this quarter**: Oracle Health launched an "AI-first" EHR built fresh on
   OCI (not atop legacy Cerner infrastructure), for ambulatory providers
@@ -94,8 +94,7 @@ blurb: Whether the FY27 capex step-up (~$70-95B, depending on source) and a repo
   clinical AI agents planned for later in 2026. No material
   financial/credit event tied to Cerner found this window — it remains
   product-roadmap news, not a driver of the leverage story this thread
-  tracks. ⟨crawl 2026-08-04⟩
+  tracks.
 - **Next print: Q1 FY2027 earnings, 2026-09-14, after market close** —
   the first test of whether the FY27 capex step-up and the reported
   OpenAI shortfall show up in updated RPO/FCF/capex numbers.
-  ⟨crawl 2026-08-04⟩

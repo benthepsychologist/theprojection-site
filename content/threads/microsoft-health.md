@@ -28,17 +28,17 @@ blurb: Large and fast, but somatic-first (Dragon Copilot, MAI-DxO, Copilot Healt
   Notable pattern: this is the second Israeli hospital-chain AI deployment
   in under two weeks (OpenAI/Sheba Medical Center, 07-28) — international
   hospital-chain AI rollout looks like a template both companies are now
-  running in parallel, worth a cross-reference on `openai-health`.
-  ([Jerusalem Post](https://www.jpost.com/health-and-wellness/article-904553)) ⟨daily 2026-08-05⟩
+  running in parallel, worth a cross-reference on [OpenAI Health](/threads/openai-health/).
+  ([Jerusalem Post](https://www.jpost.com/health-and-wellness/article-904553))
 
 ## 2026-07-24 — Opened + crawled
 
-- **Thread opened** (ben-steer). ⟨steer 2026-07-24⟩
+- **Thread opened** (ben-steer).
 - **Verdict: a genuine strategic pivot (health as the proof-point for AI
   self-sufficiency from OpenAI), but MH relevance is weak.** The notable
   finding for the lens is the ABSENCE of a behavioral-health module in the
   marquee products (MAI-DxO, Copilot Health). ⚠ WebSearch budget exhausted
-  (fan-out) — News-RSS + two Microsoft pages; scale numbers unverified. ⟨crawl 2026-07-24⟩
+  (fan-out) — News-RSS + two Microsoft pages; scale numbers unverified.
 
 ## ← Backstory (crawl 2026-07-24 → artifacts/findings/microsoft-health-2026-07-24.md)
 
@@ -48,14 +48,13 @@ blurb: Large and fast, but somatic-first (Dragon Copilot, MAI-DxO, Copilot Healt
   model MAI-Thinking-1) and announced a **Mayo Clinic partnership to build
   a healthcare "frontier" model**. ⚠ Mayo partnership trade-press-sourced,
   verify shipped-vs-announced.
-  ⟨crawl 2026-07-24⟩
 
 ## 2026-03-12 — Copilot Health (consumer) — but no MH
 
 - **"Copilot Health" launched** — a consumer AI health assistant (upload
   records + wearable data for insights). Physical-medicine focused; no MH
   features/safeguards/partners surfaced — the gap worth watching.
-  ([Fortune](https://fortune.com)) ⟨crawl 2026-07-24⟩
+  ([Fortune](https://fortune.com))
 
 ## 2025-11 — The Superintelligence Team (diagnosis first)
 
@@ -63,15 +62,15 @@ blurb: Large and fast, but somatic-first (Dragon Copilot, MAI-DxO, Copilot Healt
   pursuing "Humanist Superintelligence" with medical diagnosis as the first
   target. The "AI companion" framing is explicitly support/productivity,
   not clinical care.
-  ([Reuters](https://www.reuters.com)) ⟨crawl 2026-07-24⟩
+  ([Reuters](https://www.reuters.com))
 
 ## 2025-08 — The MH signal: Suleyman on "AI psychosis"
 
 - **Suleyman publicly warned of "AI psychosis" and "Seemingly Conscious
   AI"** — chatbot-induced psychological harm. The single most MH-relevant
   item, and in direct tension with his own companion-building. Cross-refs
-  `ai-therapy-regulatory-reckoning`.
-  ([BBC](https://www.bbc.com)) ⟨crawl 2026-07-24⟩
+  [The Reckoning](/threads/ai-therapy-regulatory-reckoning/).
+  ([BBC](https://www.bbc.com))
 
 ## 2025-03→06 — The base: Dragon Copilot + MAI-DxO
 
@@ -82,4 +81,4 @@ blurb: Large and fast, but somatic-first (Dragon Copilot, MAI-DxO, Copilot Healt
   clinician-facing scribe + the diagnostic superintelligence bet. A
   behavioral-health provider (Parlan) uses generic Copilot, not a purpose
   -built MH tool.
-  ([microsoft.ai](https://microsoft.ai/news/the-path-to-medical-superintelligence/)) ⟨crawl 2026-07-24⟩
+  ([microsoft.ai](https://microsoft.ai/news/the-path-to-medical-superintelligence/))

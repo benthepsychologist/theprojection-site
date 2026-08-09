@@ -26,8 +26,8 @@ blurb: Where the capex lands in POWER — the real bottleneck. Nuclear-for-AI (S
   2027 IPO. First time Nvidia has taken a direct stake in a power
   developer rather than a data-center operator or a lab — extends the
   "compute landlord" pattern one layer further down. Cross-refs
-  `ai-circular-financing-risk`, `nvidia-order-book`.
-  ([The Information](https://www.theinformation.com/articles/nvidia-invest-3-billion-blackstone-backed-power-firm-behind-stargate)) ⟨daily 2026-08-07⟩
+  [Circular Financing](/threads/ai-circular-financing-risk/), [Nvidia's Order Book](/threads/nvidia-order-book/).
+  ([The Information](https://www.theinformation.com/articles/nvidia-invest-3-billion-blackstone-backed-power-firm-behind-stargate))
 
 ## 2026-08-05 — PJM's mirror to the Texas freeze: bring your own power, or the states cut you off
 
@@ -38,12 +38,12 @@ blurb: Where the capex lands in POWER — the real bottleneck. Nuclear-for-AI (S
   with enforcement pushed onto individual states since PJM itself can't
   mandate curtailment. Driven by capacity-auction costs hitting $16.4B in
   June and 30-34GW of new data-center demand forecast by the early 2030s.
-  Full detail on the `datacenter-power-grid` child thread.
-  ([Canary Media](https://www.canarymedia.com/articles/data-centers/pjm-data-center-plan)) ⟨daily 2026-08-05⟩
+  Full detail on the [Grid & Turbines](/threads/datacenter-power-grid/) child thread.
+  ([Canary Media](https://www.canarymedia.com/articles/data-centers/pjm-data-center-plan))
 - 💡 Same instinct as the Texas PUCT/ERCOT freeze below, independently
   arrived at by a different grid operator in the same week — the buildout
   is now hitting a self-supply-or-get-cut-off wall on two separate US
-  grids at once. ⟨daily 2026-08-05⟩
+  grids at once.
 
 ## 2026-08-04 — Datacenter operators tap banks for billions to unlock grid connections
 
@@ -52,7 +52,7 @@ blurb: Where the capex lands in POWER — the real bottleneck. Nuclear-for-AI (S
   infrastructure costs if an AI-datacenter project fails — real
   financing stress underneath the buildout, and a direct echo of the
   Texas PUCT/ERCOT freeze below.
-  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-04/ai-power-demands-spur-builders-to-seek-billions-in-bank-pledges)) ⟨daily 2026-08-04⟩
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-04/ai-power-demands-spur-builders-to-seek-billions-in-bank-pledges))
 
 ## 2026-08-03 — Texas freezes new AI-datacenter grid connections pending an audit (caught 08-04, missed on the day)
 
@@ -62,24 +62,23 @@ blurb: Where the capex lands in POWER — the real bottleneck. Nuclear-for-AI (S
   community-impact mitigation and ownership — with the directive that "any
   project that fails to comply... must be denied connection to the Texas
   grid."
-  ([Texas Tribune](https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/)) ⟨daily 2026-08-03⟩
+  ([Texas Tribune](https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/))
 - **ERCOT paused its "Batch Zero" transmission planning study in response**
   — the first cohort already moving through its revised approval process,
-  now halted mid-review. ⟨daily 2026-08-03⟩
+  now halted mid-review.
 - **The queue this lands on: 1,800+ projects requesting 474+ GW, ~90% of it
   data centres — more than five times the grid's all-time peak-demand
   record**, against 335 operating and 248 planned facilities statewide.
-  ⟨daily 2026-08-03⟩
 - 💡 **Why this thread should treat it as a step-change, not another
   permitting fight:** every prior entry here tracked power being *procured*
   — nuclear PPAs, gas turbines, DOE site conversions. This is the first
   time the *interconnection itself* has been withheld as policy, by the
   state hosting the largest share of the queue. The binding constraint
-  moved from generation to permission. ⟨daily 2026-08-03⟩
+  moved from generation to permission.
 - ⚠️ **Process note, kept deliberately:** this published 08-03 13:12 CT and
   **12 items on it sat in that day's own collector buffer routed to no
   thread**. Curation missed it; the overnight extension pass caught it. A
-  detection failure, not a sourcing one. ⟨daily 2026-08-03⟩
+  detection failure, not a sourcing one.
 
 ## 2026-07-30 — Catch-up: a second Cold War DOE site becomes a $100B AI power build (event 07-28/29, missed at the time)
 
@@ -88,17 +87,16 @@ blurb: Where the capex lands in POWER — the real bottleneck. Nuclear-for-AI (S
   paired with 4.6GW of dedicated power generation. Announced via DOE's
   own release 07-29, corroborated same-day by Reuters/WSJ/FT/Bloomberg;
   this thread's most recent entry (07-27 crawl) doesn't have it.
-  ([POWER Magazine]) ⟨daily 2026-07-30⟩
+  ([POWER Magazine])
 - **No hyperscaler/lab tenant named** — unlike Stargate/Portsmouth
   (OpenAI), every account frames this as a NextEra/Brookfield-led
-  speculative build. Open gap. ⟨daily 2026-07-30⟩
+  speculative build. Open gap.
 - 💡 **Worth the curator's own eyes:** this is a *second* former-DOE-
   nuclear-site-to-AI-campus conversion inside one week (after
   Portsmouth/Piketon, 10GW/OpenAI, flagged 07-28) — a possible pattern,
-  not tagged `sev=` per the rarity discipline but flagged plainly.
-  ⟨daily 2026-07-30⟩
+  not tagged sev= per the rarity discipline but flagged plainly.
 
-## 2026-07-27 — The power book, four actors ⟨crawl 2026-07-27⟩
+## 2026-07-27 — The power book, four actors
 
 - **Google:** solar-dominant (TotalEnergies 1GW/28TWh · Clearway 1.17GW) +
   TVA/Kairos — the first US Gen-IV utility PPA (2030).
@@ -114,6 +112,6 @@ blurb: Where the capex lands in POWER — the real bottleneck. Nuclear-for-AI (S
 
 ## 2026-07-24 — Opened
 
-- **Thread opened** (ben-steer) — meta-thread — groups the child threads below. ⟨steer 2026-07-24⟩
+- **Thread opened** (ben-steer) — meta-thread — groups the child threads below.
 
 ## ← Backstory

@@ -17,7 +17,7 @@ blurb: 'Meta quit RE100 amid a 7.5GW gas buildout (07-23/24) — the first break
   ben-steer: "thread it.")'
 ---
 
-## 2026-07-23/24 — The break ⟨crawl 2026-07-27⟩
+## 2026-07-23/24 — The break
 
 - **Meta quit RE100 amid a 7.5GW gas buildout** — the first hyperscaler
   to exit the clean-power pact, while simultaneously holding a ≤6.6GW

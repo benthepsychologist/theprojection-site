@@ -25,16 +25,15 @@ blurb: 'The frontier labs are converting private, vendor-financed valuations int
   all-time high of $225.64 (06-16) and now ~15% below its $135 IPO issue
   price** — the stock rallied to nearly 67% above issue before crashing
   back through it, erasing over half its peak value.
-  ([stockanalysis.com](https://stockanalysis.com/stocks/spcx/history/)) ⟨daily 2026-07-30⟩
+  ([stockanalysis.com](https://stockanalysis.com/stocks/spcx/history/))
 - **Short interest on SPCX reached ~$26B, roughly 35% of the entire
-  float.** ⟨daily 2026-07-30⟩
+  float.**
 - **Anthropic IPO chatter firmed toward a $1T valuation (from ~$965B),
   with a reported Amazon windfall and a Blackstone/Goldman JV floated** —
   but "Wall Street is getting cold feet" per one outlet on the same
   number; figures lower-confidence, not independently verified.
-  ⟨daily 2026-07-30⟩
 
-## 2026-07-27 — Opened ⟨steer 2026-07-27⟩
+## 2026-07-27 — Opened
 
 - **Meta-thread opened** (Ben: "create the broader one w the specific ones
   as child threads") after the week SpaceX (listed 2026-06-12 at a $1.77T

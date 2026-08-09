@@ -27,8 +27,8 @@ blurb: Where the capex lands in CONCRETE — the specific gigawatt campuses. Sta
   (a commissioner's signed NDA, job postings that leaked before the
   official announcement, and county moves toward new data-center zoning
   restrictions).
-  ([Southern Maryland Chronicle](https://southernmarylandchronicle.com/2026/08/04/amazon-pulls-plug-on-contentious-lusby-data-center/)) ⟨daily 2026-08-05⟩
-- Full nuclear-adjacency angle on the `nuclear-for-ai` thread. ⟨daily 2026-08-05⟩
+  ([Southern Maryland Chronicle](https://southernmarylandchronicle.com/2026/08/04/amazon-pulls-plug-on-contentious-lusby-data-center/))
+- Full nuclear-adjacency angle on the [Nuclear for AI](/threads/nuclear-for-ai/) thread.
 
 ## 2026-08-04 — Datacenter operators tap banks for billions to unlock grid connections
 
@@ -36,7 +36,7 @@ blurb: Where the capex lands in CONCRETE — the specific gigawatt campuses. Sta
   utilities that ratepayers won't absorb infrastructure costs if a
   project fails — real financing stress underneath the site pipeline,
   echoing the Texas PUCT/ERCOT audit gate below.
-  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-04/ai-power-demands-spur-builders-to-seek-billions-in-bank-pledges)) ⟨daily 2026-08-04⟩
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-04/ai-power-demands-spur-builders-to-seek-billions-in-bank-pledges))
 
 ## 2026-08-03 — Texas puts the whole site pipeline behind an audit gate (caught 08-04, missed on the day)
 
@@ -44,14 +44,14 @@ blurb: Where the capex lands in CONCRETE — the specific gigawatt campuses. Sta
   audit of every project in the queue** — tax breaks, power, water,
   community impact and ownership all in scope, with non-compliant projects
   to be denied connection outright.
-  ([Texas Tribune](https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/)) ⟨daily 2026-08-03⟩
+  ([Texas Tribune](https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/))
 - **335 operating and 248 planned Texas facilities sit behind this gate**,
-  inside an ERCOT queue of 1,800+ projects and 474+ GW. ⟨daily 2026-08-03⟩
+  inside an ERCOT queue of 1,800+ projects and 474+ GW.
 - 💡 **The siting question changes shape:** this thread has tracked *where*
   capacity gets sited. Texas has just made the answer contingent on
   disclosure a developer may not want to give — ownership and tax-incentive
   transparency are now preconditions of energising, which is a different
-  filter than land, water or fibre. ⟨daily 2026-08-03⟩
+  filter than land, water or fibre.
 
 ## 2026-07-30 — Catch-up: Paducah, KY joins the megasite map (event 07-28/29)
 
@@ -59,44 +59,44 @@ blurb: Where the capex lands in CONCRETE — the specific gigawatt campuses. Sta
   Paducah, KY, $100B, NextEra + Brookfield, 4.6GW dedicated power — same
   pattern as Portsmouth/Piketon, OH (10GW, OpenAI/SB Energy, flagged
   07-28), a second instance inside one week. No tenant named yet.
-  ([WSJ]) ⟨daily 2026-07-30⟩
+  ([WSJ])
 - **Missed at the time** — broke 07-28 (HPCwire), went wide 07-29 (DOE PR
   Newswire, Reuters, Bloomberg, FT, WSJ); this thread's last entry (07-28)
-  doesn't have it. Backfill, not new-today. ⟨daily 2026-07-30⟩
+  doesn't have it. Backfill, not new-today.
 
-## 2026-07-28 (overnight) — Datacentres get a threat model ⟨daily 2026-07-28⟩
+## 2026-07-28 (overnight) — Datacentres get a threat model
 
 - **Satellite imagery corroborated Iranian strikes on two Amazon data
   centres in Bahrain** — Zallaq and Askar — supporting IRGC claims
   released via Tasnim. Bloomberg reports significant damage at both.
-  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-28/amazon-data-centers-hit-in-iran-strikes-satellite-images-show)) ⟨daily 2026-07-28⟩
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-28/amazon-data-centers-hit-in-iran-strikes-satellite-images-show))
 - **⚠ Date discipline: the imagery is the 07-28 development, not the
   attack.** The strikes were claimed around **07-21**; the campaign runs
   back to Shahed drone attacks on AWS sites in the **UAE on 03-01** and a
   further Bahrain strike on **04-01**. Iranian state media named
   Microsoft, Google, Apple, Meta, Oracle, Intel and Nvidia as targets on
-  **03-31**. Reported here as corroboration of an older event. ⟨daily 2026-07-28⟩
+  **03-31**. Reported here as corroboration of an older event.
 - **Why it belongs on this thread and not just the war thread:** this
   timeline tracks where the capex physically lands — and siting has now
   acquired a variable it did not have. Commercial datacentres have been
   deliberately struck in wartime, with published damage assessment. Every
   megasite entry above (Portsmouth, Camellia, El Paso, the Gulf builds)
-  carries an unpriced sovereign-risk term as a result. ⟨daily 2026-07-28⟩
+  carries an unpriced sovereign-risk term as a result.
 - **Caught by the collectors, not the cluster agents** — the tier-2 sweeps
   were pointed at memory, macro and mental health, and missed it entirely.
-  Logged as a recall note. ⟨daily 2026-07-28⟩
+  Logged as a recall note.
 
 ## 2026-07-28 — A fifth megasite enters the map: Ohio's 10GW Portsmouth campus
 
 - **OpenAI/SB Energy's planned 10GW Piketon, OH campus (the former
   Portsmouth uranium site) got a financing-backstop story** — Nvidia
   weighing ~$250B toward the lease/construction, pushing total project
-  cost toward $500B; full detail and sourcing in `stargate-buildout`. If
+  cost toward $500B; full detail and sourcing in [Stargate](/threads/stargate-buildout/). If
   it holds, this is the single largest site figure in this thread's
   tracker — bigger than any of the four hyperscalers' named individual
-  sites. ⟨daily 2026-07-28⟩
+  sites.
 
-## 2026-07-27 — The site map, four actors traced ⟨crawl 2026-07-27⟩
+## 2026-07-27 — The site map, four actors traced
 
 - **Google:** 15+ US states + India — MO $15B · MI 1GW "Cannoli" · TX
   Panhandle 1GW+ · NextEra ≥3 GW-scale campuses · India $15B Visakhapatnam
@@ -112,6 +112,6 @@ blurb: Where the capex lands in CONCRETE — the specific gigawatt campuses. Sta
 
 ## 2026-07-24 — Opened
 
-- **Thread opened** (ben-steer) — meta-thread — groups the child threads below. ⟨steer 2026-07-24⟩
+- **Thread opened** (ben-steer) — meta-thread — groups the child threads below.
 
 ## ← Backstory

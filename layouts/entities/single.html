@@ -20,6 +20,7 @@
 
 <div class="section">
   <h2>Threads</h2>
+  {{ partial "status-legend.html" . }}
   {{ $threads := where $p.threads "entities" "intersect" (slice $slug) }}
   {{ if $threads }}
     {{ range $threads }}

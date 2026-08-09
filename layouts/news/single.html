@@ -21,6 +21,7 @@
 
 <div class="section">
   <h2>Threads on this beat</h2>
+  {{ partial "status-legend.html" . }}
   {{ $threads := where $p.threads "lens" $lens }}
   {{ if $threads }}
     {{ range sort $threads "last_seen" "desc" }}

@@ -30,7 +30,7 @@ blurb: 'Six named AI initiatives at real hospital-system scale (Timpani staffing
   inventory and discharge-throughput AI. Self-reported via HCA's own
   editorial site — "augment, not replace" is HCA's chosen framing, not
   independently verified.
-  ([HCA Healthcare Today](https://hcahealthcaretoday.com/2026/07/21/hca-healthcares-strategic-approach-to-scaling-artificial-intelligence/)) ⟨crawl 2026-08-04⟩
+  ([HCA Healthcare Today](https://hcahealthcaretoday.com/2026/07/21/hca-healthcares-strategic-approach-to-scaling-artificial-intelligence/))
 - **National Nurses United has been publicly protesting the Palantir
   partnership behind Timpani since April 2026** — objecting to
   centralized (Nashville-based) staffing decisions replacing local nurse
@@ -41,7 +41,7 @@ blurb: 'Six named AI initiatives at real hospital-system scale (Timpani staffing
   strike — no DMHC-equivalent complaint or hearing found, unlike Kaiser.
   No follow-on coverage found after April; can't confirm whether it
   escalated, stalled, or quietly resolved.
-  ([NNU](https://www.nationalnursesunited.org/press/union-nurses-to-protest-palantir-and-hca-collaboration-at-frist-gala)) ⟨crawl 2026-08-04⟩
+  ([NNU](https://www.nationalnursesunited.org/press/union-nurses-to-protest-palantir-and-hca-collaboration-at-frist-gala))
 - **Separately, a securities-fraud investigation wave opened 2026-07-19
   to 07-22** (Portnoy, Pomerantz, Kirby McInerney, Schall, Kessler Topaz),
   triggered by HCA's 2026-07-14 8-K cutting full-year guidance on
@@ -49,14 +49,14 @@ blurb: 'Six named AI initiatives at real hospital-system scale (Timpani staffing
   uninsured/exchange-coverage-loss volume; stock fell 6.95% same day).
   Confirmed unrelated to AI in every source checked — kept as a separate
   strand on this board, not folded into the AI story.
-  ([SEC EDGAR 8-K](https://www.sec.gov/Archives/edgar/data/860730/000119312526302539/hca-ex99_1.htm)) ⟨crawl 2026-08-04⟩
+  ([SEC EDGAR 8-K](https://www.sec.gov/Archives/edgar/data/860730/000119312526302539/hca-ex99_1.htm))
 - **The board's "free capital allocation" characterization holds through
   the guidance cut** — H1 2026 buybacks were $3,569M and capex guidance
   ($5.0-5.5B) was held steady even as revenue/EPS guidance was cut.
   "Artificial intelligence" does not appear anywhere in the freshly-filed
   Q2 2026 10-Q — AI is currently an operations/PR/labor story for HCA,
   not yet a disclosed financial-materiality item.
-  ([SEC EDGAR 10-Q](https://www.sec.gov/Archives/edgar/data/860730/000119312526321077/hca-20260630.htm)) ⟨crawl 2026-08-04⟩
+  ([SEC EDGAR 10-Q](https://www.sec.gov/Archives/edgar/data/860730/000119312526321077/hca-20260630.htm))
 
 ## ← Backstory (crawl 2026-08-04 → artifacts/findings/hca-healthcare-2026-08-04.md)
 
@@ -68,4 +68,4 @@ blurb: 'Six named AI initiatives at real hospital-system scale (Timpani staffing
   no-replace/no-discipline/no-staffing-decision provisions other health
   systems have won, and it predates the 2026 Palantir/Timpani-specific
   fight. Do not read as having resolved the current dispute.
-  ([NNU](https://www.nationalnursesunited.org/press/nurses-at-17-hca-facilities-in-six-states-ratify-new-union-contracts)) ⟨crawl 2026-08-04⟩
+  ([NNU](https://www.nationalnursesunited.org/press/nurses-at-17-hca-facilities-in-six-states-ratify-new-union-contracts))

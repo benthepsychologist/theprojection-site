@@ -27,14 +27,14 @@ blurb: 'Psilocybin racing toward first-ever US approval (Compass NDA targeted Q4
   Times, Military.com, the American Legion) — caught by the 08-07
   finalize pass on 2026-08-09 (the digest for that day ran two days
   late after an operational gap).
-  ([VA press release](https://news.va.gov/press-room/va-launches-psilocybin-trial-for-veterans-with-treatment-resistant-depression/)) ⟨daily 2026-08-07⟩
+  ([VA press release](https://news.va.gov/press-room/va-launches-psilocybin-trial-for-veterans-with-treatment-resistant-depression/))
 
 ## 2026-08-07 — Opened (ben-steer)
 
-- **Opened as a dedicated child thread of `mh-evidence-watch`**, seeded
+- **Opened as a dedicated child thread of [What Works](/threads/mh-evidence-watch/)**, seeded
   from the EBP therapy-science research crawl. Compass Pathways' NDA
-  target is also logged to `upcoming.yaml` as `compass-psilocybin-nda`,
-  due 2026-12-31. (EBP therapy-science crawl, 2026-08-07) ⟨steer 2026-08-07⟩
+  target is also logged to upcoming.yaml as compass-psilocybin-nda,
+  due 2026-12-31. (EBP therapy-science crawl, 2026-08-07)
 
 ## 2026-07 — FDA finalizes the trial-design rules the MDMA rejection demanded
 
@@ -44,7 +44,7 @@ blurb: 'Psilocybin racing toward first-ever US approval (Compass NDA targeted Q4
   psychedelic field must now build around these standards. Whether they
   were actually applied to the already-completed pivotal Compass trials,
   or whether approval is outrunning the fix, is not yet publicly resolved.
-  ([Tech Times](https://www.techtimes.com/articles/320454/20260714/fda-finalizes-psychedelic-trial-rules-unblinding-problem-gets-official-answer.htm)) ⟨steer 2026-08-07⟩
+  ([Tech Times](https://www.techtimes.com/articles/320454/20260714/fda-finalizes-psychedelic-trial-rules-unblinding-problem-gets-official-answer.htm))
 
 ## 2026-04 — Executive order + National Priority Vouchers compress FDA review to 1-2 months
 
@@ -55,14 +55,14 @@ blurb: 'Psilocybin racing toward first-ever US approval (Compass NDA targeted Q4
   (methylone/PTSD) — compressing review time from the usual 10-12 months
   to 1-2. Compass is targeting an NDA in Q4 2026, with FDA Commissioner
   Marty Makary publicly floating an approval decision by late 2026.
-  ([Medical Daily](https://www.medicaldaily.com/psilocybin-fda-priority-review-2026-compass-pathways-depression-ptsd-approval-475666)) ⟨steer 2026-08-07⟩
+  ([Medical Daily](https://www.medicaldaily.com/psilocybin-fda-priority-review-2026-compass-pathways-depression-ptsd-approval-475666))
 - **Transcend's actual Phase 3 trial didn't start enrolling until the same
   month it received its voucher.** EMPOWER-1 (TSND-201/methylone for PTSD,
   n=300) began enrolling April 2026 — the regulatory fast lane opened before
   the trial meant to justify it produced a single result; primary
   completion isn't expected until December 2027.
   ([ClinicalTrials.gov NCT07456696](https://clinicaltrials.gov/study/NCT07456696))
-  (wave: mh-q03) ⟨daily 2026-08-07⟩
+  (wave: mh-q03)
 
 ## 2026 — Neuromodulation's SAINT/SNT gets a real confirmatory trial, four years after clearance
 
@@ -75,7 +75,7 @@ blurb: 'Psilocybin racing toward first-ever US approval (Compass NDA targeted Q4
   actually caught up to deployment — the counter-case to psilocybin's
   chronology problem below.
   ([PubMed PMID 41536095](https://pubmed.ncbi.nlm.nih.gov/41536095/))
-  (wave: mh-q03) ⟨daily 2026-08-07⟩
+  (wave: mh-q03)
 
 ## 2026-02 — COMPASS Pathways' second Phase 3 trial (COMP006) hits its primary endpoint
 
@@ -84,7 +84,7 @@ blurb: 'Psilocybin racing toward first-ever US approval (Compass NDA targeted Q4
   result below — industry-reported by Compass and not yet independently
   peer-reviewed as of this crawl. Source URL for this specific release was
   truncated in the underlying research crawl (Compass investor-relations
-  press release, exact link not captured). ⟨steer 2026-08-07⟩
+  press release, exact link not captured).
 
 ## 2025-06 — COMPASS Pathways' first Phase 3 trial (COMP005) shows a −3.6 MADRS advantage
 
@@ -95,7 +95,6 @@ blurb: 'Psilocybin racing toward first-ever US approval (Compass NDA targeted Q4
   industry-reported, not yet independently peer-reviewed. Source URL for
   this specific release was truncated in the underlying research crawl
   (Compass investor-relations press release, exact link not captured).
-  ⟨steer 2026-08-07⟩
 
 ## 2024-08 — FDA rejects MDMA-assisted therapy: the wall the whole field is now building around
 
@@ -106,7 +105,7 @@ blurb: 'Psilocybin racing toward first-ever US approval (Compass NDA targeted Q4
   publicly released until September 2025. FDA didn't just reject one drug —
   it used the episode to eventually write the new trial-design rules
   logged above (July 2026).
-  ([MAPS](https://maps.org/2025/09/04/fda-public-release-of-crl/)) ⟨steer 2026-08-07⟩
+  ([MAPS](https://maps.org/2025/09/04/fda-public-release-of-crl/))
 
 ## 2023-01 — Compass's two pivotal Phase 3 trials fully enroll before FDA's guidance fix even existed in draft
 
@@ -122,7 +121,7 @@ blurb: 'Psilocybin racing toward first-ever US approval (Compass NDA targeted Q4
   formal blinding-integrity outcome measure.
   ([ClinicalTrials.gov NCT05624268](https://clinicaltrials.gov/study/NCT05624268),
   [NCT05711940](https://clinicaltrials.gov/study/NCT05711940))
-  (wave: mh-q03) ⟨daily 2026-08-07⟩
+  (wave: mh-q03)
 
 ## ← Backstory
 

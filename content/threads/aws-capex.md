@@ -24,7 +24,7 @@ blurb: 'Earnings 07-30 (corrected from ~07-31). Crawl 07-27: the AGI-cuts vs $20
 - **The fifth company ever to reach a $3T market cap** (after Apple,
   Microsoft, Alphabet, Nvidia), on continued post-earnings rally from
   the 07-30 Q2 beat (AWS +37% YoY) already tracked on this thread.
-  ([CNBC](https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html)) ⟨daily 2026-08-05, finalize pass⟩
+  ([CNBC](https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html))
 
 ## 2026-08-04 — Amazon prices $25B in bonds, says done issuing 2026 debt
 
@@ -32,7 +32,7 @@ blurb: 'Earnings 07-30 (corrected from ~07-31). Crawl 07-27: the AGI-cuts vs $20
   capex plan already tracked on this thread, part of a broader >$182B
   Big Tech AI-debt wave year-to-date. Amazon says it will not issue
   further debt in 2026.
-  ([Briefs.co](https://www.briefs.co/news/amazon-to-issue-25b-in-bonds-halts-further-debt-issuance-for-2026/)) ⟨daily 2026-08-04⟩
+  ([Briefs.co](https://www.briefs.co/news/amazon-to-issue-25b-in-bonds-halts-further-debt-issuance-for-2026/))
 
 ## 2026-08-01 — Late catch: Amazon raised FY2026 capex to ~$220B on memory costs
 
@@ -40,13 +40,13 @@ blurb: 'Earnings 07-30 (corrected from ~07-31). Crawl 07-27: the AGI-cuts vs $20
   to approximately $220B from approximately $200B, explicitly citing
   higher memory costs** — management said even $220B will not buy enough
   capacity to meet 2026 demand and expects the same into 2027-28.
-  ([CNBC](https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html)) ⟨daily 2026-08-01⟩
+  ([CNBC](https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html))
 - **This map recorded the quarter's revenue, AWS growth and the Anthropic
   investment gain but never the capex raise** — on a thread whose subject
-  is where the capex lands. ⟨daily 2026-08-01⟩
+  is where the capex lands.
 - **An AWS backlog figure of $496B circulated but is single-source
   (Techtimes) and was not confirmed against Amazon's own release** —
-  recorded as unverified. ⟨daily 2026-08-01⟩
+  recorded as unverified.
 
 ## 2026-07-30 — The test fires: AWS grows 37%, fastest in 18 quarters
 
@@ -57,14 +57,14 @@ blurb: 'Earnings 07-30 (corrected from ~07-31). Crawl 07-27: the AGI-cuts vs $20
   income $16.6B (+64% YoY). Property/equipment purchases up **$66.1B**
   YoY, funding the AI infrastructure buildout this thread tracks.
   (8-K filed same day, items 2.02/9.01.)
-  ([SEC EDGAR](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/amzn-20260630xex991.htm)) ⟨daily 2026-07-30⟩
+  ([SEC EDGAR](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/amzn-20260630xex991.htm))
 - **Net income ($62.6B, $5.75 EPS) is not the organic story** — $53.4B of
   it is a non-operating gain from Amazon's Anthropic investment, not
-  operating performance. Cross-reference `ai-circular-financing-risk`
+  operating performance. Cross-reference [Circular Financing](/threads/ai-circular-financing-risk/)
   (Microsoft's own Anthropic stake gained $3.2B the same reporting
-  season — a much smaller mark, different scale entirely). ⟨daily 2026-07-30⟩
+  season — a much smaller mark, different scale entirely).
 - **Q3 guidance: net sales $197.0-202.0B (9-12% growth), operating income
-  $22.5-26.5B.** ⟨daily 2026-07-30⟩
+  $22.5-26.5B.**
 
 ## 2026-07-28 — Two AWS sites in Bahrain confirmed damaged by satellite imagery
 
@@ -73,33 +73,33 @@ blurb: 'Earnings 07-30 (corrected from ~07-31). Crawl 07-27: the AGI-cuts vs $20
   claims made via Tasnim. The first war in which commercial datacentres
   have been deliberately targeted, with published damage assessment.
   ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-28/amazon-data-centers-hit-in-iran-strikes-satellite-images-show)
-  · [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/amazon-data-center-in-bahrain-struck-and-destroyed-by-iranian-cruise-missiles-state-media-claims-attacks-launched-against-aws-site-in-response-to-alleged-us-strikes-on-an-under-construction-nuclear-plant)) ⟨daily 2026-07-28⟩
+  · [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/amazon-data-center-in-bahrain-struck-and-destroyed-by-iranian-cruise-missiles-state-media-claims-attacks-launched-against-aws-site-in-response-to-alleged-us-strikes-on-an-under-construction-nuclear-plant))
 - **⚠ The imagery is new; the strikes are not.** Claimed ~**07-21**, after
   Shahed drone attacks on AWS sites in the **UAE (03-01)** and a further
   Bahrain strike (**04-01**). Recorded as corroboration, not a fresh
-  attack. ⟨daily 2026-07-28⟩
+  attack.
 - **The capex read:** Amazon has committed ~$200B to the 2026 buildout and
   just sold **$25B of bonds** to finance it. Physical loss of regional
   capacity — and the insurance/siting repricing behind it — is a cost line
   this thread has never had to model. Watch whether the 07-30 print or
-  call mentions it at all. ⟨daily 2026-07-28⟩
+  call mentions it at all.
 
 ## 2026-07-23 — Thread opened; first signal is a headcount cut, not capex
 
 - **Opened alongside its three siblings** (google-capex, meta-capex,
   microsoft-capex) so the term list catches AWS capex news going forward
   — no dedicated item swept yet, stated plainly rather than backfilled
-  with a stretch. ⟨steer 2026-07-23⟩
+  with a stretch.
 - **Amazon cut AGI research roles** (model-customization/post-training)
   while the $200B 2026 capex plan holds — a pivot toward enterprise
   deployment over frontier research, not a capex-figure change; first
   real test is the ~07-31 earnings call.
-  ([Techtimes](https://www.techtimes.com/articles/321341/20260723/amazon-cuts-agi-jobs-while-pouring-200-billion-ai-infrastructure.htm)) ⟨daily 2026-07-23⟩
+  ([Techtimes](https://www.techtimes.com/articles/321341/20260723/amazon-cuts-agi-jobs-while-pouring-200-billion-ai-infrastructure.htm))
 
 ## ← Backstory
 
-_(Finding: `artifacts/findings/aws-capex-2026-07-27.md` · Bundle:
-`artifacts/bundles/aws-capex-2026-07-27/provenance.yaml`)_
+_(Finding: artifacts/findings/aws-capex-2026-07-27.md · Bundle:
+artifacts/bundles/aws-capex-2026-07-27/provenance.yaml)_
 
 - **The capex buys landlord capacity, not a frontier-research bid** —
   the AGI-team cuts and the $200B plan read as coherent, not
@@ -109,7 +109,6 @@ _(Finding: `artifacts/findings/aws-capex-2026-07-27.md` · Bundle:
   investment). AWS's Q1 2026 backlog hit $364B, up from $244B, excluding
   the Anthropic deal.
   ([Anthropic](https://www.anthropic.com/news/anthropic-amazon-compute))
-  ⟨crawl 2026-07-27⟩
 - **Project Rainier (New Carlisle, Indiana) came online 2025-10-29** —
   ~500,000 Trainium2 chips, built for Anthropic, one of the world's
   largest AI compute clusters, initial $11B investment; a further $15B
@@ -118,7 +117,6 @@ _(Finding: `artifacts/findings/aws-capex-2026-07-27.md` · Bundle:
   2025-06-09) and a new ~$10B North Carolina site (2026-07-20) round out
   the confirmed US build-out.
   ([Google News RSS convergence — About Amazon/DCD/DCK/Semafor](https://news.google.com/rss/search?q=Amazon%20Project%20Rainier%20Trainium))
-  ⟨crawl 2026-07-27⟩
 - **AWS-Anthropic relationship grew, not shrank, despite Anthropic's
   Google TPU deal** — ten days after Anthropic expanded with Google and
   Broadcom for TPU capacity (2026-04-06/07), Anthropic and Amazon
@@ -128,7 +126,6 @@ _(Finding: `artifacts/findings/aws-capex-2026-07-27.md` · Bundle:
   diversification, not AWS displacement — no numeric compute split
   across AWS/Google/Microsoft exists in any source found.
   ([TechCrunch](https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/))
-  ⟨crawl 2026-07-27⟩
 - **Power: 1.92GW under firm nuclear PPA now, 5GW+ SMR pipeline by
   2039** — the AWS-Talen 17-year PPA (1,920 MW from Susquehanna, through
   2042, ~$18B) was restructured in 2025-06 specifically to avoid the
@@ -136,7 +133,7 @@ _(Finding: `artifacts/findings/aws-capex-2026-07-27.md` · Bundle:
   (Amazon-backed, IPO'd 2026-04-23 raising ~$1.02B) joined the DOE's
   Project Prometheus alongside NVIDIA and AWS on 2026-07-22, reaffirming
   the 5GW-by-2039 nuclear option.
-  ([X-Energy IR](https://investors.x-energy.com)) ⟨crawl 2026-07-27⟩
+  ([X-Energy IR](https://investors.x-energy.com))
 - **The OpenAI ~$50B deal is CONFIRMED, not a rumor** — officially
   announced 2026-02-27: $50B total Amazon-into-OpenAI investment plus an
   expanded $100B/8-year AWS compute deal, ~2GW Trainium capacity, AWS as
@@ -144,16 +141,15 @@ _(Finding: `artifacts/findings/aws-capex-2026-07-27.md` · Bundle:
   platform. Triggered a Microsoft exclusivity dispute that resolved
   2026-04-27 (Microsoft's exclusivity ended; OpenAI now multi-clouds
   across AWS and Azure; hard 2032 Microsoft-OpenAI partnership end date).
-  ([TechCrunch](https://techcrunch.com)) ⟨crawl 2026-07-27⟩
+  ([TechCrunch](https://techcrunch.com))
 - **Earnings-date correction:** Amazon's Q2 2026 call is confirmed for
   **2026-07-30**, not "~07-31" as this thread's watch line has said since
-  opening — worth fixing on next `/daily`/`/steer` touch. Watch for: a
+  opening — worth fixing on next /daily//steer touch. Watch for: a
   raised $200B capex guide (Alphabet just raised its own 2026 guide
   07-22/23), backlog growth past $364B, FCF commentary (Amazon reportedly
   borrowing an extra $25B as FCF turns negative under the capex load,
   per TIKR/Motley Fool 07-08/09), and any analyst question on the AGI
-  cuts vs. capex tension. ⟨crawl 2026-07-27⟩
+  cuts vs. capex tension.
 - **Open gap:** the brief's "$151B TTM" capex figure was not
   independently confirmed this crawl — every direct-fetch attempt
   against Amazon's own IR/blog domains 404'd. Verify at 07-30 earnings.
-  ⟨crawl 2026-07-27⟩

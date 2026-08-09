@@ -15,7 +15,7 @@ blurb: 'The real parity story is limbo, not a deadline: the 2024 Biden-era MHPAE
   parity action filling the federal void.'
 ---
 
-## 2026-04-01 — The limbo, stated ⟨crawl 2026-07-28⟩
+## 2026-04-01 — The limbo, stated
 
 - **The administration announced it will propose a REPLACEMENT for the
   2024 MHPAEA final rule** — which has been non-enforced since May 2025 —

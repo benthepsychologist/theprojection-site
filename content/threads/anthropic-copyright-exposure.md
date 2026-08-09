@@ -29,7 +29,7 @@ blurb: 'Two angles surfaced the same day (2026-08-05/06): Anthropic sought parti
   signal this was a real emerging story, not noise. Offered as a thread
   candidate by the AI-lens fresh-story sweep; promoted same-session
   ("track the Anthropic copyright... thread, good one").
-  ([Digital Music News](https://news.google.com/rss/search?q=Anthropic+Concord+copyright), [Euronews — Project Panama](https://news.google.com/rss/search?q=Anthropic+Project+Panama+books)) ⟨steer 2026-08-06⟩
+  ([Digital Music News](https://news.google.com/rss/search?q=Anthropic+Concord+copyright), [Euronews — Project Panama](https://news.google.com/rss/search?q=Anthropic+Project+Panama+books))
 
 ## ← Backstory
 

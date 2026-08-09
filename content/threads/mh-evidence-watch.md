@@ -23,19 +23,19 @@ blurb: 'The EBP umbrella — what science says makes mental-health treatment wor
   It'll have 'of interest' threads also"), seeded from two deep research
   crawls run the same day (therapy-science and digital/AI-science). This
   meta thread is the umbrella over five child threads opened alongside it:
-  AI Therapy Evidence (`ai-therapy-evidence`), Psychedelic Sprint
-  (`psychedelic-regulatory-sprint`), DTx Paradox (`dtx-payment-paradox`),
-  Social Media Fight (`social-media-causality-fight`), and Evidence
-  Infrastructure (`mh-evidence-infrastructure`). A sixth thread opened the
-  same day, AI Psychosis (`ai-psychosis`), sits outside this umbrella as a
+  AI Therapy Evidence ([AI Therapy Evidence](/threads/ai-therapy-evidence/)), Psychedelic Sprint
+  ([Psychedelic Sprint](/threads/psychedelic-regulatory-sprint/)), DTx Paradox ([DTx Paradox](/threads/dtx-payment-paradox/)),
+  Social Media Fight ([Social Media Fight](/threads/social-media-causality-fight/)), and Evidence
+  Infrastructure ([Evidence Infrastructure](/threads/mh-evidence-infrastructure/)). A sixth thread opened the
+  same day, AI Psychosis ([AI Psychosis](/threads/ai-psychosis/)), sits outside this umbrella as a
   cross-platform harm story rather than an evidence-strand child.
-  (two EBP research crawls, 2026-08-07) ⟨steer 2026-08-07⟩
+  (two EBP research crawls, 2026-08-07)
 
 ## 2026-08-07 — Ten-memo research wave completed: the strand's current state-of-knowledge baseline
 
 - **All ten standing research questions for the mental-health
   evidence-based-practice strand were run out to dated memos on
-  2026-08-07** (`artifacts/findings/mh-q01` through `mh-q10`), extending
+  2026-08-07** (artifacts/findings/mh-q01 through mh-q10), extending
   the two source EBP crawls and, where relevant, the *Evidence Gap* book
   manuscript with what's actually new in the primary record. One line per
   cluster verdict: **evidence** (does treatment work, does the base hold)
@@ -56,7 +56,7 @@ blurb: 'The EBP umbrella — what science says makes mental-health treatment wor
   regardless). This entry is the pointer; each child thread above carries
   its own memo's dated findings folded in directly.
   (wave: mh-q01, mh-q02, mh-q03, mh-q04, mh-q05, mh-q06, mh-q07, mh-q08,
-  mh-q09, mh-q10) ⟨daily 2026-08-07⟩
+  mh-q09, mh-q10)
 
 ## 2026-02 — Cuijpers state-of-the-art review: progress is cumulative, not transformative
 
@@ -69,7 +69,7 @@ blurb: 'The EBP umbrella — what science says makes mental-health treatment wor
   and dissemination (task-sharing, digital) — and concludes progress
   across all of them has been incremental, not transformative. Paywalled
   at crawl time; summarized via secondary coverage.
-  ([Wiley/World Psychiatry](https://onlinelibrary.wiley.com/doi/10.1002/wps.70002)) ⟨steer 2026-08-07⟩
+  ([Wiley/World Psychiatry](https://onlinelibrary.wiley.com/doi/10.1002/wps.70002))
 
 ## 2024-06 — Cuijpers meta-analysis: absolute response rates run 24-42% across eight disorders
 
@@ -84,7 +84,7 @@ blurb: 'The EBP umbrella — what science says makes mental-health treatment wor
   strand keeps returning to: most of what's new in the field (task-sharing,
   single-session interventions, digital-adjacent delivery) expands who
   gets treatment, not how well treatment works once they get it.
-  ([PubMed](https://pubmed.ncbi.nlm.nih.gov/38727072/)) ⟨steer 2026-08-07⟩
+  ([PubMed](https://pubmed.ncbi.nlm.nih.gov/38727072/))
 
 ## ← Backstory
 

@@ -25,9 +25,9 @@ blurb: 'The French national champion running two tracks at once: a fast, broaden
 ## 2026-08-04 — Opened + crawled
 
 - **Thread opened** (ben-steer, crawl) — filling a confirmed coverage gap:
-  the board's own `actor-doing.yaml` entry flagged Mistral as "barely
+  the board's own actor-doing.yaml entry flagged Mistral as "barely
   tracked... a coverage gap flagged for the next collection pass, not a
-  quiet actor." ⟨crawl 2026-08-04⟩
+  quiet actor."
 - **Verdict: Mistral is shipping fast and anchoring institutionally,
   while explicitly trailing on raw benchmark capability.** Five product
   ships in six weeks (OCR 4, Leanstral 1.5, Robostral Navigate, Studio
@@ -36,16 +36,15 @@ blurb: 'The French national champion running two tracks at once: a fast, broaden
   flag on the Microsoft deal is now resolved in *shape* (Microsoft rents
   compute from Mistral's own EU datacenters, not the reverse) but still
   unresolved in *dollar figure* — no outlet checked discloses one. Full
-  detail: `artifacts/findings/mistral-ai-2026-08-04.md`. ⟨crawl 2026-08-04⟩
+  detail: artifacts/findings/mistral-ai-2026-08-04.md.
 
 ## 2026-07-28 — Prior board pass (context, not a thread entry)
 
 - **The mistral-ai-node bundle's 2026-07-28 pass** already covered the
   ASML-led €2B round, the $830M datacenter round, and first sight of the
   Microsoft deal, Samsung talks, and EQT talks — see
-  `artifacts/bundles/mistral-ai-node/provenance.yaml` for the board-axes
-  sourcing this thread builds on rather than repeats. ⟨board-pass
-  2026-07-28⟩
+  artifacts/bundles/mistral-ai-node/provenance.yaml for the board-axes
+  sourcing this thread builds on rather than repeats.
 
 ## ← Backstory (crawl 2026-08-04 → artifacts/findings/mistral-ai-2026-08-04.md)
 
@@ -56,7 +55,7 @@ blurb: 'The French national champion running two tracks at once: a fast, broaden
   construction, €1.2B invested) for Azure customers in regulated
   industries — plus added Mistral Medium 3.5 and OCR 4 to Azure AI
   Foundry. No dollar figure or contract length disclosed in any of 8+
-  outlets checked. ⟨crawl 2026-08-04⟩
+  outlets checked.
 
 ## 2026-06-12 → 07-22 — The pending €3B/€20B round
 
@@ -64,7 +63,7 @@ blurb: 'The French national champion running two tracks at once: a fast, broaden
   crawl:** a ~€3B round that would take Mistral's valuation from €12B to
   ~€20B (67% step-up) — Samsung (~€1B, "dual chip-and-AI-sovereignty"
   framing) plus EQT's EC-backed Scaleup Europe Fund reportedly leading,
-  with Novo Holdings and Santander also in. ⟨crawl 2026-08-04⟩
+  with Novo Holdings and Santander also in.
 
 ## 2026-05-22 → 05-28 — Emmi acquisition and the industrial AI launch
 
@@ -74,12 +73,11 @@ blurb: 'The French national champion running two tracks at once: a fast, broaden
   commercial aircraft, helicopters, space programs), BMW, EDF, and CMA
   CGM as launch customers. The Les Ulis datacenter (Q3-2026 target) was
   announced the same event, framed explicitly as compute independence.
-  ⟨crawl 2026-08-04⟩
 
 ## 2026-05 — Le Chat rebrands to Mistral Vibe
 
 - **Le Chat renamed to "Mistral Vibe"** with new features bundled at the
-  rename. ⟨crawl 2026-08-04⟩
+  rename.
 
 ## 2026-04-29 — Mistral Medium 3.5 ships
 
@@ -89,7 +87,7 @@ blurb: 'The French national champion running two tracks at once: a fast, broaden
   with Opus 4.7, done here with open weights. 77.6% SWE-Bench Verified
   (vs. Sonnet 4.6's 79.6%), AA Intelligence Index 30 — "competitive but
   below the closed leaders." Priced to undercut every closed frontier
-  competitor. ⟨crawl 2026-08-04⟩
+  competitor.
 
 ## 2026-01-08 — The French defense framework
 
@@ -99,8 +97,7 @@ blurb: 'The French national champion running two tracks at once: a fast, broaden
   entirely on French infrastructure, overseen by AMIAD, running
   2026–2030. **Correction on the coverage:** headlines calling this a
   "$14B AI deal" are conflating Mistral's company valuation with the
-  contract's value — actual financial terms are undisclosed. ⟨crawl
-  2026-08-04⟩
+  contract's value — actual financial terms are undisclosed.
 
 ## ← Deeper backstory (pre-2026, board.yaml carried figures)
 
@@ -111,4 +108,3 @@ blurb: 'The French national champion running two tracks at once: a fast, broaden
   cap table. **$830M round, Mar-2026**, seven-bank debt consortium, for
   Paris + Sweden datacenter buildout. Cumulative closed raise: ~$6.2-7B.
   (carried from board.yaml + mistral-ai-node bundle, 2026-07-28 pass)
-  ⟨crawl 2026-08-04⟩

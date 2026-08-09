@@ -17,10 +17,16 @@ markup:
 
 params:
   tagline: "The surface is never the system."
+  # 2026-08-09: rewritten from "Inference economics, governed infrastructure,
+  # and epistemics" — that was the first thing anyone saw (browser tab,
+  # search result, link preview) on nearly every page site-wide, and it's
+  # jargon a first-time, non-technical visitor can't parse before even
+  # loading the page. This is the sitewide fallback; /news/, /map/, and a
+  # few others override it with their own tailored description already.
   description: >
-    Inference economics, governed infrastructure, and epistemics — read
-    through a clinical psychologist who builds software. Published from
-    kestrel, Ben's personal intelligence layer.
+    A daily-updated news read on AI, money, and mental health — three
+    feeds, each story sourced and dated, written by a clinical
+    psychologist who also builds software.
   favicon: "/favicon.png"
   mark: "/images/mark.png"
 

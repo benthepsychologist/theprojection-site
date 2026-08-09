@@ -19,8 +19,8 @@ blurb: Chatbot-linked psychosis/delusion moving from case reports toward a clini
 
 - **Opened cross-platform by design**, seeded from the EBP digital/AI-science
   research crawl; the xAI/Grok-specific clinical-harm strand stays on the
-  separate `grok-companion-harm` thread — cross-reference, don't merge.
-  (EBP digital/AI-science crawl, 2026-08-07) ⟨steer 2026-08-07⟩
+  separate [Grok Harm](/threads/grok-companion-harm/) thread — cross-reference, don't merge.
+  (EBP digital/AI-science crawl, 2026-08-07)
 
 ## 2026-06-04 — Vanderbilt study is the first attempt to estimate AI-psychosis prevalence within a clinical population
 
@@ -33,7 +33,7 @@ blurb: Chatbot-linked psychosis/delusion moving from case reports toward a clini
   methodological step up from clinician tallies (n=12 in the case cluster
   below), but still short of true epidemiology.
   ([medRxiv](https://www.medrxiv.org/content/10.64898/2026.06.04.26354939v1.full))
-  (wave: mh-q06) ⟨daily 2026-08-07⟩
+  (wave: mh-q06)
 
 ## 2025-12-18 — Anthropic publishes the first quantified, cross-generation safety numbers from a frontier lab
 
@@ -44,7 +44,7 @@ blurb: Chatbot-linked psychosis/delusion moving from case reports toward a clini
   delusion/sycophancy safety numbers. Real and measurable, but still
   vendor-graded and self-reported, not independently audited.
   ([Anthropic](https://www.anthropic.com/news/protecting-well-being-of-users))
-  (wave: mh-q06) ⟨daily 2026-08-07⟩
+  (wave: mh-q06)
 
 ## 2025 — Sycophancy research gets formally connected to delusion-reinforcement risk
 
@@ -56,22 +56,22 @@ blurb: Chatbot-linked psychosis/delusion moving from case reports toward a clini
   behavior in 58.2% of medical/math query cases generally — the mechanism
   candidate underlying the case cluster below. Month of publication not
   specified in the underlying crawl.
-  ([JMIR](https://www.jmir.org/2025/1/e87367)) ⟨steer 2026-08-07⟩
+  ([JMIR](https://www.jmir.org/2025/1/e87367))
 
 ## 2025-10 — The case-literature cluster: hospitalizations, a company's own disclosure, and an advocacy tally converge
 
 - **UCSF's Keith Sakata publicly reported 12 hospitalizations linked to
   heavy AI use** — anecdotal, from a single clinician, not a systematic
   study.
-  ([Psychiatric News](https://psychiatryonline.org/doi/10.1176/appi.pn.2025.10.10.5)) ⟨steer 2026-08-07⟩
+  ([Psychiatric News](https://psychiatryonline.org/doi/10.1176/appi.pn.2025.10.10.5))
 - **OpenAI itself disclosed that roughly 0.07% of its weekly active
   users — about 560,000 people — show possible psychosis or mania
   signals.** This is a company self-disclosure, not an independently
   audited figure.
-  ([Psychiatric News](https://psychiatryonline.org/doi/10.1176/appi.pn.2025.10.10.5)) ⟨steer 2026-08-07⟩
+  ([Psychiatric News](https://psychiatryonline.org/doi/10.1176/appi.pn.2025.10.10.5))
 - **The Human Line Project's crowd-documented tally reached roughly 300
   cases** — an advocacy tally, not a clinical or epidemiological count.
-  ([Psychiatric News](https://psychiatryonline.org/doi/10.1176/appi.pn.2025.10.10.5)) ⟨steer 2026-08-07⟩
+  ([Psychiatric News](https://psychiatryonline.org/doi/10.1176/appi.pn.2025.10.10.5))
 - **Named tragic cases circulating in this period — a Belgian suicide, a
   Wisconsin mania case, a Connecticut matricide-suicide — are
   litigation- and media-documented, not peer-reviewed epidemiology.** None
@@ -79,7 +79,7 @@ blurb: Chatbot-linked psychosis/delusion moving from case reports toward a clini
   the open question this thread exists to track. Mechanism-level work
   (bidirectional false-belief amplification, sycophancy-driven delusion
   reinforcement) exists so far only at the simulation-study stage.
-  ([Psychiatric News](https://psychiatryonline.org/doi/10.1176/appi.pn.2025.10.10.5)) ⟨steer 2026-08-07⟩
+  ([Psychiatric News](https://psychiatryonline.org/doi/10.1176/appi.pn.2025.10.10.5))
 
 ## ← Backstory
 

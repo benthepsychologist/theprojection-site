@@ -30,7 +30,7 @@ blurb: 'The somatic bet where evidence actually caught up — and the test of wh
   circulated off the original. The study also reports left-ACC beta
   power as a predictive EEG biomarker — a treatment-selection angle the
   matching strand (mh-q02) tracks separately. (PMID 41536095)
-  (wave: mh-q03) ⟨steer 2026-08-07⟩
+  (wave: mh-q03)
 
 ## 2022 — Clearance and commercial rollout on a 30-patient trial
 
@@ -40,4 +40,4 @@ blurb: 'The somatic bet where evidence actually caught up — and the test of wh
   evidence by roughly four years, the same pattern the psychedelic
   sprint is running now. The difference, and the reason this thread
   exists: here the confirmatory trial eventually happened and held.
-  (wave: mh-q03) ⟨steer 2026-08-07⟩
+  (wave: mh-q03)

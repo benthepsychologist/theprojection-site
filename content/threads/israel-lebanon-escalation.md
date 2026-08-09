@@ -21,16 +21,15 @@ blurb: 'The Israel–Hezbollah front turning hot while its diplomacy stalls: dea
   south Lebanon** as Israel steps up strikes on Hezbollah — the deadly
   flare-up landing mid-negotiation, with the US claiming progress in
   the same window the violence escalated.
-  ([Al Jazeera](https://www.aljazeera.com/), [Times of Israel](https://www.timesofisrael.com/)) ⟨daily 2026-08-07⟩
+  ([Al Jazeera](https://www.aljazeera.com/), [Times of Israel](https://www.timesofisrael.com/))
 - **The seventh round of US-facilitated Israel–Lebanon talks produced no
   withdrawal agreement** — Israel refusing to withdraw from additional
   south-Lebanon positions (France 24); the WSJ frames the stepped-up
   strikes as clouding the talks themselves; L'Orient Today reports a
   stated **four-week window** before "a military option returns."
-  ([WSJ](https://www.wsj.com/), [France 24](https://www.france24.com/), [L'Orient Today](https://today.lorientlejour.com/)) ⟨daily 2026-08-07⟩
+  ([WSJ](https://www.wsj.com/), [France 24](https://www.france24.com/), [L'Orient Today](https://today.lorientlejour.com/))
 - Mechanical context: 75 distinct outlets on the world-news sweep — the
   largest unmatched cluster on the board the day this thread opened.
-  ⟨daily 2026-08-07⟩
 
 *Backstory before 2026-08-07 (the ceasefire's terms, the withdrawal-line
-dispute, how the talks track began): `/crawl` pending.*
+dispute, how the talks track began): /crawl pending.*

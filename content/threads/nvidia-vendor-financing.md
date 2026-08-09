@@ -27,23 +27,23 @@ blurb: 'Nvidia''s turn from chip vendor to the buildout''s lender of last resort
   reported $250B figure on the OpenAI leg alone once the SK Group
   component is included). Terms still in flux, unconfirmed by either
   company.
-  ([Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/nvidia-750-billion-deals-revive-102003935.html)) ⟨daily 2026-08-04⟩
+  ([Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/nvidia-750-billion-deals-revive-102003935.html))
 
 ## 2026-07-29 — CDS eases from the record; the record's date gets corrected
 
 - **The $250B guarantee remains unconfirmed by any company, with terms
   unfinalized.**
-  ([Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/nvidia-weighs-250-billion-guarantee-so-openai-can-lease-softbanks-10-gigawatt-ohio-campus)) ⟨daily 2026-07-29⟩
+  ([Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/nvidia-weighs-250-billion-guarantee-so-openai-can-lease-softbanks-10-gigawatt-ohio-campus))
 - **The separate ~$350B chip-financing negotiation is a distinct
-  instrument from the guarantee.** ⟨daily 2026-07-29⟩
+  instrument from the guarantee.**
 - **Nvidia's CDS eased to ~78bp from Monday's 82bp record.**
-  ([Seeking Alpha](https://seekingalpha.com/news/4620575-oracle-leads-record-widening-in-hyperscaler-cds-spreads)) ⟨daily 2026-07-29⟩
+  ([Seeking Alpha](https://seekingalpha.com/news/4620575-oracle-leads-record-widening-in-hyperscaler-cds-spreads))
 - **Correction, stated plainly: the record CDS widening was Monday
   2026-07-27 (Bloomberg), not 07-28 as this repo's 07-28 digest recorded
   it** — an aggregator re-indexing error.
-  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-27/nvidia-credit-risk-jumps-in-swaps-market-on-ai-deal-talk-reports)) ⟨daily 2026-07-29⟩
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-27/nvidia-credit-risk-jumps-in-swaps-market-on-ai-deal-talk-reports))
 
-## 2026-07-28 — Record CDS day ⟨daily 2026-07-28⟩
+## 2026-07-28 — Record CDS day
 
 - **The guarantee firmed to $250B** (WSJ tier-1; the $500B print didn't
   verify) — CDS record single-day widening. **+ $5B into
@@ -57,7 +57,7 @@ blurb: 'Nvidia''s turn from chip vendor to the buildout''s lender of last resort
   07-28 **equity refused to follow while the CDS stayed wide**. A
   divergence between what the lender's debt costs and what its equity
   says is more informative than a one-day round trip.
-  ([stockanalysis.com](https://stockanalysis.com/stocks/nvda/history/)) ⟨daily 2026-07-28⟩
+  ([stockanalysis.com](https://stockanalysis.com/stocks/nvda/history/))
 - **Figure resolved, not contradicted:** NYT/Forbes's "$500 billion"
   headlines (07-27/28) refer to the **total project cost** of the Piketon,
   Ohio site (a former uranium-enrichment plant SoftBank is redeveloping
@@ -68,21 +68,21 @@ blurb: 'Nvidia''s turn from chip vendor to the buildout''s lender of last resort
   Anthropic, Microsoft, and Google are named as competing bidders for the
   same capacity.
   ([Forbes](https://www.forbes.com/sites/tylerroush/2026/07/27/nvidia-and-openai-discussing-500-billion-data-center-heres-what-we-know/) /
-  [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says)) ⟨daily 2026-07-28⟩
+  [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says))
 
-## 2026-07-27 — The market answers ⟨daily 2026-07-27⟩
+## 2026-07-27 — The market answers
 
 - **NVDA −4%, CDS wider on the guarantee reports** — the first time the
   market priced Nvidia's own credit as the risk.
 
-## 2026-07-26 — The guarantee ⟨daily 2026-07-26⟩
+## 2026-07-26 — The guarantee
 
 - **WSJ: Nvidia in talks to guarantee $250–500B of OpenAI financing** for
   the 10GW Ohio campus (figure unresolved across outlets).
 
-## ← Backstory ⟨steer 2026-07-27⟩
+## ← Backstory
 
 - **The stake ladder to date:** Nebius 9.3% (confirmed 07-20) · Naver $1B
   (07-27) · Intel $5B (Sep-25) · Groq ~$20B licensing (Dec-25) — equity
   and credit flowing from the vendor into its own demand base. Thread spun
-  out of `ai-circular-financing-risk` (ben-steer: "thread it").
+  out of [Circular Financing](/threads/ai-circular-financing-risk/) (ben-steer: "thread it").
