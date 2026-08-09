@@ -3,7 +3,7 @@ title: Genesis Mission
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-07-28
+last_seen: 2026-08-04
 weight: 2
 entities: []
 thread_kind: story

@@ -3,7 +3,7 @@ title: Anthropic IPO
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-07-25
+last_seen: 2026-08-02
 weight: 2
 entities:
 - anthropic

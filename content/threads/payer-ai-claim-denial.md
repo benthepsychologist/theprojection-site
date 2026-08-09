@@ -3,7 +3,7 @@ title: AI Denial Machine
 lens: mental-health
 status: open
 opened: 2026-07-28
-last_seen: 2026-07-30
+last_seen: 2026-08-05
 weight: 2
 entities:
 - unitedhealth-group

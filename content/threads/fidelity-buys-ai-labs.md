@@ -3,7 +3,7 @@ title: Fidelity Buys Into the AI Labs
 lens: global-capital
 status: open
 opened: 2026-08-04
-last_seen: 2026-05-28
+last_seen: 2026-08-04
 weight: 2
 entities:
 - fidelity
