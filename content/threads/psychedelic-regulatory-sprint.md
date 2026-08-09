@@ -16,6 +16,19 @@ blurb: 'Psilocybin racing toward first-ever US approval (Compass NDA targeted Q4
   fix?'
 ---
 
+## 2026-08-07 — VA launches the first federal-government-sponsored psilocybin trial
+
+- **COMPASS Pathways is donating COMP360 to the VA's "PIVOT" trial**
+  (NCT07226232) — a 240-veteran, double-blind RCT across five VA medical
+  centers (Birmingham, Tuscaloosa, Portland, Philadelphia, Seattle)
+  comparing two psilocybin doses against treatment-resistant depression,
+  with and without comorbid PTSD, running through June 2031. Announced
+  08-06 (VA/Compass press release), widest press pickup 08-07 (Army
+  Times, Military.com, the American Legion) — caught by the 08-07
+  finalize pass on 2026-08-09 (the digest for that day ran two days
+  late after an operational gap).
+  ([VA press release](https://news.va.gov/press-room/va-launches-psilocybin-trial-for-veterans-with-treatment-resistant-depression/)) ⟨daily 2026-08-07⟩
+
 ## 2026-08-07 — Opened (ben-steer)
 
 - **Opened as a dedicated child thread of `mh-evidence-watch`**, seeded

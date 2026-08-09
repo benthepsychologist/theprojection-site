@@ -3,7 +3,7 @@ title: The Funding Shift
 lens: mental-health
 status: developing
 opened: 2026-06-28
-last_seen: 2026-08-06
+last_seen: 2026-08-08
 weight: 3
 entities:
 - spring-health
@@ -16,6 +16,20 @@ blurb: 'MH is the #1-funded US therapeutic area (~$1.27B/14 deals to start 2026)
   hitting the regulatory reckoning; watch consolidation (e.g. Spring Health/Alma).
   Tests whether the market prices in rigor — the evidence-gap thesis.'
 ---
+
+## 2026-08-08 — Talkspace misses Q2, the same week LifeStance beats
+
+- **Talkspace missed Q2 2026 estimates on both lines** — $61.67M revenue
+  against a $67.93M consensus, and a $0.01/share loss against a $0.03
+  consensus estimate — independently confirmed by Fierce Healthcare's
+  own Q2 health-tech earnings roundup. Lands the same week LifeStance
+  Health (a comparable outpatient/platform mental-health provider) beat
+  estimates and raised full-year guidance (see 2026-08-06 finalize) — a
+  real divergence between two public mental-health platforms, direct
+  signal for this thread's "does the market price in rigor" question.
+  Reconstructed into the 08-08 digest on 2026-08-09 (no `/daily` ran
+  08-08 at all).
+  ([MarketBeat](https://www.marketbeat.com/instant-alerts/talkspace-nasdaqtalk-releases-quarterly-earnings-results-misses-expectations-by-004-eps-2026-08-08/)) ⟨daily 2026-08-08⟩
 
 ## 2026-07-23 — An incumbent repositions; a policy vehicle surfaces
 

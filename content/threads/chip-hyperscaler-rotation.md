@@ -3,7 +3,7 @@ title: The Great Rotation
 lens: global-capital
 status: open
 opened: 2026-07-29
-last_seen: 2026-08-03
+last_seen: 2026-08-08
 weight: 2
 entities: []
 thread_kind: story
@@ -17,6 +17,11 @@ blurb: 'Analysts (Morgan Stanley, UBS, Forrester) are calling an explicit alloca
   policy) and from `ai-trade-bear-turn` (the broader AI-stock drawdown) — this is
   specifically the reallocation call between the two cohorts.'
 ---
+
+## 2026-08-08 — The scare that triggered the rotation debate starts unwinding
+
+- **South Korea's SK Hynix-led selloff began easing as roughly $1.4B in leveraged trades unwound, a day after a brief pre-market "flash crash" (a 30%-limit-down print on an alternative exchange, lasting under an hour) had rattled the KOSPI.** The rout traced to Wall Street spillover — SanDisk's strong earnings but soft guidance sparked broader memory-sector jitters — layered onto South Korea's own leveraged-ETF exposure to AI/semiconductor names. The easing doesn't resolve this thread's core question (is the rotation real or noise), but it does mark the specific volatility episode this week's "peaking" debate was reacting to as a market-structure event (leverage unwind), not a fresh fundamentals signal.
+  ([CNBC](https://www.cnbc.com/2026/08/06/asia-tech-selloff-wall-street-samsung-sk-hynix.html)) ⟨daily 2026-08-08⟩
 
 ## 2026-08-05 — A named fund manager pushes back on "peaking": this is a reset, not a rotation
 

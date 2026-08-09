@@ -3,7 +3,7 @@ title: CoreWeave Bet
 lens: global-capital
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-07
+last_seen: 2026-08-08
 weight: 2
 entities:
 - coreweave
@@ -18,6 +18,11 @@ blurb: 'The neocloud wager, quantified: $99.4B backlog (Q1-26; OpenAI $18.4B + M
   rejection left a 4.5-month capacity gap; plan B is thin. Next print: Q2 earnings
   08-11.'
 ---
+
+## 2026-08-08 — A second quant-finance customer scales up, three days ahead of the Q2 print
+
+- **CoreWeave expanded its AI-cloud partnership with quant trading firm IMC to a materially larger capacity commitment — the second confirmation this week that quantitative-finance demand is a real, growing leg of the backlog, not just AI-lab concentration.** Flow Traders has already standardized on CoreWeave; combined with Jane Street's existing $6B platform commitment, $1B equity stake, and planned $11B refinance already on this thread's record, financial-sector customers are diversifying the backlog away from the OpenAI/Meta concentration this thread has flagged as the real risk (10-Q anonymized customers to A-D; S-1 said 77% from top two). Worth weighing directly against Tuesday's (08-11) earnings print.
+  ([Yahoo Finance UK](https://uk.finance.yahoo.com/news/coreweave-crwv-wins-bigger-ai-011203516.html)) ⟨daily 2026-08-08⟩
 
 ## 2026-08-05 — A supply-chain data point ahead of the 08-11 print: CoreWeave locks priority SSD access
 

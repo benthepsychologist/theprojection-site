@@ -3,7 +3,7 @@ title: Nvidia's Order Book
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-04
+last_seen: 2026-08-07
 weight: 2
 entities:
 - nvidia
@@ -16,6 +16,17 @@ blurb: The demand side of the chip spend — a ~$1T Blackwell+Rubin book (a mana
   has shifted to supply (HBM4). Watch the per- customer concentration and the circular-financing
   stakes (Nvidia's 10-Q investments in its own buyers).
 ---
+
+## 2026-08-07 — Nvidia takes a $3B stake in the power layer under Stargate
+
+- **Nvidia will invest up to $3B in Lancium, the Blackstone-backed power
+  developer behind Stargate's Abilene, Texas campus** — $2B initial for a
+  ~20% stake, up to $1B more on grid milestones, valuing Lancium at
+  roughly $10B. Not a chip order, but the same customer-financing logic
+  one layer down: Nvidia now holds equity in the power infrastructure its
+  own GPU customers depend on. Cross-refs `ai-circular-financing-risk`,
+  `ai-power-buildout`.
+  ([The Information](https://www.theinformation.com/articles/nvidia-invest-3-billion-blackstone-backed-power-firm-behind-stargate)) ⟨daily 2026-08-07⟩
 
 ## 2026-08-05 — A new demand category: SpaceX commits exclusively to Nvidia for AI compute in orbit
 

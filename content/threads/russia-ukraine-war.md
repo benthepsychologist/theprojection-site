@@ -3,7 +3,7 @@ title: Russia-Ukraine War
 lens: world-news
 status: open
 opened: 2026-07-31
-last_seen: 2026-08-07
+last_seen: 2026-08-08
 weight: 3
 entities: []
 thread_kind: story
@@ -20,6 +20,20 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   sibling thread the same way `iran-conflict-widening` / `red-sea-oil-shock` did,
   if and when that read becomes substantial enough to carry on its own.'
 ---
+
+## 2026-08-08 — Kyiv agrees, under US pressure, to spare non-Russian Black Sea oil tankers
+
+- **Ukraine has privately agreed not to target certain non-Russian oil
+  tankers and Black Sea infrastructure used to export Kazakh crude**,
+  a US official told Bloomberg — specifically CPC (Caspian Pipeline
+  Consortium) vessels and terminal infrastructure near Novorossiysk,
+  Russia, provided they aren't Ukraine-sanctioned, don't carry Russian
+  cargo, and aren't Russian-owned. Follows US-Ukraine talks after last
+  month's tanker strikes halted CPC loadings; Kyiv has set up contact
+  points for shipping companies to arrange safe passage. Targeting
+  policy is this thread's beat; the CPC/oil-flow market read (August
+  exports down roughly a third) belongs to a global-capital sibling.
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-08/us-says-ukraine-to-avoid-targeting-tankers-black-sea-oil-site)) ⟨daily 2026-08-08⟩
 
 ## 2026-08-06 — An explosive-laden drone found near a Ukrainian cargo plane on German soil
 

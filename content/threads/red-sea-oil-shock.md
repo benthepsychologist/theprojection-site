@@ -3,7 +3,7 @@ title: Red Sea Shock
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-07
+last_seen: 2026-08-09
 weight: 3
 entities: []
 thread_kind: story
@@ -30,6 +30,23 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   policy. This is the capital-markets and risk-underwriting read of the war, deliberately
   distinct from the conflict itself.'
 ---
+
+## 2026-08-09 — A second Jazan refinery hit, and Iran's IRGC separates "reopening" from the Oman talks entirely
+
+- **Yemen's Houthis hit Saudi Aramco's Jazan refinery for a second time (first was 07-25/27) — fire extinguished, no injuries, framed by the Houthi spokesman as retaliation for Saudi airspace incursions into Saada/Hajjah.** Aramco itself reported Q2 profit +33% YoY to $33.4B on 08-04 (realized crude $108.1/bbl, +62% YoY) — the same war repeatedly hitting its refining assets is also the reason its upstream earnings are up sharply, a tension worth holding rather than resolving.
+  ([NPR](https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news)) ⟨daily 2026-08-09⟩
+- **Iran's Revolutionary Guard hardened its own Hormuz stance overnight, explicitly separating "reopening" from the Oman negotiations and listing six maximalist conditions — a real risk signal for the `iran-oman-hormuz-deal-signing` expectation this thread has tracked toward ~08-12.** The IRGC's own words: the strait is "a theatre of war... not just a waterway" until the US ends threats/military action, withdraws its naval blockade force, pays war-damage compensation, lifts sanctions, and releases frozen Iranian assets. Iran's Foreign Minister separately called the Oman talks "nearing their final stages" — two different Iranian power centers pointing opposite directions on how close a deal actually is.
+  ([Punch](https://punchng.com/iran-wont-reopen-hormuz-until-us-meets-all-conditions-revolutionary-guards/), [Gulf News](https://gulfnews.com/world/iran-sets-new-conditions-for-hormuz-reopening-1.500635088)) ⟨daily 2026-08-09⟩
+
+## 2026-08-08 — Iran's IRGC hits a 16th ADNOC tanker — a continuation, not a new front
+
+- **Iran's Revolutionary Guard struck a UAE state-oil tanker with a missile in the Strait of Hormuz — ADNOC's 16th vessel hit since the war began, not a new escalation tier.** UAE state media confirmed the strike (no injuries); the UAE foreign ministry called it "piracy" and a violation of UN Security Council Resolution 2817, with Qatar joining the condemnation. ADNOC's own running count: 15 vessels attacked transiting the strait since the war began, three of them this week alone, one crew death and 20 injuries across the full campaign. Assessed against this map's flash-rail bar: real, sourced, and worth the digest bullet, but inside the standing five-month war `capital-context.yaml` already prices — not a new theatre, combatant, or materially bigger strike.
+  ([Al Jazeera](https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2), [The National](https://www.thenationalnews.com/news/mena/2026/08/08/uae-and-qatar-condemn-iranian-strike-on-adnoc-oil-tanker/)) ⟨daily 2026-08-08⟩
+
+## 2026-08-07 — Brent closes above $83 as Houthi strikes widen and IEA calls this the largest-ever oil supply disruption
+
+- **Brent closed the day +1.2% at $83.48/bbl, not the $81.69 morning-check figure this thread's own daily draft originally carried — full-day Houthi missile/drone strikes on Saudi-backed forces in Yemen's Marib and Hadramout regions, plus continued Hormuz-transit uncertainty, pushed it higher through the session.** The IEA separately characterized the ongoing disruption as the largest in the historical record tied to a single conflict. The Iran-Oman deal (tracked separately) moved to "final drafting" language but remains unsigned, keeping the whipsaw pattern this thread has logged since 08-01 intact.
+  ([SundayGuardianLive](https://sundayguardianlive.com/business/brent-crude-oil-price-today-august-7-brent-climbs-above-83-wti-nears-79-as-strait-of-hormuz-tensions-deepen-check-latest-brent-crude-wti-oil-rates-today-255609/)) ⟨daily 2026-08-07⟩
 
 ## 2026-08-06 — Brent rebounds into the low-$80s as the still-unsigned Hormuz deal keeps the market whipsawing
 

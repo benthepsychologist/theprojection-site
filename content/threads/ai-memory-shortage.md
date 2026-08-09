@@ -3,7 +3,7 @@ title: Memory Squeeze
 lens: ai
 status: developing
 opened: 2026-06-27
-last_seen: 2026-07-31
+last_seen: 2026-08-07
 weight: 2
 entities:
 - samsung
@@ -20,6 +20,17 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   push (charging ABOVE Samsung; new modules with no price relief; DoD ban overhang),
   and who blinks first on capex.'
 ---
+
+## 2026-08-07 — SK Hynix weighs selling down its China packaging plant
+
+- **SK Hynix is exploring a stake sale in its $3B Chongqing chip-packaging
+  plant** as export-control tightening around China-facing memory
+  operations continues; potential buyers include Chinese investment funds
+  and semiconductor firms, with SK Hynix possibly retaining a minority
+  stake. The plant handles NAND back-end packaging — separate from the
+  HBM lines that supply Nvidia — and the company says discussions are
+  early and nothing is decided. Cross-refs `china-stack-independence`.
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-07/sk-hynix-is-said-to-mull-options-for-3-billion-chongqing-assets)) ⟨daily 2026-08-07⟩
 
 ## 2026-08-05 — The 2027 DRAM market closes with no room for a fourth supplier, and Apple's China hedge fails
 
