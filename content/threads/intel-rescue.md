@@ -3,7 +3,7 @@ title: Intel Rescue
 lens: global-capital
 status: open
 opened: 2026-07-28
-last_seen: 2026-07-28
+last_seen: 2026-08-10
 weight: 2
 entities:
 - intel
@@ -17,6 +17,16 @@ blurb: 'The subsidized-builder paradox, filing-pinned: $10.9B outside equity (US
   (Maia 2, Tesla $20B Terafab, Apple prelim Trump-confirmed, Fortinet), none lost.
   Ohio slipped to 2030-31. CXMT''s cap passed Intel''s the week Intel shed ~$90B.'
 ---
+
+## 2026-08-10 — Intel raises $15B in fresh equity for the foundry buildout
+
+- **Intel launched a $15 billion common-stock offering to fund its
+  foundry buildout**, J.P. Morgan, Goldman Sachs, Morgan Stanley, and
+  Citigroup as joint bookrunners, with a 30-day underwriter option for
+  another $2.25B. A private capital raise stacked on top of the
+  CHIPS-Act equity stake and the Nvidia/SoftBank investments this
+  thread already tracks.
+  ([Intel Newsroom](https://newsroom.intel.com/corporate/intel-announces-proposed-15-billion-common-stock-offering))
 
 ## 2026-07-26 — The stake, marked to market: $8.9B → $36-42B
 
