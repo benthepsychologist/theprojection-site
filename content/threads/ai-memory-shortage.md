@@ -3,7 +3,7 @@ title: Memory Squeeze
 lens: ai
 status: developing
 opened: 2026-06-27
-last_seen: 2026-08-07
+last_seen: 2026-08-09
 weight: 2
 entities:
 - samsung
@@ -20,6 +20,20 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   push (charging ABOVE Samsung; new modules with no price relief; DoD ban overhang),
   and who blinks first on capex.'
 ---
+
+## 2026-08-09 — Apple tests Chinese CXMT memory under a Senate deadline not to
+
+- **Apple is testing memory chips from China's CXMT for China-market
+  iPhones/MacBooks, days after CXMT rejected Apple's price-cut demands.**
+  A bipartisan Senate group (Shaheen, Banks, Schumer and colleagues) has
+  given Apple until 2026-08-21 to publicly commit to rejecting CXMT and
+  YMTC, both Pentagon-designated Chinese-military-linked suppliers;
+  Micron is lobbying against Apple's plan. CXMT can hold firm on price
+  because Huawei and Xiaomi have already locked up its output at
+  similarly high levels — AI-driven DRAM scarcity flipping the usual
+  buyer-leverage dynamic. HP and Acer already ship CXMT chips outside
+  the US.
+  ([eWeek](https://www.eweek.com/news/apple-chinese-memory-chip-pressure/))
 
 ## 2026-08-07 — SK Hynix weighs selling down its China packaging plant
 

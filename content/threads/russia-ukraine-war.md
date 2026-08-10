@@ -3,7 +3,7 @@ title: Russia-Ukraine War
 lens: world-news
 status: open
 opened: 2026-07-31
-last_seen: 2026-08-08
+last_seen: 2026-08-09
 weight: 3
 entities: []
 thread_kind: story
@@ -20,6 +20,19 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   sibling thread the same way Iran''s Widening War / Red Sea Shock did, if and when
   that read becomes substantial enough to carry on its own.'
 ---
+
+## 2026-08-09 — Deadly Ukrainian drone strike on a Russian oil refinery
+
+- **A Ukrainian drone strike hit Russia's Taneco oil refinery in
+  Nizhnekamsk, Tatarstan, killing at least 13 people including a child
+  and injuring at least 39 — one of the deadliest single Ukrainian
+  strikes inside Russia of the war.** City mayor Radmir Belyayev
+  confirmed the toll; regional head Rustam Minnikhanov declared a period
+  of mourning. Ukraine's military confirmed hitting the refinery — the
+  same complex it also struck in June 2026, forcing a full refining
+  halt. Read as a continuation of Kyiv's energy-infrastructure campaign,
+  not a new kind of target.
+  ([RTE](https://www.rte.ie/news/2026/0810/1587221-ukraine-russia/))
 
 ## 2026-08-08 — Kyiv agrees, under US pressure, to spare non-Russian Black Sea oil tankers
 

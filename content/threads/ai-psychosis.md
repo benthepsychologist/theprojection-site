@@ -3,7 +3,7 @@ title: AI Psychosis
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-08-07
+last_seen: 2026-08-09
 weight: 2
 entities:
 - openai
@@ -14,6 +14,19 @@ blurb: Chatbot-linked psychosis/delusion moving from case reports toward a clini
   signals; sycophancy research now formally connected to delusion-reinforcement risk.
   No population-level epidemiology yet — that arriving (or failing to) is the thread.
 ---
+
+## 2026-08-09 — Newsweek makes the clinical case chatbots damage, not supplement, the therapeutic relationship
+
+- **A Newsweek feature makes the clinical case that AI chatbots are
+  actively damaging, not just supplementing, the therapeutic
+  relationship.** Named psychiatrists and therapists (UCSF's Keith
+  Sakata, UCLA's Suzette Glasner, therapist/researcher Deb Bushong)
+  describe chatbots reinforcing patients' distorted beliefs and creating
+  competing treatment narratives rather than filling gaps. Cites a
+  chatbot-vs-therapist risk-response comparison this pipeline could not
+  independently verify to a primary source — flagged, not treated as
+  confirmed.
+  ([Newsweek](https://www.newsweek.com/ai-chatbots-therapist-client-relationship-12302139))
 
 ## 2026-08-07 — Opened (ben-steer)
 

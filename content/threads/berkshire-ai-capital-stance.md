@@ -3,7 +3,7 @@ title: Berkshire's AI Bet
 lens: global-capital
 status: open
 opened: 2026-08-04
-last_seen: 2026-08-08
+last_seen: 2026-08-09
 weight: 2
 entities:
 - berkshire-hathaway
@@ -18,6 +18,17 @@ blurb: 'Berkshire — the board''s largest true dry powder and famously the tech
   (unconfirmed-subsidiary) AI-liability policy exclusion — industry pattern more than
   Berkshire-specific.'
 ---
+
+## 2026-08-09 — Michael Burry publicly breaks with post-Buffett Berkshire
+
+- **Michael Burry publicly broke with Berkshire Hathaway, saying he no
+  longer finds it "an attractive investment going forward" and reading
+  Abel's early cash deployment (below) as "more framing moves than
+  investment moves."** The first public negative read on the Q2 story
+  this thread had been carrying positively — Burry doesn't dispute the
+  facts, he disputes what they mean, framing Abel as lacking Buffett's
+  "patience for the fat pitch."
+  ([Stocktwits](https://stocktwits.com/news-articles/markets/equity/post-buffett-berkshire-hathaway-can-t-keep-up-with-s-and-p-500-michael-burry-says-it-s-lost-its-attractive-tag/cZojiQnRJar))
 
 ## 2026-08-08 — Q2 earnings: Abel ends the 14-quarter selling streak, doubles down on Alphabet
 

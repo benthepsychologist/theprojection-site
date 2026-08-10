@@ -3,7 +3,7 @@ title: Social Media Fight
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-08-07
+last_seen: 2026-08-09
 weight: 2
 entities:
 - meta-ai
@@ -15,6 +15,17 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
   real academic gains (6.4% test scores) but consistently null mental-health effects.
   Two different claims being cited as one.'
 ---
+
+## 2026-08-09 — Malaysia becomes a second country whose under-16 ban is being evaded
+
+- **A second country's under-16 social-media ban is running into the
+  same enforcement gap Australia's did.** Malaysia's age-verification
+  rollout (Facebook, Instagram, TikTok, YouTube; up to $2.5M in platform
+  penalties) is months in, and children are still logged in — a second
+  natural-experiment data point on whether bans actually reduce use,
+  distinct from whether reduced use would improve outcomes even if the
+  ban worked.
+  ([NYT via The Star](https://www.thestar.com.my/tech/tech-news/2026/08/10/malaysia-was-confident-in-its-social-media-ban-but-kids-are-still-on-tiktok))
 
 ## 2026-08-07 — Opened (ben-steer)
 

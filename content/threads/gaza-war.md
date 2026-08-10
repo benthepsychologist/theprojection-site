@@ -3,7 +3,7 @@ title: Gaza War
 lens: world-news
 status: open
 opened: 2026-08-01
-last_seen: 2026-08-06
+last_seen: 2026-08-09
 weight: 3
 entities: []
 thread_kind: story
@@ -37,6 +37,20 @@ blurb: 'Opened on Ben''s steer 2026-08-01, after a disarmament framework announc
   Ministry range as broadly accurate. Both the inflation and the undercount framings
   still circulate; report both, resolve neither.'
 ---
+
+## 2026-08-09 — Netanyahu publicly rejects the sequencing of Trump's own Gaza roadmap
+
+- **Netanyahu publicly rejected the core of Trump's own 15-point Gaza
+  roadmap, insisting Israel will not withdraw until Hamas is
+  "genuinely," not "fictitiously," disarmed.** Trump's plan (published
+  07-31) envisioned Hamas disarmament and Israeli withdrawal happening
+  in parallel, phased steps; Netanyahu's comments to his ministers
+  reject that sequencing outright, demanding disarmament come first —
+  new daylight between Israel and the US-brokered framework the Board of
+  Peace itself endorsed just a week earlier. First direct, on-record
+  answer to whether the 14-day disarmament roadmap actually lands, and a
+  negative one.
+  ([Washington Post](https://www.washingtonpost.com/world/2026/08/09/netanyahu-rejects-trump-backed-plan-hamas-disarm-israel-leave-gaza/))
 
 ## 2026-08-06 — IDF reports pulling back and tightening rules of engagement; eight Muslim-majority states accuse Israel of breaching international law
 

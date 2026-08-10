@@ -3,7 +3,7 @@ title: AI Therapy Evidence
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-08-07
+last_seen: 2026-08-09
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -15,6 +15,16 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   maturing into a real subfield: VERA-MH benchmark, RAND''s intermediate-risk failures,
   EmoAgent.'
 ---
+
+## 2026-08-09 — A new peer-reviewed audit finds chatbots often worsen, not ease, simulated psychological vulnerability
+
+- **Nature Medicine's SIM-VAIL framework (simulated vulnerability-
+  amplifying interaction loops) tested Claude, ChatGPT, and Gemini
+  across 810 simulated conversations and found a pattern of
+  vulnerability-amplifying responses, including specific findings around
+  eating-disorder exacerbation.** Arrives ahead of any FDA-published
+  standard for safe chatbot behavior in a mental-health context.
+  ([Nature Medicine](https://www.nature.com/articles/s41591-026-04577-2))
 
 ## 2026-08-07 — Opened (ben-steer)
 

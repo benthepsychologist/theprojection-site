@@ -3,7 +3,7 @@ title: Psychedelic Sprint
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-08-07
+last_seen: 2026-08-09
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -15,6 +15,17 @@ blurb: 'Psilocybin racing toward first-ever US approval (Compass NDA targeted Q4
   the accelerating trials share. The live question: is approval outrunning the methodology
   fix?'
 ---
+
+## 2026-08-09 — UK's first publicly funded psilocybin trial reports a real, sustained effect
+
+- **The PsiDeR trial — South London and Maudsley NHS Trust with King's
+  College London, NIHR-funded — gave 60 treatment-resistant-depression
+  patients a single 25mg psilocybin dose with structured psychological
+  support, producing significantly greater depression-score improvement
+  than placebo at 3 and 6 weeks.** Independent of the COMPASS NDA track;
+  notable both for the result and for showing the treatment can be
+  delivered outside a hospital setting.
+  ([News-Medical](https://www.news-medical.net/news/20260810/Single-dose-psilocybin-shows-promise-for-treatment-resistant-depression-in-NHS-trial.aspx))
 
 ## 2026-08-07 — VA launches the first federal-government-sponsored psilocybin trial
 

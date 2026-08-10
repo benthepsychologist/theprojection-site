@@ -3,7 +3,7 @@ title: Fed Independence Fight
 lens: global-capital
 status: open
 opened: 2026-08-09
-last_seen: 2026-08-07
+last_seen: 2026-08-09
 weight: 2
 entities:
 - lisa-cook
@@ -32,6 +32,12 @@ blurb: 'Two distinct, simultaneous levers on the Fed''s independence, offered as
   detailed FOMC vote-count coverage without ever naming her — the same
   shape of gap the Kevin Warsh watchlist add closed on 2026-08-02.
   ([NPR](https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve))
+- **The removal fight is starting to get a market price rather than just
+  political commentary — analyst/prediction-market reads now put real
+  odds (roughly 13-31%, varying by source and horizon) on Trump
+  succeeding in removing Cook before year-end.** The underlying action
+  isn't new; the quantified market read on it is.
+  ([Semafor](https://www.semafor.com/article/08/10/2026/trump-takes-his-second-swing-at-feds-cook))
 
 ## ← Backstory
 
