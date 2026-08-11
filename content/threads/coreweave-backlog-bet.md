@@ -3,7 +3,7 @@ title: CoreWeave Bet
 lens: global-capital
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-08
+last_seen: 2026-08-10
 weight: 2
 entities:
 - coreweave
@@ -18,6 +18,24 @@ blurb: 'The neocloud wager, quantified: $99.4B backlog (Q1-26; OpenAI $18.4B + M
   rejection left a 4.5-month capacity gap; plan B is thin. Next print: Q2 earnings
   08-11.'
 ---
+
+## 2026-08-10 — The $2.6B loan closes; the 07-30 yield question is now answered
+
+- **CoreWeave closed the $2.6B delayed-draw term loan this thread
+  flagged on 07-30 as "sweetened" with an unconfirmed yield — it's now
+  on the record via CoreWeave's own SEC filing: SOFR+550 (10.44%
+  yield-to-maturity), guidance flexed wider from an initial S+425-450,
+  rated Ba2 (Moody's) / BB+ (Fitch).** JPMorgan and Mitsubishi UFJ led
+  as joint bookrunners; the facility backs shorter (3-year) customer
+  contracts — Anthropic, Jane Street, Midjourney, Hudson River Trading,
+  Anysphere — which CoreWeave frames as lenders growing comfortable
+  financing shorter-dated deals rather than only its longest-duration
+  commitments. Brings 2026 secured capital past $30B, closing three days
+  ahead of the 08-11 Q2 print this thread is already watching for.
+  ([SEC EDGAR 8-K/credit agreement](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000357/0001769628-26-000357-index.htm), [CoreWeave press release via AOL](https://www.aol.com/articles/coreweave-closes-2-6-billion-200500000.html), [Yahoo Finance Canada](https://ca.finance.yahoo.com/news/coreweave-completes-2-6b-term-190052227.html))
+- **Also logged on [AI Debt Gets Rated](/threads/ai-buildout-debt-risk/)** as that thread's first
+  confirmed transaction-level coupon — this loan is both a CoreWeave-
+  specific data point and a market-structure one.
 
 ## 2026-08-08 — A second quant-finance customer scales up, three days ahead of the Q2 print
 

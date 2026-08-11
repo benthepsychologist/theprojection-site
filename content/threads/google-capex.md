@@ -3,7 +3,7 @@ title: Google Capex
 lens: ai
 status: developing
 opened: 2026-07-23
-last_seen: 2026-07-31
+last_seen: 2026-08-10
 weight: 2
 entities:
 - google
@@ -17,6 +17,20 @@ blurb: '$195-205B guided for 2026 (07-22), destination traced by crawl 07-27: a 
   primary filing unreached. Watch: Q3 guidance, the FCF-negative reaction, TPU externalization
   (Meta eval).'
 ---
+
+## 2026-08-10 — TPU externalization gets a first concrete answer: "TPU Raiden" open-sourced
+
+- **Google quietly open-sourced "TPU Raiden," an Apache-2.0 library for
+  moving KV-cache data between chips during LLM serving — the TPU-stack
+  answer to Nvidia's NIXL library.** Flagged first by SemiAnalysis
+  rather than announced by Google itself; Google's own repo is explicit
+  that it's "under active development and not yet recommended for
+  general use." Directly answers this thread's own standing watch item
+  ("TPU externalization") — the first concrete sign Google is building
+  shared infrastructure around its TPU stack the way Nvidia has around
+  its GPU stack. Caught by the 08-10 finalize's coverage critic; first
+  update to this thread since 07-31.
+  ([GitHub](https://github.com/google/tpu-raiden), [OfficeChai](https://officechai.com/ai/google-has-open-sourced-its-tpu-raiden-inference-library-in-apparent-bid-to-externalize-tpu-stack/), [Dataconomy](https://dataconomy.com/2026/08/10/google-open-sources-tpu-raiden-for-faster-ai-inference/))
 
 ## 2026-08-06 — The financing side surfaces: a jumbo bond met ~$115B of demand
 

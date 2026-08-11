@@ -3,7 +3,7 @@ title: Israel–Lebanon
 lens: world-news
 status: open
 opened: 2026-08-07
-last_seen: 2026-08-10
+last_seen: 2026-08-11
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,26 @@ blurb: 'The Israel–Hezbollah front turning hot while its diplomacy stalls: dea
   theatre from iran-conflict-widening (cross-referenced, not merged). Watch: whether
   the talks track survives, and whether strikes escalate past the current tempo.'
 ---
+
+## 2026-08-11 — UNIFIL's mandate heads toward a year-end phase-out, already sidelined from the pilot-zone talks
+
+- **UNIFIL's south-Lebanon peacekeeping mandate is heading toward a
+  year-end phase-out, and its role has already been sidelined from the
+  pilot-zone withdrawals this thread has tracked since 08-07.** The
+  force (22,000 at peak, ~7,000 as of June 2026) has been excluded from
+  implementing the June 26 Israel-Lebanon "pilot zones" framework under
+  what analysts describe as US and Israeli scepticism about its
+  effectiveness; UN Secretary-General Guterres has floated three
+  successor options of 900-3,000 troops, the smallest built around the
+  UN Truce Supervision Organization, with several European countries
+  signaling willingness to contribute. Lebanese political scientist Imad
+  Salamey: "International forces can monitor and support peace, but they
+  cannot substitute for domestic and regional agreement to uphold it."
+  International Crisis Group's David Wood warned "if the Security
+  Council allows a vacuum to emerge... it could become very difficult to
+  ever fill that gap once more." Structural context for, not a reversal
+  of, 08-10's stalled-talks development below.
+  ([Al Jazeera](https://www.aljazeera.com/news/2026/8/11/future-southern-lebanon-peacekeeping-uncertain-amid-unifil-phase-out))
 
 ## 2026-08-10 — Talks reported unlikely to resume before end of summer
 

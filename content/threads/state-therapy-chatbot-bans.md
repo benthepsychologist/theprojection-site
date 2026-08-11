@@ -3,7 +3,7 @@ title: Chatbot Bans
 lens: mental-health
 status: open
 opened: 2026-07-22
-last_seen: 2026-08-10
+last_seen: 2026-08-11
 weight: 2
 entities:
 - character-ai
@@ -16,6 +16,21 @@ blurb: 'The wave is ~10+ enacted instruments in two species (crawl 2026-07-22 co
   these laws (so far only xAI v. Colorado''s discrimination law); Colorado-mandate
   copycats.'
 ---
+
+## 2026-08-11 — Pre-effective-date check: HB 26-1195 has no delay, amendment, or challenge on file
+
+- **A dedicated check of Colorado's legislative record ahead of HB
+  26-1195's August 12 effective date found no delay, amendment, or legal
+  challenge.** The bill — the country's first law requiring a licensed
+  therapist to stay in the loop for AI use in psychotherapy — was signed
+  June 3, 2026 and takes effect August 12 by mechanical operation (any
+  bill enacted without a safety clause takes effect once the legislature
+  adjourns, which it did May 13). A Colorado Senate Democrats release
+  corroborates the date. Not to be confused with xAI's separate federal
+  preliminary-injunction fight against Colorado's broader AI Act
+  (SB 26-189) — legal trackers confirm this bill and its companion
+  HB 26-1139 proceed unaffected.
+  ([Colorado General Assembly](https://leg.colorado.gov/bills/HB26-1195))
 
 ## 2026-08-10 — ITIF warns the state patchwork could copy social media's failed playbook
 
