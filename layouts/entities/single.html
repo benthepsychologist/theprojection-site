@@ -7,7 +7,6 @@
 {{ partial "masthead.html" . }}
 
 {{ $slug := .File.ContentBaseName }}
-{{ partial "readout.html" (dict "ctx" . "scope" (printf "entity:%s" $slug)) }}
 {{ $p := .Site.Data.payload }}
 {{/* .html below is pre-sanitized by kestrel's md_html() at generation time —
      escaped first, then a fixed set of tags (b/a/code) re-added. Never
@@ -17,6 +16,18 @@
   <h1>{{ .Title }}</h1>
   <p class="dek">{{ .Params.entity_kind }}{{ with .Params.lenses }} · {{ delimit . ", " }}{{ end }}</p>
 </div>
+
+{{/* Readout moved below the header 2026-08-11, same fix as the thread pages:
+     it was rendering above the entity's own <h1>, so the page opened with a
+     news list before naming which entity it was about.
+
+     Breaking/News are KEPT here, unlike on thread pages. The duplication
+     argument doesn't apply — this page's own item list ("Items this week")
+     is filtered from the weekly payload by entity tag and is frequently
+     empty (0 items on /entities/nvidia/ at the time of this change), and
+     the readout bullets link OUT to the threads that own each item rather
+     than back to this page. */}}
+{{ partial "readout.html" (dict "ctx" . "scope" (printf "entity:%s" $slug)) }}
 
 <div class="section">
   <h2>Threads</h2>

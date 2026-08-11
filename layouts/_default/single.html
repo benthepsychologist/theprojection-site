@@ -8,10 +8,23 @@
 
 {{ if .Params.lens }}
 {{ $slug := .File.ContentBaseName }}
-{{ partial "readout.html" (dict "ctx" . "scope" (printf "thread:%s" $slug)) }}
 {{ $p := .Site.Data.payload }}
 {{/* .html below is pre-sanitized by kestrel's md_html() at generation time —
      see layouts/entities/single.html for the full trust-boundary note. */}}
+{{/* READOUT PLACEMENT (Ben, 2026-08-11: "the thread pages are organized
+     badly. The thread list is at the top for some reason. And it appears to
+     be on there TWICE").
+
+     The readout used to render HERE, above the thread's own art and title —
+     so a reader landed on a thread page and read a news list before being
+     told which thread they were on. It now renders below the header, after
+     the page has identified itself. `readout.html`'s own doc still calls it
+     "the block that goes at the top of every page", which is right for a
+     lens page that has no other identity and wrong for a thread page that
+     has a title, a dek, a status line and its own timeline.
+
+     Its Breaking/News blocks are also suppressed here (hide_items) — see
+     the call below the header. */}}
 <div class="thread-art" data-slug="{{ $slug }}" data-lens="{{ .Params.lens }}"></div>
 <div class="thread-header">
   <span class="tag {{ .Params.lens }}">{{ index (index .Site.Params.lenses .Params.lens) "label" }}</span>
@@ -85,6 +98,20 @@
     data-blurb="{{ .Params.blurb }}"
     data-url="{{ .Permalink }}">💬 Copy for AI chat</button>
 </div>
+
+{{/* The readout, now BELOW the thread's own header (moved 2026-08-11).
+     `hide_items` drops its Breaking/News blocks on this page for two
+     reasons, both specific to a thread scope:
+
+       1. They duplicated "This week's evidence" further down exactly —
+          measured at 2 of 2 items, identical text, on
+          /threads/nvidia-vendor-financing/.
+       2. Their bullets link to the thread that owns each item, which on a
+          thread page is THIS page. Every one was a link back to itself.
+
+     The Summary block still renders — it is the only part of the readout
+     that says something the timeline below doesn't. */}}
+{{ partial "readout.html" (dict "ctx" . "scope" (printf "thread:%s" $slug) "hide_items" true) }}
 
 <div id="chat-copy-root">
 <div class="timeline">

@@ -49,11 +49,17 @@
      chrome.
 
      Call: {{ partial "readout.html" (dict "ctx" . "scope" "thread:foo") }} */}}
+{{/* `hide_items` (added 2026-08-11) drops the Breaking/News blocks and renders
+     the Summary alone. Callers pass it when the page already lists the same
+     items itself — thread pages do, and their bullets would additionally link
+     back to the page the reader is already on. Captured before the `with`
+     below, because inside it the dot is the readout, not the caller's dict. */}}
+{{ $hideItems := .hide_items }}
 {{ $r := index (.ctx.Site.Data.readouts.readouts) .scope }}
 {{ with $r }}
 <section class="readout" aria-label="Executive readout">
 
-  {{ with .breaking }}
+  {{ with (and (not $hideItems) .breaking) }}
   <div class="readout-block readout-breaking">
     <p class="readout-label">Breaking</p>
     <ul>
@@ -78,7 +84,7 @@
   </div>
   {{ end }}
 
-  {{ with .news }}
+  {{ with (and (not $hideItems) .news) }}
   <div class="readout-block readout-news">
     <p class="readout-label">News <span class="readout-sub">· last 7 days</span></p>
     <ul>
