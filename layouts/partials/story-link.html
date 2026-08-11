@@ -28,40 +28,35 @@
      entry carries (e.g. "([Nature Medicine](https://…))"). That is the
      "thread page lists SOURCES" exception, and it stays intact.
 
-     Thread links are guarded by site.GetPage so a slug with no published page
-     renders as plain text instead of a 404 — the same guard the entity chips
-     in _default/single.html use. */}}
+     Both lookups are O(1) against maps built once per build (story-index.html).
+     The first version did a linear `where` plus a `site.GetPage` per bullet
+     and pushed the build into minutes — see that partial's note. */}}
 {{ $b := .item }}
+{{ $idx := partialCached "story-index.html" "story-index" "story-index" }}
+{{ $slug := "" }}
 {{ $href := "" }}
 
 {{/* 1 — the item's own thread tag, when the data carries one (readout
      breaking/news items do; briefing bullets do not). */}}
-{{ with $b.threads }}
-  {{ $slug := index . 0 }}
-  {{ if and $slug (site.GetPage (printf "/threads/%s" $slug)) }}
-    {{ $href = printf "/threads/%s/" $slug }}
+{{ with $b.threads }}{{ $slug = index . 0 }}{{ end }}
+
+{{ if not $slug }}
+  {{ with $b.url }}
+    {{ if hasPrefix . "/" }}
+      {{/* 2 — already internal (e.g. the /threads/<slug>/ url the briefing
+           generator is asked to emit). Leave exactly as-is. */}}
+      {{ $href = . }}
+    {{ else }}
+      {{/* 3 — external url: resolve it to the thread carrying the story. */}}
+      {{ $slug = index $idx.urls . }}
+    {{ end }}
   {{ end }}
 {{ end }}
 
-{{ if not $href }}
-  {{ with $b.url }}
-    {{ if hasPrefix . "/" }}
-      {{/* 2 — already an internal link (e.g. the /threads/<slug>/ url the
-           briefing generator is asked to emit). Leave it exactly as-is. */}}
-      {{ $href = . }}
-    {{ else }}
-      {{/* 3 — external url: look it up in the un-windowed readouts news set
-           and redirect to the thread that carries the story. */}}
-      {{ $idx := partialCached "story-index.html" "story-index" "story-index" }}
-      {{ $m := where $idx "url" . }}
-      {{ if $m }}
-        {{ $slug := index (index $m 0).threads 0 }}
-        {{ if and $slug (site.GetPage (printf "/threads/%s" $slug)) }}
-          {{ $href = printf "/threads/%s/" $slug }}
-        {{ end }}
-      {{ end }}
-    {{ end }}
-  {{ end }}
+{{/* Only link a slug that actually has a published page, so a stale or
+     unpublished thread degrades to plain text instead of a 404. */}}
+{{ if and (not $href) $slug (index $idx.pages $slug) }}
+  {{ $href = printf "/threads/%s/" $slug }}
 {{ end }}
 
 {{- if $href -}}
