@@ -451,28 +451,19 @@ a.chip{ text-decoration:none; }
    hover state at all) that left the entire Briefing — now most of the
    /news/ page's content — with no visual signal that any of it was
    clickable. Give bullet-text links the sitewide muted underline,
-   always on; .src-link below (the small quiet "↗") stays untouched by
-   design, it's meant to read as secondary to the bullet link. */
+   always on. */
 .briefing a{ color:inherit; text-decoration:underline;
   text-decoration-color:color-mix(in srgb, currentColor 40%, transparent);
   text-underline-offset:.15em; }
 .briefing a:hover{ text-decoration-color:currentColor; }
 
-/* Source link (2026-08-07) — the small "↗" appended after a bullet whose
-   text now links to our own thread page instead of the article, so the
-   original source stays one click away. Deliberately quieter than a real
-   bullet link: muted, no underline, a hair of breathing room before it.
-   Selectors repeat `.briefing`/`.readout` so this beats the plain `.briefing
-   a` / `.readout li a` rules above on specificity (two classes beat one
-   class regardless of source order), not by relying on where in the file
-   it's declared. */
-.briefing a.src-link, .readout a.src-link, a.src-link{
-  color:var(--ink-faint); text-decoration:none; border-bottom:none;
-  padding-left:.35rem; font-size:.82em; opacity:.8;
-}
-.briefing a.src-link:hover, .readout a.src-link:hover, a.src-link:hover{
-  color:var(--ink); border-bottom:none; opacity:1;
-}
+/* The `.src-link` rules that lived here (2026-08-07, the small quiet "↗"
+   appended after a bullet so the original article stayed one click away)
+   were removed 2026-08-11 along with the markup that produced them: an
+   external story link is not a link target on a feed or readout, however
+   quiet it is styled (Ben). Sources now live only on the thread page, in
+   the timeline's own inline citations. No element carries this class
+   anymore — see layouts/partials/story-link.html for the policy. */
 
 /* The lead — salience-ranked, deliberately heavier than section bullets so
    the ranking reads as the ranking even when a fact repeats below. */
