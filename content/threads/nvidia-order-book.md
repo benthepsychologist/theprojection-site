@@ -3,7 +3,7 @@ title: Nvidia's Order Book
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-07
+last_seen: 2026-08-10
 weight: 2
 entities:
 - nvidia
@@ -16,6 +16,22 @@ blurb: The demand side of the chip spend — a ~$1T Blackwell+Rubin book (a mana
   has shifted to supply (HBM4). Watch the per- customer concentration and the circular-financing
   stakes (Nvidia's 10-Q investments in its own buyers).
 ---
+
+## 2026-08-10 — Nvidia recruits Wall Street to finance $500B of demand-side buildout
+
+- **Nvidia partnered with six asset managers — Apollo, BlackRock,
+  Blackstone, Brookfield, Goldman Sachs and KKR — on financing
+  platforms designed to raise over $500B in third-party capital for AI
+  infrastructure, with Jensen Huang saying Nvidia itself can backstop
+  up to $125B (25%) of the resulting deals — MOUs, not final
+  agreements yet.** Not a chip order, but the demand-side counterpart
+  to this thread's whole story: outside capital now being recruited at
+  Wall Street scale specifically to fund the infrastructure that
+  generates Nvidia's order book, treating compute as a lend-against
+  asset class rather than one-off vendor financing. Nvidia shares fell
+  on the announcement. Full detail on [Circular Financing](/threads/ai-circular-financing-risk/)
+  (sev=major there).
+  ([NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital), [CNBC](https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html))
 
 ## 2026-08-07 — Nvidia takes a $3B stake in the power layer under Stargate
 

@@ -3,7 +3,7 @@ title: The Funding Shift
 lens: mental-health
 status: developing
 opened: 2026-06-28
-last_seen: 2026-08-08
+last_seen: 2026-08-10
 weight: 3
 entities:
 - spring-health
@@ -16,6 +16,21 @@ blurb: 'MH is the #1-funded US therapeutic area (~$1.27B/14 deals to start 2026)
   hitting the regulatory reckoning; watch consolidation (e.g. Spring Health/Alma).
   Tests whether the market prices in rigor — the evidence-gap thesis.'
 ---
+
+## 2026-08-10 — LifeStance's clinical chief makes the public case for interventional psychiatry going mainstream
+
+- **LifeStance Health CMO Dr. Stephanie Eken argued in a trade-press
+  interview that TMS, esketamine, and emerging psychedelic-assisted
+  therapies should become "a standard part of treatment" for depression,
+  anxiety, OCD, and PTSD, not options reserved for treatment failure.**
+  She cited TMS's roughly one-year durability and that the field's
+  medication toolkit has gone largely unchanged for most of her career,
+  and named clinician training gaps, patient access, and
+  prior-authorization friction — not evidence — as the real bottlenecks.
+  The most direct public articulation yet of this thread's capital-shift
+  thesis, from a scaled public outpatient provider rather than an
+  interventional-psychiatry specialist.
+  ([Behavioral Health Business](https://bhbusiness.com/2026/08/10/interventional-psychiatry-is-moving-mainstream-is-behavioral-health-ready/))
 
 ## 2026-08-08 — Talkspace misses Q2, the same week LifeStance beats
 

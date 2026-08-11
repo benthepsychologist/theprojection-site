@@ -3,7 +3,7 @@ title: Gaza War
 lens: world-news
 status: open
 opened: 2026-08-01
-last_seen: 2026-08-09
+last_seen: 2026-08-11
 weight: 3
 entities: []
 thread_kind: story
@@ -37,6 +37,16 @@ blurb: 'Opened on Ben''s steer 2026-08-01, after a disarmament framework announc
   Ministry range as broadly accurate. Both the inflation and the undercount framings
   still circulate; report both, resolve neither.'
 ---
+
+## 2026-08-11 — WaPo: the Trump-Netanyahu rift is widening under election pressure
+
+- **A Washington Post analysis frames the Trump-Netanyahu relationship as
+  an actively widening rift, driven by each leader's separate
+  election-year pressures pulling their Middle East visions in opposite
+  directions.** This contextualizes 08-09's already-logged development
+  (Netanyahu's on-record rejection of Trump's Gaza roadmap sequencing)
+  rather than adding a new fact on the ground.
+  ([Washington Post](https://www.washingtonpost.com/politics/2026/08/11/trump-netanyahu-experience-tension-critical-election-year/))
 
 ## 2026-08-09 — Netanyahu publicly rejects the sequencing of Trump's own Gaza roadmap
 

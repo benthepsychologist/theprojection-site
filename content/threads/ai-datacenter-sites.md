@@ -3,7 +3,7 @@ title: Datacenter Sites
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-04
+last_seen: 2026-08-10
 weight: 3
 entities:
 - openai
@@ -16,6 +16,31 @@ blurb: Where the capex lands in CONCRETE — the specific gigawatt campuses. Sta
   Colossus, Camellia + the 100s of sites. Category meta under where-the-capex-lands;
   the specific-sites worklist lives here.
 ---
+
+## 2026-08-10 — Sovereign capital joins Anthropic's buildout directly
+
+- **Anthropic launched "Theseus Infrastructure" with Macquarie Asset
+  Management and Singapore's GIC sovereign wealth fund** — Macquarie
+  and GIC own the platform and fund the majority of the equity for
+  purpose-built US data centers, with Anthropic as anchor tenant;
+  Anthropic pledged to pay 100% of grid-upgrade costs and cover any
+  consumer electricity-price increases tied to its demand. Sovereign
+  capital entering an AI lab's buildout directly — the same pattern as
+  Stargate's MGX stake, this time for Anthropic specifically. Cross-refs
+  [Circular Financing](/threads/ai-circular-financing-risk/).
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-10/anthropic-macquarie-and-gic-form-venture-for-ai-data-centers), [Macquarie](https://www.macquarie.com/au/en/about/news/2026/anthropic-mam-gic-data-centre-infrastructure-partnership.html))
+
+## 2026-08-07 (late catch, added 2026-08-11) — Firmus raises $2B for its Australia/APAC AI-factory buildout
+
+- **Australian AI-datacenter builder Firmus raised $2B (Coatue, Nvidia,
+  Blackstone Tactical Opportunities and Jane Street), more than
+  doubling its valuation to $10.5B in four months, to fund its Project
+  Southgate AI-factory buildout and APAC expansion** — a former bitcoin
+  miner turned pure AI-infrastructure builder, now over $3B raised in
+  the past 12 months. A site outside this thread's mostly-US map so
+  far; missed in the 08-05→08-09 window, folded in now dated to its
+  real event date.
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia))
 
 ## 2026-08-04 — A named site drops out of the pipeline: AWS walks from its Maryland campus
 

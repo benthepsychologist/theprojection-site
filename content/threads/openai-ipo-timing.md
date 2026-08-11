@@ -3,7 +3,7 @@ title: OpenAI IPO
 lens: ai
 status: developing
 opened: 2026-06-27
-last_seen: 2026-07-30
+last_seen: 2026-08-10
 weight: 2
 entities:
 - openai
@@ -15,6 +15,21 @@ blurb: Reported slip to 2027 chasing a ~$1T valuation; Altman rejecting a lower 
   Track confirmed timing, valuation target, and macro/AI-stock spillover (SoftBank
   fell ~12% on the report).
 ---
+
+## 2026-08-10 — A $7B tender offer, at a flat valuation
+
+- **OpenAI completed a ~$7B tender offer letting current and former
+  employees sell stock at its existing $852B valuation** — unchanged
+  from March's round, not a fresh markup, and self-funded (bought back
+  from employees) rather than raised from new outside capital. Worth
+  reading against this thread's ~$1T chase: $852B held flat is below
+  that target, not evidence of progress toward it.
+  ([TechCrunch](https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/), [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-10/openai-buys-back-7-billion-of-employee-shares-in-tender-offer))
+- **OpenAI filed with the SEC in June to prepare for a possible IPO;
+  Altman told staff via Slack he expects the company to go public
+  within the next year.** But a tender offer this size is being read in
+  the press as evidence a listing isn't imminent — liquidity substitute,
+  not a signal the 2027 consensus below has moved up.
 
 ## 2026-07-28 — The consensus slides to 2027, with a loan clock in front of it
 

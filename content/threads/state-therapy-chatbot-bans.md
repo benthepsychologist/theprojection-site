@@ -3,7 +3,7 @@ title: Chatbot Bans
 lens: mental-health
 status: open
 opened: 2026-07-22
-last_seen: 2026-08-09
+last_seen: 2026-08-10
 weight: 2
 entities:
 - character-ai
@@ -16,6 +16,19 @@ blurb: 'The wave is ~10+ enacted instruments in two species (crawl 2026-07-22 co
   these laws (so far only xAI v. Colorado''s discrimination law); Colorado-mandate
   copycats.'
 ---
+
+## 2026-08-10 — ITIF warns the state patchwork could copy social media's failed playbook
+
+- **A report from the Information Technology and Innovation Foundation
+  found nearly 100 state bills addressing chatbot safety introduced as
+  of August, and warned that inconsistent state definitions burden
+  developers without addressing documented child-safety harms.** ITIF
+  recommends targeted safeguards, transparency, and parental controls
+  over blanket age-verification or bans, citing California Governor
+  Newsom's veto of a broad companion-chatbot bill as its cautionary
+  precedent — a direct contrast to Colorado's mandate-heavy HB 26-1195,
+  which takes the opposite approach and takes effect 08-12.
+  ([StateScoop](https://statescoop.com/state-chatbot-laws-could-create-regulatory-patchwork-new-report-warns/))
 
 ## 2026-08-07 — SB 903 breaks into national press for the first time, framed alongside the Kaiser/NUHW fight
 

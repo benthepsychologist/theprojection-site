@@ -3,7 +3,7 @@ title: AI Therapy Evidence
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-08-09
+last_seen: 2026-08-10
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -15,6 +15,20 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   maturing into a real subfield: VERA-MH benchmark, RAND''s intermediate-risk failures,
   EmoAgent.'
 ---
+
+## 2026-08-10 — A JMIR study: engagement pattern, not raw use, tracks with symptom severity
+
+- **A cross-sectional JMIR study of 112 users of "Mental" app's
+  generative-AI conversational agent (drawing on CBT, ACT, and
+  motivational interviewing) found four distinct engagement profiles,
+  and how people used the agent tracked with symptoms more than whether
+  they used it.** Users with longer, less-frequent sessions reported the
+  lowest anxiety and depression scores; users with brief, evenly-spaced
+  sessions reported the highest. The authors call the finding
+  preliminary and hypothesis-generating, not causal, and flag a sample
+  skewed male (78%) and White (76%), with 45% of the original sample
+  excluded by the ≥5-session inclusion threshold.
+  ([JMIR Mental Health](https://mental.jmir.org/2026/1/e98690))
 
 ## 2026-08-09 — A new peer-reviewed audit finds chatbots often worsen, not ease, simulated psychological vulnerability
 

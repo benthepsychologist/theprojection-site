@@ -3,7 +3,7 @@ title: Microsoft Capex
 lens: ai
 status: developing
 opened: 2026-07-23
-last_seen: 2026-07-30
+last_seen: 2026-08-10
 weight: 2
 entities:
 - microsoft
@@ -18,6 +18,20 @@ blurb: 'Earnings 07-29 is the near-term test — the "$97B TTM" figure is OUR ar
   OpenAI-vs-own split. Watch Wednesday: FY26 full-year capex, FY27 guide, any split
   disclosure.'
 ---
+
+## 2026-08-10 — Microsoft reportedly books 300,000+ Maia 300 chips from TSMC
+
+- **Microsoft is reportedly in talks to book more than 300,000 Maia 300
+  AI chips from TSMC for 2027 delivery, targeting a public unveiling as
+  soon as September** — per The Information, with a longer-term
+  ambition of securing capacity for over 1 million units, though supply
+  constraints and the still-open TSMC negotiation could limit that.
+  This thread's own open question — whether Microsoft's silicon spend
+  serves OpenAI's workloads or its own, and in what split — stays
+  unanswered: Maia 200 was already confirmed dual-purpose (OpenAI
+  inference + Microsoft's own training/RL) with no percentage
+  disclosed, and nothing here changes that.
+  ([TheNextWeb](https://thenextweb.com/news/microsoft-maia-300-chip-tsmc-production-boost-nvidia), [Investing.com, citing The Information](https://m.investing.com/news/stock-market-news/microsoft-plans-maia-300-chip-reveal-in-september---information-4849477))
 
 ## 2026-07-29 — Earnings beat, Azure accelerates, the named split still didn't happen
 

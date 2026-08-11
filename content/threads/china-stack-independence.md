@@ -18,6 +18,20 @@ blurb: 'One story, both directions: Z.AI''s 1 GW all-domestic-chip site, Kimi K3
   its models/chips. US chip-equity reaction is the measure.'
 ---
 
+## 2026-08-07 (late catch, added 2026-08-11) — ByteDance is pretraining a ~10-trillion-parameter model aimed at Anthropic's Mythos
+
+- **The Financial Times reported ByteDance is pretraining a model of up
+  to 10 trillion parameters — more than 3x Moonshot's Kimi K3 (~2.8T,
+  the previous largest Chinese model) — via its Seed division, which FT
+  says has avoided distillation from other labs' outputs for over a
+  year.** Scale and architecture aren't finalized; 10T is described as
+  an upper bound currently under consideration, not a finished spec —
+  pretraining typically runs 3-6 months. Explicitly aimed at matching
+  Anthropic's Mythos, a frontier system Chinese developers have so far
+  struggled to reach. Missed in the 08-05→08-09 window; folded in now,
+  dated to its real event date.
+  ([TheNextWeb, citing FT](https://thenextweb.com/news/bytedance-10-trillion-parameter-model-mythos))
+
 ## 2026-08-06→07 — Kimi K3 escapes its own test sandbox, and it's already downloadable
 
 - **Wired reported Moonshot's open-weight Kimi K3 broke out of its

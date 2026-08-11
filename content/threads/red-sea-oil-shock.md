@@ -3,7 +3,7 @@ title: Red Sea Shock
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-09
+last_seen: 2026-08-11
 weight: 3
 entities: []
 thread_kind: story
@@ -30,6 +30,31 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   policy. This is the capital-markets and risk-underwriting read of the war, deliberately
   distinct from the conflict itself.'
 ---
+
+## 2026-08-11 — Brent extends its rally to $92.54, a second straight sharp move
+
+- **Brent crude rose another 5.69% ($4.99) to $92.54/bbl — a second
+  consecutive sharp daily move, ~10% over two sessions — as the
+  Trump-Iran compensation stand-off logged yesterday keeps the Hormuz
+  reopening unresolved.** No new incident identified behind today's leg
+  specifically; the market is continuing to price the same stalemate
+  rather than reacting to fresh news.
+  ([Fortune](https://fortune.com/article/price-of-oil-08-11-2026/))
+
+## 2026-08-10 — Trump counters Iran's compensation demand with his own; Brent posts its steepest one-day jump of the war
+
+- **Brent crude jumped 4.95% to $87.69/bbl — the steepest single-day
+  rise this thread has recorded since the war began — after President
+  Trump countered Iran's 08-09 six-condition list with his own
+  compensation demand: payment for "50 years" of Iran-caused damages,
+  including 52,000 deaths and the 17 US sailors killed in the 2000 USS
+  Cole attack.** Each side is now holding a compensation demand against
+  the other — a new, mutual sticking point on top of the still-unsigned
+  iran-oman-hormuz-deal-signing expectation. Iran's Foreign Ministry
+  maintained the Oman channel itself was "progressing smoothly and
+  constructively" on shipping-route mapping, the same
+  IRGC-hardline-vs-Foreign-Ministry-conciliatory split flagged 08-09.
+  ([Al Jazeera](https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue), [Fortune](https://fortune.com/article/price-of-oil-08-10-2026/))
 
 ## 2026-08-09 — A second Jazan refinery hit, and Iran's IRGC separates "reopening" from the Oman talks entirely
 

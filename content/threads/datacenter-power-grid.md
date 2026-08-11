@@ -3,7 +3,7 @@ title: Grid & Turbines
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-08
+last_seen: 2026-08-10
 weight: 1
 entities:
 - spacex
@@ -15,6 +15,28 @@ blurb: The grid is the binding constraint (not chips) — interconnection queues
   fights. Watch the DOJ national- security shield over xAI's unpermitted turbines
   — the improvisation has outrun the regulatory system.
 ---
+
+## 2026-08-10 — OpenAI and Meta commit to Abbott's Texas rules; a scale check on the gas buildout
+
+- **OpenAI and Meta both formally committed to Gov. Greg Abbott's new
+  data-center standards.** OpenAI's letter (compute CTO Uday
+  Ruddarraju) pledged to pay for its own grid infrastructure, support
+  new Texas electricity generation and minimize water use; Meta made a
+  parallel commitment. Direct response to Abbott's still-open
+  PUCT/ERCOT audit-and-moratorium order (this thread's 08-03 entry) and
+  five days after Trump publicly called the pause "a mistake" (08-07
+  entry below).
+  ([OpenAI](https://openai.com/index/responsible-ai-infrastructure-texas/), [Houston Public Media](https://www.houstonpublicmedia.org/articles/news/energy-environment/2026/08/10/559042/texas-data-centers-trump-abbott-meta-openai/))
+- **An AFP analysis put a number on the behind-the-meter gas buildout
+  this thread has tracked qualitatively since it opened: research firm
+  Cleanview counts ~60 planned US data centers totalling 97GW of
+  off-grid generation into the early 2030s — roughly Mexico's entire
+  installed capacity — with OpenAI and Anthropic alone leasing 10+GW of
+  it.** Even conservative assumptions put resulting emissions above
+  200M tons of CO2/year (46M+ gasoline cars' worth); new US
+  fossil-capacity announcements in H1 2026 alone exceeded any full year
+  in the past decade. Cross-refs [Power Buildout](/threads/ai-power-buildout/), [Meta Gas Pivot](/threads/meta-gas-pivot/).
+  ([France24/AFP](https://www.france24.com/en/live-news/20260811-ai-s-hunger-for-power-sparks-us-private-gas-plant-boom))
 
 ## 2026-08-08 — DOJ backs xAI's bid to gut citizen-suit enforcement entirely
 

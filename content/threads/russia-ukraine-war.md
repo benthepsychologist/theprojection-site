@@ -3,7 +3,7 @@ title: Russia-Ukraine War
 lens: world-news
 status: open
 opened: 2026-07-31
-last_seen: 2026-08-09
+last_seen: 2026-08-10
 weight: 3
 entities: []
 thread_kind: story
@@ -20,6 +20,22 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   sibling thread the same way Iran''s Widening War / Red Sea Shock did, if and when
   that read becomes substantial enough to carry on its own.'
 ---
+
+## 2026-08-10 — Russia's Zaporizhzhia/Kyiv barrage; Zelenskyy alleges North Korean missiles
+
+- **Russia carried out one of its larger single-night barrages of the war
+  early Tuesday, hitting Zaporizhzhia and Kyiv with missiles and aerial
+  bombs — killing at least six and wounding 19 in Zaporizhzhia, per
+  regional administration head Ivan Fedorov, and wounding one in Kyiv,
+  where a ballistic-missile strike damaged a children's hospital and set
+  a warehouse ablaze.** President Zelenskyy said North Korean-made
+  ballistic missiles were used and separately warned Russia may deploy
+  30,000-50,000 North Korean troops onto its own territory; Russia's
+  Defense Ministry said it had targeted "defence industry facilities and
+  transport and logistics centres." Casualty figures moved through the
+  day as the toll was updated — recorded here as of Al Jazeera's account,
+  the most complete found.
+  ([Al Jazeera](https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia))
 
 ## 2026-08-09 — Deadly Ukrainian drone strike on a Russian oil refinery
 
