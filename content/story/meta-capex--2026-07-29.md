@@ -1,0 +1,6 @@
+---
+title: Capex raised again, but free cash flow nearly vanished
+story_id: meta-capex--2026-07-29
+date: '2026-07-29'
+lens: ai
+---
