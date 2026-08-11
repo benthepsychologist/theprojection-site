@@ -41,6 +41,26 @@
   {{ end }}
 {{ end }}
 
+{{/* url -> STORY id (Ben, 2026-08-11). A story is one event with many
+     witnesses; a thread is the arc containing it. Clicking a bullet about
+     Nvidia's $500B platform should land on that event, not on the
+     multi-week financing narrative — which was the "non-intuitive UX leap"
+     he hit. Built from data/stories.json's own source urls, so a bullet
+     resolves to the story that CITES the same article.
+
+     This map is consulted BEFORE the thread map in story-link.html, so a
+     thread link is now the fallback rather than the destination. Where a
+     story cites several sources, each of its urls points at it. */}}
+{{ $stories := dict }}
+{{ range site.Data.stories }}
+  {{ $sid := .id }}
+  {{ range (or .sources slice) }}
+    {{ if and .url (not .redirect) }}
+      {{ $stories = merge $stories (dict .url $sid) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
 {{/* The published-page set, so a thread slug that never got a page renders as
      plain text rather than a 404 — same intent as the site.GetPage guard this
      replaces, but computed once instead of per bullet. */}}
@@ -49,4 +69,4 @@
   {{ $pages = merge $pages (dict .File.ContentBaseName true) }}
 {{ end }}
 
-{{ return (dict "urls" $urls "pages" $pages) }}
+{{ return (dict "urls" $urls "pages" $pages "stories" $stories) }}
