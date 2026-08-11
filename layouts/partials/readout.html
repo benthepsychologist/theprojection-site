@@ -59,20 +59,18 @@
     <ul>
       {{ range . }}
       <li>
-        {{/* Threads-first (2026-08-07, Ben: bullets that don't land on the
-             thread page): our own thread page is the primary destination
-             whenever this item is threaded; the external source, when
-             there is one, stays one click away via the trailing src-link
-             rather than taking the primary click. Wrapped in a span so the
-             link + src-link pair stays ONE flex child of the li — .readout
-             li is `justify-content:space-between`, and without this wrapper
-             a second <a> would become its own flex item and get shoved to
-             the far edge instead of sitting right after the text. */}}
+        {{/* Link policy lives in partials/story-link.html (Ben, 2026-08-11):
+             a bullet resolves to its thread page or renders unlinked, and an
+             external story URL is never a link target here. The 2026-08-07
+             version of this block linked the text to the thread correctly but
+             still appended an external "↗ original source" anchor, AND fell
+             back to a full external link on any unthreaded item — both are
+             the thing the policy forbids. Sources live on the thread page.
+             The wrapper span stays: .readout li is
+             `justify-content:space-between` and the text must remain ONE
+             flex child. */}}
         <span class="readout-bullet-text">
-          {{ if .threads }}
-          <a href="/threads/{{ index .threads 0 }}/">{{ .text }}</a>{{ if and .url (not (hasPrefix .url "/")) }}<a class="src-link" href="{{ .url }}" target="_blank" rel="noopener" title="original source">↗</a>{{ end }}
-          {{ else if .url }}<a href="{{ .url }}" rel="noopener">{{ .text }}</a>
-          {{ else }}{{ .text }}{{ end }}
+          {{ partial "story-link.html" (dict "item" .) }}
         </span>
       </li>
       {{ end }}
@@ -86,14 +84,11 @@
     <ul>
       {{ range . }}
       <li>
-        {{/* Same threads-first priority as Breaking above, same wrapper-span
-             reason (this li adds a second flex child, .readout-day, so the
-             text pair doubly needs to stay grouped as one item). */}}
+        {{/* Same link policy as Breaking above — now genuinely shared code,
+             not a copy. Same wrapper-span reason too (this li adds a second
+             flex child, .readout-day, so the text needs to stay one item). */}}
         <span class="readout-bullet-text">
-          {{ if .threads }}
-          <a href="/threads/{{ index .threads 0 }}/">{{ .text }}</a>{{ if and .url (not (hasPrefix .url "/")) }}<a class="src-link" href="{{ .url }}" target="_blank" rel="noopener" title="original source">↗</a>{{ end }}
-          {{ else if .url }}<a href="{{ .url }}" rel="noopener">{{ .text }}</a>
-          {{ else }}{{ .text }}{{ end }}
+          {{ partial "story-link.html" (dict "item" .) }}
         </span>
         <span class="readout-day">{{ .day }}</span>
       </li>
@@ -116,8 +111,12 @@
         <li>
           <span class="readout-emoji" aria-hidden="true">{{ .emoji }}</span>
           <span class="readout-point-text">
-            {{ if .url }}<a href="{{ .url }}" rel="noopener">{{ .text }}</a>
-            {{ else }}{{ .text }}{{ end }}
+            {{/* Same link policy as the Breaking/News blocks above. This block
+                 previously had NO internal-redirect attempt at all — any .url
+                 became a live external anchor — so it was the least guarded of
+                 the three. Summary bullets carry no .threads of their own, so
+                 story-link.html resolves them by url through story-index. */}}
+            {{ partial "story-link.html" (dict "item" .) }}
           </span>
         </li>
         {{ end }}

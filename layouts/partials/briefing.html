@@ -45,30 +45,18 @@
     <li>
       <span class="briefing-emoji" aria-hidden="true">{{ .emoji }}</span>
       <span class="briefing-text">
-        {{/* Thread-first (2026-08-07, Ben: "clicking on those stories at the
-             top doesn't take us to the thread page"): a bullet's own .url is
-             an external source, never a thread — so look the url up in the
-             payload to find the item it corresponds to, and if that item is
-             threaded, send the bullet text there instead, with the source
-             kept one click away via the trailing src-link. Already-internal
-             links (.url starting with "/") are left exactly as they were. */}}
-        {{ if .url }}
-          {{ if hasPrefix .url "/" }}
-            <a href="{{ .url }}" rel="noopener">{{ .text }}</a>
-          {{ else }}
-            {{ $matches := where site.Data.payload.items "url" .url }}
-            {{ if $matches }}
-              {{ $hit := index $matches 0 }}
-              {{ if $hit.threads }}
-                <a href="/threads/{{ index $hit.threads 0 }}/">{{ .text }}</a><a class="src-link" href="{{ .url }}" target="_blank" rel="noopener" title="original source">↗</a>
-              {{ else }}
-                <a href="{{ .url }}" rel="noopener">{{ .text }}</a>
-              {{ end }}
-            {{ else }}
-              <a href="{{ .url }}" rel="noopener">{{ .text }}</a>
-            {{ end }}
-          {{ end }}
-        {{ else }}{{ .text }}{{ end }}
+        {{/* Link policy lives in ONE place now: partials/story-link.html.
+             A feed bullet is a STORY (synthesized from several sources), so it
+             resolves to its thread page or renders unlinked — an external
+             story URL is never a link target on a feed (Ben, 2026-08-11).
+
+             This supersedes the 2026-08-07 thread-first block that lived here.
+             That one was right in intent but looked up `site.Data.payload.items`,
+             which render_read.py windows to the current Mon–Sun week: on
+             2026-08-11 the payload held 3 items against ~40 bullets, so almost
+             every lookup missed and fell through to the external-link branch.
+             story-index.html uses the un-windowed readouts news set instead. */}}
+        {{ partial "story-link.html" (dict "item" .) }}
       </span>
     </li>
     {{ end }}
@@ -104,25 +92,10 @@
         <li>
           <span class="briefing-emoji" aria-hidden="true">{{ .emoji }}</span>
           <span class="briefing-text">
-            {{/* Same thread-first lookup as the lead list above — kept in
-                 sync deliberately; see the comment there for the reasoning. */}}
-            {{ if .url }}
-              {{ if hasPrefix .url "/" }}
-                <a href="{{ .url }}" rel="noopener">{{ .text }}</a>
-              {{ else }}
-                {{ $matches := where site.Data.payload.items "url" .url }}
-                {{ if $matches }}
-                  {{ $hit := index $matches 0 }}
-                  {{ if $hit.threads }}
-                    <a href="/threads/{{ index $hit.threads 0 }}/">{{ .text }}</a><a class="src-link" href="{{ .url }}" target="_blank" rel="noopener" title="original source">↗</a>
-                  {{ else }}
-                    <a href="{{ .url }}" rel="noopener">{{ .text }}</a>
-                  {{ end }}
-                {{ else }}
-                  <a href="{{ .url }}" rel="noopener">{{ .text }}</a>
-                {{ end }}
-              {{ end }}
-            {{ else }}{{ .text }}{{ end }}
+            {{/* Same link policy as the lead list above — now genuinely shared
+                 code rather than a copy kept "in sync deliberately," which is
+                 how the two blocks drifted into duplicating the same bug. */}}
+            {{ partial "story-link.html" (dict "item" .) }}
           </span>
         </li>
         {{ end }}

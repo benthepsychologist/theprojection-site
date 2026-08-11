@@ -1,0 +1,71 @@
+{{/* story-link.html — renders one story bullet's text under the site's link
+     policy. The single place that policy is implemented. Call:
+
+       {{ partial "story-link.html" (dict "item" . ) }}
+
+     THE POLICY (Ben, 2026-08-11, verbatim intent): an individual news-story
+     URL "should never be a link target anywhere on the site EXCEPT where a
+     thread or story page lists SOURCES." Every feed bullet "is a story with
+     multiple sources, not a link to source."
+
+     RESOLUTION ORDER:
+       1. the item carries its own .threads   → /threads/<slug>/
+       2. .url is already internal ("/…")     → use as-is
+       3. .url resolves via story-index.html  → /threads/<slug>/
+       4. anything else                       → PLAIN TEXT, no link
+
+     Case 4 is the load-bearing change. Every previous version of this logic —
+     in briefing.html and in readout.html's three blocks — fell back to
+     `<a href="{external}">` whenever an internal target could not be found,
+     which is exactly how external story links kept reaching reader-facing
+     surfaces. An unresolvable bullet now degrades to unlinked text rather
+     than to a link that violates the policy. Failing CLOSED is the point.
+
+     There is deliberately NO trailing "↗ original source" affordance either —
+     it was still an external story link on a feed/readout surface, which is
+     what the policy forbids. The reader's path to primary sources is
+     story → thread → the thread timeline's own inline citations, which every
+     entry carries (e.g. "([Nature Medicine](https://…))"). That is the
+     "thread page lists SOURCES" exception, and it stays intact.
+
+     Thread links are guarded by site.GetPage so a slug with no published page
+     renders as plain text instead of a 404 — the same guard the entity chips
+     in _default/single.html use. */}}
+{{ $b := .item }}
+{{ $href := "" }}
+
+{{/* 1 — the item's own thread tag, when the data carries one (readout
+     breaking/news items do; briefing bullets do not). */}}
+{{ with $b.threads }}
+  {{ $slug := index . 0 }}
+  {{ if and $slug (site.GetPage (printf "/threads/%s" $slug)) }}
+    {{ $href = printf "/threads/%s/" $slug }}
+  {{ end }}
+{{ end }}
+
+{{ if not $href }}
+  {{ with $b.url }}
+    {{ if hasPrefix . "/" }}
+      {{/* 2 — already an internal link (e.g. the /threads/<slug>/ url the
+           briefing generator is asked to emit). Leave it exactly as-is. */}}
+      {{ $href = . }}
+    {{ else }}
+      {{/* 3 — external url: look it up in the un-windowed readouts news set
+           and redirect to the thread that carries the story. */}}
+      {{ $idx := partialCached "story-index.html" "story-index" "story-index" }}
+      {{ $m := where $idx "url" . }}
+      {{ if $m }}
+        {{ $slug := index (index $m 0).threads 0 }}
+        {{ if and $slug (site.GetPage (printf "/threads/%s" $slug)) }}
+          {{ $href = printf "/threads/%s/" $slug }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{- if $href -}}
+<a href="{{ $href }}">{{ $b.text }}</a>
+{{- else -}}
+{{ $b.text }}
+{{- end -}}

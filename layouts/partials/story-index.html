@@ -1,0 +1,30 @@
+{{/* story-index.html — the URL→thread lookup table, built once per site build.
+
+     WHY THIS EXISTS (Ben, 2026-08-11): a feed bullet is a STORY, synthesized
+     from multiple sources — it is never "a link to one source." So a bullet's
+     text must resolve to the thread that carries the story (where the timeline
+     lists every source), not to whichever single article the curator happened
+     to cite. See partials/story-link.html for the policy this feeds.
+
+     WHY THE PREVIOUS FIX (2026-08-07) DIDN'T HOLD: it looked bullets up in
+     `site.Data.payload.items` — but `render_read.py` windows the payload to the
+     CURRENT Mon–Sun week. On 2026-08-11 that payload held exactly 3 items,
+     against ~40 briefing bullets, so nearly every lookup missed and fell
+     through to the external-link fallback. The fix was correct in intent and
+     built on an almost-empty table.
+
+     WHAT THIS USES INSTEAD: every scope's own `news` array in readouts.json —
+     451 items across 155 scopes, 428 of them thread-tagged, and NOT week-gated.
+     That is the real lookup surface.
+
+     Returns a flat slice of news items that carry BOTH a url and a thread, so
+     callers can `where` it by "url". */}}
+{{ $news := slice }}
+{{ range $scope, $r := site.Data.readouts.readouts }}
+  {{ range (or $r.news slice) }}
+    {{ if and .url .threads }}
+      {{ $news = $news | append . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ return $news }}
