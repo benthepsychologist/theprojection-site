@@ -1,0 +1,6 @@
+---
+title: Riot Platforms
+entity_kind: org
+lenses:
+- global-capital
+---
