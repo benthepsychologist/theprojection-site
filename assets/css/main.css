@@ -1052,3 +1052,10 @@ ul.cites a{ font-weight:600; }
 .cred-attrib{margin-top:1.1rem;padding-top:.6rem;border-top:1px dotted var(--line);line-height:1.5;}
 .story-redirect{margin-top:.8rem;}
 .cites .n,h2 .n{font-family:var(--mono);font-size:.75rem;color:var(--muted);}
+/* Layer 3 practice count (2026-08-11). Deliberately NOT one of the band
+   colours above: it is a transparency count, not a quality score, and giving
+   it the same green would invite reading "practices 7/7" as "high quality".
+   Neutral slate + a dotted underline to mark it as a link to the rubric. */
+.cred-practices{color:var(--slate);border-color:var(--line);
+  text-decoration:underline dotted;text-underline-offset:2px;}
+.cred-practices:hover{color:var(--ink);border-color:var(--slate);}

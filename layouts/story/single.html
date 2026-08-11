@@ -68,7 +68,21 @@
             <span class="cred cred-rsp-{{ . }}">{{ replace . "-" " " }}</span>
           {{ end }}
         {{ end }}
-        {{ if and (not .band) (not .rsp) }}<span class="cred cred-unrated" title="Not in the credibility layer — no rating either way.">unrated</span>{{ end }}
+        {{/* Layer 3 — published-practice COUNT. Rendered on its own visual
+             scale, never as a band, because it is not a quality measure: it
+             says whether the outlet has made itself accountable (named
+             staff, bylines, corrections policy, disclosed ownership), not
+             whether it is right. An outlet can score 7/7 and publish badly.
+             See /methodology/ for the rubric and the seven indicators. */}}
+        {{/* `$src` because inside `with` the dot rebinds to the practices
+             number, and `$` is the PAGE, not this source — reaching for
+             `$.practices_of` was a build-breaking bug, not a silent one. */}}
+        {{ $src := . }}
+        {{ with .practices }}
+          <a class="cred cred-practices" href="/methodology/#layer-3--published-practice-indicators"
+             title="Published-practice indicators: how many of the transparency practices in our rubric this outlet publishes. Not an accuracy rating. A denominator below 7 means some indicators could not be checked and were dropped rather than counted as failures.">practices {{ . }}/{{ or $src.practices_of 7 }}</a>
+        {{ end }}
+        {{ if and (not .band) (not .rsp) (not .practices) }}<span class="cred cred-unrated" title="Not in the credibility layer — no rating either way.">unrated</span>{{ end }}
       {{ end }}
     </li>
     {{ end }}

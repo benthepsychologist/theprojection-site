@@ -111,6 +111,99 @@ goes out: only a fixed allowlist of fields is ever exported, raw internal
 notes and reasoning never are, and every export is scanned for secrets
 before it's staged.
 
+## Source credibility — what the badges on a story page mean
+
+Every story page lists the sources that story was built from, and most
+carry a badge. Those badges come from three separate layers, which measure
+different things and are deliberately not merged into a single number.
+
+**None of them is a verdict on the article you're reading.** They describe
+an outlet's general record or its published practices. A reliable outlet
+runs a bad story sometimes; a poorly-rated one breaks a real one. Treat a
+badge as context for how much corroboration you'd want, not as a
+truth-value.
+
+**Layer 1 — domain quality score.** A 0-1 score from a published academic
+dataset covering about 11,500 news domains, rendered as a band: *high*
+(≥0.8), *solid* (≥0.6), *mixed* (≥0.4), *low* (<0.4). It's an ensemble
+that reconciles several independent professional rating sets, so it
+carries their consensus rather than any one rater's judgement. Source:
+Lin, Lasser, Lewandowsky, Cole, Gully, Rand & Pennycook (2023), *PNAS
+Nexus* 2(9):pgad286, CC BY 4.0. Its limits are real: it's a static 2023
+snapshot, it covers news domains rather than companies, journals or
+governments, and it says nothing about a specific piece.
+
+**Layer 2 — Wikipedia's perennial-sources tier.** Wikipedia's editors
+maintain a list of sources repeatedly discussed for citation purposes,
+with verdicts like *generally reliable* or *generally unreliable*. It's
+live, community-maintained, and licensed CC BY-SA 4.0. Where an outlet has
+several entries with conflicting verdicts — typically a publication whose
+staff journalism is rated separately from its contributor platform — we
+render **disputed / split** rather than picking a side. Note this tier
+answers "should Wikipedia cite this," which is a narrower question than
+"is this good journalism."
+
+**Primary sources outrank both.** Government filings, court records, trial
+registries, journals, preprint servers and a company's own announcement
+channel are marked **primary source** and carry no news badge at all. A
+news-credibility score on a court docket or an SEC filing is a category
+error, not a low score. This matters concretely: Wikipedia rates arXiv
+*generally unreliable* as a citation, which is correct for an encyclopedia
+and wrong for a feed whose evidence hierarchy puts the paper itself above
+reporting about the paper.
+
+### Layer 3 — published-practice indicators
+
+The first two layers systematically miss trade press: the specialist
+outlets that cover behavioural health, data centres, semiconductors or
+healthcare policy, which are frequently the *best* source on a story and
+appear in neither dataset. Rating them by borrowed reputation isn't
+possible, so we check something different and narrower.
+
+**We record only observable, checkable publishing practices — never a
+judgement about whether an outlet is truthful.** Each indicator is a
+yes/no question answerable by looking at the outlet's own site, and each
+recorded answer stores the URL of the evidence, the date checked, and who
+checked it. Anyone can re-run the check and disagree.
+
+The seven indicators:
+
+| indicator | the question |
+| --- | --- |
+| **Masthead** | Does it publicly name its editorial staff or leadership? |
+| **Bylines** | Do articles carry named authors rather than only "Staff"? |
+| **Corrections** | Is there a published corrections or complaints policy? |
+| **Ownership** | Is the owner, parent company or funding source disclosed? |
+| **Standards** | Is there a published editorial-standards or ethics policy? |
+| **Ad separation** | Is sponsored or partner content labelled distinctly from editorial? |
+| **Primary sourcing** | Do articles routinely link the documents they're reporting on? |
+
+A rating renders as **practices n/7** — a count, deliberately not a score
+and deliberately not on the same scale as Layer 1's band, so the two can't
+be read as the same measurement.
+
+**"Couldn't check" is not "doesn't have."** Some outlets block automated
+access to exactly the pages this rubric needs — several returned their
+articles happily while hard-blocking their own About and editorial-policy
+pages. Where an indicator can't be verified either way, it is recorded as
+unverified and **dropped from the denominator**, so the badge reads
+*practices 3/4* rather than pretending a blocked page is an absent one. If
+fewer than four of the seven can be checked at all, no rating is published
+for that outlet. Counting an unreachable page as a failure would turn a
+transparency check into a penalty for bot-blocking, which is a different
+thing entirely and not one we're measuring.
+
+**What this does and doesn't tell you.** These are *transparency*
+indicators. An outlet can score 7/7 and publish badly; a one-person
+specialist newsletter with no masthead page can be the most accurate
+source on a beat and score 2/7. What a high count means is that the outlet
+has made itself accountable — you can find out who wrote a piece, who owns
+the publication, and how to get an error fixed. That's worth knowing, and
+it is all this measures.
+
+**Unrated means unrated.** A source absent from all three layers carries
+no badge. It has not been judged and failed; it has not been judged.
+
 ---
 
 ## Mental Health
