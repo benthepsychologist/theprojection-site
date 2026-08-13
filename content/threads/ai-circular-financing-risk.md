@@ -9,6 +9,8 @@ entities:
 - nvidia
 - openai
 - oracle
+- amd
+- anthropic
 thread_kind: story
 blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops where
   Nvidia invests in/supplies OpenAI, OpenAI commits to Oracle/cloud, those providers

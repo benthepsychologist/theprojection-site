@@ -15,7 +15,7 @@ blurb: 'The Israel–Hezbollah front turning hot while its diplomacy stalls: dea
   the talks track survives, and whether strikes escalate past the current tempo.'
 ---
 
-## 2026-08-13 — Salam calls south-Lebanon strikes a violation of international law; verification-countries shortlist denied
+## 2026-08-13 — Salam calls south-Lebanon strikes a violation of international law; a US State Dept official rebukes Katz directly; verification-countries shortlist denied by all three sides
 
 - **Lebanese PM Nawaf Salam rejected Israel's assertion that villages
   destroyed in south Lebanon were legitimate military targets, calling
@@ -29,6 +29,21 @@ blurb: 'The Israel–Hezbollah front turning hot while its diplomacy stalls: dea
   September Rome-round announcement, another sign the diplomatic track
   keeps outrunning what's actually been agreed on the ground.
   ([Al Jazeera](https://www.aljazeera.com/where/lebanon/), [Times of Israel liveblog](https://www.timesofisrael.com/liveblog-august-13-2026/))
+- **Later the same day, an anonymous US State Department official gave
+  Salam's criticism of Katz an unexpected co-signer: they told Naharnet
+  that a "permanent Israeli military presence in South Lebanon is not
+  consistent with the commitments made in the framework or the long-term
+  peace and security of both states"** — direct US pushback on Katz's own
+  "under no circumstances do we retreat" / "here to stay in the security
+  zones in Lebanon, Syria and Gaza" remarks, and the first time this
+  specific Katz position has drawn a US rebuke rather than only a
+  Lebanese one. Separately, Israeli and US officials (including a
+  spokesperson for Israel's Washington embassy) joined Lebanon's own
+  denial of the reported verification-countries shortlist — broadening
+  the single Lebanese-official denial logged earlier today into a
+  three-sided one, while all sides confirm talks on a verification
+  mechanism remain ongoing rather than settled.
+  ([Naharnet — Katz criticism](https://www.naharnet.com/stories/en/321812-us-official-criticizes-katz-s-remarks-on-staying-in-lebanon), [Naharnet — troop-deployment denial](https://www.naharnet.com/stories/en/321815-israeli-us-officials-deny-deal-reached-on-deploying-foreign-troops-to-lebanon))
 
 ## 2026-08-12 — Katz vows Israeli troops are "here to stay" in south Lebanon; Salam condemns; September Rome round announced
 
