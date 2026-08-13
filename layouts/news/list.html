@@ -33,20 +33,36 @@
 {{ partial "briefing.html" (dict "ctx" . "scope" "front") }}
 {{/* Narrated audio version (2026-08-13, Ben: "add an AUDIO briefing").
      Generated separately (sources/generate_audio_briefing.py in
-     theprojection-corpus, Kokoro TTS) and dropped into static/audio/ —
-     not every day has one yet (not wired into /daily's automated run),
-     so this only renders when today's file actually exists rather than
-     showing a dead player. Sits alongside, not instead of, the free
-     Listen button above (that one works every day, any device, no
-     generation step; this one is a fixed narrator voice, once it's
-     been generated for the day). */}}
+     theprojection-corpus, Gemini TTS as of 2026-08-13 — switched
+     same-day from Kokoro, Ben's verdict: "sounds TERRIBLE") and dropped
+     into static/audio/. Not every day has one yet (not wired into
+     /daily's automated run for every scope, just the front/general feed
+     so far), so this only renders when today's file actually exists
+     rather than showing a dead player. Sits alongside, not instead of,
+     the free Listen button above (that one works every day, any device,
+     no generation step; this one is a fixed narrator voice, once it's
+     been generated for the day).
+
+     CACHE-BUST QUERY PARAM (added 2026-08-13, same day as a real
+     incident): the mp3's own URL never changes day to day (same
+     <date>-front.mp3 name even when the file is regenerated in place —
+     e.g. an engine swap re-narrating an already-published day, as
+     happened this same session), and static/_headers previously cached
+     it `immutable` for a year. A browser that had already fetched the
+     Kokoro version kept it forever with no way to know the underlying
+     file changed. `_headers` now caps the cache at 1h/must-revalidate,
+     but that only fixes FUTURE fetches — this ?v= param, tied to the
+     whole payload's own `generated` timestamp, forces every regenerated
+     publish to be a genuinely new URL so a stale browser cache can never
+     mask a real content change again, immutable header or not. */}}
 {{ $audioPath := printf "static/audio/%s-front.mp3" $p.today }}
 {{ if os.FileExists $audioPath }}
+{{ $audioSrc := printf "/audio/%s-front.mp3?v=%s" $p.today ($p.generated | urlquery) }}
 <div class="briefing-audio">
   <p class="briefing-audio-label"><span aria-hidden="true">🎧</span> Narrated briefing</p>
-  <audio controls preload="none" src="/audio/{{ $p.today }}-front.mp3">
+  <audio controls preload="none" src="{{ $audioSrc }}">
     Your browser doesn't support inline audio —
-    <a href="/audio/{{ $p.today }}-front.mp3">download the mp3</a> instead.
+    <a href="{{ $audioSrc }}">download the mp3</a> instead.
   </audio>
 </div>
 {{ end }}
