@@ -38,6 +38,23 @@ blurb: 'Opened on Ben''s steer 2026-08-01, after a disarmament framework announc
   still circulate; report both, resolve neither.'
 ---
 
+## 2026-08-12 — First announced targeted strike since 08-03 hits a Hamas commander in Beit Lahiya
+
+- **Israel's military carried out its first announced targeted strike in
+  Gaza since 08-03 Wednesday, a drone strike on a man in Beit Lahiya it
+  described as a Hamas commander, as Gaza's Health Ministry reported 45
+  deaths since the 08-01 disarmament announcement.** Four wounded were
+  taken to Shifa and Nasser hospitals; the military gave no detail on the
+  target's identity or fate. The strike lands inside the same
+  disarmament-sequencing dispute logged 08-09/08-11 — Hamas has accepted
+  weapons "decommissioning" in principle, Netanyahu insists on full
+  disarmament before any Israeli withdrawal, and peace-plan mediators
+  have pushed Israel to halt targeted strikes to protect the process.
+  Separately, Israeli troops briefly clashed with settlers who set up an
+  outpost in front of Palestinian homes in the West Bank before the
+  military withdrew without clearing it.
+  ([AP, via Las Vegas Sun](https://lasvegassun.com/news/2026/aug/12/israel-says-gaza-drone-strike-targeted-a-hamas-com/))
+
 ## 2026-08-11 — WaPo: the Trump-Netanyahu rift is widening under election pressure
 
 - **A Washington Post analysis frames the Trump-Netanyahu relationship as

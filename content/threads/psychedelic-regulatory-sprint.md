@@ -16,6 +16,23 @@ blurb: 'Psilocybin racing toward first-ever US approval (Compass NDA targeted Q4
   fix?'
 ---
 
+## 2026-08-12 — A second psychedelic drug, a second positive Phase 3 — this time in anxiety
+
+- **Definium's LSD-based DT120 hit its primary endpoint in a Phase 3
+  generalized-anxiety trial — the drug's second positive pivotal readout
+  in two months, after June's MDD win.** The 214-patient Voyage trial
+  (orally-disintegrating lysergide tablet vs. placebo, 12 weeks) found a
+  5.4-point placebo-adjusted improvement on the Hamilton Anxiety Rating
+  Scale (11.6-point drop on drug vs. 6.2 on placebo) — Definium's CEO
+  called it larger than any pivotal anxiety trial he's seen. This is now
+  the second psychedelic-adjacent compound on this thread (after
+  Compass's psilocybin) with real positive Phase 3 data, and the first
+  in an anxiety indication specifically rather than depression/PTSD. A
+  second GAD trial is due in September. Definium itself is not yet a
+  watchlist entity on this map — offered as a candidate in today's
+  digest.
+  ([STAT News](https://www.statnews.com/2026/08/12/definium-lsd-treatment-anxiety-study/), [Fierce Biotech](https://www.fiercebiotech.com/biotech/definium-hits-another-ph-3-homerun-psychedelic-sea-change-anxiety))
+
 ## 2026-08-09 — UK's first publicly funded psilocybin trial reports a real, sustained effect
 
 - **The PsiDeR trial — South London and Maudsley NHS Trust with King's
