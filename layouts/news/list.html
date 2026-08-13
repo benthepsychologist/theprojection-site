@@ -31,6 +31,25 @@
      flash rail -> executive summary -> today's calendar -> ranked content.
      The compact front readout still renders below the dashboard. */}}
 {{ partial "briefing.html" (dict "ctx" . "scope" "front") }}
+{{/* Narrated audio version (2026-08-13, Ben: "add an AUDIO briefing").
+     Generated separately (sources/generate_audio_briefing.py in
+     theprojection-corpus, Kokoro TTS) and dropped into static/audio/ —
+     not every day has one yet (not wired into /daily's automated run),
+     so this only renders when today's file actually exists rather than
+     showing a dead player. Sits alongside, not instead of, the free
+     Listen button above (that one works every day, any device, no
+     generation step; this one is a fixed narrator voice, once it's
+     been generated for the day). */}}
+{{ $audioPath := printf "static/audio/%s-front.mp3" $p.today }}
+{{ if os.FileExists $audioPath }}
+<div class="briefing-audio">
+  <p class="briefing-audio-label"><span aria-hidden="true">🎧</span> Narrated briefing</p>
+  <audio controls preload="none" src="/audio/{{ $p.today }}-front.mp3">
+    Your browser doesn't support inline audio —
+    <a href="/audio/{{ $p.today }}-front.mp3">download the mp3</a> instead.
+  </audio>
+</div>
+{{ end }}
 {{/* The card feed, its lens filter chips, and the duplicate compact readout
      were RETIRED here 2026-08-07 (Ben: "the cards... can be retired... we
      want the STORIES of the day up top, linked to our summarized story
@@ -50,6 +69,7 @@
 <script id="tp-payload" type="application/json">{{ (replace ($p | jsonify) "</" "<\\/") | safeJS }}</script>
 <script src="/js/copy-chat.js" defer></script>
 <script src="/js/dashboard.js" defer></script>
+<script src="/js/listen.js" defer></script>
 {{ else }}
 <div class="feed"><p style="grid-column:1/-1; color:var(--ink-faint);">No published week yet — check back soon.</p></div>
 {{ end }}

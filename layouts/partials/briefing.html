@@ -31,11 +31,21 @@
 {{ $r := index (.ctx.Site.Data.readouts.readouts) .scope }}
 {{ with $r }}{{ with .briefing }}
 {{ $b := . }}
-<section class="briefing" aria-label="Briefing">
+{{ $briefingID := printf "briefing-%s" ($.scope | anchorize) }}
+<section class="briefing" aria-label="Briefing" id="{{ $briefingID }}">
 
   <p class="briefing-label">Briefing
     {{ with $r.generated }}<time class="briefing-stamp" datetime="{{ . }}">Updated {{ dateFormat "Jan 2, 3:04 PM" . }} UTC</time>{{ end }}
   </p>
+
+  {{/* Client-side "Listen" button (listen.js) — reads this section's own
+       text aloud via the browser's speechSynthesis, no generated audio
+       file. data-listen-target points at this section's own id, set
+       above, so it only ever reads ITS OWN briefing, not the whole page
+       (a beat page's briefing sits alongside other content). */}}
+  <button type="button" class="listen-btn" data-listen-target="#{{ $briefingID }}" aria-pressed="false">
+    <span class="listen-label">🔊 Listen to this briefing</span>
+  </button>
 
   {{ with $b.gist }}<p class="briefing-gist">{{ . }}</p>{{ end }}
 
