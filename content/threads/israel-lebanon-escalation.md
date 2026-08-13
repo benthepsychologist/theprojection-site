@@ -15,6 +15,21 @@ blurb: 'The Israel–Hezbollah front turning hot while its diplomacy stalls: dea
   the talks track survives, and whether strikes escalate past the current tempo.'
 ---
 
+## 2026-08-13 — Salam calls south-Lebanon strikes a violation of international law; verification-countries shortlist denied
+
+- **Lebanese PM Nawaf Salam rejected Israel's assertion that villages
+  destroyed in south Lebanon were legitimate military targets, calling
+  the strikes a violation of international law** — a formal legal
+  escalation of 08-12's condemnation of Katz's "here to stay" statement,
+  not a new incident. Separately, a Lebanese official denied Reuters
+  reporting that Beirut had agreed with Israel on a shortlist of
+  countries (reportedly Britain, Italy, Switzerland, Indonesia) to verify
+  Hezbollah's disarmament, saying talks on a verification mechanism with
+  the US remain ongoing rather than settled — read alongside 08-12's
+  September Rome-round announcement, another sign the diplomatic track
+  keeps outrunning what's actually been agreed on the ground.
+  ([Al Jazeera](https://www.aljazeera.com/where/lebanon/), [Times of Israel liveblog](https://www.timesofisrael.com/liveblog-august-13-2026/))
+
 ## 2026-08-12 — Katz vows Israeli troops are "here to stay" in south Lebanon; Salam condemns; September Rome round announced
 
 - **Israeli Defense Minister Israel Katz visited southern Lebanon

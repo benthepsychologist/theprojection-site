@@ -14,6 +14,15 @@ blurb: Up-to-$9.8B STAR Market listing (allotment 07-22, lists 07-27) funding Ch
   plans vs. the shortage, and read-through to ai-memory-shortage and china-stack-independence.
 ---
 
+## 2026-08-13 — CXMT overtakes Tencent to become China's most valuable listed company, 17 days after its IPO
+
+- **CXMT overtook Tencent to become China's most valuable listed
+  company, at a $524B market cap, 17 days after its own IPO.** The rally
+  is attributed to strong investor demand for AI-linked names generally
+  — the same HBM/DRAM shortage story ([Memory Squeeze](/threads/ai-memory-shortage/)) and the
+  Apple sourcing-test angle logged 08-09 below.
+  ([Free Press Journal](https://www.freepressjournal.in/business/memory-chip-maker-cxmt-overtakes-tencent-as-chinas-most-valuable-company))
+
 ## 2026-08-09 — Apple tests CXMT memory as Beijing pivots to capital markets to fund AI champions
 
 - **Apple is testing memory chips from China's CXMT for China-market
