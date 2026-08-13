@@ -1,8 +1,14 @@
+<!-- kit: site-attention/CLAUDE@2026-08-13.2 — canonical: /workspace/kestrel/library/agentdocs/site-attention/CLAUDE.md.tmpl — provenance only. A local edit is fine; kit.py sync will flag drift. Route a wanted template change to kestrel's INBOX/, never a direct edit. -->
+
 # CLAUDE.md — theprojection-site
 
 This repo is the **published surface only** — a Hugo site with exactly one
-content writer: the kestrel engine's publish core, through theprojection's
-adapter (`/workspace/kestrel/tools/publish/`, fed by `/workspace/theprojection-site`).
+content writer: theprojection's own adapter,
+`/workspace/theprojection-corpus/publish/adapter.py` (declared by that repo's
+`kestrel.yaml` `outputs.adapter`), which calls the kestrel engine's
+publish core (`/workspace/kestrel/tools/publish/core.py`) for the
+guarantees. The adapter is instance code, fed by `/workspace/theprojection-corpus` — no
+per-site adapter code lives in the engine.
 
 **Single-writer contract:** `data/` and `content/threads|entities|map|claim/*`
 are generated and overwritten wholesale on every publish run — never
@@ -21,4 +27,4 @@ publish run does; fire it by hand (`curl -X POST` the hook URL) after a
 template/CSS-only change.
 
 **Upstream pointers:** engine — `/workspace/kestrel`; data/instance repo —
-`/workspace/theprojection-site`.
+`/workspace/theprojection-corpus`.
