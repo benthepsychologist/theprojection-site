@@ -3,7 +3,7 @@ title: Psychedelic Sprint
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-08-09
+last_seen: 2026-08-14
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -15,6 +15,25 @@ blurb: 'Psilocybin racing toward first-ever US approval (Compass NDA targeted Q4
   the accelerating trials share. The live question: is approval outrunning the methodology
   fix?'
 ---
+
+## 2026-08-14 — The VA discloses its 20th active psychedelic trial, running alongside the Compass NDA track
+
+- **The VA disclosed it's now running its 20th active clinical trial of
+  psychedelic-assisted therapy, this one evaluating psilocybin for
+  veterans with treatment-resistant depression — a federal research push
+  independent of, and parallel to, the Compass Pathways NDA track this
+  thread otherwise watches toward FDA approval.** Under VA Chief of Staff
+  Curt Cashour's direction since early 2026, the trial sits inside more
+  than $23 million in external funding the VA's Office of Research and
+  Development has distributed across its psychedelic-trial portfolio,
+  alongside MDMA-for-PTSD and GLP-1s-for-alcohol-use-disorder work. VA
+  Secretary Doug Collins: "VA is pursuing all avenues to evaluate new
+  treatments." The same day, an independently funded academic trial of
+  MDMA-assisted therapy for PTSD in young adults with childhood trauma
+  also newly posted to the clinical-trials registry — two separate MDMA/
+  psilocybin signals landing the same day, one institutional and one
+  academic.
+  ([Behavioral Health Business](https://bhbusiness.com/2026/08/14/the-va-is-now-evaluating-mdma-glp-1s-and-psilocybin-for-behavioral-health/), [NCT07765693](https://clinicaltrials.gov/study/NCT07765693))
 
 ## 2026-08-12 — A second psychedelic drug, a second positive Phase 3 — this time in anxiety
 
