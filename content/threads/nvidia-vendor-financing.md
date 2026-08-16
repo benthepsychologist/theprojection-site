@@ -3,7 +3,7 @@ title: Nvidia as Lender
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-08-10
+last_seen: 2026-08-15
 weight: 3
 entities:
 - nvidia
@@ -15,8 +15,28 @@ blurb: 'Nvidia''s turn from chip vendor to the buildout''s lender of last resort
   and the first market pushback (NVDA -4%, CDS wider, 07-27). Track: the guarantee''s
   actual structure and figure, whether rating agencies treat it as debt-equivalent,
   and each new customer-equity position. Sits inside the circular-financing story
-  but is its own actor-move.'
+  but is its own actor-move. ADDENDUM 2026-08-15: the guarantee''s structure/figure
+  question is now largely resolved — under $120B, phase-1 only (down from up to $750B
+  in talks), with signing reported as possible "this weekend." Retarget the watch
+  toward: does the weekend signing happen, does a phase-2 guarantee follow, and rating-agency
+  treatment (still untracked).'
 ---
+
+## 2026-08-15 — The guarantee is cut in half, and narrowed to phase one
+
+- **Nvidia scaled back its planned OpenAI Ohio data-center guarantee
+  from $250B to under $120B, and now covers only the first phase of the
+  10-gigawatt SB Energy (SoftBank subsidiary) build on DOE land in Pike
+  County rather than the whole project** — the change followed investor
+  pushback over Nvidia's own exposure to the commitment, per WSJ; a deal
+  could be signed "as soon as this weekend." This is the first hard
+  resolution of "the guarantee's actual structure and figure" this
+  thread has tracked since 07-27 — the number has moved $250B (07-28) →
+  up to $750B in combined SK Group + OpenAI talks (08-04) → back down to
+  under $120B for phase one alone (08-15). OpenAI is reportedly still
+  negotiating a binding lease for the full project despite the narrower
+  backstop — the guarantee shrank, the underlying build didn't.
+  ([WSJ via Investing.com](https://www.investing.com/news/company-news/nvidia-cuts-planned-openai-data-center-guarantee-to-below-120-billion--wsj-4861735))
 
 ## 2026-08-10 — Nvidia signs MOUs with six asset managers to mobilize $500B+ in third-party financing
 

@@ -3,7 +3,7 @@ title: AI Therapy Evidence
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-08-13
+last_seen: 2026-08-15
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -15,6 +15,22 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   maturing into a real subfield: VERA-MH benchmark, RAND''s intermediate-risk failures,
   EmoAgent.'
 ---
+
+## 2026-08-15 — A Swedish RCT: therapy orientation stops mattering once an AI delivers it
+
+- **A Stockholm University-led randomized trial pitting two AI-delivered,
+  chatbot-only therapies head-to-head — "Anna" for psychodynamic therapy,
+  "Judith" for CBT — found both produced significant, moderate symptom
+  reductions for social anxiety disorder over a 4-week smartphone-only
+  program, with no meaningful difference between the two approaches and
+  no gap in therapeutic-alliance ratings between them.** The 90-person
+  trial (Per Carlbring/Stockholm, Gerhard Andersson/Linköping, Jakob
+  Mechler/Uppsala) is a rarer test than most of what this thread tracks —
+  not one bot versus a waitlist (Therabot, VERA-MH), but two clinical
+  schools of therapy going head-to-head once the human therapist is
+  removed entirely.
+  ([ScienceDirect / Internet Interventions](https://www.sciencedirect.com/science/article/pii/S221478292600059X),
+  [Stockholm University project page](https://www.su.se/english/research/research-projects/anna-vs-judith-comparing-ai-delivered-pdt-and-cbt-for-social-anxiety))
 
 ## 2026-08-13 — Therabot's own first author, on the record: seven years in, still research-only, doubts FDA will ever approve it
 

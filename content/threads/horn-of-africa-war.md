@@ -3,7 +3,7 @@ title: Horn of Africa War
 lens: world-news
 status: open
 opened: 2026-08-04
-last_seen: 2026-08-09
+last_seen: 2026-08-15
 weight: 2
 entities: []
 thread_kind: story

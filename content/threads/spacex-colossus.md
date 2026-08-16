@@ -3,7 +3,7 @@ title: Colossus
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-07-25
+last_seen: 2026-08-15
 weight: 2
 entities:
 - spacex
@@ -17,6 +17,23 @@ blurb: SpaceXAI's self-owned training compute (Colossus, Memphis) — the "owns 
   constraints, and whether owning the mines translates into a frontier Grok. Feeds
   the "who controls the stack" thesis (radar Q1).
 ---
+
+## 2026-08-15 — Congress presses on the turbines as a fourth data center is confirmed
+
+- **A House Energy and Commerce Committee ranking member demanded SpaceXAI
+  turn over records and open Colossus 1/2 to site tours** — Rep. Frank
+  Pallone (D-NJ) wrote CEO Elon Musk saying the unpermitted gas turbines
+  created "a massive health risk," requesting a full turbine list, internal
+  communications, and emissions/power/water documentation by Aug 11.
+  ([CNBC](https://www.cnbc.com/2026/07/29/spacex-memphis-ai-data-centers-face-house-energy-committee-demands.html))
+- **Musk confirmed a fourth Memphis-area data center ("Minihard"), sited
+  next to Colossus 2 and Macroharder**, to run 220,000 GB300 GPUs in a
+  denser configuration than the existing sites — while SpaceXAI began
+  removing the 69 unpermitted turbines at the Southaven (Colossus 2) site,
+  to be replaced by a permanent 1.2GW, 41-turbine power plant; removal
+  starts in August and is expected to run through July 2027, so the permit
+  fight resolves on a multi-year clock, not immediately.
+  ([Data Center Dynamics](https://www.datacenterdynamics.com/en/news/musk-confirms-fourth-spacexai-data-center-in-memphis-company-starts-removing-illegal-gas-turbines/))
 
 ## 2026-07-24 — Opened + crawled
 

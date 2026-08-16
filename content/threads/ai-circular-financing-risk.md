@@ -3,7 +3,7 @@ title: Circular Financing
 lens: ai
 status: developing
 opened: 2026-06-28
-last_seen: 2026-08-10
+last_seen: 2026-08-15
 weight: 3
 entities:
 - nvidia
@@ -16,8 +16,36 @@ blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops wh
   Nvidia invests in/supplies OpenAI, OpenAI commits to Oracle/cloud, those providers
   buy Nvidia GPUs. OpenAI on track to lose ~$14B in 2026. Track the loss/revenue trajectory,
   any unwinding or write-downs, GPU-demand softening, and credit/equity-market reaction.
-  A correction here hits everything in radar Q1/Q2.'
+  A correction here hits everything in radar Q1/Q2. ADDENDUM 2026-08-15: the loop
+  now has a public, named-investor bear case — Michael Burry sized it at ~$879B and
+  called the $500B Wall Street financing platform an "Enron"-style stunt, reportedly
+  deepening his Nvidia short (08-11/08-14). Its own lender has also started pulling
+  back rather than expanding: Nvidia cut its OpenAI Ohio guarantee from up to $750B
+  in talks down to under $120B, phase-1 only (08-15). Track whether other lenders
+  follow Nvidia''s retreat.'
 ---
+
+## 2026-08-15 — Nvidia halves the Ohio guarantee under investor pressure; Michael Burry escalates his short
+
+- **Nvidia cut its planned OpenAI Ohio data-center guarantee from $250B
+  to under $120B and narrowed it to cover only the project's first
+  phase, with a deal possible "as soon as this weekend"** — the
+  reduction followed investors flagging Nvidia's own exposure to the
+  financing commitment. Full structural detail on
+  [Nvidia as Lender](/threads/nvidia-vendor-financing/); here it reads as the loop's lender pulling
+  back its own backstop under market pressure, the first concrete sign
+  of de-risking rather than escalation since this thread opened.
+  ([WSJ via Investing.com](https://www.investing.com/news/company-news/nvidia-cuts-planned-openai-data-center-guarantee-to-below-120-billion--wsj-4861735))
+- **Michael Burry escalated his public warning on the loop, estimating
+  ~$879B in hyperscaler commitments now circle through Nvidia and
+  calling the $500B Wall Street financing platform (08-10 entry below) a
+  "Wall Street stunt" reminiscent of Enron** — he disclosed on his
+  Substack (08-11) that a "very significant proportion" of Nvidia's
+  demand isn't end-customer-driven, and reportedly deepened his NVDA
+  short position as of 08-14. First on-record instance of a named,
+  prominent investor publicly quantifying the loop's total size and
+  taking a position against it, rather than commentary alone.
+  ([Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/michael-burry-sounds-alarm-again-144154784.html), [24/7 Wall St.](https://247wallst.com/investing/2026/08/13/michael-burry-sounds-the-alarm-again-ai-is-a-circular-financing-web-with-nvidia-in-the-middle/))
 
 ## 2026-08-10 — Nvidia turns compute into a Wall Street asset class; two more capital moves feed the loop
 

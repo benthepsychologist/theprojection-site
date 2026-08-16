@@ -3,7 +3,7 @@ title: Where the Capex Lands
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-03
+last_seen: 2026-08-15
 weight: 3
 entities:
 - nvidia
@@ -18,8 +18,33 @@ blurb: 'The ~$750B question posed as a DESTINATION, not a spender: where does th
   100s of sites), power (gas turbines, nuclear-for-AI, grid), land/cooling/water.
   Sibling to hyperscaler-capex-big-picture, which cuts the SAME money by spender;
   this one follows it to where it physically lands. Most destinations have no thread
-  yet — that''s the worklist.'
+  yet — that''s the worklist. ADDENDUM 2026-08-15: the capex-committed-vs-capacity-energized
+  gap now has its first two real outcomes on the record, on opposite sides — AWS''s
+  Lusby, MD project withdrew rather than clear Texas- style compliance gates (08-04),
+  while Core Scientific, Vantage, and SB Energy formally committed to Abbott''s PUCT/ERCOT
+  standards (08-12). Track which outcome the majority of the project queue lands on,
+  not just whether the gap exists.'
 ---
+
+## 2026-08-15 — The gate produces its first compliance case, not just its first casualty
+
+- **Texas Governor Abbott announced that Core Scientific, Vantage Data
+  Centers and SB Energy have committed to comply with his data-center
+  standards** (pay for their own electric infrastructure rather than
+  shifting costs to ratepayers, reuse their own water, lower Texans'
+  electricity costs, avoid disrupting residential neighborhoods, and
+  drop reliance on taxpayer-funded incentives) — the same PUCT/ERCOT
+  audit-and-freeze process flagged here 08-03. Abbott's office
+  explicitly framed AWS's Lusby, MD withdrawal (logged below, 08-04) as
+  the counter-example: a project that ended rather than complied.
+  ([Texas Governor's Office](https://gov.texas.gov/news/post/governor-abbott-announces-core-scientific-vantage-data-centers-and-sb-energy-commit-to-comply-with-his-data-center-standards))
+- 💡 **The gap this thread has tracked since 08-03 now has both of its
+  outcomes on the record:** AWS's withdrawal showed capex that didn't
+  convert to capacity; this is the first evidence the other direction
+  exists too — capex clearing the gate rather than falling into the
+  gap. Vantage's stake here is its $25B, 1.4GW "Frontier" campus in
+  Shackelford County (full detail on [Datacenter Sites](/threads/ai-datacenter-sites/)), so this is
+  a large, named site, not a marginal one.
 
 ## 2026-08-04 — The capex-to-capacity gap this thread flagged 08-03 gets its first concrete casualty (caught 08-05)
 

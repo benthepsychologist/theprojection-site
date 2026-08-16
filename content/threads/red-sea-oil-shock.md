@@ -3,7 +3,7 @@ title: Red Sea Shock
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-14
+last_seen: 2026-08-15
 weight: 3
 entities: []
 thread_kind: story
@@ -30,6 +30,36 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   policy. This is the capital-markets and risk-underwriting read of the war, deliberately
   distinct from the conflict itself.'
 ---
+
+## 2026-08-15 — Brent snaps its slide, closing the week +5% on an "indefinite" blockade warning; a shipping-map deal doesn't give the market the clarity it needs
+
+- **Brent closed Friday at $88.52/bbl and WTI at $82.40, both up more
+  than 5% for the week — reversing the decline this thread logged 08-13
+  — after the US said its naval blockade of Iranian ports could continue
+  "indefinitely," reigniting the same headline-risk channel that had
+  gone quiet for several sessions, compounded by Bessent's 08-13/14
+  warning of Iran "economic isolation... never before seen."** Futures
+  are shut over the weekend, so this is the last tradeable print into
+  Monday.
+  ([CNBC](https://www.cnbc.com/2026/08/14/oil-prices-today-brent-wti-hormuz.html))
+- **Iran and Oman announced a "shipping map" agreement for Hormuz vessel
+  routing Saturday, but it settles neither the fee structure nor the
+  security arrangement the market actually needs to reprice risk — full
+  diplomatic account on [Iran's Widening War](/threads/iran-conflict-widening/).** The lack of resolved
+  terms is itself the market-relevant fact: the deal firmed up over the
+  weekend without producing the kind of clean reopening signal that has
+  moved price on past occasions (see 08-05, 08-06).
+  ([Fortune, citing Bloomberg](https://fortune.com/2026/08/15/iran-oman-hormuz-strait-deal-shipping-map-routes-attacks/))
+- **Physical risk kept building underneath the diplomacy: a third
+  ADNOC-operated tanker was hit transiting Hormuz Friday evening and a
+  bulk carrier took an unknown-projectile strike Saturday (UKMTO),
+  pushing the running tally to roughly 65 shipping incidents and 17
+  seafarer deaths since the war began.** Both incidents came with no
+  injuries and no confirmed damage assessment yet — continuing the
+  pattern this thread has logged all week of attacks landing without a
+  matching price spike of their own; this week's move traced to the
+  blockade/sanctions rhetoric above, not to the incidents themselves.
+  ([CNBC](https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html))
 
 ## 2026-08-13 — Iran rejects Trump's "total control" claim; oil falls anyway on OPEC's demand-cut and a big inventory build
 

@@ -3,7 +3,7 @@ title: PIF Bets Out of Concrete, Into Compute
 lens: global-capital
 status: open
 opened: 2026-08-04
-last_seen: 2026-08-04
+last_seen: 2026-08-15
 weight: 3
 entities:
 - pif
@@ -21,6 +21,23 @@ blurb: Whether the NEOM/The Line capital retreat (halted past 2030, only ~1.4% o
   crawl's larger ~$21-23B HUMAIN deal-book tally (AMD $10B, AWS ~$5.3B, xAI $3B, AirTrunk
   ~$3B).
 ---
+
+## 2026-08-15 — Oxagon's AI-data-center pivot gets a construction timeline
+
+- **NEOM's Oxagon zone — the site the 08-04 entry below flagged as
+  "reportedly re-pivoting toward data centers" — now has a concrete
+  build timeline: developer DataVolt told AGBI (08-05) it expects to
+  break ground on the 1.5GW Oxagon AI data-center campus within two to
+  three months, funded by an initial $5B DataVolt investment, with
+  project financing expected within six months and operations targeted
+  for 2028.** The DataVolt/NEOM agreement itself is not new (signed
+  Feb 2025), but the construction timeline is the first concrete
+  progress marker since this thread opened — direct evidence the
+  capital retreat from "The Line" is in fact re-landing as AI
+  infrastructure spend, the exact question this thread's watch line
+  asks. DataVolt declined to disclose first-phase capacity, customer
+  identities, or contract values.
+  ([AGBI](https://www.agbi.com/tech/2026/08/neom-to-start-constructing-oxagon-ai-data-centre-in-months/))
 
 ## 2026-08-04 — Opening the thread: the giga-project-to-AI capital pivot, and the deal book behind the board's four named positions
 

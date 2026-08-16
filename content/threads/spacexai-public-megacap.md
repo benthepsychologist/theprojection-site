@@ -3,7 +3,7 @@ title: Musk Megacap
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-07
+last_seen: 2026-08-15
 weight: 1
 entities:
 - spacex
@@ -19,6 +19,25 @@ blurb: 'SpaceX (Nasdaq: SPCX) — the public parent holding xAI + X (crawl 2026-
   Watch: the Aug-6 lock-up (911.5M shares); Musk''s ~82% voting control; whether the
   Anthropic lease-back is real revenue or circular financing. Q7 material.'
 ---
+
+## 2026-08-15 — First public earnings beat expectations; the lock-up that was supposed to crash the stock triggers a short squeeze instead
+
+- **SpaceX (SPCX) reported its first-ever quarterly earnings as a public
+  company: $7.81B revenue (+92% YoY, beating the ~$6.81B estimate),
+  Starlink subscribers doubled to 12M, adjusted EBITDA up 191% to $3.5B,
+  and net loss narrowed to $541M from $1.01B a year earlier.** The first
+  real test of what the public market pays for the SpaceX story once
+  actual financials, not just the IPO print, were on the table.
+  ([Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/spacex-q2-2026-earnings-revenue-205130498.html))
+- **SPCX closed above its $135 IPO price for the first time in weeks on
+  08-10, up roughly 35% since 08-05 — the 911.5M-share lock-up
+  expiration on 08-06 that Wall Street expected to crash the stock
+  instead triggered a short squeeze.** Reverses this thread's own 07-30
+  entry (stock ~15% under issue, short interest ~35% of float) within a
+  two-week window — the "does the public market believe this story"
+  question this thread exists to track swung hard in one direction, then
+  the other.
+  ([CNBC](https://www.cnbc.com/2026/08/10/spacex-spcx-stock-ipo-price.html), [24/7 Wall St.](https://247wallst.com/investing/2026/08/11/wall-street-worried-spacex-shares-would-crash-friday-theyre-up-21-ever-since/))
 
 ## 2026-08-11 — A Change-in-Control clause could let a SpaceX-Tesla merger bypass Musk's pay-package milestones entirely
 

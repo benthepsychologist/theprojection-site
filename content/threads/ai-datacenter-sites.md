@@ -3,7 +3,7 @@ title: Datacenter Sites
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-10
+last_seen: 2026-08-15
 weight: 3
 entities:
 - openai
@@ -16,6 +16,25 @@ blurb: Where the capex lands in CONCRETE — the specific gigawatt campuses. Sta
   Colossus, Camellia + the 100s of sites. Category meta under where-the-capex-lands;
   the specific-sites worklist lives here.
 ---
+
+## 2026-08-15 — Vantage's $25B Texas "Frontier" campus clears the audit gate
+
+- **Vantage Data Centers, alongside Core Scientific and SB Energy,
+  committed to comply with Governor Abbott's data-center standards**
+  (self-funded electric infrastructure, own-water reuse, no cost-shift
+  to ratepayers, no disruption to residential neighborhoods, no reliance
+  on taxpayer incentives) — clearing the PUCT/ERCOT audit gate this
+  thread logged 08-03. Vantage's named stake is Frontier, its
+  1.4GW/$25B, 10-building campus in Shackelford County, TX, already
+  under construction with first-building delivery slated for H2 2026 —
+  the largest specific site this thread has to test the gate against.
+  ([Texas Governor's Office](https://gov.texas.gov/news/post/governor-abbott-announces-core-scientific-vantage-data-centers-and-sb-energy-commit-to-comply-with-his-data-center-standards))
+- 💡 **First compliance case to sit next to the first withdrawal:** the
+  08-04 entry below (AWS's Lusby, MD withdrawal) was this thread's only
+  data point on what the Texas gate does to a named site — a project
+  ending rather than complying. This is the other outcome: a
+  multi-billion-dollar campus clearing the same gate. Full framing on
+  [Where the Capex Lands](/threads/where-the-capex-lands/).
 
 ## 2026-08-10 — Sovereign capital joins Anthropic's buildout directly
 
