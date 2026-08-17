@@ -3,7 +3,7 @@ title: Stargate
 lens: ai
 status: developing
 opened: 2026-06-28
-last_seen: 2026-07-30
+last_seen: 2026-08-17
 weight: 2
 entities:
 - openai
@@ -17,6 +17,22 @@ blurb: ~$500B / ~10 GW joint venture (OpenAI/SoftBank/Oracle/MGX); ~7 GW + >$400
   via "OpenAI for Countries" (UAE live 2026; UK/Norway/Argentina/South Korea). Track
   sites actually energized, financing/grid bottlenecks, sovereign terms, and slippage.
 ---
+
+## 2026-08-17 — The Ohio backstop talks become a signed deal: OpenAI named customer for the full 8 IT-GW
+
+- **Nvidia, OpenAI and SoftBank's SB Energy jointly announced the
+  signed PORTS-Pike Technology Campus deal in Pike County, Ohio** —
+  the same Piketon site this thread logged as an early-stage backstop
+  discussion on 07-27, now a completed agreement. **OpenAI is named
+  the customer for the site's full 8 IT-GW of capacity** and will
+  utilise it; the campus runs Nvidia's full-stack DSX AI factory
+  platform. Nvidia provides credit support on land, power and shell
+  buildout to secure an initial 4.25 IT-GW, with an option on the
+  remaining 3.75 IT-GW.
+  ([NVIDIA](https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute), [OpenAI](https://openai.com/index/openai-joins-ports-pike-project))
+- ⚠️ **The release prints no dollar figure for the guarantee itself**
+  — the "under $120B" number in wide circulation is WSJ's, well
+  corroborated in press but not company-confirmed.
 
 ## 2026-07-27 — Nvidia in talks to backstop up to $500B for a 10GW Ohio megasite
 

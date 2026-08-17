@@ -3,7 +3,7 @@ title: The Great Rotation
 lens: global-capital
 status: open
 opened: 2026-07-29
-last_seen: 2026-08-08
+last_seen: 2026-08-17
 weight: 2
 entities: []
 thread_kind: story
@@ -17,6 +17,18 @@ blurb: 'Analysts (Morgan Stanley, UBS, Forrester) are calling an explicit alloca
   policy) and from AI Bear Turn (the broader AI-stock drawdown) — this is specifically
   the reallocation call between the two cohorts.'
 ---
+
+## 2026-08-17 — Memory-chip rally extends into Monday premarket on no new catalyst
+
+- **Micron, SanDisk, Western Digital and Seagate rose 2-6% in Monday
+  premarket trading, with Micron approaching $1,000/share after roughly
+  13% gains over five sessions.** Drivers are pre-window: SanDisk's
+  08-13 investor day (targeting 80% non-GAAP gross margins by FY2030,
+  ~$94B in disclosed long-term contracts) and the standing AI-driven
+  DRAM/HBM tightness this thread has tracked since the rotation debate
+  opened. No new Monday catalyst was identified — this reads as
+  momentum on drivers already priced, not a fresh repricing.
+  ([TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/262112010-us-pre-market-memory-chip-stocks-rose-mu-3-sndk-5-wdc-3-tradingkey))
 
 ## 2026-08-08 — The scare that triggered the rotation debate starts unwinding
 

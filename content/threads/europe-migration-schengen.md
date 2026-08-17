@@ -3,7 +3,7 @@ title: Europe Migration & Schengen
 lens: world-news
 status: open
 opened: 2026-08-04
-last_seen: 2026-08-15
+last_seen: 2026-08-16
 weight: 2
 entities: []
 thread_kind: story
@@ -21,6 +21,25 @@ blurb: 'The policy fight the Ceuta mass-crossing set off, offered as a thread ca
   triggered rather than threatened, what the October summit is being set up to decide,
   and whether a Morocco-returns arrangement materialises.'
 ---
+
+## 2026-08-16 — Morocco breaks up a second attempted mass crossing into Ceuta; Spain surges ~1,600 officers as the original death toll diverges sharply across outlets
+
+- **Moroccan security forces broke up a second attempted mass crossing
+  into Ceuta near Fnideq on Saturday (08-15, a Spanish public
+  holiday), after social-media calls circulated urging a repeat of the
+  late-July mass crossing; 294 were detained, 248 of them sub-Saharan
+  African migrants.** Spain has surged roughly 1,600 National Police
+  and Civil Guard officers into the enclave.
+  ([Euronews](https://www.euronews.com/my-europe/2026/08/16/morocco-prevents-new-attempts-to-cross-into-ceuta-army-says))
+- **The casualty count for the original crisis remains unresolved
+  across outlets: this thread has carried a toll of 72 since it
+  opened, while NPR's 08-16 investigative piece cites "more than 140"
+  dead per humanitarian groups and "over 70,000" crossings in the week
+  of July 27 — materially higher than the "thousands stranded"
+  reported at the time.** No outlet checked here resolves the gap
+  between the two figures; both are recorded as attributed claims, not
+  averaged or reconciled.
+  (NPR)
 
 ## 2026-08-08 — The gap between threat and mechanism closes: Spain imposes its own reciprocal border checks on Italy
 

@@ -3,7 +3,7 @@ title: Iran's Widening War
 lens: world-news
 status: open
 opened: 2026-07-23
-last_seen: 2026-08-15
+last_seen: 2026-08-17
 weight: 3
 entities: []
 thread_kind: story
@@ -45,6 +45,22 @@ blurb: '⚠️ ORIGIN CORRECTED 2026-08-02 — READ THIS FIRST. This thread spen
   with Netanyahu''s office framing it as pressure ahead of September talks. Track
   this alongside Hormuz/Gulf as a distinct front, not folded into it.'
 ---
+
+## 2026-08-17 — The 60-day US–Iran memorandum expires with no deal, confirming a collapse already underway since July
+
+- **The 60-day US–Iran memorandum of understanding expired Monday with
+  no deal.** The June 17 Versailles MoU ran to 14 points: an immediate
+  multi-front ceasefire covering Lebanon and Gaza, Iranian mine-clearing
+  and safe passage through Hormuz, and in exchange a US pledge to end
+  its naval blockade, lift sanctions and fund a $300B reconstruction
+  package. It had been effectively void since Trump declared it "over"
+  on July 7, after a June 25 tanker strike and June 27 US retaliation.
+  Iranian Foreign Ministry spokesman Esmail Baghaei said no talks were
+  ever initiated, citing the US's "gross and widespread violation." The
+  deadline passing confirms a collapse already underway rather than
+  causing a new one — worth logging precisely because it reads like
+  news.
+  ([Al Jazeera](https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart))
 
 ## 2026-08-15 — Iran and Oman agree a Hormuz "shipping map" but rule out US talks; a third ADNOC tanker and a bulk carrier are hit; Israeli strikes kill 11 in Lebanon
 

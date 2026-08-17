@@ -3,7 +3,7 @@ title: Russia-Ukraine War
 lens: world-news
 status: open
 opened: 2026-07-31
-last_seen: 2026-08-15
+last_seen: 2026-08-16
 weight: 3
 entities: []
 thread_kind: story
@@ -20,6 +20,33 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   sibling thread the same way Iran''s Widening War / Red Sea Shock did, if and when
   that read becomes substantial enough to carry on its own.'
 ---
+
+## 2026-08-16 — Ukraine's ~600-drone barrage hits Moscow Oblast's Wildberries logistics hubs; Russia's return strike kills 7; a Ukrainian strike on Belgorod kills 6
+
+- **Ukraine launched roughly 600 drones at Moscow Oblast in one of the
+  war's largest single attacks, killing an 83-year-old man and
+  injuring several as Wildberries logistics warehouses burned at
+  Podolsk, Chekhov and Domodedovo.** Ukraine reportedly disabled seven
+  of the ten largest logistics centres belonging to Wildberries,
+  Russia's dominant e-commerce retailer — making this an
+  economic-infrastructure strike rather than a purely military one.
+  Russia's Defence Ministry claimed 822 drones downed nationwide, an
+  unverified Russian figure.
+  ([Kyiv Independent](https://kyivindependent.com/russian-attacks-across-ukraine-kill-at-least-7-injure-51/))
+- **Russia's return barrage killed at least seven across Ukraine and
+  injured 51, setting Kyiv's historic book market ablaze (3 injured)
+  and hitting an Odesa postal facility (4 injured).** The same night, a
+  Spanish F-18 flying NATO air-policing duty shot down a suspected
+  Russian drone that crossed into Romanian airspace near the Moldovan
+  border — the fourth such NATO shootdown over Romania in this war.
+  ([Kyiv Independent](https://kyivindependent.com/russian-attacks-across-ukraine-kill-at-least-7-injure-51/))
+- **A Ukrainian strike on Koloskovo, a village in Russia's Belgorod
+  region roughly 15km from the border, killed at least six people —
+  including a 14-year-old — and wounded four, per acting regional
+  governor Alexander Shuvaev.** Reported around 04:00 ET Monday, an
+  unusually high civilian toll for a single Ukrainian strike inside
+  Russia.
+  ([Al Jazeera](https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod))
 
 ## 2026-08-15 — Ukraine strikes a MiG-31K/Kinzhal airbase deep inside Russia; overnight drone barrage kills an infant in the just-recaptured south
 

@@ -3,7 +3,7 @@ title: Circular Financing
 lens: ai
 status: developing
 opened: 2026-06-28
-last_seen: 2026-08-15
+last_seen: 2026-08-17
 weight: 3
 entities:
 - nvidia
@@ -24,6 +24,28 @@ blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops wh
   in talks down to under $120B, phase-1 only (08-15). Track whether other lenders
   follow Nvidia''s retreat.'
 ---
+
+## 2026-08-17 — The Ohio guarantee is signed; the number it's actually worth is still the one thing missing
+
+- **Nvidia, OpenAI and SoftBank's SB Energy signed the PORTS-Pike
+  Technology Campus deal (Pike County, Ohio)** — the guarantee this
+  thread logged shrinking from $250B to under $120B on 08-15 is now a
+  completed agreement, structured as an initial 4.25 IT-GW tranche
+  under Nvidia's credit support with an option on a further 3.75
+  IT-GW, matching the "narrowed to the first phase" framing WSJ
+  reported two days earlier. OpenAI is named customer for the site's
+  full 8 IT-GW. **The release itself prints no dollar figure for the
+  guarantee** — every other number in the deal is stated (10GW of new
+  generation, $4.2B into the grid, a separate $1.5B Nvidia equity
+  stake in SB Energy, $40M added to the community fund) except the
+  one this thread most wants.
+  ([NVIDIA](https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute), [OpenAI](https://openai.com/index/openai-joins-ports-pike-project))
+- **The $1.5B is a separate instrument from the guarantee — Nvidia
+  taking direct equity in SB Energy, the entity building its
+  customer's own site** — correcting weekend reports of "up to $3B,"
+  which described pre-announcement talks; another turn of the vendor
+  financing its own demand, this time by taking a stake in the
+  landlord rather than the customer.
 
 ## 2026-08-15 — Nvidia halves the Ohio guarantee under investor pressure; Michael Burry escalates his short
 

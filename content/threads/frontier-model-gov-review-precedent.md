@@ -3,7 +3,7 @@ title: Frontier Gatekeeping
 lens: ai
 status: open
 opened: 2026-07-22
-last_seen: 2026-08-04
+last_seen: 2026-08-16
 weight: 3
 entities:
 - openai
@@ -20,6 +20,20 @@ blurb: 'The gpt-5.6 gating dynamic made permanent — and it''s all one buildout
   is named (SRO?); Meta''s exclusion made official; CAISI leadership (3 directors
   in a year — can it run classified review?); the first model actually gated.'
 ---
+
+## 2026-08-16 — The framework this thread tracks assumes labs keep the evaluation capacity OpenAI just cut
+
+- **The Financial Times reported OpenAI dissolved its Preparedness
+  team — the unit evaluating catastrophic cyber, bio and
+  loss-of-control risk — at the end of July 2026**, the third
+  dedicated OpenAI safety unit dissolved in roughly two years (AGI
+  Readiness in 2024, Mission Alignment in February 2026); OpenAI
+  called it "streamlining" ahead of its IPO. The still-unpublished EO
+  14409 §3(b) pre-release review framework this thread tracks
+  presumes labs run their own internal catastrophic-risk evaluation
+  before any government review engages — Preparedness was that
+  capacity at OpenAI, and it no longer exists as a dedicated team.
+  (originating report: Financial Times, paywalled; [Engadget](https://www.engadget.com/2237916/openai-reportedly-disbanded-its-preparedness-team-as-part-of-streamlining-process/))
 
 ## 2026-08-04 — The White House tells the labs it has no plans to ever publish the framework
 

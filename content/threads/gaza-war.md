@@ -3,7 +3,7 @@ title: Gaza War
 lens: world-news
 status: open
 opened: 2026-08-01
-last_seen: 2026-08-15
+last_seen: 2026-08-16
 weight: 3
 entities: []
 thread_kind: story
@@ -37,6 +37,23 @@ blurb: 'Opened on Ben''s steer 2026-08-01, after a disarmament framework announc
   Ministry range as broadly accurate. Both the inflation and the undercount framings
   still circulate; report both, resolve neither.'
 ---
+
+## 2026-08-16 — Eight Arab/Muslim-majority states blame Israel for thwarting the peace plan as strikes kill two and a Hamas delegation reaches Cairo
+
+- **Foreign ministers of eight Arab and Muslim-majority states —
+  Turkey, Egypt, Indonesia, Jordan, Pakistan, Qatar, Saudi Arabia and
+  the UAE — issued a joint statement saying Israel "bears
+  responsibility for disrupting peace efforts,"** calling Netanyahu's
+  prior-week rejection of the Gaza Road Map and of Palestinian
+  statehood "a direct repudiation" of Trump's plan.
+  ([Times of Israel liveblog](https://www.timesofisrael.com/liveblog_entry/egypt-jordan-uae-qatar-turkey-others-blame-israel-for-thwarting-gaza-peace-plan/))
+- **The same day, Israeli strikes on an Islamic Jihad target in Khan
+  Younis and a Hamas target in Nuseirat killed two and wounded several
+  sheltering in tents, while a Hamas delegation led by Khalil al-Hayya
+  arrived in Egypt ahead of Kushner's Cairo meetings with Egyptian,
+  Qatari and Turkish mediators.** Condemnation, strikes and shuttle
+  diplomacy inside one day.
+  (CNBC)
 
 ## 2026-08-15 — Two ceasefire violations logged inside 24 hours; the Qusra siege turns on a repair crew
 

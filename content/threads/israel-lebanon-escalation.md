@@ -3,7 +3,7 @@ title: Israel–Lebanon
 lens: world-news
 status: open
 opened: 2026-08-07
-last_seen: 2026-08-15
+last_seen: 2026-08-16
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,24 @@ blurb: 'The Israel–Hezbollah front turning hot while its diplomacy stalls: dea
   theatre from iran-conflict-widening (cross-referenced, not merged). Watch: whether
   the talks track survives, and whether strikes escalate past the current tempo.'
 ---
+
+## 2026-08-16 — Israel names a second Hezbollah commander killed Saturday, reframing the strikes as a targeted decapitation; an eighth Rome round is provisionally set for September 1
+
+- **Israel identified Abu Hassan Alaa, a commander in Hezbollah's Badr
+  unit, among those killed in Saturday's strikes on Ansar and
+  Deir al-Zahrani, with Defense Minister Israel Katz vowing "no score
+  will be left unsettled in any arena."** The naming reframes southern
+  Lebanon's deadliest day since the ceasefire — at least 11 dead,
+  logged here 08-15 — as a targeted decapitation strike rather than the
+  mis-strike Israel initially described.
+  ([Al Arabiya](https://english.alarabiya.net/News/middle-east/2026/08/16/israel-vows-to-go-after-hezbollah-as-it-names-another-killed-4))
+- **Despite the escalation, the talks track survived: a Lebanese
+  official told Qatar's news agency that an eighth round of
+  Israel–Lebanon negotiations is provisionally set for September 1 in
+  Rome, after the seventh round ended 08-06 with little resolved.**
+  Escalation and diplomacy are running in parallel here rather than one
+  displacing the other.
+  (L'Orient Today)
 
 ## 2026-08-15 — Israeli strikes kill 11 in Lebanon's deadliest day since the ceasefire, after a Hezbollah drone wounds three IDF soldiers; Israel shells the besieged Ali al-Taher ridge
 
