@@ -1,4 +1,6 @@
 ---
 title: UnitedHealth Group / Optum
-board_kind: org
+entity_kind: org
+lenses:
+- mental-health
 ---

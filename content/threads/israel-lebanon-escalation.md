@@ -3,7 +3,7 @@ title: Israel–Lebanon
 lens: world-news
 status: open
 opened: 2026-08-07
-last_seen: 2026-08-16
+last_seen: 2026-08-17
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,28 @@ blurb: 'The Israel–Hezbollah front turning hot while its diplomacy stalls: dea
   theatre from iran-conflict-widening (cross-referenced, not merged). Watch: whether
   the talks track survives, and whether strikes escalate past the current tempo.'
 ---
+
+## 2026-08-17 — Aoun breaks with Hezbollah and asks for direct talks
+
+- **Lebanon's president publicly broke with Hezbollah and called for
+  direct negotiations with Israel.** In a video conference with
+  European Commission President Ursula von der Leyen and European
+  Council President António Costa — joined by Egypt's Sisi and Iraq's
+  Sudani — President Joseph Aoun set out four points: a comprehensive
+  ceasefire, immediate logistical support for the Lebanese army, full
+  Hezbollah disarmament, and direct Lebanon–Israel talks under
+  international auspices. He accused Hezbollah of pushing Lebanon
+  toward collapse in the service of Iran's interests. From a Lebanese
+  head of state, on the record, to European leaders, this is a sharp
+  departure from Beirut's prior line and the most substantive movement
+  on this thread in weeks.
+  ([Reuters via Yahoo](https://www.yahoo.com/news/articles/lebanon-proposes-direct-negotiations-israel-165843732.html))
+- **⚠️ One widely-recirculating claim is excluded as stale:** a report
+  of Israeli strikes on "120 targets in one hour" traces to a 2024
+  event resurfaced by search aggregation, not to today. No new Israeli
+  strikes on Lebanon were confirmed today; the weekend flare-up (11
+  killed Saturday, Hezbollah commander Abu Hassan Alaa killed) is
+  already-known context.
 
 ## 2026-08-16 — Israel names a second Hezbollah commander killed Saturday, reframing the strikes as a targeted decapitation; an eighth Rome round is provisionally set for September 1
 
