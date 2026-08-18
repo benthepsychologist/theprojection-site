@@ -1,0 +1,24 @@
+{{/* story-by-thread.html — thread slug -> its stories, sorted oldest-first,
+     built ONCE per build. Backs the story page's "position in thread"
+     strip (Ben, 2026-08-18: "where it sits on its thread").
+
+     WHY THIS EXISTS RATHER THAN A `where` CALL ON THE STORY PAGE: the
+     first version did `sort (where site.Data.stories "thread" .thread)
+     "date"` directly in story/single.html — an O(n) linear scan of all
+     655 stories, run once per story page, so O(n²) site-wide. Confirmed
+     this measurably slowed the build (12+ min against this repo's normal
+     ~2 min) before being caught and fixed here, the same class of bug
+     story-index.html's own docstring already documents and solved for
+     story-link.html's url lookups — one grouping pass here instead of
+     655 linear scans. */}}
+
+{{ $byThread := dict }}
+{{ range site.Data.stories }}
+  {{ $cur := index $byThread .thread | default slice }}
+  {{ $byThread = merge $byThread (dict .thread ($cur | append .)) }}
+{{ end }}
+{{ $sorted := dict }}
+{{ range $slug, $list := $byThread }}
+  {{ $sorted = merge $sorted (dict $slug (sort $list "date")) }}
+{{ end }}
+{{ return $sorted }}

@@ -647,6 +647,24 @@ details.quiet summary{ cursor:pointer; color:var(--ink-faint); font-size:.85rem;
 .qrow .dash{ color:var(--ink-faint); }
 .qrow a{ color:var(--ink); }
 
+/* Story-page thread position (Ben, 2026-08-18: "I'm not seeing a thread
+   map on these pages... where it sits on its thread"). A tick per story
+   on the same thread, oldest to newest, current one filled and larger.
+   Deliberately not a full graph — a sparkline reads at a glance where a
+   force-directed map would need its own explainer. */
+.timeline-position-label{ margin:1.1rem 0 .3rem; }
+.timeline-position{ display:flex; align-items:center; gap:.35rem; padding:.5rem 0 .3rem; position:relative; }
+.timeline-position::before{ content:""; position:absolute; left:4px; right:4px; top:50%; height:1px; background:var(--rule); z-index:0; }
+.tp-tick{
+  position:relative; z-index:1; width:8px; height:8px; border-radius:50%;
+  background:var(--paper); border:1px solid var(--ink-faint); flex:0 0 auto; display:inline-block;
+}
+a.tp-tick:hover{ border-color:var(--ink); background:var(--paper-dim); }
+.tp-tick.tp-on{ width:13px; height:13px; background:var(--ink); border-color:var(--ink); }
+
+.adjacent-threads{ margin-top:1.3rem; }
+.adjacent-threads > .small{ margin-bottom:.2rem; }
+
 .entity-cloud{ display:flex; flex-wrap:wrap; gap:.4rem; }
 
 .copy-chat-btn{

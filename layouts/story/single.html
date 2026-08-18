@@ -122,6 +122,75 @@
     This event sits inside <a href="/threads/{{ .thread }}/">{{ .thread_title }}</a>,
     which carries how it developed before and since.
   </p>
+
+  {{/* THREAD POSITION + ADJACENT THREADS (Ben, 2026-08-18, on landing on
+       this exact page: "I'm not seeing a thread map on these pages. Would
+       love to see a stories thread placement visually, where it sits on
+       its thread and adjacent threads.")
+
+       Both computable from data already published — no adapter change.
+       Position: every other story on this same thread (site.Data.stories
+       filtered + sorted by date), this one marked. Adjacent: the parent
+       thread (if any) plus sibling threads sharing an entity — the exact
+       "Related threads (shared entities)" logic _default/single.html
+       already runs for a THREAD page (see that file), ported here so a
+       STORY page — the more common landing point per the 2026-08-11 story
+       page design note above — gets it too. */}}
+  {{ $p := site.Data.payload }}
+  {{ $thread := index (where $p.threads "slug" .thread) 0 }}
+
+  {{ $selfID := .id }}
+  {{ $byThread := partialCached "story-by-thread.html" "story-by-thread" "story-by-thread" }}
+  {{ $siblingStories := index $byThread .thread }}
+  {{ if gt (len $siblingStories) 1 }}
+    {{ $pos := 0 }}
+    {{ range $i, $st := $siblingStories }}{{ if eq $st.id $selfID }}{{ $pos = add $i 1 }}{{ end }}{{ end }}
+    <p class="small muted timeline-position-label">Story {{ $pos }} of {{ len $siblingStories }} in this thread's timeline, oldest to newest</p>
+    <div class="timeline-position" aria-hidden="true">
+      {{ range $siblingStories }}
+        {{ if eq .id $selfID }}
+        <span class="tp-tick tp-on" title="{{ .date }} — this story"></span>
+        {{ else }}
+        <a class="tp-tick" href="/story/{{ .id }}/" title="{{ .date }} — {{ .headline }}"></a>
+        {{ end }}
+      {{ end }}
+    </div>
+  {{ end }}
+
+  {{ with $thread }}
+    {{ with .parent }}
+      {{ $pt := index (where $p.threads "slug" .) 0 }}
+      {{ if $pt }}<p class="breadcrumb">part of <a href="/threads/{{ . }}/">{{ $pt.title }}</a></p>{{ end }}
+    {{ end }}
+
+    {{ $curSlug := .slug }}
+    {{ $curParent := .parent }}
+    {{ $curEnts := .entities | default slice }}
+    {{ $sibs := slice }}
+    {{ range $p.threads }}
+      {{/* Exclude the current thread AND its parent — the parent already
+           has its own breadcrumb line just above; repeating it in this
+           list (which happens whenever the parent shares an entity, as a
+           parent-child pair on the same actor always does) reads as the
+           page contradicting its own breadcrumb rather than adding
+           information. */}}
+      {{ if and (ne .slug $curSlug) (ne .slug $curParent) }}
+        {{ $shared := false }}
+        {{ range .entities }}{{ if in $curEnts . }}{{ $shared = true }}{{ end }}{{ end }}
+        {{ if $shared }}{{ $sibs = $sibs | append . }}{{ end }}
+      {{ end }}
+    {{ end }}
+    {{ if $sibs }}
+    <div class="adjacent-threads">
+      <p class="small muted">Adjacent threads (shared entities):</p>
+      {{ range $sibs }}
+      <div class="qrow"><span class="dash">·</span>
+        <span><a href="/threads/{{ .slug }}/">{{ .title }}</a></span>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+  {{ end }}
 </div>
 {{ else }}
 <div class="thread-header"><h1>Story not found</h1>
