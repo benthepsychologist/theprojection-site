@@ -3,7 +3,7 @@ title: Compute Spend
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-06
+last_seen: 2026-08-18
 weight: 3
 entities:
 - nvidia
@@ -17,6 +17,10 @@ blurb: Where the capex lands in SILICON — the $ flowing to Nvidia/AMD/TSMC/ Br
   plus the custom-silicon revolt (Jalapeño, Trainium, Maia, TPU) as the giants try
   to stop renting from Nvidia. Category meta under where-the-capex-lands.
 ---
+
+## 2026-08-07 — SK hynix approves $38.1B for two new AI-memory fabs
+
+- **SK hynix's board approved 54 trillion won (~$38.1B) for two new AI-memory fabs** — 35.2 trillion won for "Y2" (DRAM, Yongin, cleanroom opening June 2029) and 19.1 trillion won for "M17" (NAND, Cheongju, cleanroom December 2028) — explicitly framed as securing mid-to-long-term production capacity for AI memory demand, directly on this thread's own watch line ("$ flowing to Nvidia/AMD/TSMC/Broadcom"). ([SK hynix Newsroom](https://news.skhynix.com/en/fab-facility-investment-2026/))
 
 ## 2026-08-04 — AMD's Q2 print: data-center revenue more than doubles, stock falls anyway
 

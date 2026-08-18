@@ -3,7 +3,7 @@ title: Genesis Mission
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-04
+last_seen: 2026-08-18
 weight: 2
 entities: []
 thread_kind: story
@@ -13,6 +13,10 @@ blurb: 'The $5B+ cross-agency AI overlay (DOE-led; spans NSF/NIH/DoD/NASA — $5
   actual program document. Track: the authorizing instrument, per-agency allocations,
   and whether it becomes the umbrella for nuclear-for-AI money.'
 ---
+
+## 2026-08-07 — DOE launches Genesis Open Models with Arcee AI
+
+- **DOE launched the Genesis Open Models initiative with Arcee AI** — the government's first open-weight AI model program for science, first model named Genesis-Science-1. Applications for the pretraining contribution window closed 08-14; fine-tuning window closes 08-25. ([DOE](https://www.energy.gov/undersecretaryforscience/articles/us-department-energy-launches-genesis-open-models-initiative))
 
 ## 2026-08-04 — NIST joins as a new agency; a second nuclear-AI awardee discloses its project
 

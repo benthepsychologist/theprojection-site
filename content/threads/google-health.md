@@ -3,7 +3,7 @@ title: Google Health
 lens: mental-health
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-05
+last_seen: 2026-08-18
 weight: 2
 entities:
 - google
@@ -14,6 +14,11 @@ blurb: Google mid-pivot — Verily spun OUT to independence (not wound down); en
   footprint is mostly defensive (Gemini suicide/self-harm safeguards after wrongful-death
   suits); genuine behavioral-health capability is upstream in research, not shipped.
 ---
+
+## 2026-08-11 — Two new items: AMIE clinical-consultation research, and an Abbott glucose-data partnership
+
+- **Google published new AMIE research showing expert-level real-time clinical video consultations** — a randomized study (100 scenarios, 300 live consultations, 30 board-certified PCPs) where the Gemini/Project Astra-based AMIE system read non-verbal cues and guided virtual physical exams in real time, rated favorably against physicians on history-taking, diagnostic accuracy, and communication. Still research, not a shipped product. ([Google Research blog](https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/))
+- **Abbott and Google Health announced a multi-year partnership to fold Lingo continuous-glucose-monitor data into the Google Health app**, feeding the Gemini-powered Health Coach; the companies also plan a joint study on future AI coaching features. Rollout described as "later this year." ([Abbott](https://abbott.mediaroom.com/2026-08-11-Abbott-and-Google-launch-first-of-its-kind-partnership-to-transform-everyday-health-through-glucose-insights-and-AI))
 
 ## 2026-08-05 — First genuinely MH-native Google Health move: psychiatric relapse prediction
 

@@ -3,7 +3,7 @@ title: TSMC Capacity Race
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-11
+last_seen: 2026-08-18
 weight: 3
 entities:
 - tsmc
@@ -17,6 +17,10 @@ blurb: 'The chokepoint is cashing in: capex raised 15% to $60-64B + another $100
   ban, 07-21). "Nvidia overtook Apple as top customer" is contested, not settled.
   Our ~90% advanced-node anchor is carried, not re-verified. Next: Q3 earnings.'
 ---
+
+## 2026-08-17 — TSMC's overseas fabs turn real money: Arizona +663% YoY, Japan's Kumamoto profitable for the first time
+
+- **TSMC's four overseas subsidiaries earned a combined NT$58.5B in H1 2026 (+215% YoY).** Arizona alone contributed NT$36.1B (+663% YoY, ~$1.1B, ~2.4% of TSMC's total net profit), though Q2 alone moderated to NT$17.3B (-8.2% QoQ) as depreciation from new construction bites. **Japan's Kumamoto (JASM) fab turned profitable for the first time in 2026** (NT$951M Q1, NT$727M Q2) after 2025 losses — notable given this thread's prior entries on that fab's earthquake exposure. A risk flagged in the same coverage: the July Kumamoto quake's equipment requalification/calibration/wafer losses could weigh on JASM's Q3 numbers. ([TrendForce](https://www.trendforce.com/news/2026/08/17/news-tsmc-arizona-profit-soars-663-yoy-in-1h26-u-s-earnings-pull-back-8-2-qoq-in-2q-as-depreciation-bites/), TSMC SEC 6-K)
 
 ## 2026-08-11 — Board approves $29.4B more capex; a new Sony sensor JV lands alongside it
 

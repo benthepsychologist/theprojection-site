@@ -3,7 +3,7 @@ title: Datacenter Sites
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-15
+last_seen: 2026-08-18
 weight: 3
 entities:
 - openai
@@ -16,6 +16,10 @@ blurb: Where the capex lands in CONCRETE — the specific gigawatt campuses. Sta
   Colossus, Camellia + the 100s of sites. Category meta under where-the-capex-lands;
   the specific-sites worklist lives here.
 ---
+
+## 2026-08-17 — OpenAI's Ohio campus lease formally signed: 20 years, phased to 2032
+
+- **OpenAI signed a 20-year lease for the Piketon, OH data-center cluster (the former Portsmouth uranium site)** — initial 800MW of computing capacity targeted by 2028, full build-out running through 2032, projected at 35,000 construction jobs and 2,500 permanent maintenance roles. SB Energy (the SoftBank unit building it) is reportedly planning an IPO as early as next month at a valuation up to $50B. ([SiliconANGLE](https://siliconangle.com/2026/08/17/openai-leases-10-gigawatt-ai-data-center-campus-from-softbanks-sb-energy/))
 
 ## 2026-08-15 — Vantage's $25B Texas "Frontier" campus clears the audit gate
 
