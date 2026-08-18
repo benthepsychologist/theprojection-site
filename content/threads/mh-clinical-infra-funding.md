@@ -3,7 +3,7 @@ title: The Funding Shift
 lens: mental-health
 status: developing
 opened: 2026-06-28
-last_seen: 2026-08-17
+last_seen: 2026-08-18
 weight: 3
 entities:
 - spring-health

@@ -3,7 +3,7 @@ title: Meta Capex
 lens: ai
 status: developing
 opened: 2026-07-23
-last_seen: 2026-07-29
+last_seen: 2026-08-18
 weight: 2
 entities:
 - meta-ai
@@ -15,9 +15,54 @@ blurb: 'The week''s reversal: Meta QUIT RE100 amid a 7.5GW gas buildout (07-23/2
   ran a soft-demand-then-upsized-to-$12.5B arc in one week. MTIA at "millions" of
   H100-equivalents (600K figure is STALE), "Iris" to production Sept-26, Broadcom
   extended thru 2029. Superintelligence framing softening ("more slowly than expected");
-  Moody''s credit warning 07-24. OPEN DISCREPANCY: our $76B TTM basis vs the $135B/
-  $145B guidance figures that actually recur — resolve at earnings Wednesday 07-29.'
+  Moody''s credit warning 07-24. ✅ DISCREPANCY RESOLVED 2026-08-18 (cold rotation,
+  20 days late): the $76B TTM basis was WRONG and is retired. Meta''s own 07-29 filing
+  gives Q2 capex $31.08B and FY2026 guidance NARROWED to $130-145B (from $125-145B);
+  revenue $60.8B +28%, EPS $6.18 vs $7.17 est, shares -7-10% after hours. ADDENDUM
+  2026-08-18, larger than the guidance number: Meta carries a reported ~$420B of AI
+  obligations OFF the balance sheet against $83.7B of reported debt — future leases
+  incl. the $27.3B Beignet/Hyperion structure with Blue Owl, chip/equipment purchase
+  obligations, and the $35B CoreWeave commitment; five hyperscalers cited at ~$1.65T
+  combined. EY flagged Beignet as a critical audit matter Feb-2026. Read the guidance
+  as what Meta will SPEND, not what it has COMMITTED — track the gap.'
 ---
+
+## 2026-07-29 — The capex discrepancy is resolved, against this map's number
+
+*Logged 2026-08-18 by the cold rotation. This thread's own watch text had
+flagged the discrepancy for resolution "at earnings Wednesday 07-29."
+Earnings happened; nobody read them; the flag sat for three weeks.*
+
+- **Meta's Q2 2026 capex was $31.08B and full-year 2026 guidance narrowed
+  to $130–145B**, from a prior $125–145B range. Revenue $60.8B (+28%),
+  EPS **$6.18 against a $7.17 estimate**, shares down 7–10% after hours.
+  **The $76B TTM basis this map carried is stale and is retired** — the
+  $135B/$145B figures that kept recurring in coverage were the correct
+  ones.
+  ([Meta 8-K exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1326801/000162828026050596/meta-06302026xexhibit991.htm))
+
+## 2026-08-17 — ~$420B of AI obligations sit outside the balance sheet
+
+- **Meta reports $83.7B of on-balance-sheet debt and carries a reported
+  ~$420B of AI-related obligations outside it** — future lease
+  commitments including the **$27.3B Beignet/Hyperion structure with Blue
+  Owl**, chip and equipment purchase obligations, and the **$35B CoreWeave
+  commitment**. A wider cited analysis puts five hyperscalers (Alphabet,
+  Microsoft, Amazon, Meta, Oracle) at a combined **~$1.65 trillion** of
+  off-balance-sheet AI debt. **EY had already flagged the Beignet
+  structure as a critical audit matter in February 2026** — the structure
+  was known; the aggregate was not.
+- This is the sharpest available statement of the thread's own thesis —
+  capex migrating off the balance sheet — and it reframes the guidance
+  number above: **$130–145B is what Meta will report spending, not the
+  size of what it has committed.**
+- **Texas standards, and the El Paso exception:** Gov. Abbott announced
+  2026-08-10 that Meta agreed to comply with new Texas data-centre
+  standards, paying full grid and water infrastructure costs. It
+  explicitly does **not** resolve El Paso — the City Council was set to
+  send Abbott a formal letter on 2026-08-18 asking whether the statewide
+  standards apply to that project at all.
+
 
 ## 2026-07-30 — El Paso pushback gains an elected voice
 

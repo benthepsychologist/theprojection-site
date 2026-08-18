@@ -3,7 +3,7 @@ title: Iran's Widening War
 lens: world-news
 status: open
 opened: 2026-07-23
-last_seen: 2026-08-17
+last_seen: 2026-08-18
 weight: 3
 entities: []
 thread_kind: story
@@ -45,6 +45,39 @@ blurb: '⚠️ ORIGIN CORRECTED 2026-08-02 — READ THIS FIRST. This thread spen
   with Netanyahu''s office framing it as pressure ahead of September talks. Track
   this alongside Hormuz/Gulf as a distinct front, not folded into it.'
 ---
+
+## 2026-08-18 — A map post, a contradiction, and no scheduled talks
+
+- **Trump posted an AI-generated map of the Strait of Hormuz circled and
+  labelled "NEW U.S. TERRITORY"** on Truth Social — the follow-through on
+  his 08-14 stated intent to declare the strait US territory once the war
+  ends. Iran's deputy foreign ministry answered sarcastically: "Just as
+  Trump spelt the name of the Persian Gulf correctly, his illusion about
+  the Strait of Hormuz will soon be corrected."
+  ([The Hill](https://thehill.com/homenews/administration/6034751-trump-posts-map-labeling-strait-of-hormuz-as-us-territory/))
+- **Trump said no talks with Iran are scheduled — "no talks or
+  conversations" — directly contradicting Kushner**, who described
+  back-channel contact as "probably more robust than it's maybe ever
+  been." **Second consecutive day of two incompatible administration
+  accounts of the same channel**: on 08-17 Trump claimed a direct IRGC
+  backchannel that the IRGC called a "delusion" within hours.
+  ([Times of Israel](https://www.timesofisrael.com/liveblog-august-18-2026/))
+- **⚠️ Two genuine events a week apart, easy to collapse into one:** the
+  08-14 verbal statement of intent (at a law-enforcement event) and this
+  08-18 Truth Social map post are both real and separately dated. Do not
+  merge them.
+
+## 2026-08-17 — Iran declares a "fully offensive" posture
+
+- **A senior Iranian official told Reuters Tehran is shifting from a
+  defensive to a "fully offensive" posture** because talks on a permanent
+  end to the war have stalled, that it would mount a "timely and precise"
+  military attack to break the US naval blockade of Hormuz if diplomacy
+  fails, and that Washington has **"a few weeks"** to fully implement the
+  now-expired memorandum of understanding. Landed after the 15:00 ET pass
+  closed; logged here under its true date.
+  ([Reuters via Jerusalem Post](https://www.jpost.com/middle-east/iran-news/article-905793))
+
 
 ## 2026-08-17 — The framework expires; maximal rhetoric, motionless markets
 

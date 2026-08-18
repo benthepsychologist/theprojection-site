@@ -3,7 +3,7 @@ title: China's Stack
 lens: ai
 status: open
 opened: 2026-07-22
-last_seen: 2026-08-15
+last_seen: 2026-08-18
 weight: 3
 entities:
 - zhipu-ai
@@ -18,6 +18,56 @@ blurb: 'One story, both directions: Z.AI''s 1 GW all-domestic-chip site, Kimi K3
   rules; September US-China talks) plus Beijing''s own proposed export controls on
   its models/chips. US chip-equity reaction is the measure.'
 ---
+
+## 2026-08-18 — GLM-5.3's cyber capability draws the warning its release did not
+
+- **WIRED's framing is the escalation, not a new release:** "The Powerful
+  Chinese AI Model Experts Warned About—and Waited for—Is Here," with the
+  dek "Z.ai's latest AI model release could help companies secure their
+  systems—or find its way into the hands of hackers." The underlying
+  claims are already on this map from 08-14/08-17 — Z.ai says the
+  open-weight GLM-5.3 nearly matches Mythos 5 at finding software flaws,
+  and it reportedly found a serious vulnerability in Cursor.
+  **An open-weight model at frontier parity on vulnerability discovery is
+  a different object from one at parity on coding, because the weights
+  cannot be recalled.**
+  ([WIRED](https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/))
+- ⚠️ **GLM-5.3 shipped 2026-08-14 and is in that day's digest. This is
+  analysis of an existing release, not a new ship** — recorded explicitly
+  because a benchmark recirculating a release days later is exactly the
+  pattern that has produced false "today" entries on this thread twice.
+
+## 2026-08-17 — Alibaba ships a laptop-class Qwen; this map said no model shipped
+
+> ✏️ **Added 2026-08-18 as a correction.** The 08-17 frontier-AI digest
+> stated "no model releases or version ships inside today's window,
+> confirmed twice." That was wrong. The sweep correctly dated
+> **Qwen3.8-Max** to 08-12 — its 2.4T weights are in the 08-12 digest —
+> and then generalised across the product line, writing "Qwen3.8-Max/27B"
+> as a single already-counted event. **Two models, two dates, collapsed
+> by a slash.**
+
+- **Alibaba launched Qwen3.8-27B, a laptop-class open-weight model,
+  on Monday 08-17.** CNBC, 07:24 ET: *"On Monday, the Chinese tech giant
+  launched an AI model, designed to run on consumer hardware like
+  laptops… and opened the weights of its most powerful model."* Alibaba
+  claims the 27B has "excellent capabilities" in coding, professional
+  work, research and long-horizon agentic tasks and **matches the
+  performance of a model ten times its size.**
+  ([CNBC](https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html))
+- **It is positioned directly against Meta's Muse Glimmer, and Alibaba is
+  defending a real lead.** Hugging Face put Qwen-derived models at
+  **151,448 derivatives — 2.6x Meta's total footprint.** Meta's own
+  re-embrace of open weights, per Futurum's Nick Patience quoted in the
+  same piece, "was itself a response to two years of Chinese labs taking
+  a large share" of that market.
+  ([CNBC](https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html))
+- **The strategic read worth carrying:** a 27B at that claimed capability
+  implies Alibaba expects advanced models to run at the **edge** rather
+  than purely in datacentres — on-device inference being faster and more
+  private than a round trip. That is a different bet from the one every
+  capex thread on this map is priced against.
+
 
 ## 2026-08-15 — Qwen becomes the most-downloaded open-weight model family, ahead of Google and Meta combined
 

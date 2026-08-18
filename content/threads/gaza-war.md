@@ -3,7 +3,7 @@ title: Gaza War
 lens: world-news
 status: open
 opened: 2026-08-01
-last_seen: 2026-08-17
+last_seen: 2026-08-18
 weight: 3
 entities: []
 thread_kind: story
@@ -37,6 +37,64 @@ blurb: 'Opened on Ben''s steer 2026-08-01, after a disarmament framework announc
   Ministry range as broadly accurate. Both the inflation and the undercount framings
   still circulate; report both, resolve neither.'
 ---
+
+## 2026-08-18 — Likud's slate published; a strike on an October 7 participant
+
+- **Likud published its primary result and Netanyahu's nine controlled
+  slots all held.** Turnout **53%** (76,068 members), down from 58% in
+  2022. Elected order behind Netanyahu: Eli Cohen (Energy) 2, Speaker
+  Amir Ohana 3, Justice Minister Yariv Levin 4, with Miri Regev and
+  coalition chairman Ofir Katz completing the top five — Katz the one
+  surprise. Social Equality Minister May Golan won no slot, attributing
+  it to being seen as "too right-wing" by Netanyahu's circle.
+- **But the wider objective failed, and that is the part that matters for
+  10-27.** Haaretz's same-day analysis — *"Netanyahu Failed to Purge His
+  Opponents But Still Has Reason to Celebrate"* — finds that using
+  reserved slots to dilute hardline internal rivals did not work: Tally
+  Gotliv and Shlomo Karhi held on, and the party's Kahanist wing
+  tightened its grip on the list. **His picks are safe; his control of
+  the party's direction is not.**
+- **The IDF said it killed Islamic Jihad operative Khamis Ra'i**, who
+  took part in the October 7 2023 abduction of a hostage from Kibbutz
+  Be'eri, in a strike it says used precision munitions and surveillance
+  to limit civilian harm. Consistent with the continuing low-grade
+  campaign against remaining October 7 participants. ⚠️ Exact strike time
+  not established; 08-17/08-18 bucketing is a best guess.
+  ([Times of Israel](https://www.timesofisrael.com/liveblog_entry/gaza-terrorist-who-took-part-in-oct-7-kidnapping-killed-in-israeli-airstrike/))
+
+## 2026-08-17 — Kushner and Netanyahu meet for hours; two working groups, no breakthrough
+
+- **A marathon Jerusalem meeting produced working groups rather than
+  movement.** Kushner, Netanyahu, Tony Blair, Board of Peace director
+  Nickolay Mladenov and later Herzog met for hours without moving the
+  15-point US-backed road map — but agreed to stand up **one working
+  group on Hamas disarmament and one on public health.** Netanyahu
+  restated that there will be no IDF redeployment and no reconstruction
+  until Gaza is fully disarmed. **Working groups are the shape a stalled
+  negotiation takes when neither side will walk away.**
+  ([AP via CP24](https://www.cp24.com/news/world/2026/08/17/kushner-has-hours-long-meeting-with-netanyahu-on-gaza-a-day-after-talking-with-hamas/))
+
+
+**The premise, easy to get wrong:** this is **not** active large-scale
+war. A ceasefire has held since **2025-10-10** under UNSC Resolution
+2803 — a low-intensity, frequently-violated truce that monitors describe
+as *"neither war nor peace."*
+
+**Casualty figures here are contested and are always attributed, never
+stated flat.** See the note at the foot of this file.
+
+<!--
+  RULES (reframe Phase 0, 2026-07-22):
+  - Newest-first dated blocks. /daily REBUILDS today's block at the top
+    (rebuild-in-place; re-runs never duplicate). /crawl APPENDS backstory
+    at the bottom under the "## ← Backstory" divider.
+  - Every entry line ends with a provenance marker: · · ·.
+  - MATCHER HAZARD (lesson of 2026-07-31): the world-news country-pair
+    matcher works on a 400-character proximity window over this whole
+    file. Do NOT name another conflict's two combatant countries close
+    together anywhere in here, or this thread will hijack their clusters.
+    That is why the regional-linkage note below names one party at a time.
+-->
 
 ## 2026-08-17 — Kushner shuttles Cairo to Jerusalem; the deadlock holds and Likud votes
 

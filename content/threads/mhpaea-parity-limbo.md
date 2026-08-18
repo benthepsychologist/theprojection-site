@@ -3,7 +3,7 @@ title: Parity Limbo
 lens: mental-health
 status: open
 opened: 2026-07-28
-last_seen: 2026-07-30
+last_seen: 2026-08-18
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,22 @@ blurb: 'The real parity story is limbo, not a deadline: the 2024 Biden-era MHPAE
   the enforcement-gap consequences payers price in meanwhile, and any state-level
   parity action filling the federal void.'
 ---
+
+## 2026-08-18 — Still limbo: no NPRM, no enforcement, no state fill
+
+- **A clean null, and the only one of nine threads swept this rotation.**
+  DOL/EBSA's MHPAEA rule (**RIN 1210-AC39**) remains listed at "Proposed
+  Rule Stage" on reginfo.gov's Unified Agenda **with no stated
+  publication date.** No NPRM has published. No new enforcement action.
+  No state-level parity legislation surfaced to fill the federal void.
+  **The limbo this thread names is still exactly limbo, nineteen days on.**
+- **⚠️ Recorded with its own limit, so the null is honest:** the direct
+  Federal Register check was blocked by an anti-bot redirect and could
+  not be independently re-verified this pass. The null rests on the
+  reginfo.gov Unified Agenda entry and RSS term sweeps alone. **Re-run
+  the Federal Register check directly next cycle rather than treating
+  this as fully covered.**
+
 
 ## 2026-04-01 — The limbo, stated
 

@@ -3,7 +3,7 @@ title: AI Bear Turn
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-07-31
+last_seen: 2026-08-18
 weight: 2
 entities: []
 thread_kind: story

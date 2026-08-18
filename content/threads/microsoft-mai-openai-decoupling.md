@@ -3,7 +3,7 @@ title: Microsoft's Hedge
 lens: ai
 status: developing
 opened: 2026-06-28
-last_seen: 2026-07-27
+last_seen: 2026-08-18
 weight: 2
 entities:
 - microsoft
@@ -17,6 +17,38 @@ blurb: Microsoft shipped 7 in-house MAI models and says it was "set free" from t
   displace OpenAI in Copilot, the MSFT–OpenAI commercial terms, and whether this is
   genuine independence or a hedge.
 ---
+
+## 2026-07-27 → 08-13 — Four MAI models ship; the backlog stays half-OpenAI
+
+*Logged 2026-08-18, twenty-two days late. The read: hedging intensified in
+degree, not in kind.*
+
+- **MAI-Cyber-1-Flash and "Project Perception" (07-27)** — Microsoft's
+  first in-house cybersecurity model plus an agentic cybersecurity system,
+  claimed to beat OpenAI, Anthropic and Google on a security benchmark
+  (MDASH, 95.95%) at half the cost. **The first MAI model marketed as
+  outperforming frontier rivals rather than merely being cheaper than
+  them** — which is a different claim from anything in this thread so far.
+- **MAI-Code-1.1-Flash shipped inside GitHub Copilot (08-11/12)** at a
+  **73% price cut** on the prior coding model, positioned explicitly
+  against DeepSeek and other Chinese coding models. **MAI-Thinking-1**,
+  billed as Microsoft's first reasoning model, went live in Microsoft
+  Foundry (08-13). An MAI Realtime voice model was spotted in testing
+  08-02. Four surfaces — cyber, code, reasoning, voice — in eighteen days.
+- **Against that, FY2026 Q4 (07-29) shows the entanglement deepening in
+  absolute terms.** **Azure crossed $100B in annualized revenue for the
+  first time (+43%)**; Microsoft 365 Copilot paid seats went **20M → 30M**,
+  the fastest quarterly growth since launch; and **commercial RPO hit
+  $678B (+84%), with roughly 45% — about $250B — still tied to OpenAI.**
+  CFO Amy Hood noted RPO ex-OpenAI grew 25%.
+  ([Microsoft IR](https://news.microsoft.com/source/2026/07/29/microsoft-cloud-and-ai-strength-fuels-fourth-quarter-results-4/))
+- **The synthesis this thread exists for:** shipping in-house models hard
+  into Copilot's cyber and coding surfaces while nearly half the
+  contracted backlog remains OpenAI-dependent is a **parallel-track hedge
+  intensifying**, not a decoupling. The question the thread should now
+  ask is narrower: does the OpenAI share of RPO fall in absolute terms in
+  any quarter, or only in percentage terms as the denominator grows?
+
 
 ## 2026-07-27 — First vertical MAI model
 

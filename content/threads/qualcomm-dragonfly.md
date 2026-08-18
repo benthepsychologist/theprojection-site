@@ -3,7 +3,7 @@ title: Dragonfly Return
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-07-29
+last_seen: 2026-08-18
 weight: 2
 entities:
 - qualcomm
@@ -18,6 +18,35 @@ blurb: 'Qualcomm''s datacenter re-entry, eight years after Centriq died: Dragonf
   two weeks); Ventana/RISC-V status unclear — does Dragonfly supersede it? First live
   test: Q3 FY26 earnings 07-29 (tomorrow) — does Dragonfly move guidance?'
 ---
+
+## 2026-07-29 — Modular closed, Lattner installed, guidance reaffirmed not raised
+
+*Logged 2026-08-18 by the cold rotation, twenty days late. This thread
+named Q3 FY26 earnings as its "first live test."*
+
+- **The $3.9B all-stock Modular acquisition closed, and co-founder Chris
+  Lattner — creator of LLVM, Swift and MLIR — was named to lead
+  Qualcomm's advanced AI software effort.** The anti-CUDA play is now
+  formally staffed and closed rather than pending. Modular's Mojo
+  language hit **1.0** on 08-11/12, two weeks after the close.
+  ([Qualcomm](https://www.qualcomm.com/news/releases/2026/07/))
+- **On the live test — did Dragonfly move guidance? No.** Q3 FY26 revenue
+  ~$9.9B, and on the call Qualcomm **reaffirmed rather than raised** its
+  datacenter targets: **$5B revenue in FY2027, $15B by FY2029.** It did
+  name **Meta** as a Dragonfly C1000 customer — an "Agentic CPU" on the
+  Oryon architecture aimed at agent orchestration and multi-step
+  reasoning. A named hyperscale customer without a guidance change is a
+  real datapoint in both directions.
+- **The open Ventana/RISC-V question resolves as "both, not either."**
+  Ventana's Veyron V2 custom-silicon business now has **two hyperscale
+  customers each contracted for >$1B in FY2027**. Dragonfly does not
+  supersede it.
+- First third-party software-ecosystem move around the new silicon:
+  Multiverse Computing partnered with Qualcomm to optimise models for the
+  AI200/AI250 accelerators, claiming 93% faster performance (08-05). Same
+  day as the Modular close, Qualcomm also signed a 10-year BMW chip-supply
+  deal.
+
 
 ## 2026-08-05 — First named software partner for the Dragonfly accelerators
 
