@@ -15,6 +15,18 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
   AMD/Azure/Google-TPU compute deals get positioned in the roadshow narrative.'
 ---
 
+## 2026-08-18 — The pre-IPO credit facility more than quadruples
+
+- **Anthropic is negotiating a revolving credit facility set to exceed
+  $10 billion**, asking lead banks to commit roughly $1.25B each and
+  second-tier lenders ~$1B each — up from the $2.5B five-year facility it
+  closed a year ago. Banks are reportedly leaning in partly to strengthen
+  their pitch for a role underwriting the IPO itself, which makes the
+  facility's size partly an artifact of banking-relationship competition
+  rather than a pure read on Anthropic's balance-sheet need. Still being
+  negotiated; the final size could land at or below the reported target.
+  ([Investing.com, citing Bloomberg](https://www.investing.com/news/stock-market-news/anthropics-preipo-credit-facility-set-to-exceed-10-billion-bloomberg-news-reports-4865836))
+
 ## 2026-08-17 — Run-rate past $65B, ahead of OpenAI, ahead of the filing
 
 *Logged 2026-08-18 by the coverage critic. Surfaced independently by all
