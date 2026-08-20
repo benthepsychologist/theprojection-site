@@ -3,7 +3,7 @@ title: Alan
 lens: mental-health
 status: open
 opened: 2026-07-28
-last_seen: 2026-07-30
+last_seen: 2026-08-20
 weight: 2
 entities:
 - alan
@@ -13,6 +13,10 @@ blurb: French insurtech Alan ($780M raise 07-28, ~$8.9B valuation) scaling its A
   tracks (provincial deals? employer plans? an mh triage layer?), who partners/regulates,
   and whether "AI runs the front door" imports the payer-denial pattern.
 ---
+
+## 2026-08-12 (approx.) — The triage layer this thread was watching for: "Mo"
+
+- **Follow-up reporting (The Logic) details Alan's actual AI-triage product for Canada: an assistant called Mo, built on ~20 agents, with a safety layer that escalates any conversation flagged as risky to a human medical team within 15 minutes.** Alan is now recruiting doctors in Canada for a virtual-care service and targeting an AI-helper launch there around 2027, part of a plan to enter four new countries over the next 18 months — directly on this thread's declared watch for "any mh triage layer." Exact byline date unconfirmed (site blocked direct fetch); content postdates the 07-28/07-30 funding coverage. ([The Logic](https://thelogic.co/news/alan-insurance-expansion-ai/))
 
 ## 2026-07-28 — Opened on the raise
 

@@ -3,7 +3,7 @@ title: Big Tech into Health
 lens: mental-health
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-18
+last_seen: 2026-08-20
 weight: 3
 entities:
 - microsoft
@@ -17,6 +17,10 @@ blurb: The wave of the AI giants moving into health/MH — the cross-actor narra
   threads below; watch which giant's health push is real vs. announced, and where
   MH specifically shows up.
 ---
+
+## 2026-08-19 — A concrete evidence gap behind the "40M ask ChatGPT" figure
+
+- **A STAT News piece documents a "shadow medical system" — 40M+ Americans ask ChatGPT health questions daily — alongside a companion JAMA Network Open study by the same authors finding AI models fail to produce a comprehensive differential diagnosis in >80% of cases when given only incomplete initial patient info, despite doing well on complete case data.** A concrete evidence-gap data point for this thread's standing "is this push real, and is it safe" question — extends rather than resets the thesis. ([STAT News](https://www.statnews.com/2026/08/19/ai-doctor-outperforms-chatgpt-oura-quest-ro-hims-medical-system/))
 
 ## 2026-08-15 — Google ships its health push into hardware, but the MH layer doesn't move with it
 

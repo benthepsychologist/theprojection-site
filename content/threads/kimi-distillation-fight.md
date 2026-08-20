@@ -3,7 +3,7 @@ title: Distillation Fight
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-15
+last_seen: 2026-08-20
 weight: 3
 entities:
 - moonshot-ai
@@ -17,6 +17,10 @@ blurb: 'The White House (OSTP''s Kratsios) directly accused Moonshot of distilli
   Moonshot''s response, independent verification one way or the other, and whether
   it chills enterprise adoption of K3.'
 ---
+
+## 2026-08-19 — The Moonshot allegation broadens: three more Chinese labs, and a bill to close the loophole
+
+- **CNBC reports Moonshot, ByteDance, Alibaba, and Tencent have all been accessing restricted Nvidia compute via data centers in Thailand, Malaysia, and Japan — legal today because US export controls govern physical chip transfer, not remote cloud access.** This extends the thread's 07-23 entry (which alleged Moonshot specifically obtained GB300 access via Thailand) to three more major Chinese AI firms, and names the legislative response: the Remote Access Security Act (RASA), which passed the House in January 2026 and is pending in the Senate — it would extend export-control authority to remote/cloud access, though a separate rulemaking would still be needed to apply it to chips. ([CNBC](https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html))
 
 ## 2026-08-15 — Beijing, not Washington, is what actually derails Moonshot's IPO clock
 
