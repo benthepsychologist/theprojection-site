@@ -3,7 +3,7 @@ title: The Funding Shift
 lens: mental-health
 status: developing
 opened: 2026-06-28
-last_seen: 2026-08-18
+last_seen: 2026-08-20
 weight: 3
 entities:
 - spring-health
@@ -16,6 +16,35 @@ blurb: 'MH is the #1-funded US therapeutic area (~$1.27B/14 deals to start 2026)
   hitting the regulatory reckoning; watch consolidation (e.g. Spring Health/Alma).
   Tests whether the market prices in rigor — the evidence-gap thesis.'
 ---
+
+## 2026-08-20 — Critic catch: interventional psychiatry consolidates into a 27-clinic network
+
+- **Radial acquired the management-services organization behind Mindful
+  Health Solutions, creating what both companies call the country's
+  largest interventional-psychiatry ("brain medicine") clinical network —
+  27 clinics across California, Texas, Washington and New York, 100+
+  clinicians.** The modality list is the thesis in miniature: accelerated
+  TMS, SAINT/SWIFT protocols, Spravato (esketamine), IV ketamine,
+  fMRI-EEG-guided PRISM and transcranial focused ultrasound. Named
+  leadership is Owen Muir MD (co-founder/CSO), John Capecelatro (CEO),
+  Tobias Marton MD PhD (CMO) and Carlene MacMillan MD (CPO), with
+  outgoing Mindful Health CEO Mark Kehoe moving to an advisory role.
+  Terms undisclosed. ⚠️ The companies' cited remission rates — "up to
+  79%" against 5-30% for standard SSRI/therapy care — are a marketing
+  claim in a transaction announcement, not a trial result, and should be
+  read as such. This lands squarely on the thesis this thread was opened
+  for: the money going to clinician-augmentation and interventional
+  psychiatry rather than consumer chatbots, and now consolidating.
+  ([Behavioral Health Business](https://bhbusiness.com/2026/08/20/radial-acquires-mindful-health-solutions-eyes-pending-boom-in-brain-medicine/) ·
+  [HIT Consultant](https://hitconsultant.net/2026/08/20/radial-acquires-mindful-health-solutions-mso-brain-medicine-network/))
+- **HHS added the Family-Based Recovery programme (in-home clinical
+  treatment for parents of children aged 0-5) and the peer-support
+  Wellness Recovery Action Plan to the Title IV-E Prevention Services
+  Clearinghouse on 2026-08-19, making both federally reimbursable.** A
+  reimbursement-pathway change is the kind of quiet event that moves more
+  money than most funding rounds this thread logs; carried here one day
+  late, caught by the coverage critic rather than the day's sweep.
+  ([HHS](https://www.hhs.gov/press-room/hhs-expands-peer-support-addiction-recovery-families-foster-care.html))
 
 ## 2026-08-20 — Interventional-psychiatry consolidation gets another entrant
 

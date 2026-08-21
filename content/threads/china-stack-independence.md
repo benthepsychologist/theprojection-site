@@ -3,7 +3,7 @@ title: China's Stack
 lens: ai
 status: open
 opened: 2026-07-22
-last_seen: 2026-08-18
+last_seen: 2026-08-20
 weight: 3
 entities:
 - zhipu-ai
@@ -18,6 +18,38 @@ blurb: 'One story, both directions: Z.AI''s 1 GW all-domestic-chip site, Kimi K3
   rules; September US-China talks) plus Beijing''s own proposed export controls on
   its models/chips. US chip-equity reaction is the measure.'
 ---
+
+## 2026-08-21 — DeepSeek ships an experimental multimodal model and benchmarks it against Claude, not GPT
+
+- **DeepSeek released DeepSeek-V4-Flash-Vision-Exp, an experimental
+  multimodal model, per its own API changelog dated 2026-08-21.** Text
+  capability matches the existing V4-Flash across agents, reasoning and
+  world knowledge; on multimodal *agent* benchmarks the company claims a
+  "major leap" over V4-Flash that brings performance "close to Opus-4.8".
+  Images tokenise at up to 384 tokens each at V4-Flash pricing, served
+  through Chat Completions, Messages and Responses APIs.
+  ([DeepSeek API changelog](https://api-docs.deepseek.com/news/news260821/))
+- **The comparison target is the development, not the benchmark score.**
+  Chinese frontier releases have generally been positioned on
+  price-performance against GPT-class models; benchmarking an agentic
+  multimodal release against Anthropic's frontier model is a claim about
+  capability parity at the top of the stack rather than about cost. Worth
+  watching whether the framing recurs on the next non-experimental
+  release, which is when it stops being marketing.
+
+## 2026-08-20 — Hua Hong joins the Hang Seng flagship index; the AI labs did not
+
+- **Hang Seng Indexes' semi-annual review added Hua Hong Grace
+  Semiconductor and Weichai Power to the 93-member flagship index,
+  effective 2026-09-07, lifting IT-sector weighting from 15.86% to
+  17.11%.** Hua Hong is one of the three fabs this map's
+  [Homegrown DUV](/threads/china-duv-lithography/) thread names as an expected first recipient of
+  China's domestic immersion DUV scanners — so the benchmark is now
+  carrying the domestic-tool buildout directly. Notably, MiniMax and Z.AI,
+  floated the same morning as likely additions, did **not** make this
+  cycle; both remain in the narrower Hang Seng Tech Index they joined in
+  June. Announced ~22:59 ET.
+  ([SCMP](https://www.scmp.com/business/china-business/article/3364752/hong-kongs-stock-benchmark-may-see-more-tech-additions-review-result-looms))
 
 ## 2026-08-20 — Alibaba's earnings put a hard number on the domestic AI-capex side of the thread
 

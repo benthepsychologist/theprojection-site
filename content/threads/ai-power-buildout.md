@@ -3,7 +3,7 @@ title: Power Buildout
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-18
+last_seen: 2026-08-21
 weight: 3
 entities:
 - spacex
@@ -16,6 +16,20 @@ blurb: Where the capex lands in POWER — the real bottleneck. Nuclear-for-AI (S
   Oklo/X-Energy), gas turbines (the Colossus permit fights), grid deals, and the energy-justice/permitting
   battles. Category meta under where-the-capex-lands.
 ---
+
+## 2026-08-21 — Nvidia takes an equity position in a data-center power/land developer
+
+- **Nvidia's minority investment in Cloverleaf Infrastructure puts a chip
+  vendor directly into the power-and-siting bottleneck this thread
+  tracks.** Cloverleaf's entire business is securing land and power for
+  data-center campuses — gigawatt-scale projects already delivered in
+  Wisconsin and Georgia, a claimed 10-15 GW pipeline — and Nvidia is now
+  an owner of it rather than a customer downstream of it. The financial
+  detail is thin by design: outside coverage puts the stake in the
+  several-hundred-million range, the joint release gives no figure.
+  Tracked as a financing move on [Nvidia as Lender](/threads/nvidia-vendor-financing/); noted here
+  because the constraint it is buying into is power, not silicon.
+  ([Cloverleaf/Nvidia joint release](https://www.prnewswire.com/news-releases/cloverleaf-infrastructure-forms-strategic-partnership-with-nvidia-to-accelerate-data-center-infrastructure-development-302857329.html))
 
 ## 2026-08-17 — FERC's 60-day large-load interconnection deadline landed; outcome unconfirmed
 

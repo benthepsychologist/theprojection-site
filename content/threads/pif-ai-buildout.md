@@ -9,17 +9,20 @@ entities:
 - pif
 - xai
 thread_kind: story
-blurb: Whether the NEOM/The Line capital retreat (halted past 2030, only ~1.4% of
-  the planned foundation built) keeps funding HUMAIN's AI buildout (next tranches,
-  next named position) or whether the same fiscal pressure behind both moves (oil
-  near $71/bbl, an Aramco dividend cut of ~$40B, PIF cash reserves down to ~$15B)
-  forces a slowdown on the AI side too; the AMD/Cisco 1GW buildout's progress; whether
-  the xAI stake's reported conversion into SpaceX shares completes; further US export-control
-  movement specific to Saudi Arabia (only one Saudi-specific chip approval — 35,000
-  Nvidia chips to HUMAIN/G42 — is on record so far, vs. a UAE-only easing found this
-  pass); and reconciliation of board.yaml's $12.5B/yr AI thrust figure against this
-  crawl's larger ~$21-23B HUMAIN deal-book tally (AMD $10B, AWS ~$5.3B, xAI $3B, AirTrunk
-  ~$3B).
+blurb: 'Whether the NEOM/The Line capital retreat (halted past 2030, only ~1.4% of
+  the planned foundation built) keeps funding HUMAIN''s AI buildout (next tranches,
+  next named position) or whether the same fiscal pressure behind both moves forces
+  a slowdown on the AI side too — ⚠️ but that premise WEAKENED 2026-08-21: Brent is
+  ~$95/bbl, not the ~$71 this watch was written against (+40% YoY, on the Hormuz closure),
+  and Aramco''s Q2 base dividend was reportedly RAISED ~3.5% YoY rather than cut,
+  though the ~$40B cut figure and the ~$15B PIF cash-reserve figure both still need
+  re-verification against primary filings before the thesis is rewritten around them;
+  the AMD/Cisco 1GW buildout''s progress; whether the xAI stake''s reported conversion
+  into SpaceX shares completes; further US export-control movement specific to Saudi
+  Arabia (only one Saudi-specific chip approval — 35,000 Nvidia chips to HUMAIN/G42
+  — is on record so far, vs. a UAE-only easing found this pass); and reconciliation
+  of board.yaml''s $12.5B/yr AI thrust figure against this crawl''s larger ~$21-23B
+  HUMAIN deal-book tally (AMD $10B, AWS ~$5.3B, xAI $3B, AirTrunk ~$3B).'
 ---
 
 ## 2026-08-17 — PIF's 2025 annual report cuts against this thread's own fiscal-squeeze thesis

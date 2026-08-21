@@ -3,18 +3,21 @@ title: GlobalFoundries — the Capex Reversal
 lens: ai
 status: open
 opened: 2026-08-04
-last_seen: 2026-08-04
+last_seen: 2026-08-05
 weight: 2
 entities:
 - globalfoundries
 - intel
 thread_kind: story
-blurb: Whether the Q1 2026 capex/depreciation near-parity (thrust flipping from clearly
-  negative toward flat) holds through the Q2 2026 print (2026-08-05) or reverses;
-  whether the government's two new ~1%-scale equity stakes (quantum + photonics) keep
-  accumulating toward an Intel-style larger position; whether Mubadala's stake keeps
-  trimming below 73% even as its board influence deepens; and whether the ~45% stock
-  decline since the May Mubadala sale gets explained or reversed by the Q2 print.
+blurb: '⚠️ RESOLVED at the Q2 2026 print (2026-08-05, already on this thread''s timeline):
+  the Q1 capex/depreciation near-parity did NOT hold — it widened the other way, capex
+  $411M against $307M D&A (+158% YoY capex), with adjusted free cash flow going negative
+  (-$3M vs +$277M a year ago). Revenue $1.786B, non-IFRS GM 29.9%, a beat the market
+  sold anyway. What is still open: whether the government''s two new ~1%-scale equity
+  stakes (quantum + photonics) keep accumulating toward an Intel-style larger position;
+  whether Mubadala''s stake keeps trimming below 73% even as its board influence deepens;
+  and whether the ~45% stock decline since the May Mubadala sale gets explained or
+  reversed by the Q2 print.'
 ---
 
 ## 2026-08-05 — Q2 2026 print: the capex reversal widens further, stock falls on margin skepticism anyway

@@ -3,7 +3,7 @@ title: Nvidia as Lender
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-08-18
+last_seen: 2026-08-21
 weight: 3
 entities:
 - nvidia
@@ -21,6 +21,22 @@ blurb: 'Nvidia''s turn from chip vendor to the buildout''s lender of last resort
   toward: does the weekend signing happen, does a phase-2 guarantee follow, and rating-agency
   treatment (still untracked).'
 ---
+
+## 2026-08-21 — Nvidia buys into the land-and-power layer: a minority stake in Cloverleaf Infrastructure
+
+- **Nvidia took a minority equity stake in Cloverleaf Infrastructure, a
+  2024-founded developer that assembles land, power and shell for
+  data-center sites** — reported by outside coverage as several hundred
+  million dollars, a figure the two companies' own joint release declines
+  to give. Cloverleaf has delivered gigawatt-scale projects in Wisconsin
+  and Georgia and claims a 10-15 GW pipeline; Nvidia VP Nico Caprez's
+  quoted framing — that "land, power and shell are the foundation" of AI
+  factories — makes the intent explicit. It extends the customer-base
+  equity pattern this thread already tracks (Nebius 9.3%, Intel $5B,
+  Naver $1B, Groq ~$20B licensing) one layer further upstream, from the
+  buyers of Nvidia's chips to the people who secure the sites those chips
+  will sit in.
+  ([Cloverleaf/Nvidia joint release](https://www.prnewswire.com/news-releases/cloverleaf-infrastructure-forms-strategic-partnership-with-nvidia-to-accelerate-data-center-infrastructure-development-302857329.html))
 
 ## 2026-08-19 — The mark-only-growth pattern this thread found in NVIDIA's 13F reproduces in SoftBank's
 

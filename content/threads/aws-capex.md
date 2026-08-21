@@ -3,7 +3,7 @@ title: AWS Capex
 lens: ai
 status: developing
 opened: 2026-07-23
-last_seen: 2026-08-04
+last_seen: 2026-08-21
 weight: 2
 entities:
 - amazon-aws
@@ -18,6 +18,19 @@ blurb: 'Earnings 07-30 (corrected from ~07-31). Crawl 07-27: the AGI-cuts vs $20
   + X-Energy 5GW-by-2039. Watch 07-30: capex guide, backlog, FCF (reportedly borrowing
   $25B).'
 ---
+
+## 2026-08-18 — Late catch: $6B more into Shreveport, a third Louisiana campus
+
+- **AWS added $6B to its Shreveport, Louisiana buildout — a third campus
+  at Resilient Technology Park — lifting Amazon's committed Louisiana
+  data-center investment from $12B to $18B.** The announcement carries
+  ~210 direct new jobs (≈709 including indirect) and up to $400M of
+  Amazon-funded local water-infrastructure upgrades. It sits inside the
+  ~$220B FY2026 capex plan this thread already tracks, but is a new,
+  dated, site-specific commitment that was not previously on the thread —
+  caught by this run's cold-rotation sweep three days after the fact, not
+  on the day.
+  ([Amazon newsroom](https://www.aboutamazon.com/news/company-news/amazon-data-center-louisiana-new-jobs))
 
 ## 2026-08-03 — Amazon crosses $3T market cap
 

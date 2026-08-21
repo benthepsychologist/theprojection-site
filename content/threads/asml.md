@@ -3,7 +3,7 @@ title: ASML — the EUV Monopoly
 lens: ai
 status: open
 opened: 2026-08-04
-last_seen: 2026-08-04
+last_seen: 2026-08-21
 weight: 3
 entities:
 - asml
@@ -15,15 +15,47 @@ entities:
 thread_kind: story
 blurb: 'Guidance is climbing (€36-40B to €43-45B for FY2026) while the China fight
   runs on three fronts at once: the MATCH Act would extend controls to DUV tools generally,
-  not just EUV, and passed House committee; Commerce''s Lutnick opened a still-unresolved
-  inquiry into whether an EUV tool illegally reached China (ASML denies it); and China''s
-  own Shanghai Aishengna is now shipping domestic DUV units to SMIC/Hua Hong/CXMT,
-  though independent forecasts put a genuinely competitive 7nm domestic scanner a
-  decade out, not this year. High-NA adoption is splitting the big three — Intel shipped
-  first, TSMC opted out for A14 on cost, Samsung/SK Hynix are ordering. The Mistral
-  stake (11%, active board seat) has no confirmed follow-on yet. Next: Q3 2026 earnings,
-  MATCH Act''s Senate/NDAA fate, Lutnick inquiry resolution.'
+  not just EUV, and passed House committee — but ⚠️ its vehicle is STALLED (corrected
+  2026-08-21): MATCH rode as an amendment to the FY2027 NDAA, and the Senate failed
+  cloture on that bill 50-46 on 2026-07-14, blocked by Democrats over Iran-war and
+  Israel provisions rather than anything to do with chips. Thune switched to "no"
+  to preserve a motion to reconsider, so it is stalled rather than dead, and the reconsideration
+  vote is now the real next trigger — if it clears, MATCH''s 150-day clock for the
+  Netherlands to align its export controls starts running; Commerce''s Lutnick opened
+  a still-unresolved inquiry into whether an EUV tool illegally reached China (ASML
+  denies it); and China''s own Shanghai Aishengna is now shipping domestic DUV units
+  to SMIC/Hua Hong/CXMT, though independent forecasts put a genuinely competitive
+  7nm domestic scanner a decade out, not this year. High-NA adoption is splitting
+  the big three — Intel shipped first, TSMC opted out for A14 on cost, Samsung/SK
+  Hynix are ordering. The Mistral stake (11%, active board seat) has no confirmed
+  follow-on yet. Next: Q3 2026 earnings, MATCH Act''s Senate/NDAA fate, Lutnick inquiry
+  resolution.'
 ---
+
+## 2026-08-21 — Correction: the MATCH Act's vehicle stalled five weeks ago, over Iran
+
+- ⚠️ **This thread has been carrying "MATCH Act passed House committee" as
+  if the bill were still moving. It is not.** MATCH was riding as an
+  amendment to the FY2027 NDAA, and on **2026-07-14** the Senate failed
+  cloture on the underlying NDAA **50-46** (60 needed), with Democrats
+  blocking it over the administration's Iran war conduct and
+  Israel-related provisions — nothing to do with the chip language.
+  Majority Leader Thune switched his vote to "no" to preserve a motion to
+  reconsider, so the bill is stalled rather than dead, and had not been
+  revived as of today. The reading this changes: ASML's near-term
+  export-control exposure is currently gated by an unrelated legislative
+  fight, not by chip-policy consensus holding or breaking. Surfaced by an
+  analysis piece today; the vote itself was independently confirmed
+  against wire coverage and the Senate roll call.
+  ([Bits&Chips](https://bits-chips.com/article/iran-war-deadlock-gave-asml-reprieve-from-us-china-crackdown/) ·
+  [Al Jazeera](https://www.aljazeera.com/news/2026/7/14/senate-democrats-block-defence-bill-over-iran-war-israel-provisions) ·
+  [The Hill](https://thehill.com/policy/defense/5967878-senate-democrats-block-ndaa/))
+- ⚠️ **Not logged, deliberately:** several outlets ran 08-20/21 pieces
+  headlined on the US "preparing to force the Netherlands to ban ASML
+  from selling to China". The originals 403'd on fetch, and near-identical
+  framing exists as far back as 2024 plus a close SCMP match from
+  2026-05-13. Unverified as a new policy action; recorded here as a
+  checked-and-rejected item rather than left invisible.
 
 ## ← Backstory
 

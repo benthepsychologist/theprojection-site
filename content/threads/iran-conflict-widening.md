@@ -3,7 +3,7 @@ title: Iran's Widening War
 lens: world-news
 status: open
 opened: 2026-07-23
-last_seen: 2026-08-18
+last_seen: 2026-08-21
 weight: 3
 entities: []
 thread_kind: story
@@ -45,6 +45,52 @@ blurb: '⚠️ ORIGIN CORRECTED 2026-08-02 — READ THIS FIRST. This thread spen
   with Netanyahu''s office framing it as pressure ahead of September talks. Track
   this alongside Hormuz/Gulf as a distinct front, not folded into it.'
 ---
+
+## 2026-08-21 — Pezeshkian says end the war "now"; Washington answers with sanctions, not strikes — and names the campaign
+
+- **President Masoud Pezeshkian said publicly that "it is better that we
+  bring the war to an end now, as we are in a position of power and
+  dignity"** (~07:22 ET) — the most conciliatory line from Tehran's
+  leadership this map has logged, and notable for framing an ending as a
+  choice made from strength rather than a concession. Single-source as
+  reported.
+  ([Times of Israel liveblog](https://www.timesofisrael.com/liveblog-august-21-2026/))
+- **The sanctions campaign was named "Operation Economic Fury" and given
+  named targets at the 15:00 ET pass.** Bessent threatened the "full might
+  and force" of Treasury against any country doing business with Iran,
+  naming China, India and the UAE as focal points and enumerating the
+  mechanisms — oil smuggling, swap lines, cash transfers, exchange houses,
+  ship registries, front companies. Specificity added to the 08-19 framing
+  rather than a new announcement, but it converts iran-us-sanctions-
+  package-aug24 from a general threat into something checkable Monday.
+  ([OPB](https://www.opb.org/article/2026/08/21/trump-warns-iran-economic-d-day-tehran-familiar-with-sanctions/))
+- **The Iran-Oman transit track went the other way the same day** — the
+  two foreign ministers spoke of *resuming* dialogue rather than
+  finalising the route-map agreement reported 08-17/18. Logged in full on
+  [Red Sea Shock](/threads/red-sea-oil-shock/), where the navigation consequence lands.
+  ([Arab News](https://www.arabnews.com/node/2655445/middle-east))
+
+## 2026-08-20 — The 60-day US-Iran MoU lapsed, and the US track turns economic
+
+- **The broader US-Iran Memorandum of Understanding signed 2026-06-18,
+  which gave the parties 60 days to negotiate a peace deal, expired
+  2026-08-17/18 with no deal** — Iran's foreign ministry says the US
+  "began violating the memorandum shortly after signing". This is the
+  frame the iran-oman-hormuz-deal-signing expectation was sitting
+  inside, and its lapse is why that expectation stays silent rather than
+  merely late.
+  ([CBS News](https://www.cbsnews.com/live-updates/us-iran-war-deal-expired-strait-of-hormuz/) ·
+  [Al Jazeera](https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal))
+- **Treasury Secretary Bessent framed the next move as a "one-two punch"
+  of blockade plus "the toughest sanctions in history", with measures due
+  Monday 2026-08-24 and explicitly offered as an alternative to a
+  large-scale kinetic restart.** Read against Trump's twice-repeated
+  threat to bomb Oman if it "gets in the way" (most recently 08-18), the
+  American track has visibly moved from negotiation toward economic
+  isolation without passing through escalation — a shift in method, not
+  in objective.
+  ([Al Jazeera](https://www.aljazeera.com/news/2026/8/20/us-treasury-secretary-says-new-economic-measures-will-collapse-iran) ·
+  [Washington Times](https://www.washingtontimes.com/news/2026/aug/20/bessent-teases-ramp-economic-warfare-iran-strait-traffic-stagnates/))
 
 ## 2026-08-19 — UAE cuts all trade with Iran; Hormuz control flips to the Oman route
 
