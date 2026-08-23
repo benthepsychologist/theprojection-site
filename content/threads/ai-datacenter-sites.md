@@ -3,7 +3,7 @@ title: Datacenter Sites
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-21
+last_seen: 2026-08-23
 weight: 3
 entities:
 - openai
@@ -16,6 +16,35 @@ blurb: Where the capex lands in CONCRETE — the specific gigawatt campuses. Sta
   Colossus, Camellia + the 100s of sites. Category meta under where-the-capex-lands;
   the specific-sites worklist lives here.
 ---
+
+## 2026-08-23 — The governor of the buildout's biggest state says the data centers "dug their own grave"
+
+- **Texas Governor Greg Abbott, on ABC's *This Week*, said data-center
+  developers "basically dug their own grave for the problem that's been
+  caused for them" and "got the backlash they deserve"** — because they
+  had not worked in collaboration with the state or with local
+  governments. Interviewed by Jonathan Karl. Two days after this thread
+  recorded site opposition becoming a *securities* risk factor in
+  Anthropic's coming S-1, the governor of the state that hosts more of
+  this buildout than any other put the blame for the backlash on the
+  developers themselves, on national television.
+  ([ABC News — full transcript, primary](https://abcnews.com/Politics/week-transcript-8-23-26-texas-gov-greg/story?id=135865528),
+  [Axios](https://www.axios.com/2026/08/23/greg-abbott-texas-data-centers-ai-backlash)) <!-- sev=major -->
+- **He also stated the terms new sites must now meet, which is the part
+  with operational teeth:** identify water usage and not take water from
+  communities · not draw power the Texas grid needs · lower electricity
+  costs for consumers · not disturb neighbourhoods or rural communities ·
+  and **first get the approval of local communities**. That last one
+  converts local consent from a political risk into a stated precondition.
+  ([ABC News](https://abcnews.com/Politics/week-transcript-8-23-26-texas-gov-greg/story?id=135865528))
+- **The reversal is the story.** Abbott declared Texas the "epicentre of
+  AI development" last November alongside a $40bn Google investment; he
+  paused all new data centers on 08-03 pending an ERCOT/PUCT audit of
+  energy, water and tax incentives; today he blamed the industry for its
+  own backlash. Axios notes he has taken roughly $20M in donations from
+  data-center executives, which is the pressure this pivot ran against.
+  ([Axios](https://www.axios.com/2026/08/23/greg-abbott-texas-data-centers-ai-backlash),
+  [Office of the Governor — audit directive](https://gov.texas.gov/news/post/governor-abbott-directs-comprehensive-data-center-audit))
 
 ## 2026-08-21 — Site opposition becomes a securities risk factor
 

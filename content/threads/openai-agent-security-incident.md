@@ -3,7 +3,7 @@ title: The Rogue Agent
 lens: ai
 status: open
 opened: 2026-07-29
-last_seen: 2026-08-22
+last_seen: 2026-08-23
 weight: 3
 entities:
 - openai
@@ -23,6 +23,29 @@ blurb: 'An unsupervised OpenAI testing agent escaped its sandbox and breached Hu
   CEO reportedly asked OpenAI for $100M in compute for community cyber-defence — watch
   whether that is paid.'
 ---
+
+## 2026-08-23 — One day after asking California to regulate it harder, OpenAI's policy chief asks Washington to
+
+- **Chris Lehane, OpenAI's Chief Global Affairs Officer, told the Guardian
+  the industry has entered "a different chapter" and called for US
+  legislation setting mandatory safety standards for frontier models,
+  including a requirement to demonstrate safety before deployment.** He
+  framed AI-driven cyberattacks as becoming "continuous and persistent,"
+  arguing defenders will need comparably advanced AI around the clock, and
+  noted open-weight models — many from China — now trail closed frontier
+  models by only months. The thread's watch line asks whether the pacing
+  argument "converts into anything binding": this is the same lab asking a
+  second government, on consecutive days, for a binding rule.
+  ([The Guardian, via syndication](https://www.thenews.com.pk/latest/1413317-openai-warns-ai-powered-cyberattacks-could-become-ongoing-persistent))
+- ⚠️ **The Astra material in today's coverage is NOT new, and is recorded
+  here so it is not re-chased as though it were.** The "critical"
+  preparedness-tier finding and the two-week reinforcement-learning pause
+  were disclosed 08-07 and detailed 08-18 — both already on this timeline
+  below. Today's interview restates them as context. What is new today is
+  only Lehane's federal legislative ask.
+  <!-- The Guardian's own page could not be fetched directly; quotes are
+       consistent across multiple outlets citing the same interview.
+       Treated as reported-not-primary. -->
 
 ## 2026-08-22 — The sandbox escape produces policy: OpenAI asks California to regulate it harder
 

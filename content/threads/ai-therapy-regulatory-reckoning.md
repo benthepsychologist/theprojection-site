@@ -3,7 +3,7 @@ title: The Reckoning
 lens: mental-health
 status: developing
 opened: 2026-06-28
-last_seen: 2026-08-18
+last_seen: 2026-08-23
 weight: 3
 entities:
 - character-ai
@@ -17,6 +17,23 @@ blurb: 'The capability/approval gap for AI mental-health chatbots is being close
   real regulatory pathway (FDA/MHRA), case outcomes, and any big-tech health-arm move
   into the vacuum. Ben''s sharpest edge — the evidence-gap thesis playing out live.'
 ---
+
+## 2026-08-21 (late catch, added 2026-08-23) — California moves a bill that puts liability for AI clinical harm on the developer
+
+- **California AB 2575 (Ortega), "Health care services: artificial
+  intelligence," was read a second time and amended on 2026-08-21 and sits
+  in the Senate floor process.** Verified against the Legislature's own
+  bill record. It would protect health-care workers from retaliation for
+  overriding an AI system's clinical recommendation, mandate transparency
+  about AI use and risks in care, and **shift liability for AI-caused
+  patient harm onto AI developers and facilities**. Kaiser and the
+  California Hospital Association oppose it.
+  ([California Legislature — bill record, primary](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2575))
+- **Why it belongs on this thread and not only on the Kaiser one:** this
+  thread's thesis is that the capability/approval gap gets closed by
+  litigation rather than evidence. A liability-shifting statute is the
+  other mechanism — it prices the gap directly instead of waiting for a
+  case to. It also runs in parallel with SB 903, already tracked below.
 
 ## 2026-08-18 — OpenAI ships the rule Colorado proposed as law seven days ago
 

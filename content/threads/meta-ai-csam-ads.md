@@ -3,7 +3,7 @@ title: CSAM Ads
 lens: mental-health
 status: open
 opened: 2026-08-06
-last_seen: 2026-08-18
+last_seen: 2026-08-23
 weight: 2
 entities:
 - meta-ai

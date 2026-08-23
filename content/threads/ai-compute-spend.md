@@ -3,7 +3,7 @@ title: Compute Spend
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-22
+last_seen: 2026-08-23
 weight: 3
 entities:
 - nvidia

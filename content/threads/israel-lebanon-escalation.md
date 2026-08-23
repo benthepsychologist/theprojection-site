@@ -3,7 +3,7 @@ title: Israel–Lebanon
 lens: world-news
 status: open
 opened: 2026-08-07
-last_seen: 2026-08-22
+last_seen: 2026-08-23
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,22 @@ blurb: 'The Israel–Hezbollah front turning hot while its diplomacy stalls: dea
   theatre from iran-conflict-widening (cross-referenced, not merged). Watch: whether
   the talks track survives, and whether strikes escalate past the current tempo.'
 ---
+
+## 2026-08-23 — An intelligence claim, not a strike: Hezbollah said to be rearming through Syria during the ceasefire
+
+- **An Israeli security source told reporters that Hezbollah's weapons
+  smuggling from Syria has increased during the current ceasefire, and
+  alleged Iran's Quds Force is financing it.** This is a claim about how
+  the front is evolving under the truce rather than a kinetic event.
+  ⚠️ **Sourced to an unnamed Israeli security source with no named
+  official or primary document behind it** — recorded at that weight, and
+  it should not harden into a fact on this timeline without corroboration.
+  ([The Times of Israel — live blog](https://www.timesofisrael.com/liveblog-august-23-2026/))
+- **The same day, Mossad's chief met Syria's foreign minister with the
+  stated aim of reducing Israel-Syria tensions** — an escalation claim and
+  a de-escalation track running in parallel, on the same day, through the
+  same country.
+  ([The Times of Israel — live blog](https://www.timesofisrael.com/liveblog-august-23-2026/))
 
 ## 2026-08-22 — Strikes on both nights of the weekend, thin on detail
 

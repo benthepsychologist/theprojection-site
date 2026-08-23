@@ -3,7 +3,7 @@ title: Gaza War
 lens: world-news
 status: open
 opened: 2026-08-01
-last_seen: 2026-08-22
+last_seen: 2026-08-23
 weight: 3
 entities: []
 thread_kind: story
@@ -37,6 +37,20 @@ blurb: 'Opened on Ben''s steer 2026-08-01, after a disarmament framework announc
   Ministry range as broadly accurate. Both the inflation and the undercount framings
   still circulate; report both, resolve neither.'
 ---
+
+## 2026-08-23 — A Hamas commander killed and a threat to "intensify," as friction under the framework rather than a rupture of it
+
+- **The Israeli military struck an alleged Hamas weapons-production
+  facility and killed a Hamas commander on Sunday afternoon, in a strike
+  reported near an aid distribution centre.** Netanyahu and Defence
+  Minister Katz separately issued a joint statement threatening to
+  "intensify strikes" and order new evacuations, citing kite and balloon
+  launches from Gaza toward Israel.
+  ([The Times of Israel — live blog, IDF and PM's office statements](https://www.timesofisrael.com/liveblog-august-23-2026/))
+- **Read as pressure on the disarmament framework, not its collapse.**
+  Both events sit inside the framework period this thread has tracked
+  since 08-01; neither party has withdrawn from it. The watch item is
+  whether the threatened evacuations are actually ordered.
 
 ## 2026-08-22 — A drone strike on a home in Deir el-Balah, three weeks into the disarmament framework
 
