@@ -3,7 +3,7 @@ title: Russia-Ukraine War
 lens: world-news
 status: open
 opened: 2026-07-31
-last_seen: 2026-08-20
+last_seen: 2026-08-22
 weight: 3
 entities: []
 thread_kind: story
@@ -20,6 +20,34 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   sibling thread the same way Iran''s Widening War / Red Sea Shock did, if and when
   that read becomes substantial enough to carry on its own.'
 ---
+
+## 2026-08-22 — Both sides hit infrastructure, Putin promises worse, and Kyiv's airport takes ballistics twice
+
+- **Ukraine and Russia traded strikes killing at least 17.** Ukrainian
+  long-range strikes on Russian oil, port and logistics targets — Samara
+  (an Ozon warehouse), Krasnodar, Belgorod, Sevastopol and
+  Russian-occupied Luhansk — killed at least 10 by the count of regional
+  Russian officials; Russian missile and drone strikes on Kyiv, Kyiv
+  region and Zaporizhzhia killed at least 7 by Ukrainian officials' count.
+  Putin said Ukraine had "opened this Pandora's box" and that the answer
+  would be "far more painful and far more destructive."
+  ([Al Jazeera](https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack),
+  [Kyiv Post](https://www.kyivpost.com/post/82911))
+- **Russia struck Kyiv and Boryspil airport with ballistic missiles for a
+  second consecutive night, killing a railway worker.** Ukraine's Air
+  Force warned of ballistics inbound at about 23:40 Kyiv time; a missile
+  hit a railway facility in Kyiv's Darnytsia district, killing an
+  Ukrzaliznytsia worker at the scene per board chairman Oleksandr
+  Pertsovskyi. The Boryspil-district toll was revised upward by regional
+  authorities from 1 killed and 5 injured to 2 killed and 8 injured.
+  ([Ukrainska Pravda](https://www.pravda.com.ua/eng/news/2026/08/22/8049807/),
+  [Interfax-Ukraine](https://en.interfax.com.ua/news/general/1195271.html),
+  [Euromaidan Press](https://euromaidanpress.com/2026/08/22/russia-struck-kyiv-and-boryspil-its-main-airport-hub-with-ballistics-ukraine-cant-stop-without-us-patriots-days-before-independence-day/))
+- **Zelensky pressed former US envoy Keith Kellogg on Patriot
+  interceptors in Kyiv**, calling the shortage an "absolute priority"
+  heading into winter — an ask made as Russia runs consecutive ballistic
+  nights against the capital, and two days before Independence Day.
+  ([Kyiv Independent](https://kyivindependent.com/zelensky-former-trump-envoy-kellogg-discuss-air-defense-missiles-during-visit-to-kyiv/))
 
 ## 2026-08-21 — A double-tap drone strike on a Kryvyi Rih shopping mall kills at least 15
 

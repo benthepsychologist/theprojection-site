@@ -29,6 +29,19 @@ blurb: 'The frontier labs are converting private, vendor-financed valuations int
   "as late as next year") move.'
 ---
 
+## 2026-08-21 — A lab prices community opposition into its prospectus
+
+- **Anthropic will name public opposition to data-center construction as
+  a risk factor in its public S-1**, CNBC reported, with CFO Krishna Rao
+  running test-the-waters meetings ahead of a filing expected as soon as
+  end of August. For this thread — labs converting private,
+  vendor-financed valuations into public currency — this is the first
+  instance of a frontier lab putting *local politics* into a securities
+  filing as a named threat to growth. It is the mechanism by which
+  municipal moratoria reach a lab's cost of equity.
+  ([CNBC](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html),
+  [Gizmodo](https://gizmodo.com/anthropic-is-reportedly-being-upfront-with-would-be-investors-about-ai-backlash-2000801944))
+
 ## 2026-08-21 — Citigroup joins the bank slate; the $2T number gets a revenue forecast under it
 
 - **Anthropic added Citigroup to its slate of lead IPO underwriters**, per

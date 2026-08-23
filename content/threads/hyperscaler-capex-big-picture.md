@@ -3,7 +3,7 @@ title: Hyperscaler Capex
 lens: ai
 status: open
 opened: 2026-07-23
-last_seen: 2026-08-18
+last_seen: 2026-08-22
 weight: 3
 entities:
 - google
@@ -21,6 +21,20 @@ blurb: 'The combined 2026 plan is now ~$610-650B across the four (Google $195-20
   and capex migrating off balance sheets (Blue Owl, bonds, leases → the financing
   threads). Earnings Wed/Thu (Meta+MSFT 07-29, AMZN 07-30) are the live test.'
 ---
+
+## 2026-08-22 — Every 2026 capex plan was sized against a cost base that just moved
+
+- **Nvidia told Microsoft's, Google's and Oracle's server manufacturers
+  that prices rise more than 15% on early-2027 systems.** The combined
+  2026 plan this thread tracks — roughly $610-650bn across Google,
+  Microsoft, Amazon and Meta — was budgeted at one cost per unit of
+  compute. A 15%-plus rise in the dominant line item forces one of two
+  answers: the same money buys materially less compute, or the plans go
+  up again. Both are consequential and they point in opposite directions
+  for the "capex is peaking" thesis. Nvidia's Q2 print on **08-26** is the
+  first read on which way it breaks.
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15),
+  [CNBC](https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html))
 
 ## 2026-08-18 — Dell'Oro projects worldwide data-center capex past $3 trillion by 2030
 

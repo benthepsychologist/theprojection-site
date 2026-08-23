@@ -3,7 +3,7 @@ title: Iran's Widening War
 lens: world-news
 status: open
 opened: 2026-07-23
-last_seen: 2026-08-21
+last_seen: 2026-08-22
 weight: 3
 entities: []
 thread_kind: story
@@ -45,6 +45,30 @@ blurb: '⚠️ ORIGIN CORRECTED 2026-08-02 — READ THIS FIRST. This thread spen
   with Netanyahu''s office framing it as pressure ahead of September talks. Track
   this alongside Hormuz/Gulf as a distinct front, not folded into it.'
 ---
+
+## 2026-08-22 — Threats but no strikes, and a US envoy says Israel nearly started a war with Turkey
+
+- **Iran threatened to "harm the interests" of neighbouring states that
+  join Washington's economic campaign, and struck no one.** Iran's Foreign
+  Ministry and a senior security official issued the warning ahead of
+  Bessent's sanctions package landing 08-24, calling Trump's threats "a
+  recipe for colonialism"; a South Pars refinery damaged in an earlier
+  Israeli strike was reported 70% repaired. ⚠️ A dedicated Iran-war live
+  feed was checked across the whole window and showed **no new kinetic
+  strike on Iran itself** — the widening on this thread was economic and
+  rhetorical, not military. Recorded as a finding, not an absence.
+  ([Al Jazeera](https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts),
+  [CNN live](https://www.cnn.com/2026/08/22/world/live-news/iran-war-trump))
+- **US Ambassador to Turkey Tom Barrack said Israel's 08-18 strike on the
+  Abu al-Duhur airfield in Syria could have started a war with Turkey**,
+  and accused Israel of "baiting the Turks." Israel says it struck on
+  intelligence that Turkey planned to station a radar and troops there.
+  The strike is out of window; a serving US envoy saying this on the
+  record about two American partners, one a NATO member, is not — and it
+  is the first evidence on this thread that the widening has a Turkish
+  vector rather than only a Gulf one.
+  ([Haaretz](https://www.haaretz.com/israel-news/israel-security/2026-08-22/ty-article-live/u-s-envoy-barrack-israeli-strike-in-syria-could-have-led-to-war-with-turkey/000001a0-2762-d129-a3ba-676ae4a50000),
+  [Jerusalem Post live](http://www.jpost.com/middle-east/iran-news/2026-08-22/live-updates-906234))
 
 ## 2026-08-21 — Pezeshkian says end the war "now"; Washington answers with sanctions, not strikes — and names the campaign
 

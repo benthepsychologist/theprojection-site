@@ -3,7 +3,7 @@ title: Compute Spend
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-18
+last_seen: 2026-08-22
 weight: 3
 entities:
 - nvidia
@@ -17,6 +17,21 @@ blurb: Where the capex lands in SILICON — the $ flowing to Nvidia/AMD/TSMC/ Br
   plus the custom-silicon revolt (Jalapeño, Trainium, Maia, TPU) as the giants try
   to stop renting from Nvidia. Category meta under where-the-capex-lands.
 ---
+
+## 2026-08-22 — Nvidia raises AI server prices more than 15%, and blames memory
+
+- **Nvidia notified the contract manufacturers building AI servers for
+  Microsoft, Google and Oracle that prices rise more than 15% in many
+  cases on systems shipping in early 2027**, including Vera Rubin and
+  Grace Blackwell configurations, with the increase varying by chip
+  generation and memory configuration. The stated cause is soaring DRAM
+  and HBM prices, with Samsung, SK Hynix and Micron holding the leverage
+  as demand outruns supply. This thread has tracked the dollars flowing to
+  Nvidia, AMD, TSMC and Broadcom; the new fact is that the pricing power
+  inside that flow has moved upstream of all four, to the memory makers.
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15),
+  [Fortune](https://fortune.com/2026/08/22/nvidia-customers-ai-related-price-hikes-15-percent-vera-rubin-grace-blackwell-chips/),
+  [CNBC](https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html))
 
 ## 2026-08-07 — SK hynix approves $38.1B for two new AI-memory fabs
 

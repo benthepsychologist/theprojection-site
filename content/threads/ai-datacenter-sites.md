@@ -3,7 +3,7 @@ title: Datacenter Sites
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-18
+last_seen: 2026-08-21
 weight: 3
 entities:
 - openai
@@ -16,6 +16,19 @@ blurb: Where the capex lands in CONCRETE — the specific gigawatt campuses. Sta
   Colossus, Camellia + the 100s of sites. Category meta under where-the-capex-lands;
   the specific-sites worklist lives here.
 ---
+
+## 2026-08-21 — Site opposition becomes a securities risk factor
+
+- **Anthropic's coming S-1 will name public opposition to data-center
+  construction as a risk factor**, per CNBC. This thread tracks where the
+  capex lands in concrete; the new fact is that the *resistance* to it now
+  has a price. On the same day, Axios Pro Rata led its newsletter with
+  state-level pushback as underpriced risk — New York's temporary
+  moratorium, new Pennsylvania and Texas roadblocks, restrictions in
+  "dozens of other states" — and The AI Daily Brief gave the theme a whole
+  episode. Three independent sources plus a filing, one day.
+  ([CNBC](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html),
+  [Axios Pro Rata](https://www.axios.com/newsletters/axios-pro-rata))
 
 ## 2026-08-17 — OpenAI's Ohio campus lease formally signed: 20 years, phased to 2032
 

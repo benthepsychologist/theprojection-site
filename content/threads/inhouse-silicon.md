@@ -3,7 +3,7 @@ title: In-House Silicon
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-06
+last_seen: 2026-08-21
 weight: 2
 entities:
 - google
@@ -20,6 +20,24 @@ blurb: The custom-silicon revolt (TPU/Trainium/Maia/MTIA) — real but INFERENCE
   demand still grows; the clearest winners are the co- design houses (Broadcom, Marvell).
   Watch whether displacement reaches frontier training.
 ---
+
+## 2026-08-21 — Anthropic hires the founding architect of Google's TPU program
+
+- **Amir Salek, who founded and led Google's custom-silicon division from
+  2013 to 2022 across the first seven generations of the TPU, joined
+  Anthropic's compute team**, reporting to James Bradbury, as part of a
+  push to design its own AI chips. This thread has read the custom-silicon
+  revolt as real but inference-only, anchored by Anthropic *running* on
+  Trainium and TPU rather than building. This is the first hard evidence
+  it intends to design — and the most senior custom-silicon hire any
+  frontier lab has made.
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-21/anthropic-taps-google-chip-veteran-as-part-of-push-into-hardware),
+  [Crypto Briefing](https://cryptobriefing.com/ex-google-amir-salek-joins-anthropic/),
+  [Seeking Alpha](https://seekingalpha.com/news/4636024-anthropic-hires-former-google-chip-developer-as-it-pursues-in-house-solution-report))
+  <!-- k: caught 08-23 by the tier-3 cold rotation; Bloomberg's body is
+       paywalled, so the date rests on its dated URL plus three same-day
+       secondaries citing its "Friday" report — solid on date, unpinned
+       on hour. -->
 
 ## 2026-08-06 — Anthropic joins the in-house silicon story
 
