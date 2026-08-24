@@ -3,7 +3,7 @@ title: AI Bear Turn
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-08-18
+last_seen: 2026-08-23
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,24 @@ blurb: 'Is the tape turning against the AI trade as a whole? Distinct from the c
   breadth (is it AI-specific or macro), the earnings verdicts, and whether the drawdown
   changes actual capex behavior.'
 ---
+
+## 2026-08-23 — Burry puts a fresh "lights out... 100% circular" call on the record two days before Nvidia's print
+
+- **Michael Burry restated his Nvidia short thesis two days ahead of
+  Wednesday's earnings, predicting the print will be "lights out"
+  while calling "100% of announced revenue... circular."** This
+  thread tracks whether the AI trade's bear case survives contact
+  with the earnings catalyst that's supposed to test it — a
+  high-profile bear putting a dated, specific prediction on the record
+  immediately before that catalyst is exactly the marker this thread
+  exists to hold against the outcome. Three aggregators (TradingView,
+  Yahoo Finance, Stocktwits) carry a consistent quote with
+  same-morning timestamps (2026-08-24T07:50-08:31Z = 03:50-04:31 ET).
+  (TradingView / Yahoo Finance / Stocktwits)
+- ⚠️ **Same venue caveat as the parallel entry on
+  [Nvidia as Lender](/threads/nvidia-vendor-financing/):** the quote is corroborated across three
+  independent aggregators, but Burry's original post could not be
+  reached to confirm where he actually said it.
 
 ## 2026-08-19/20 — Fund managers turn more bullish even as bond yields hit 2007 highs; a leveraged AI name falls 8.3% on a day the index rallied
 
