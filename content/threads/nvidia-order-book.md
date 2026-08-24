@@ -3,7 +3,7 @@ title: Nvidia's Order Book
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-10
+last_seen: 2026-08-24
 weight: 2
 entities:
 - nvidia
