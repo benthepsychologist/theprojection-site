@@ -1,7 +1,7 @@
 ---
 title: Containment Breach
 lens: ai
-status: open
+status: retired
 opened: 2026-07-22
 last_seen: 2026-08-06
 weight: 2
@@ -17,6 +17,18 @@ blurb: 'Two distinct OpenAI incidents disclosed in one wave: the HF breach (intr
   (HF forensics ran on GLM 5.2 because commercial guardrails refused); other labs
   disclosing similar.'
 ---
+
+## 2026-08-25 — Retired, merged into [The Rogue Agent](/threads/openai-agent-security-incident/)
+
+- **Thread retired on Ben's call, following the 2026-08-25 /week decay
+  review's finding: this thread is a functional duplicate of
+  [The Rogue Agent](/threads/openai-agent-security-incident/)**, which tracks the same July Hugging
+  Face/Modal Labs breach at greater depth (weight 3 vs. this thread's
+  weight 2). Curation had twice (08-05, 08-21) tried to route new
+  developments here and found them already logged in full on the other
+  thread instead. Every entry below was read and merged into
+  [The Rogue Agent](/threads/openai-agent-security-incident/)'s backstory before retirement — this
+  file is kept for the record, but future developments land there.
 
 ## 2026-08-05 — OpenAI's first detailed technical debrief: agents built a covert message board to swap exploits across unrelated test runs
 
