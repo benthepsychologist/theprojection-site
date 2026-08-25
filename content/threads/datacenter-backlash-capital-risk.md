@@ -73,3 +73,25 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   its opposition, and the industry's most visible CEO saying the
   opposition is a communications failure. ([The
   Neuron](https://www.theneurondaily.com/p/why-sam-altman-thinks-people-hate-ai))
+
+## 2026-08-24 (late catch, added 2026-08-25) — The state's attorney general runs on it, and names the tax break
+
+- **Texas Attorney General Ken Paxton unveiled a four-point "Texas First
+  Data Center Plan" as a plank of his Republican US Senate campaign** —
+  federal legislation barring data centers from using Chinese technology;
+  criminal liability for data-center companies "empowering" AI chatbots
+  found to undermine child safety; support for independent (behind-the-
+  meter) power generation; **repeal of Texas's sales-tax exemption for
+  qualifying data centers**; and explicit backing for Governor Abbott's
+  new siting standards. **Two things make this a capital-risk item rather
+  than a siting item.** First, it puts a specific, quantifiable subsidy —
+  the sales-tax exemption underwriting Texas project economics — on a
+  statewide candidate's chopping block. Second, Bloomberg Government
+  frames both Paxton and Abbott as breaking with Trump on this, which
+  means the opposition now has a Republican primary constituency and not
+  only a local-consent one. Gizmodo reads the pivot as a campaign
+  calculation; that does not change the exposure if it wins. Cross-refs
+  [Datacenter Sites](/threads/ai-datacenter-sites/), and — via the chatbot-liability plank —
+  [The Reckoning](/threads/ai-therapy-regulatory-reckoning/).
+  ([Bloomberg Government](https://news.bgov.com/bloomberg-government-news/paxton-abbott-break-with-trump-and-go-negative-on-data-centers),
+  [Fox News](https://www.foxnews.com/politics/ais-massive-appetite-power-water-ignites-fight-high-stakes-texas-senate-race))
