@@ -3,7 +3,7 @@ title: Russia-Ukraine War
 lens: world-news
 status: open
 opened: 2026-07-31
-last_seen: 2026-08-24
+last_seen: 2026-08-25
 weight: 3
 entities: []
 thread_kind: story
@@ -20,6 +20,10 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   sibling thread the same way Iran''s Widening War / Red Sea Shock did, if and when
   that read becomes substantial enough to carry on its own.'
 ---
+
+## 2026-08-25 — A second overnight barrage in 24 hours hits four cities
+
+- **Russia struck Kyiv, Kharkiv, Zaporizhzhia and Dnipro overnight into August 25 with Banderol missiles and Molniya-type strike drones — a distinct barrage from the Independence Day attack recorded the previous night.** Kharkiv Mayor Ihor Terekhov reported a Molniya drone hit the city's Kyivskyi district at 22:22 and a missile struck the Osnovianskyi industrial zone at 00:19, killing one person. ([UNN](https://unn.ua/en/news/a-russian-missile-strike-on-kharkiv-claimed-a-persons-life), [RBC-Ukraine](https://newsukraine.rbc.ua/news/kyiv-kharkiv-dnipro-and-zaporizhzhia-hit-1787612524.html))
 
 ## 2026-08-24 — Independence Day, in four parts: a smaller-than-billed coalition summit, Russia's answering barrage, a daylight strike on Chernihiv, and strikes reaching new fronts on both sides
 

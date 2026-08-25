@@ -3,7 +3,7 @@ title: PIF Bets Out of Concrete, Into Compute
 lens: global-capital
 status: open
 opened: 2026-08-04
-last_seen: 2026-08-18
+last_seen: 2026-08-25
 weight: 3
 entities:
 - pif
@@ -24,6 +24,11 @@ blurb: 'Whether the NEOM/The Line capital retreat (halted past 2030, only ~1.4% 
   of board.yaml''s $12.5B/yr AI thrust figure against this crawl''s larger ~$21-23B
   HUMAIN deal-book tally (AMD $10B, AWS ~$5.3B, xAI $3B, AirTrunk ~$3B).'
 ---
+
+## 2026-08-25 — HUMAIN lands a new named partner: Mistral AI
+
+- **HUMAIN and French AI lab Mistral AI announced a strategic collaboration described as worth "hundreds of millions of Euros,"** covering AI infrastructure, model development (starting with cybersecurity and voice, plus frontier models optimized for Arabic), and a joint go-to-market push into regulated Saudi industries. This is the "next named position" this thread's watch line has been tracking since it opened. ([Mistral AI](https://mistral.ai/news/mistral-x-humain/))
+- **Mistral will also explore using HUMAIN's own data-center infrastructure to meet its regional compute needs**, which is a direct answer, on the ground, to whether HUMAIN's capacity is being filled by outside demand rather than only Saudi state money. ([Mistral AI](https://mistral.ai/news/mistral-x-humain/))
 
 ## 2026-08-17 — PIF's 2025 annual report cuts against this thread's own fiscal-squeeze thesis
 

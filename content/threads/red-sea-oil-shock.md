@@ -3,7 +3,7 @@ title: Red Sea Shock
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-24
+last_seen: 2026-08-25
 weight: 3
 entities: []
 thread_kind: story
@@ -30,6 +30,11 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   policy. This is the capital-markets and risk-underwriting read of the war, deliberately
   distinct from the conflict itself.'
 ---
+
+## 2026-08-25 — A Houthi ballistic missile hits a Saudi VLCC off Yanbu, and China answers the sanctions campaign on the record
+
+- **Houthi forces struck the Saudi-flagged, Bahri-owned VLCC *Amzan* with a ballistic missile roughly 63 nautical miles off Yanbu, setting a fire aboard; all crew were reported safe and Saudi officials had not confirmed the incident as of first reports.** UK Maritime Trade Operations confirmed a tanker was struck by an unknown projectile in the area; the Houthi military called it enforcement of its declared ban on Saudi maritime navigation. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-24/yemen-s-houthi-rebels-attack-saudi-oil-supertanker-in-red-sea), [Al Jazeera](https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship))
+- **China's Foreign Ministry gave its first on-record response to Monday's "Operation Economic Outcast" sanctions, with spokesperson Lin Jian warning that "economic warfare and maximum pressure will not help resolve the issue" and will "only further intensify tensions and conflicts, create spillover risks."** Beijing said its relationship with Iran "should not be disrupted or undermined" by US pressure — the direct response from the buyer of roughly 90% of Iran's oil exports, per Bessent's own 08-24 framing logged below. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-25/china-defends-cooperation-with-iran-warns-against-disrupting-it-mt8dnid2), [The Hill](https://thehill.com/policy/international/6048518-china-criticizes-us-iran-sanctions/))
 
 ## 2026-08-24 — Oil eases on an Iran-Iraq tanker concession, and then Bessent's "economic D-Day" sanctions actually land
 

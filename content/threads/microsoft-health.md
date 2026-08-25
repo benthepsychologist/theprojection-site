@@ -3,7 +3,7 @@ title: Microsoft Health
 lens: mental-health
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-05
+last_seen: 2026-08-25
 weight: 2
 entities:
 - microsoft
@@ -14,6 +14,10 @@ blurb: Large and fast, but somatic-first (Dragon Copilot, MAI-DxO, Copilot Healt
   the loudest Big-Tech voice on chatbot 'AI psychosis' harm while shipping companions
   — and MH is conspicuously absent from the flagship products.
 ---
+
+## 2026-08-25 — Dragon Copilot opens a physician-app marketplace, still no MH angle
+
+- **Microsoft took Dragon Copilot AI Apps and Agents to general availability on Microsoft Marketplace (August 17, 2026)** — a new discovery/procurement channel letting third-party partners build and sell specialized clinical/operational add-ons (documentation, prior authorization, revenue-cycle, clinical decision support) directly into physician workflows, US-only for now. Distribution-layer expansion, not a new product; the listed capability categories remain administrative/somatic, with no mental-health-specific offering called out. ([Microsoft Community Hub](https://techcommunity.microsoft.com/blog/healthcareandlifesciencesblog/extend-clinical-workflows-with-dragon-copilot-ai-apps-and-agents-in-microsoft-ma/4548688))
 
 ## 2026-08-05 — A second Israeli hospital-chain AI deal, same somatic pattern
 

@@ -3,7 +3,7 @@ title: Parity Limbo
 lens: mental-health
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-18
+last_seen: 2026-08-24
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,10 @@ blurb: 'The real parity story is limbo, not a deadline: the 2024 Biden-era MHPAE
   the enforcement-gap consequences payers price in meanwhile, and any state-level
   parity action filling the federal void.'
 ---
+
+## 2026-08-24 — HHS OIG audits document exactly the enforcement gap this thread tracks, across four states
+
+- **HHS OIG published audit findings on four states (Kansas, New York, Arizona, plus a 2024 baseline) showing Medicaid managed-care organizations apply higher denial rates to behavioral-health prior-authorization requests than to medical/surgical ones, with weak state oversight and no enforcement follow-through.** This is primary documentation of the "enforcement gap's payer behavior" half of this thread's own watch line — not a new policy action, but the first audit-level evidence this thread has logged that the gap is measurable rather than anecdotal. Caught late by the 2026-08-25 coverage-critic pass; the story published inside the 2026-08-24 digest window and was missed because the day's checks looked for a new federal action rather than trade-press synthesis of existing audits. ([Behavioral Health Business](https://bhbusiness.com/2026/08/24/new-hhs-oig-audits-expose-failures-in-parity-enforcement-compliance/))
 
 ## 2026-08-18 — Still limbo: no NPRM, no enforcement, no state fill
 

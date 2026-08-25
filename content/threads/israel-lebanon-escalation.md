@@ -3,7 +3,7 @@ title: Israel–Lebanon
 lens: world-news
 status: open
 opened: 2026-08-07
-last_seen: 2026-08-23
+last_seen: 2026-08-24
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,10 @@ blurb: 'The Israel–Hezbollah front turning hot while its diplomacy stalls: dea
   theatre from iran-conflict-widening (cross-referenced, not merged). Watch: whether
   the talks track survives, and whether strikes escalate past the current tempo.'
 ---
+
+## 2026-08-24 — Lebanese officials assess Israeli strikes are laying groundwork for a wider campaign, tied to Netanyahu's election timeline
+
+- **Lebanese security officials told Asharq al-Awsat that Israel's recent strikes on ridgelines and a transportation route in southern Lebanon are not localized operations but preparation for a possible expansion of fighting, aimed at creating a buffer zone separating Hezbollah strongholds from surrounding areas.** The officials linked the pattern to Israel's approaching general election, assessing Netanyahu may be inclined toward more forceful military action to demonstrate security achievements. ([The Jerusalem Post](http://www.jpost.com/israel-news/defense-news/article-906427))
 
 ## 2026-08-23 — An intelligence claim, not a strike: Hezbollah said to be rearming through Syria during the ceasefire
 

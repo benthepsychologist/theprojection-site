@@ -3,7 +3,7 @@ title: AI Bear Turn
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-08-24
+last_seen: 2026-08-25
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,11 @@ blurb: 'Is the tape turning against the AI trade as a whole? Distinct from the c
   breadth (is it AI-specific or macro), the earnings verdicts, and whether the drawdown
   changes actual capex behavior.'
 ---
+
+## 2026-08-25 — Nvidia's longest losing streak since 2022 runs into its own CEO's admission that AI hasn't found mass-market adoption yet
+
+- **Nvidia closed Monday at $208.48, down 2.91%, its seventh straight daily decline and the longest losing streak for the stock since September 2022** — before ChatGPT existed. The stock is down roughly 8% over the run, a materially smaller drop than the 24% seven-day slide in 2022, but it is the same shape of signal this thread exists to track: a multi-day bleed concentrated in the AI-linked complex the day before the catalyst (Nvidia's Wednesday print) that is supposed to settle the argument. ([24/7 Wall St.](https://247wallst.com/investing/2026/08/25/nvidia-notches-longest-losing-streak-since-2022-tomorrows-earnings-could-make-it-worse/))
+- **Sam Altman, on a podcast released the same day, said AI has "not had the iPhone moment" of mass-market adoption — comparing the current moment to the Palm Treo era before the iPhone changed how people use technology.** Coming from OpenAI's own CEO rather than a short-seller, this is a demand-side admission distinct from the circular-financing mechanics this map tracks elsewhere: even the industry's most bullish voice is now dating real adoption to the future rather than the present, on the eve of the earnings print investors are treating as the AI trade's stress test. ([9to5Mac](https://9to5mac.com/2026/08/25/ai-awaiting-its-iphone-moment-says-altman-needs-to-learn-key-apple-lesson/))
 
 ## 2026-08-24 — The bear turn shows up in prices: a broad semiconductor selloff two days before Nvidia's print
 

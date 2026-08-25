@@ -3,7 +3,7 @@ title: Gaza War
 lens: world-news
 status: open
 opened: 2026-08-01
-last_seen: 2026-08-24
+last_seen: 2026-08-25
 weight: 3
 entities: []
 thread_kind: story
@@ -37,6 +37,10 @@ blurb: 'Opened on Ben''s steer 2026-08-01, after a disarmament framework announc
   Ministry range as broadly accurate. Both the inflation and the undercount framings
   still circulate; report both, resolve neither.'
 ---
+
+## 2026-08-25 — The Board of Peace criticizes Israeli conduct in Gaza publicly for the first time
+
+- **A Board of Peace official said publicly that Israeli military action in Gaza "cannot extend beyond responding to genuine and imminent threats," and that "all militant activity in Gaza must stop, including the flying of kites" — the first time the body has criticized Israel's conduct in Gaza on the record rather than staying silent on it.** IDF Chief of Staff Lt. Gen. Eyal Zamir responded the same day that "the pursuit of the October 7 terrorists continues" and that anyone who took part in the 2023 attack "will live under pursuit until they are eliminated." ([The Times of Israel](https://www.timesofisrael.com/liveblog-august-25-2026/))
 
 ## 2026-08-24 — Sunday's threat to "intensify strikes" becomes Monday's casualties
 

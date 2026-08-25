@@ -3,7 +3,7 @@ title: Circular Financing
 lens: ai
 status: developing
 opened: 2026-06-28
-last_seen: 2026-08-23
+last_seen: 2026-08-25
 weight: 3
 entities:
 - nvidia
@@ -24,6 +24,10 @@ blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops wh
   in talks down to under $120B, phase-1 only (08-15). Track whether other lenders
   follow Nvidia''s retreat.'
 ---
+
+## 2026-08-25 — Nvidia's earnings preview turns into a referendum on the loop itself, one day out
+
+- **Wire-service earnings previews ahead of Wednesday's print are now explicitly framing "circular financing" as the thing Nvidia's quarter has to answer, not a side debate** — citing this month's $500B Wall Street financing-platform mobilization and the $105B OpenAI Ohio guarantee as the two facts investors are weighing against the risk that they "artificially inflate demand and distort broader economic signals." That framing appearing in a mainstream pre-earnings wire story, rather than in Burry's Substack or a critic's newsletter, is the new fact: the loop is now the market's own lens on the print, not a minority read of it. ([Reuters, via Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/nvidia-faces-growth-test-rubin-100234535.html))
 
 ## 2026-08-21 — OpenAI's revenue growth reported to retake the lead from Anthropic
 

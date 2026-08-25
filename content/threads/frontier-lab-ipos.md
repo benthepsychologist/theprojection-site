@@ -3,7 +3,7 @@ title: Lab IPO Wave
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-08-23
+last_seen: 2026-08-24
 weight: 3
 entities:
 - openai
@@ -28,6 +28,14 @@ blurb: 'The frontier labs are converting private, vendor-financed valuations int
   does Anthropic''s S-1 land on schedule, and does OpenAI''s own timeline (currently
   "as late as next year") move.'
 ---
+
+## 2026-08-24 — Matt Levine asks who should control Anthropic, the same week its IPO chatter escalates
+
+- **Bloomberg's Matt Levine devoted his 08-24 Money Stuff column to "Who Should Control Anthropic?"** — a governance question about the company this thread is tracking through its S-1 risk factors and IPO chatter, running the same week the raise target escalated (below). The column itself is paywalled past its RSS headline and timestamp, so its argument isn't recoverable here; logged for the fact that a flagship markets commentator is asking the control question in print, not for what he concludes. Caught late by the 2026-08-25 coverage-critic pass. ([Bloomberg Opinion — Money Stuff, dated Mon 24 Aug 2026 18:18 GMT](https://www.bloomberg.com/opinion/newsletters/2026-08-24/money-stuff))
+
+## 2026-08-24 — Bankers reportedly guide investors toward a $100bn+ raise, escalating past this thread's own benchmark
+
+- **Anthropic's bankers are reportedly guiding investors toward an IPO raise of more than $100bn — enough to "match or beat" SpaceX's $85.7bn record — with the company approaching a $2 trillion valuation and a possible listing "as soon as October."** This escalates past the $75-86.2bn range this thread had been benchmarking the chatter against as of 08-20/08-21. No company statement or filing; sourced to the New York Times via a Daily Sabah pickup, plus CNBC's separate reporting on the S-1's risk-factor language. Caught late by the 2026-08-25 coverage-critic pass. ([Daily Sabah](https://www.dailysabah.com/business/tech/anthropic-eyes-100b-ipo-raise-to-rival-spacexs-record))
 
 ## 2026-08-21 — A lab prices community opposition into its prospectus
 

@@ -3,7 +3,7 @@ title: Iran's Widening War
 lens: world-news
 status: open
 opened: 2026-07-23
-last_seen: 2026-08-24
+last_seen: 2026-08-25
 weight: 3
 entities: []
 thread_kind: story
@@ -45,6 +45,11 @@ blurb: '⚠️ ORIGIN CORRECTED 2026-08-02 — READ THIS FIRST. This thread spen
   with Netanyahu''s office framing it as pressure ahead of September talks. Track
   this alongside Hormuz/Gulf as a distinct front, not folded into it.'
 ---
+
+## 2026-08-25 — Trump claims an Iranian "humanitarian crisis," and Tehran says it is "fully prepared" to counter the new sanctions
+
+- **Trump said on Truth Social that Iran is "not paying large segments of their military" and is "killing protesters... at levels not seen before," calling it "a humanitarian crisis of epic proportions" that "must be stopped, NOW" — an unverified, single-source claim with no evidence cited.** ([Israel National News](https://www.israelnationalnews.com/news/432212))
+- **Iran's Finance Minister Ali Madanizadeh said Tehran is "fully prepared" to counter the new US sanctions package, and top negotiator Mohammad Bagher Ghalibaf dismissed the threats — the government's first on-record reaction to Monday's "Operation Economic Outcast" designations logged below.** ([ABC News](https://abcnews.com/International/live-updates/iran-live-updates/?id=135895428))
 
 ## 2026-08-24 — Bessent's "Operation Economic Outcast" lands: ~60 designations, five sectoral determinations, and every Bank Melli branch ordered shut
 

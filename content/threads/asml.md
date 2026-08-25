@@ -3,7 +3,7 @@ title: ASML — the EUV Monopoly
 lens: ai
 status: open
 opened: 2026-08-04
-last_seen: 2026-08-21
+last_seen: 2026-08-25
 weight: 3
 entities:
 - asml
@@ -31,6 +31,10 @@ blurb: 'Guidance is climbing (€36-40B to €43-45B for FY2026) while the China
   follow-on yet. Next: Q3 2026 earnings, MATCH Act''s Senate/NDAA fate, Lutnick inquiry
   resolution.'
 ---
+
+## 2026-08-25 — Chinese state media urges Dutch retaliation over the threatened ASML export ban
+
+- **Global Times published an op-ed telling the Netherlands to answer any US-forced ban on ASML China sales with a Canada-style countermeasure, arguing the move would only accelerate China's domestic DUV substitution rather than protect US leverage.** The piece is a state-media signal on the third front of this fight — China's own public response — rather than confirmation of any new US or Dutch policy action. ([Global Times](https://www.globaltimes.cn/page/202608/1368931.shtml))
 
 ## 2026-08-21 — Correction: the MATCH Act's vehicle stalled five weeks ago, over Iran
 

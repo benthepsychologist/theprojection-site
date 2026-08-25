@@ -3,7 +3,7 @@ title: Social Media Fight
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-08-23
+last_seen: 2026-08-25
 weight: 2
 entities:
 - meta-ai
@@ -15,6 +15,10 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
   real academic gains (6.4% test scores) but consistently null mental-health effects.
   Two different claims being cited as one.'
 ---
+
+## 2026-08-25 — Psychologist Jean Twenge testifies in the Oakland trial that social media use likely caused a decline in adolescent wellbeing
+
+- **Jean Twenge testified for nearly four hours at the Meta child-safety trial in Oakland that daily social media use has likely caused low psychological wellbeing in adolescents, citing reviewed studies showing increases in depression, self-harm and suicide — up to 5% in one 100,000-person study spanning 2010 to 2023 — with the largest effects among girls aged 10-17.** Meta's attorney challenged the causal claim on cross-examination, noting her research did not break down effects by specific app and sometimes conflated social media with other tech use such as gaming. ([Courthouse News Service](https://courthousenews.com/meta-questions-psychologists-testimony-in-teen-mental-health-harms-trial/))
 
 ## 2026-08-23 — New Zealand proposes an Australia-style under-16 social media ban
 
