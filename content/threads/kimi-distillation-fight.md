@@ -3,7 +3,7 @@ title: Distillation Fight
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-20
+last_seen: 2026-08-25
 weight: 3
 entities:
 - moonshot-ai
@@ -17,6 +17,16 @@ blurb: 'The White House (OSTP''s Kratsios) directly accused Moonshot of distilli
   Moonshot''s response, independent verification one way or the other, and whether
   it chills enterprise adoption of K3.'
 ---
+
+## 2026-08-25 — Moonshot seeks US cloud distribution for Kimi K3
+
+- **Moonshot AI opened talks with Microsoft, Amazon and Google to host
+  Kimi K3 under a revenue-share worth up to 30% to the clouds.** Reuters
+  reported the discussions as early, with the split, data access and
+  token-tracking mechanics all unresolved. It inverts the usual
+  direction of this story: a Chinese lab selling *through* US
+  infrastructure rather than building away from it.
+  ([Reuters, via Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/exclusive-chinas-moonshot-talks-microsoft-075340033.html))
 
 ## 2026-08-19 — The Moonshot allegation broadens: three more Chinese labs, and a bill to close the loophole
 

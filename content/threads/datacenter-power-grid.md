@@ -3,7 +3,7 @@ title: Grid & Turbines
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-24
+last_seen: 2026-08-26
 weight: 1
 entities:
 - spacex
@@ -16,6 +16,26 @@ blurb: The grid is the binding constraint (not chips) — interconnection queues
   fights. Watch the DOJ national- security shield over xAI's unpermitted turbines
   — the improvisation has outrun the regulatory system.
 ---
+
+## 2026-08-26 — Amazon withdraws a groundwater bid after Virginia says no
+
+- **Amazon Data Services withdrew its Virginia DEQ application to draw up
+  to 6.4 million gallons a year from the Potomac aquifer for the proposed
+  Birchwood Tech Campus in King George County**, after a DEQ report warned
+  the aquifer could not absorb major new withdrawals and a state senator
+  called the request "indefensible." Water is now doing what
+  interconnection queues have been doing — a hard physical constraint a
+  siting decision has to route around rather than negotiate.
+  ([Virginia Mercury](https://virginiamercury.com/2026/08/26/amazon-changes-course-on-water-use-for-king-george-data-center-campus/))
+
+## 2026-08-25 — US gas buildout outpaces China's, on AI load
+
+- **A Global Energy Monitor analysis found the US now building roughly
+  twice as much gas-fired capacity as China, with AI data-center demand
+  the stated driver.** US gas capacity under development rose 50% since
+  January, from 252GW to 378GW, after a 76% jump in projects under
+  construction in the first half of 2026.
+  ([Global Energy Monitor, via The Guardian](https://www.chinastrategy.org/2026/08/25/us-building-twice-as-much-gas-fired-capacity-as-china-in-ai-boom-analysis-finds/))
 
 ## 2026-08-24 — The buildout's demand reaches the electrical supply chain: two power-component acquisitions in one day
 

@@ -3,7 +3,7 @@ title: The G7 Trade War
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-08-24
+last_seen: 2026-08-26
 weight: 2
 entities: []
 thread_kind: story
@@ -20,6 +20,27 @@ blurb: 'Whether the US-Canada tariff fight is a negotiating posture or a structu
   tariff (a genuinely new category, not an increase on an existing one) reaches specific
   manufacturers by name.'
 ---
+
+## 2026-08-26 — Republican senators break with the White House on the Canada tariffs
+
+- **Republican senators publicly urged a reversal of the Canada tariffs,
+  roughly ten weeks from the midterms**, with lawmakers including Maine's
+  Susan Collins — in a competitive race — invoking the 1890 McKinley and
+  1930 Smoot-Hawley tariffs as warnings from the party's own history.
+  This is the first domestic political cost attached to the fight in this
+  thread's record, as distinct from the economic cost. ⚠️ The article
+  geo-blocked on direct fetch, so the specific quotes are
+  reported-but-not-read-in-full.
+  ([CNN](https://www.cnn.com/2026/08/26/politics/republicans-trump-tariffs-midterms))
+
+- **Trump escalated rhetorically while Carney consolidated politically** —
+  Trump posted repeatedly calling Canada the "most difficult and
+  unreasonable" trading partner, claimed without cited evidence that it
+  charges US farmers "400% tariffs," and floated renaming Lake Ontario
+  "Lake America"; Carney spent the morning briefing opposition leaders
+  on a "Team Canada" line. One side is escalating in public, the other
+  building cross-party cover for a schedule that starts 09-08.
+  ([BNN Bloomberg](https://www.bnnbloomberg.ca/tariffs/2026/08/26/sounds-like-me-trump-suggests-us-added-new-conditions-at-11th-hour-of-negotiations-with-canada-live-updates-here/))
 
 ## 2026-08-25 — Thread opened, backfilled from global-capital's 08-24 digest
 
@@ -40,3 +61,26 @@ blurb: 'Whether the US-Canada tariff fight is a negotiating posture or a structu
   Jazeera](https://www.aljazeera.com/economy/2026/8/24/trump-slams-canada-with-new-50-percent-auto-tariffs-for-2027),
   [CNBC](https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html),
   [CBS News](https://www.cbsnews.com/news/trump-canadian-automotive-steel-tariffs/))
+
+- **Canada published a dollar-for-dollar retaliation list covering roughly
+  C$20bn of US goods — steel and aluminium doubling to 50%, plus dairy,
+  appliances, furniture, clothing, seafood and cosmetics — tiered at
+  15/25/50% and effective 2026-09-08, alongside a C$7.5bn domestic aid
+  package.** This is the first dated Canadian counter-measure on the
+  ledger; the thread previously carried only the US side's 2027-01-01
+  auto/steel schedule.
+  ([CNBC](https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html),
+  [Washington Post](https://www.washingtonpost.com/business/2026/08/25/canada-issues-retaliatory-tariffs-up-50-percent-us-imports/))
+
+- **The White House answered within hours with a statement titled
+  "President Trump Is Finally Ending Canada's Free Ride," but announced
+  no counter-escalation alongside it.** The reply was rhetorical rather
+  than tariff-bearing, which is the notable part.
+  ([The White House](https://www.whitehouse.gov/releases/2026/08/president-trump-is-finally-ending-canadas-free-ride/))
+
+- **Trump then confirmed Canada's account of how the talks collapsed**,
+  telling CNN "That sounds like me" and "No, no, I don't deny anything"
+  when asked whether the US had added conditions at the eleventh hour.
+  For a thread asking whether the collapse was tactical or structural,
+  this is the negotiator conceding the tactical reading on the record.
+  ([BNN Bloomberg](https://www.bnnbloomberg.ca/tariffs/2026/08/26/sounds-like-me-trump-suggests-us-added-new-conditions-at-11th-hour-of-negotiations-with-canada-live-updates-here/))

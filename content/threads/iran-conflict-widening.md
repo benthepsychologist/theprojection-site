@@ -3,7 +3,7 @@ title: Iran's Widening War
 lens: world-news
 status: open
 opened: 2026-07-23
-last_seen: 2026-08-25
+last_seen: 2026-08-26
 weight: 3
 entities: []
 thread_kind: story
@@ -45,6 +45,23 @@ blurb: '⚠️ ORIGIN CORRECTED 2026-08-02 — READ THIS FIRST. This thread spen
   with Netanyahu''s office framing it as pressure ahead of September talks. Track
   this alongside Hormuz/Gulf as a distinct front, not folded into it.'
 ---
+
+## 2026-08-26 — Iran names a temporary Hormuz corridor; oil falls ~6% over two days
+
+- **Iran announced a temporary transit corridor through the Strait of
+  Hormuz, roughly seven miles wide and entered through Iranian
+  territorial waters, while an IRGC spokesman said Iran and Oman had
+  "reached agreements" on sharing transit revenues.** Both officials
+  called it preliminary — coordinates, start date and revenue mechanics
+  all unresolved — and Iran's position remains that the strait is closed
+  until the US accepts its terms. ⚠️ Logged as an agreement-in-principle
+  milestone, NOT as resolving iran-oman-hormuz-deal-signing: there is
+  no signature, no joint statement, and none of that claim's three named
+  terms (60-day no-toll window, dual lanes, 30-day mine-clearing) is
+  confirmed. Two Hormuz arrangements have already collapsed
+  mid-negotiation this year.
+  ([Al Jazeera](https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know),
+  [Al-Monitor](https://www.al-monitor.com/originals/2026/08/iran-and-oman-reach-agreements-share-hormuz-and-revenues-revolutionary-guards-say))
 
 ## 2026-08-25 — Trump claims an Iranian "humanitarian crisis," and Tehran says it is "fully prepared" to counter the new sanctions
 

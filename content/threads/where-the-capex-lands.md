@@ -3,7 +3,7 @@ title: Where the Capex Lands
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-23
+last_seen: 2026-08-25
 weight: 3
 entities:
 - nvidia
@@ -25,6 +25,16 @@ blurb: 'The ~$750B question posed as a DESTINATION, not a spender: where does th
   standards (08-12). Track which outcome the majority of the project queue lands on,
   not just whether the gap exists.'
 ---
+
+## 2026-08-25 — An $11.3bn Tennessee campus files, with power attached
+
+- **Backers of "Project River" filed rezoning and annexation applications
+  for an $11.3bn Bradley County, Tennessee campus pairing a large data
+  center with on-site natural-gas and biomass generation.** Public forums
+  are set for 09-01 and 09-12 before any vote. The bring-your-own-
+  generation pattern routes around the interconnection queue that has
+  been the binding constraint at most of this thread's other sites.
+  ([Chattanoogan](https://www.chattanoogan.com/2026/8/26/522510/Proponents-Of-Bradley-County-Project.aspx))
 
 ## 2026-08-22 (late catch, added 2026-08-23) — Alibaba raises $10.2bn in Hong Kong's largest-ever follow-on, and puts 100% of it into AI
 

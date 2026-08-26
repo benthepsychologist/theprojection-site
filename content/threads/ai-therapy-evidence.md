@@ -3,7 +3,7 @@ title: AI Therapy Evidence
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-08-17
+last_seen: 2026-08-25
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -15,6 +15,23 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   maturing into a real subfield: VERA-MH benchmark, RAND''s intermediate-risk failures,
   EmoAgent.'
 ---
+
+## 2026-08-25 — An AI avatar is tested against the PTSD diagnostic gold standard
+
+- **US military researchers began the first US study comparing Mentaily's
+  "LIV" AI avatar against the CAPS clinician-administered PTSD scale**,
+  the current diagnostic gold standard. The Uniformed Services University
+  researcher cites evaluator time and cost burden, and Israeli pilot data
+  suggesting patients disclose suicidal ideation more readily to an
+  avatar than a person. This moves the AI-evidence question from therapy
+  to diagnosis, where an established gold standard makes the comparison
+  unusually falsifiable; the disclosure claim is the one to watch.
+  ([MobiHealthNews](https://www.mobihealthnews.com/news/qa-us-military-researchers-use-israeli-ai-avatar-study-ptsd-us-servicemembers))
+  <!-- k: caught 2026-08-26 by the mental-health coverage critic on the
+       08-25 finalize, not by any of the day's four sweeps. It is a
+       feature/Q&A rather than breaking news, so it never clustered
+       across outlets the way an FDA action or a lawsuit does — which is
+       the specific blind spot the benchmark critic exists to cover. -->
 
 ## 2026-08-17 — Two AI therapists tested head-to-head; Colorado writes the rules
 

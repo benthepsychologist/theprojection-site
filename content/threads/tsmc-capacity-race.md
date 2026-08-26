@@ -3,7 +3,7 @@ title: TSMC Capacity Race
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-23
+last_seen: 2026-08-25
 weight: 3
 entities:
 - tsmc
@@ -17,6 +17,16 @@ blurb: 'The chokepoint is cashing in: capex raised 15% to $60-64B + another $100
   ban, 07-21). "Nvidia overtook Apple as top customer" is contested, not settled.
   Our ~90% advanced-node anchor is carried, not re-verified. Next: Q3 earnings.'
 ---
+
+## 2026-08-25 — Apple ships the first commercial silicon on TSMC's N2 node
+
+- **Apple unveiled the M6, in a refreshed Mac mini, as the first
+  commercial product built on TSMC's N2 (2nm) process, with the M5 Ultra
+  shipping alongside in a refreshed Mac Studio.** N2 is now a proven
+  production node rather than a roadmap promise — the gate the
+  smartphone, HPC and custom-ASIC customers queued behind it all sit
+  behind.
+  ([Apple Newsroom](https://www.apple.com/newsroom/))
 
 ## 2026-08-17 — TSMC's overseas fabs turn real money: Arizona +663% YoY, Japan's Kumamoto profitable for the first time
 

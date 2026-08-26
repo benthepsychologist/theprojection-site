@@ -3,7 +3,7 @@ title: Hyperscaler Capex
 lens: ai
 status: open
 opened: 2026-07-23
-last_seen: 2026-08-22
+last_seen: 2026-08-25
 weight: 3
 entities:
 - google
@@ -21,6 +21,17 @@ blurb: 'The combined 2026 plan is now ~$610-650B across the four (Google $195-20
   and capex migrating off balance sheets (Blue Owl, bonds, leases → the financing
   threads). Earnings Wed/Thu (Meta+MSFT 07-29, AMZN 07-30) are the live test.'
 ---
+
+## 2026-08-25 — OpenAI's data-center chief departs mid-buildout
+
+- **Chris Malone, who ran the data-center buildout underpinning OpenAI's
+  roughly $600bn compute-spend target through 2030, left the company.**
+  His responsibilities were split among three named leaders reporting to
+  VP Sachin Katti; reporting counts him as the thirteenth senior
+  departure of 2026, ahead of a planned 2027 listing. The buildout is
+  the company's largest financial commitment and its coordinator changed
+  mid-flight.
+  ([CNBC](https://www.cnbc.com/2026/08/25/openais-head-of-data-centers-chris-malone-is-out-in-latest-exec-exit.html))
 
 ## 2026-08-22 — Every 2026 capex plan was sized against a cost base that just moved
 

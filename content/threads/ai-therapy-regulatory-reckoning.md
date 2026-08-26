@@ -3,7 +3,7 @@ title: The Reckoning
 lens: mental-health
 status: developing
 opened: 2026-06-28
-last_seen: 2026-08-23
+last_seen: 2026-08-25
 weight: 3
 entities:
 - character-ai
@@ -17,6 +17,18 @@ blurb: 'The capability/approval gap for AI mental-health chatbots is being close
   real regulatory pathway (FDA/MHRA), case outcomes, and any big-tech health-arm move
   into the vacuum. Ben''s sharpest edge — the evidence-gap thesis playing out live.'
 ---
+
+## 2026-08-25 — Anthropic funds outside clinical evaluation of its own model
+
+- **Anthropic opened a $5M grant programme funding independent,
+  clinician-involved research into how Claude affects users in
+  mental-health-crisis and emotional-support contexts, with applications
+  due 09-21.** The vendor-funded-evidence question is the live one: who
+  controls publication, whether null results reach print, and whether
+  "independent" survives the funding agreement. Worth crediting what is
+  unusual too — an AI developer commissioning outside clinical evaluation
+  of psychological harm is not the industry norm.
+  ([Anthropic](https://www.anthropic.com/news/wellbeing-research-grants))
 
 ## 2026-08-23 — The FDA says formal generative-AI guidance is coming
 

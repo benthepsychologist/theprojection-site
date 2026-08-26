@@ -3,7 +3,7 @@ title: Lab IPO Wave
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-08-24
+last_seen: 2026-08-26
 weight: 3
 entities:
 - openai
@@ -28,6 +28,16 @@ blurb: 'The frontier labs are converting private, vendor-financed valuations int
   does Anthropic''s S-1 land on schedule, and does OpenAI''s own timeline (currently
   "as late as next year") move.'
 ---
+
+## 2026-08-26 — Analysts start doing the arithmetic on Anthropic's $30tn pitch
+
+- **Analysts pushed back on Anthropic's $30 trillion addressable-market
+  pitch, noting that all S&P 1500 technology companies combined generate
+  roughly $2.4 trillion of annual revenue.** NYU's Aswath Damodaran was
+  among those quoted. The pitch itself is filed under 08-25; what is new
+  is the arithmetic objection, and it is the specific number the
+  prospectus will have to defend against $11.6bn of realised Q2 revenue.
+  ([TipRanks, summarizing the WSJ report](https://www.tipranks.com/news/anthropic-pitches-investors-a-30t-revenue-opportunity-bigger-than-spacexs-spcx-ipo-record))
 
 ## 2026-08-25 — Anthropic's IPO pitch puts a number on the whole opportunity: over $30 trillion
 
