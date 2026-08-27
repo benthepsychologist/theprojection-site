@@ -147,7 +147,8 @@ li.receipt-cite .src-meta{ font-family:var(--sans); color:var(--ink-45); margin-
       <p class="src-meta">This is an aggregate — its evidence is the members' own claims.</p>
       <ul class="cites">
         {{ range $mid := . }}{{ $m := index $claimById $mid }}
-        <li><a href="/claim/{{ $mid }}/">{{ or (index $nameBySlug $m.subject) (humanize $m.subject) }}</a> <span class="src-meta">{{ $m.value | truncate 90 }}</span></li>
+        {{ $mHref := cond (hasPrefix $mid "q1-") (printf "/q1claim/%s/" $mid) (printf "/claim/%s/" $mid) }}
+        <li><a href="{{ $mHref }}">{{ or (index $nameBySlug $m.subject) (humanize $m.subject) }}</a> <span class="src-meta">{{ $m.value | truncate 90 }}</span></li>
         {{ end }}
       </ul>
     </div>

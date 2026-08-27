@@ -78,7 +78,7 @@
       <h2>By transaction type</h2>
       <table class="fm-bd-table"><tbody>
         {{ range $byFlowType }}
-        <tr><td><a href="/claim/{{ .id }}/">{{ .short_label | humanize }}</a></td>
+        <tr><td><a href="/q1claim/{{ .id }}/">{{ .short_label | humanize }}</a></td>
           <td class="fm-bd-amt">{{ if gt .total_usd 0 }}{{ printf "$%.1fB" (div .total_usd 1000000000) }}{{ else }}—{{ end }}</td></tr>
         {{ end }}
       </tbody></table>
@@ -88,7 +88,7 @@
       <h2>By what it bought</h2>
       <table class="fm-bd-table"><tbody>
         {{ range $byDest }}
-        <tr><td><a href="/claim/{{ .id }}/">{{ .short_label | humanize }}</a></td>
+        <tr><td><a href="/q1claim/{{ .id }}/">{{ .short_label | humanize }}</a></td>
           <td class="fm-bd-amt">{{ if gt .total_usd 0 }}{{ printf "$%.1fB" (div .total_usd 1000000000) }}{{ else }}—{{ end }}</td></tr>
         {{ end }}
       </tbody></table>
@@ -97,7 +97,7 @@
       <h2>Where it's going — top tracked recipients</h2>
       <table class="fm-bd-table"><tbody>
         {{ range $byRecipient }}
-        <tr><td><a href="/claim/{{ .id }}/">{{ .short_label }}</a></td>
+        <tr><td><a href="/q1claim/{{ .id }}/">{{ .short_label }}</a></td>
           <td class="fm-bd-amt">{{ printf "$%.1fB" (div .total_usd 1000000000) }}</td></tr>
         {{ end }}
       </tbody></table>
