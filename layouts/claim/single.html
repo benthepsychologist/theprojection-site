@@ -67,6 +67,9 @@ table.claim-pieces .piece-amt{ text-align:right; font-variant-numeric:tabular-nu
 table.claim-pieces .piece-amt.piece-unsettled{ font-weight:400; color:var(--ink-45); font-style:italic; }
 table.claim-pieces .piece-asof{ color:var(--ink-45); font-size:.78rem; white-space:nowrap; padding-left:.8rem; }
 table.claim-pieces tfoot td{ padding-top:.6rem; font-weight:700; border-top:2px solid var(--ink-12); border-bottom:none; }
+table.claim-pieces tr.piece-self-funded td:first-child{ color:var(--ink-70); }
+.piece-sf-tag{ display:inline-block; font-size:.66rem; text-transform:uppercase; letter-spacing:.04em;
+  color:var(--ink-45); background:var(--ink-06); border-radius:2px; padding:.1rem .4rem; margin-left:.3rem; }
 </style>
 </head>
 <body>
@@ -175,8 +178,8 @@ table.claim-pieces tfoot td{ padding-top:.6rem; font-weight:700; border-top:2px 
         <tbody>
           {{ range $m := $ordered }}
           {{ $mHref := cond (hasPrefix $m.id "q1-") (printf "/q1claim/%s/" $m.id) (printf "/claim/%s/" $m.id) }}
-          <tr>
-            <td><a href="{{ $mHref }}">{{ $m.label }}</a></td>
+          <tr{{ if $m.self_funded }} class="piece-self-funded"{{ end }}>
+            <td><a href="{{ $mHref }}">{{ $m.label }}</a>{{ if $m.self_funded }} <span class="piece-sf-tag">self-funded</span>{{ end }}</td>
             <td class="piece-asof">{{ $m.as_of }}</td>
             {{ if $m.amount_usd }}
             <td class="piece-amt">{{ if ge $m.amount_usd 1000000000.0 }}{{ printf "$%.1fB" (div $m.amount_usd 1000000000.0) }}{{ else }}{{ printf "$%.1fM" (div $m.amount_usd 1000000.0) }}{{ end }}</td>
