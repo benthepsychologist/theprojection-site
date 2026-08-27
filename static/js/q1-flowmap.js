@@ -86,7 +86,7 @@
     var label = document.createElementNS(svgNS, "text");
     label.setAttribute("x", 6);
     label.setAttribute("y", 13);
-    label.textContent = truncate(n.canonical_label || n.entity_slug || n.id, 32);
+    label.textContent = truncate(n.facet_label || n.canonical_label || n.entity_slug || n.id, 32);
     grp.appendChild(label);
 
     grp.addEventListener("click", function () { selectNode(n.id); });
@@ -131,7 +131,7 @@
     if (!panel) return;
     panel.hidden = false;
     var html = "<button class='fm-close' aria-label='Close'>×</button>";
-    html += "<h2>" + escapeHtml(n.canonical_label || n.entity_slug) + "</h2>";
+    html += "<h2>" + escapeHtml(n.facet_label || n.canonical_label || n.entity_slug) + "</h2>";
     if (n.activity) html += "<p class='fm-activity'>" + escapeHtml(n.activity) + "</p>";
     if (n.core_buildout) html += "<p class='fm-tag'>inside cut:core-buildout</p>";
     html += "<h3>" + connected.length + " connected flow" + (connected.length === 1 ? "" : "s") + "</h3>";
@@ -141,7 +141,7 @@
       var other = nodesById[otherId];
       var dir = e.source === n.id ? "→ " : "← ";
       html += "<li><span class='fm-dir'>" + dir + "</span>";
-      html += "<a href='#' class='fm-jump' data-id='" + escapeHtml(otherId) + "'>" + escapeHtml(other ? (other.canonical_label || other.id) : otherId) + "</a>";
+      html += "<a href='#' class='fm-jump' data-id='" + escapeHtml(otherId) + "'>" + escapeHtml(other ? (other.facet_label || other.canonical_label || other.id) : otherId) + "</a>";
       if (e.total_amount) html += " <span class='fm-fa'>" + fmtAmount(e.total_amount) + "</span>";
       if (e.role) html += " <span class='fm-role'>(" + escapeHtml(e.role) + ")</span>";
       (e.flows || []).forEach(function (f) {
@@ -181,7 +181,7 @@
       var q = search.value.trim().toLowerCase();
       Object.keys(nodeEls).forEach(function (id) {
         var n = nodesById[id];
-        var match = !q || (n.canonical_label || "").toLowerCase().indexOf(q) !== -1;
+        var match = !q || (n.facet_label || n.canonical_label || "").toLowerCase().indexOf(q) !== -1;
         nodeEls[id].classList.toggle("fm-search-dim", !match);
       });
     });
