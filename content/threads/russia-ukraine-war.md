@@ -3,7 +3,7 @@ title: Russia-Ukraine War
 lens: world-news
 status: open
 opened: 2026-07-31
-last_seen: 2026-08-25
+last_seen: 2026-08-26
 weight: 3
 entities: []
 thread_kind: story
@@ -20,6 +20,32 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   sibling thread the same way Iran''s Widening War / Red Sea Shock did, if and when
   that read becomes substantial enough to carry on its own.'
 ---
+
+## 2026-08-26 — An hours-long combined barrage on Kyiv, and the graft case reaches the president's chief of staff
+
+- **Russia struck Kyiv and several other regions with an hours-long combined
+  missile-and-drone attack beginning around 03:00 Kyiv time (~20:00 ET).**
+  Ukraine's Air Force reported downing or suppressing one Oniks cruise missile,
+  seven Iskander-M/KN-23 ballistic missiles, three S8000 Banderol drones and 222
+  other drones. Debris fell in Kyiv's Podilskyi and Shevchenkivskyi districts,
+  hitting a residential courtyard and an educational building; industrial sites
+  in Kremenchuk and an energy facility in Myrhorod were struck, triggering
+  emergency outages, along with an apartment building in Kharkiv. ⚠️ **Casualty
+  figures were not consistently reported and no toll is asserted here.**
+  ([Kyiv Independent](https://kyivindependent.com/explosions-rock-kyiv-as-russia-launches-ballistic-missiles-at-the-capital-and-other-regions-across-ukraine/),
+  [United24 Media](https://united24media.com/war-in-ukraine/kyiv-endures-hours-long-drone-attack-as-russia-strikes-ukraine-from-odesa-to-kharkiv-21993))
+
+- **NABU wiretap transcripts entered into an 08-25 court hearing place
+  Zelensky's chief of staff Kyrylo Budanov in calls tied to laundered bail money
+  for jailed ex-Energy Minister Herman Halushchenko.** Per the transcripts,
+  Timur Mindich allegedly delivered ~150 million hryvnia (~$3.4M) on June 17
+  toward bail in the Energoatom corruption case; the tapes surfaced in the
+  separate case against former deputy chief of staff Iryna Mudra. ⚠️ **Logged
+  here for continuity, not because it fits** — this is a governance and graft
+  story about the administration prosecuting the war, not war conduct, and it
+  is offered as its own thread candidate. ⚠️ Name correction: **Kyrylo**
+  Budanov, recorded as "Andriy" in the 08-26 digest's first draft.
+  ([Kyiv Independent](https://kyivindependent.com/zelenskys-chief-of-staff-budanov-features-in-tapes-linked-to-latest-corruption-case-media-say/))
 
 ## 2026-08-25 — A second overnight barrage in 24 hours hits four cities
 

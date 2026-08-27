@@ -3,7 +3,7 @@ title: Oracle's Stargate Bet
 lens: global-capital
 status: open
 opened: 2026-08-04
-last_seen: 2026-08-08
+last_seen: 2026-08-27
 weight: 2
 entities:
 - oracle
@@ -19,6 +19,20 @@ blurb: Whether the FY27 capex step-up (~$70-95B, depending on source) and a repo
   vs $67B delivered in FY26) holds; any named counterparty breakdown of the OpenAI-linked
   RPO slice ($638B total, roughly half tied to OpenAI per multiple outlets).
 ---
+
+## 2026-08-14 — The gas pipeline slips six months, and power becomes the binding constraint
+
+- **The natural-gas pipeline intended to power Oracle's ~$165 billion New
+  Mexico AI data centre slipped roughly six months into 2027, after New Mexico's
+  land commissioner rejected the proposed route across state land on
+  2026-07-17.** Oracle shares fell as much as 5%. **The specific lesson for
+  this thread is which constraint bound**: not chips, not capital, but the
+  physical delivery of power — and a state land-use decision was enough to move
+  a $165bn project's schedule by two quarters. ⚠️ Sourced through wire pickups
+  of an underlying Bloomberg report that could not be fetched directly; the
+  event and both dates are consistent across many independent outlets. Caught
+  by the 08-27 cold rotation.
+  ([Santa Fe New Mexican, the July rejection](https://www.santafenewmexican.com/))
 
 ## 2026-08-13 — A fresh round of layoffs is drawn up, on top of ~21,000 already cut, as AI capex keeps climbing
 

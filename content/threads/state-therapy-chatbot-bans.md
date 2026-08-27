@@ -3,7 +3,7 @@ title: Chatbot Bans
 lens: mental-health
 status: open
 opened: 2026-07-22
-last_seen: 2026-08-18
+last_seen: 2026-08-27
 weight: 2
 entities:
 - character-ai
@@ -16,6 +16,20 @@ blurb: 'The wave is ~10+ enacted instruments in two species (crawl 2026-07-22 co
   these laws (so far only xAI v. Colorado''s discrimination law); Colorado-mandate
   copycats.'
 ---
+
+## 2026-08-27 — KFF maps the patchwork, and the classification question is still open
+
+- **KFF published a state-by-state comparison of AI mental-health-tool
+  regulation, finding states are not converging** — Illinois and Nevada restrict
+  use directly, Utah and Rhode Island regulate disclosure and data handling
+  instead, and the underlying question of whether these tools are clinical
+  support, a consumer product, or care requiring licensure remains unresolved.
+  **That classification question is the whole fight**, because liability,
+  reimbursement and who may deploy one all follow from it — and a patchwork
+  answer means the deploying organisation effectively picks its jurisdiction.
+  A policy synthesis rather than a new event, logged as the clearest current
+  map of this thread's terrain.
+  ([KFF](https://www.kff.org/mental-health/different-state-regulatory-approaches-reflect-open-questions-about-ai-mental-health-tools/))
 
 ## 2026-08-19 — Backfill: Colorado's HB26-1195 has been binding law since 08-12, missed until today
 

@@ -3,7 +3,7 @@ title: Kaiser vs. AI
 lens: mental-health
 status: open
 opened: 2026-07-22
-last_seen: 2026-08-23
+last_seen: 2026-08-27
 weight: 2
 entities:
 - kaiser-permanente
@@ -17,6 +17,21 @@ blurb: 'A two-year escalation over two specific systems (the E-Visit auto-triage
   question); second-strike risk; whether other systems face the same (Kaiser Hawaii
   shows the template).'
 ---
+
+## 2026-08-27 — Nine triage clinicians to three, as algorithmic routing takes over
+
+- **An American Prospect investigation reports Kaiser Permanente's Walnut Creek
+  clinic cut mental-health triage staffing from nine clinicians to three over
+  three years while leaning on automated and algorithmic triage**, with
+  clinicians describing patients going uncontacted or routed to a lower level
+  of care than assessed need warranted. NUHW filed a second California DMHC
+  complaint on 2026-07-20 over Kaiser's web-based "e-visit" triage tool. **The
+  substitution is the claim that matters, not the automation.** A triage tool
+  arriving is unremarkable; a triage tool arriving as six clinician posts leave
+  is a staffing decision a regulator can act on, and it is the specific shape
+  this thread has been waiting to see documented.
+  ([The American Prospect](https://prospect.org/2026/08/27/mental-health-workers-algorithmic-triage-ai-patients-kaiser-permanente/),
+  [SF Standard, the July complaint](https://sfstandard.com/2026/07/21/kaiser-ai-mental-health-screening-complaint-nuhw/))
 
 ## 2026-08-21 (late catch, added 2026-08-23) — AB 2575 confirmed real, and it moved on the Senate floor
 

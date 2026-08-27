@@ -3,7 +3,7 @@ title: Copyright Exposure
 lens: ai
 status: open
 opened: 2026-08-06
-last_seen: 2026-08-09
+last_seen: 2026-08-27
 weight: 2
 entities:
 - anthropic
@@ -16,6 +16,19 @@ blurb: 'Two angles surfaced the same day (2026-08-05/06): Anthropic sought parti
   Concord II dismissal ruling; further reporting on the book-shredding practice and
   whether other labs did the same; any read-through to Anthropic''s IPO risk disclosures.'
 ---
+
+## 2026-08-17 — A new plaintiff, and a $1bn claim over music
+
+- **Music publisher Round Hill Music filed $1 billion copyright-infringement
+  suits against Anthropic and, separately, Suno, alleging roughly 500 songs were
+  used without authorisation in training**, and has said it intends to pursue
+  jury trials rather than settle. **This is a new litigant and a new exposure
+  line**, distinct from the $1.5bn Bartz author-class settlement approved in
+  July — and the stated refusal to settle is the part that matters, since the
+  author class resolved by settlement. ⚠️ Corroborated across Reuters, THR,
+  Billboard and Variety on the same date, but every one was paywalled or
+  blocked to direct fetch, so this rests on consistent cross-outlet dating
+  rather than a primary read. Caught by the 08-27 cold rotation.
 
 ## 2026-08-06 — Opened (ben-steer)
 

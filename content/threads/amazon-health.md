@@ -3,7 +3,7 @@ title: Amazon Health
 lens: mental-health
 status: open
 opened: 2026-07-24
-last_seen: 2026-07-30
+last_seen: 2026-08-27
 weight: 2
 entities:
 - amazon-aws
@@ -14,6 +14,18 @@ blurb: Amazon's push is primary-care + pharmacy + a Bedrock 'Health AI' agent la
   behavioral-health scribe, Netsmart-integrated) — Amazon as the documentation infrastructure
   the therapy industry runs on.
 ---
+
+## 2026-08-06 — A $50/month Medicare GLP-1 channel
+
+- **Amazon Pharmacy began offering Wegovy, Zepbound and Foundayo to eligible
+  Medicare Part D patients at a flat $50/month under the federal Medicare GLP-1
+  Bridge Program**, with same-day delivery in 3,100+ cities, pickup kiosks at
+  select One Medical locations, and automated eligibility verification and prior
+  authorisation. **The automation of prior authorisation is the part this map
+  should watch**, not the price: Amazon is taking over an administrative step
+  that normally sits between prescriber and payer. Primary-sourced from
+  Amazon's own newsroom. Caught by the 08-27 cold rotation, three weeks late.
+  ([About Amazon](https://www.aboutamazon.com/news/retail/amazon-pharmacy-glp-1-medicare))
 
 ## 2026-07-24 — Opened + crawled
 

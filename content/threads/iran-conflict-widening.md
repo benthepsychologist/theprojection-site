@@ -3,7 +3,7 @@ title: Iran's Widening War
 lens: world-news
 status: open
 opened: 2026-07-23
-last_seen: 2026-08-26
+last_seen: 2026-08-27
 weight: 3
 entities: []
 thread_kind: story
@@ -45,6 +45,24 @@ blurb: '⚠️ ORIGIN CORRECTED 2026-08-02 — READ THIS FIRST. This thread spen
   with Netanyahu''s office framing it as pressure ahead of September talks. Track
   this alongside Hormuz/Gulf as a distinct front, not folded into it.'
 ---
+
+## 2026-08-27 — Washington says it is not talking to Iran while Qatar flies to Tehran
+
+- **The US said publicly it is "not talking to Iran" even as Qatar's foreign
+  minister travelled to Tehran to try to restart direct talks** — the Hormuz
+  diplomatic track intensifying and stalling at once. Reporting through the day
+  describes a phased framework for a temporary shipping corridor plus a
+  mine-clearing initiative, and a commercial tanker was reportedly struck by a
+  projectile in the strait on Wednesday (fire extinguished, no casualties
+  reported). **The IRGC's 08-26 claim that Iran and Oman had "reached
+  agreements" on splitting the strait's waters and revenues remains a
+  military-agency press statement** — not a signature, a joint declaration or a
+  published text — and goes further than the 08-25 joint foreign-ministry
+  statement, which mentioned no fees at all. iran-oman-hormuz-deal-signing
+  stays passed-silent on those grounds: no signed text, none of the three named
+  mechanical terms confirmed, and **no new date to slip to.**
+  ([Fox News live updates](https://www.foxnews.com/live-news/iran-war-us-strait-hormuz-oman-oil-tensions-08-27-26),
+  [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-26/iran-oman-agree-to-share-strait-of-hormuz-revenue-irgc-says))
 
 ## 2026-08-26 — Iran names a temporary Hormuz corridor; oil falls ~6% over two days
 

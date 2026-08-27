@@ -3,7 +3,7 @@ title: OpenAI IPO
 lens: ai
 status: developing
 opened: 2026-06-27
-last_seen: 2026-08-10
+last_seen: 2026-08-27
 weight: 2
 entities:
 - openai
@@ -15,6 +15,17 @@ blurb: Reported slip to 2027 chasing a ~$1T valuation; Altman rejecting a lower 
   Track confirmed timing, valuation target, and macro/AI-stock spillover (SoftBank
   fell ~12% on the report).
 ---
+
+## 2026-08-19 — The CFO puts a year on it, to staff
+
+- **OpenAI CFO Sarah Friar told an all-hands the company "will be a public
+  company in 2027," possibly sooner, citing 35% quarter-over-quarter revenue
+  growth and 50% growth in enterprise revenue** — and downplayed Anthropic's
+  own listing plans with "we're running our own race." **This is the first time
+  an OpenAI officer has attached a year to the IPO on this thread's record**,
+  and it moves against the September-2026 speculation this thread was opened
+  around. Caught by the 08-27 cold rotation, eight days late.
+  ([PYMNTS, citing CNBC's report of the all-hands](https://www.pymnts.com/news/artificial-intelligence/2026/openai-cfo-tells-employees-public-debut-coming-by-2027/))
 
 ## 2026-08-14 — Revenue crosses over into enterprise as the executive exits keep stacking up
 

@@ -3,7 +3,7 @@ title: AI Denial Machine
 lens: mental-health
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-17
+last_seen: 2026-08-26
 weight: 2
 entities:
 - unitedhealth-group
@@ -20,6 +20,18 @@ blurb: 'The concept lived in board glosses; now the evidence supports a thread: 
   the UHC discovery outputs, WISeR''s fate, state AI-denial bans spreading, and Humana''s
   nH Predict suit (quiet, distinct docket).'
 ---
+
+## 2026-08-26 — A payer-facing behavioural-health analytics vendor raises, with CVS on the cap table
+
+- **Onos Health raised $17 million to sell AI behavioural-health analytics to
+  insurers, with CVS Health Ventures participating and Aetna already a
+  customer.** It markets claims and care-data analysis with a claimed ~6%
+  annual reduction in behavioural-health program cost. **Cost reduction is the
+  product being sold, and the customer is the payer** — which is why this
+  belongs here and not only on the funding thread. Nothing in the reporting
+  describes denial specifically; logged as a capability and a buyer, not an
+  accusation.
+  ([MedCity News](https://www.medcitynews.com/2026/08/onos-health-raises-17m-to-expand-ai-powered-behavioral-health-platform/))
 
 ## 2026-08-17 — UnitedHealth's payment layer under scrutiny from three directions
 

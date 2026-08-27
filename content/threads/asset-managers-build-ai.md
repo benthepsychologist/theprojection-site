@@ -3,7 +3,7 @@ title: Asset Managers Build
 lens: global-capital
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-10
+last_seen: 2026-08-27
 weight: 2
 entities:
 - blackrock
@@ -15,6 +15,21 @@ blurb: 'The capital pools stopped just financing the buildout and started OWNING
   Track: who buys the next hyperscaler asset, the SWF co-investor pattern, and whether
   "locked" fiduciary capital keeps sliding into physical AI infra.'
 ---
+
+## 2026-08-27 — KKR takes direct equity in a carrier's carved-out data-centre company
+
+- **SK Telecom spun its AI data-centre business into a new company, SK Horizon,
+  selling 29% to KKR and 20% to an IMM Investment-Stonebridge consortium for
+  roughly $2.2 billion combined** — SK Telecom retains 51%; the vehicle takes
+  over eight existing facilities and expands toward 318MW. **This is the
+  transition this thread was opened to watch, completed in a single
+  transaction**: managers moving from financing the buildout to owning the
+  operating asset. Read alongside Nvidia's 10-Q the day before, which disclosed
+  $500bn+ of third-party capital lined up through Apollo, BlackRock,
+  Blackstone, Brookfield, Goldman and KKR — **KKR is on both sides of that
+  sentence within twenty-four hours.**
+  ([Data Center Dynamics](https://www.datacenterdynamics.com/en/news/sk-telecom-launches-new-ai-dc-infrastructure-focused-company/),
+  [DealStreetAsia](https://www.dealstreetasia.com/stories/kkr-imm-sk-telecom-ai-data-centre))
 
 ## 2026-08-10 — The same day, the other half of the pattern: Macquarie and Singapore's GIC will OWN Anthropic's data centres outright
 

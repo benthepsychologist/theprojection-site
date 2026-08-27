@@ -3,7 +3,7 @@ title: CoreWeave Bet
 lens: global-capital
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-10
+last_seen: 2026-08-27
 weight: 2
 entities:
 - coreweave
@@ -18,6 +18,17 @@ blurb: 'The neocloud wager, quantified: $99.4B backlog (Q1-26; OpenAI $18.4B + M
   rejection left a 4.5-month capacity gap; plan B is thin. Next print: Q2 earnings
   08-11.'
 ---
+
+## 2026-08-11 — The backlog reaches $104bn, up 246%
+
+- **CoreWeave reported a contracted revenue backlog of roughly $104.2 billion
+  as of 2026-06-30, up 246% year over year, with more than $25 billion of
+  further net-new customer commitments booked after quarter-end and not
+  included in that figure.** **The bet this thread is named for is the backlog
+  itself** — whether contracted forward revenue of that size converts, and at
+  what margin, given the debt raised against it. Primary-sourced from the
+  company's own earnings release. Caught by the 08-27 cold rotation.
+  ([CoreWeave Investor Relations](https://investors.coreweave.com/))
 
 ## 2026-08-11 — Q2 print: consensus beat on both lines, backlog to ~$129B, and debt service climbing right alongside it
 

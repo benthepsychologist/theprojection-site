@@ -3,7 +3,7 @@ title: AWS Capex
 lens: ai
 status: developing
 opened: 2026-07-23
-last_seen: 2026-08-21
+last_seen: 2026-08-26
 weight: 2
 entities:
 - amazon-aws
@@ -18,6 +18,15 @@ blurb: 'Earnings 07-30 (corrected from ~07-31). Crawl 07-27: the AGI-cuts vs $20
   + X-Energy 5GW-by-2039. Watch 07-30: capex guide, backlog, FCF (reportedly borrowing
   $25B).'
 ---
+
+## 2026-08-26 — Two million more GPUs, announced against the demand-plateau argument
+
+- **AWS said it will buy two million more Nvidia GPUs and adopt Nvidia's new
+  Vera CPU for AI agents**, announced alongside Nvidia's earnings print.
+  **Read against the demand-plateau thesis this map has been tracking, this is
+  the counter-evidence** — the largest cloud committing an order of that size
+  on the same day the vendor guided to $108B.
+  ([CNBC](https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html))
 
 ## 2026-08-18 — Late catch: $6B more into Shreveport, a third Louisiana campus
 

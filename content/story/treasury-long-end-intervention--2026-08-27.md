@@ -1,6 +1,5 @@
 ---
-title: Yields ease a touch heading into Jackson Hole, the day after Nvidia's blowout
-  print
+title: Jackson Hole opens; the keynote that matters is tomorrow
 story_id: treasury-long-end-intervention--2026-08-27
 date: '2026-08-27'
 lens: global-capital
