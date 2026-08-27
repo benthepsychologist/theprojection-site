@@ -3,7 +3,7 @@ title: Frontier Gatekeeping
 lens: ai
 status: open
 opened: 2026-07-22
-last_seen: 2026-08-23
+last_seen: 2026-08-25
 weight: 3
 entities:
 - openai

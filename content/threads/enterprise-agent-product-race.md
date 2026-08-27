@@ -3,7 +3,7 @@ title: The Enterprise Agent Land Grab
 lens: ai
 status: open
 opened: 2026-08-25
-last_seen: 2026-08-20
+last_seen: 2026-08-25
 weight: 2
 entities:
 - anthropic
@@ -25,6 +25,11 @@ blurb: 'Whether the enterprise agent-product surface — the layer where labs an
   IDE install counts) ever get disclosed to test whether the packaging actually converts
   to usage.'
 ---
+
+## 2026-08-26 — Two enterprise pushes land the same day: Salesforce embeds Claude company-wide, Google verticalizes Gemini Enterprise for finance and legal
+
+- **Salesforce and Anthropic announced "Claudeforce," making Claude the reasoning model behind Salesforce's Atlas Reasoning Engine and the default model for Agentforce Vibes and Agentforce Coworker, alongside a new "Salesforce in Claude" plugin carrying 37 prebuilt sales skills** (deal-health review, pipeline updates, meeting prep) that let sellers act on live Salesforce data from inside Claude itself. Announced as Salesforce opened its Q2 FY27 earnings call; in pilot now, open beta due September 2026, more prebuilt skills promised later in the year. Anthropic CEO Dario Amodei framed it as letting companies "point Claude at the customer information and business context they've been building in Salesforce for decades." Bidirectional embedding — Claude inside Salesforce, Salesforce inside Claude — is a sharper version of this thread's packaging throughline than a single-surface bundle. ([Salesforce, primary](https://www.salesforce.com/news/press-releases/2026/08/26/salesforce-and-anthropic-announce-claudeforce/), [CNBC](https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html), [VentureBeat](https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again))
+- **Google Cloud shipped two industry-specific Gemini Enterprise editions, for financial services and legal, the same day.** The financial edition pairs a Google-managed "Financial Research" agent with 50+ specialized skills and 13 data connectors (FactSet, LSEG, Moody's, S&P Global, SEC EDGAR), with Deutsche Bank and CME Group as early adopters; the legal edition covers contract review, due diligence and regulatory monitoring via Docusign, iManage and Thomson Reuters integrations, with Cleary, Freshfields, Weil and Williams & Connolly as launch customers. Both are in global preview only — no GA date or pricing announced. Vertical-specific packaging, one layer down from the general-purpose platform bundling this thread already tracked from Google on 08-20. ([technode.global](https://technode.global/2026/08/26/google-gemini-enterprise-financial-legal/))
 
 ## 2026-08-25 — First live development since the thread opened: Anthropic merges memory across chat and its agent product
 

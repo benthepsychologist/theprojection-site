@@ -3,7 +3,7 @@ title: Camellia
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-15
+last_seen: 2026-08-26
 weight: 1
 entities:
 - openai
@@ -16,6 +16,14 @@ blurb: 'OpenAI-direct build (Octans GA LLC/Butler Snow — no named GC or Starga
   SoftBank''s ~10GW Ohio (Portsmouth) campus. Track: the local secrecy backlash (10K+
   petition), generation-mix disclosure, and whether a GC/financing partner surfaces.'
 ---
+
+## 2026-08-26 — The contract clears its PSC review; regulators nod, but not with an unambiguous vote
+
+- **Georgia Power announced its 3.2 GW OpenAI Project Camellia contract "cleared" the Georgia Public Service Commission regulatory process, at 9:00pm ET on 08-26** — one day after the 08-25 entry recorded PSC staff hitting their referral/objection deadline having signalled they would object absent changes. Georgia Power frames it as part of a "large-load" contract portfolio delivering ~$950M/year in system-wide savings starting 2029 ($2.847B cumulative 2029-2031), OpenAI paying 100% of infrastructure costs, and a commitment of up to 1,000MW of flexible demand response. ⚠️ **The procedural mechanism is not independently confirmed**: Georgia Power's own release and follow-on local coverage (WTOC, Atlanta News First) describe the contract as "cleared," but neither specifies whether PSC staff formally signed off or simply let the 08-26 deadline pass without filing the referral/objection they had signalled — a materially different fact (self-executing non-objection vs. an affirmative clearance). Clean-energy advocates (SACE) had separately been pushing for a Commission **affirmative-vote requirement** for high-impact contracts precisely because current rules may not require one, which is circumstantial support for the non-referral reading but not a confirmation. The public contract text remains fully redacted, including after execution.
+  ([Georgia Power, via PR Newswire — primary](http://www.prnewswire.com/news-releases/georgia-powers-contract-with-openai-approved-latest-approval-part-of-portfolio-of-large-load-contracts-delivering-approximately-950-million-in-annual-savings-beginning-in-2029-302861080.html),
+  [WTOC](https://www.wtoc.com/2026/08/27/georgia-powers-openai-contract-effingham-county-approved-expected-lower-residential-bills/))
+- **Separately, the Effingham County Chamber of Commerce ran two public information sessions on Camellia the same day** (10-11:30am business/community-leaders session, 6:30-8pm community session, both at the Herald Center in Rincon) — Georgia Tech faculty, economic-development experts and local officials on panels, audience questions submitted in advance. No new substantive disclosure reported beyond the format itself; recorded because it was the previously-flagged 08-26 forum date landing as scheduled.
+  ([Effingham Herald](https://www.effinghamherald.net/data-centers/project-camellia-two-public-meetings-set-for-aug-26-and-29-openai-data-center-effingham-county-chamber-of-commerce-county-commissioners/))
 
 ## 2026-08-15 — Investigative piece reconstructs how the secret deal actually got made
 

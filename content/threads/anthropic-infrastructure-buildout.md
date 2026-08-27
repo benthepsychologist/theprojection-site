@@ -3,7 +3,7 @@ title: Anthropic Rents the Buildout
 lens: ai
 status: open
 opened: 2026-08-11
-last_seen: 2026-08-21
+last_seen: 2026-08-26
 weight: 2
 entities:
 - anthropic

@@ -3,7 +3,7 @@ title: Son All-In
 lens: global-capital
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-23
+last_seen: 2026-08-26
 weight: 2
 entities:
 - softbank
