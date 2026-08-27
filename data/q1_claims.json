@@ -78,11 +78,11 @@
  {
   "amount_usd": 7000000000,
   "as_of": "2025-10-06",
-  "basis": "$7.0B \u2014 $7B total Arizona advanced packaging/test campus, up from an original ~$2B plan (self-funded \u2014 this source names no external contractor/vendor the money actually went to)",
+  "basis": "$7.0B \u2014 $7B total Arizona advanced packaging/test campus, up from an original ~$2B plan (self-funded capex into land, shell & materials \u2014 this source names no external contractor/vendor the specific cash went to)",
   "confidence": "med",
   "dimension": "q1-flow",
   "id": "q1-kat-claim-amkor-capital-amkor-packaging-construction-2025-arizona-obs0",
-  "label": "Amkor Technology's own capital \u2192 advanced packaging/test facility construction",
+  "label": "Amkor Technology's own capital \u2192 land, shell & materials (advanced packaging/test facility construction)",
   "self_funded": true,
   "sources": [
    {
@@ -94,7 +94,7 @@
    }
   ],
   "subject": "amkor-technology",
-  "value": "$7.0B \u2014 $7B total Arizona advanced packaging/test campus, up from an original ~$2B plan (self-funded \u2014 this source names no external contractor/vendor the money actually went to)"
+  "value": "$7.0B \u2014 $7B total Arizona advanced packaging/test campus, up from an original ~$2B plan (self-funded capex into land, shell & materials \u2014 this source names no external contractor/vendor the specific cash went to)"
  },
  {
   "amount_usd": null,
@@ -183,11 +183,11 @@
  {
   "amount_usd": 10500000000,
   "as_of": "2026-01-01",
-  "basis": "$10.5B \u2014 2026 capex raised to $10.5B (from a prior $8.5B forecast); ~$4B to new fabs/infrastructure, ~$6.5B to production equipment for LEAP (Leading-Edge Advanced Packaging), mainstream packaging, and test capacity (self-funded \u2014 this source names no external contractor/vendor the money actually went to)",
+  "basis": "$10.5B \u2014 2026 capex raised to $10.5B (from a prior $8.5B forecast); ~$4B to new fabs/infrastructure, ~$6.5B to production equipment for LEAP (Leading-Edge Advanced Packaging), mainstream packaging, and test capacity (self-funded capex into compute silicon & systems \u2014 this source names no external contractor/vendor the specific cash went to)",
   "confidence": "high",
   "dimension": "q1-flow",
   "id": "q1-kat-claim-ase-capital-ase-packaging-construction-2026-capex-obs0",
-  "label": "ASE Technology's own capital \u2192 advanced packaging/test capacity construction (LEAP program)",
+  "label": "ASE Technology's own capital \u2192 compute silicon & systems (advanced packaging/test capacity construction (LEAP program))",
   "self_funded": true,
   "sources": [
    {
@@ -199,7 +199,7 @@
    }
   ],
   "subject": "ase-technology",
-  "value": "$10.5B \u2014 2026 capex raised to $10.5B (from a prior $8.5B forecast); ~$4B to new fabs/infrastructure, ~$6.5B to production equipment for LEAP (Leading-Edge Advanced Packaging), mainstream packaging, and test capacity (self-funded \u2014 this source names no external contractor/vendor the money actually went to)"
+  "value": "$10.5B \u2014 2026 capex raised to $10.5B (from a prior $8.5B forecast); ~$4B to new fabs/infrastructure, ~$6.5B to production equipment for LEAP (Leading-Edge Advanced Packaging), mainstream packaging, and test capacity (self-funded capex into compute silicon & systems \u2014 this source names no external contractor/vendor the specific cash went to)"
  },
  {
   "amount_usd": 7000000000,
@@ -246,11 +246,11 @@
  {
   "amount_usd": null,
   "as_of": "2024-11-19",
-  "basis": "$6.1B (ceiling) \u2014 up to $6.1B real-property investment (HPC infrastructure + office complex construction) on 78.85 leased acres, 394MW total campus power capacity (self-funded \u2014 this source names no external contractor/vendor the money actually went to)",
+  "basis": "$6.1B (ceiling) \u2014 up to $6.1B real-property investment (HPC infrastructure + office complex construction) on 78.85 leased acres, 394MW total campus power capacity (self-funded capex into land, shell & materials \u2014 this source names no external contractor/vendor the specific cash went to)",
   "confidence": "high",
   "dimension": "q1-flow",
   "id": "q1-kat-claim-core-scientific-capital-core-scientific-datacenter-construction-2024-denton-investment-obs0",
-  "label": "Core Scientific's own capital \u2192 datacenter construction (Denton, TX site \u2014 propco/operator side)",
+  "label": "Core Scientific's own capital \u2192 land, shell & materials (datacenter construction (Denton, TX site \u2014 propco/operator side))",
   "self_funded": true,
   "sources": [
    {
@@ -262,7 +262,7 @@
    }
   ],
   "subject": "core-scientific",
-  "value": "$6.1B (ceiling) \u2014 up to $6.1B real-property investment (HPC infrastructure + office complex construction) on 78.85 leased acres, 394MW total campus power capacity (self-funded \u2014 this source names no external contractor/vendor the money actually went to)"
+  "value": "$6.1B (ceiling) \u2014 up to $6.1B real-property investment (HPC infrastructure + office complex construction) on 78.85 leased acres, 394MW total campus power capacity (self-funded capex into land, shell & materials \u2014 this source names no external contractor/vendor the specific cash went to)"
  },
  {
   "amount_usd": 2300000000,
@@ -981,11 +981,11 @@
  {
   "amount_usd": 7000000000,
   "as_of": "2025-01-08",
-  "basis": "$7.0B \u2014 SG$9.5B (~$7B) HBM advanced-packaging facility, through the end of the decade and beyond (self-funded \u2014 this source names no external contractor/vendor the money actually went to)",
+  "basis": "$7.0B \u2014 SG$9.5B (~$7B) HBM advanced-packaging facility, through the end of the decade and beyond (self-funded capex into memory & storage \u2014 this source names no external contractor/vendor the specific cash went to)",
   "confidence": "med",
   "dimension": "q1-flow",
   "id": "q1-kat-claim-micron-capital-micron-hbm-packaging-construction-2025-singapore-obs0",
-  "label": "Micron Technology's own capital \u2192 HBM advanced-packaging facility construction",
+  "label": "Micron Technology's own capital \u2192 memory & storage (HBM advanced-packaging facility construction)",
   "self_funded": true,
   "sources": [
    {
@@ -997,16 +997,16 @@
    }
   ],
   "subject": "micron-technology",
-  "value": "$7.0B \u2014 SG$9.5B (~$7B) HBM advanced-packaging facility, through the end of the decade and beyond (self-funded \u2014 this source names no external contractor/vendor the money actually went to)"
+  "value": "$7.0B \u2014 SG$9.5B (~$7B) HBM advanced-packaging facility, through the end of the decade and beyond (self-funded capex into memory & storage \u2014 this source names no external contractor/vendor the specific cash went to)"
  },
  {
   "amount_usd": 15000000000,
   "as_of": "2022-09-01",
-  "basis": "$15.0B \u2014 $15B \"through the end of the decade\" for a new leading-edge memory fab in Boise, Idaho (self-funded \u2014 this source names no external contractor/vendor the money actually went to)",
+  "basis": "$15.0B \u2014 $15B \"through the end of the decade\" for a new leading-edge memory fab in Boise, Idaho (self-funded capex into memory & storage \u2014 this source names no external contractor/vendor the specific cash went to)",
   "confidence": "med",
   "dimension": "q1-flow",
   "id": "q1-kat-claim-micron-capital-micron-memory-fab-construction-2022-idaho-obs0",
-  "label": "Micron Technology's own capital \u2192 memory fab construction (leading-edge DRAM)",
+  "label": "Micron Technology's own capital \u2192 memory & storage (memory fab construction (leading-edge DRAM))",
   "self_funded": true,
   "sources": [
    {
@@ -1018,7 +1018,7 @@
    }
   ],
   "subject": "micron-technology",
-  "value": "$15.0B \u2014 $15B \"through the end of the decade\" for a new leading-edge memory fab in Boise, Idaho (self-funded \u2014 this source names no external contractor/vendor the money actually went to)"
+  "value": "$15.0B \u2014 $15B \"through the end of the decade\" for a new leading-edge memory fab in Boise, Idaho (self-funded capex into memory & storage \u2014 this source names no external contractor/vendor the specific cash went to)"
  },
  {
   "amount_usd": null,
@@ -1485,11 +1485,11 @@
  {
   "amount_usd": 17000000000,
   "as_of": "2021-11-23",
-  "basis": "$17.0B \u2014 $17B original investment; later reported growth to $37-44B is unconfirmed on an official source this pass (self-funded \u2014 this source names no external contractor/vendor the money actually went to)",
+  "basis": "$17.0B \u2014 $17B original investment; later reported growth to $37-44B is unconfirmed on an official source this pass (self-funded capex into land, shell & materials \u2014 this source names no external contractor/vendor the specific cash went to)",
   "confidence": "med",
   "dimension": "q1-flow",
   "id": "q1-kat-claim-samsung-capital-samsung-foundry-construction-2021-taylor-tx-obs0",
-  "label": "Samsung Electronics's own capital \u2192 foundry construction (fab capex)",
+  "label": "Samsung Electronics's own capital \u2192 land, shell & materials (foundry construction (fab capex))",
   "self_funded": true,
   "sources": [
    {
@@ -1501,7 +1501,7 @@
    }
   ],
   "subject": "samsung-electronics",
-  "value": "$17.0B \u2014 $17B original investment; later reported growth to $37-44B is unconfirmed on an official source this pass (self-funded \u2014 this source names no external contractor/vendor the money actually went to)"
+  "value": "$17.0B \u2014 $17B original investment; later reported growth to $37-44B is unconfirmed on an official source this pass (self-funded capex into land, shell & materials \u2014 this source names no external contractor/vendor the specific cash went to)"
  },
  {
   "amount_usd": 4200000000,
@@ -1527,11 +1527,11 @@
  {
   "amount_usd": 38100000000,
   "as_of": "2027-07-01",
-  "basis": "$38.1B \u2014 54 trillion won (~$38.1B) combined board-approved investment \u2014 35.2 trillion won for the Yongin Y2 fab + 19.1 trillion won for the Cheongju M17 fab (self-funded \u2014 this source names no external contractor/vendor the money actually went to)",
+  "basis": "$38.1B \u2014 54 trillion won (~$38.1B) combined board-approved investment \u2014 35.2 trillion won for the Yongin Y2 fab + 19.1 trillion won for the Cheongju M17 fab (self-funded capex into memory & storage \u2014 this source names no external contractor/vendor the specific cash went to)",
   "confidence": "med",
   "dimension": "q1-flow",
   "id": "q1-kat-claim-sk-hynix-capital-sk-hynix-memory-fab-construction-2026-yongin-cheongju-obs0",
-  "label": "SK hynix's own capital \u2192 memory fab construction (DRAM/HBM)",
+  "label": "SK hynix's own capital \u2192 memory & storage (memory fab construction (DRAM/HBM))",
   "self_funded": true,
   "sources": [
    {
@@ -1543,7 +1543,7 @@
    }
   ],
   "subject": "sk-hynix",
-  "value": "$38.1B \u2014 54 trillion won (~$38.1B) combined board-approved investment \u2014 35.2 trillion won for the Yongin Y2 fab + 19.1 trillion won for the Cheongju M17 fab (self-funded \u2014 this source names no external contractor/vendor the money actually went to)"
+  "value": "$38.1B \u2014 54 trillion won (~$38.1B) combined board-approved investment \u2014 35.2 trillion won for the Yongin Y2 fab + 19.1 trillion won for the Cheongju M17 fab (self-funded capex into memory & storage \u2014 this source names no external contractor/vendor the specific cash went to)"
  },
  {
   "amount_usd": 52000000000,
@@ -1632,11 +1632,11 @@
  {
   "amount_usd": 29400000000,
   "as_of": "2026-08-11",
-  "basis": "$29.4B \u2014 Board-approved capital appropriations of roughly $29.4B for advanced-node capacity and packaging, cited to AI/HPC demand; approved alongside a Sony image-sensor joint venture and a Q2 dividend in the same board action (self-funded \u2014 this source names no external contractor/vendor the money actually went to)",
+  "basis": "$29.4B \u2014 Board-approved capital appropriations of roughly $29.4B for advanced-node capacity and packaging, cited to AI/HPC demand; approved alongside a Sony image-sensor joint venture and a Q2 dividend in the same board action (self-funded capex into land, shell & materials \u2014 this source names no external contractor/vendor the specific cash went to)",
   "confidence": "high",
   "dimension": "q1-flow",
   "id": "q1-kat-claim-tsmc-2026-q2-capex-approval-tsmc-foundry-construction-2026-capex-obs0",
-  "label": "TSMC's own capital \u2192 foundry construction (fab capex)",
+  "label": "TSMC's own capital \u2192 land, shell & materials (foundry construction (fab capex))",
   "self_funded": true,
   "sources": [
    {
@@ -1648,16 +1648,16 @@
    }
   ],
   "subject": "tsmc",
-  "value": "$29.4B \u2014 Board-approved capital appropriations of roughly $29.4B for advanced-node capacity and packaging, cited to AI/HPC demand; approved alongside a Sony image-sensor joint venture and a Q2 dividend in the same board action (self-funded \u2014 this source names no external contractor/vendor the money actually went to)"
+  "value": "$29.4B \u2014 Board-approved capital appropriations of roughly $29.4B for advanced-node capacity and packaging, cited to AI/HPC demand; approved alongside a Sony image-sensor joint venture and a Q2 dividend in the same board action (self-funded capex into land, shell & materials \u2014 this source names no external contractor/vendor the specific cash went to)"
  },
  {
   "amount_usd": null,
   "as_of": "2026-01-01",
-  "basis": "derived range \u2014 10-20% of TSMC's $60-64B FY2026 capex guidance, bucketed with testing and mask-making, not a company-stated standalone figure (self-funded \u2014 this source names no external contractor/vendor the money actually went to)",
+  "basis": "derived range \u2014 10-20% of TSMC's $60-64B FY2026 capex guidance, bucketed with testing and mask-making, not a company-stated standalone figure (self-funded capex into compute silicon & systems \u2014 this source names no external contractor/vendor the specific cash went to)",
   "confidence": "high",
   "dimension": "q1-flow",
   "id": "q1-kat-claim-tsmc-capital-tsmc-advanced-packaging-construction-2026-capex-share-obs0",
-  "label": "TSMC's own capital \u2192 advanced packaging construction (CoWoS \u2014 distinct facet from tsmc/foundry-construction)",
+  "label": "TSMC's own capital \u2192 compute silicon & systems (advanced packaging construction (CoWoS \u2014 distinct facet from tsmc/foundry-construction))",
   "self_funded": true,
   "sources": [
    {
@@ -1669,16 +1669,16 @@
    }
   ],
   "subject": "tsmc",
-  "value": "derived range \u2014 10-20% of TSMC's $60-64B FY2026 capex guidance, bucketed with testing and mask-making, not a company-stated standalone figure (self-funded \u2014 this source names no external contractor/vendor the money actually went to)"
+  "value": "derived range \u2014 10-20% of TSMC's $60-64B FY2026 capex guidance, bucketed with testing and mask-making, not a company-stated standalone figure (self-funded capex into compute silicon & systems \u2014 this source names no external contractor/vendor the specific cash went to)"
  },
  {
   "amount_usd": 12000000000,
   "as_of": "2021-01-01",
-  "basis": "$12.0B \u2014 $12B, 2021-2029 (self-funded \u2014 this source names no external contractor/vendor the money actually went to)",
+  "basis": "$12.0B \u2014 $12B, 2021-2029 (self-funded capex into land, shell & materials \u2014 this source names no external contractor/vendor the specific cash went to)",
   "confidence": "med",
   "dimension": "q1-flow",
   "id": "q1-kat-claim-tsmc-capital-tsmc-foundry-construction-2020-az-intent-obs0",
-  "label": "TSMC's own capital \u2192 foundry construction (fab capex)",
+  "label": "TSMC's own capital \u2192 land, shell & materials (foundry construction (fab capex))",
   "self_funded": true,
   "sources": [
    {
@@ -1690,16 +1690,16 @@
    }
   ],
   "subject": "tsmc",
-  "value": "$12.0B \u2014 $12B, 2021-2029 (self-funded \u2014 this source names no external contractor/vendor the money actually went to)"
+  "value": "$12.0B \u2014 $12B, 2021-2029 (self-funded capex into land, shell & materials \u2014 this source names no external contractor/vendor the specific cash went to)"
  },
  {
   "amount_usd": 100000000000,
   "as_of": "2025-03-03",
-  "basis": "$100.0B \u2014 additional $100B; brings total US commitment to ~$165B (self-funded \u2014 this source names no external contractor/vendor the money actually went to)",
+  "basis": "$100.0B \u2014 additional $100B; brings total US commitment to ~$165B (self-funded capex into land, shell & materials \u2014 this source names no external contractor/vendor the specific cash went to)",
   "confidence": "low",
   "dimension": "q1-flow",
   "id": "q1-kat-claim-tsmc-capital-tsmc-foundry-construction-2025-us-expansion-obs0",
-  "label": "TSMC's own capital \u2192 foundry construction (fab capex)",
+  "label": "TSMC's own capital \u2192 land, shell & materials (foundry construction (fab capex))",
   "self_funded": true,
   "sources": [
    {
@@ -1711,7 +1711,7 @@
    }
   ],
   "subject": "tsmc",
-  "value": "$100.0B \u2014 additional $100B; brings total US commitment to ~$165B (self-funded \u2014 this source names no external contractor/vendor the money actually went to)"
+  "value": "$100.0B \u2014 additional $100B; brings total US commitment to ~$165B (self-funded capex into land, shell & materials \u2014 this source names no external contractor/vendor the specific cash went to)"
  },
  {
   "amount_usd": 22000000000,
