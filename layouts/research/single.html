@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+{{ partial "head.html" . }}
+<style>
+  .flowmap-page .fm-toolbar{ display:flex; align-items:center; gap:1.1rem; flex-wrap:wrap;
+    margin:1.2rem 0 .7rem; font-family:var(--sans); font-size:.82rem; }
+  .flowmap-page .fm-toolbar input[type=search]{ font:inherit; padding:.4rem .6rem;
+    border:1px solid var(--rule); border-radius:3px; min-width:220px; }
+  .flowmap-page .fm-toolbar label{ display:flex; align-items:center; gap:.35rem; color:var(--ink-body); }
+  .flowmap-page .fm-stats{ color:var(--ink-faint); margin-left:auto; }
+  .fm-canvas{ max-height:76vh; overflow:auto; border:1px solid var(--rule);
+    border-radius:4px; background:var(--paper-2,#F7F5EF); margin-bottom:1rem; }
+  .fm-svg{ display:block; }
+  .fm-node rect{ fill:var(--paper,#FEFEFC); stroke:var(--ink-faint); stroke-width:1; }
+  .fm-node text{ font-family:var(--sans); font-size:9px; fill:var(--ink-body); }
+  .fm-node{ cursor:pointer; }
+  .fm-node:hover rect{ stroke:var(--ink); stroke-width:1.4; }
+  .fm-node-event rect{ fill:#F3ECDD; stroke:#A86302; }
+  .fm-node.fm-core rect{ stroke:#3B5C7A; stroke-width:1.6; }
+  .fm-node.fm-selected rect{ fill:var(--live-tint,#FCE7F2); stroke:var(--live,#E01279); stroke-width:2; }
+  .fm-node.fm-dim, .fm-node.fm-search-dim{ opacity:.18; }
+  .fm-edge{ fill:none; stroke:var(--ink-faint,#7A7469); stroke-width:1; opacity:.55; }
+  .fm-edge.fm-edge-thin{ stroke-dasharray:2 3; opacity:.4; }
+  .fm-edge.fm-dim{ opacity:.06; }
+  .fm-edge.fm-edge-active{ stroke:var(--live,#E01279); stroke-width:1.8; opacity:.9; }
+  .fm-panel{ border:1px solid var(--rule); border-radius:4px; padding:1rem 1.2rem;
+    position:relative; font-family:var(--sans); font-size:.86rem; }
+  .fm-panel h2{ font-family:var(--serif); margin:0 .2rem .2rem 0; padding-right:2rem; }
+  .fm-panel h3{ font-size:.78rem; text-transform:uppercase; letter-spacing:.04em;
+    color:var(--ink-faint); margin:.9rem 0 .4rem; }
+  .fm-activity{ color:var(--ink-faint); margin:0 0 .3rem; font-style:italic; }
+  .fm-tag{ display:inline-block; font-size:.7rem; padding:.15rem .5rem; border-radius:2px;
+    background:color-mix(in srgb, var(--finance) 14%, transparent); color:var(--finance); margin:0; }
+  .fm-close{ position:absolute; top:.6rem; right:.7rem; background:none; border:none;
+    font-size:1.3rem; line-height:1; cursor:pointer; color:var(--ink-faint); }
+  .fm-close:hover{ color:var(--ink); }
+  .fm-flows{ list-style:none; margin:0; padding:0; }
+  .fm-flows > li{ padding:.5rem 0; border-top:1px solid var(--rule); }
+  .fm-flows > li:first-child{ border-top:none; }
+  .fm-dir{ color:var(--ink-faint); }
+  .fm-role{ color:var(--ink-faint); font-size:.78rem; }
+  .fm-flow-detail{ margin:.3rem 0 0 1.1rem; font-size:.8rem; color:var(--ink-body); }
+  .fm-fa{ font-weight:600; font-variant-numeric:tabular-nums; }
+  .fm-ft{ text-transform:uppercase; font-size:.68rem; letter-spacing:.03em; color:var(--ink-faint); }
+  .fm-internal-src{ color:var(--ink-faint); font-size:.75rem; }
+  .fm-canvas.fm-core-mode .fm-node:not(.fm-core) rect{ opacity:.35; }
+</style>
+</head>
+<body>
+{{ partial "masthead.html" . }}
+
+{{ $flowmapKey := .Params.flowmap }}
+{{ $flow := "" }}
+{{ if $flowmapKey }}{{ $flow = index .Site.Data $flowmapKey }}{{ end }}
+
+<main class="wrap board-paper flowmap-page">
+  <p class="crumb"><a href="/research/">← Research</a></p>
+  <h1 class="fm-title">{{ .Title }}</h1>
+  <div class="content-body">{{ .Content }}</div>
+
+  {{ if $flow }}
+  <div class="fm-toolbar">
+    <input id="fm-search" type="search" placeholder="Find an entity, fund, or company…" aria-label="Find a node">
+    <label><input type="checkbox" id="fm-core-toggle"> Highlight <code>cut:core-buildout</code> v{{ $flow.cut_core_buildout_version }}</label>
+    <span class="fm-stats">{{ $flow.node_count }} nodes · {{ $flow.edge_count }} flows · live from the knowledge graph</span>
+  </div>
+
+  <div id="q1-flowmap" class="fm-canvas"></div>
+  <div id="fm-panel" class="fm-panel" hidden></div>
+
+  <script type="application/json" id="q1-flow-data">{{ $flow | jsonify | safeJS }}</script>
+  <script src="/js/q1-flowmap.js"></script>
+  {{ end }}
+</main>
+
+{{ partial "footer.html" . }}
+</body>
+</html>

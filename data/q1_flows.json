@@ -1,0 +1,5689 @@
+{
+ "cut_core_buildout_version": 3,
+ "dropped_for_layering": [],
+ "edge_count": 200,
+ "edges": [
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-ext-undisclosed-investors-xai-2023-formd-round-member-of-knowledge-atom-kat-evt-xai-2023-formd-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-ext-undisclosed-investors-xai-2023-formd-round",
+   "target": "kat-evt-xai-2023-formd-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-lightspeed-capital-member-of-knowledge-atom-kat-evt-mistral-2023-seed-round",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-lightspeed-capital",
+   "target": "kat-evt-mistral-2023-seed-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-redpoint-capital-member-of-knowledge-atom-kat-evt-mistral-2023-seed-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-redpoint-capital",
+   "target": "kat-evt-mistral-2023-seed-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-index-ventures-capital-member-of-knowledge-atom-kat-evt-mistral-2023-seed-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-index-ventures-capital",
+   "target": "kat-evt-mistral-2023-seed-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-xavier-niel-capital-member-of-knowledge-atom-kat-evt-mistral-2023-seed-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-xavier-niel-capital",
+   "target": "kat-evt-mistral-2023-seed-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-bpifrance-capital-member-of-knowledge-atom-kat-evt-mistral-2023-seed-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-bpifrance-capital",
+   "target": "kat-evt-mistral-2023-seed-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-eric-schmidt-capital-member-of-knowledge-atom-kat-evt-mistral-2023-seed-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-eric-schmidt-capital",
+   "target": "kat-evt-mistral-2023-seed-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-microsoft-capital-member-of-knowledge-atom-kat-evt-inflection-2023-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-microsoft-capital",
+   "target": "kat-evt-inflection-2023-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-inflection-2023-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-nvidia-capital",
+   "target": "kat-evt-inflection-2023-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-reid-hoffman-capital-member-of-knowledge-atom-kat-evt-inflection-2023-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-reid-hoffman-capital",
+   "target": "kat-evt-inflection-2023-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-bill-gates-capital-member-of-knowledge-atom-kat-evt-inflection-2023-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-bill-gates-capital",
+   "target": "kat-evt-inflection-2023-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-eric-schmidt-capital-member-of-knowledge-atom-kat-evt-inflection-2023-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-eric-schmidt-capital",
+   "target": "kat-evt-inflection-2023-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-psp-investments-capital-member-of-knowledge-atom-kat-evt-cohere-2024-series-d-round",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-psp-investments-capital",
+   "target": "kat-evt-cohere-2024-series-d-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-cisco-capital-member-of-knowledge-atom-kat-evt-cohere-2024-series-d-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-cisco-capital",
+   "target": "kat-evt-cohere-2024-series-d-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-fujitsu-capital-member-of-knowledge-atom-kat-evt-cohere-2024-series-d-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-fujitsu-capital",
+   "target": "kat-evt-cohere-2024-series-d-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-amd-capital-member-of-knowledge-atom-kat-evt-cohere-2024-series-d-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-amd-capital",
+   "target": "kat-evt-cohere-2024-series-d-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-edc-capital-member-of-knowledge-atom-kat-evt-cohere-2024-series-d-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-edc-capital",
+   "target": "kat-evt-cohere-2024-series-d-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-cohere-2024-series-d-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-nvidia-capital",
+   "target": "kat-evt-cohere-2024-series-d-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-salesforce-ventures-capital-member-of-knowledge-atom-kat-evt-cohere-2024-series-d-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-salesforce-ventures-capital",
+   "target": "kat-evt-cohere-2024-series-d-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-radical-ventures-capital-member-of-knowledge-atom-kat-evt-cohere-2025-round",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-radical-ventures-capital",
+   "target": "kat-evt-cohere-2025-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-inovia-capital-member-of-knowledge-atom-kat-evt-cohere-2025-round",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-inovia-capital",
+   "target": "kat-evt-cohere-2025-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-amd-capital-member-of-knowledge-atom-kat-evt-cohere-2025-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-amd-capital",
+   "target": "kat-evt-cohere-2025-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-cohere-2025-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-nvidia-capital",
+   "target": "kat-evt-cohere-2025-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-psp-investments-capital-member-of-knowledge-atom-kat-evt-cohere-2025-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-psp-investments-capital",
+   "target": "kat-evt-cohere-2025-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-salesforce-ventures-capital-member-of-knowledge-atom-kat-evt-cohere-2025-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-salesforce-ventures-capital",
+   "target": "kat-evt-cohere-2025-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-asml-capital-member-of-knowledge-atom-kat-evt-mistral-2025-series-c-round",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-asml-capital",
+   "target": "kat-evt-mistral-2025-series-c-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-dst-global-capital-member-of-knowledge-atom-kat-evt-mistral-2025-series-c-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-dst-global-capital",
+   "target": "kat-evt-mistral-2025-series-c-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-a16z-capital-member-of-knowledge-atom-kat-evt-mistral-2025-series-c-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-a16z-capital",
+   "target": "kat-evt-mistral-2025-series-c-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-bpifrance-capital-member-of-knowledge-atom-kat-evt-mistral-2025-series-c-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-bpifrance-capital",
+   "target": "kat-evt-mistral-2025-series-c-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-general-catalyst-capital-member-of-knowledge-atom-kat-evt-mistral-2025-series-c-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-general-catalyst-capital",
+   "target": "kat-evt-mistral-2025-series-c-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-index-ventures-capital-member-of-knowledge-atom-kat-evt-mistral-2025-series-c-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-index-ventures-capital",
+   "target": "kat-evt-mistral-2025-series-c-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-lightspeed-capital-member-of-knowledge-atom-kat-evt-mistral-2025-series-c-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-lightspeed-capital",
+   "target": "kat-evt-mistral-2025-series-c-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-mistral-2025-series-c-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-nvidia-capital",
+   "target": "kat-evt-mistral-2025-series-c-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-founders-fund-capital-member-of-knowledge-atom-kat-evt-crusoe-2024-series-d-round",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-founders-fund-capital",
+   "target": "kat-evt-crusoe-2024-series-d-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-fidelity-capital-member-of-knowledge-atom-kat-evt-crusoe-2024-series-d-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-fidelity-capital",
+   "target": "kat-evt-crusoe-2024-series-d-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-long-journey-ventures-capital-member-of-knowledge-atom-kat-evt-crusoe-2024-series-d-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-long-journey-ventures-capital",
+   "target": "kat-evt-crusoe-2024-series-d-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-mubadala-capital-member-of-knowledge-atom-kat-evt-crusoe-2024-series-d-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-mubadala-capital",
+   "target": "kat-evt-crusoe-2024-series-d-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-crusoe-2024-series-d-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-nvidia-capital",
+   "target": "kat-evt-crusoe-2024-series-d-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-ribbit-capital-capital-member-of-knowledge-atom-kat-evt-crusoe-2024-series-d-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-ribbit-capital-capital",
+   "target": "kat-evt-crusoe-2024-series-d-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-valor-equity-partners-capital-member-of-knowledge-atom-kat-evt-crusoe-2024-series-d-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-valor-equity-partners-capital",
+   "target": "kat-evt-crusoe-2024-series-d-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-a16z-capital-member-of-knowledge-atom-kat-evt-world-labs-2024-seed-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-a16z-capital",
+   "target": "kat-evt-world-labs-2024-seed-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-nea-capital-member-of-knowledge-atom-kat-evt-world-labs-2024-seed-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-nea-capital",
+   "target": "kat-evt-world-labs-2024-seed-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-radical-ventures-capital-member-of-knowledge-atom-kat-evt-world-labs-2024-seed-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-radical-ventures-capital",
+   "target": "kat-evt-world-labs-2024-seed-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-marc-benioff-capital-member-of-knowledge-atom-kat-evt-world-labs-2024-seed-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-marc-benioff-capital",
+   "target": "kat-evt-world-labs-2024-seed-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-world-labs-2024-seed-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-nvidia-capital",
+   "target": "kat-evt-world-labs-2024-seed-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-general-catalyst-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-general-catalyst-capital",
+   "target": "kat-evt-together-ai-2025-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-prosperity7-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-prosperity7-capital",
+   "target": "kat-evt-together-ai-2025-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-salesforce-ventures-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-salesforce-ventures-capital",
+   "target": "kat-evt-together-ai-2025-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-damac-capital-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-damac-capital-capital",
+   "target": "kat-evt-together-ai-2025-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-nvidia-capital",
+   "target": "kat-evt-together-ai-2025-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-kleiner-perkins-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-kleiner-perkins-capital",
+   "target": "kat-evt-together-ai-2025-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-march-capital-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-march-capital-capital",
+   "target": "kat-evt-together-ai-2025-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-emergence-capital-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-emergence-capital-capital",
+   "target": "kat-evt-together-ai-2025-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-lux-capital-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-lux-capital-capital",
+   "target": "kat-evt-together-ai-2025-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-se-ventures-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-se-ventures-capital",
+   "target": "kat-evt-together-ai-2025-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-greycroft-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-greycroft-capital",
+   "target": "kat-evt-together-ai-2025-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-coatue-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-coatue-capital",
+   "target": "kat-evt-together-ai-2025-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-ext-undisclosed-investors-together-ai-2025-series-b-round-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-ext-undisclosed-investors-together-ai-2025-series-b-round",
+   "target": "kat-evt-together-ai-2025-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-accel-capital-member-of-knowledge-atom-kat-evt-nebius-2024-strategic-financing-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-accel-capital",
+   "target": "kat-evt-nebius-2024-strategic-financing-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-nebius-2024-strategic-financing-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-nvidia-capital",
+   "target": "kat-evt-nebius-2024-strategic-financing-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-orbis-investments-capital-member-of-knowledge-atom-kat-evt-nebius-2024-strategic-financing-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-orbis-investments-capital",
+   "target": "kat-evt-nebius-2024-strategic-financing-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-usit-capital-member-of-knowledge-atom-kat-evt-lambda-2024-series-c-round",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-usit-capital",
+   "target": "kat-evt-lambda-2024-series-c-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-b-capital-capital-member-of-knowledge-atom-kat-evt-lambda-2024-series-c-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-b-capital-capital",
+   "target": "kat-evt-lambda-2024-series-c-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-sk-telecom-capital-member-of-knowledge-atom-kat-evt-lambda-2024-series-c-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-sk-telecom-capital",
+   "target": "kat-evt-lambda-2024-series-c-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-t-rowe-price-capital-member-of-knowledge-atom-kat-evt-lambda-2024-series-c-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-t-rowe-price-capital",
+   "target": "kat-evt-lambda-2024-series-c-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-daniel-gross-capital-member-of-knowledge-atom-kat-evt-perplexity-2024-series-b-round",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-daniel-gross-capital",
+   "target": "kat-evt-perplexity-2024-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-jeff-bezos-capital-member-of-knowledge-atom-kat-evt-perplexity-2024-series-b-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-jeff-bezos-capital",
+   "target": "kat-evt-perplexity-2024-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-perplexity-2024-series-b-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-nvidia-capital",
+   "target": "kat-evt-perplexity-2024-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-tobi-lutke-capital-member-of-knowledge-atom-kat-evt-perplexity-2024-series-b-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-tobi-lutke-capital",
+   "target": "kat-evt-perplexity-2024-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-elad-gil-capital-member-of-knowledge-atom-kat-evt-perplexity-2024-series-b-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-elad-gil-capital",
+   "target": "kat-evt-perplexity-2024-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-nat-friedman-capital-member-of-knowledge-atom-kat-evt-perplexity-2024-series-b-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-nat-friedman-capital",
+   "target": "kat-evt-perplexity-2024-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-naval-ravikant-capital-member-of-knowledge-atom-kat-evt-perplexity-2024-series-b-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-naval-ravikant-capital",
+   "target": "kat-evt-perplexity-2024-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-andrej-karpathy-capital-member-of-knowledge-atom-kat-evt-perplexity-2024-series-b-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-andrej-karpathy-capital",
+   "target": "kat-evt-perplexity-2024-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-ivp-capital-member-of-knowledge-atom-kat-evt-perplexity-2024-series-b-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-ivp-capital",
+   "target": "kat-evt-perplexity-2024-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-nea-capital-member-of-knowledge-atom-kat-evt-perplexity-2024-series-b-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-nea-capital",
+   "target": "kat-evt-perplexity-2024-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-thrive-capital-capital-member-of-knowledge-atom-kat-evt-anysphere-2024-series-b-round",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-thrive-capital-capital",
+   "target": "kat-evt-anysphere-2024-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-ext-undisclosed-investors-anysphere-2024-series-b-round-member-of-knowledge-atom-kat-evt-anysphere-2024-series-b-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-ext-undisclosed-investors-anysphere-2024-series-b-round",
+   "target": "kat-evt-anysphere-2024-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-blue-owl-capital-capital-member-of-knowledge-atom-kat-evt-crusoe-2024-abilene-jv-financing",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-blue-owl-capital-capital",
+   "target": "kat-evt-crusoe-2024-abilene-jv-financing",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-primary-digital-infrastructure-capital-member-of-knowledge-atom-kat-evt-crusoe-2024-abilene-jv-financing",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-primary-digital-infrastructure-capital",
+   "target": "kat-evt-crusoe-2024-abilene-jv-financing",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-blue-owl-capital-capital-member-of-knowledge-atom-kat-evt-crusoe-2025-abilene-phase2-financing",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-blue-owl-capital-capital",
+   "target": "kat-evt-crusoe-2025-abilene-phase2-financing",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-primary-digital-infrastructure-capital-member-of-knowledge-atom-kat-evt-crusoe-2025-abilene-phase2-financing",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-primary-digital-infrastructure-capital",
+   "target": "kat-evt-crusoe-2025-abilene-phase2-financing",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-blackstone-capital-member-of-knowledge-atom-kat-evt-coreweave-2023-blackstone-magnetar-facility",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-blackstone-capital",
+   "target": "kat-evt-coreweave-2023-blackstone-magnetar-facility",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-magnetar-capital-capital-member-of-knowledge-atom-kat-evt-coreweave-2023-blackstone-magnetar-facility",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-magnetar-capital-capital",
+   "target": "kat-evt-coreweave-2023-blackstone-magnetar-facility",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-coatue-capital-member-of-knowledge-atom-kat-evt-coreweave-2023-blackstone-magnetar-facility",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-coatue-capital",
+   "target": "kat-evt-coreweave-2023-blackstone-magnetar-facility",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-digitalbridge-capital-member-of-knowledge-atom-kat-evt-coreweave-2023-blackstone-magnetar-facility",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-digitalbridge-capital",
+   "target": "kat-evt-coreweave-2023-blackstone-magnetar-facility",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-blackrock-capital-member-of-knowledge-atom-kat-evt-coreweave-2023-blackstone-magnetar-facility",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-blackrock-capital",
+   "target": "kat-evt-coreweave-2023-blackstone-magnetar-facility",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-pimco-capital-member-of-knowledge-atom-kat-evt-coreweave-2023-blackstone-magnetar-facility",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-pimco-capital",
+   "target": "kat-evt-coreweave-2023-blackstone-magnetar-facility",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-carlyle-capital-member-of-knowledge-atom-kat-evt-coreweave-2023-blackstone-magnetar-facility",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-carlyle-capital",
+   "target": "kat-evt-coreweave-2023-blackstone-magnetar-facility",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-great-elm-capital-member-of-knowledge-atom-kat-evt-coreweave-2023-blackstone-magnetar-facility",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-great-elm-capital",
+   "target": "kat-evt-coreweave-2023-blackstone-magnetar-facility",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-jpmorgan-chase-capital-member-of-knowledge-atom-kat-evt-coreweave-2026-ddtl55-facility",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-jpmorgan-chase-capital",
+   "target": "kat-evt-coreweave-2026-ddtl55-facility",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-mufg-capital-member-of-knowledge-atom-kat-evt-coreweave-2026-ddtl55-facility",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-mufg-capital",
+   "target": "kat-evt-coreweave-2026-ddtl55-facility",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-ext-undisclosed-lenders-coreweave-2025-ddtl5-amendment-member-of-knowledge-atom-kat-evt-coreweave-2025-ddtl5-amendment",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-ext-undisclosed-lenders-coreweave-2025-ddtl5-amendment",
+   "target": "kat-evt-coreweave-2025-ddtl5-amendment",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-jpmorgan-chase-capital-member-of-knowledge-atom-kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-jpmorgan-chase-capital",
+   "target": "kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-mufg-capital-member-of-knowledge-atom-kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-mufg-capital",
+   "target": "kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-openai-capital-member-of-knowledge-atom-kat-evt-stargate-2025-jv-financing",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-openai-capital",
+   "target": "kat-evt-stargate-2025-jv-financing",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-softbank-capital-member-of-knowledge-atom-kat-evt-stargate-2025-jv-financing",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-softbank-capital",
+   "target": "kat-evt-stargate-2025-jv-financing",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-oracle-capital-member-of-knowledge-atom-kat-evt-stargate-2025-jv-financing",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-oracle-capital",
+   "target": "kat-evt-stargate-2025-jv-financing",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-mgx-capital-member-of-knowledge-atom-kat-evt-stargate-2025-jv-financing",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-mgx-capital",
+   "target": "kat-evt-stargate-2025-jv-financing",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-alibaba-capital-member-of-knowledge-atom-kat-evt-moonshot-ai-2024-02-alibaba-round",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-alibaba-capital",
+   "target": "kat-evt-moonshot-ai-2024-02-alibaba-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-hongshan-capital-member-of-knowledge-atom-kat-evt-moonshot-ai-2024-02-alibaba-round",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-hongshan-capital",
+   "target": "kat-evt-moonshot-ai-2024-02-alibaba-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-tencent-capital-member-of-knowledge-atom-kat-evt-moonshot-ai-2024-08-series-b-round",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-tencent-capital",
+   "target": "kat-evt-moonshot-ai-2024-08-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-gaorong-capital-capital-member-of-knowledge-atom-kat-evt-moonshot-ai-2024-08-series-b-round",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-gaorong-capital-capital",
+   "target": "kat-evt-moonshot-ai-2024-08-series-b-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-prima-materia-capital-member-of-knowledge-atom-kat-evt-helsing-2025-series-d-round",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-prima-materia-capital",
+   "target": "kat-evt-helsing-2025-series-d-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-nea-capital-member-of-knowledge-atom-kat-evt-synthesia-2025-series-d-round",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-nea-capital",
+   "target": "kat-evt-synthesia-2025-series-d-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-google-ventures-capital-member-of-knowledge-atom-kat-evt-synthesia-2026-series-e-round",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-google-ventures-capital",
+   "target": "kat-evt-synthesia-2026-series-e-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-synthesia-2026-series-e-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-nvidia-capital",
+   "target": "kat-evt-synthesia-2026-series-e-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-accel-capital-member-of-knowledge-atom-kat-evt-synthesia-2026-series-e-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-accel-capital",
+   "target": "kat-evt-synthesia-2026-series-e-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-kleiner-perkins-capital-member-of-knowledge-atom-kat-evt-synthesia-2026-series-e-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-kleiner-perkins-capital",
+   "target": "kat-evt-synthesia-2026-series-e-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-nea-capital-member-of-knowledge-atom-kat-evt-synthesia-2026-series-e-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-nea-capital",
+   "target": "kat-evt-synthesia-2026-series-e-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-psp-investments-capital-member-of-knowledge-atom-kat-evt-synthesia-2026-series-e-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-psp-investments-capital",
+   "target": "kat-evt-synthesia-2026-series-e-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-air-street-capital-capital-member-of-knowledge-atom-kat-evt-synthesia-2026-series-e-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-air-street-capital-capital",
+   "target": "kat-evt-synthesia-2026-series-e-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-firstmark-capital-member-of-knowledge-atom-kat-evt-synthesia-2026-series-e-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-firstmark-capital",
+   "target": "kat-evt-synthesia-2026-series-e-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-mmc-ventures-capital-member-of-knowledge-atom-kat-evt-synthesia-2026-series-e-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-mmc-ventures-capital",
+   "target": "kat-evt-synthesia-2026-series-e-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-humain-capital-member-of-knowledge-atom-kat-evt-xai-2026-series-e-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-humain-capital",
+   "target": "kat-evt-xai-2026-series-e-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-ext-apollo-global-management-member-of-knowledge-atom-kat-evt-broadcom-2026-anthropic-spv-facility",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-ext-apollo-global-management",
+   "target": "kat-evt-broadcom-2026-anthropic-spv-facility",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-blackstone-capital-member-of-knowledge-atom-kat-evt-broadcom-2026-anthropic-spv-facility",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-blackstone-capital",
+   "target": "kat-evt-broadcom-2026-anthropic-spv-facility",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-disruptive-capital-member-of-knowledge-atom-kat-evt-groq-2026-series-a-round",
+   "note": null,
+   "role": "lead",
+   "source": "kat-ent-disruptive-capital",
+   "target": "kat-evt-groq-2026-series-a-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-groq-2026-series-a-round",
+   "note": null,
+   "role": "participant",
+   "source": "kat-ent-nvidia-capital",
+   "target": "kat-evt-groq-2026-series-a-round",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 29400000000,
+     "basis": "point",
+     "claim_id": "kat-claim-tsmc-2026-q2-capex-approval-tsmc-foundry-construction-2026-capex-obs0",
+     "date": "2026-08-11",
+     "destination_category": "land, shell & materials",
+     "flow_type": "capex",
+     "source_urls": [
+      "https://www.tipranks.com/news/company-announcements/tsmc-board-approves-us29-4-billion-capex-q2-dividend-and-sony-image-sensor-jv"
+     ],
+     "summary": "Board-approved capital appropriations of roughly $29.4B for advanced-node capacity and packaging, cited to AI/HPC demand; approved alongside a Sony image-sensor joint venture and a Q2 dividend in the same board action",
+     "unit": "USD"
+    },
+    {
+     "amount": 12000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-tsmc-capital-tsmc-foundry-construction-2020-az-intent-obs0",
+     "date": "2021-01-01",
+     "destination_category": "land, shell & materials",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://pr.tsmc.com/english/latest-news"
+     ],
+     "summary": "$12B, 2021-2029",
+     "unit": "USD"
+    },
+    {
+     "amount": 100000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-tsmc-capital-tsmc-foundry-construction-2025-us-expansion-obs0",
+     "date": "2025-03-03",
+     "destination_category": "land, shell & materials",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.whitehouse.gov/"
+     ],
+     "summary": "additional $100B; brings total US commitment to ~$165B",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-tsmc-capital-funds-knowledge-atom-kat-ent-tsmc-foundry-construction",
+   "note": "Merged 3 funds rows during entity-reconciliation cleanup (2026-08-27) -- this entity pair has 3 distinct financings; P-01 says list them.",
+   "role": null,
+   "source": "kat-ent-tsmc-capital",
+   "target": "kat-ent-tsmc-foundry-construction",
+   "total_amount": 141400000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 1500000000,
+     "basis": "point",
+     "claim_id": "kat-claim-ext-public-equity-market-coreweave-capital-2025-ipo-obs0",
+     "date": "2025-03-28",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://www.coreweave.com/news"
+     ],
+     "summary": "37.5M shares @ $40, ~$1.5B raised; ~$23B fully diluted valuation",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-ext-public-equity-market-funds-knowledge-atom-kat-ent-coreweave-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-ext-public-equity-market",
+   "target": "kat-ent-coreweave-capital",
+   "total_amount": 1500000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": "estimate",
+     "claim_id": "kat-claim-openai-datacenter-operation-amd-chip-design-2025-6gw-obs0",
+     "date": "2026-07-01",
+     "destination_category": "compute silicon & systems",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.amd.com/en/newsroom"
+     ],
+     "summary": "6GW AMD Instinct deployment (first 1GW MI450 series, H2 2026); dollar price of the chip purchase not disclosed",
+     "unit": null
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-openai-datacenter-operation-funds-knowledge-atom-kat-ent-amd-chip-design",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-openai-datacenter-operation",
+   "target": "kat-ent-amd-chip-design",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": "ceiling",
+     "claim_id": "kat-claim-amd-chip-design-openai-capital-2025-warrant-obs0",
+     "date": "2025-10-06",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "non-cash consideration",
+     "source_urls": [
+      "https://www.amd.com/en/newsroom"
+     ],
+     "summary": "warrant for up to 160M AMD shares (~10% of AMD), vesting on deployment/share-price milestones; no fixed $ value at signing since it is a contingent equity instrument",
+     "unit": null
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-amd-chip-design-funds-knowledge-atom-kat-ent-openai-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-amd-chip-design",
+   "target": "kat-ent-openai-capital",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": "estimate",
+     "claim_id": "kat-claim-anthropic-model-training-google-cloud-capacity-2025-tpu-obs0",
+     "date": "2025-10-23",
+     "destination_category": "purchased compute capacity (services)",
+     "flow_type": "capacity/service payment",
+     "source_urls": [
+      "https://www.anthropic.com/news"
+     ],
+     "summary": "\"tens of billions\" (Anthropic's own characterization); up to 1M TPUs, >1GW capacity online 2026",
+     "unit": null
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-anthropic-model-training-funds-knowledge-atom-kat-ent-google-cloud-capacity",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-anthropic-model-training",
+   "target": "kat-ent-google-cloud-capacity",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 134700000,
+     "basis": "point",
+     "claim_id": "kat-claim-ext-investor-syndicate-xai-2023-xai-capital-2023-formd-obs0",
+     "date": "2023-12-01",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://www.sec.gov/cgi-bin/browse-edgar"
+     ],
+     "summary": "$134.7M sold against a $1B ceiling ($865.3M remaining) per SEC Form D",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-xai-2023-formd-round-funds-knowledge-atom-kat-ent-xai-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-xai-2023-formd-round",
+   "target": "kat-ent-xai-capital",
+   "total_amount": 134700000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 4000000000,
+     "basis": "ceiling",
+     "claim_id": "kat-claim-amazon-capital-anthropic-capital-2023-09-initial-obs0",
+     "date": "2023-09-01",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://techcrunch.com/"
+     ],
+     "summary": "up to $4B commitment; $1.25B confirmed as the initial delivered tranche",
+     "unit": "USD"
+    },
+    {
+     "amount": 8000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-amazon-capital-anthropic-capital-2024-11-additional-obs1",
+     "date": "2023-09-01",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [],
+     "summary": "cumulative total across the Sep-2023 ($4B commitment) and Nov-2024 ($4B) tranches",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-amazon-capital-funds-knowledge-atom-kat-ent-anthropic-capital",
+   "note": "Merged 2 funds rows during entity-reconciliation cleanup (2026-08-27) -- this entity pair has 2 distinct financings; P-01 says list them.",
+   "role": null,
+   "source": "kat-ent-amazon-capital",
+   "target": "kat-ent-anthropic-capital",
+   "total_amount": 8000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 300000000,
+     "basis": "point",
+     "claim_id": "kat-claim-google-capital-anthropic-capital-2023-02-obs0",
+     "date": "2023-02-01",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://siliconangle.com/"
+     ],
+     "summary": "~$300M for ~10% stake, plus a Cloud preferred-provider deal",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-google-capital-funds-knowledge-atom-kat-ent-anthropic-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-google-capital",
+   "target": "kat-ent-anthropic-capital",
+   "total_amount": 300000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 113000000,
+     "basis": "point",
+     "claim_id": "kat-claim-ext-investor-syndicate-mistral-2023-mistral-capital-2023-seed-obs0",
+     "date": "2023-06-01",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://techcrunch.com/"
+     ],
+     "summary": "\u20ac105M/$113M at \u20ac240M/$260M valuation",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-mistral-2023-seed-round-funds-knowledge-atom-kat-ent-mistral-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-mistral-2023-seed-round",
+   "target": "kat-ent-mistral-capital",
+   "total_amount": 113000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 1300000000,
+     "basis": "point",
+     "claim_id": "kat-claim-ext-investor-syndicate-inflection-2023-inflection-capital-2023-round-obs0",
+     "date": "2023-06-01",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://techcrunch.com/"
+     ],
+     "summary": "$1.3B at $4B valuation, funds a 22,000-H100 cluster w/ CoreWeave",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-inflection-2023-round-funds-knowledge-atom-kat-ent-inflection-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-inflection-2023-round",
+   "target": "kat-ent-inflection-capital",
+   "total_amount": 1300000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 500000000,
+     "basis": "point",
+     "claim_id": "kat-claim-ext-investor-syndicate-cohere-2024-cohere-capital-2024-seriesd-obs0",
+     "date": "2024-07-01",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://betakit.com/"
+     ],
+     "summary": "$500M Series D at $5.5B valuation",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-cohere-2024-series-d-round-funds-knowledge-atom-kat-ent-cohere-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-cohere-2024-series-d-round",
+   "target": "kat-ent-cohere-capital",
+   "total_amount": 500000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 500000000,
+     "basis": "point",
+     "claim_id": "kat-claim-ext-investor-syndicate-cohere-2025-cohere-capital-2025-round-obs0",
+     "date": "2025-08-01",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://cohere.com/"
+     ],
+     "summary": "$500M at $6.8B valuation",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-cohere-2025-round-funds-knowledge-atom-kat-ent-cohere-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-cohere-2025-round",
+   "target": "kat-ent-cohere-capital",
+   "total_amount": 500000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": "point",
+     "claim_id": "kat-claim-nvidia-chip-design-xai-datacenter-operation-2024-colossus-obs0",
+     "date": "2024-09-01",
+     "destination_category": "compute silicon & systems",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://nvidianews.nvidia.com/"
+     ],
+     "summary": "100,000 H100 GPUs at initial online (~Sep 2024), built in ~122 days, doubled to ~200,000 GPUs within months; dollar value of the chip purchase not disclosed",
+     "unit": null
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-chip-design-funds-knowledge-atom-kat-ent-xai-datacenter-operation",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-nvidia-chip-design",
+   "target": "kat-ent-xai-datacenter-operation",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 1250000000,
+     "basis": "point",
+     "claim_id": "kat-claim-anthropic-model-training-xai-datacenter-operation-2026-colossus1-lease-obs0",
+     "date": "2026-05-20",
+     "destination_category": "purchased compute capacity (services)",
+     "flow_type": "capacity/service payment",
+     "source_urls": [
+      "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/"
+     ],
+     "summary": "$1.25B/month rate; >$40B total over the full term; 300MW of compute; Colossus 1 (Memphis), all 220,000+ Nvidia GPUs (H100/H200/GB200)",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-anthropic-model-training-funds-knowledge-atom-kat-ent-xai-datacenter-operation",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-anthropic-model-training",
+   "target": "kat-ent-xai-datacenter-operation",
+   "total_amount": 1250000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 920000000,
+     "basis": "point",
+     "claim_id": "kat-claim-google-ai-compute-procurement-xai-datacenter-operation-2026-lease-obs0",
+     "date": "2026-10-01",
+     "destination_category": "purchased compute capacity (services)",
+     "flow_type": "capacity/service payment",
+     "source_urls": [
+      "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/"
+     ],
+     "summary": "$920M/month; ~110,000 Nvidia GPUs + CPUs/memory/components; ramp-up through Sep 2026 at reduced rate, full rate Oct 2026",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-google-ai-compute-procurement-funds-knowledge-atom-kat-ent-xai-datacenter-operation",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-google-ai-compute-procurement",
+   "target": "kat-ent-xai-datacenter-operation",
+   "total_amount": 920000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 1989000000,
+     "basis": "point",
+     "claim_id": "kat-claim-mistral-2025-series-c-round-mistral-capital-2025-series-c-obs0",
+     "date": "2025-09-09",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/"
+     ],
+     "summary": "\u20ac1.7B raised; USD figure is a derived conversion (~1.17 EUR/USD around the announcement date), not a figure Mistral's own release states in dollars",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-mistral-2025-series-c-round-funds-knowledge-atom-kat-ent-mistral-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-mistral-2025-series-c-round",
+   "target": "kat-ent-mistral-capital",
+   "total_amount": 1989000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 600000000,
+     "basis": "point",
+     "claim_id": "kat-claim-crusoe-2024-series-d-round-crusoe-capital-2024-series-d-obs0",
+     "date": "2024-12-12",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://www.crusoe.ai/resources/newsroom/crusoe-closes-series-d-funding"
+     ],
+     "summary": "$600M Series D at $2.8B valuation",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-crusoe-2024-series-d-round-funds-knowledge-atom-kat-ent-crusoe-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-crusoe-2024-series-d-round",
+   "target": "kat-ent-crusoe-capital",
+   "total_amount": 600000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 230000000,
+     "basis": "point",
+     "claim_id": "kat-claim-world-labs-2024-seed-round-world-labs-capital-2024-seed-obs0",
+     "date": "2024-09-13",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://techcrunch.com/2024/09/13/fei-fei-lis-world-labs-comes-out-of-stealth-with-230m-in-funding/"
+     ],
+     "summary": "$230M raised across two rounds (not individually broken out by the source), valuation \"over $1B\"",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-world-labs-2024-seed-round-funds-knowledge-atom-kat-ent-world-labs-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-world-labs-2024-seed-round",
+   "target": "kat-ent-world-labs-capital",
+   "total_amount": 230000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 305000000,
+     "basis": "point",
+     "claim_id": "kat-claim-together-ai-2025-series-b-round-together-ai-capital-2025-series-b-obs0",
+     "date": "2025-02-20",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://www.together.ai/blog/together-ai-announcing-305m-series-b"
+     ],
+     "summary": "$305M Series B at $3.3B valuation",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-together-ai-2025-series-b-round-funds-knowledge-atom-kat-ent-together-ai-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-together-ai-2025-series-b-round",
+   "target": "kat-ent-together-ai-capital",
+   "total_amount": 305000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 700000000,
+     "basis": "point",
+     "claim_id": "kat-claim-nebius-2024-strategic-financing-round-nebius-capital-2024-strategic-obs0",
+     "date": "2024-12-02",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://www.businesswire.com/news/home/20241202575315/en/Nebius-Announces-Oversubscribed-Strategic-Equity-Financing-of-USD-700-Million-to-Accelerate-Roll-out-of-Full-stack-AI-Infrastructure"
+     ],
+     "summary": "$700M oversubscribed strategic equity financing; no valuation stated in the release",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-nebius-2024-strategic-financing-round-funds-knowledge-atom-kat-ent-nebius-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-nebius-2024-strategic-financing-round",
+   "target": "kat-ent-nebius-capital",
+   "total_amount": 700000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 320000000,
+     "basis": "point",
+     "claim_id": "kat-claim-lambda-2024-series-c-round-lambda-capital-2024-series-c-obs0",
+     "date": "2024-02-15",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://lambda.ai/blog/lambda-raises-320m-to-build-a-gpu-cloud-for-ai"
+     ],
+     "summary": "$320M Series C; a $1.5B valuation is reported in trade press (DCD, The Next Platform) but was not confirmed on the fetched company blog itself",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-lambda-2024-series-c-round-funds-knowledge-atom-kat-ent-lambda-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-lambda-2024-series-c-round",
+   "target": "kat-ent-lambda-capital",
+   "total_amount": 320000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 62700000,
+     "basis": "point",
+     "claim_id": "kat-claim-perplexity-2024-series-b-round-perplexity-capital-2024-series-b-obs0",
+     "date": "2024-04-24",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://www.lw.com/en/news/2024/04/latham-watkins-advises-perplexity-ai-in-us62-7-million-series-b-funding-round"
+     ],
+     "summary": "US$62.7M Series B round; \"more than US$1 billion\" valuation",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-perplexity-2024-series-b-round-funds-knowledge-atom-kat-ent-perplexity-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-perplexity-2024-series-b-round",
+   "target": "kat-ent-perplexity-capital",
+   "total_amount": 62700000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 105000000,
+     "basis": "point",
+     "claim_id": "kat-claim-anysphere-2024-series-b-round-anysphere-capital-2024-series-b-obs0",
+     "date": "2024-12-01",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://news.crunchbase.com/ai/anysphere-cursor-venture-funding-thrive/"
+     ],
+     "summary": "$105M Series B at $2.6B valuation",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-anysphere-2024-series-b-round-funds-knowledge-atom-kat-ent-anysphere-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-anysphere-2024-series-b-round",
+   "target": "kat-ent-anysphere-capital",
+   "total_amount": 105000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 38100000000,
+     "basis": "point",
+     "claim_id": "kat-claim-sk-hynix-capital-sk-hynix-memory-fab-construction-2026-yongin-cheongju-obs0",
+     "date": "2027-07-01",
+     "destination_category": "memory & storage",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://news.skhynix.com/en/fab-facility-investment-2026/"
+     ],
+     "summary": "54 trillion won (~$38.1B) combined board-approved investment \u2014 35.2 trillion won for the Yongin Y2 fab + 19.1 trillion won for the Cheongju M17 fab",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-sk-hynix-capital-funds-knowledge-atom-kat-ent-sk-hynix-memory-fab-construction",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-sk-hynix-capital",
+   "target": "kat-ent-sk-hynix-memory-fab-construction",
+   "total_amount": 38100000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 7000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-micron-capital-micron-hbm-packaging-construction-2025-singapore-obs0",
+     "date": "2025-01-08",
+     "destination_category": "memory & storage",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.einpresswire.com/article/775015845/micron-breaks-ground-on-new-hbm-advanced-packaging-facility-in-singapore"
+     ],
+     "summary": "SG$9.5B (~$7B) HBM advanced-packaging facility, through the end of the decade and beyond",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-micron-capital-funds-knowledge-atom-kat-ent-micron-hbm-packaging-construction",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-micron-capital",
+   "target": "kat-ent-micron-hbm-packaging-construction",
+   "total_amount": 7000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 15000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-micron-capital-micron-memory-fab-construction-2022-idaho-obs0",
+     "date": "2022-09-01",
+     "destination_category": "memory & storage",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://investors.micron.com/news-releases/news-release-details/micron-invest-15-billion-new-idaho-fab-bringing-leading-edge"
+     ],
+     "summary": "$15B \"through the end of the decade\" for a new leading-edge memory fab in Boise, Idaho",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-micron-capital-funds-knowledge-atom-kat-ent-micron-memory-fab-construction",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-micron-capital",
+   "target": "kat-ent-micron-memory-fab-construction",
+   "total_amount": 15000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 17000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-samsung-capital-samsung-foundry-construction-2021-taylor-tx-obs0",
+     "date": "2021-11-23",
+     "destination_category": "land, shell & materials",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://news.samsung.com/us/samsung-new-advanced-semiconductor-fab-site-taylor-texas"
+     ],
+     "summary": "$17B original investment; later reported growth to $37-44B is unconfirmed on an official source this pass",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-samsung-capital-funds-knowledge-atom-kat-ent-samsung-foundry-construction",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-samsung-capital",
+   "target": "kat-ent-samsung-foundry-construction",
+   "total_amount": 17000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 7860000000,
+     "basis": "point",
+     "claim_id": "kat-claim-ext-us-government-intel-foundry-construction-2024-chips-act-obs0",
+     "date": "2024-11-26",
+     "destination_category": "land, shell & materials",
+     "flow_type": "grant / subsidy",
+     "source_urls": [
+      "https://newsroom.intel.com/press-kit/us-chips-act-funding-intel"
+     ],
+     "summary": "$7.86B direct CHIPS Act funding, finalized 2024-11-26 (down from \"up to $8.5B\" preliminary terms announced 2024-03-20)",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-ext-us-government-funds-knowledge-atom-kat-ent-intel-foundry-construction",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-ext-us-government",
+   "target": "kat-ent-intel-foundry-construction",
+   "total_amount": 7860000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 1500000000,
+     "basis": "point",
+     "claim_id": "kat-claim-nvidia-ai-compute-procurement-amkor-packaging-assembly-2026-supply-agreement-obs0",
+     "date": "2026-07-23",
+     "destination_category": "compute silicon & systems",
+     "flow_type": "prepayment",
+     "source_urls": [
+      "https://ir.amkor.com/news-releases/news-release-details/amkor-technology-announces-strategic-partnership-nvidia-expand"
+     ],
+     "summary": "$1.5B multi-year advanced packaging and development agreement, spanning Asia and Arizona facilities",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-ai-compute-procurement-funds-knowledge-atom-kat-ent-amkor-packaging-assembly",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-nvidia-ai-compute-procurement",
+   "target": "kat-ent-amkor-packaging-assembly",
+   "total_amount": 1500000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 7000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-amkor-capital-amkor-packaging-construction-2025-arizona-obs0",
+     "date": "2025-10-06",
+     "destination_category": "land, shell & materials",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://ir.amkor.com/news-releases/news-release-details/amkor-technology-breaks-ground-new-semiconductor-advanced"
+     ],
+     "summary": "$7B total Arizona advanced packaging/test campus, up from an original ~$2B plan",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-amkor-capital-funds-knowledge-atom-kat-ent-amkor-packaging-construction",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-amkor-capital",
+   "target": "kat-ent-amkor-packaging-construction",
+   "total_amount": 7000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": "estimate",
+     "claim_id": "kat-claim-tsmc-capital-tsmc-advanced-packaging-construction-2026-capex-share-obs0",
+     "date": "2026-01-01",
+     "destination_category": "compute silicon & systems",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.investing.com/news/transcripts/earnings-call-transcript-tsmc-lifts-2026-outlook-as-ai-demand-stays-hot-in-q2-2026-93CH-4794777"
+     ],
+     "summary": "derived range \u2014 10-20% of TSMC's $60-64B FY2026 capex guidance, bucketed with testing and mask-making, not a company-stated standalone figure",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-tsmc-capital-funds-knowledge-atom-kat-ent-tsmc-advanced-packaging-construction",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-tsmc-capital",
+   "target": "kat-ent-tsmc-advanced-packaging-construction",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 10500000000,
+     "basis": "point",
+     "claim_id": "kat-claim-ase-capital-ase-packaging-construction-2026-capex-obs0",
+     "date": "2026-01-01",
+     "destination_category": "compute silicon & systems",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.trendforce.com/news/2026/07/31/news-ase-again-raises-2026-capex-to-record-us10-5b-eyes-2x-leading-edge-advanced-packaging-revenue-by-2027/"
+     ],
+     "summary": "2026 capex raised to $10.5B (from a prior $8.5B forecast); ~$4B to new fabs/infrastructure, ~$6.5B to production equipment for LEAP (Leading-Edge Advanced Packaging), mainstream packaging, and test capacity",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-ase-capital-funds-knowledge-atom-kat-ent-ase-packaging-construction",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-ase-capital",
+   "target": "kat-ent-ase-packaging-construction",
+   "total_amount": 10500000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 2000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-nvidia-capital-coherent-capital-2026-equity-obs0",
+     "date": "2026-03-02",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://www.sec.gov/Archives/edgar/data/820318/000119312526084366/d42735dex991.htm"
+     ],
+     "summary": "$2B investment to support R&D, future capacity, and operations as Coherent builds US-based manufacturing capacity",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-capital-funds-knowledge-atom-kat-ent-coherent-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-nvidia-capital",
+   "target": "kat-ent-coherent-capital",
+   "total_amount": 2000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": "estimate",
+     "claim_id": "kat-claim-nvidia-ai-compute-procurement-coherent-optical-components-2026-purchase-commitment-obs0",
+     "date": "2026-03-02",
+     "destination_category": "networking & optics",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.sec.gov/Archives/edgar/data/820318/000119312526084366/d42735dex991.htm"
+     ],
+     "summary": "\"multi-billion-dollar purchase commitment\" for advanced laser and optical networking products \u2014 no specific figure disclosed",
+     "unit": null
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-ai-compute-procurement-funds-knowledge-atom-kat-ent-coherent-optical-components",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-nvidia-ai-compute-procurement",
+   "target": "kat-ent-coherent-optical-components",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 2000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-nvidia-capital-lumentum-capital-2026-equity-obs0",
+     "date": "2026-03-02",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://www.sec.gov/Archives/edgar/data/1633978/000119312526085412/d41019dex991.htm"
+     ],
+     "summary": "$2B private placement of 2,876,415 shares of Series A Convertible Preferred Stock at $695.31/share",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-capital-funds-knowledge-atom-kat-ent-lumentum-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-nvidia-capital",
+   "target": "kat-ent-lumentum-capital",
+   "total_amount": 2000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": "estimate",
+     "claim_id": "kat-claim-nvidia-ai-compute-procurement-lumentum-optical-components-2026-purchase-commitment-obs0",
+     "date": "2026-03-02",
+     "destination_category": "networking & optics",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.sec.gov/Archives/edgar/data/1633978/000119312526085412/d41019dex991.htm"
+     ],
+     "summary": "\"multi-billion\" purchase commitment and future capacity access rights for advanced laser components \u2014 no specific figure disclosed",
+     "unit": null
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-ai-compute-procurement-funds-knowledge-atom-kat-ent-lumentum-optical-components",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-nvidia-ai-compute-procurement",
+   "target": "kat-ent-lumentum-optical-components",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 3400000000,
+     "basis": "point",
+     "claim_id": "kat-claim-crusoe-2024-abilene-jv-financing-crusoe-datacenter-construction-2024-jv-formation-obs0",
+     "date": "2024-10-15",
+     "destination_category": "land, shell & materials",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://www.crusoe.ai/resources/newsroom/crusoe-blue-owl-capital-primary-digital-joint-venture"
+     ],
+     "summary": "$3.4B joint venture (fully funded forward takeout structure) \u2014 Lancium Clean Campus, Abilene TX, 206MW, two buildings, 100% long-term leased to a Fortune 100 hyperscale tenant",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-crusoe-2024-abilene-jv-financing-funds-knowledge-atom-kat-ent-crusoe-datacenter-construction",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-crusoe-2024-abilene-jv-financing",
+   "target": "kat-ent-crusoe-datacenter-construction",
+   "total_amount": 3400000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 2300000000,
+     "basis": "point",
+     "claim_id": "kat-claim-jpmorgan-chase-capital-crusoe-datacenter-construction-2025-construction-loan-obs0",
+     "date": "2025-01-23",
+     "destination_category": "land, shell & materials",
+     "flow_type": "debt",
+     "source_urls": [
+      "https://www.kirkland.com/news/press-release/2025/01/kirkland-ellis-advises-bo-funds-on-jv-and-financing-for-development-of-adc"
+     ],
+     "summary": "$2.3B construction loan for the same Abilene, TX campus (206MW)",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-jpmorgan-chase-capital-funds-knowledge-atom-kat-ent-crusoe-datacenter-construction",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-jpmorgan-chase-capital",
+   "target": "kat-ent-crusoe-datacenter-construction",
+   "total_amount": 2300000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 15000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-crusoe-2025-abilene-phase2-financing-crusoe-datacenter-construction-2025-phase2-obs1",
+     "date": "2024-10-15",
+     "destination_category": "land, shell & materials",
+     "flow_type": "debt",
+     "source_urls": [
+      "https://www.globenewswire.com/news-release/2025/05/21/3085765/"
+     ],
+     "summary": "cumulative total committed capital across the 2024 JV formation ($3.4B) and this 2025 phase-2 tranche ($11.6B)",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-crusoe-2025-abilene-phase2-financing-funds-knowledge-atom-kat-ent-crusoe-datacenter-construction",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-crusoe-2025-abilene-phase2-financing",
+   "target": "kat-ent-crusoe-datacenter-construction",
+   "total_amount": 15000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 6100000000,
+     "basis": "ceiling",
+     "claim_id": "kat-claim-core-scientific-capital-core-scientific-datacenter-construction-2024-denton-investment-obs0",
+     "date": "2024-11-19",
+     "destination_category": "land, shell & materials",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://constructionreviewonline.com/core-scientific-to-invest-6-1-billion-in-converting-crypto-mine-in-denton-into-ai-data-center/"
+     ],
+     "summary": "up to $6.1B real-property investment (HPC infrastructure + office complex construction) on 78.85 leased acres, 394MW total campus power capacity",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-core-scientific-capital-funds-knowledge-atom-kat-ent-core-scientific-datacenter-construction",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-core-scientific-capital",
+   "target": "kat-ent-core-scientific-datacenter-construction",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 104000000,
+     "basis": "point",
+     "claim_id": "kat-claim-coreweave-datacenter-operation-core-scientific-datacenter-construction-2025-denton-expansion-obs0",
+     "date": "2025-02-26",
+     "destination_category": "land, shell & materials",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://investors.corescientific.com/news-events/press-releases/detail/110/core-scientific-and-coreweave-announce-1-2-billion-expansion-at-denton-tx-site"
+     ],
+     "summary": "$104M Core Scientific-funded capex for a 70MW expansion (powered shell, $1.5M/MW), bringing the Denton site to ~260MW critical IT load",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-coreweave-datacenter-operation-funds-knowledge-atom-kat-ent-core-scientific-datacenter-construction",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-coreweave-datacenter-operation",
+   "target": "kat-ent-core-scientific-datacenter-construction",
+   "total_amount": 104000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 2000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-vantage-data-centers-capital-turner-construction-epc-services-2024-new-albany-epc-obs0",
+     "date": "2024-11-04",
+     "destination_category": "land, shell & materials",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.turnerconstruction.com/insights/turner-selected-for-2-billion-expansion-project-for-vantage-data-centers"
+     ],
+     "summary": "$2B general-contractor/EPC contract, New Albany OH campus, 192MW, 1.5M+ sq ft, 70 acres \u2014 Vantage's first Midwest facility",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-vantage-data-centers-capital-funds-knowledge-atom-kat-ent-turner-construction-epc-services",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-vantage-data-centers-capital",
+   "target": "kat-ent-turner-construction-epc-services",
+   "total_amount": 2000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 4200000000,
+     "basis": "point",
+     "claim_id": "kat-claim-sb-energy-datacenter-operation-aep-ohio-grid-interconnection-2025-piketon-line-obs0",
+     "date": "2025-01-01",
+     "destination_category": "power infrastructure",
+     "flow_type": "capacity/service payment",
+     "source_urls": [
+      "https://www.aep.com/news/stories/view/10823/"
+     ],
+     "summary": "$4.2B new 765kV transmission line serving a planned ~10GW SB Energy datacenter campus in Piketon, OH",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-sb-energy-datacenter-operation-funds-knowledge-atom-kat-ent-aep-ohio-grid-interconnection",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-sb-energy-datacenter-operation",
+   "target": "kat-ent-aep-ohio-grid-interconnection",
+   "total_amount": 4200000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": "estimate",
+     "claim_id": "kat-claim-meta-datacenter-operation-entergy-louisiana-grid-interconnection-2025-smalling-substation-obs0",
+     "date": "2025-01-01",
+     "destination_category": "power infrastructure",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.entergylouisiana.com/entergy-louisiana-breaks-ground-on-key-substation-to-power-data-center-in-richland-parish"
+     ],
+     "summary": "Meta funds the new Smalling Substation \"in its entirety\" (direct quote) \u2014 no dollar figure stated for the substation itself",
+     "unit": null
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-meta-datacenter-operation-funds-knowledge-atom-kat-ent-entergy-louisiana-grid-interconnection",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-meta-datacenter-operation",
+   "target": "kat-ent-entergy-louisiana-grid-interconnection",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": "estimate",
+     "claim_id": "kat-claim-crusoe-capital-ge-vernova-turbine-manufacturing-2025-turbine-order-obs0",
+     "date": "2024-12-01",
+     "destination_category": "power infrastructure",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.gevernova.com/news/press-releases/ge-vernova-crusoe-announce-major-29-unit-aeroderivative-gas-turbine-deliver-ai-data-centers"
+     ],
+     "summary": "29 LM2500XPRESS aeroderivative gas turbine units (19 booked June 2025 + 10 ordered Dec 2024), combined ~1GW, explicitly for AI datacenters \u2014 no purchase price disclosed",
+     "unit": null
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-crusoe-capital-funds-knowledge-atom-kat-ent-ge-vernova-turbine-manufacturing",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-crusoe-capital",
+   "target": "kat-ent-ge-vernova-turbine-manufacturing",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": "estimate",
+     "claim_id": "kat-claim-amazon-ai-compute-procurement-talen-energy-power-generation-2025-susquehanna-ppa-obs0",
+     "date": "2025-06-11",
+     "destination_category": "power infrastructure",
+     "flow_type": "capacity/service payment",
+     "source_urls": [
+      "https://www.sec.gov/Archives/edgar/data/1622536/000162828025038538/a20250807q22025earningsrel.htm"
+     ],
+     "summary": "up to 1,920MW by 2032 (of Talen's 2.5GW Susquehanna nuclear plant), 17-year PPA through 2042 \u2014 no dollar figure disclosed in the filing",
+     "unit": null
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-amazon-ai-compute-procurement-funds-knowledge-atom-kat-ent-talen-energy-power-generation",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-amazon-ai-compute-procurement",
+   "target": "kat-ent-talen-energy-power-generation",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": "estimate",
+     "claim_id": "kat-claim-microsoft-ai-compute-procurement-constellation-energy-power-generation-2024-tmi-ppa-obs0",
+     "date": "2024-09-20",
+     "destination_category": "power infrastructure",
+     "flow_type": "capacity/service payment",
+     "source_urls": [
+      "https://www.constellationenergy.com/news/2024/Constellation-to-Launch-Crane-Clean-Energy-Center-Restoring-Jobs-and-Carbon-Free-Power-to-The-Grid.html"
+     ],
+     "summary": "~835MW, 20-year PPA \u2014 Constellation's own release states no capex or price figure at all, only a third-party economic-impact study (not a transaction value)",
+     "unit": null
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-microsoft-ai-compute-procurement-funds-knowledge-atom-kat-ent-constellation-energy-power-generation",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-microsoft-ai-compute-procurement",
+   "target": "kat-ent-constellation-energy-power-generation",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 2300000000,
+     "basis": "point",
+     "claim_id": "kat-claim-coreweave-2023-blackstone-magnetar-facility-coreweave-capital-2023-debt-obs0",
+     "date": "2023-08-03",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "debt",
+     "source_urls": [
+      "https://www.blackstone.com/news/press/coreweave-secures-2-3-billion-debt-financing-facility-led-by-magnetar-capital-and-blackstone-to-meet-surging-demand-and-ongoing-expansion-of-specialized-cloud-infrastructure-to-power-ai/"
+     ],
+     "summary": "$2.3B debt facility led by Blackstone and Magnetar Capital, with participation from Coatue, DigitalBridge, BlackRock, PIMCO, Carlyle and Great Elm",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-coreweave-2023-blackstone-magnetar-facility-funds-knowledge-atom-kat-ent-coreweave-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-coreweave-2023-blackstone-magnetar-facility",
+   "target": "kat-ent-coreweave-capital",
+   "total_amount": 2300000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 2600000000,
+     "basis": "point",
+     "claim_id": "kat-claim-coreweave-2026-ddtl55-facility-coreweave-capital-2026-debt-obs0",
+     "date": "2026-08-07",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "debt",
+     "source_urls": [
+      "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000357/crwv-20260807.htm"
+     ],
+     "summary": "$2.6B incremental delayed-draw term loan facility (DDTL 5.5), JPMorgan Chase Bank and MUFG Bank as joint lead arrangers/bookrunners/syndication agents",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-coreweave-2026-ddtl55-facility-funds-knowledge-atom-kat-ent-coreweave-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-coreweave-2026-ddtl55-facility",
+   "target": "kat-ent-coreweave-capital",
+   "total_amount": 2600000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 3000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-coreweave-2025-ddtl5-amendment-coreweave-capital-2025-debt-obs0",
+     "date": "2025-09-29",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "debt",
+     "source_urls": [
+      "https://www.sec.gov/Archives/edgar/data/1769628/000119312525227562/d910811d8k.htm"
+     ],
+     "summary": "Fifth Amendment to CoreWeave's Credit Agreement, adding an incremental $3.0B tranche of delayed draw term loans; borrower is CoreWeave Compute Acquisition Co. IV, LLC; U.S. Bank Trust Company N.A. as administrative/collateral agent",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-coreweave-2025-ddtl5-amendment-funds-knowledge-atom-kat-ent-coreweave-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-coreweave-2025-ddtl5-amendment",
+   "target": "kat-ent-coreweave-capital",
+   "total_amount": 3000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 22000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-vantage-data-centers-2025-mufg-jpmorgan-facility-vantage-data-centers-datacenter-construction-2025-debt-obs0",
+     "date": "2025-08-22",
+     "destination_category": "land, shell & materials",
+     "flow_type": "debt",
+     "source_urls": [
+      "https://gcn.com/jpmorgan-mufg-close-to-22b-texas-data-center-deal/6460/"
+     ],
+     "summary": "JPMorgan Chase and MUFG \"in talks to underwrite\" a $22B loan for a Vantage Data Centers Texas megacampus \u2014 not confirmed closed",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility-funds-knowledge-atom-kat-ent-vantage-data-centers-datacenter-construction",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility",
+   "target": "kat-ent-vantage-data-centers-datacenter-construction",
+   "total_amount": 22000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 52000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-stargate-2025-jv-financing-stargate-datacenter-construction-2025-formation-obs0",
+     "date": "2025-01-21",
+     "destination_category": "land, shell & materials",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://en.wikipedia.org/wiki/Stargate_LLC"
+     ],
+     "summary": "OpenAI and SoftBank each committed $19B (40% ownership each); Oracle and MGX each contributed $7B; sum $52B initial JV capital",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-stargate-2025-jv-financing-funds-knowledge-atom-kat-ent-stargate-datacenter-construction",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-stargate-2025-jv-financing",
+   "target": "kat-ent-stargate-datacenter-construction",
+   "total_amount": 52000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 1750000000,
+     "basis": "point",
+     "claim_id": "kat-claim-ext-bond-market-coreweave-capital-2025-senior-notes-obs0",
+     "date": "2025-07-25",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "debt",
+     "source_urls": [
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001769628&type=8-K"
+     ],
+     "summary": "$1.75B, 9.000% senior notes due 2031, Rule 144A/Reg S private placement",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-ext-bond-market-funds-knowledge-atom-kat-ent-coreweave-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-ext-bond-market",
+   "target": "kat-ent-coreweave-capital",
+   "total_amount": 1750000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 30000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-ext-bond-market-meta-capital-2025-senior-notes-obs0",
+     "date": "2025-10-30",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "debt",
+     "source_urls": [
+      "https://www.sec.gov/Archives/edgar/data/1326801/000119312525258837/d61769dfwp.htm"
+     ],
+     "summary": "$30B senior notes across six tranches (2030-2065, coupons 4.200%-5.750%), priced Oct 30 2025, closed Nov 3 2025",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-ext-bond-market-funds-knowledge-atom-kat-ent-meta-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-ext-bond-market",
+   "target": "kat-ent-meta-capital",
+   "total_amount": 30000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 7000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-blue-owl-capital-capital-meta-datacenter-construction-2025-hyperion-jv-obs0",
+     "date": "2025-10-21",
+     "destination_category": "land, shell & materials",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://about.fb.com/news/2025/10/meta-blue-owl-capital-develop-hyperion-data-center/"
+     ],
+     "summary": "Blue Owl-managed funds contribute ~$7B cash for an 80% JV interest in the Hyperion (Richland Parish, LA) datacenter campus; Meta retains 20% and received a ~$3B one-time distribution; total development cost ~$27B",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-blue-owl-capital-capital-funds-knowledge-atom-kat-ent-meta-datacenter-construction",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-blue-owl-capital-capital",
+   "target": "kat-ent-meta-datacenter-construction",
+   "total_amount": 7000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 25000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-ext-bond-market-oracle-capital-2026-senior-notes-obs0",
+     "date": "2026-02-04",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "debt",
+     "source_urls": [
+      "https://www.sec.gov/Archives/edgar/data/1341439/000119312526037840/d23732d8k.htm"
+     ],
+     "summary": "$25B senior notes across 8 tranches ($500M floating through $2.75B 30-year fixed at 6.850%); proceeds for capex, debt repayment, future investments/acquisitions",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-ext-bond-market-funds-knowledge-atom-kat-ent-oracle-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-ext-bond-market",
+   "target": "kat-ent-oracle-capital",
+   "total_amount": 25000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 5000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-ext-public-equity-market-oracle-capital-2026-preferred-obs0",
+     "date": "2026-02-02",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://www.sec.gov/Archives/edgar/data/1341439/000119312526039344/d63638dex11.htm"
+     ],
+     "summary": "100M depositary shares x $50, 6.50% Series D Mandatory Convertible Preferred Stock",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-ext-public-equity-market-funds-knowledge-atom-kat-ent-oracle-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-ext-public-equity-market",
+   "target": "kat-ent-oracle-capital",
+   "total_amount": 5000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 1000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-moonshot-ai-2024-02-alibaba-round-moonshot-ai-capital-2024-round-obs0",
+     "date": "2024-02-01",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://techcrunch.com/2024/02/21/moonshot-ai-funding-china/"
+     ],
+     "summary": "over $1B raised, backed by Alibaba and HongShan, ~$2.5B valuation",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-moonshot-ai-2024-02-alibaba-round-funds-knowledge-atom-kat-ent-moonshot-ai-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-moonshot-ai-2024-02-alibaba-round",
+   "target": "kat-ent-moonshot-ai-capital",
+   "total_amount": 1000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 300000000,
+     "basis": "point",
+     "claim_id": "kat-claim-moonshot-ai-2024-08-series-b-round-moonshot-ai-capital-2024-round-obs0",
+     "date": "2024-08-01",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://techcrunch.com/2024/02/21/moonshot-ai-funding-china/"
+     ],
+     "summary": "~$300M raised, led by Tencent and Gaorong Capital, ~$3.3B valuation",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-moonshot-ai-2024-08-series-b-round-funds-knowledge-atom-kat-ent-moonshot-ai-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-moonshot-ai-2024-08-series-b-round",
+   "target": "kat-ent-moonshot-ai-capital",
+   "total_amount": 300000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": "point",
+     "claim_id": "kat-claim-helsing-2025-series-d-round-helsing-capital-2025-round-obs0",
+     "date": "2025-06-17",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://tech.eu/2025/06/17/helsing-raises-600-million-elevating-valuation-to-eur12bn/"
+     ],
+     "summary": "\u20ac600M Series D, led by Prima Materia, \u20ac12B valuation; USD conversion not computed this pass, EUR/USD spot rate not independently verified",
+     "unit": null
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-helsing-2025-series-d-round-funds-knowledge-atom-kat-ent-helsing-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-helsing-2025-series-d-round",
+   "target": "kat-ent-helsing-capital",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 180000000,
+     "basis": "point",
+     "claim_id": "kat-claim-synthesia-2025-series-d-round-synthesia-capital-2025-round-obs0",
+     "date": "2025-01-15",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://www.synthesia.io/post/synthesia-secures-180m-in-series-d-funding"
+     ],
+     "summary": "$180M Series D, led by NEA, $2.1B valuation",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-synthesia-2025-series-d-round-funds-knowledge-atom-kat-ent-synthesia-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-synthesia-2025-series-d-round",
+   "target": "kat-ent-synthesia-capital",
+   "total_amount": 180000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 200000000,
+     "basis": "point",
+     "claim_id": "kat-claim-synthesia-2026-series-e-round-synthesia-capital-2026-round-obs0",
+     "date": "2026-01-26",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://www.synthesia.io/post/series-e-200-million-4-billion-valuation-future-work"
+     ],
+     "summary": "$200M Series E, led by GV (Google Ventures), $4B valuation",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-synthesia-2026-series-e-round-funds-knowledge-atom-kat-ent-synthesia-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-synthesia-2026-series-e-round",
+   "target": "kat-ent-synthesia-capital",
+   "total_amount": 200000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 1500000000,
+     "basis": "point",
+     "claim_id": "kat-claim-microsoft-capital-g42-capital-2024-investment-obs0",
+     "date": "2024-04-16",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://news.microsoft.com/source/2024/04/16/microsoft-invests-1-5-billion-in-abu-dhabis-g42-to-accelerate-ai-development-and-global-expansion/"
+     ],
+     "summary": "$1.5B minority-stake investment; Brad Smith joined G42's board; joint $1B developer fund established; governed by a US-UAE Intergovernmental Assurance Agreement",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-microsoft-capital-funds-knowledge-atom-kat-ent-g42-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-microsoft-capital",
+   "target": "kat-ent-g42-capital",
+   "total_amount": 1500000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 3000000000,
+     "basis": "floor",
+     "claim_id": "kat-claim-xai-2026-series-e-round-xai-capital-2026-round-obs0",
+     "date": "2026-02-18",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://www.prnewswire.com/news-releases/humain-backs-xai-with-3-billion-series-e-investment-ahead-of-historic-spacex-merger-302691510.html"
+     ],
+     "summary": "at least $3B (Humain's own disclosed contribution); the round's total size is not stated in the source found",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-xai-2026-series-e-round-funds-knowledge-atom-kat-ent-xai-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-xai-2026-series-e-round",
+   "target": "kat-ent-xai-capital",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 20000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-ext-public-equity-market-intel-capital-2026-stock-offering-obs0",
+     "date": "2026-08-11",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://newsroom.intel.com/corporate/intel-announces-upsize-and-pricing-of-20-billion-common-stock-offering"
+     ],
+     "summary": "210.5M shares at $95/share, upsized from an initial $15B announcement (08-10) to $20B on pricing (08-11); explicitly to fund the foundry buildout, stacked on top of the existing CHIPS Act government equity stake",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-ext-public-equity-market-funds-knowledge-atom-kat-ent-intel-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-ext-public-equity-market",
+   "target": "kat-ent-intel-capital",
+   "total_amount": 20000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 3100000000,
+     "basis": "point",
+     "claim_id": "kat-claim-coreweave-2026-q2-ddtl-facility-coreweave-capital-2026-debt-obs0",
+     "date": "2026-08-11",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "debt",
+     "source_urls": [
+      "https://www.sec.gov/Archives/edgar/data/0001769628/000176962826000362/crwv-20260811.htm"
+     ],
+     "summary": "$3.1B delayed-draw term loan at SOFR+450, minimum debt-service-coverage covenant of 1.35x effective after 2026-09-30; disclosed alongside Q2 earnings, which also showed net interest expense of $640M for the quarter (vs. $267M a year earlier) and over $10B in additional new unsecured debt and convertible bonds raised the same quarter (that $10B+ figure is NOT separately edge-modeled here \u2014 aggregate quarter-level disclosure, not a single named facility \u2014 flagged as a coverage gap rather than silently omitted)",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-coreweave-2026-q2-ddtl-facility-funds-knowledge-atom-kat-ent-coreweave-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-coreweave-2026-q2-ddtl-facility",
+   "target": "kat-ent-coreweave-capital",
+   "total_amount": 3100000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 917000000,
+     "basis": "point",
+     "claim_id": "kat-claim-lambda-2026-leveraged-loan-lambda-capital-2026-debt-obs0",
+     "date": "2026-08-12",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "debt",
+     "source_urls": [
+      "https://thenextweb.com/news/lambda-917-million-gpu-leveraged-loan-nvidia-morgan-stanley"
+     ],
+     "summary": "$917M leveraged loan, led by Morgan Stanley, reported nearly $2B oversubscribed; proceeds to purchase Nvidia GPUs, on the same circular-financing pattern (Nvidia as investor/supplier/customer/ counterparty at once) the BIS flagged in June 2026",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-lambda-2026-leveraged-loan-funds-knowledge-atom-kat-ent-lambda-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-lambda-2026-leveraged-loan",
+   "target": "kat-ent-lambda-capital",
+   "total_amount": 917000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 25000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-ext-bond-market-google-capital-2026-25b-bond-obs0",
+     "date": "2026-08-12",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "debt",
+     "source_urls": [
+      "https://www.quiverquant.com/news/Alphabet+Targets+Up+to+$25+Billion+Bond+Sale+Amid+Rising+AI+Infrastructure+Spending"
+     ],
+     "summary": "up to $25B in fresh debt for AI infrastructure, reported as Alphabet's third bond sale of 2026, pushing total 2026 debt raised toward ~$70B",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-ext-bond-market-funds-knowledge-atom-kat-ent-google-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-ext-bond-market",
+   "target": "kat-ent-google-capital",
+   "total_amount": 25000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 125000000000,
+     "basis": "ceiling",
+     "claim_id": "kat-claim-nvidia-capital-nvidia-2026-compute-financing-platforms-2026-commitment-obs0",
+     "date": "2026-08-11",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "guarantee",
+     "source_urls": [
+      "https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital"
+     ],
+     "summary": "Nvidia to \"potentially backstop\" up to $125B of the platforms' total mobilized third-party capital \u2014 an upper bound on Nvidia's own exposure, not a committed/delivered figure",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-capital-funds-knowledge-atom-kat-evt-nvidia-2026-compute-financing-platforms",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-nvidia-capital",
+   "target": "kat-evt-nvidia-2026-compute-financing-platforms",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 105000000000,
+     "basis": "ceiling",
+     "claim_id": "kat-claim-nvidia-capital-openai-capital-2026-ohio-guarantee-obs0",
+     "date": "2026-08-17",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "guarantee",
+     "source_urls": [
+      "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000073/q2fy27cfocommentary.htm"
+     ],
+     "summary": "Guarantee obligations \"capped at a total of $105 billion,\" becoming effective in phases as the leased data centers reach service readiness (first phase expected fiscal 2029); Nvidia also holds an option to extend credit support to roughly 3.8 additional GW as the site scales toward 8GW total",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-capital-funds-knowledge-atom-kat-ent-openai-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-nvidia-capital",
+   "target": "kat-ent-openai-capital",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 1500000000,
+     "basis": "point",
+     "claim_id": "kat-claim-nvidia-capital-sb-energy-capital-2026-investment-obs0",
+     "date": "2026-08-17",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute"
+     ],
+     "summary": "NVIDIA will invest $1.5 billion in SB Energy, joining existing investors SoftBank Group and OpenAI",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-capital-funds-knowledge-atom-kat-ent-sb-energy-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-nvidia-capital",
+   "target": "kat-ent-sb-energy-capital",
+   "total_amount": 1500000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 6000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-nvidia-capital-poolside-model-training-2026-license-obs0",
+     "date": "2026-08-20",
+     "destination_category": "intellectual property / licensing",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.newcomer.co/p/sources-poolside-strikes-6-billion"
+     ],
+     "summary": "$6B non-exclusive license of Poolside's Model Factory training system; over 100 (109 per Bloomberg) Poolside engineers moving to Nvidia's Nemotron project; Poolside's three founders remain independent; shareholder letter describes this as \"not an acquisition and it is not an acquihire\"",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-capital-funds-knowledge-atom-kat-ent-poolside-model-training",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-nvidia-capital",
+   "target": "kat-ent-poolside-model-training",
+   "total_amount": 6000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 1000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-nvidia-capital-poolside-capital-2026-investment-obs0",
+     "date": "2026-08-20",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://www.newcomer.co/p/sources-poolside-strikes-6-billion"
+     ],
+     "summary": "$1B investment in Poolside at a $12B pre-money valuation",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-capital-funds-knowledge-atom-kat-ent-poolside-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-nvidia-capital",
+   "target": "kat-ent-poolside-capital",
+   "total_amount": 1000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 100000000000,
+     "basis": "ceiling",
+     "claim_id": "kat-claim-broadcom-2026-anthropic-spv-facility-broadcom-capital-2026-debt-obs1",
+     "date": "2026-08-21",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "debt",
+     "source_urls": [
+      "https://thenextweb.com/news/broadcom-60bn-ai-chip-debt-anthropic"
+     ],
+     "summary": "\"seeks more than $60bn in debt... figures under discussion could take the total as high as $100bn\"; alternate tranche breakdown of a ~$30bn junior tranche alongside a ~$60-70bn senior-secured tranche; a special-purpose vehicle would issue the debt, and \"Anthropic does not buy the chips under this arrangement \u2014 investors finance the purchase, then lease the hardware to the company\"; Blackstone and Apollo Global Management named as the parties in talks to participate, specifically on the junior tranche\n",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-broadcom-2026-anthropic-spv-facility-funds-knowledge-atom-kat-ent-broadcom-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-broadcom-2026-anthropic-spv-facility",
+   "target": "kat-ent-broadcom-capital",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 45000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-anthropic-model-training-nscale-datacenter-operation-2026-monarch-lease-obs0",
+     "date": "2026-08-26",
+     "destination_category": "purchased compute capacity (services)",
+     "flow_type": "capacity/service payment",
+     "source_urls": [
+      "https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html"
+     ],
+     "summary": "$45B over six years to rent ~460MW at Nscale's Monarch campus, West Virginia; facility runs Nvidia's Vera Rubin chips, expected online late 2027; a rental of compute capacity, not an equity stake or asset purchase",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-anthropic-model-training-funds-knowledge-atom-kat-ent-nscale-datacenter-operation",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-anthropic-model-training",
+   "target": "kat-ent-nscale-datacenter-operation",
+   "total_amount": 45000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 350000000,
+     "basis": "point",
+     "claim_id": "kat-claim-groq-2026-series-a-round-groq-capital-2026-equity-obs0",
+     "date": "2026-08-17",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://groq.com/newsroom/groq-closes-usd350-million-series-a-building-the-world-s-leading-ai-inference-cloud"
+     ],
+     "summary": "$350M Series A at a $3.5B valuation, led by Disruptive with planned participation from Nvidia; company disputes the \"down round\" framing despite the roughly 49% drop from its $6.9B September 2025 mark",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-evt-groq-2026-series-a-round-funds-knowledge-atom-kat-ent-groq-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-evt-groq-2026-series-a-round",
+   "target": "kat-ent-groq-capital",
+   "total_amount": 350000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 2000000000,
+     "basis": "point",
+     "claim_id": "kat-claim-nvidia-capital-lancium-capital-2026-investment-obs0",
+     "date": "2026-08-09",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://finance.yahoo.com/technology/ai/articles/nvidia-3-billion-bet-lancium-211209280.html"
+     ],
+     "summary": "Initial $2B tranche for roughly a 20% stake in Lancium (valued around $10B); a further $1B tranche is tied to thresholds including grid hookups and could push Nvidia's stake to roughly 28% \u2014 that contingent second tranche is NOT included in this point figure. Lancium currently manages 4GW of leased capacity alongside a development pipeline exceeding 15GW of powered land, including the Lancium Clean Campus in Abilene, TX (see lancium/capital's note on the pre-existing Crusoe/Blue Owl JV on that same site)",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-capital-funds-knowledge-atom-kat-ent-lancium-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-nvidia-capital",
+   "target": "kat-ent-lancium-capital",
+   "total_amount": 2000000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": "estimate",
+     "claim_id": "kat-claim-nvidia-capital-cloverleaf-infrastructure-capital-2026-investment-obs0",
+     "date": "2026-08-21",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://www.prnewswire.com/news-releases/cloverleaf-infrastructure-forms-strategic-partnership-with-nvidia-to-accelerate-data-center-infrastructure-development-302857329.html"
+     ],
+     "summary": "Nvidia's own release confirms \"a minority investment in Cloverleaf\" without a dollar figure; the Wall Street Journal reports the check as \"several hundred million dollars\" \u2014 no exact figure found in any source this pass, recorded as scope-qualified rather than estimated",
+     "unit": null
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-nvidia-capital-funds-knowledge-atom-kat-ent-cloverleaf-infrastructure-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-nvidia-capital",
+   "target": "kat-ent-cloverleaf-infrastructure-capital",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 10200000000,
+     "basis": "point",
+     "claim_id": "kat-claim-ext-public-equity-market-alibaba-capital-2026-hk-placement-obs0",
+     "date": "2026-08-24",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "equity",
+     "source_urls": [
+      "https://www.investing.com/news/stock-market-news/alibaba-stock-slumps-in-hong-kong-after-102-billion-share-placement-to-fund-ai-4872593"
+     ],
+     "summary": "HK$80 billion (~$10.21B) primary share placement at HK$112.70 per share (an 8.4% discount to the prior close) \u2014 the largest primary follow-on offering by any Hong Kong-listed company to date; 100% earmarked for AI-related development per the placement's own stated use of proceeds. Same-week context, not part of this edge's own value - Alibaba's fiscal Q1 2026 (June-quarter) net profit fell 75% y/y and free cash flow showed a $6.6B outflow, both attributed primarily to AI capex, which rose 75% y/y to roughly $10B for the quarter",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-ext-public-equity-market-funds-knowledge-atom-kat-ent-alibaba-capital",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-ext-public-equity-market",
+   "target": "kat-ent-alibaba-capital",
+   "total_amount": 10200000000,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 550000000,
+     "basis": "ceiling",
+     "claim_id": "kat-claim-nvent-capital-maverick-power-power-distribution-manufacturing-2026-acquisition-obs1",
+     "date": "2027-01-01",
+     "destination_category": "power infrastructure",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://investors.nvent.com/press-releases/press-release-details/2026/nVent-to-Acquire-Maverick-Power/default.aspx"
+     ],
+     "summary": "potential additional consideration of up to $550M in cash, contingent on Maverick Power achieving certain performance metrics in 2027 and 2028 \u2014 an earnout, not delivered consideration",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-nvent-capital-funds-knowledge-atom-kat-ent-maverick-power-power-distribution-manufacturing",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-nvent-capital",
+   "target": "kat-ent-maverick-power-power-distribution-manufacturing",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": "point",
+     "claim_id": "kat-claim-infineon-capital-c2i-semiconductors-chip-design-2026-acquisition-obs0",
+     "date": "2026-08-24",
+     "destination_category": "compute silicon & systems",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.infineon.com/press-release/2026/infpr202608-129"
+     ],
+     "summary": "Financial terms not disclosed. Infineon is acquiring C2i Semiconductors (Bengaluru, India), a specialist in software-defined multiphase controllers and smart power stages for AI data center servers, to expand its AI/HPC power-delivery R&D and its India engineering presence; expected to close Q3 2026",
+     "unit": null
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-infineon-capital-funds-knowledge-atom-kat-ent-c2i-semiconductors-chip-design",
+   "note": null,
+   "role": null,
+   "source": "kat-ent-infineon-capital",
+   "target": "kat-ent-c2i-semiconductors-chip-design",
+   "total_amount": null,
+   "unit": "USD"
+  },
+  {
+   "flows": [
+    {
+     "amount": 6300000000,
+     "basis": "point",
+     "claim_id": "kat-claim-ext-bond-market-softbank-capital-2026-retail-bond-obs0",
+     "date": "2026-09-17",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "debt",
+     "source_urls": [
+      "https://www.japantimes.co.jp/business/2026/08/24/companies/softbank-plan-bond-sale/"
+     ],
+     "summary": "Record \u00a51 trillion (~$6.3B) retail bond sale in Japan; 7-year notes with an indicative coupon range of 4.3%-4.9%, expected to price 2026-09-04, retail offering runs 09-07 through 09-16, issuance 09-17, maturing 2033-09-16; proceeds for AI-related investments (OpenAI) and to refinance roughly \u00a5400B of retail bonds maturing in September",
+     "unit": "USD"
+    },
+    {
+     "amount": 20000000000,
+     "basis": "ceiling",
+     "claim_id": "kat-claim-ext-bond-market-softbank-capital-2026-wholesale-bond-talks-obs0",
+     "date": "2026-08-26",
+     "destination_category": "n/a \u2014 financing",
+     "flow_type": "debt",
+     "source_urls": [
+      "https://finance.yahoo.com/technology/ai/articles/softbank-mulls-20-billion-bond-045551527.html"
+     ],
+     "summary": "SoftBank in talks with investment banks about a potential $10B-$20B bond offering (dollars and euros, possibly as early as September) to partly refinance a $40B bridge loan taken earlier in 2026 for its OpenAI investment; SoftBank has committed nearly $65B to OpenAI, aiming to complete that investment by October 2026; a SoftBank spokesperson said the company is \"considering various options\" and \"nothing has been decided yet\"",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-knowledge-atom-kat-ent-ext-bond-market-funds-knowledge-atom-kat-ent-softbank-capital",
+   "note": "Merged 2 funds rows during entity-reconciliation cleanup (2026-08-27) -- this entity pair has 2 distinct financings; P-01 says list them.",
+   "role": null,
+   "source": "kat-ent-ext-bond-market",
+   "target": "kat-ent-softbank-capital",
+   "total_amount": 6300000000,
+   "unit": "USD"
+  }
+ ],
+ "generated_by": "graph/export_q1.py",
+ "layer_count": 5,
+ "node_count": 204,
+ "nodes": [
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "TSMC",
+   "core_buildout": true,
+   "entity_slug": "tsmc",
+   "id": "kat-ent-tsmc-capital",
+   "layer": 0,
+   "q1_node_id": "tsmc/capital",
+   "x": 0,
+   "y": 2880
+  },
+  {
+   "activity": "foundry construction (fab capex)",
+   "atom_type": "entity",
+   "canonical_label": "TSMC",
+   "core_buildout": true,
+   "entity_slug": "tsmc",
+   "id": "kat-ent-tsmc-foundry-construction",
+   "layer": 1,
+   "q1_node_id": "tsmc/foundry-construction",
+   "x": 280,
+   "y": 1650
+  },
+  {
+   "activity": "public equity capital provision",
+   "atom_type": "entity",
+   "canonical_label": "ext (population) (public equity capital provision)",
+   "core_buildout": false,
+   "entity_slug": "ext-population",
+   "id": "kat-ent-ext-public-equity-market",
+   "layer": 0,
+   "q1_node_id": "ext/public-equity-market",
+   "x": 0,
+   "y": 3300
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "CoreWeave",
+   "core_buildout": true,
+   "entity_slug": "coreweave",
+   "id": "kat-ent-coreweave-capital",
+   "layer": 2,
+   "q1_node_id": "coreweave/capital",
+   "x": 560,
+   "y": 120
+  },
+  {
+   "activity": "datacenter operation (buyer side)",
+   "atom_type": "entity",
+   "canonical_label": "OpenAI",
+   "core_buildout": true,
+   "entity_slug": "openai",
+   "id": "kat-ent-openai-datacenter-operation",
+   "layer": 0,
+   "q1_node_id": "openai/datacenter-operation",
+   "x": 0,
+   "y": 2340
+  },
+  {
+   "activity": "chip design",
+   "atom_type": "entity",
+   "canonical_label": "AMD",
+   "core_buildout": true,
+   "entity_slug": "amd",
+   "id": "kat-ent-amd-chip-design",
+   "layer": 1,
+   "q1_node_id": "amd/chip-design",
+   "x": 280,
+   "y": 30
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "OpenAI",
+   "core_buildout": true,
+   "entity_slug": "openai",
+   "id": "kat-ent-openai-capital",
+   "layer": 2,
+   "q1_node_id": "openai/capital",
+   "x": 560,
+   "y": 420
+  },
+  {
+   "activity": "model training (compute consumption)",
+   "atom_type": "entity",
+   "canonical_label": "Anthropic",
+   "core_buildout": true,
+   "entity_slug": "anthropic",
+   "id": "kat-ent-anthropic-model-training",
+   "layer": 0,
+   "q1_node_id": "anthropic/model-training",
+   "x": 0,
+   "y": 300
+  },
+  {
+   "activity": "cloud/TPU capacity provision (seller side)",
+   "atom_type": "entity",
+   "canonical_label": "Google",
+   "core_buildout": true,
+   "entity_slug": "google",
+   "id": "kat-ent-google-cloud-capacity",
+   "layer": 1,
+   "q1_node_id": "google/cloud-capacity",
+   "x": 280,
+   "y": 720
+  },
+  {
+   "activity": "AI compute procurement (buyer side \u2014 distinct facet from cloud-capacity, which sells)",
+   "atom_type": "entity",
+   "canonical_label": "Google",
+   "core_buildout": true,
+   "entity_slug": "google",
+   "id": "kat-ent-google-ai-compute-procurement",
+   "layer": 0,
+   "q1_node_id": "google/ai-compute-procurement",
+   "x": 0,
+   "y": 1290
+  },
+  {
+   "activity": "datacenter operation",
+   "atom_type": "entity",
+   "canonical_label": "xAI",
+   "core_buildout": true,
+   "entity_slug": "xai",
+   "id": "kat-ent-xai-datacenter-operation",
+   "layer": 1,
+   "q1_node_id": "xai/datacenter-operation",
+   "x": 280,
+   "y": 1890
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "xAI",
+   "core_buildout": true,
+   "entity_slug": "xai",
+   "id": "kat-ent-xai-capital",
+   "layer": 2,
+   "q1_node_id": "xai/capital",
+   "x": 560,
+   "y": 600
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Amazon Aws",
+   "core_buildout": true,
+   "entity_slug": "amazon",
+   "id": "kat-ent-amazon-capital",
+   "layer": 0,
+   "q1_node_id": "amazon/capital",
+   "x": 0,
+   "y": 150
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Anthropic",
+   "core_buildout": true,
+   "entity_slug": "anthropic",
+   "id": "kat-ent-anthropic-capital",
+   "layer": 2,
+   "q1_node_id": "anthropic/capital",
+   "x": 560,
+   "y": 0
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Google",
+   "core_buildout": true,
+   "entity_slug": "google",
+   "id": "kat-ent-google-capital",
+   "layer": 1,
+   "q1_node_id": "google/capital",
+   "x": 280,
+   "y": 750
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Mistral AI",
+   "core_buildout": false,
+   "entity_slug": "mistral-ai",
+   "id": "kat-ent-mistral-capital",
+   "layer": 2,
+   "q1_node_id": "mistral/capital",
+   "x": 560,
+   "y": 330
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Inflection AI (capital (treasury/financing facet))",
+   "core_buildout": false,
+   "entity_slug": "inflection-ai",
+   "id": "kat-ent-inflection-capital",
+   "layer": 2,
+   "q1_node_id": "inflection/capital",
+   "x": 560,
+   "y": 270
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Cohere",
+   "core_buildout": true,
+   "entity_slug": "cohere",
+   "id": "kat-ent-cohere-capital",
+   "layer": 2,
+   "q1_node_id": "cohere/capital",
+   "x": 560,
+   "y": 90
+  },
+  {
+   "activity": "chip design",
+   "atom_type": "entity",
+   "canonical_label": "Nvidia",
+   "core_buildout": true,
+   "entity_slug": "nvidia",
+   "id": "kat-ent-nvidia-chip-design",
+   "layer": 0,
+   "q1_node_id": "nvidia/chip-design",
+   "x": 0,
+   "y": 2250
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Lightspeed Venture Partners (capital (VC investment facet))",
+   "core_buildout": false,
+   "entity_slug": "lightspeed-venture-partners",
+   "id": "kat-ent-lightspeed-capital",
+   "layer": 0,
+   "q1_node_id": "lightspeed/capital",
+   "x": 0,
+   "y": 1710
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Redpoint Ventures (capital (VC investment facet))",
+   "core_buildout": false,
+   "entity_slug": "redpoint-ventures",
+   "id": "kat-ent-redpoint-capital",
+   "layer": 0,
+   "q1_node_id": "redpoint/capital",
+   "x": 0,
+   "y": 2580
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Index Ventures",
+   "core_buildout": false,
+   "entity_slug": "index-ventures",
+   "id": "kat-ent-index-ventures-capital",
+   "layer": 0,
+   "q1_node_id": "index-ventures/capital",
+   "x": 0,
+   "y": 1470
+  },
+  {
+   "activity": "capital (individual angel investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Xavier Niel",
+   "core_buildout": false,
+   "entity_slug": "xavier-niel",
+   "id": "kat-ent-xavier-niel-capital",
+   "layer": 0,
+   "q1_node_id": "xavier-niel/capital",
+   "x": 0,
+   "y": 3120
+  },
+  {
+   "activity": "capital (sovereign/strategic investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Bpifrance",
+   "core_buildout": false,
+   "entity_slug": "bpifrance",
+   "id": "kat-ent-bpifrance-capital",
+   "layer": 0,
+   "q1_node_id": "bpifrance/capital",
+   "x": 0,
+   "y": 510
+  },
+  {
+   "activity": "capital (individual angel investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Eric Schmidt",
+   "core_buildout": false,
+   "entity_slug": "eric-schmidt",
+   "id": "kat-ent-eric-schmidt-capital",
+   "layer": 0,
+   "q1_node_id": "eric-schmidt/capital",
+   "x": 0,
+   "y": 990
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Microsoft",
+   "core_buildout": true,
+   "entity_slug": "microsoft",
+   "id": "kat-ent-microsoft-capital",
+   "layer": 0,
+   "q1_node_id": "microsoft/capital",
+   "x": 0,
+   "y": 2040
+  },
+  {
+   "activity": "capital (strategic/VC investment facet \u2014 distinct from nvidia/chip-design, which sells)",
+   "atom_type": "entity",
+   "canonical_label": "Nvidia",
+   "core_buildout": true,
+   "entity_slug": "nvidia",
+   "id": "kat-ent-nvidia-capital",
+   "layer": 0,
+   "q1_node_id": "nvidia/capital",
+   "x": 0,
+   "y": 2280
+  },
+  {
+   "activity": "capital (individual angel investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Reid Hoffman",
+   "core_buildout": false,
+   "entity_slug": "reid-hoffman",
+   "id": "kat-ent-reid-hoffman-capital",
+   "layer": 0,
+   "q1_node_id": "reid-hoffman/capital",
+   "x": 0,
+   "y": 2610
+  },
+  {
+   "activity": "capital (individual angel investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Bill Gates",
+   "core_buildout": false,
+   "entity_slug": "bill-gates",
+   "id": "kat-ent-bill-gates-capital",
+   "layer": 0,
+   "q1_node_id": "bill-gates/capital",
+   "x": 0,
+   "y": 390
+  },
+  {
+   "activity": "capital (institutional investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "PSP Investments",
+   "core_buildout": false,
+   "entity_slug": "psp-investments",
+   "id": "kat-ent-psp-investments-capital",
+   "layer": 0,
+   "q1_node_id": "psp-investments/capital",
+   "x": 0,
+   "y": 2430
+  },
+  {
+   "activity": "capital (strategic investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Cisco",
+   "core_buildout": false,
+   "entity_slug": "cisco",
+   "id": "kat-ent-cisco-capital",
+   "layer": 0,
+   "q1_node_id": "cisco/capital",
+   "x": 0,
+   "y": 600
+  },
+  {
+   "activity": "capital (strategic investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Fujitsu",
+   "core_buildout": false,
+   "entity_slug": "fujitsu",
+   "id": "kat-ent-fujitsu-capital",
+   "layer": 0,
+   "q1_node_id": "fujitsu/capital",
+   "x": 0,
+   "y": 1140
+  },
+  {
+   "activity": "capital (corporate VC facet \u2014 distinct from amd/chip-design, which sells)",
+   "atom_type": "entity",
+   "canonical_label": "AMD (AMD Ventures) (capital (corporate VC facet \u2014 distinct from amd/chip-design, which sells))",
+   "core_buildout": false,
+   "entity_slug": "amd-amd-ventures",
+   "id": "kat-ent-amd-capital",
+   "layer": 0,
+   "q1_node_id": "amd/capital",
+   "x": 0,
+   "y": 0
+  },
+  {
+   "activity": "capital (sovereign/strategic investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Export Development Canada (capital (sovereign/strategic investment facet))",
+   "core_buildout": false,
+   "entity_slug": "export-development-canada",
+   "id": "kat-ent-edc-capital",
+   "layer": 0,
+   "q1_node_id": "edc/capital",
+   "x": 0,
+   "y": 1020
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Radical Ventures",
+   "core_buildout": false,
+   "entity_slug": "radical-ventures",
+   "id": "kat-ent-radical-ventures-capital",
+   "layer": 0,
+   "q1_node_id": "radical-ventures/capital",
+   "x": 0,
+   "y": 2550
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Inovia Capital (capital (VC investment facet))",
+   "core_buildout": false,
+   "entity_slug": "inovia-capital",
+   "id": "kat-ent-inovia-capital",
+   "layer": 0,
+   "q1_node_id": "inovia/capital",
+   "x": 0,
+   "y": 1530
+  },
+  {
+   "activity": "capital (corporate VC facet)",
+   "atom_type": "entity",
+   "canonical_label": "Salesforce Ventures",
+   "core_buildout": false,
+   "entity_slug": "salesforce-ventures",
+   "id": "kat-ent-salesforce-ventures-capital",
+   "layer": 0,
+   "q1_node_id": "salesforce-ventures/capital",
+   "x": 0,
+   "y": 2790
+  },
+  {
+   "activity": "capital (strategic investment facet \u2014 distinct from any future ASML equipment-sales node, not yet instantiated)",
+   "atom_type": "entity",
+   "canonical_label": "ASML",
+   "core_buildout": false,
+   "entity_slug": "asml",
+   "id": "kat-ent-asml-capital",
+   "layer": 0,
+   "q1_node_id": "asml/capital",
+   "x": 0,
+   "y": 60
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "DST Global",
+   "core_buildout": false,
+   "entity_slug": "dst-global",
+   "id": "kat-ent-dst-global-capital",
+   "layer": 0,
+   "q1_node_id": "dst-global/capital",
+   "x": 0,
+   "y": 780
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Andreessen Horowitz (capital (VC investment facet))",
+   "core_buildout": false,
+   "entity_slug": "andreessen-horowitz",
+   "id": "kat-ent-a16z-capital",
+   "layer": 0,
+   "q1_node_id": "a16z/capital",
+   "x": 0,
+   "y": 240
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "General Catalyst",
+   "core_buildout": false,
+   "entity_slug": "general-catalyst",
+   "id": "kat-ent-general-catalyst-capital",
+   "layer": 0,
+   "q1_node_id": "general-catalyst/capital",
+   "x": 0,
+   "y": 1230
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Founders Fund",
+   "core_buildout": false,
+   "entity_slug": "founders-fund",
+   "id": "kat-ent-founders-fund-capital",
+   "layer": 0,
+   "q1_node_id": "founders-fund/capital",
+   "x": 0,
+   "y": 1110
+  },
+  {
+   "activity": "capital (institutional investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Fidelity",
+   "core_buildout": false,
+   "entity_slug": "fidelity",
+   "id": "kat-ent-fidelity-capital",
+   "layer": 0,
+   "q1_node_id": "fidelity/capital",
+   "x": 0,
+   "y": 1050
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Long Journey Ventures",
+   "core_buildout": false,
+   "entity_slug": "long-journey-ventures",
+   "id": "kat-ent-long-journey-ventures-capital",
+   "layer": 0,
+   "q1_node_id": "long-journey-ventures/capital",
+   "x": 0,
+   "y": 1740
+  },
+  {
+   "activity": "capital (sovereign wealth investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Mubadala",
+   "core_buildout": false,
+   "entity_slug": "mubadala",
+   "id": "kat-ent-mubadala-capital",
+   "layer": 0,
+   "q1_node_id": "mubadala/capital",
+   "x": 0,
+   "y": 2130
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Ribbit Capital",
+   "core_buildout": false,
+   "entity_slug": "ribbit-capital",
+   "id": "kat-ent-ribbit-capital-capital",
+   "layer": 0,
+   "q1_node_id": "ribbit-capital/capital",
+   "x": 0,
+   "y": 2640
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Valor Equity Partners",
+   "core_buildout": false,
+   "entity_slug": "valor-equity-partners",
+   "id": "kat-ent-valor-equity-partners-capital",
+   "layer": 0,
+   "q1_node_id": "valor-equity-partners/capital",
+   "x": 0,
+   "y": 3060
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "New Enterprise Associates (NEA) (capital (VC investment facet))",
+   "core_buildout": false,
+   "entity_slug": "new-enterprise-associates-nea",
+   "id": "kat-ent-nea-capital",
+   "layer": 0,
+   "q1_node_id": "nea/capital",
+   "x": 0,
+   "y": 2220
+  },
+  {
+   "activity": "capital (individual angel investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Marc Benioff",
+   "core_buildout": false,
+   "entity_slug": "marc-benioff",
+   "id": "kat-ent-marc-benioff-capital",
+   "layer": 0,
+   "q1_node_id": "marc-benioff/capital",
+   "x": 0,
+   "y": 1920
+  },
+  {
+   "activity": "capital (sovereign/strategic investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Prosperity7 Ventures (capital (sovereign/strategic investment facet))",
+   "core_buildout": false,
+   "entity_slug": "prosperity7-ventures",
+   "id": "kat-ent-prosperity7-capital",
+   "layer": 0,
+   "q1_node_id": "prosperity7/capital",
+   "x": 0,
+   "y": 2520
+  },
+  {
+   "activity": "capital (strategic investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "DAMAC Capital",
+   "core_buildout": false,
+   "entity_slug": "damac-capital",
+   "id": "kat-ent-damac-capital-capital",
+   "layer": 0,
+   "q1_node_id": "damac-capital/capital",
+   "x": 0,
+   "y": 750
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Kleiner Perkins",
+   "core_buildout": false,
+   "entity_slug": "kleiner-perkins",
+   "id": "kat-ent-kleiner-perkins-capital",
+   "layer": 0,
+   "q1_node_id": "kleiner-perkins/capital",
+   "x": 0,
+   "y": 1650
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "March Capital",
+   "core_buildout": false,
+   "entity_slug": "march-capital",
+   "id": "kat-ent-march-capital-capital",
+   "layer": 0,
+   "q1_node_id": "march-capital/capital",
+   "x": 0,
+   "y": 1950
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Emergence Capital",
+   "core_buildout": false,
+   "entity_slug": "emergence-capital",
+   "id": "kat-ent-emergence-capital-capital",
+   "layer": 0,
+   "q1_node_id": "emergence-capital/capital",
+   "x": 0,
+   "y": 960
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Lux Capital",
+   "core_buildout": false,
+   "entity_slug": "lux-capital",
+   "id": "kat-ent-lux-capital-capital",
+   "layer": 0,
+   "q1_node_id": "lux-capital/capital",
+   "x": 0,
+   "y": 1770
+  },
+  {
+   "activity": "capital (corporate VC facet)",
+   "atom_type": "entity",
+   "canonical_label": "SE Ventures",
+   "core_buildout": false,
+   "entity_slug": "se-ventures",
+   "id": "kat-ent-se-ventures-capital",
+   "layer": 0,
+   "q1_node_id": "se-ventures/capital",
+   "x": 0,
+   "y": 2700
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Greycroft",
+   "core_buildout": false,
+   "entity_slug": "greycroft",
+   "id": "kat-ent-greycroft-capital",
+   "layer": 0,
+   "q1_node_id": "greycroft/capital",
+   "x": 0,
+   "y": 1350
+  },
+  {
+   "activity": "capital (VC/growth investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Coatue",
+   "core_buildout": false,
+   "entity_slug": "coatue",
+   "id": "kat-ent-coatue-capital",
+   "layer": 0,
+   "q1_node_id": "coatue/capital",
+   "x": 0,
+   "y": 630
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Accel",
+   "core_buildout": false,
+   "entity_slug": "accel",
+   "id": "kat-ent-accel-capital",
+   "layer": 0,
+   "q1_node_id": "accel/capital",
+   "x": 0,
+   "y": 90
+  },
+  {
+   "activity": "capital (institutional investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Orbis Investments",
+   "core_buildout": false,
+   "entity_slug": "orbis-investments",
+   "id": "kat-ent-orbis-investments-capital",
+   "layer": 0,
+   "q1_node_id": "orbis-investments/capital",
+   "x": 0,
+   "y": 2370
+  },
+  {
+   "activity": "capital (institutional investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "US Innovative Technology Fund (USIT) (capital (institutional investment facet))",
+   "core_buildout": false,
+   "entity_slug": "us-innovative-technology-fund-usit",
+   "id": "kat-ent-usit-capital",
+   "layer": 0,
+   "q1_node_id": "usit/capital",
+   "x": 0,
+   "y": 3030
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "B Capital",
+   "core_buildout": false,
+   "entity_slug": "b-capital",
+   "id": "kat-ent-b-capital-capital",
+   "layer": 0,
+   "q1_node_id": "b-capital/capital",
+   "x": 0,
+   "y": 360
+  },
+  {
+   "activity": "capital (strategic investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "SK Telecom",
+   "core_buildout": false,
+   "entity_slug": "sk-telecom",
+   "id": "kat-ent-sk-telecom-capital",
+   "layer": 0,
+   "q1_node_id": "sk-telecom/capital",
+   "x": 0,
+   "y": 2730
+  },
+  {
+   "activity": "capital (institutional investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "T. Rowe Price Associates (capital (institutional investment facet))",
+   "core_buildout": false,
+   "entity_slug": "t-rowe-price-associates",
+   "id": "kat-ent-t-rowe-price-capital",
+   "layer": 0,
+   "q1_node_id": "t-rowe-price/capital",
+   "x": 0,
+   "y": 2850
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "IVP",
+   "core_buildout": false,
+   "entity_slug": "ivp",
+   "id": "kat-ent-ivp-capital",
+   "layer": 0,
+   "q1_node_id": "ivp/capital",
+   "x": 0,
+   "y": 1440
+  },
+  {
+   "activity": "capital (individual angel investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Jeff Bezos",
+   "core_buildout": false,
+   "entity_slug": "jeff-bezos",
+   "id": "kat-ent-jeff-bezos-capital",
+   "layer": 0,
+   "q1_node_id": "jeff-bezos/capital",
+   "x": 0,
+   "y": 1590
+  },
+  {
+   "activity": "capital (individual angel investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Daniel Gross",
+   "core_buildout": false,
+   "entity_slug": "daniel-gross",
+   "id": "kat-ent-daniel-gross-capital",
+   "layer": 0,
+   "q1_node_id": "daniel-gross/capital",
+   "x": 0,
+   "y": 810
+  },
+  {
+   "activity": "capital (individual angel investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Tobi L\u00fctke (capital (individual angel investment facet))",
+   "core_buildout": false,
+   "entity_slug": "tobi-l-tke",
+   "id": "kat-ent-tobi-lutke-capital",
+   "layer": 0,
+   "q1_node_id": "tobi-lutke/capital",
+   "x": 0,
+   "y": 3000
+  },
+  {
+   "activity": "capital (individual angel investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Elad Gil",
+   "core_buildout": false,
+   "entity_slug": "elad-gil",
+   "id": "kat-ent-elad-gil-capital",
+   "layer": 0,
+   "q1_node_id": "elad-gil/capital",
+   "x": 0,
+   "y": 930
+  },
+  {
+   "activity": "capital (individual angel investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Nat Friedman",
+   "core_buildout": false,
+   "entity_slug": "nat-friedman",
+   "id": "kat-ent-nat-friedman-capital",
+   "layer": 0,
+   "q1_node_id": "nat-friedman/capital",
+   "x": 0,
+   "y": 2160
+  },
+  {
+   "activity": "capital (individual angel investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Naval Ravikant",
+   "core_buildout": false,
+   "entity_slug": "naval-ravikant",
+   "id": "kat-ent-naval-ravikant-capital",
+   "layer": 0,
+   "q1_node_id": "naval-ravikant/capital",
+   "x": 0,
+   "y": 2190
+  },
+  {
+   "activity": "capital (individual angel investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Andrej Karpathy",
+   "core_buildout": false,
+   "entity_slug": "andrej-karpathy",
+   "id": "kat-ent-andrej-karpathy-capital",
+   "layer": 0,
+   "q1_node_id": "andrej-karpathy/capital",
+   "x": 0,
+   "y": 270
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Thrive Capital",
+   "core_buildout": false,
+   "entity_slug": "thrive-capital",
+   "id": "kat-ent-thrive-capital-capital",
+   "layer": 0,
+   "q1_node_id": "thrive-capital/capital",
+   "x": 0,
+   "y": 2970
+  },
+  {
+   "activity": "capital (institutional/real-estate investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Blue Owl Capital (Real Estate platform) (capital (institutional/real-estate investment facet))",
+   "core_buildout": false,
+   "entity_slug": "blue-owl-capital-real-estate-platform",
+   "id": "kat-ent-blue-owl-capital-capital",
+   "layer": 0,
+   "q1_node_id": "blue-owl-capital/capital",
+   "x": 0,
+   "y": 480
+  },
+  {
+   "activity": "capital (institutional/real-estate investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Primary Digital Infrastructure",
+   "core_buildout": false,
+   "entity_slug": "primary-digital-infrastructure",
+   "id": "kat-ent-primary-digital-infrastructure-capital",
+   "layer": 0,
+   "q1_node_id": "primary-digital-infrastructure/capital",
+   "x": 0,
+   "y": 2490
+  },
+  {
+   "activity": "capital (lending facet)",
+   "atom_type": "entity",
+   "canonical_label": "JPMorgan Chase",
+   "core_buildout": false,
+   "entity_slug": "jpmorgan-chase",
+   "id": "kat-ent-jpmorgan-chase-capital",
+   "layer": 0,
+   "q1_node_id": "jpmorgan-chase/capital",
+   "x": 0,
+   "y": 1560
+  },
+  {
+   "activity": "AI compute/power procurement (buyer side \u2014 distinct facet from amazon/capital, which finances Anthropic, and from any Amazon datacenter-operation node)",
+   "atom_type": "entity",
+   "canonical_label": "Amazon Aws",
+   "core_buildout": true,
+   "entity_slug": "amazon",
+   "id": "kat-ent-amazon-ai-compute-procurement",
+   "layer": 0,
+   "q1_node_id": "amazon/ai-compute-procurement",
+   "x": 0,
+   "y": 180
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Talen Energy",
+   "core_buildout": true,
+   "entity_slug": "talen-energy",
+   "id": "kat-ent-talen-energy-capital",
+   "layer": 0,
+   "q1_node_id": "talen-energy/capital",
+   "x": 0,
+   "y": 2910
+  },
+  {
+   "activity": "power generation (nuclear \u2014 Susquehanna plant)",
+   "atom_type": "entity",
+   "canonical_label": "Talen Energy",
+   "core_buildout": true,
+   "entity_slug": "talen-energy",
+   "id": "kat-ent-talen-energy-power-generation",
+   "layer": 1,
+   "q1_node_id": "talen-energy/power-generation",
+   "x": 280,
+   "y": 1710
+  },
+  {
+   "activity": "AI compute/power procurement (buyer side)",
+   "atom_type": "entity",
+   "canonical_label": "Microsoft",
+   "core_buildout": true,
+   "entity_slug": "microsoft",
+   "id": "kat-ent-microsoft-ai-compute-procurement",
+   "layer": 0,
+   "q1_node_id": "microsoft/ai-compute-procurement",
+   "x": 0,
+   "y": 2070
+  },
+  {
+   "activity": "power generation (nuclear \u2014 Crane Clean Energy Center / Three Mile Island Unit 1)",
+   "atom_type": "entity",
+   "canonical_label": "Constellation Energy",
+   "core_buildout": true,
+   "entity_slug": "constellation-energy",
+   "id": "kat-ent-constellation-energy-power-generation",
+   "layer": 1,
+   "q1_node_id": "constellation-energy/power-generation",
+   "x": 280,
+   "y": 420
+  },
+  {
+   "activity": "capital (treasury/financing facet \u2014 distinct from crusoe/datacenter-construction, which receives)",
+   "atom_type": "entity",
+   "canonical_label": "Crusoe Energy Systems (capital (treasury/financing facet \u2014 distinct from crusoe/datacenter-construction, which receives))",
+   "core_buildout": false,
+   "entity_slug": "crusoe-energy-systems",
+   "id": "kat-ent-crusoe-capital",
+   "layer": 2,
+   "q1_node_id": "crusoe/capital",
+   "x": 560,
+   "y": 150
+  },
+  {
+   "activity": "gas turbine manufacturing (AI-datacenter-dedicated aeroderivative units)",
+   "atom_type": "entity",
+   "canonical_label": "GE Vernova",
+   "core_buildout": true,
+   "entity_slug": "ge-vernova",
+   "id": "kat-ent-ge-vernova-turbine-manufacturing",
+   "layer": 3,
+   "q1_node_id": "ge-vernova/turbine-manufacturing",
+   "x": 840,
+   "y": 0
+  },
+  {
+   "activity": "datacenter operation (buyer side \u2014 Piketon, OH campus developer)",
+   "atom_type": "entity",
+   "canonical_label": "SB Energy",
+   "core_buildout": true,
+   "entity_slug": "sb-energy",
+   "id": "kat-ent-sb-energy-datacenter-operation",
+   "layer": 0,
+   "q1_node_id": "sb-energy/datacenter-operation",
+   "x": 0,
+   "y": 2670
+  },
+  {
+   "activity": "grid interconnection / transmission infrastructure",
+   "atom_type": "entity",
+   "canonical_label": "AEP Ohio (American Electric Power) (grid interconnection / transmission infrastructure)",
+   "core_buildout": false,
+   "entity_slug": "aep-ohio-american-electric-power",
+   "id": "kat-ent-aep-ohio-grid-interconnection",
+   "layer": 1,
+   "q1_node_id": "aep-ohio/grid-interconnection",
+   "x": 280,
+   "y": 0
+  },
+  {
+   "activity": "datacenter operation (buyer side)",
+   "atom_type": "entity",
+   "canonical_label": "Meta Ai",
+   "core_buildout": true,
+   "entity_slug": "meta",
+   "id": "kat-ent-meta-datacenter-operation",
+   "layer": 0,
+   "q1_node_id": "meta/datacenter-operation",
+   "x": 0,
+   "y": 1980
+  },
+  {
+   "activity": "grid interconnection / transmission infrastructure",
+   "atom_type": "entity",
+   "canonical_label": "Entergy Louisiana",
+   "core_buildout": true,
+   "entity_slug": "entergy-louisiana",
+   "id": "kat-ent-entergy-louisiana-grid-interconnection",
+   "layer": 1,
+   "q1_node_id": "entergy-louisiana/grid-interconnection",
+   "x": 280,
+   "y": 660
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "SK hynix",
+   "core_buildout": true,
+   "entity_slug": "sk-hynix",
+   "id": "kat-ent-sk-hynix-capital",
+   "layer": 0,
+   "q1_node_id": "sk-hynix/capital",
+   "x": 0,
+   "y": 2760
+  },
+  {
+   "activity": "memory fab construction (DRAM/HBM)",
+   "atom_type": "entity",
+   "canonical_label": "SK hynix",
+   "core_buildout": true,
+   "entity_slug": "sk-hynix",
+   "id": "kat-ent-sk-hynix-memory-fab-construction",
+   "layer": 1,
+   "q1_node_id": "sk-hynix/memory-fab-construction",
+   "x": 280,
+   "y": 1500
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Micron Technology (capital (treasury/financing facet))",
+   "core_buildout": false,
+   "entity_slug": "micron-technology",
+   "id": "kat-ent-micron-capital",
+   "layer": 0,
+   "q1_node_id": "micron/capital",
+   "x": 0,
+   "y": 2010
+  },
+  {
+   "activity": "HBM advanced-packaging facility construction",
+   "atom_type": "entity",
+   "canonical_label": "Micron Technology (HBM advanced-packaging facility construction)",
+   "core_buildout": false,
+   "entity_slug": "micron-technology",
+   "id": "kat-ent-micron-hbm-packaging-construction",
+   "layer": 1,
+   "q1_node_id": "micron/hbm-packaging-construction",
+   "x": 280,
+   "y": 1140
+  },
+  {
+   "activity": "memory fab construction (leading-edge DRAM)",
+   "atom_type": "entity",
+   "canonical_label": "Micron Technology (memory fab construction (leading-edge DRAM))",
+   "core_buildout": false,
+   "entity_slug": "micron-technology",
+   "id": "kat-ent-micron-memory-fab-construction",
+   "layer": 1,
+   "q1_node_id": "micron/memory-fab-construction",
+   "x": 280,
+   "y": 1170
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Samsung Electronics (capital (treasury/financing facet))",
+   "core_buildout": false,
+   "entity_slug": "samsung-electronics",
+   "id": "kat-ent-samsung-capital",
+   "layer": 0,
+   "q1_node_id": "samsung/capital",
+   "x": 0,
+   "y": 2820
+  },
+  {
+   "activity": "foundry construction (fab capex)",
+   "atom_type": "entity",
+   "canonical_label": "Samsung Electronics (foundry construction (fab capex))",
+   "core_buildout": false,
+   "entity_slug": "samsung-electronics",
+   "id": "kat-ent-samsung-foundry-construction",
+   "layer": 1,
+   "q1_node_id": "samsung/foundry-construction",
+   "x": 280,
+   "y": 1530
+  },
+  {
+   "activity": "subsidy/grant capital provision",
+   "atom_type": "entity",
+   "canonical_label": "ext (population \u2014 US federal government, as a capital-provider counterparty) (subsidy/grant capital provision)",
+   "core_buildout": false,
+   "entity_slug": "ext-population-us-federal-government-as-a-capital-provider-counterparty",
+   "id": "kat-ent-ext-us-government",
+   "layer": 0,
+   "q1_node_id": "ext/us-government",
+   "x": 0,
+   "y": 3150
+  },
+  {
+   "activity": "foundry construction (fab capex \u2014 Foundry/IFS division)",
+   "atom_type": "entity",
+   "canonical_label": "Intel",
+   "core_buildout": true,
+   "entity_slug": "intel",
+   "id": "kat-ent-intel-foundry-construction",
+   "layer": 1,
+   "q1_node_id": "intel/foundry-construction",
+   "x": 280,
+   "y": 870
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Amkor Technology (capital (treasury/financing facet))",
+   "core_buildout": false,
+   "entity_slug": "amkor-technology",
+   "id": "kat-ent-amkor-capital",
+   "layer": 0,
+   "q1_node_id": "amkor/capital",
+   "x": 0,
+   "y": 210
+  },
+  {
+   "activity": "advanced packaging/test facility construction",
+   "atom_type": "entity",
+   "canonical_label": "Amkor Technology (advanced packaging/test facility construction)",
+   "core_buildout": false,
+   "entity_slug": "amkor-technology",
+   "id": "kat-ent-amkor-packaging-construction",
+   "layer": 1,
+   "q1_node_id": "amkor/packaging-construction",
+   "x": 280,
+   "y": 120
+  },
+  {
+   "activity": "advanced packaging/test services (seller side)",
+   "atom_type": "entity",
+   "canonical_label": "Amkor Technology (advanced packaging/test services (seller side))",
+   "core_buildout": false,
+   "entity_slug": "amkor-technology",
+   "id": "kat-ent-amkor-packaging-assembly",
+   "layer": 1,
+   "q1_node_id": "amkor/packaging-assembly",
+   "x": 280,
+   "y": 150
+  },
+  {
+   "activity": "AI-infrastructure component procurement (buyer side \u2014 Nvidia as purchaser of packaging/optics capacity, distinct from nvidia/chip-design, which sells, and nvidia/capital, which invests)",
+   "atom_type": "entity",
+   "canonical_label": "Nvidia",
+   "core_buildout": true,
+   "entity_slug": "nvidia",
+   "id": "kat-ent-nvidia-ai-compute-procurement",
+   "layer": 0,
+   "q1_node_id": "nvidia/ai-compute-procurement",
+   "x": 0,
+   "y": 2310
+  },
+  {
+   "activity": "advanced packaging construction (CoWoS \u2014 distinct facet from tsmc/foundry-construction)",
+   "atom_type": "entity",
+   "canonical_label": "TSMC",
+   "core_buildout": true,
+   "entity_slug": "tsmc",
+   "id": "kat-ent-tsmc-advanced-packaging-construction",
+   "layer": 1,
+   "q1_node_id": "tsmc/advanced-packaging-construction",
+   "x": 280,
+   "y": 1680
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "ASE Technology (capital (treasury/financing facet))",
+   "core_buildout": false,
+   "entity_slug": "ase-technology",
+   "id": "kat-ent-ase-capital",
+   "layer": 0,
+   "q1_node_id": "ase/capital",
+   "x": 0,
+   "y": 30
+  },
+  {
+   "activity": "advanced packaging/test capacity construction (LEAP program)",
+   "atom_type": "entity",
+   "canonical_label": "ASE Technology (advanced packaging/test capacity construction (LEAP program))",
+   "core_buildout": false,
+   "entity_slug": "ase-technology",
+   "id": "kat-ent-ase-packaging-construction",
+   "layer": 1,
+   "q1_node_id": "ase/packaging-construction",
+   "x": 280,
+   "y": 60
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Coherent Corp. (capital (treasury/financing facet))",
+   "core_buildout": false,
+   "entity_slug": "coherent-corp",
+   "id": "kat-ent-coherent-capital",
+   "layer": 1,
+   "q1_node_id": "coherent/capital",
+   "x": 280,
+   "y": 360
+  },
+  {
+   "activity": "optical networking components (seller side \u2014 lasers, transceivers)",
+   "atom_type": "entity",
+   "canonical_label": "Coherent Corp. (optical networking components (seller side \u2014 lasers, transceivers))",
+   "core_buildout": false,
+   "entity_slug": "coherent-corp",
+   "id": "kat-ent-coherent-optical-components",
+   "layer": 1,
+   "q1_node_id": "coherent/optical-components",
+   "x": 280,
+   "y": 390
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Lumentum Holdings (capital (treasury/financing facet))",
+   "core_buildout": false,
+   "entity_slug": "lumentum-holdings",
+   "id": "kat-ent-lumentum-capital",
+   "layer": 1,
+   "q1_node_id": "lumentum/capital",
+   "x": 280,
+   "y": 990
+  },
+  {
+   "activity": "optical networking components (seller side \u2014 lasers, transceivers)",
+   "atom_type": "entity",
+   "canonical_label": "Lumentum Holdings (optical networking components (seller side \u2014 lasers, transceivers))",
+   "core_buildout": false,
+   "entity_slug": "lumentum-holdings",
+   "id": "kat-ent-lumentum-optical-components",
+   "layer": 1,
+   "q1_node_id": "lumentum/optical-components",
+   "x": 280,
+   "y": 1020
+  },
+  {
+   "activity": "datacenter construction (Abilene, TX campus \u2014 builder/operator side)",
+   "atom_type": "entity",
+   "canonical_label": "Crusoe Energy Systems (datacenter construction (Abilene, TX campus \u2014 builder/operator side))",
+   "core_buildout": false,
+   "entity_slug": "crusoe-energy-systems",
+   "id": "kat-ent-crusoe-datacenter-construction",
+   "layer": 2,
+   "q1_node_id": "crusoe/datacenter-construction",
+   "x": 560,
+   "y": 180
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Core Scientific",
+   "core_buildout": true,
+   "entity_slug": "core-scientific",
+   "id": "kat-ent-core-scientific-capital",
+   "layer": 0,
+   "q1_node_id": "core-scientific/capital",
+   "x": 0,
+   "y": 660
+  },
+  {
+   "activity": "datacenter construction (Denton, TX site \u2014 propco/operator side)",
+   "atom_type": "entity",
+   "canonical_label": "Core Scientific",
+   "core_buildout": true,
+   "entity_slug": "core-scientific",
+   "id": "kat-ent-core-scientific-datacenter-construction",
+   "layer": 1,
+   "q1_node_id": "core-scientific/datacenter-construction",
+   "x": 280,
+   "y": 450
+  },
+  {
+   "activity": "datacenter operation (buyer/tenant side \u2014 distinct facet from coreweave/capital, which raises)",
+   "atom_type": "entity",
+   "canonical_label": "CoreWeave",
+   "core_buildout": true,
+   "entity_slug": "coreweave",
+   "id": "kat-ent-coreweave-datacenter-operation",
+   "layer": 0,
+   "q1_node_id": "coreweave/datacenter-operation",
+   "x": 0,
+   "y": 690
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Vantage Data Centers",
+   "core_buildout": true,
+   "entity_slug": "vantage-data-centers",
+   "id": "kat-ent-vantage-data-centers-capital",
+   "layer": 0,
+   "q1_node_id": "vantage-data-centers/capital",
+   "x": 0,
+   "y": 3090
+  },
+  {
+   "activity": "datacenter construction (developer side)",
+   "atom_type": "entity",
+   "canonical_label": "Vantage Data Centers",
+   "core_buildout": true,
+   "entity_slug": "vantage-data-centers",
+   "id": "kat-ent-vantage-data-centers-datacenter-construction",
+   "layer": 2,
+   "q1_node_id": "vantage-data-centers/datacenter-construction",
+   "x": 560,
+   "y": 540
+  },
+  {
+   "activity": "EPC/general-contractor services (seller side)",
+   "atom_type": "entity",
+   "canonical_label": "Turner Construction Company (EPC/general-contractor services (seller side))",
+   "core_buildout": false,
+   "entity_slug": "turner-construction-company",
+   "id": "kat-ent-turner-construction-epc-services",
+   "layer": 1,
+   "q1_node_id": "turner-construction/epc-services",
+   "x": 280,
+   "y": 1770
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "World Labs",
+   "core_buildout": true,
+   "entity_slug": "world-labs",
+   "id": "kat-ent-world-labs-capital",
+   "layer": 2,
+   "q1_node_id": "world-labs/capital",
+   "x": 560,
+   "y": 570
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Together AI",
+   "core_buildout": true,
+   "entity_slug": "together-ai",
+   "id": "kat-ent-together-ai-capital",
+   "layer": 2,
+   "q1_node_id": "together-ai/capital",
+   "x": 560,
+   "y": 510
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Nebius",
+   "core_buildout": true,
+   "entity_slug": "nebius",
+   "id": "kat-ent-nebius-capital",
+   "layer": 2,
+   "q1_node_id": "nebius/capital",
+   "x": 560,
+   "y": 390
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Lambda",
+   "core_buildout": true,
+   "entity_slug": "lambda",
+   "id": "kat-ent-lambda-capital",
+   "layer": 2,
+   "q1_node_id": "lambda/capital",
+   "x": 560,
+   "y": 300
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Perplexity AI (capital (treasury/financing facet))",
+   "core_buildout": false,
+   "entity_slug": "perplexity-ai",
+   "id": "kat-ent-perplexity-capital",
+   "layer": 2,
+   "q1_node_id": "perplexity/capital",
+   "x": 560,
+   "y": 450
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Anysphere (Cursor) (capital (treasury/financing facet))",
+   "core_buildout": false,
+   "entity_slug": "anysphere-cursor",
+   "id": "kat-ent-anysphere-capital",
+   "layer": 2,
+   "q1_node_id": "anysphere/capital",
+   "x": 560,
+   "y": 30
+  },
+  {
+   "activity": "private equity capital provision",
+   "atom_type": "entity",
+   "canonical_label": "ext (population) (private equity capital provision)",
+   "core_buildout": false,
+   "entity_slug": "ext-population",
+   "id": "kat-ent-ext-undisclosed-investors-xai-2023-formd-round",
+   "layer": 0,
+   "q1_node_id": "ext/undisclosed-investors--xai-2023-formd-round",
+   "x": 0,
+   "y": 3240
+  },
+  {
+   "activity": "VC/strategic capital provision",
+   "atom_type": "entity",
+   "canonical_label": "ext (population) (VC/strategic capital provision)",
+   "core_buildout": false,
+   "entity_slug": "ext-population",
+   "id": "kat-ent-ext-undisclosed-investors-together-ai-2025-series-b-round",
+   "layer": 0,
+   "q1_node_id": "ext/undisclosed-investors--together-ai-2025-series-b-round",
+   "x": 0,
+   "y": 3210
+  },
+  {
+   "activity": "VC capital provision",
+   "atom_type": "entity",
+   "canonical_label": "ext (population) (VC capital provision)",
+   "core_buildout": false,
+   "entity_slug": "ext-population",
+   "id": "kat-ent-ext-undisclosed-investors-anysphere-2024-series-b-round",
+   "layer": 0,
+   "q1_node_id": "ext/undisclosed-investors--anysphere-2024-series-b-round",
+   "x": 0,
+   "y": 3180
+  },
+  {
+   "activity": "capital (private-credit lending facet)",
+   "atom_type": "entity",
+   "canonical_label": "Blackstone",
+   "core_buildout": false,
+   "entity_slug": "blackstone",
+   "id": "kat-ent-blackstone-capital",
+   "layer": 0,
+   "q1_node_id": "blackstone/capital",
+   "x": 0,
+   "y": 450
+  },
+  {
+   "activity": "capital (private-credit lending facet)",
+   "atom_type": "entity",
+   "canonical_label": "Magnetar Capital",
+   "core_buildout": false,
+   "entity_slug": "magnetar-capital",
+   "id": "kat-ent-magnetar-capital-capital",
+   "layer": 0,
+   "q1_node_id": "magnetar-capital/capital",
+   "x": 0,
+   "y": 1890
+  },
+  {
+   "activity": "capital (private-credit lending facet)",
+   "atom_type": "entity",
+   "canonical_label": "DigitalBridge (DigitalBridge Credit) (capital (private-credit lending facet))",
+   "core_buildout": false,
+   "entity_slug": "digitalbridge-digitalbridge-credit",
+   "id": "kat-ent-digitalbridge-capital",
+   "layer": 0,
+   "q1_node_id": "digitalbridge/capital",
+   "x": 0,
+   "y": 870
+  },
+  {
+   "activity": "capital (institutional lending facet \u2014 funds managed by BlackRock)",
+   "atom_type": "entity",
+   "canonical_label": "BlackRock",
+   "core_buildout": false,
+   "entity_slug": "blackrock",
+   "id": "kat-ent-blackrock-capital",
+   "layer": 0,
+   "q1_node_id": "blackrock/capital",
+   "x": 0,
+   "y": 420
+  },
+  {
+   "activity": "capital (institutional lending facet \u2014 funds managed by PIMCO)",
+   "atom_type": "entity",
+   "canonical_label": "PIMCO",
+   "core_buildout": false,
+   "entity_slug": "pimco",
+   "id": "kat-ent-pimco-capital",
+   "layer": 0,
+   "q1_node_id": "pimco/capital",
+   "x": 0,
+   "y": 2400
+  },
+  {
+   "activity": "capital (institutional lending facet)",
+   "atom_type": "entity",
+   "canonical_label": "Carlyle (Carlyle Funding) (capital (institutional lending facet))",
+   "core_buildout": false,
+   "entity_slug": "carlyle-carlyle-funding",
+   "id": "kat-ent-carlyle-capital",
+   "layer": 0,
+   "q1_node_id": "carlyle/capital",
+   "x": 0,
+   "y": 570
+  },
+  {
+   "activity": "capital (institutional lending facet)",
+   "atom_type": "entity",
+   "canonical_label": "Great Elm",
+   "core_buildout": false,
+   "entity_slug": "great-elm",
+   "id": "kat-ent-great-elm-capital",
+   "layer": 0,
+   "q1_node_id": "great-elm/capital",
+   "x": 0,
+   "y": 1320
+  },
+  {
+   "activity": "capital (lending facet)",
+   "atom_type": "entity",
+   "canonical_label": "MUFG (Mitsubishi UFJ Financial Group) (capital (lending facet))",
+   "core_buildout": false,
+   "entity_slug": "mufg-mitsubishi-ufj-financial-group",
+   "id": "kat-ent-mufg-capital",
+   "layer": 0,
+   "q1_node_id": "mufg/capital",
+   "x": 0,
+   "y": 1860
+  },
+  {
+   "activity": "syndicated lending capital provision",
+   "atom_type": "entity",
+   "canonical_label": "ext (population) (syndicated lending capital provision)",
+   "core_buildout": false,
+   "entity_slug": "ext-population",
+   "id": "kat-ent-ext-undisclosed-lenders-coreweave-2025-ddtl5-amendment",
+   "layer": 0,
+   "q1_node_id": "ext/undisclosed-lenders--coreweave-2025-ddtl5-amendment",
+   "x": 0,
+   "y": 3330
+  },
+  {
+   "activity": "public bond-market capital provision",
+   "atom_type": "entity",
+   "canonical_label": "ext (population) (public bond-market capital provision)",
+   "core_buildout": false,
+   "entity_slug": "ext-population",
+   "id": "kat-ent-ext-bond-market",
+   "layer": 0,
+   "q1_node_id": "ext/bond-market",
+   "x": 0,
+   "y": 3270
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Oracle",
+   "core_buildout": true,
+   "entity_slug": "oracle",
+   "id": "kat-ent-oracle-capital",
+   "layer": 1,
+   "q1_node_id": "oracle/capital",
+   "x": 280,
+   "y": 1350
+  },
+  {
+   "activity": "capital (treasury/financing facet \u2014 distinct from meta/datacenter-operation, which buys grid interconnection, and meta/datacenter-construction, which receives JV investment)",
+   "atom_type": "entity",
+   "canonical_label": "Meta Ai",
+   "core_buildout": true,
+   "entity_slug": "meta",
+   "id": "kat-ent-meta-capital",
+   "layer": 1,
+   "q1_node_id": "meta/capital",
+   "x": 280,
+   "y": 1080
+  },
+  {
+   "activity": "datacenter construction (Hyperion campus, Richland Parish LA \u2014 JV recipient side, distinct from meta/datacenter-operation's grid-interconnection edge)",
+   "atom_type": "entity",
+   "canonical_label": "Meta Ai",
+   "core_buildout": true,
+   "entity_slug": "meta",
+   "id": "kat-ent-meta-datacenter-construction",
+   "layer": 1,
+   "q1_node_id": "meta/datacenter-construction",
+   "x": 280,
+   "y": 1110
+  },
+  {
+   "activity": "capital (strategic/JV investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "SoftBank Group (capital (strategic/JV investment facet))",
+   "core_buildout": false,
+   "entity_slug": "softbank-group",
+   "id": "kat-ent-softbank-capital",
+   "layer": 1,
+   "q1_node_id": "softbank/capital",
+   "x": 280,
+   "y": 1560
+  },
+  {
+   "activity": "capital (sovereign AI-investment vehicle facet \u2014 UAE, co-founded by Mubadala and G42)",
+   "atom_type": "entity",
+   "canonical_label": "MGX",
+   "core_buildout": false,
+   "entity_slug": "mgx",
+   "id": "kat-ent-mgx-capital",
+   "layer": 0,
+   "q1_node_id": "mgx/capital",
+   "x": 0,
+   "y": 1800
+  },
+  {
+   "activity": "datacenter construction (JV entity \u2014 umbrella receiver of committed capital; specific sites e.g. Crusoe's Abilene campus are tracked separately at the facility level in research/q3-datacenter-census/attribution.yaml and may overlap with this JV's own buildout)",
+   "atom_type": "entity",
+   "canonical_label": "Stargate LLC (joint venture \u2014 OpenAI/SoftBank/Oracle/MGX) (datacenter construction (JV entity \u2014 umbrella receiver of committed capital; specific sites e.g. Crusoe's Abilene campus are tracked separately at the facility level in research/q3-datacenter-census/attribution.yaml and may overlap with this JV's own buildout))",
+   "core_buildout": false,
+   "entity_slug": "stargate-llc-joint-venture-openai-softbank-oracle-mgx",
+   "id": "kat-ent-stargate-datacenter-construction",
+   "layer": 4,
+   "q1_node_id": "stargate/datacenter-construction",
+   "x": 1120,
+   "y": 0
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "DeepSeek",
+   "core_buildout": true,
+   "entity_slug": "deepseek",
+   "id": "kat-ent-deepseek-capital",
+   "layer": 0,
+   "q1_node_id": "deepseek/capital",
+   "x": 0,
+   "y": 840
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Moonshot AI (Kimi) (capital (treasury/financing facet))",
+   "core_buildout": false,
+   "entity_slug": "moonshot-ai-kimi",
+   "id": "kat-ent-moonshot-ai-capital",
+   "layer": 3,
+   "q1_node_id": "moonshot-ai/capital",
+   "x": 840,
+   "y": 30
+  },
+  {
+   "activity": "capital (strategic investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Alibaba",
+   "core_buildout": false,
+   "entity_slug": "alibaba",
+   "id": "kat-ent-alibaba-capital",
+   "layer": 1,
+   "q1_node_id": "alibaba/capital",
+   "x": 280,
+   "y": 90
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "HongShan (formerly Sequoia Capital China) (capital (VC investment facet))",
+   "core_buildout": false,
+   "entity_slug": "hongshan-formerly-sequoia-capital-china",
+   "id": "kat-ent-hongshan-capital",
+   "layer": 0,
+   "q1_node_id": "hongshan/capital",
+   "x": 0,
+   "y": 1380
+  },
+  {
+   "activity": "capital (strategic investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Tencent",
+   "core_buildout": false,
+   "entity_slug": "tencent",
+   "id": "kat-ent-tencent-capital",
+   "layer": 0,
+   "q1_node_id": "tencent/capital",
+   "x": 0,
+   "y": 2940
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Gaorong Capital",
+   "core_buildout": false,
+   "entity_slug": "gaorong-capital",
+   "id": "kat-ent-gaorong-capital-capital",
+   "layer": 0,
+   "q1_node_id": "gaorong-capital/capital",
+   "x": 0,
+   "y": 1200
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Helsing",
+   "core_buildout": true,
+   "entity_slug": "helsing",
+   "id": "kat-ent-helsing-capital",
+   "layer": 2,
+   "q1_node_id": "helsing/capital",
+   "x": 560,
+   "y": 240
+  },
+  {
+   "activity": "capital (strategic investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Prima Materia (Daniel Ek's investment vehicle) (capital (strategic investment facet))",
+   "core_buildout": false,
+   "entity_slug": "prima-materia-daniel-ek-s-investment-vehicle",
+   "id": "kat-ent-prima-materia-capital",
+   "layer": 0,
+   "q1_node_id": "prima-materia/capital",
+   "x": 0,
+   "y": 2460
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Synthesia",
+   "core_buildout": true,
+   "entity_slug": "synthesia",
+   "id": "kat-ent-synthesia-capital",
+   "layer": 2,
+   "q1_node_id": "synthesia/capital",
+   "x": 560,
+   "y": 480
+  },
+  {
+   "activity": "capital (corporate VC facet \u2014 distinct from any future Google/Alphabet treasury node)",
+   "atom_type": "entity",
+   "canonical_label": "GV (Google Ventures) (capital (corporate VC facet \u2014 distinct from any future Google/Alphabet treasury node))",
+   "core_buildout": false,
+   "entity_slug": "gv-google-ventures",
+   "id": "kat-ent-google-ventures-capital",
+   "layer": 0,
+   "q1_node_id": "google-ventures/capital",
+   "x": 0,
+   "y": 1170
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Air Street Capital",
+   "core_buildout": false,
+   "entity_slug": "air-street-capital",
+   "id": "kat-ent-air-street-capital-capital",
+   "layer": 0,
+   "q1_node_id": "air-street-capital/capital",
+   "x": 0,
+   "y": 120
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "FirstMark",
+   "core_buildout": false,
+   "entity_slug": "firstmark",
+   "id": "kat-ent-firstmark-capital",
+   "layer": 0,
+   "q1_node_id": "firstmark/capital",
+   "x": 0,
+   "y": 1080
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "MMC Ventures",
+   "core_buildout": false,
+   "entity_slug": "mmc-ventures",
+   "id": "kat-ent-mmc-ventures-capital",
+   "layer": 0,
+   "q1_node_id": "mmc-ventures/capital",
+   "x": 0,
+   "y": 1830
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "G42",
+   "core_buildout": true,
+   "entity_slug": "g42",
+   "id": "kat-ent-g42-capital",
+   "layer": 1,
+   "q1_node_id": "g42/capital",
+   "x": 280,
+   "y": 690
+  },
+  {
+   "activity": "capital (sovereign strategic investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Humain (Saudi Arabia, wholly owned by the Public Investment Fund) (capital (sovereign strategic investment facet))",
+   "core_buildout": false,
+   "entity_slug": "humain-saudi-arabia-wholly-owned-by-the-public-investment-fund",
+   "id": "kat-ent-humain-capital",
+   "layer": 0,
+   "q1_node_id": "humain/capital",
+   "x": 0,
+   "y": 1410
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Intel",
+   "core_buildout": true,
+   "entity_slug": "intel",
+   "id": "kat-ent-intel-capital",
+   "layer": 1,
+   "q1_node_id": "intel/capital",
+   "x": 280,
+   "y": 900
+  },
+  {
+   "activity": "capital",
+   "atom_type": "entity",
+   "canonical_label": "Apollo Global Management (capital)",
+   "core_buildout": false,
+   "entity_slug": "apollo-global-management",
+   "id": "kat-ent-ext-apollo-global-management",
+   "layer": 0,
+   "q1_node_id": "ext/apollo-global-management",
+   "x": 0,
+   "y": 330
+  },
+  {
+   "activity": "capital",
+   "atom_type": "entity",
+   "canonical_label": "Brookfield Asset Management (capital)",
+   "core_buildout": false,
+   "entity_slug": "brookfield-asset-management",
+   "id": "kat-ent-ext-brookfield-asset-management",
+   "layer": 0,
+   "q1_node_id": "ext/brookfield-asset-management",
+   "x": 0,
+   "y": 540
+  },
+  {
+   "activity": "capital",
+   "atom_type": "entity",
+   "canonical_label": "Goldman Sachs (capital)",
+   "core_buildout": false,
+   "entity_slug": "goldman-sachs",
+   "id": "kat-ent-ext-goldman-sachs",
+   "layer": 0,
+   "q1_node_id": "ext/goldman-sachs",
+   "x": 0,
+   "y": 1260
+  },
+  {
+   "activity": "capital",
+   "atom_type": "entity",
+   "canonical_label": "KKR (capital)",
+   "core_buildout": false,
+   "entity_slug": "kkr",
+   "id": "kat-ent-ext-kkr",
+   "layer": 0,
+   "q1_node_id": "ext/kkr",
+   "x": 0,
+   "y": 1620
+  },
+  {
+   "activity": "capital",
+   "atom_type": "entity",
+   "canonical_label": "Morgan Stanley (capital)",
+   "core_buildout": false,
+   "entity_slug": "morgan-stanley",
+   "id": "kat-ent-ext-morgan-stanley",
+   "layer": 0,
+   "q1_node_id": "ext/morgan-stanley",
+   "x": 0,
+   "y": 2100
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Poolside AI (capital (treasury/financing facet))",
+   "core_buildout": false,
+   "entity_slug": "poolside-ai",
+   "id": "kat-ent-poolside-capital",
+   "layer": 1,
+   "q1_node_id": "poolside/capital",
+   "x": 280,
+   "y": 1410
+  },
+  {
+   "activity": "model training (Model Factory \u2014 the internal AI model-development pipeline licensed to Nvidia)",
+   "atom_type": "entity",
+   "canonical_label": "Poolside AI (model training (Model Factory \u2014 the internal AI model-development pipeline licensed to Nvidia))",
+   "core_buildout": false,
+   "entity_slug": "poolside-ai",
+   "id": "kat-ent-poolside-model-training",
+   "layer": 1,
+   "q1_node_id": "poolside/model-training",
+   "x": 280,
+   "y": 1440
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Broadcom",
+   "core_buildout": false,
+   "entity_slug": "broadcom",
+   "id": "kat-ent-broadcom-capital",
+   "layer": 2,
+   "q1_node_id": "broadcom/capital",
+   "x": 560,
+   "y": 60
+  },
+  {
+   "activity": "datacenter operation (seller/landlord side \u2014 Monarch campus, West Virginia)",
+   "atom_type": "entity",
+   "canonical_label": "Nscale",
+   "core_buildout": false,
+   "entity_slug": "nscale",
+   "id": "kat-ent-nscale-datacenter-operation",
+   "layer": 1,
+   "q1_node_id": "nscale/datacenter-operation",
+   "x": 280,
+   "y": 1320
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Groq",
+   "core_buildout": false,
+   "entity_slug": "groq",
+   "id": "kat-ent-groq-capital",
+   "layer": 2,
+   "q1_node_id": "groq/capital",
+   "x": 560,
+   "y": 210
+  },
+  {
+   "activity": "capital (VC investment facet)",
+   "atom_type": "entity",
+   "canonical_label": "Disruptive",
+   "core_buildout": false,
+   "entity_slug": "disruptive",
+   "id": "kat-ent-disruptive-capital",
+   "layer": 0,
+   "q1_node_id": "disruptive/capital",
+   "x": 0,
+   "y": 900
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Lancium",
+   "core_buildout": false,
+   "entity_slug": "lancium",
+   "id": "kat-ent-lancium-capital",
+   "layer": 1,
+   "q1_node_id": "lancium/capital",
+   "x": 280,
+   "y": 960
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Cloverleaf Infrastructure",
+   "core_buildout": false,
+   "entity_slug": "cloverleaf-infrastructure",
+   "id": "kat-ent-cloverleaf-infrastructure-capital",
+   "layer": 1,
+   "q1_node_id": "cloverleaf-infrastructure/capital",
+   "x": 280,
+   "y": 270
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "nVent Electric plc (capital (treasury/financing facet))",
+   "core_buildout": false,
+   "entity_slug": "nvent-electric-plc",
+   "id": "kat-ent-nvent-capital",
+   "layer": 0,
+   "q1_node_id": "nvent/capital",
+   "x": 0,
+   "y": 3360
+  },
+  {
+   "activity": "power distribution & infrastructure manufacturing (data center power equipment \u2014 McKinney, TX)",
+   "atom_type": "entity",
+   "canonical_label": "Maverick Power",
+   "core_buildout": false,
+   "entity_slug": "maverick-power",
+   "id": "kat-ent-maverick-power-power-distribution-manufacturing",
+   "layer": 1,
+   "q1_node_id": "maverick-power/power-distribution-manufacturing",
+   "x": 280,
+   "y": 1050
+  },
+  {
+   "activity": "capital (treasury/financing facet)",
+   "atom_type": "entity",
+   "canonical_label": "Infineon Technologies (capital (treasury/financing facet))",
+   "core_buildout": false,
+   "entity_slug": "infineon-technologies",
+   "id": "kat-ent-infineon-capital",
+   "layer": 0,
+   "q1_node_id": "infineon/capital",
+   "x": 0,
+   "y": 1500
+  },
+  {
+   "activity": "chip design (software-defined multiphase controllers & smart power stages for AI servers \u2014 Bengaluru, India)",
+   "atom_type": "entity",
+   "canonical_label": "C2i Semiconductors",
+   "core_buildout": false,
+   "entity_slug": "c2i-semiconductors",
+   "id": "kat-ent-c2i-semiconductors-chip-design",
+   "layer": 1,
+   "q1_node_id": "c2i-semiconductors/chip-design",
+   "x": 280,
+   "y": 240
+  },
+  {
+   "activity": "capital (treasury/financing facet \u2014 distinct from the existing sb-energy/datacenter-operation, its Piketon, OH campus-developer facet)",
+   "atom_type": "entity",
+   "canonical_label": "SB Energy",
+   "core_buildout": true,
+   "entity_slug": "sb-energy",
+   "id": "kat-ent-sb-energy-capital",
+   "layer": 1,
+   "q1_node_id": "sb-energy/capital",
+   "x": 280,
+   "y": 1470
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "xAI (SEC Form D (no round letter disclosed), 2023-12)",
+   "core_buildout": true,
+   "entity_slug": "xai",
+   "external": true,
+   "id": "kat-evt-xai-2023-formd-round",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 1920
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Mistral AI (seed, 2023-06)",
+   "core_buildout": false,
+   "entity_slug": "mistral-ai",
+   "external": true,
+   "id": "kat-evt-mistral-2023-seed-round",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 1230
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Inflection AI (growth/strategic round (stage label not disclosed in the source), 2023-06)",
+   "core_buildout": false,
+   "entity_slug": "inflection-ai",
+   "external": true,
+   "id": "kat-evt-inflection-2023-round",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 840
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Cohere (Series D, 2024-07)",
+   "core_buildout": true,
+   "entity_slug": "cohere",
+   "external": true,
+   "id": "kat-evt-cohere-2024-series-d-round",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 300
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Cohere (follow-on round (stage label not disclosed publicly), 2025-08)",
+   "core_buildout": true,
+   "entity_slug": "cohere",
+   "external": true,
+   "id": "kat-evt-cohere-2025-round",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 330
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Mistral AI (Series C, 2025-09-09)",
+   "core_buildout": false,
+   "entity_slug": "mistral-ai",
+   "external": true,
+   "id": "kat-evt-mistral-2025-series-c-round",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 1200
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Crusoe Energy Systems (Series D, 2024-12-12)",
+   "core_buildout": false,
+   "entity_slug": "crusoe-energy-systems",
+   "external": true,
+   "id": "kat-evt-crusoe-2024-series-d-round",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 630
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "World Labs (seed / early-stage (two rounds combined per source, not individually broken out), 2024-09-13)",
+   "core_buildout": true,
+   "entity_slug": "world-labs",
+   "external": true,
+   "id": "kat-evt-world-labs-2024-seed-round",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 1830
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Together AI (Series B, 2025-02-20)",
+   "core_buildout": true,
+   "entity_slug": "together-ai",
+   "external": true,
+   "id": "kat-evt-together-ai-2025-series-b-round",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 1740
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Nebius (strategic equity financing (not staged as a lettered Series), 2024-12-02)",
+   "core_buildout": true,
+   "entity_slug": "nebius",
+   "external": true,
+   "id": "kat-evt-nebius-2024-strategic-financing-round",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 1290
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Lambda (Series C, 2024-02-15)",
+   "core_buildout": true,
+   "entity_slug": "lambda",
+   "external": true,
+   "id": "kat-evt-lambda-2024-series-c-round",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 930
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Perplexity AI (Series B, 2024-04-24)",
+   "core_buildout": false,
+   "entity_slug": "perplexity-ai",
+   "external": true,
+   "id": "kat-evt-perplexity-2024-series-b-round",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 1380
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Anysphere (Cursor) (Series B, 2024-12)",
+   "core_buildout": false,
+   "entity_slug": "anysphere-cursor",
+   "external": true,
+   "id": "kat-evt-anysphere-2024-series-b-round",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 180
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Crusoe Energy Systems (Abilene, TX campus JV \u2014 initial formation) (real-estate/infrastructure JV equity (initial formation), 2024-10-15)",
+   "core_buildout": false,
+   "entity_slug": "crusoe-energy-systems-abilene-tx-campus-jv-initial-formation",
+   "external": true,
+   "id": "kat-evt-crusoe-2024-abilene-jv-financing",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 570
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Crusoe Energy Systems (Abilene, TX campus JV \u2014 phase 2 expansion) (real-estate/infrastructure JV debt+equity (phase 2 expansion, unitemized split), 2025-05-21)",
+   "core_buildout": false,
+   "entity_slug": "crusoe-energy-systems-abilene-tx-campus-jv-phase-2-expansion",
+   "external": true,
+   "id": "kat-evt-crusoe-2025-abilene-phase2-financing",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 600
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "CoreWeave (private-credit debt facility (GPU-purchase/expansion financing), 2023-08-03)",
+   "core_buildout": true,
+   "entity_slug": "coreweave",
+   "external": true,
+   "id": "kat-evt-coreweave-2023-blackstone-magnetar-facility",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 540
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "CoreWeave (delayed-draw term loan facility (\"DDTL 5.5\"), 2026-08-07)",
+   "core_buildout": true,
+   "entity_slug": "coreweave",
+   "external": true,
+   "id": "kat-evt-coreweave-2026-ddtl55-facility",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 510
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "CoreWeave (borrower entity \u2014 CoreWeave Compute Acquisition Co. IV, LLC) (delayed-draw term loan credit-agreement amendment (\"Fifth Amendment\" \u2014 shape-only, individual lenders not named), 2025-09-29)",
+   "core_buildout": false,
+   "entity_slug": "coreweave-borrower-entity-coreweave-compute-acquisition-co-iv-llc",
+   "external": true,
+   "id": "kat-evt-coreweave-2025-ddtl5-amendment",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 480
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Vantage Data Centers (Texas megacampus \u2014 site/name not independently confirmed this pass) (construction/project-finance loan (REPORTED IN TALKS \u2014 not confirmed closed as of the source date), 2025-08-22)",
+   "core_buildout": false,
+   "entity_slug": "vantage-data-centers-texas-megacampus-site-name-not-independently-confirmed-this-pass",
+   "external": true,
+   "id": "kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 1800
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Stargate LLC (joint venture) (infrastructure joint-venture equity formation, 2025-01-21)",
+   "core_buildout": false,
+   "entity_slug": "stargate-llc-joint-venture",
+   "external": true,
+   "id": "kat-evt-stargate-2025-jv-financing",
+   "layer": 3,
+   "q1_node_id": null,
+   "x": 840,
+   "y": 60
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Moonshot AI (Kimi) (growth round (TechCrunch calls it Series B; other secondary sources label it Series A \u2014 round-label DISAGREEMENT across sources, named not resolved, per R-17), 2024-02)",
+   "core_buildout": false,
+   "entity_slug": "moonshot-ai-kimi",
+   "external": true,
+   "id": "kat-evt-moonshot-ai-2024-02-alibaba-round",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 360
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Moonshot AI (Kimi) (growth round (secondary sources label variably; not independently resolved this pass), 2024-08)",
+   "core_buildout": false,
+   "entity_slug": "moonshot-ai-kimi",
+   "external": true,
+   "id": "kat-evt-moonshot-ai-2024-08-series-b-round",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 1260
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Helsing (Series D, 2025-06-17)",
+   "core_buildout": true,
+   "entity_slug": "helsing",
+   "external": true,
+   "id": "kat-evt-helsing-2025-series-d-round",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 810
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Synthesia (Series D, 2025-01-15)",
+   "core_buildout": true,
+   "entity_slug": "synthesia",
+   "external": true,
+   "id": "kat-evt-synthesia-2025-series-d-round",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 1590
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Synthesia (Series E, 2026-01-26)",
+   "core_buildout": true,
+   "entity_slug": "synthesia",
+   "external": true,
+   "id": "kat-evt-synthesia-2026-series-e-round",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 1620
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "xAI (Series E, 2026-02-18)",
+   "core_buildout": true,
+   "entity_slug": "xai",
+   "external": true,
+   "id": "kat-evt-xai-2026-series-e-round",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 1950
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Broadcom (special-purpose-vehicle borrower, financing custom AI-chip/networking capacity leased to Anthropic) (special-purpose-vehicle senior/junior debt facility (reported \"in discussions\"/\"in talks\" \u2014 not confirmed closed as of the sources found this pass), 2026-08-21)",
+   "core_buildout": false,
+   "entity_slug": "broadcom-special-purpose-vehicle-borrower-financing-custom-ai-chip-networking-capacity-leased-to-anthropic",
+   "external": true,
+   "id": "kat-evt-broadcom-2026-anthropic-spv-facility",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 210
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Groq (Series A (Groq's own label for this post-Nvidia-licensing valuation-reset round), 2026-08-17)",
+   "core_buildout": false,
+   "entity_slug": "groq",
+   "external": true,
+   "id": "kat-evt-groq-2026-series-a-round",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 780
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "CoreWeave (delayed-draw term loan facility (disclosed at Q2 2026 earnings), 2026-08-11)",
+   "core_buildout": true,
+   "entity_slug": "coreweave",
+   "external": true,
+   "id": "kat-evt-coreweave-2026-q2-ddtl-facility",
+   "layer": 0,
+   "q1_node_id": null,
+   "x": 0,
+   "y": 720
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "Lambda (leveraged loan, 2026-08-12)",
+   "core_buildout": true,
+   "entity_slug": "lambda",
+   "external": true,
+   "id": "kat-evt-lambda-2026-leveraged-loan",
+   "layer": 0,
+   "q1_node_id": null,
+   "x": 0,
+   "y": 1680
+  },
+  {
+   "activity": "",
+   "atom_type": "event",
+   "canonical_label": "nvidia/2026-compute-financing-platforms",
+   "core_buildout": false,
+   "entity_slug": "nvidia-2026-compute-financing-platforms",
+   "external": true,
+   "id": "kat-evt-nvidia-2026-compute-financing-platforms",
+   "layer": 1,
+   "q1_node_id": null,
+   "x": 280,
+   "y": 1860
+  }
+ ]
+}
