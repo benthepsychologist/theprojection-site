@@ -5,7 +5,7 @@
   "confidence": "low",
   "dimension": "q1-flow",
   "id": "q1-kat-claim-amazon-ai-compute-procurement-talen-energy-power-generation-2025-susquehanna-ppa-obs0",
-  "label": "Amazon Aws \u2192 Talen Energy",
+  "label": "Amazon \u2192 Talen Energy",
   "sources": [
    {
     "as_of": "2025-08-07",
@@ -24,7 +24,7 @@
   "confidence": "high",
   "dimension": "q1-flow",
   "id": "q1-kat-claim-amazon-capital-anthropic-capital-2023-09-initial-obs0",
-  "label": "Amazon Aws \u2192 Anthropic",
+  "label": "Amazon \u2192 Anthropic",
   "sources": [
    {
     "as_of": "2023-09",
@@ -43,7 +43,7 @@
   "confidence": "low",
   "dimension": "q1-flow",
   "id": "q1-kat-claim-amazon-capital-anthropic-capital-2024-11-additional-obs1",
-  "label": "Amazon Aws \u2192 Anthropic",
+  "label": "Amazon \u2192 Anthropic",
   "sources": [],
   "subject": "anthropic",
   "value": "$8.0B \u2014 cumulative total across the Sep-2023 ($4B commitment) and Nov-2024 ($4B) tranches"
@@ -187,7 +187,7 @@
   "confidence": "med",
   "dimension": "q1-flow",
   "id": "q1-kat-claim-blue-owl-capital-capital-meta-datacenter-construction-2025-hyperion-jv-obs0",
-  "label": "Blue Owl Capital (Real Estate platform) (capital (institutional/real-estate investment facet)) \u2192 Meta Ai",
+  "label": "Blue Owl Capital (Real Estate platform) (capital (institutional/real-estate investment facet)) \u2192 Meta",
   "sources": [
    {
     "as_of": "2025-10-21",
@@ -453,7 +453,7 @@
   "confidence": "low",
   "dimension": "q1-flow",
   "id": "q1-kat-claim-ext-bond-market-meta-capital-2025-senior-notes-obs0",
-  "label": "ext (population) (public bond-market capital provision) \u2192 Meta Ai",
+  "label": "ext (population) (public bond-market capital provision) \u2192 Meta",
   "sources": [
    {
     "as_of": "2025-10-30",
@@ -871,7 +871,7 @@
   "confidence": "med",
   "dimension": "q1-flow",
   "id": "q1-kat-claim-meta-datacenter-operation-entergy-louisiana-grid-interconnection-2025-smalling-substation-obs0",
-  "label": "Meta Ai \u2192 Entergy Louisiana",
+  "label": "Meta \u2192 Entergy Louisiana",
   "sources": [
    {
     "as_of": "2026-08-10",
@@ -1384,7 +1384,7 @@
   "confidence": "med",
   "dimension": "q1-flow",
   "id": "q1-kat-claim-sk-hynix-capital-sk-hynix-memory-fab-construction-2026-yongin-cheongju-obs0",
-  "label": "SK hynix \u2192 SK hynix",
+  "label": "SK Hynix \u2192 SK Hynix",
   "sources": [
    {
     "as_of": "2026-08-07",
@@ -2679,17 +2679,17 @@
  {
   "aggregate": true,
   "as_of": "",
-  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Meta Ai in the Q1 money-flow map.",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Meta in the Q1 money-flow map.",
   "confidence": "",
   "dimension": "q1-recipient",
   "id": "q1-agg-recipient-meta-ai",
-  "label": "Tracked inflow \u00b7 Meta Ai",
+  "label": "Tracked inflow \u00b7 Meta",
   "member_count": 2,
   "members": [
    "q1-kat-claim-blue-owl-capital-capital-meta-datacenter-construction-2025-hyperion-jv-obs0",
    "q1-kat-claim-ext-bond-market-meta-capital-2025-senior-notes-obs0"
   ],
-  "short_label": "Meta Ai",
+  "short_label": "Meta",
   "sources": [],
   "subject": "meta-ai",
   "total_usd": 37000000000,
@@ -2918,16 +2918,16 @@
  {
   "aggregate": true,
   "as_of": "",
-  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 SK hynix in the Q1 money-flow map.",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 SK Hynix in the Q1 money-flow map.",
   "confidence": "",
   "dimension": "q1-recipient",
   "id": "q1-agg-recipient-sk-hynix",
-  "label": "Tracked inflow \u00b7 SK hynix",
+  "label": "Tracked inflow \u00b7 SK Hynix",
   "member_count": 1,
   "members": [
    "q1-kat-claim-sk-hynix-capital-sk-hynix-memory-fab-construction-2026-yongin-cheongju-obs0"
   ],
-  "short_label": "SK hynix",
+  "short_label": "SK Hynix",
   "sources": [],
   "subject": "sk-hynix",
   "total_usd": 38100000000,
