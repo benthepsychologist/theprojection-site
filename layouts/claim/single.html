@@ -56,6 +56,17 @@ li.receipt-cite .src-meta{ font-family:var(--sans); color:var(--ink-45); margin-
 
 .claim-working .claim-section h2{ font-family:var(--sans); }
 .claim-basis-narrative{ font-family:var(--serif); font-size:1rem; line-height:1.6; color:var(--ink-70); margin:.6rem 0 0; }
+
+table.claim-pieces{ width:100%; border-collapse:collapse; font-family:var(--sans); font-size:.86rem; margin-top:.4rem; }
+table.claim-pieces th{ text-align:left; font-size:.7rem; text-transform:uppercase; letter-spacing:.05em;
+  color:var(--ink-45); font-weight:600; padding:0 0 .4rem; border-bottom:1px solid var(--hair); }
+table.claim-pieces td{ padding:.5rem 0; border-bottom:1px solid var(--hair); vertical-align:top; }
+table.claim-pieces tr:last-child td{ border-bottom:none; }
+table.claim-pieces .piece-amt{ text-align:right; font-variant-numeric:tabular-nums; font-weight:600;
+  white-space:nowrap; padding-left:1rem; color:var(--ink); }
+table.claim-pieces .piece-amt.piece-unsettled{ font-weight:400; color:var(--ink-45); font-style:italic; }
+table.claim-pieces .piece-asof{ color:var(--ink-45); font-size:.78rem; white-space:nowrap; padding-left:.8rem; }
+table.claim-pieces tfoot td{ padding-top:.6rem; font-weight:700; border-top:2px solid var(--ink-12); border-bottom:none; }
 </style>
 </head>
 <body>
@@ -142,7 +153,48 @@ li.receipt-cite .src-meta{ font-family:var(--sans); color:var(--ink-45); margin-
     {{ end }}
 
     {{ with $c.members }}
+    {{ $memberClaims := slice }}
+    {{ range $mid := . }}{{ with index $claimById $mid }}{{ $memberClaims = $memberClaims | append . }}{{ end }}{{ end }}
     <div class="claim-section">
+      {{ if isset $c "total_usd" }}
+      {{/* A genuine calculation (this repo's Q1 aggregates carry total_usd)
+           gets a real table of its addends, each clickable to its own
+           receipt -- Ben: "calculations deserve a table that shows the
+           values that add up to the calculation." Anything without
+           total_usd (the board pipeline's own aggregates, e.g. a posture
+           tally like "expanding — 6 of 7") isn't a sum of numbers, so it
+           keeps the plain member list below. */}}
+      <h2>The pieces <span class="n">{{ len $memberClaims }}</span></h2>
+      <p class="src-meta">Every claim that fed this total, plus any that couldn't be summed — click a row for its own sourcing.</p>
+      {{ $settled := sort (where $memberClaims "amount_usd" "!=" nil) "amount_usd" "desc" }}
+      {{ $unsettled := where $memberClaims "amount_usd" nil }}
+      {{ $ordered := $settled }}
+      {{ range $unsettled }}{{ $ordered = $ordered | append . }}{{ end }}
+      <table class="claim-pieces">
+        <thead><tr><th>Flow</th><th>As of</th><th class="piece-amt">Amount</th></tr></thead>
+        <tbody>
+          {{ range $m := $ordered }}
+          {{ $mHref := cond (hasPrefix $m.id "q1-") (printf "/q1claim/%s/" $m.id) (printf "/claim/%s/" $m.id) }}
+          <tr>
+            <td><a href="{{ $mHref }}">{{ $m.label }}</a></td>
+            <td class="piece-asof">{{ $m.as_of }}</td>
+            {{ if $m.amount_usd }}
+            <td class="piece-amt">{{ if ge $m.amount_usd 1000000000.0 }}{{ printf "$%.1fB" (div $m.amount_usd 1000000000.0) }}{{ else }}{{ printf "$%.1fM" (div $m.amount_usd 1000000.0) }}{{ end }}</td>
+            {{ else }}
+            <td class="piece-amt piece-unsettled">not summed</td>
+            {{ end }}
+            {{/* $m.amount_usd truthiness (not isset) is intentional here:
+                 a real flow amount is never legitimately $0, so treating
+                 0/missing/null alike is correct, unlike the aggregate's
+                 own total_usd check above which must distinguish "$0
+                 because nothing summed" from "field doesn't exist". */}}
+          </tr>
+          {{ end }}
+        </tbody>
+        <tfoot><tr><td colspan="2">Total (settled figures only)</td>
+          <td class="piece-amt{{ if not $c.total_usd }} piece-unsettled{{ end }}">{{ if not $c.total_usd }}no settled figure yet{{ else if ge $c.total_usd 1000000000.0 }}{{ printf "$%.1fB" (div $c.total_usd 1000000000.0) }}{{ else }}{{ printf "$%.1fM" (div $c.total_usd 1000000.0) }}{{ end }}</td></tr></tfoot>
+      </table>
+      {{ else }}
       <h2>Member claims <span class="n">{{ len . }}</span></h2>
       <p class="src-meta">This is an aggregate — its evidence is the members' own claims.</p>
       <ul class="cites">
@@ -151,6 +203,7 @@ li.receipt-cite .src-meta{ font-family:var(--sans); color:var(--ink-45); margin-
         <li><a href="{{ $mHref }}">{{ or (index $nameBySlug $m.subject) (humanize $m.subject) }}</a> <span class="src-meta">{{ $m.value | truncate 90 }}</span></li>
         {{ end }}
       </ul>
+      {{ end }}
     </div>
     {{ end }}
 

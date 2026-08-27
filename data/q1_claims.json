@@ -1,5 +1,6 @@
 [
  {
+  "amount_usd": null,
   "as_of": "2025-06-11",
   "basis": "up to 1,920MW by 2032 (of Talen's 2.5GW Susquehanna nuclear plant), 17-year PPA through 2042 \u2014 no dollar figure disclosed in the filing",
   "confidence": "low",
@@ -19,6 +20,7 @@
   "value": "up to 1,920MW by 2032 (of Talen's 2.5GW Susquehanna nuclear plant), 17-year PPA through 2042 \u2014 no dollar figure disclosed in the filing"
  },
  {
+  "amount_usd": null,
   "as_of": "2023-09-01",
   "basis": "$4.0B (ceiling) \u2014 up to $4B commitment; $1.25B confirmed as the initial delivered tranche",
   "confidence": "high",
@@ -38,6 +40,7 @@
   "value": "$4.0B (ceiling) \u2014 up to $4B commitment; $1.25B confirmed as the initial delivered tranche"
  },
  {
+  "amount_usd": 8000000000,
   "as_of": "2023-09-01",
   "basis": "$8.0B \u2014 cumulative total across the Sep-2023 ($4B commitment) and Nov-2024 ($4B) tranches",
   "confidence": "low",
@@ -49,6 +52,7 @@
   "value": "$8.0B \u2014 cumulative total across the Sep-2023 ($4B commitment) and Nov-2024 ($4B) tranches"
  },
  {
+  "amount_usd": null,
   "as_of": "2025-10-06",
   "basis": "warrant for up to 160M AMD shares (~10% of AMD), vesting on deployment/share-price milestones; no fixed $ value at signing since it is a contingent equity instrument",
   "confidence": "med",
@@ -68,6 +72,7 @@
   "value": "warrant for up to 160M AMD shares (~10% of AMD), vesting on deployment/share-price milestones; no fixed $ value at signing since it is a contingent equity instrument"
  },
  {
+  "amount_usd": 7000000000,
   "as_of": "2025-10-06",
   "basis": "$7.0B \u2014 $7B total Arizona advanced packaging/test campus, up from an original ~$2B plan",
   "confidence": "med",
@@ -87,6 +92,7 @@
   "value": "$7.0B \u2014 $7B total Arizona advanced packaging/test campus, up from an original ~$2B plan"
  },
  {
+  "amount_usd": null,
   "as_of": "2025-10-23",
   "basis": "\"tens of billions\" (Anthropic's own characterization); up to 1M TPUs, >1GW capacity online 2026",
   "confidence": "med",
@@ -106,6 +112,7 @@
   "value": "\"tens of billions\" (Anthropic's own characterization); up to 1M TPUs, >1GW capacity online 2026"
  },
  {
+  "amount_usd": 45000000000,
   "as_of": "2026-08-26",
   "basis": "$45.0B \u2014 $45B over six years to rent ~460MW at Nscale's Monarch campus, West Virginia; facility runs Nvidia's Vera Rubin chips, expected online late 2027; a rental of compute capacity, not an equity stake or asset purchase",
   "confidence": "high",
@@ -125,6 +132,7 @@
   "value": "$45.0B \u2014 $45B over six years to rent ~460MW at Nscale's Monarch campus, West Virginia; facility runs Nvidia's Vera Rubin chips, expected online late 2027; a rental of compute capacity, not an equity stake or asset purchase"
  },
  {
+  "amount_usd": 1250000000,
   "as_of": "2026-05-20",
   "basis": "$1.2B \u2014 $1.25B/month rate; >$40B total over the full term; 300MW of compute; Colossus 1 (Memphis), all 220,000+ Nvidia GPUs (H100/H200/GB200)",
   "confidence": "high",
@@ -144,6 +152,7 @@
   "value": "$1.2B \u2014 $1.25B/month rate; >$40B total over the full term; 300MW of compute; Colossus 1 (Memphis), all 220,000+ Nvidia GPUs (H100/H200/GB200)"
  },
  {
+  "amount_usd": 105000000,
   "as_of": "2024-12-01",
   "basis": "$105.0M \u2014 $105M Series B at $2.6B valuation",
   "confidence": "high",
@@ -163,6 +172,7 @@
   "value": "$105.0M \u2014 $105M Series B at $2.6B valuation"
  },
  {
+  "amount_usd": 10500000000,
   "as_of": "2026-01-01",
   "basis": "$10.5B \u2014 2026 capex raised to $10.5B (from a prior $8.5B forecast); ~$4B to new fabs/infrastructure, ~$6.5B to production equipment for LEAP (Leading-Edge Advanced Packaging), mainstream packaging, and test capacity",
   "confidence": "high",
@@ -182,6 +192,7 @@
   "value": "$10.5B \u2014 2026 capex raised to $10.5B (from a prior $8.5B forecast); ~$4B to new fabs/infrastructure, ~$6.5B to production equipment for LEAP (Leading-Edge Advanced Packaging), mainstream packaging, and test capacity"
  },
  {
+  "amount_usd": 7000000000,
   "as_of": "2025-10-21",
   "basis": "$7.0B \u2014 Blue Owl-managed funds contribute ~$7B cash for an 80% JV interest in the Hyperion (Richland Parish, LA) datacenter campus; Meta retains 20% and received a ~$3B one-time distribution; total development cost ~$27B",
   "confidence": "med",
@@ -201,6 +212,7 @@
   "value": "$7.0B \u2014 Blue Owl-managed funds contribute ~$7B cash for an 80% JV interest in the Hyperion (Richland Parish, LA) datacenter campus; Meta retains 20% and received a ~$3B one-time distribution; total development cost ~$27B"
  },
  {
+  "amount_usd": null,
   "as_of": "2026-08-21",
   "basis": "$100.0B (ceiling) \u2014 \"seeks more than $60bn in debt... figures under discussion could take the total as high as $100bn\"; alternate tranche breakdown of a ~$30bn junior tranche alongside a ~$60-70bn senior-secured tranche; a special-purpose vehicle would issue the debt, and \"Anthropic does not buy the chips under this arrangement \u2014 investors finance the purchase, then lease the hardware to the company\"; Blackstone and Apollo Global Management named as the parties in talks to participate, specifically on the junior tranche\n",
   "confidence": "high",
@@ -220,6 +232,7 @@
   "value": "$100.0B (ceiling) \u2014 \"seeks more than $60bn in debt... figures under discussion could take the total as high as $100bn\"; alternate tranche breakdown of a ~$30bn junior tranche alongside a ~$60-70bn senior-secured tranche; a special-purpose vehicle would issue the debt, and \"Anthropic does not buy the chips under this arrangement \u2014 investors finance the purchase, then lease the hardware to the company\"; Blackstone and Apollo Global Management named as the parties in talks to participate, specifically on the junior tranche\n"
  },
  {
+  "amount_usd": null,
   "as_of": "2024-11-19",
   "basis": "$6.1B (ceiling) \u2014 up to $6.1B real-property investment (HPC infrastructure + office complex construction) on 78.85 leased acres, 394MW total campus power capacity",
   "confidence": "high",
@@ -239,6 +252,7 @@
   "value": "$6.1B (ceiling) \u2014 up to $6.1B real-property investment (HPC infrastructure + office complex construction) on 78.85 leased acres, 394MW total campus power capacity"
  },
  {
+  "amount_usd": 2300000000,
   "as_of": "2023-08-03",
   "basis": "$2.3B \u2014 $2.3B debt facility led by Blackstone and Magnetar Capital, with participation from Coatue, DigitalBridge, BlackRock, PIMCO, Carlyle and Great Elm",
   "confidence": "med",
@@ -258,6 +272,7 @@
   "value": "$2.3B \u2014 $2.3B debt facility led by Blackstone and Magnetar Capital, with participation from Coatue, DigitalBridge, BlackRock, PIMCO, Carlyle and Great Elm"
  },
  {
+  "amount_usd": 3000000000,
   "as_of": "2025-09-29",
   "basis": "$3.0B \u2014 Fifth Amendment to CoreWeave's Credit Agreement, adding an incremental $3.0B tranche of delayed draw term loans; borrower is CoreWeave Compute Acquisition Co. IV, LLC; U.S. Bank Trust Company N.A. as administrative/collateral agent",
   "confidence": "low",
@@ -277,6 +292,7 @@
   "value": "$3.0B \u2014 Fifth Amendment to CoreWeave's Credit Agreement, adding an incremental $3.0B tranche of delayed draw term loans; borrower is CoreWeave Compute Acquisition Co. IV, LLC; U.S. Bank Trust Company N.A. as administrative/collateral agent"
  },
  {
+  "amount_usd": 2600000000,
   "as_of": "2026-08-07",
   "basis": "$2.6B \u2014 $2.6B incremental delayed-draw term loan facility (DDTL 5.5), JPMorgan Chase Bank and MUFG Bank as joint lead arrangers/bookrunners/syndication agents",
   "confidence": "low",
@@ -296,6 +312,7 @@
   "value": "$2.6B \u2014 $2.6B incremental delayed-draw term loan facility (DDTL 5.5), JPMorgan Chase Bank and MUFG Bank as joint lead arrangers/bookrunners/syndication agents"
  },
  {
+  "amount_usd": 3100000000,
   "as_of": "2026-08-11",
   "basis": "$3.1B \u2014 $3.1B delayed-draw term loan at SOFR+450, minimum debt-service-coverage covenant of 1.35x effective after 2026-09-30; disclosed alongside Q2 earnings, which also showed net interest expense of $640M for the quarter (vs. $267M a year earlier) and over $10B in additional new unsecured debt and convertible bonds raised the same quarter (that $10B+ figure is NOT separately edge-modeled here \u2014 aggregate quarter-level disclosure, not a single named facility \u2014 flagged as a coverage gap rather than silently omitted)",
   "confidence": "low",
@@ -315,6 +332,7 @@
   "value": "$3.1B \u2014 $3.1B delayed-draw term loan at SOFR+450, minimum debt-service-coverage covenant of 1.35x effective after 2026-09-30; disclosed alongside Q2 earnings, which also showed net interest expense of $640M for the quarter (vs. $267M a year earlier) and over $10B in additional new unsecured debt and convertible bonds raised the same quarter (that $10B+ figure is NOT separately edge-modeled here \u2014 aggregate quarter-level disclosure, not a single named facility \u2014 flagged as a coverage gap rather than silently omitted)"
  },
  {
+  "amount_usd": 104000000,
   "as_of": "2025-02-26",
   "basis": "$104.0M \u2014 $104M Core Scientific-funded capex for a 70MW expansion (powered shell, $1.5M/MW), bringing the Denton site to ~260MW critical IT load",
   "confidence": "med",
@@ -334,6 +352,7 @@
   "value": "$104.0M \u2014 $104M Core Scientific-funded capex for a 70MW expansion (powered shell, $1.5M/MW), bringing the Denton site to ~260MW critical IT load"
  },
  {
+  "amount_usd": 3400000000,
   "as_of": "2024-10-15",
   "basis": "$3.4B \u2014 $3.4B joint venture (fully funded forward takeout structure) \u2014 Lancium Clean Campus, Abilene TX, 206MW, two buildings, 100% long-term leased to a Fortune 100 hyperscale tenant",
   "confidence": "med",
@@ -353,6 +372,7 @@
   "value": "$3.4B \u2014 $3.4B joint venture (fully funded forward takeout structure) \u2014 Lancium Clean Campus, Abilene TX, 206MW, two buildings, 100% long-term leased to a Fortune 100 hyperscale tenant"
  },
  {
+  "amount_usd": 600000000,
   "as_of": "2024-12-12",
   "basis": "$600.0M \u2014 $600M Series D at $2.8B valuation",
   "confidence": "med",
@@ -372,6 +392,7 @@
   "value": "$600.0M \u2014 $600M Series D at $2.8B valuation"
  },
  {
+  "amount_usd": 15000000000,
   "as_of": "2024-10-15",
   "basis": "$15.0B \u2014 cumulative total committed capital across the 2024 JV formation ($3.4B) and this 2025 phase-2 tranche ($11.6B)",
   "confidence": "high",
@@ -391,6 +412,7 @@
   "value": "$15.0B \u2014 cumulative total committed capital across the 2024 JV formation ($3.4B) and this 2025 phase-2 tranche ($11.6B)"
  },
  {
+  "amount_usd": null,
   "as_of": "2024-12-01",
   "basis": "29 LM2500XPRESS aeroderivative gas turbine units (19 booked June 2025 + 10 ordered Dec 2024), combined ~1GW, explicitly for AI datacenters \u2014 no purchase price disclosed",
   "confidence": "med",
@@ -410,6 +432,7 @@
   "value": "29 LM2500XPRESS aeroderivative gas turbine units (19 booked June 2025 + 10 ordered Dec 2024), combined ~1GW, explicitly for AI datacenters \u2014 no purchase price disclosed"
  },
  {
+  "amount_usd": 1750000000,
   "as_of": "2025-07-25",
   "basis": "$1.8B \u2014 $1.75B, 9.000% senior notes due 2031, Rule 144A/Reg S private placement",
   "confidence": "low",
@@ -429,6 +452,7 @@
   "value": "$1.8B \u2014 $1.75B, 9.000% senior notes due 2031, Rule 144A/Reg S private placement"
  },
  {
+  "amount_usd": 25000000000,
   "as_of": "2026-08-12",
   "basis": "$25.0B \u2014 up to $25B in fresh debt for AI infrastructure, reported as Alphabet's third bond sale of 2026, pushing total 2026 debt raised toward ~$70B",
   "confidence": "high",
@@ -448,6 +472,7 @@
   "value": "$25.0B \u2014 up to $25B in fresh debt for AI infrastructure, reported as Alphabet's third bond sale of 2026, pushing total 2026 debt raised toward ~$70B"
  },
  {
+  "amount_usd": 30000000000,
   "as_of": "2025-10-30",
   "basis": "$30.0B \u2014 $30B senior notes across six tranches (2030-2065, coupons 4.200%-5.750%), priced Oct 30 2025, closed Nov 3 2025",
   "confidence": "low",
@@ -467,6 +492,7 @@
   "value": "$30.0B \u2014 $30B senior notes across six tranches (2030-2065, coupons 4.200%-5.750%), priced Oct 30 2025, closed Nov 3 2025"
  },
  {
+  "amount_usd": 25000000000,
   "as_of": "2026-02-04",
   "basis": "$25.0B \u2014 $25B senior notes across 8 tranches ($500M floating through $2.75B 30-year fixed at 6.850%); proceeds for capex, debt repayment, future investments/acquisitions",
   "confidence": "low",
@@ -486,6 +512,7 @@
   "value": "$25.0B \u2014 $25B senior notes across 8 tranches ($500M floating through $2.75B 30-year fixed at 6.850%); proceeds for capex, debt repayment, future investments/acquisitions"
  },
  {
+  "amount_usd": 6300000000,
   "as_of": "2026-09-17",
   "basis": "$6.3B \u2014 Record \u00a51 trillion (~$6.3B) retail bond sale in Japan; 7-year notes with an indicative coupon range of 4.3%-4.9%, expected to price 2026-09-04, retail offering runs 09-07 through 09-16, issuance 09-17, maturing 2033-09-16; proceeds for AI-related investments (OpenAI) and to refinance roughly \u00a5400B of retail bonds maturing in September",
   "confidence": "high",
@@ -505,6 +532,7 @@
   "value": "$6.3B \u2014 Record \u00a51 trillion (~$6.3B) retail bond sale in Japan; 7-year notes with an indicative coupon range of 4.3%-4.9%, expected to price 2026-09-04, retail offering runs 09-07 through 09-16, issuance 09-17, maturing 2033-09-16; proceeds for AI-related investments (OpenAI) and to refinance roughly \u00a5400B of retail bonds maturing in September"
  },
  {
+  "amount_usd": null,
   "as_of": "2026-08-26",
   "basis": "$20.0B (ceiling) \u2014 SoftBank in talks with investment banks about a potential $10B-$20B bond offering (dollars and euros, possibly as early as September) to partly refinance a $40B bridge loan taken earlier in 2026 for its OpenAI investment; SoftBank has committed nearly $65B to OpenAI, aiming to complete that investment by October 2026; a SoftBank spokesperson said the company is \"considering various options\" and \"nothing has been decided yet\"",
   "confidence": "high",
@@ -524,6 +552,7 @@
   "value": "$20.0B (ceiling) \u2014 SoftBank in talks with investment banks about a potential $10B-$20B bond offering (dollars and euros, possibly as early as September) to partly refinance a $40B bridge loan taken earlier in 2026 for its OpenAI investment; SoftBank has committed nearly $65B to OpenAI, aiming to complete that investment by October 2026; a SoftBank spokesperson said the company is \"considering various options\" and \"nothing has been decided yet\""
  },
  {
+  "amount_usd": 500000000,
   "as_of": "2024-07-01",
   "basis": "$500.0M \u2014 $500M Series D at $5.5B valuation",
   "confidence": "high",
@@ -543,6 +572,7 @@
   "value": "$500.0M \u2014 $500M Series D at $5.5B valuation"
  },
  {
+  "amount_usd": 500000000,
   "as_of": "2025-08-01",
   "basis": "$500.0M \u2014 $500M at $6.8B valuation",
   "confidence": "med",
@@ -562,6 +592,7 @@
   "value": "$500.0M \u2014 $500M at $6.8B valuation"
  },
  {
+  "amount_usd": 1300000000,
   "as_of": "2023-06-01",
   "basis": "$1.3B \u2014 $1.3B at $4B valuation, funds a 22,000-H100 cluster w/ CoreWeave",
   "confidence": "high",
@@ -581,6 +612,7 @@
   "value": "$1.3B \u2014 $1.3B at $4B valuation, funds a 22,000-H100 cluster w/ CoreWeave"
  },
  {
+  "amount_usd": 113000000,
   "as_of": "2023-06-01",
   "basis": "$113.0M \u2014 \u20ac105M/$113M at \u20ac240M/$260M valuation",
   "confidence": "high",
@@ -600,6 +632,7 @@
   "value": "$113.0M \u2014 \u20ac105M/$113M at \u20ac240M/$260M valuation"
  },
  {
+  "amount_usd": 134700000,
   "as_of": "2023-12-01",
   "basis": "$134.7M \u2014 $134.7M sold against a $1B ceiling ($865.3M remaining) per SEC Form D",
   "confidence": "low",
@@ -619,6 +652,7 @@
   "value": "$134.7M \u2014 $134.7M sold against a $1B ceiling ($865.3M remaining) per SEC Form D"
  },
  {
+  "amount_usd": 10200000000,
   "as_of": "2026-08-24",
   "basis": "$10.2B \u2014 HK$80 billion (~$10.21B) primary share placement at HK$112.70 per share (an 8.4% discount to the prior close) \u2014 the largest primary follow-on offering by any Hong Kong-listed company to date; 100% earmarked for AI-related development per the placement's own stated use of proceeds. Same-week context, not part of this edge's own value - Alibaba's fiscal Q1 2026 (June-quarter) net profit fell 75% y/y and free cash flow showed a $6.6B outflow, both attributed primarily to AI capex, which rose 75% y/y to roughly $10B for the quarter",
   "confidence": "high",
@@ -638,6 +672,7 @@
   "value": "$10.2B \u2014 HK$80 billion (~$10.21B) primary share placement at HK$112.70 per share (an 8.4% discount to the prior close) \u2014 the largest primary follow-on offering by any Hong Kong-listed company to date; 100% earmarked for AI-related development per the placement's own stated use of proceeds. Same-week context, not part of this edge's own value - Alibaba's fiscal Q1 2026 (June-quarter) net profit fell 75% y/y and free cash flow showed a $6.6B outflow, both attributed primarily to AI capex, which rose 75% y/y to roughly $10B for the quarter"
  },
  {
+  "amount_usd": 1500000000,
   "as_of": "2025-03-28",
   "basis": "$1.5B \u2014 37.5M shares @ $40, ~$1.5B raised; ~$23B fully diluted valuation",
   "confidence": "med",
@@ -657,6 +692,7 @@
   "value": "$1.5B \u2014 37.5M shares @ $40, ~$1.5B raised; ~$23B fully diluted valuation"
  },
  {
+  "amount_usd": 20000000000,
   "as_of": "2026-08-11",
   "basis": "$20.0B \u2014 210.5M shares at $95/share, upsized from an initial $15B announcement (08-10) to $20B on pricing (08-11); explicitly to fund the foundry buildout, stacked on top of the existing CHIPS Act government equity stake",
   "confidence": "med",
@@ -676,6 +712,7 @@
   "value": "$20.0B \u2014 210.5M shares at $95/share, upsized from an initial $15B announcement (08-10) to $20B on pricing (08-11); explicitly to fund the foundry buildout, stacked on top of the existing CHIPS Act government equity stake"
  },
  {
+  "amount_usd": 5000000000,
   "as_of": "2026-02-02",
   "basis": "$5.0B \u2014 100M depositary shares x $50, 6.50% Series D Mandatory Convertible Preferred Stock",
   "confidence": "low",
@@ -695,6 +732,7 @@
   "value": "$5.0B \u2014 100M depositary shares x $50, 6.50% Series D Mandatory Convertible Preferred Stock"
  },
  {
+  "amount_usd": 7860000000,
   "as_of": "2024-11-26",
   "basis": "$7.9B \u2014 $7.86B direct CHIPS Act funding, finalized 2024-11-26 (down from \"up to $8.5B\" preliminary terms announced 2024-03-20)",
   "confidence": "low",
@@ -714,6 +752,7 @@
   "value": "$7.9B \u2014 $7.86B direct CHIPS Act funding, finalized 2024-11-26 (down from \"up to $8.5B\" preliminary terms announced 2024-03-20)"
  },
  {
+  "amount_usd": 920000000,
   "as_of": "2026-10-01",
   "basis": "$920.0M \u2014 $920M/month; ~110,000 Nvidia GPUs + CPUs/memory/components; ramp-up through Sep 2026 at reduced rate, full rate Oct 2026",
   "confidence": "high",
@@ -733,6 +772,7 @@
   "value": "$920.0M \u2014 $920M/month; ~110,000 Nvidia GPUs + CPUs/memory/components; ramp-up through Sep 2026 at reduced rate, full rate Oct 2026"
  },
  {
+  "amount_usd": 300000000,
   "as_of": "2023-02-01",
   "basis": "$300.0M \u2014 ~$300M for ~10% stake, plus a Cloud preferred-provider deal",
   "confidence": "high",
@@ -752,6 +792,7 @@
   "value": "$300.0M \u2014 ~$300M for ~10% stake, plus a Cloud preferred-provider deal"
  },
  {
+  "amount_usd": 350000000,
   "as_of": "2026-08-17",
   "basis": "$350.0M \u2014 $350M Series A at a $3.5B valuation, led by Disruptive with planned participation from Nvidia; company disputes the \"down round\" framing despite the roughly 49% drop from its $6.9B September 2025 mark",
   "confidence": "med",
@@ -771,6 +812,7 @@
   "value": "$350.0M \u2014 $350M Series A at a $3.5B valuation, led by Disruptive with planned participation from Nvidia; company disputes the \"down round\" framing despite the roughly 49% drop from its $6.9B September 2025 mark"
  },
  {
+  "amount_usd": null,
   "as_of": "2025-06-17",
   "basis": "\u20ac600M Series D, led by Prima Materia, \u20ac12B valuation; USD conversion not computed this pass, EUR/USD spot rate not independently verified",
   "confidence": "high",
@@ -790,6 +832,7 @@
   "value": "\u20ac600M Series D, led by Prima Materia, \u20ac12B valuation; USD conversion not computed this pass, EUR/USD spot rate not independently verified"
  },
  {
+  "amount_usd": null,
   "as_of": "2026-08-24",
   "basis": "Financial terms not disclosed. Infineon is acquiring C2i Semiconductors (Bengaluru, India), a specialist in software-defined multiphase controllers and smart power stages for AI data center servers, to expand its AI/HPC power-delivery R&D and its India engineering presence; expected to close Q3 2026",
   "confidence": "med",
@@ -809,6 +852,7 @@
   "value": "Financial terms not disclosed. Infineon is acquiring C2i Semiconductors (Bengaluru, India), a specialist in software-defined multiphase controllers and smart power stages for AI data center servers, to expand its AI/HPC power-delivery R&D and its India engineering presence; expected to close Q3 2026"
  },
  {
+  "amount_usd": 2300000000,
   "as_of": "2025-01-23",
   "basis": "$2.3B \u2014 $2.3B construction loan for the same Abilene, TX campus (206MW)",
   "confidence": "high",
@@ -828,6 +872,7 @@
   "value": "$2.3B \u2014 $2.3B construction loan for the same Abilene, TX campus (206MW)"
  },
  {
+  "amount_usd": 320000000,
   "as_of": "2024-02-15",
   "basis": "$320.0M \u2014 $320M Series C; a $1.5B valuation is reported in trade press (DCD, The Next Platform) but was not confirmed on the fetched company blog itself",
   "confidence": "med",
@@ -847,6 +892,7 @@
   "value": "$320.0M \u2014 $320M Series C; a $1.5B valuation is reported in trade press (DCD, The Next Platform) but was not confirmed on the fetched company blog itself"
  },
  {
+  "amount_usd": 917000000,
   "as_of": "2026-08-12",
   "basis": "$917.0M \u2014 $917M leveraged loan, led by Morgan Stanley, reported nearly $2B oversubscribed; proceeds to purchase Nvidia GPUs, on the same circular-financing pattern (Nvidia as investor/supplier/customer/ counterparty at once) the BIS flagged in June 2026",
   "confidence": "high",
@@ -866,6 +912,7 @@
   "value": "$917.0M \u2014 $917M leveraged loan, led by Morgan Stanley, reported nearly $2B oversubscribed; proceeds to purchase Nvidia GPUs, on the same circular-financing pattern (Nvidia as investor/supplier/customer/ counterparty at once) the BIS flagged in June 2026"
  },
  {
+  "amount_usd": null,
   "as_of": "2025-01-01",
   "basis": "Meta funds the new Smalling Substation \"in its entirety\" (direct quote) \u2014 no dollar figure stated for the substation itself",
   "confidence": "med",
@@ -885,6 +932,7 @@
   "value": "Meta funds the new Smalling Substation \"in its entirety\" (direct quote) \u2014 no dollar figure stated for the substation itself"
  },
  {
+  "amount_usd": 7000000000,
   "as_of": "2025-01-08",
   "basis": "$7.0B \u2014 SG$9.5B (~$7B) HBM advanced-packaging facility, through the end of the decade and beyond",
   "confidence": "med",
@@ -904,6 +952,7 @@
   "value": "$7.0B \u2014 SG$9.5B (~$7B) HBM advanced-packaging facility, through the end of the decade and beyond"
  },
  {
+  "amount_usd": 15000000000,
   "as_of": "2022-09-01",
   "basis": "$15.0B \u2014 $15B \"through the end of the decade\" for a new leading-edge memory fab in Boise, Idaho",
   "confidence": "med",
@@ -923,6 +972,7 @@
   "value": "$15.0B \u2014 $15B \"through the end of the decade\" for a new leading-edge memory fab in Boise, Idaho"
  },
  {
+  "amount_usd": null,
   "as_of": "2024-09-20",
   "basis": "~835MW, 20-year PPA \u2014 Constellation's own release states no capex or price figure at all, only a third-party economic-impact study (not a transaction value)",
   "confidence": "med",
@@ -942,6 +992,7 @@
   "value": "~835MW, 20-year PPA \u2014 Constellation's own release states no capex or price figure at all, only a third-party economic-impact study (not a transaction value)"
  },
  {
+  "amount_usd": 1500000000,
   "as_of": "2024-04-16",
   "basis": "$1.5B \u2014 $1.5B minority-stake investment; Brad Smith joined G42's board; joint $1B developer fund established; governed by a US-UAE Intergovernmental Assurance Agreement",
   "confidence": "med",
@@ -961,6 +1012,7 @@
   "value": "$1.5B \u2014 $1.5B minority-stake investment; Brad Smith joined G42's board; joint $1B developer fund established; governed by a US-UAE Intergovernmental Assurance Agreement"
  },
  {
+  "amount_usd": 1989000000,
   "as_of": "2025-09-09",
   "basis": "$2.0B \u2014 \u20ac1.7B raised; USD figure is a derived conversion (~1.17 EUR/USD around the announcement date), not a figure Mistral's own release states in dollars",
   "confidence": "med",
@@ -980,6 +1032,7 @@
   "value": "$2.0B \u2014 \u20ac1.7B raised; USD figure is a derived conversion (~1.17 EUR/USD around the announcement date), not a figure Mistral's own release states in dollars"
  },
  {
+  "amount_usd": 1000000000,
   "as_of": "2024-02-01",
   "basis": "$1.0B \u2014 over $1B raised, backed by Alibaba and HongShan, ~$2.5B valuation",
   "confidence": "high",
@@ -999,6 +1052,7 @@
   "value": "$1.0B \u2014 over $1B raised, backed by Alibaba and HongShan, ~$2.5B valuation"
  },
  {
+  "amount_usd": 300000000,
   "as_of": "2024-08-01",
   "basis": "$300.0M \u2014 ~$300M raised, led by Tencent and Gaorong Capital, ~$3.3B valuation",
   "confidence": "high",
@@ -1018,6 +1072,7 @@
   "value": "$300.0M \u2014 ~$300M raised, led by Tencent and Gaorong Capital, ~$3.3B valuation"
  },
  {
+  "amount_usd": 700000000,
   "as_of": "2024-12-02",
   "basis": "$700.0M \u2014 $700M oversubscribed strategic equity financing; no valuation stated in the release",
   "confidence": "med",
@@ -1037,6 +1092,7 @@
   "value": "$700.0M \u2014 $700M oversubscribed strategic equity financing; no valuation stated in the release"
  },
  {
+  "amount_usd": null,
   "as_of": "2027-01-01",
   "basis": "$550.0M (ceiling) \u2014 potential additional consideration of up to $550M in cash, contingent on Maverick Power achieving certain performance metrics in 2027 and 2028 \u2014 an earnout, not delivered consideration",
   "confidence": "med",
@@ -1056,6 +1112,7 @@
   "value": "$550.0M (ceiling) \u2014 potential additional consideration of up to $550M in cash, contingent on Maverick Power achieving certain performance metrics in 2027 and 2028 \u2014 an earnout, not delivered consideration"
  },
  {
+  "amount_usd": 1500000000,
   "as_of": "2026-07-23",
   "basis": "$1.5B \u2014 $1.5B multi-year advanced packaging and development agreement, spanning Asia and Arizona facilities",
   "confidence": "med",
@@ -1075,6 +1132,7 @@
   "value": "$1.5B \u2014 $1.5B multi-year advanced packaging and development agreement, spanning Asia and Arizona facilities"
  },
  {
+  "amount_usd": null,
   "as_of": "2026-03-02",
   "basis": "\"multi-billion-dollar purchase commitment\" for advanced laser and optical networking products \u2014 no specific figure disclosed",
   "confidence": "low",
@@ -1094,6 +1152,7 @@
   "value": "\"multi-billion-dollar purchase commitment\" for advanced laser and optical networking products \u2014 no specific figure disclosed"
  },
  {
+  "amount_usd": null,
   "as_of": "2026-03-02",
   "basis": "\"multi-billion\" purchase commitment and future capacity access rights for advanced laser components \u2014 no specific figure disclosed",
   "confidence": "low",
@@ -1113,6 +1172,7 @@
   "value": "\"multi-billion\" purchase commitment and future capacity access rights for advanced laser components \u2014 no specific figure disclosed"
  },
  {
+  "amount_usd": null,
   "as_of": "2026-08-21",
   "basis": "Nvidia's own release confirms \"a minority investment in Cloverleaf\" without a dollar figure; the Wall Street Journal reports the check as \"several hundred million dollars\" \u2014 no exact figure found in any source this pass, recorded as scope-qualified rather than estimated",
   "confidence": "med",
@@ -1132,6 +1192,7 @@
   "value": "Nvidia's own release confirms \"a minority investment in Cloverleaf\" without a dollar figure; the Wall Street Journal reports the check as \"several hundred million dollars\" \u2014 no exact figure found in any source this pass, recorded as scope-qualified rather than estimated"
  },
  {
+  "amount_usd": 2000000000,
   "as_of": "2026-03-02",
   "basis": "$2.0B \u2014 $2B investment to support R&D, future capacity, and operations as Coherent builds US-based manufacturing capacity",
   "confidence": "low",
@@ -1151,6 +1212,7 @@
   "value": "$2.0B \u2014 $2B investment to support R&D, future capacity, and operations as Coherent builds US-based manufacturing capacity"
  },
  {
+  "amount_usd": 2000000000,
   "as_of": "2026-08-09",
   "basis": "$2.0B \u2014 Initial $2B tranche for roughly a 20% stake in Lancium (valued around $10B); a further $1B tranche is tied to thresholds including grid hookups and could push Nvidia's stake to roughly 28% \u2014 that contingent second tranche is NOT included in this point figure. Lancium currently manages 4GW of leased capacity alongside a development pipeline exceeding 15GW of powered land, including the Lancium Clean Campus in Abilene, TX (see lancium/capital's note on the pre-existing Crusoe/Blue Owl JV on that same site)",
   "confidence": "high",
@@ -1170,6 +1232,7 @@
   "value": "$2.0B \u2014 Initial $2B tranche for roughly a 20% stake in Lancium (valued around $10B); a further $1B tranche is tied to thresholds including grid hookups and could push Nvidia's stake to roughly 28% \u2014 that contingent second tranche is NOT included in this point figure. Lancium currently manages 4GW of leased capacity alongside a development pipeline exceeding 15GW of powered land, including the Lancium Clean Campus in Abilene, TX (see lancium/capital's note on the pre-existing Crusoe/Blue Owl JV on that same site)"
  },
  {
+  "amount_usd": 2000000000,
   "as_of": "2026-03-02",
   "basis": "$2.0B \u2014 $2B private placement of 2,876,415 shares of Series A Convertible Preferred Stock at $695.31/share",
   "confidence": "low",
@@ -1189,6 +1252,7 @@
   "value": "$2.0B \u2014 $2B private placement of 2,876,415 shares of Series A Convertible Preferred Stock at $695.31/share"
  },
  {
+  "amount_usd": null,
   "as_of": "2026-08-11",
   "basis": "$125.0B (ceiling) \u2014 Nvidia to \"potentially backstop\" up to $125B of the platforms' total mobilized third-party capital \u2014 an upper bound on Nvidia's own exposure, not a committed/delivered figure",
   "confidence": "med",
@@ -1208,6 +1272,7 @@
   "value": "$125.0B (ceiling) \u2014 Nvidia to \"potentially backstop\" up to $125B of the platforms' total mobilized third-party capital \u2014 an upper bound on Nvidia's own exposure, not a committed/delivered figure"
  },
  {
+  "amount_usd": null,
   "as_of": "2026-08-17",
   "basis": "$105.0B (ceiling) \u2014 Guarantee obligations \"capped at a total of $105 billion,\" becoming effective in phases as the leased data centers reach service readiness (first phase expected fiscal 2029); Nvidia also holds an option to extend credit support to roughly 3.8 additional GW as the site scales toward 8GW total",
   "confidence": "low",
@@ -1227,6 +1292,7 @@
   "value": "$105.0B (ceiling) \u2014 Guarantee obligations \"capped at a total of $105 billion,\" becoming effective in phases as the leased data centers reach service readiness (first phase expected fiscal 2029); Nvidia also holds an option to extend credit support to roughly 3.8 additional GW as the site scales toward 8GW total"
  },
  {
+  "amount_usd": 1000000000,
   "as_of": "2026-08-20",
   "basis": "$1.0B \u2014 $1B investment in Poolside at a $12B pre-money valuation",
   "confidence": "high",
@@ -1246,6 +1312,7 @@
   "value": "$1.0B \u2014 $1B investment in Poolside at a $12B pre-money valuation"
  },
  {
+  "amount_usd": 6000000000,
   "as_of": "2026-08-20",
   "basis": "$6.0B \u2014 $6B non-exclusive license of Poolside's Model Factory training system; over 100 (109 per Bloomberg) Poolside engineers moving to Nvidia's Nemotron project; Poolside's three founders remain independent; shareholder letter describes this as \"not an acquisition and it is not an acquihire\"",
   "confidence": "high",
@@ -1265,6 +1332,7 @@
   "value": "$6.0B \u2014 $6B non-exclusive license of Poolside's Model Factory training system; over 100 (109 per Bloomberg) Poolside engineers moving to Nvidia's Nemotron project; Poolside's three founders remain independent; shareholder letter describes this as \"not an acquisition and it is not an acquihire\""
  },
  {
+  "amount_usd": 1500000000,
   "as_of": "2026-08-17",
   "basis": "$1.5B \u2014 NVIDIA will invest $1.5 billion in SB Energy, joining existing investors SoftBank Group and OpenAI",
   "confidence": "med",
@@ -1284,6 +1352,7 @@
   "value": "$1.5B \u2014 NVIDIA will invest $1.5 billion in SB Energy, joining existing investors SoftBank Group and OpenAI"
  },
  {
+  "amount_usd": null,
   "as_of": "2024-09-01",
   "basis": "100,000 H100 GPUs at initial online (~Sep 2024), built in ~122 days, doubled to ~200,000 GPUs within months; dollar value of the chip purchase not disclosed",
   "confidence": "med",
@@ -1303,6 +1372,7 @@
   "value": "100,000 H100 GPUs at initial online (~Sep 2024), built in ~122 days, doubled to ~200,000 GPUs within months; dollar value of the chip purchase not disclosed"
  },
  {
+  "amount_usd": null,
   "as_of": "2026-07-01",
   "basis": "6GW AMD Instinct deployment (first 1GW MI450 series, H2 2026); dollar price of the chip purchase not disclosed",
   "confidence": "med",
@@ -1322,6 +1392,7 @@
   "value": "6GW AMD Instinct deployment (first 1GW MI450 series, H2 2026); dollar price of the chip purchase not disclosed"
  },
  {
+  "amount_usd": 62700000,
   "as_of": "2024-04-24",
   "basis": "$62.7M \u2014 US$62.7M Series B round; \"more than US$1 billion\" valuation",
   "confidence": "high",
@@ -1341,6 +1412,7 @@
   "value": "$62.7M \u2014 US$62.7M Series B round; \"more than US$1 billion\" valuation"
  },
  {
+  "amount_usd": 17000000000,
   "as_of": "2021-11-23",
   "basis": "$17.0B \u2014 $17B original investment; later reported growth to $37-44B is unconfirmed on an official source this pass",
   "confidence": "med",
@@ -1360,6 +1432,7 @@
   "value": "$17.0B \u2014 $17B original investment; later reported growth to $37-44B is unconfirmed on an official source this pass"
  },
  {
+  "amount_usd": 4200000000,
   "as_of": "2025-01-01",
   "basis": "$4.2B \u2014 $4.2B new 765kV transmission line serving a planned ~10GW SB Energy datacenter campus in Piketon, OH",
   "confidence": "med",
@@ -1379,6 +1452,7 @@
   "value": "$4.2B \u2014 $4.2B new 765kV transmission line serving a planned ~10GW SB Energy datacenter campus in Piketon, OH"
  },
  {
+  "amount_usd": 38100000000,
   "as_of": "2027-07-01",
   "basis": "$38.1B \u2014 54 trillion won (~$38.1B) combined board-approved investment \u2014 35.2 trillion won for the Yongin Y2 fab + 19.1 trillion won for the Cheongju M17 fab",
   "confidence": "med",
@@ -1398,6 +1472,7 @@
   "value": "$38.1B \u2014 54 trillion won (~$38.1B) combined board-approved investment \u2014 35.2 trillion won for the Yongin Y2 fab + 19.1 trillion won for the Cheongju M17 fab"
  },
  {
+  "amount_usd": 52000000000,
   "as_of": "2025-01-21",
   "basis": "$52.0B \u2014 OpenAI and SoftBank each committed $19B (40% ownership each); Oracle and MGX each contributed $7B; sum $52B initial JV capital",
   "confidence": "high",
@@ -1417,6 +1492,7 @@
   "value": "$52.0B \u2014 OpenAI and SoftBank each committed $19B (40% ownership each); Oracle and MGX each contributed $7B; sum $52B initial JV capital"
  },
  {
+  "amount_usd": 180000000,
   "as_of": "2025-01-15",
   "basis": "$180.0M \u2014 $180M Series D, led by NEA, $2.1B valuation",
   "confidence": "med",
@@ -1436,6 +1512,7 @@
   "value": "$180.0M \u2014 $180M Series D, led by NEA, $2.1B valuation"
  },
  {
+  "amount_usd": 200000000,
   "as_of": "2026-01-26",
   "basis": "$200.0M \u2014 $200M Series E, led by GV (Google Ventures), $4B valuation",
   "confidence": "med",
@@ -1455,6 +1532,7 @@
   "value": "$200.0M \u2014 $200M Series E, led by GV (Google Ventures), $4B valuation"
  },
  {
+  "amount_usd": 305000000,
   "as_of": "2025-02-20",
   "basis": "$305.0M \u2014 $305M Series B at $3.3B valuation",
   "confidence": "med",
@@ -1474,6 +1552,7 @@
   "value": "$305.0M \u2014 $305M Series B at $3.3B valuation"
  },
  {
+  "amount_usd": 29400000000,
   "as_of": "2026-08-11",
   "basis": "$29.4B \u2014 Board-approved capital appropriations of roughly $29.4B for advanced-node capacity and packaging, cited to AI/HPC demand; approved alongside a Sony image-sensor joint venture and a Q2 dividend in the same board action",
   "confidence": "high",
@@ -1493,6 +1572,7 @@
   "value": "$29.4B \u2014 Board-approved capital appropriations of roughly $29.4B for advanced-node capacity and packaging, cited to AI/HPC demand; approved alongside a Sony image-sensor joint venture and a Q2 dividend in the same board action"
  },
  {
+  "amount_usd": null,
   "as_of": "2026-01-01",
   "basis": "derived range \u2014 10-20% of TSMC's $60-64B FY2026 capex guidance, bucketed with testing and mask-making, not a company-stated standalone figure",
   "confidence": "high",
@@ -1512,6 +1592,7 @@
   "value": "derived range \u2014 10-20% of TSMC's $60-64B FY2026 capex guidance, bucketed with testing and mask-making, not a company-stated standalone figure"
  },
  {
+  "amount_usd": 12000000000,
   "as_of": "2021-01-01",
   "basis": "$12.0B \u2014 $12B, 2021-2029",
   "confidence": "med",
@@ -1531,6 +1612,7 @@
   "value": "$12.0B \u2014 $12B, 2021-2029"
  },
  {
+  "amount_usd": 100000000000,
   "as_of": "2025-03-03",
   "basis": "$100.0B \u2014 additional $100B; brings total US commitment to ~$165B",
   "confidence": "low",
@@ -1550,6 +1632,7 @@
   "value": "$100.0B \u2014 additional $100B; brings total US commitment to ~$165B"
  },
  {
+  "amount_usd": 22000000000,
   "as_of": "2025-08-22",
   "basis": "$22.0B \u2014 JPMorgan Chase and MUFG \"in talks to underwrite\" a $22B loan for a Vantage Data Centers Texas megacampus \u2014 not confirmed closed",
   "confidence": "high",
@@ -1569,6 +1652,7 @@
   "value": "$22.0B \u2014 JPMorgan Chase and MUFG \"in talks to underwrite\" a $22B loan for a Vantage Data Centers Texas megacampus \u2014 not confirmed closed"
  },
  {
+  "amount_usd": 2000000000,
   "as_of": "2024-11-04",
   "basis": "$2.0B \u2014 $2B general-contractor/EPC contract, New Albany OH campus, 192MW, 1.5M+ sq ft, 70 acres \u2014 Vantage's first Midwest facility",
   "confidence": "med",
@@ -1588,6 +1672,7 @@
   "value": "$2.0B \u2014 $2B general-contractor/EPC contract, New Albany OH campus, 192MW, 1.5M+ sq ft, 70 acres \u2014 Vantage's first Midwest facility"
  },
  {
+  "amount_usd": 230000000,
   "as_of": "2024-09-13",
   "basis": "$230.0M \u2014 $230M raised across two rounds (not individually broken out by the source), valuation \"over $1B\"",
   "confidence": "high",
@@ -1607,6 +1692,7 @@
   "value": "$230.0M \u2014 $230M raised across two rounds (not individually broken out by the source), valuation \"over $1B\""
  },
  {
+  "amount_usd": null,
   "as_of": "2026-02-18",
   "basis": "$3.0B (floor) \u2014 at least $3B (Humain's own disclosed contribution); the round's total size is not stated in the source found",
   "confidence": "med",
