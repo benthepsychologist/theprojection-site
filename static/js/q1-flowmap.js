@@ -62,7 +62,7 @@
     var mx = (sx + tx) / 2;
     var path = document.createElementNS(svgNS, "path");
     path.setAttribute("d", "M" + sx + "," + sy + " C" + mx + "," + sy + " " + mx + "," + ty + " " + tx + "," + ty);
-    path.setAttribute("class", "fm-edge" + (e.total_amount ? "" : " fm-edge-thin") + (e.self_funded ? " fm-edge-internal" : ""));
+    path.setAttribute("class", "fm-edge" + (e.total_amount ? "" : " fm-edge-thin") + (e.vendor_unspecified ? " fm-edge-vendor-unspecified" : ""));
     path.dataset.source = e.source;
     path.dataset.target = e.target;
     g.appendChild(path);
@@ -144,7 +144,7 @@
       html += "<a href='#' class='fm-jump' data-id='" + escapeHtml(otherId) + "'>" + escapeHtml(other ? (other.facet_label || other.canonical_label || other.id) : otherId) + "</a>";
       if (e.total_amount) html += " <span class='fm-fa'>" + fmtAmount(e.total_amount) + "</span>";
       if (e.role) html += " <span class='fm-role'>(" + escapeHtml(e.role) + ")</span>";
-      if (e.self_funded) html += " <span class='fm-role'>(self-funded — same company, no external recipient named)</span>";
+      if (e.vendor_unspecified) html += " <span class='fm-role'>(paid to unnamed vendor(s) — this source doesn't say who)</span>";
       (e.flows || []).forEach(function (f) {
         html += "<div class='fm-flow-detail'>";
         if (f.amount) html += "<span class='fm-fa'>" + fmtAmount(f.amount) + (f.basis && f.basis !== "point" ? " (" + escapeHtml(f.basis) + ")" : "") + "</span> ";

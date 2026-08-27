@@ -8,1298 +8,1298 @@
    "id": "rel-knowledge-atom-kat-ent-ext-undisclosed-investors-xai-2023-formd-round-member-of-knowledge-atom-kat-evt-xai-2023-formd-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-ext-undisclosed-investors-xai-2023-formd-round",
    "target": "kat-evt-xai-2023-formd-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-lightspeed-capital-member-of-knowledge-atom-kat-evt-mistral-2023-seed-round",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-lightspeed-capital",
    "target": "kat-evt-mistral-2023-seed-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-redpoint-capital-member-of-knowledge-atom-kat-evt-mistral-2023-seed-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-redpoint-capital",
    "target": "kat-evt-mistral-2023-seed-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-index-ventures-capital-member-of-knowledge-atom-kat-evt-mistral-2023-seed-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-index-ventures-capital",
    "target": "kat-evt-mistral-2023-seed-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-xavier-niel-capital-member-of-knowledge-atom-kat-evt-mistral-2023-seed-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-xavier-niel-capital",
    "target": "kat-evt-mistral-2023-seed-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-bpifrance-capital-member-of-knowledge-atom-kat-evt-mistral-2023-seed-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-bpifrance-capital",
    "target": "kat-evt-mistral-2023-seed-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-eric-schmidt-capital-member-of-knowledge-atom-kat-evt-mistral-2023-seed-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-eric-schmidt-capital",
    "target": "kat-evt-mistral-2023-seed-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-microsoft-capital-member-of-knowledge-atom-kat-evt-inflection-2023-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-microsoft-capital",
    "target": "kat-evt-inflection-2023-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-inflection-2023-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-nvidia-capital",
    "target": "kat-evt-inflection-2023-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-reid-hoffman-capital-member-of-knowledge-atom-kat-evt-inflection-2023-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-reid-hoffman-capital",
    "target": "kat-evt-inflection-2023-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-bill-gates-capital-member-of-knowledge-atom-kat-evt-inflection-2023-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-bill-gates-capital",
    "target": "kat-evt-inflection-2023-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-eric-schmidt-capital-member-of-knowledge-atom-kat-evt-inflection-2023-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-eric-schmidt-capital",
    "target": "kat-evt-inflection-2023-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-psp-investments-capital-member-of-knowledge-atom-kat-evt-cohere-2024-series-d-round",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-psp-investments-capital",
    "target": "kat-evt-cohere-2024-series-d-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-cisco-capital-member-of-knowledge-atom-kat-evt-cohere-2024-series-d-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-cisco-capital",
    "target": "kat-evt-cohere-2024-series-d-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-fujitsu-capital-member-of-knowledge-atom-kat-evt-cohere-2024-series-d-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-fujitsu-capital",
    "target": "kat-evt-cohere-2024-series-d-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-amd-capital-member-of-knowledge-atom-kat-evt-cohere-2024-series-d-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-amd-capital",
    "target": "kat-evt-cohere-2024-series-d-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-edc-capital-member-of-knowledge-atom-kat-evt-cohere-2024-series-d-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-edc-capital",
    "target": "kat-evt-cohere-2024-series-d-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-cohere-2024-series-d-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-nvidia-capital",
    "target": "kat-evt-cohere-2024-series-d-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-salesforce-ventures-capital-member-of-knowledge-atom-kat-evt-cohere-2024-series-d-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-salesforce-ventures-capital",
    "target": "kat-evt-cohere-2024-series-d-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-radical-ventures-capital-member-of-knowledge-atom-kat-evt-cohere-2025-round",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-radical-ventures-capital",
    "target": "kat-evt-cohere-2025-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-inovia-capital-member-of-knowledge-atom-kat-evt-cohere-2025-round",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-inovia-capital",
    "target": "kat-evt-cohere-2025-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-amd-capital-member-of-knowledge-atom-kat-evt-cohere-2025-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-amd-capital",
    "target": "kat-evt-cohere-2025-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-cohere-2025-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-nvidia-capital",
    "target": "kat-evt-cohere-2025-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-psp-investments-capital-member-of-knowledge-atom-kat-evt-cohere-2025-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-psp-investments-capital",
    "target": "kat-evt-cohere-2025-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-salesforce-ventures-capital-member-of-knowledge-atom-kat-evt-cohere-2025-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-salesforce-ventures-capital",
    "target": "kat-evt-cohere-2025-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-asml-capital-member-of-knowledge-atom-kat-evt-mistral-2025-series-c-round",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-asml-capital",
    "target": "kat-evt-mistral-2025-series-c-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-dst-global-capital-member-of-knowledge-atom-kat-evt-mistral-2025-series-c-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-dst-global-capital",
    "target": "kat-evt-mistral-2025-series-c-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-a16z-capital-member-of-knowledge-atom-kat-evt-mistral-2025-series-c-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-a16z-capital",
    "target": "kat-evt-mistral-2025-series-c-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-bpifrance-capital-member-of-knowledge-atom-kat-evt-mistral-2025-series-c-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-bpifrance-capital",
    "target": "kat-evt-mistral-2025-series-c-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-general-catalyst-capital-member-of-knowledge-atom-kat-evt-mistral-2025-series-c-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-general-catalyst-capital",
    "target": "kat-evt-mistral-2025-series-c-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-index-ventures-capital-member-of-knowledge-atom-kat-evt-mistral-2025-series-c-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-index-ventures-capital",
    "target": "kat-evt-mistral-2025-series-c-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-lightspeed-capital-member-of-knowledge-atom-kat-evt-mistral-2025-series-c-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-lightspeed-capital",
    "target": "kat-evt-mistral-2025-series-c-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-mistral-2025-series-c-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-nvidia-capital",
    "target": "kat-evt-mistral-2025-series-c-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-founders-fund-capital-member-of-knowledge-atom-kat-evt-crusoe-2024-series-d-round",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-founders-fund-capital",
    "target": "kat-evt-crusoe-2024-series-d-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-fidelity-capital-member-of-knowledge-atom-kat-evt-crusoe-2024-series-d-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-fidelity-capital",
    "target": "kat-evt-crusoe-2024-series-d-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-long-journey-ventures-capital-member-of-knowledge-atom-kat-evt-crusoe-2024-series-d-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-long-journey-ventures-capital",
    "target": "kat-evt-crusoe-2024-series-d-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-mubadala-capital-member-of-knowledge-atom-kat-evt-crusoe-2024-series-d-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-mubadala-capital",
    "target": "kat-evt-crusoe-2024-series-d-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-crusoe-2024-series-d-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-nvidia-capital",
    "target": "kat-evt-crusoe-2024-series-d-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-ribbit-capital-capital-member-of-knowledge-atom-kat-evt-crusoe-2024-series-d-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-ribbit-capital-capital",
    "target": "kat-evt-crusoe-2024-series-d-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-valor-equity-partners-capital-member-of-knowledge-atom-kat-evt-crusoe-2024-series-d-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-valor-equity-partners-capital",
    "target": "kat-evt-crusoe-2024-series-d-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-a16z-capital-member-of-knowledge-atom-kat-evt-world-labs-2024-seed-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-a16z-capital",
    "target": "kat-evt-world-labs-2024-seed-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-nea-capital-member-of-knowledge-atom-kat-evt-world-labs-2024-seed-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-nea-capital",
    "target": "kat-evt-world-labs-2024-seed-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-radical-ventures-capital-member-of-knowledge-atom-kat-evt-world-labs-2024-seed-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-radical-ventures-capital",
    "target": "kat-evt-world-labs-2024-seed-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-marc-benioff-capital-member-of-knowledge-atom-kat-evt-world-labs-2024-seed-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-marc-benioff-capital",
    "target": "kat-evt-world-labs-2024-seed-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-world-labs-2024-seed-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-nvidia-capital",
    "target": "kat-evt-world-labs-2024-seed-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-general-catalyst-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-general-catalyst-capital",
    "target": "kat-evt-together-ai-2025-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-prosperity7-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-prosperity7-capital",
    "target": "kat-evt-together-ai-2025-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-salesforce-ventures-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-salesforce-ventures-capital",
    "target": "kat-evt-together-ai-2025-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-damac-capital-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-damac-capital-capital",
    "target": "kat-evt-together-ai-2025-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-nvidia-capital",
    "target": "kat-evt-together-ai-2025-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-kleiner-perkins-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-kleiner-perkins-capital",
    "target": "kat-evt-together-ai-2025-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-march-capital-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-march-capital-capital",
    "target": "kat-evt-together-ai-2025-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-emergence-capital-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-emergence-capital-capital",
    "target": "kat-evt-together-ai-2025-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-lux-capital-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-lux-capital-capital",
    "target": "kat-evt-together-ai-2025-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-se-ventures-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-se-ventures-capital",
    "target": "kat-evt-together-ai-2025-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-greycroft-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-greycroft-capital",
    "target": "kat-evt-together-ai-2025-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-coatue-capital-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-coatue-capital",
    "target": "kat-evt-together-ai-2025-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-ext-undisclosed-investors-together-ai-2025-series-b-round-member-of-knowledge-atom-kat-evt-together-ai-2025-series-b-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-ext-undisclosed-investors-together-ai-2025-series-b-round",
    "target": "kat-evt-together-ai-2025-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-accel-capital-member-of-knowledge-atom-kat-evt-nebius-2024-strategic-financing-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-accel-capital",
    "target": "kat-evt-nebius-2024-strategic-financing-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-nebius-2024-strategic-financing-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-nvidia-capital",
    "target": "kat-evt-nebius-2024-strategic-financing-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-orbis-investments-capital-member-of-knowledge-atom-kat-evt-nebius-2024-strategic-financing-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-orbis-investments-capital",
    "target": "kat-evt-nebius-2024-strategic-financing-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-usit-capital-member-of-knowledge-atom-kat-evt-lambda-2024-series-c-round",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-usit-capital",
    "target": "kat-evt-lambda-2024-series-c-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-b-capital-capital-member-of-knowledge-atom-kat-evt-lambda-2024-series-c-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-b-capital-capital",
    "target": "kat-evt-lambda-2024-series-c-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-sk-telecom-capital-member-of-knowledge-atom-kat-evt-lambda-2024-series-c-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-sk-telecom-capital",
    "target": "kat-evt-lambda-2024-series-c-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-t-rowe-price-capital-member-of-knowledge-atom-kat-evt-lambda-2024-series-c-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-t-rowe-price-capital",
    "target": "kat-evt-lambda-2024-series-c-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-daniel-gross-capital-member-of-knowledge-atom-kat-evt-perplexity-2024-series-b-round",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-daniel-gross-capital",
    "target": "kat-evt-perplexity-2024-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-jeff-bezos-capital-member-of-knowledge-atom-kat-evt-perplexity-2024-series-b-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-jeff-bezos-capital",
    "target": "kat-evt-perplexity-2024-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-perplexity-2024-series-b-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-nvidia-capital",
    "target": "kat-evt-perplexity-2024-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-tobi-lutke-capital-member-of-knowledge-atom-kat-evt-perplexity-2024-series-b-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-tobi-lutke-capital",
    "target": "kat-evt-perplexity-2024-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-elad-gil-capital-member-of-knowledge-atom-kat-evt-perplexity-2024-series-b-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-elad-gil-capital",
    "target": "kat-evt-perplexity-2024-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-nat-friedman-capital-member-of-knowledge-atom-kat-evt-perplexity-2024-series-b-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-nat-friedman-capital",
    "target": "kat-evt-perplexity-2024-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-naval-ravikant-capital-member-of-knowledge-atom-kat-evt-perplexity-2024-series-b-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-naval-ravikant-capital",
    "target": "kat-evt-perplexity-2024-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-andrej-karpathy-capital-member-of-knowledge-atom-kat-evt-perplexity-2024-series-b-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-andrej-karpathy-capital",
    "target": "kat-evt-perplexity-2024-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-ivp-capital-member-of-knowledge-atom-kat-evt-perplexity-2024-series-b-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-ivp-capital",
    "target": "kat-evt-perplexity-2024-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-nea-capital-member-of-knowledge-atom-kat-evt-perplexity-2024-series-b-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-nea-capital",
    "target": "kat-evt-perplexity-2024-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-thrive-capital-capital-member-of-knowledge-atom-kat-evt-anysphere-2024-series-b-round",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-thrive-capital-capital",
    "target": "kat-evt-anysphere-2024-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-ext-undisclosed-investors-anysphere-2024-series-b-round-member-of-knowledge-atom-kat-evt-anysphere-2024-series-b-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-ext-undisclosed-investors-anysphere-2024-series-b-round",
    "target": "kat-evt-anysphere-2024-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-blue-owl-capital-capital-member-of-knowledge-atom-kat-evt-crusoe-2024-abilene-jv-financing",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-blue-owl-capital-capital",
    "target": "kat-evt-crusoe-2024-abilene-jv-financing",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-primary-digital-infrastructure-capital-member-of-knowledge-atom-kat-evt-crusoe-2024-abilene-jv-financing",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-primary-digital-infrastructure-capital",
    "target": "kat-evt-crusoe-2024-abilene-jv-financing",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-blue-owl-capital-capital-member-of-knowledge-atom-kat-evt-crusoe-2025-abilene-phase2-financing",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-blue-owl-capital-capital",
    "target": "kat-evt-crusoe-2025-abilene-phase2-financing",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-primary-digital-infrastructure-capital-member-of-knowledge-atom-kat-evt-crusoe-2025-abilene-phase2-financing",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-primary-digital-infrastructure-capital",
    "target": "kat-evt-crusoe-2025-abilene-phase2-financing",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-blackstone-capital-member-of-knowledge-atom-kat-evt-coreweave-2023-blackstone-magnetar-facility",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-blackstone-capital",
    "target": "kat-evt-coreweave-2023-blackstone-magnetar-facility",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-magnetar-capital-capital-member-of-knowledge-atom-kat-evt-coreweave-2023-blackstone-magnetar-facility",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-magnetar-capital-capital",
    "target": "kat-evt-coreweave-2023-blackstone-magnetar-facility",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-coatue-capital-member-of-knowledge-atom-kat-evt-coreweave-2023-blackstone-magnetar-facility",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-coatue-capital",
    "target": "kat-evt-coreweave-2023-blackstone-magnetar-facility",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-digitalbridge-capital-member-of-knowledge-atom-kat-evt-coreweave-2023-blackstone-magnetar-facility",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-digitalbridge-capital",
    "target": "kat-evt-coreweave-2023-blackstone-magnetar-facility",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-blackrock-capital-member-of-knowledge-atom-kat-evt-coreweave-2023-blackstone-magnetar-facility",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-blackrock-capital",
    "target": "kat-evt-coreweave-2023-blackstone-magnetar-facility",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-pimco-capital-member-of-knowledge-atom-kat-evt-coreweave-2023-blackstone-magnetar-facility",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-pimco-capital",
    "target": "kat-evt-coreweave-2023-blackstone-magnetar-facility",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-carlyle-capital-member-of-knowledge-atom-kat-evt-coreweave-2023-blackstone-magnetar-facility",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-carlyle-capital",
    "target": "kat-evt-coreweave-2023-blackstone-magnetar-facility",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-great-elm-capital-member-of-knowledge-atom-kat-evt-coreweave-2023-blackstone-magnetar-facility",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-great-elm-capital",
    "target": "kat-evt-coreweave-2023-blackstone-magnetar-facility",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-jpmorgan-chase-capital-member-of-knowledge-atom-kat-evt-coreweave-2026-ddtl55-facility",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-jpmorgan-chase-capital",
    "target": "kat-evt-coreweave-2026-ddtl55-facility",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-mufg-capital-member-of-knowledge-atom-kat-evt-coreweave-2026-ddtl55-facility",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-mufg-capital",
    "target": "kat-evt-coreweave-2026-ddtl55-facility",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-ext-undisclosed-lenders-coreweave-2025-ddtl5-amendment-member-of-knowledge-atom-kat-evt-coreweave-2025-ddtl5-amendment",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-ext-undisclosed-lenders-coreweave-2025-ddtl5-amendment",
    "target": "kat-evt-coreweave-2025-ddtl5-amendment",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-jpmorgan-chase-capital-member-of-knowledge-atom-kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-jpmorgan-chase-capital",
    "target": "kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-mufg-capital-member-of-knowledge-atom-kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-mufg-capital",
    "target": "kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-openai-capital-member-of-knowledge-atom-kat-evt-stargate-2025-jv-financing",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-openai-capital",
    "target": "kat-evt-stargate-2025-jv-financing",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-softbank-capital-member-of-knowledge-atom-kat-evt-stargate-2025-jv-financing",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-softbank-capital",
    "target": "kat-evt-stargate-2025-jv-financing",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-oracle-capital-member-of-knowledge-atom-kat-evt-stargate-2025-jv-financing",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-oracle-capital",
    "target": "kat-evt-stargate-2025-jv-financing",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-mgx-capital-member-of-knowledge-atom-kat-evt-stargate-2025-jv-financing",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-mgx-capital",
    "target": "kat-evt-stargate-2025-jv-financing",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-alibaba-capital-member-of-knowledge-atom-kat-evt-moonshot-ai-2024-02-alibaba-round",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-alibaba-capital",
    "target": "kat-evt-moonshot-ai-2024-02-alibaba-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-hongshan-capital-member-of-knowledge-atom-kat-evt-moonshot-ai-2024-02-alibaba-round",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-hongshan-capital",
    "target": "kat-evt-moonshot-ai-2024-02-alibaba-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-tencent-capital-member-of-knowledge-atom-kat-evt-moonshot-ai-2024-08-series-b-round",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-tencent-capital",
    "target": "kat-evt-moonshot-ai-2024-08-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-gaorong-capital-capital-member-of-knowledge-atom-kat-evt-moonshot-ai-2024-08-series-b-round",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-gaorong-capital-capital",
    "target": "kat-evt-moonshot-ai-2024-08-series-b-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-prima-materia-capital-member-of-knowledge-atom-kat-evt-helsing-2025-series-d-round",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-prima-materia-capital",
    "target": "kat-evt-helsing-2025-series-d-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-nea-capital-member-of-knowledge-atom-kat-evt-synthesia-2025-series-d-round",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-nea-capital",
    "target": "kat-evt-synthesia-2025-series-d-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-google-ventures-capital-member-of-knowledge-atom-kat-evt-synthesia-2026-series-e-round",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-google-ventures-capital",
    "target": "kat-evt-synthesia-2026-series-e-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-synthesia-2026-series-e-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-nvidia-capital",
    "target": "kat-evt-synthesia-2026-series-e-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-accel-capital-member-of-knowledge-atom-kat-evt-synthesia-2026-series-e-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-accel-capital",
    "target": "kat-evt-synthesia-2026-series-e-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-kleiner-perkins-capital-member-of-knowledge-atom-kat-evt-synthesia-2026-series-e-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-kleiner-perkins-capital",
    "target": "kat-evt-synthesia-2026-series-e-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-nea-capital-member-of-knowledge-atom-kat-evt-synthesia-2026-series-e-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-nea-capital",
    "target": "kat-evt-synthesia-2026-series-e-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-psp-investments-capital-member-of-knowledge-atom-kat-evt-synthesia-2026-series-e-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-psp-investments-capital",
    "target": "kat-evt-synthesia-2026-series-e-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-air-street-capital-capital-member-of-knowledge-atom-kat-evt-synthesia-2026-series-e-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-air-street-capital-capital",
    "target": "kat-evt-synthesia-2026-series-e-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-firstmark-capital-member-of-knowledge-atom-kat-evt-synthesia-2026-series-e-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-firstmark-capital",
    "target": "kat-evt-synthesia-2026-series-e-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-mmc-ventures-capital-member-of-knowledge-atom-kat-evt-synthesia-2026-series-e-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-mmc-ventures-capital",
    "target": "kat-evt-synthesia-2026-series-e-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-humain-capital-member-of-knowledge-atom-kat-evt-xai-2026-series-e-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-humain-capital",
    "target": "kat-evt-xai-2026-series-e-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-ext-apollo-global-management-member-of-knowledge-atom-kat-evt-broadcom-2026-anthropic-spv-facility",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-ext-apollo-global-management",
    "target": "kat-evt-broadcom-2026-anthropic-spv-facility",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-blackstone-capital-member-of-knowledge-atom-kat-evt-broadcom-2026-anthropic-spv-facility",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-blackstone-capital",
    "target": "kat-evt-broadcom-2026-anthropic-spv-facility",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-disruptive-capital-member-of-knowledge-atom-kat-evt-groq-2026-series-a-round",
    "note": null,
    "role": "lead",
-   "self_funded": false,
    "source": "kat-ent-disruptive-capital",
    "target": "kat-evt-groq-2026-series-a-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [],
    "id": "rel-knowledge-atom-kat-ent-nvidia-capital-member-of-knowledge-atom-kat-evt-groq-2026-series-a-round",
    "note": null,
    "role": "participant",
-   "self_funded": false,
    "source": "kat-ent-nvidia-capital",
    "target": "kat-evt-groq-2026-series-a-round",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1346,11 +1346,11 @@
    "id": "rel-knowledge-atom-kat-ent-tsmc-capital-funds-knowledge-atom-kat-ent-tsmc-foundry-construction",
    "note": "Merged 3 funds rows during entity-reconciliation cleanup (2026-08-27) -- this entity pair has 3 distinct financings; P-01 says list them.",
    "role": null,
-   "self_funded": true,
    "source": "kat-ent-tsmc-capital",
    "target": "kat-ent-tsmc-foundry-construction",
    "total_amount": 141400000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": true
   },
   {
    "flows": [
@@ -1371,11 +1371,11 @@
    "id": "rel-knowledge-atom-kat-ent-ext-public-equity-market-funds-knowledge-atom-kat-ent-coreweave-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-ext-public-equity-market",
    "target": "kat-ent-coreweave-capital",
    "total_amount": 1500000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1396,11 +1396,11 @@
    "id": "rel-knowledge-atom-kat-ent-openai-datacenter-operation-funds-knowledge-atom-kat-ent-amd-chip-design",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-openai-datacenter-operation",
    "target": "kat-ent-amd-chip-design",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1421,11 +1421,11 @@
    "id": "rel-knowledge-atom-kat-ent-amd-chip-design-funds-knowledge-atom-kat-ent-openai-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-amd-chip-design",
    "target": "kat-ent-openai-capital",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1446,11 +1446,11 @@
    "id": "rel-knowledge-atom-kat-ent-anthropic-model-training-funds-knowledge-atom-kat-ent-google-cloud-capacity",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-anthropic-model-training",
    "target": "kat-ent-google-cloud-capacity",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1471,11 +1471,11 @@
    "id": "rel-knowledge-atom-kat-evt-xai-2023-formd-round-funds-knowledge-atom-kat-ent-xai-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-xai-2023-formd-round",
    "target": "kat-ent-xai-capital",
    "total_amount": 134700000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1507,11 +1507,11 @@
    "id": "rel-knowledge-atom-kat-ent-amazon-capital-funds-knowledge-atom-kat-ent-anthropic-capital",
    "note": "Merged 2 funds rows during entity-reconciliation cleanup (2026-08-27) -- this entity pair has 2 distinct financings; P-01 says list them.",
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-amazon-capital",
    "target": "kat-ent-anthropic-capital",
    "total_amount": 8000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1532,11 +1532,11 @@
    "id": "rel-knowledge-atom-kat-ent-google-capital-funds-knowledge-atom-kat-ent-anthropic-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-google-capital",
    "target": "kat-ent-anthropic-capital",
    "total_amount": 300000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1557,11 +1557,11 @@
    "id": "rel-knowledge-atom-kat-evt-mistral-2023-seed-round-funds-knowledge-atom-kat-ent-mistral-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-mistral-2023-seed-round",
    "target": "kat-ent-mistral-capital",
    "total_amount": 113000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1582,11 +1582,11 @@
    "id": "rel-knowledge-atom-kat-evt-inflection-2023-round-funds-knowledge-atom-kat-ent-inflection-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-inflection-2023-round",
    "target": "kat-ent-inflection-capital",
    "total_amount": 1300000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1607,11 +1607,11 @@
    "id": "rel-knowledge-atom-kat-evt-cohere-2024-series-d-round-funds-knowledge-atom-kat-ent-cohere-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-cohere-2024-series-d-round",
    "target": "kat-ent-cohere-capital",
    "total_amount": 500000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1632,11 +1632,11 @@
    "id": "rel-knowledge-atom-kat-evt-cohere-2025-round-funds-knowledge-atom-kat-ent-cohere-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-cohere-2025-round",
    "target": "kat-ent-cohere-capital",
    "total_amount": 500000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1657,11 +1657,11 @@
    "id": "rel-knowledge-atom-kat-ent-nvidia-chip-design-funds-knowledge-atom-kat-ent-xai-datacenter-operation",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-nvidia-chip-design",
    "target": "kat-ent-xai-datacenter-operation",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1682,11 +1682,11 @@
    "id": "rel-knowledge-atom-kat-ent-anthropic-model-training-funds-knowledge-atom-kat-ent-xai-datacenter-operation",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-anthropic-model-training",
    "target": "kat-ent-xai-datacenter-operation",
    "total_amount": 1250000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1707,11 +1707,11 @@
    "id": "rel-knowledge-atom-kat-ent-google-ai-compute-procurement-funds-knowledge-atom-kat-ent-xai-datacenter-operation",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-google-ai-compute-procurement",
    "target": "kat-ent-xai-datacenter-operation",
    "total_amount": 920000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1732,11 +1732,11 @@
    "id": "rel-knowledge-atom-kat-evt-mistral-2025-series-c-round-funds-knowledge-atom-kat-ent-mistral-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-mistral-2025-series-c-round",
    "target": "kat-ent-mistral-capital",
    "total_amount": 1989000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1757,11 +1757,11 @@
    "id": "rel-knowledge-atom-kat-evt-crusoe-2024-series-d-round-funds-knowledge-atom-kat-ent-crusoe-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-crusoe-2024-series-d-round",
    "target": "kat-ent-crusoe-capital",
    "total_amount": 600000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1782,11 +1782,11 @@
    "id": "rel-knowledge-atom-kat-evt-world-labs-2024-seed-round-funds-knowledge-atom-kat-ent-world-labs-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-world-labs-2024-seed-round",
    "target": "kat-ent-world-labs-capital",
    "total_amount": 230000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1807,11 +1807,11 @@
    "id": "rel-knowledge-atom-kat-evt-together-ai-2025-series-b-round-funds-knowledge-atom-kat-ent-together-ai-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-together-ai-2025-series-b-round",
    "target": "kat-ent-together-ai-capital",
    "total_amount": 305000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1832,11 +1832,11 @@
    "id": "rel-knowledge-atom-kat-evt-nebius-2024-strategic-financing-round-funds-knowledge-atom-kat-ent-nebius-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-nebius-2024-strategic-financing-round",
    "target": "kat-ent-nebius-capital",
    "total_amount": 700000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1857,11 +1857,11 @@
    "id": "rel-knowledge-atom-kat-evt-lambda-2024-series-c-round-funds-knowledge-atom-kat-ent-lambda-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-lambda-2024-series-c-round",
    "target": "kat-ent-lambda-capital",
    "total_amount": 320000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1882,11 +1882,11 @@
    "id": "rel-knowledge-atom-kat-evt-perplexity-2024-series-b-round-funds-knowledge-atom-kat-ent-perplexity-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-perplexity-2024-series-b-round",
    "target": "kat-ent-perplexity-capital",
    "total_amount": 62700000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1907,11 +1907,11 @@
    "id": "rel-knowledge-atom-kat-evt-anysphere-2024-series-b-round-funds-knowledge-atom-kat-ent-anysphere-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-anysphere-2024-series-b-round",
    "target": "kat-ent-anysphere-capital",
    "total_amount": 105000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -1932,11 +1932,11 @@
    "id": "rel-knowledge-atom-kat-ent-sk-hynix-capital-funds-knowledge-atom-kat-ent-sk-hynix-memory-fab-construction",
    "note": null,
    "role": null,
-   "self_funded": true,
    "source": "kat-ent-sk-hynix-capital",
    "target": "kat-ent-sk-hynix-memory-fab-construction",
    "total_amount": 38100000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": true
   },
   {
    "flows": [
@@ -1957,11 +1957,11 @@
    "id": "rel-knowledge-atom-kat-ent-micron-capital-funds-knowledge-atom-kat-ent-micron-hbm-packaging-construction",
    "note": null,
    "role": null,
-   "self_funded": true,
    "source": "kat-ent-micron-capital",
    "target": "kat-ent-micron-hbm-packaging-construction",
    "total_amount": 7000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": true
   },
   {
    "flows": [
@@ -1982,11 +1982,11 @@
    "id": "rel-knowledge-atom-kat-ent-micron-capital-funds-knowledge-atom-kat-ent-micron-memory-fab-construction",
    "note": null,
    "role": null,
-   "self_funded": true,
    "source": "kat-ent-micron-capital",
    "target": "kat-ent-micron-memory-fab-construction",
    "total_amount": 15000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": true
   },
   {
    "flows": [
@@ -2007,11 +2007,11 @@
    "id": "rel-knowledge-atom-kat-ent-samsung-capital-funds-knowledge-atom-kat-ent-samsung-foundry-construction",
    "note": null,
    "role": null,
-   "self_funded": true,
    "source": "kat-ent-samsung-capital",
    "target": "kat-ent-samsung-foundry-construction",
    "total_amount": 17000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": true
   },
   {
    "flows": [
@@ -2032,11 +2032,11 @@
    "id": "rel-knowledge-atom-kat-ent-ext-us-government-funds-knowledge-atom-kat-ent-intel-foundry-construction",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-ext-us-government",
    "target": "kat-ent-intel-foundry-construction",
    "total_amount": 7860000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2057,11 +2057,11 @@
    "id": "rel-knowledge-atom-kat-ent-nvidia-ai-compute-procurement-funds-knowledge-atom-kat-ent-amkor-packaging-assembly",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-nvidia-ai-compute-procurement",
    "target": "kat-ent-amkor-packaging-assembly",
    "total_amount": 1500000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2082,11 +2082,11 @@
    "id": "rel-knowledge-atom-kat-ent-amkor-capital-funds-knowledge-atom-kat-ent-amkor-packaging-construction",
    "note": null,
    "role": null,
-   "self_funded": true,
    "source": "kat-ent-amkor-capital",
    "target": "kat-ent-amkor-packaging-construction",
    "total_amount": 7000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": true
   },
   {
    "flows": [
@@ -2107,11 +2107,11 @@
    "id": "rel-knowledge-atom-kat-ent-tsmc-capital-funds-knowledge-atom-kat-ent-tsmc-advanced-packaging-construction",
    "note": null,
    "role": null,
-   "self_funded": true,
    "source": "kat-ent-tsmc-capital",
    "target": "kat-ent-tsmc-advanced-packaging-construction",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": true
   },
   {
    "flows": [
@@ -2132,11 +2132,11 @@
    "id": "rel-knowledge-atom-kat-ent-ase-capital-funds-knowledge-atom-kat-ent-ase-packaging-construction",
    "note": null,
    "role": null,
-   "self_funded": true,
    "source": "kat-ent-ase-capital",
    "target": "kat-ent-ase-packaging-construction",
    "total_amount": 10500000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": true
   },
   {
    "flows": [
@@ -2157,11 +2157,11 @@
    "id": "rel-knowledge-atom-kat-ent-nvidia-capital-funds-knowledge-atom-kat-ent-coherent-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-nvidia-capital",
    "target": "kat-ent-coherent-capital",
    "total_amount": 2000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2182,11 +2182,11 @@
    "id": "rel-knowledge-atom-kat-ent-nvidia-ai-compute-procurement-funds-knowledge-atom-kat-ent-coherent-optical-components",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-nvidia-ai-compute-procurement",
    "target": "kat-ent-coherent-optical-components",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2207,11 +2207,11 @@
    "id": "rel-knowledge-atom-kat-ent-nvidia-capital-funds-knowledge-atom-kat-ent-lumentum-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-nvidia-capital",
    "target": "kat-ent-lumentum-capital",
    "total_amount": 2000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2232,11 +2232,11 @@
    "id": "rel-knowledge-atom-kat-ent-nvidia-ai-compute-procurement-funds-knowledge-atom-kat-ent-lumentum-optical-components",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-nvidia-ai-compute-procurement",
    "target": "kat-ent-lumentum-optical-components",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2257,11 +2257,11 @@
    "id": "rel-knowledge-atom-kat-evt-crusoe-2024-abilene-jv-financing-funds-knowledge-atom-kat-ent-crusoe-datacenter-construction",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-crusoe-2024-abilene-jv-financing",
    "target": "kat-ent-crusoe-datacenter-construction",
    "total_amount": 3400000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2282,11 +2282,11 @@
    "id": "rel-knowledge-atom-kat-ent-jpmorgan-chase-capital-funds-knowledge-atom-kat-ent-crusoe-datacenter-construction",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-jpmorgan-chase-capital",
    "target": "kat-ent-crusoe-datacenter-construction",
    "total_amount": 2300000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2307,11 +2307,11 @@
    "id": "rel-knowledge-atom-kat-evt-crusoe-2025-abilene-phase2-financing-funds-knowledge-atom-kat-ent-crusoe-datacenter-construction",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-crusoe-2025-abilene-phase2-financing",
    "target": "kat-ent-crusoe-datacenter-construction",
    "total_amount": 15000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2332,11 +2332,11 @@
    "id": "rel-knowledge-atom-kat-ent-core-scientific-capital-funds-knowledge-atom-kat-ent-core-scientific-datacenter-construction",
    "note": null,
    "role": null,
-   "self_funded": true,
    "source": "kat-ent-core-scientific-capital",
    "target": "kat-ent-core-scientific-datacenter-construction",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": true
   },
   {
    "flows": [
@@ -2357,11 +2357,11 @@
    "id": "rel-knowledge-atom-kat-ent-coreweave-datacenter-operation-funds-knowledge-atom-kat-ent-core-scientific-datacenter-construction",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-coreweave-datacenter-operation",
    "target": "kat-ent-core-scientific-datacenter-construction",
    "total_amount": 104000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2382,11 +2382,11 @@
    "id": "rel-knowledge-atom-kat-ent-vantage-data-centers-capital-funds-knowledge-atom-kat-ent-turner-construction-epc-services",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-vantage-data-centers-capital",
    "target": "kat-ent-turner-construction-epc-services",
    "total_amount": 2000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2407,11 +2407,11 @@
    "id": "rel-knowledge-atom-kat-ent-sb-energy-datacenter-operation-funds-knowledge-atom-kat-ent-aep-ohio-grid-interconnection",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-sb-energy-datacenter-operation",
    "target": "kat-ent-aep-ohio-grid-interconnection",
    "total_amount": 4200000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2432,11 +2432,11 @@
    "id": "rel-knowledge-atom-kat-ent-meta-datacenter-operation-funds-knowledge-atom-kat-ent-entergy-louisiana-grid-interconnection",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-meta-datacenter-operation",
    "target": "kat-ent-entergy-louisiana-grid-interconnection",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2457,11 +2457,11 @@
    "id": "rel-knowledge-atom-kat-ent-crusoe-capital-funds-knowledge-atom-kat-ent-ge-vernova-turbine-manufacturing",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-crusoe-capital",
    "target": "kat-ent-ge-vernova-turbine-manufacturing",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2482,11 +2482,11 @@
    "id": "rel-knowledge-atom-kat-ent-amazon-ai-compute-procurement-funds-knowledge-atom-kat-ent-talen-energy-power-generation",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-amazon-ai-compute-procurement",
    "target": "kat-ent-talen-energy-power-generation",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2507,11 +2507,11 @@
    "id": "rel-knowledge-atom-kat-ent-microsoft-ai-compute-procurement-funds-knowledge-atom-kat-ent-constellation-energy-power-generation",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-microsoft-ai-compute-procurement",
    "target": "kat-ent-constellation-energy-power-generation",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2532,11 +2532,11 @@
    "id": "rel-knowledge-atom-kat-evt-coreweave-2023-blackstone-magnetar-facility-funds-knowledge-atom-kat-ent-coreweave-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-coreweave-2023-blackstone-magnetar-facility",
    "target": "kat-ent-coreweave-capital",
    "total_amount": 2300000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2557,11 +2557,11 @@
    "id": "rel-knowledge-atom-kat-evt-coreweave-2026-ddtl55-facility-funds-knowledge-atom-kat-ent-coreweave-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-coreweave-2026-ddtl55-facility",
    "target": "kat-ent-coreweave-capital",
    "total_amount": 2600000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2582,11 +2582,11 @@
    "id": "rel-knowledge-atom-kat-evt-coreweave-2025-ddtl5-amendment-funds-knowledge-atom-kat-ent-coreweave-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-coreweave-2025-ddtl5-amendment",
    "target": "kat-ent-coreweave-capital",
    "total_amount": 3000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2607,11 +2607,11 @@
    "id": "rel-knowledge-atom-kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility-funds-knowledge-atom-kat-ent-vantage-data-centers-datacenter-construction",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility",
    "target": "kat-ent-vantage-data-centers-datacenter-construction",
    "total_amount": 22000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2632,11 +2632,11 @@
    "id": "rel-knowledge-atom-kat-evt-stargate-2025-jv-financing-funds-knowledge-atom-kat-ent-stargate-datacenter-construction",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-stargate-2025-jv-financing",
    "target": "kat-ent-stargate-datacenter-construction",
    "total_amount": 52000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2657,11 +2657,11 @@
    "id": "rel-knowledge-atom-kat-ent-ext-bond-market-funds-knowledge-atom-kat-ent-coreweave-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-ext-bond-market",
    "target": "kat-ent-coreweave-capital",
    "total_amount": 1750000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2682,11 +2682,11 @@
    "id": "rel-knowledge-atom-kat-ent-ext-bond-market-funds-knowledge-atom-kat-ent-meta-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-ext-bond-market",
    "target": "kat-ent-meta-capital",
    "total_amount": 30000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2707,11 +2707,11 @@
    "id": "rel-knowledge-atom-kat-ent-blue-owl-capital-capital-funds-knowledge-atom-kat-ent-meta-datacenter-construction",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-blue-owl-capital-capital",
    "target": "kat-ent-meta-datacenter-construction",
    "total_amount": 7000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2732,11 +2732,11 @@
    "id": "rel-knowledge-atom-kat-ent-ext-bond-market-funds-knowledge-atom-kat-ent-oracle-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-ext-bond-market",
    "target": "kat-ent-oracle-capital",
    "total_amount": 25000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2757,11 +2757,11 @@
    "id": "rel-knowledge-atom-kat-ent-ext-public-equity-market-funds-knowledge-atom-kat-ent-oracle-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-ext-public-equity-market",
    "target": "kat-ent-oracle-capital",
    "total_amount": 5000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2782,11 +2782,11 @@
    "id": "rel-knowledge-atom-kat-evt-moonshot-ai-2024-02-alibaba-round-funds-knowledge-atom-kat-ent-moonshot-ai-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-moonshot-ai-2024-02-alibaba-round",
    "target": "kat-ent-moonshot-ai-capital",
    "total_amount": 1000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2807,11 +2807,11 @@
    "id": "rel-knowledge-atom-kat-evt-moonshot-ai-2024-08-series-b-round-funds-knowledge-atom-kat-ent-moonshot-ai-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-moonshot-ai-2024-08-series-b-round",
    "target": "kat-ent-moonshot-ai-capital",
    "total_amount": 300000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2832,11 +2832,11 @@
    "id": "rel-knowledge-atom-kat-evt-helsing-2025-series-d-round-funds-knowledge-atom-kat-ent-helsing-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-helsing-2025-series-d-round",
    "target": "kat-ent-helsing-capital",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2857,11 +2857,11 @@
    "id": "rel-knowledge-atom-kat-evt-synthesia-2025-series-d-round-funds-knowledge-atom-kat-ent-synthesia-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-synthesia-2025-series-d-round",
    "target": "kat-ent-synthesia-capital",
    "total_amount": 180000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2882,11 +2882,11 @@
    "id": "rel-knowledge-atom-kat-evt-synthesia-2026-series-e-round-funds-knowledge-atom-kat-ent-synthesia-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-synthesia-2026-series-e-round",
    "target": "kat-ent-synthesia-capital",
    "total_amount": 200000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2907,11 +2907,11 @@
    "id": "rel-knowledge-atom-kat-ent-microsoft-capital-funds-knowledge-atom-kat-ent-g42-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-microsoft-capital",
    "target": "kat-ent-g42-capital",
    "total_amount": 1500000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2932,11 +2932,11 @@
    "id": "rel-knowledge-atom-kat-evt-xai-2026-series-e-round-funds-knowledge-atom-kat-ent-xai-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-xai-2026-series-e-round",
    "target": "kat-ent-xai-capital",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2957,11 +2957,11 @@
    "id": "rel-knowledge-atom-kat-ent-ext-public-equity-market-funds-knowledge-atom-kat-ent-intel-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-ext-public-equity-market",
    "target": "kat-ent-intel-capital",
    "total_amount": 20000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -2982,11 +2982,11 @@
    "id": "rel-knowledge-atom-kat-evt-coreweave-2026-q2-ddtl-facility-funds-knowledge-atom-kat-ent-coreweave-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-coreweave-2026-q2-ddtl-facility",
    "target": "kat-ent-coreweave-capital",
    "total_amount": 3100000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -3007,11 +3007,11 @@
    "id": "rel-knowledge-atom-kat-evt-lambda-2026-leveraged-loan-funds-knowledge-atom-kat-ent-lambda-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-lambda-2026-leveraged-loan",
    "target": "kat-ent-lambda-capital",
    "total_amount": 917000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -3032,11 +3032,11 @@
    "id": "rel-knowledge-atom-kat-ent-ext-bond-market-funds-knowledge-atom-kat-ent-google-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-ext-bond-market",
    "target": "kat-ent-google-capital",
    "total_amount": 25000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -3057,11 +3057,11 @@
    "id": "rel-knowledge-atom-kat-ent-nvidia-capital-funds-knowledge-atom-kat-evt-nvidia-2026-compute-financing-platforms",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-nvidia-capital",
    "target": "kat-evt-nvidia-2026-compute-financing-platforms",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -3082,11 +3082,11 @@
    "id": "rel-knowledge-atom-kat-ent-nvidia-capital-funds-knowledge-atom-kat-ent-openai-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-nvidia-capital",
    "target": "kat-ent-openai-capital",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -3107,11 +3107,11 @@
    "id": "rel-knowledge-atom-kat-ent-nvidia-capital-funds-knowledge-atom-kat-ent-sb-energy-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-nvidia-capital",
    "target": "kat-ent-sb-energy-capital",
    "total_amount": 1500000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -3132,11 +3132,11 @@
    "id": "rel-knowledge-atom-kat-ent-nvidia-capital-funds-knowledge-atom-kat-ent-poolside-model-training",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-nvidia-capital",
    "target": "kat-ent-poolside-model-training",
    "total_amount": 6000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -3157,11 +3157,11 @@
    "id": "rel-knowledge-atom-kat-ent-nvidia-capital-funds-knowledge-atom-kat-ent-poolside-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-nvidia-capital",
    "target": "kat-ent-poolside-capital",
    "total_amount": 1000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -3182,11 +3182,11 @@
    "id": "rel-knowledge-atom-kat-evt-broadcom-2026-anthropic-spv-facility-funds-knowledge-atom-kat-ent-broadcom-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-broadcom-2026-anthropic-spv-facility",
    "target": "kat-ent-broadcom-capital",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -3207,11 +3207,11 @@
    "id": "rel-knowledge-atom-kat-ent-anthropic-model-training-funds-knowledge-atom-kat-ent-nscale-datacenter-operation",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-anthropic-model-training",
    "target": "kat-ent-nscale-datacenter-operation",
    "total_amount": 45000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -3232,11 +3232,11 @@
    "id": "rel-knowledge-atom-kat-evt-groq-2026-series-a-round-funds-knowledge-atom-kat-ent-groq-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-evt-groq-2026-series-a-round",
    "target": "kat-ent-groq-capital",
    "total_amount": 350000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -3257,11 +3257,11 @@
    "id": "rel-knowledge-atom-kat-ent-nvidia-capital-funds-knowledge-atom-kat-ent-lancium-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-nvidia-capital",
    "target": "kat-ent-lancium-capital",
    "total_amount": 2000000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -3282,11 +3282,11 @@
    "id": "rel-knowledge-atom-kat-ent-nvidia-capital-funds-knowledge-atom-kat-ent-cloverleaf-infrastructure-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-nvidia-capital",
    "target": "kat-ent-cloverleaf-infrastructure-capital",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -3307,11 +3307,11 @@
    "id": "rel-knowledge-atom-kat-ent-ext-public-equity-market-funds-knowledge-atom-kat-ent-alibaba-capital",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-ext-public-equity-market",
    "target": "kat-ent-alibaba-capital",
    "total_amount": 10200000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -3332,11 +3332,11 @@
    "id": "rel-knowledge-atom-kat-ent-nvent-capital-funds-knowledge-atom-kat-ent-maverick-power-power-distribution-manufacturing",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-nvent-capital",
    "target": "kat-ent-maverick-power-power-distribution-manufacturing",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -3357,11 +3357,11 @@
    "id": "rel-knowledge-atom-kat-ent-infineon-capital-funds-knowledge-atom-kat-ent-c2i-semiconductors-chip-design",
    "note": null,
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-infineon-capital",
    "target": "kat-ent-c2i-semiconductors-chip-design",
    "total_amount": null,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   },
   {
    "flows": [
@@ -3395,11 +3395,11 @@
    "id": "rel-knowledge-atom-kat-ent-ext-bond-market-funds-knowledge-atom-kat-ent-softbank-capital",
    "note": "Merged 2 funds rows during entity-reconciliation cleanup (2026-08-27) -- this entity pair has 2 distinct financings; P-01 says list them.",
    "role": null,
-   "self_funded": false,
    "source": "kat-ent-ext-bond-market",
    "target": "kat-ent-softbank-capital",
    "total_amount": 6300000000,
-   "unit": "USD"
+   "unit": "USD",
+   "vendor_unspecified": false
   }
  ],
  "generated_by": "graph/export_q1.py",
