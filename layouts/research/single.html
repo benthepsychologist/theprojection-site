@@ -45,6 +45,15 @@
   .fm-ft{ text-transform:uppercase; font-size:.68rem; letter-spacing:.03em; color:var(--ink-faint); }
   .fm-internal-src{ color:var(--ink-faint); font-size:.75rem; }
   .fm-canvas.fm-core-mode .fm-node:not(.fm-core) rect{ opacity:.35; }
+  .fm-breakdowns{ display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+    gap:1.4rem; margin:1.6rem 0; }
+  .fm-breakdown h2{ font-size:1.02rem; margin:0 0 .5rem; }
+  .fm-bd-table{ width:100%; border-collapse:collapse; font-size:.86rem; }
+  .fm-bd-table td{ padding:.3rem 0; border-top:1px solid var(--rule); vertical-align:baseline; }
+  .fm-bd-table tr:first-child td{ border-top:none; }
+  .fm-bd-table .fm-bd-amt{ text-align:right; font-variant-numeric:tabular-nums;
+    font-weight:600; white-space:nowrap; padding-left:.8rem; }
+  .fm-bd-note{ color:var(--ink-faint); font-size:.76rem; margin:.5rem 0 0; }
 </style>
 </head>
 <body>
@@ -58,6 +67,43 @@
   <p class="crumb"><a href="/research/">← Research</a></p>
   <h1 class="fm-title">{{ .Title }}</h1>
   <div class="content-body">{{ .Content }}</div>
+
+  {{ $q1Claims := .Site.Data.q1_claims }}
+  {{ if $q1Claims }}
+  {{ $byFlowType  := sort (where $q1Claims "dimension" "q1-flow-type") "total_usd" "desc" }}
+  {{ $byDest      := sort (where $q1Claims "dimension" "q1-destination") "total_usd" "desc" }}
+  {{ $byRecipient := first 15 (sort (where $q1Claims "dimension" "q1-recipient") "total_usd" "desc") }}
+  <div class="fm-breakdowns">
+    <div class="fm-breakdown">
+      <h2>By transaction type</h2>
+      <table class="fm-bd-table"><tbody>
+        {{ range $byFlowType }}
+        <tr><td><a href="/claim/{{ .id }}/">{{ .short_label | humanize }}</a></td>
+          <td class="fm-bd-amt">{{ if gt .total_usd 0 }}{{ printf "$%.1fB" (div .total_usd 1000000000) }}{{ else }}—{{ end }}</td></tr>
+        {{ end }}
+      </tbody></table>
+      <p class="fm-bd-note">Point-figure, USD-denominated flows only — click a row for the members and sourcing.</p>
+    </div>
+    <div class="fm-breakdown">
+      <h2>By what it bought</h2>
+      <table class="fm-bd-table"><tbody>
+        {{ range $byDest }}
+        <tr><td><a href="/claim/{{ .id }}/">{{ .short_label | humanize }}</a></td>
+          <td class="fm-bd-amt">{{ if gt .total_usd 0 }}{{ printf "$%.1fB" (div .total_usd 1000000000) }}{{ else }}—{{ end }}</td></tr>
+        {{ end }}
+      </tbody></table>
+    </div>
+    <div class="fm-breakdown">
+      <h2>Where it's going — top tracked recipients</h2>
+      <table class="fm-bd-table"><tbody>
+        {{ range $byRecipient }}
+        <tr><td><a href="/claim/{{ .id }}/">{{ .short_label }}</a></td>
+          <td class="fm-bd-amt">{{ printf "$%.1fB" (div .total_usd 1000000000) }}</td></tr>
+        {{ end }}
+      </tbody></table>
+    </div>
+  </div>
+  {{ end }}
 
   {{ if $flow }}
   <div class="fm-toolbar">

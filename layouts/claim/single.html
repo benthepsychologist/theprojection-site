@@ -67,14 +67,29 @@ li.receipt-cite .src-meta{ font-family:var(--sans); color:var(--ink-45); margin-
 {{ $nameBySlug := dict }}
 {{ range $board.orgs }}{{ $nameBySlug = merge $nameBySlug (dict .slug .name) }}{{ end }}
 {{ range $board.houses }}{{ $nameBySlug = merge $nameBySlug (dict .slug .name) }}{{ end }}
-{{ $claimById := dict }}{{ range .Site.Data.claims }}{{ $claimById = merge $claimById (dict .id .) }}{{ end }}
+{{/* Two independent claim pools merged here: the board pipeline's
+     data/claims.json (regenerated whole on every publish) and
+     data/q1_flows-adjacent data/q1_claims.json (graph/export_q1_claims.py,
+     2026-08-27) -- kept as separate files so publish can't clobber the
+     latter, unified only here so /claim/<id>/ is one URL space either way. */}}
+{{ $allClaims := .Site.Data.claims }}
+{{ with .Site.Data.q1_claims }}{{ range . }}{{ $allClaims = $allClaims | append . }}{{ end }}{{ end }}
+{{ $claimById := dict }}{{ range $allClaims }}{{ $claimById = merge $claimById (dict .id .) }}{{ end }}
 
 <main class="wrap claim board-paper">
-{{ range $c := .Site.Data.claims }}{{ if eq $c.id $cid }}
-{{ $subjName := or (index $nameBySlug $c.subject) (humanize $c.subject) }}
-{{ $threads := where $payload.threads "entities" "intersect" (slice $c.subject) }}
+{{ range $c := $allClaims }}{{ if eq $c.id $cid }}
+{{ $boardName := "" }}{{ $subjName := "" }}
+{{ if $c.subject }}
+  {{ $boardName = index $nameBySlug $c.subject }}
+  {{ $subjName = or $boardName (humanize $c.subject) }}
+{{ end }}
+{{ $threads := slice }}{{ if $c.subject }}{{ $threads = where $payload.threads "entities" "intersect" (slice $c.subject) }}{{ end }}
 
+  {{ if $boardName }}
   <p class="crumb"><a href="/map/{{ $c.subject }}/">← {{ $subjName }}</a></p>
+  {{ else }}
+  <p class="crumb"><a href="/research/q1/">← Research · Q1</a></p>
+  {{ end }}
 
   {{/* ============ ABOVE THE FOLD — THE RECEIPT ============
        The sourced figures this number is built from. First thing seen. */}}
@@ -85,7 +100,7 @@ li.receipt-cite .src-meta{ font-family:var(--sans); color:var(--ink-45); margin-
       <p class="claim-meta">
         {{ with $c.confidence }}<span class="conf c-{{ . }}">{{ . }} confidence</span> · {{ end }}
         {{ with $c.as_of }}as of {{ . }} · {{ end }}
-        about <a href="/map/{{ $c.subject }}/">{{ $subjName }}</a>
+        {{ with $subjName }}about {{ if $boardName }}<a href="/map/{{ $c.subject }}/">{{ . }}</a>{{ else }}{{ . }}{{ end }}{{ end }}
       </p>
       {{ with $c.basis }}<p class="claim-basis">{{ . }}</p>{{ end }}
     </div>
@@ -138,17 +153,21 @@ li.receipt-cite .src-meta{ font-family:var(--sans); color:var(--ink-45); margin-
     </div>
     {{ end }}
 
+    {{ if $c.subject }}
     <div class="claim-section">
       <h2>Threads <span class="n">{{ len $threads }}</span></h2>
       {{ if $threads }}
       <ul class="cites">{{ range $threads }}<li><a href="/threads/{{ .slug }}/">{{ .title }}</a> <span class="src-meta">{{ .status }}</span></li>{{ end }}</ul>
       {{ else }}<p class="none">No thread tagged to this actor yet.</p>{{ end }}
     </div>
+    {{ end }}
   </div>
 
   <p class="board-foot muted">A claim is one metric we assert about a node —
     the value is the summary, this page is the receipt. Sourced from kestrel;
-    supersedes-history not yet shown. <a href="/map/{{ $c.subject }}/">Back to {{ $subjName }}</a>.</p>
+    supersedes-history not yet shown.
+    {{ if $boardName }}<a href="/map/{{ $c.subject }}/">Back to {{ $subjName }}</a>.
+    {{ else }}<a href="/research/q1/">Back to Research · Q1</a>.{{ end }}</p>
 
 {{ end }}{{ end }}
 </main>
