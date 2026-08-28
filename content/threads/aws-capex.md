@@ -3,7 +3,7 @@ title: AWS Capex
 lens: ai
 status: developing
 opened: 2026-07-23
-last_seen: 2026-08-26
+last_seen: 2026-08-28
 weight: 2
 entities:
 - amazon-aws
@@ -18,6 +18,11 @@ blurb: 'Earnings 07-30 (corrected from ~07-31). Crawl 07-27: the AGI-cuts vs $20
   + X-Energy 5GW-by-2039. Watch 07-30: capex guide, backlog, FCF (reportedly borrowing
   $25B).'
 ---
+
+## 2026-08-28 — Four Swedish wind PPAs, 199MW
+
+- **Amazon contracted 199MW of Swedish wind across four PPAs** — Mirova's Boarp (17.5MW), Dållebo (18MW) and Fågelås (31.5MW), plus 132MW from OX2's Fageråsen farm in Dalarna County — reportedly pushing its contracted Swedish power past 1GW to support local data-centre expansion. **Filed as a power-procurement datapoint rather than a capex one:** these are offtake agreements against mostly already-operating farms, which is a different commitment from building generation. ⚠️ **UNVERIFIED DATE and secondary-sourced** — Amazon's own release could not be retrieved.
+  ([Data Center Dynamics](https://www.datacenterdynamics.com/en/news/amazon-signs-199mw-worth-of-ppas-across-sweden-with-ox2-and-mirova/))
 
 ## 2026-08-26 — Two million more GPUs, announced against the demand-plateau argument
 

@@ -3,7 +3,7 @@ title: Social Media Fight
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-08-25
+last_seen: 2026-08-27
 weight: 2
 entities:
 - meta-ai
@@ -15,6 +15,12 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
   real academic gains (6.4% test scores) but consistently null mental-health effects.
   Two different claims being cited as one.'
 ---
+
+## 2026-08-27 — A judge approves the 52-AG agreement, and the causality fight gets the natural experiment it could not run
+
+- **A federal judge approved Meta's agreement with 52 bipartisan state, territorial and DC attorneys general, and the terms rewrite the default teen experience on Instagram and Facebook for ten years.** In participating jurisdictions the protections apply automatically to every under-18 account: a **default two-hour cumulative daily limit** across both apps that only a parent can lift, counted across multiple accounts where Meta detects them; a **Night Mode** block from midnight to 6am covering Feed, Stories, Explore and Reels; **School Mode** muting notifications 8am-3pm; prompts at every 15 minutes of continuous use and at 60 and 90 minutes cumulative; a **selectable non-algorithmic feed** parents can set as required; autoplay off; likes hidden; and cosmetic-surgery and extreme-makeup filters disabled. **The majority of terms are required to remain in place for ten years.** Meta simultaneously published an open letter urging TikTok and YouTube to adopt the same standard, on the argument that teens migrate when restricted on one app.
+  **Why this matters to this thread specifically:** it tracks a research argument that policy keeps outrunning, with Australia's under-16 ban as the standing example. This imposes a **named, dated, decade-long design change on a defined population in some jurisdictions and not others** — which is the natural experiment the causality literature has not been able to run. ⚠️ Meta calls it an *agreement*, not a settlement, though it required judicial approval; and **Meta's newsroom index card says 51 attorneys general while the post's own body says 52** — the body is used here, and carries an "Updated on August 27, 2026 at 10:30 AM PT to reflect the judge's approval" stamp the card predates.
+  ([Meta Newsroom](https://about.fb.com/news/2026/08/agreement-with-state-attorneys-general-supporting-teens/), [the open letter](https://about.fb.com/news/2026/08/open-letter-to-tiktok-and-youtube-to-join-us-in-supporting-teens/))
 
 ## 2026-08-26 — Meta settles the Oakland trial for up to $17B before a verdict; the causality fight moves from courtroom to court-ordered product design
 

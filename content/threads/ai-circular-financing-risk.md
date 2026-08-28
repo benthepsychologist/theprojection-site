@@ -3,7 +3,7 @@ title: Circular Financing
 lens: ai
 status: developing
 opened: 2026-06-28
-last_seen: 2026-08-26
+last_seen: 2026-08-27
 weight: 3
 entities:
 - nvidia
@@ -24,6 +24,11 @@ blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops wh
   in talks down to under $120B, phase-1 only (08-15). Track whether other lenders
   follow Nvidia''s retreat.'
 ---
+
+## 2026-08-27 — Two opposite verdicts off one filing, on the same day
+
+- **The first full trading day after the 10-Q produced a split, not a verdict.** Nvidia closed **+8.74% at $227.98** on a $96.2bn beat and a $108.0bn guide — the equity market reading the disclosed guarantee structure as no obstacle at all. On the same day, **Michael Burry gave his letter to those same disclosures and called the reaction "whistling past the graveyard."** **This is what the thread's watch line asked for and it came back ambiguous:** the argument is now conducted entirely on an audited document rather than on inference, and the two sides read it opposite ways within twenty-four hours. ⚠️ Burry's Substack is paywalled; only the quoted phrase is verified, via Benzinga's 08-28 03:44 ET writeup.
+  ([Benzinga](https://www.benzinga.com/markets/earnings/26/08/61486426/michael-burry-points-to-nvidias-105b-openai-guarantee-as-circular-financing-red-flag-whistling-past-the-graveyard))
 
 ## 2026-08-26 — The argument moves from analyst deck to SEC filing
 

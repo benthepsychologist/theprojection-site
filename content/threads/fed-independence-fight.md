@@ -3,7 +3,7 @@ title: Fed Independence Fight
 lens: global-capital
 status: open
 opened: 2026-08-09
-last_seen: 2026-08-26
+last_seen: 2026-08-28
 weight: 2
 entities:
 - lisa-cook
@@ -21,6 +21,12 @@ blurb: 'Two distinct, simultaneous levers on the Fed''s independence, offered as
   the 09-16 FOMC decision — as of the 08-09 /week read, a bigger open question than
   anything purely financial on this map.'
 ---
+
+## 2026-08-28 — The first Jackson Hole keynote spends itself on AI and communications doctrine, and never says the word
+
+- **Kevin Warsh used his first Jackson Hole keynote as chair, on his hundredth day, to argue for a quieter Fed and to think out loud about artificial intelligence — and said nothing at all about the fight over the Fed's independence.** "In Our Time," delivered 10:00 ET, opens by calling its own outline "a trail map . . . just don't call it forward guidance," argues the practice "has overstayed its welcome" outside crises, and declines a reaction function outright: *"I wish our understanding of the economy were so precise... that some simple function like a Taylor rule could be rigorously relied upon. But our knowledge just doesn't extend that far."* On the mandate he was direct — 12-month PCE **3.7%**, six-month **4.1%**, "running above our 2 percent target," labour markets "consistent with full employment" — and he treated the 2% goal as **firm and fixed**, with "average inflation" absent from the text entirely.
+  **The absence is the finding for this thread, and it was verified rather than inferred:** direct string search over the released text returns **zero occurrences of "independence," "administration" or "buyback."** Going in, previews framed the Cook removal fight and fiscal-dominance pressure as the market's central question. He did not engage either. **A chairman declining to defend the institution's independence from the one podium built for it is a datapoint on this thread, not an empty result.**
+  ([Federal Reserve, released text](https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm))
 
 ## 2026-08-26 — Cook files a formal rebuttal on the deadline day itself
 

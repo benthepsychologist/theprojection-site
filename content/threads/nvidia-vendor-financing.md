@@ -3,7 +3,7 @@ title: Nvidia as Lender
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-08-26
+last_seen: 2026-08-27
 weight: 3
 entities:
 - nvidia
@@ -21,6 +21,10 @@ blurb: 'Nvidia''s turn from chip vendor to the buildout''s lender of last resort
   toward: does the weekend signing happen, does a phase-2 guarantee follow, and rating-agency
   treatment (still untracked).'
 ---
+
+## 2026-08-27 — The equity market answers; the credit market has not been asked
+
+- **Nvidia's +8.74% close is the first market data point on the now-filed $105bn guarantee structure, and it did not read as debt-equivalent risk.** **But the thread's actual watch line asks about rating-agency treatment, and that remains unanswered:** the only agency actions on file — **Moody's Aa1 positive and S&P AA stable, both affirmed 2026-08-18** — predate both the 10-Q and this window by nine days. **No rating action, CDS print or other credit-market read has been produced since the guarantees were disclosed.** Recording the absence explicitly, because "the stock went up" is not an answer to "how do the agencies treat it."
 
 ## 2026-08-26 — The guarantees get a number, a cap and a filing date
 

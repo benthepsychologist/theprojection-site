@@ -3,7 +3,7 @@ title: Camellia
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-26
+last_seen: 2026-08-27
 weight: 1
 entities:
 - openai
@@ -16,6 +16,11 @@ blurb: 'OpenAI-direct build (Octans GA LLC/Butler Snow — no named GC or Starga
   SoftBank''s ~10GW Ohio (Portsmouth) campus. Track: the local secrecy backlash (10K+
   petition), generation-mix disclosure, and whether a GC/financing partner surfaces.'
 ---
+
+## 2026-08-27 — The final DRI report lands with real numbers, and two dates (late catch, event dated 08-26)
+
+- **Georgia's Coastal Regional Commission released its final Development of Regional Impact report on Project Camellia**, described by the county manager as "the county's final requirement before it can approve Project Camellia's preliminary site plan." **This is the environmental disclosure the thread has been waiting for since the DRI was filed blank on 07-24:** roughly **65% of the site covered by buildings and pavement at full buildout**, with stormwater runoff, wetlands, floodplain and water-quality risks named and mitigation recommended. Two dates now set — a **county commissioners' public work session 08-29, 10:00-13:00** at 804 S. Laurel St., Springfield, and **preliminary site-plan review anticipated 09-14**. PSC Commissioner Peter Hubbard on scale: *"It's 32 times the size of the threshold... Something of this magnitude does deserve special scrutiny."*
+  ([Effingham Herald](https://www.effinghamherald.net/data-centers/openai-data-center-moves-forward-power-deal-approved-site-plan-review-next-dri-project-camellia/))
 
 ## 2026-08-26 — The power contract clears, with bigger savings numbers attached
 
