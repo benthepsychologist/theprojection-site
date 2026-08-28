@@ -3,7 +3,7 @@ title: CoreWeave Bet
 lens: global-capital
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-27
+last_seen: 2026-08-28
 weight: 2
 entities:
 - coreweave

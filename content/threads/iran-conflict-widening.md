@@ -3,7 +3,7 @@ title: Iran's Widening War
 lens: world-news
 status: open
 opened: 2026-07-23
-last_seen: 2026-08-27
+last_seen: 2026-08-28
 weight: 3
 entities: []
 thread_kind: story
@@ -45,6 +45,21 @@ blurb: '⚠️ ORIGIN CORRECTED 2026-08-02 — READ THIS FIRST. This thread spen
   with Netanyahu''s office framing it as pressure ahead of September talks. Track
   this alongside Hormuz/Gulf as a distinct front, not folded into it.'
 ---
+
+## 2026-08-28 — Washington declares Hormuz open; the tanker count and Tehran both disagree
+
+**CENTCOM commander Adm. Brad Cooper said the Strait of Hormuz shipping lanes are "open, and momentum is building," claiming mines cleared — while roughly 24 oil tankers transited against a pre-war daily average of about 120-130.** **A waterway declared open while running at a fifth of normal traffic is a claim, not a reopening**, and the gap between the two is the most checkable thing in the story. Iranian foreign minister Abbas Araghchi said at 13:42 ET that diplomacy could resume "if Washington abandons its pressure campaign"; Trump said Iran is "begging to make a deal" while adding "I don't want to meet, they do." ([CBS News live blog, ET-timestamped entries](https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-6-months-no-end-in-sight/), [Fortune](https://fortune.com/2026/08/28/trump-iran-war-six-months-china-sanctions/))
+
+**The US Treasury designated Bank Melli's Dubai branch manager Reza Mohammad Taeedi and Hong-Kong-registered Kameng Trading Ltd., and cut the UAE branch of Egypt's Banque Misr off from US financial institutions, in the fourth day of "Operation Economic Outcast."** **This map had logged none of the campaign's three dates** — launched 08-24 under an "Economic D-Day" framing, Secretary Scott Bessent's remarks 08-26, today's UAE action — meaning a named multi-day US financial campaign against Iran ran all week unrecorded here. ([Treasury press-release index, read directly](https://home.treasury.gov/news/press-releases), [CNBC](https://www.cnbc.com/2026/08/28/treasury-uae-banque-misr-sanctions-iran.html))
+
+<!--
+  Split from [Red Sea Shock](/threads/red-sea-oil-shock/) 2026-07-30 (ben-steer): "the conflict in
+  Iran is the world news thread; Red Sea oil shock IS a money thread."
+  This file's 07-23 through 07-28 entries are backfilled from that
+  thread's own history — same origin event, conflict-narrative content
+  only. The market-reaction content (oil prices, shipping data,
+  sanctions, CDS) stayed on red-sea-oil-shock.
+-->
 
 ## 2026-08-27 — Washington says it is not talking to Iran while Qatar flies to Tehran
 

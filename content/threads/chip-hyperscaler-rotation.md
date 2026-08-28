@@ -3,7 +3,7 @@ title: The Great Rotation
 lens: global-capital
 status: open
 opened: 2026-07-29
-last_seen: 2026-08-27
+last_seen: 2026-08-28
 weight: 2
 entities: []
 thread_kind: story
@@ -17,6 +17,33 @@ blurb: 'Analysts (Morgan Stanley, UBS, Forrester) are calling an explicit alloca
   policy) and from AI Bear Turn (the broader AI-stock drawdown) — this is specifically
   the reallocation call between the two cohorts.'
 ---
+
+## 2026-08-28 — Six points of dispersion between Nvidia and Microsoft in one session
+
+**The Philadelphia Semiconductor Index fell 3.45% while Microsoft rose 1.84% — Nvidia -4.74%, CoreWeave -3.86%, AMD -1.58%, Broadcom -1.23%, Oracle roughly flat — on a day yields rose across the curve.** **This is the dispersion the thread exists to measure**, and the likeliest proximate cause is not the Fed but Nvidia's reported pullback from its revenue-share financing programme. ⚠️ **One session is not a rotation** and this is logged as a single day's tape, read directly from live quote feeds at 15:04 ET with the cash session still open — intraday levels, not closing prints.
+
+<!--
+  RULES (reframe Phase 0, 2026-07-22):
+  - Newest-first dated blocks. /daily REBUILDS today's block at the top
+    (rebuild-in-place; re-runs never duplicate). /crawl APPENDS backstory
+    at the bottom under the "## ← Backstory" divider. Two writers, two
+    zones, no collision.
+  - Every entry line ends with a provenance marker:
+    (chain = that day's digest + sidecar) · (chain =
+    finding + bundle) · (migration) ·
+    (Ben dictated). No entry without a marker.
+  - Entries are CURATED DEVELOPMENTS, not item mirrors — ambient matches
+    update last_seen in threads.yaml but don't earn an entry.
+  - Multi-thread items appear in each relevant timeline with prose fit to
+    that thread's narrative. The render layer dedupes items by URL;
+    timeline entries are prose and never deduped.
+  - Bullet format matches the digest rubric: bold lead phrase, one
+    sentence, one source link.
+  - Resolution closes the file with a "## YYYY-MM-DD — Resolved" entry;
+    the file is kept forever.
+  - Renames: slugs are immutable; a rename adds was: old-slug to
+    frontmatter via /steer only.
+-->
 
 ## 2026-08-27 — The rotation shows up as concentration instead: one stock up, the average stock down
 

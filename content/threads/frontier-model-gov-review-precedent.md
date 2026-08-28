@@ -3,7 +3,7 @@ title: Frontier Gatekeeping
 lens: ai
 status: open
 opened: 2026-07-22
-last_seen: 2026-08-25
+last_seen: 2026-08-28
 weight: 3
 entities:
 - openai
@@ -20,6 +20,12 @@ blurb: 'The gpt-5.6 gating dynamic made permanent — and it''s all one buildout
   is named (SRO?); Meta''s exclusion made official; CAISI leadership (3 directors
   in a year — can it run classified review?); the first model actually gated.'
 ---
+
+## 2026-08-27 — A court says the government may not blacklist a lab for criticising it
+
+**A federal judge permanently enjoined the Pentagon's designation of Anthropic as a national-security supply-chain risk, finding it was retaliation for the company's public criticism of the administration.** Judge Rita F. Lin (N.D. Cal.) granted summary judgment for Anthropic on First Amendment, Fifth Amendment due-process and APA claims in *Anthropic PBC v. U.S. Department of War*, No. 3:26-cv-01996-RFL, vacating Secretary Pete Hegseth's 10 U.S.C. § 3252 designation and converting March's preliminary injunction into a permanent one — **the precedent this thread exists to watch for, and it runs in the lab's favour.** ⚠️ A separate FASCSA designation under 41 U.S.C. § 4713 remains pending in the D.C. Circuit (No. 26-1049), so one of the two designations survives; the quoted holding language traces to a single AP wire story and could not be checked against the August order itself. ([CNBC](https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html), [Axios](https://www.axios.com/2026/08/28/judge-blocks-pentagon-anthropic-blacklist), [March preliminary-injunction order, read directly](https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.135.0.pdf))
+
+**The trigger was two safety restrictions Anthropic refused to drop in contract renegotiation — no use of Claude for mass domestic surveillance of Americans, and no fully autonomous lethal weapons — after which a Presidential Directive told every federal agency to stop using the company's technology.** **That is the cleanest test case this thread has ever had:** a frontier lab held a published red line against its own government, was punished commercially for it, and won. ([CNBC](https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html))
 
 ## 2026-08-22 — A lab volunteers for pre-release monitoring, at state level
 

@@ -3,7 +3,7 @@ title: GPT-5.6
 lens: ai
 status: resolved
 opened: 2026-06-26
-last_seen: 2026-07-17
+last_seen: 2026-08-28
 weight: 1
 entities:
 - openai

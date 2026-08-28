@@ -3,7 +3,7 @@ title: CSAM Ads
 lens: mental-health
 status: open
 opened: 2026-08-06
-last_seen: 2026-08-26
+last_seen: 2026-08-28
 weight: 2
 entities:
 - meta-ai
@@ -16,6 +16,10 @@ blurb: 'Wired reported 2026-08-05 that Meta ran ads containing AI-generated chil
   a pattern question across ad platforms broadly, not just Meta; any parallel with
   the Grok/ Stability CSAM suits already tracked elsewhere on this map.'
 ---
+
+## 2026-08-28 — Warner's deadline passes with confirmed silence
+
+**Senator Mark Warner's own Senate press page carries nothing after the 08-18 letter — no Meta reply, no acknowledgement of receipt, no statement about non-response — three days past the 08-26 deadline the letter itself set.** **The silence is now a confirmed negative rather than an absence of searching**, checked against the primary source and against every outlet that covered the original letter. Meta's only public comment remains a pre-deadline line to WIRED that it "works aggressively" against exploitation and that most flagged ads "had minimal reach" — **which answers none of Warner's three questions**: how the ads passed review, what revenue they generated, and what remediation followed. upcoming.yaml grace expires 08-29. ([Warner's Senate press releases, checked live](https://www.warner.senate.gov/public/index.cfm/press-releases))
 
 ## 2026-08-26 — The deadline passes in silence
 
