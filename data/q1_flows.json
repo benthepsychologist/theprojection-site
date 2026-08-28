@@ -1,7 +1,7 @@
 {
  "cut_core_buildout_version": 3,
  "dropped_for_layering": [],
- "edge_count": 200,
+ "edge_count": 220,
  "edges": [
   {
    "flows": [],
@@ -3400,11 +3400,511 @@
    "total_amount": 6300000000,
    "unit": "USD",
    "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp-q1-kat-ent-tsmc-foundry-construction-kat-ent-vendor-yates-construction",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://www.tomshardware.com/news/tsmc-fab-21-arizona"
+     ],
+     "summary": "General contractor on TSMC's Arizona Fab 21 (broke ground 2022, targeted 2024 completion).",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-tsmc-foundry-construction-funds-kat-ent-vendor-yates-construction",
+   "note": "Hypothesized recipient, not the original claim's own source -- see the claim's own citation. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-tsmc-foundry-construction",
+   "target": "kat-ent-vendor-yates-construction",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp-q1-kat-ent-tsmc-foundry-construction-kat-ent-vendor-united-integrated-services",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://www.taipeitimes.com/News/biz/archives/2025/03/06/2003832936"
+     ],
+     "summary": "Delivers mechanical/electrical/plumbing and cleanroom construction services at TSMC's Arizona Fab 21; reported to derive 50-60% of total revenue from TSMC's US fabs.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-tsmc-foundry-construction-funds-kat-ent-vendor-united-integrated-services",
+   "note": "Hypothesized recipient, not the original claim's own source -- see the claim's own citation. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-tsmc-foundry-construction",
+   "target": "kat-ent-vendor-united-integrated-services",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp-q1-kat-ent-tsmc-foundry-construction-kat-ent-vendor-ctci-americas",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://www.ctci.com/e-newsletter/EN/467/hot-news/article-01.html"
+     ],
+     "summary": "Taiwanese EPC firm; opened an Arizona subsidiary specifically to provide engineering-procurement-construction services for TSMC's Arizona buildout.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-tsmc-foundry-construction-funds-kat-ent-vendor-ctci-americas",
+   "note": "Hypothesized recipient, not the original claim's own source -- see the claim's own citation. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-tsmc-foundry-construction",
+   "target": "kat-ent-vendor-ctci-americas",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp-q1-kat-ent-tsmc-foundry-construction-kat-ent-vendor-marketech-international",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://www.taipeitimes.com/News/biz/archives/2025/03/06/2003832936"
+     ],
+     "summary": "Turnkey cleanroom/facility integration (MEP, DI water, gas/chemical supply, wastewater) for TSMC's Arizona fabs; reported to derive 20-30% of revenue from TSMC's US fabs.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-tsmc-foundry-construction-funds-kat-ent-vendor-marketech-international",
+   "note": "Hypothesized recipient, not the original claim's own source -- see the claim's own citation. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-tsmc-foundry-construction",
+   "target": "kat-ent-vendor-marketech-international",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 197250000,
+     "basis": "point",
+     "claim_id": "kat-hyp-q1-kat-ent-tsmc-foundry-construction-kat-ent-vendor-arizona-state-land-department",
+     "date": null,
+     "destination_category": "land, shell & materials",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://azbigmedia.com/real-estate/tsmc-buys-900-acres-of-land-in-north-phoenix-for-197-million/"
+     ],
+     "summary": "TSMC won a January 2026 Arizona State Land Department auction for 900 acres (part of the NorthPark development adjacent to its existing campus) for $197.25M.",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-kat-ent-tsmc-foundry-construction-funds-kat-ent-vendor-arizona-state-land-department",
+   "note": "Hypothesized recipient, not the original claim's own source -- see the claim's own citation. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-tsmc-foundry-construction",
+   "target": "kat-ent-vendor-arizona-state-land-department",
+   "total_amount": 197250000,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp-q1-kat-ent-sk-hynix-memory-fab-construction-kat-ent-vendor-sk-ecoplant",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://en.sedaily.com/business/2026/05/25/korean-builders-ride-samsung-sk-hynix-chip-investment-boom"
+     ],
+     "summary": "EPC affiliate handling engineering-procurement-construction work on the Yongin semiconductor cluster and its support facilities (cogeneration plant, industrial-complex development).",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-sk-hynix-memory-fab-construction-funds-kat-ent-vendor-sk-ecoplant",
+   "note": "Hypothesized recipient, not the original claim's own source -- see the claim's own citation. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-sk-hynix-memory-fab-construction",
+   "target": "kat-ent-vendor-sk-ecoplant",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 35000000,
+     "basis": "estimate",
+     "claim_id": "kat-hyp-q1-kat-ent-sk-hynix-memory-fab-construction-kat-ent-vendor-techcross-water-energy",
+     "date": null,
+     "destination_category": "land, shell & materials",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.thelec.net/news/articleView.html?idxno=11815"
+     ],
+     "summary": "Letter of intent worth approximately 50 billion won (~$35M) for Phase 2 wastewater-treatment EPC work at the Yongin fab -- an LOI, not yet a signed contract.",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-kat-ent-sk-hynix-memory-fab-construction-funds-kat-ent-vendor-techcross-water-energy",
+   "note": "Hypothesized recipient, not the original claim's own source -- see the claim's own citation. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-sk-hynix-memory-fab-construction",
+   "target": "kat-ent-vendor-techcross-water-energy",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 18700000,
+     "basis": "point",
+     "claim_id": "kat-hyp-q1-kat-ent-sk-hynix-memory-fab-construction-kat-ent-vendor-temc-cns",
+     "date": null,
+     "destination_category": "land, shell & materials",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.thelec.net/news/articleView.html?idxno=11743"
+     ],
+     "summary": "Confirmed KRW 25.25B (~$18.7M) contract, signed June 26 2026, to supply/install the Central Chemical Supply System (CCSS) for the Yongin fab.",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-kat-ent-sk-hynix-memory-fab-construction-funds-kat-ent-vendor-temc-cns",
+   "note": "Hypothesized recipient, not the original claim's own source -- see the claim's own citation. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-sk-hynix-memory-fab-construction",
+   "target": "kat-ent-vendor-temc-cns",
+   "total_amount": 18700000,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 7900000000,
+     "basis": "point",
+     "claim_id": "kat-hyp-q1-kat-ent-sk-hynix-memory-fab-construction-kat-ent-asml-equipment-sales",
+     "date": null,
+     "destination_category": "compute silicon & systems",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-places-record-8-billion-order-for-asml-euv-lithography-machines"
+     ],
+     "summary": "Record order: SK hynix committed KRW 11.9 trillion (~$7.9B) for approximately 30 ASML EUV lithography scanners through end-2027, split between the Cheongju M15X fab (HBM) and the Yongin cluster (advanced DRAM) -- this may overlap with rather than sit fully on top of the already-tracked $38.1B Yongin/Cheongju combined investment.",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-kat-ent-sk-hynix-memory-fab-construction-funds-kat-ent-asml-equipment-sales",
+   "note": "Hypothesized recipient, not the original claim's own source -- see the claim's own citation. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-sk-hynix-memory-fab-construction",
+   "target": "kat-ent-asml-equipment-sales",
+   "total_amount": 7900000000,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp-q1-kat-ent-samsung-foundry-construction-kat-ent-vendor-yates-construction",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://www.constructiondive.com/news/samsung-picks-builder-yates-construction-17b-chip-plant-taylor-texas/625884/"
+     ],
+     "summary": "General contractor for Samsung's $17B (later $25B) Taylor, Texas foundry.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-samsung-foundry-construction-funds-kat-ent-vendor-yates-construction",
+   "note": "Hypothesized recipient, not the original claim's own source -- see the claim's own citation. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-samsung-foundry-construction",
+   "target": "kat-ent-vendor-yates-construction",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 300000000,
+     "basis": "point",
+     "claim_id": "kat-hyp-q1-kat-ent-samsung-foundry-construction-kat-ent-vendor-epcor-utilities",
+     "date": null,
+     "destination_category": "land, shell & materials",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.epcor.com/us/en/news/media-releases/2023-07-13-epcor-tapped-water-partner-central-texas.html"
+     ],
+     "summary": "Selected to design, build, and operate industrial water supply and reclamation infrastructure (Sandow Water Project, Blue Sky Water Reclamation Facility) for the Taylor site; $300M initial equity investment by EPCOR.",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-kat-ent-samsung-foundry-construction-funds-kat-ent-vendor-epcor-utilities",
+   "note": "Hypothesized recipient, not the original claim's own source -- see the claim's own citation. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-samsung-foundry-construction",
+   "target": "kat-ent-vendor-epcor-utilities",
+   "total_amount": 300000000,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp-q1-kat-ent-micron-memory-fab-construction-kat-ent-vendor-exyte",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://finance.yahoo.com/news/micron-dropped-general-contractor-building-110000454.html"
+     ],
+     "summary": "Hired as general contractor for Micron's Boise, Idaho fab after the 2022 announcement; Micron terminated Exyte's GC contract effective Sept 2, 2025 (per an Idaho Department of Labor filing), retaining Exyte afterward only as lead architect/engineer for Phase 1 design.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-micron-memory-fab-construction-funds-kat-ent-vendor-exyte",
+   "note": "Hypothesized recipient, not the original claim's own source -- see the claim's own citation. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-micron-memory-fab-construction",
+   "target": "kat-ent-vendor-exyte",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp-q1-kat-ent-micron-memory-fab-construction-kat-ent-vendor-yates-layton-jv",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://exchange.construction/projects/industrial/micron-boise-fab-id1/"
+     ],
+     "summary": "Construction manager-at-risk (a Yates/Layton joint venture, a separate entity from Yates Construction alone) under a guaranteed-maximum-price contract for Micron's Boise fab; approximately 6,000 trades workers on site at peak.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-micron-memory-fab-construction-funds-kat-ent-vendor-yates-layton-jv",
+   "note": "Hypothesized recipient, not the original claim's own source -- see the claim's own citation. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-micron-memory-fab-construction",
+   "target": "kat-ent-vendor-yates-layton-jv",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 163400000,
+     "basis": "point",
+     "claim_id": "kat-hyp-q1-kat-ent-ase-packaging-construction-kat-ent-vendor-hung-ching-construction",
+     "date": null,
+     "destination_category": "land, shell & materials",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.taipeitimes.com/News/biz/archives/2024/08/10/2003822006"
+     ],
+     "summary": "Hung Ching Construction sold ASE the existing K18 facility for approximately NT$5.26B (~$163.4M); Hung Ching also holds a 77.76% stake in the K28 plant joint venture versus ASE's 22.24% (ASE contributed the land, Hung Ching funds the construction).",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-kat-ent-ase-packaging-construction-funds-kat-ent-vendor-hung-ching-construction",
+   "note": "Hypothesized recipient, not the original claim's own source -- see the claim's own citation. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-ase-packaging-construction",
+   "target": "kat-ent-vendor-hung-ching-construction",
+   "total_amount": 163400000,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp-q1-kat-ent-ase-packaging-construction-kat-ent-vendor-wus-printed-circuit",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://www.marketscreener.com/news/ase-technology-and-wus-announce-strategic-collaboration-to-build-advanced-ai-packaging-hub-in-kaoh-ce7f5bdbd98ef321"
+     ],
+     "summary": "Joint facility announced with WUS Printed Circuit in Nanzih Park (~113,000 sqm, completion targeted September 2029) for FOCoS/FC BGA substrate production -- a co-investment partnership; no dollar figure attributed to WUS specifically.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-ase-packaging-construction-funds-kat-ent-vendor-wus-printed-circuit",
+   "note": "Hypothesized recipient, not the original claim's own source -- see the claim's own citation. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-ase-packaging-construction",
+   "target": "kat-ent-vendor-wus-printed-circuit",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp-q1-kat-ent-amkor-packaging-construction-kat-ent-vendor-okland-construction",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://www.enr.com/articles/62804-enr-2026-top-owners-byte-down-on-ai-boom"
+     ],
+     "summary": "Contractor for Amkor's Peoria, Arizona OSAT facility (per ENR's 2026 Top Owners coverage); first-phase construction cost reported at $1B project-wide -- not confirmed as Okland's own contract value specifically.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-amkor-packaging-construction-funds-kat-ent-vendor-okland-construction",
+   "note": "Hypothesized recipient, not the original claim's own source -- see the claim's own citation. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-amkor-packaging-construction",
+   "target": "kat-ent-vendor-okland-construction",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp-q1-kat-ent-amkor-packaging-construction-kat-ent-vendor-ssoe-group",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://www.enr.com/articles/62804-enr-2026-top-owners-byte-down-on-ai-boom"
+     ],
+     "summary": "Engineering firm for Amkor's Peoria, Arizona facility.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-amkor-packaging-construction-funds-kat-ent-vendor-ssoe-group",
+   "note": "Hypothesized recipient, not the original claim's own source -- see the claim's own citation. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-amkor-packaging-construction",
+   "target": "kat-ent-vendor-ssoe-group",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 32475278,
+     "basis": "point",
+     "claim_id": "kat-hyp-q1-kat-ent-amkor-packaging-construction-kat-ent-vendor-vistancia-development",
+     "date": null,
+     "destination_category": "land, shell & materials",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.peoriaaz.gov/Home/Components/News/News/7705/439"
+     ],
+     "summary": "Amkor purchased 67 acres from Vistancia Development LLC for $32,475,278.",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-kat-ent-amkor-packaging-construction-funds-kat-ent-vendor-vistancia-development",
+   "note": "Hypothesized recipient, not the original claim's own source -- see the claim's own citation. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-amkor-packaging-construction",
+   "target": "kat-ent-vendor-vistancia-development",
+   "total_amount": 32475278,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp-q1-kat-ent-core-scientific-datacenter-construction-kat-ent-vendor-evans-general-con",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://mossutilities.com/projects/core-scientific/"
+     ],
+     "summary": "General contractor for Core Scientific's Denton, Texas data center expansion.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-core-scientific-datacenter-construction-funds-kat-ent-vendor-evans-general-contrac",
+   "note": "Hypothesized recipient, not the original claim's own source -- see the claim's own citation. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-core-scientific-datacenter-construction",
+   "target": "kat-ent-vendor-evans-general-contractors",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp-q1-kat-ent-core-scientific-datacenter-construction-kat-ent-vendor-moss-utilities",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://mossutilities.com/projects/core-scientific/"
+     ],
+     "summary": "Delivered the underground utility package for Core Scientific's Denton, Texas data center.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-core-scientific-datacenter-construction-funds-kat-ent-vendor-moss-utilities",
+   "note": "Hypothesized recipient, not the original claim's own source -- see the claim's own citation. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-core-scientific-datacenter-construction",
+   "target": "kat-ent-vendor-moss-utilities",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
   }
  ],
  "generated_by": "graph/export_q1.py",
  "layer_count": 5,
- "node_count": 204,
+ "node_count": 223,
  "nodes": [
   {
    "activity": "capital (treasury/financing facet)",
@@ -3456,7 +3956,7 @@
    "layer": 2,
    "q1_node_id": "coreweave/capital",
    "x": 560,
-   "y": 120
+   "y": 210
   },
   {
    "activity": "datacenter operation (buyer side)",
@@ -3495,7 +3995,7 @@
    "layer": 2,
    "q1_node_id": "openai/capital",
    "x": 560,
-   "y": 420
+   "y": 720
   },
   {
    "activity": "model training (compute consumption)",
@@ -3560,7 +4060,7 @@
    "layer": 2,
    "q1_node_id": "xai/capital",
    "x": 560,
-   "y": 600
+   "y": 1170
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -3586,7 +4086,7 @@
    "layer": 2,
    "q1_node_id": "anthropic/capital",
    "x": 560,
-   "y": 0
+   "y": 30
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -3612,7 +4112,7 @@
    "layer": 2,
    "q1_node_id": "mistral/capital",
    "x": 560,
-   "y": 330
+   "y": 570
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -3625,7 +4125,7 @@
    "layer": 2,
    "q1_node_id": "inflection/capital",
    "x": 560,
-   "y": 270
+   "y": 480
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -3638,7 +4138,7 @@
    "layer": 2,
    "q1_node_id": "cohere/capital",
    "x": 560,
-   "y": 90
+   "y": 180
   },
   {
    "activity": "chip design",
@@ -4470,7 +4970,7 @@
    "layer": 2,
    "q1_node_id": "crusoe/capital",
    "x": 560,
-   "y": 150
+   "y": 240
   },
   {
    "activity": "gas turbine manufacturing (AI-datacenter-dedicated aeroderivative units)",
@@ -4808,7 +5308,7 @@
    "layer": 2,
    "q1_node_id": "crusoe/datacenter-construction",
    "x": 560,
-   "y": 180
+   "y": 270
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -4873,7 +5373,7 @@
    "layer": 2,
    "q1_node_id": "vantage-data-centers/datacenter-construction",
    "x": 560,
-   "y": 540
+   "y": 990
   },
   {
    "activity": "EPC/general-contractor services (seller side)",
@@ -4899,7 +5399,7 @@
    "layer": 2,
    "q1_node_id": "world-labs/capital",
    "x": 560,
-   "y": 570
+   "y": 1080
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -4912,7 +5412,7 @@
    "layer": 2,
    "q1_node_id": "together-ai/capital",
    "x": 560,
-   "y": 510
+   "y": 930
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -4925,7 +5425,7 @@
    "layer": 2,
    "q1_node_id": "nebius/capital",
    "x": 560,
-   "y": 390
+   "y": 660
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -4938,7 +5438,7 @@
    "layer": 2,
    "q1_node_id": "lambda/capital",
    "x": 560,
-   "y": 300
+   "y": 510
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -4951,7 +5451,7 @@
    "layer": 2,
    "q1_node_id": "perplexity/capital",
    "x": 560,
-   "y": 450
+   "y": 750
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -4964,7 +5464,7 @@
    "layer": 2,
    "q1_node_id": "anysphere/capital",
    "x": 560,
-   "y": 30
+   "y": 60
   },
   {
    "activity": "private equity capital provision",
@@ -5302,7 +5802,7 @@
    "layer": 2,
    "q1_node_id": "helsing/capital",
    "x": 560,
-   "y": 240
+   "y": 420
   },
   {
    "activity": "capital (strategic investment facet)",
@@ -5328,7 +5828,7 @@
    "layer": 2,
    "q1_node_id": "synthesia/capital",
    "x": 560,
-   "y": 480
+   "y": 840
   },
   {
    "activity": "capital (corporate VC facet \u2014 distinct from any future Google/Alphabet treasury node)",
@@ -5523,7 +6023,7 @@
    "layer": 2,
    "q1_node_id": "broadcom/capital",
    "x": 560,
-   "y": 60
+   "y": 120
   },
   {
    "activity": "datacenter operation (seller/landlord side \u2014 Monarch campus, West Virginia)",
@@ -5549,7 +6049,7 @@
    "layer": 2,
    "q1_node_id": "groq/capital",
    "x": 560,
-   "y": 210
+   "y": 390
   },
   {
    "activity": "capital (VC investment facet)",
@@ -5947,7 +6447,7 @@
    "layer": 2,
    "q1_node_id": null,
    "x": 560,
-   "y": 360
+   "y": 600
   },
   {
    "activity": "",
@@ -6088,6 +6588,272 @@
    "q1_node_id": null,
    "x": 280,
    "y": 1860
+  },
+  {
+   "activity": "general contractor (EPC)",
+   "atom_type": "entity",
+   "canonical_label": "Yates Construction",
+   "core_buildout": false,
+   "entity_slug": "yates-construction",
+   "external": true,
+   "facet_label": "Yates Construction",
+   "id": "kat-ent-vendor-yates-construction",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 1110
+  },
+  {
+   "activity": "MEP/cleanroom construction contractor",
+   "atom_type": "entity",
+   "canonical_label": "United Integrated Services (UIS)",
+   "core_buildout": false,
+   "entity_slug": "united-integrated-services-uis",
+   "external": true,
+   "facet_label": "United Integrated Services (UIS)",
+   "id": "kat-ent-vendor-united-integrated-services",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 960
+  },
+  {
+   "activity": "EPC contractor",
+   "atom_type": "entity",
+   "canonical_label": "CTCI Americas",
+   "core_buildout": false,
+   "entity_slug": "ctci-americas",
+   "external": true,
+   "facet_label": "CTCI Americas",
+   "id": "kat-ent-vendor-ctci-americas",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 150
+  },
+  {
+   "activity": "cleanroom/facility integration contractor",
+   "atom_type": "entity",
+   "canonical_label": "Marketech International",
+   "core_buildout": false,
+   "entity_slug": "marketech-international",
+   "external": true,
+   "facet_label": "Marketech International",
+   "id": "kat-ent-vendor-marketech-international",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 540
+  },
+  {
+   "activity": "land seller (state trust land auction)",
+   "atom_type": "entity",
+   "canonical_label": "Arizona State Land Department",
+   "core_buildout": false,
+   "entity_slug": "arizona-state-land-department",
+   "external": true,
+   "facet_label": "Arizona State Land Department",
+   "id": "kat-ent-vendor-arizona-state-land-department",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 90
+  },
+  {
+   "activity": "EPC contractor (affiliate)",
+   "atom_type": "entity",
+   "canonical_label": "SK ecoplant",
+   "core_buildout": false,
+   "entity_slug": "sk-ecoplant",
+   "external": true,
+   "facet_label": "SK ecoplant",
+   "id": "kat-ent-vendor-sk-ecoplant",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 780
+  },
+  {
+   "activity": "wastewater-treatment EPC contractor",
+   "atom_type": "entity",
+   "canonical_label": "Techcross Water & Energy",
+   "core_buildout": false,
+   "entity_slug": "techcross-water-energy",
+   "external": true,
+   "facet_label": "Techcross Water & Energy",
+   "id": "kat-ent-vendor-techcross-water-energy",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 900
+  },
+  {
+   "activity": "chemical supply system contractor",
+   "atom_type": "entity",
+   "canonical_label": "TEMC CNS",
+   "core_buildout": false,
+   "entity_slug": "temc-cns",
+   "external": true,
+   "facet_label": "TEMC CNS",
+   "id": "kat-ent-vendor-temc-cns",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 870
+  },
+  {
+   "activity": "EUV lithography equipment supplier",
+   "atom_type": "entity",
+   "canonical_label": "ASML",
+   "core_buildout": false,
+   "entity_slug": "asml",
+   "external": true,
+   "facet_label": "ASML",
+   "id": "kat-ent-asml-equipment-sales",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 0
+  },
+  {
+   "activity": "water infrastructure contractor/operator",
+   "atom_type": "entity",
+   "canonical_label": "EPCOR Utilities",
+   "core_buildout": false,
+   "entity_slug": "epcor-utilities",
+   "external": true,
+   "facet_label": "EPCOR Utilities",
+   "id": "kat-ent-vendor-epcor-utilities",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 300
+  },
+  {
+   "activity": "general contractor (cleanroom construction; role later reduced)",
+   "atom_type": "entity",
+   "canonical_label": "Exyte",
+   "core_buildout": false,
+   "entity_slug": "exyte",
+   "external": true,
+   "facet_label": "Exyte",
+   "id": "kat-ent-vendor-exyte",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 360
+  },
+  {
+   "activity": "construction manager-at-risk",
+   "atom_type": "entity",
+   "canonical_label": "Yates/Layton Joint Venture",
+   "core_buildout": false,
+   "entity_slug": "yates-layton-joint-venture",
+   "external": true,
+   "facet_label": "Yates/Layton Joint Venture",
+   "id": "kat-ent-vendor-yates-layton-jv",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 1140
+  },
+  {
+   "activity": "joint-venture construction partner / landlord",
+   "atom_type": "entity",
+   "canonical_label": "Hung Ching Construction",
+   "core_buildout": false,
+   "entity_slug": "hung-ching-construction",
+   "external": true,
+   "facet_label": "Hung Ching Construction",
+   "id": "kat-ent-vendor-hung-ching-construction",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 450
+  },
+  {
+   "activity": "substrate supplier / JV partner",
+   "atom_type": "entity",
+   "canonical_label": "WUS Printed Circuit",
+   "core_buildout": false,
+   "entity_slug": "wus-printed-circuit",
+   "external": true,
+   "facet_label": "WUS Printed Circuit",
+   "id": "kat-ent-vendor-wus-printed-circuit",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 1050
+  },
+  {
+   "activity": "general contractor",
+   "atom_type": "entity",
+   "canonical_label": "Okland Construction",
+   "core_buildout": false,
+   "entity_slug": "okland-construction",
+   "external": true,
+   "facet_label": "Okland Construction",
+   "id": "kat-ent-vendor-okland-construction",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 690
+  },
+  {
+   "activity": "engineering firm",
+   "atom_type": "entity",
+   "canonical_label": "SSOE Group",
+   "core_buildout": false,
+   "entity_slug": "ssoe-group",
+   "external": true,
+   "facet_label": "SSOE Group",
+   "id": "kat-ent-vendor-ssoe-group",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 810
+  },
+  {
+   "activity": "land seller",
+   "atom_type": "entity",
+   "canonical_label": "Vistancia Development LLC",
+   "core_buildout": false,
+   "entity_slug": "vistancia-development-llc",
+   "external": true,
+   "facet_label": "Vistancia Development LLC",
+   "id": "kat-ent-vendor-vistancia-development",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 1020
+  },
+  {
+   "activity": "general contractor",
+   "atom_type": "entity",
+   "canonical_label": "Evans General Contractors",
+   "core_buildout": false,
+   "entity_slug": "evans-general-contractors",
+   "external": true,
+   "facet_label": "Evans General Contractors",
+   "id": "kat-ent-vendor-evans-general-contractors",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 330
+  },
+  {
+   "activity": "underground utility contractor",
+   "atom_type": "entity",
+   "canonical_label": "Moss Utilities",
+   "core_buildout": false,
+   "entity_slug": "moss-utilities",
+   "external": true,
+   "facet_label": "Moss Utilities",
+   "id": "kat-ent-vendor-moss-utilities",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 630
   }
  ]
 }

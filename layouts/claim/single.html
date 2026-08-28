@@ -70,6 +70,13 @@ table.claim-pieces tfoot td{ padding-top:.6rem; font-weight:700; border-top:2px 
 table.claim-pieces tr.piece-vendor-unspecified td:first-child{ color:var(--ink-70); }
 .piece-vu-tag{ display:inline-block; font-size:.66rem; text-transform:uppercase; letter-spacing:.04em;
   color:var(--ink-45); background:var(--ink-06); border-radius:2px; padding:.1rem .4rem; margin-left:.3rem; }
+.claim-hyp-tag{ display:inline-block; font-family:var(--sans); font-size:.68rem; text-transform:uppercase;
+  letter-spacing:.05em; font-weight:700; color:var(--interp,#5A4B8C);
+  background:var(--interp-tint,#EEEAF7); border-radius:2px; padding:.15rem .5rem; margin:.3rem 0 0; }
+.claim-hyp-note{ font-family:var(--sans); font-size:.82rem; color:var(--ink-45); margin:.4rem 0 0; }
+ul.hyp-recipients{ list-style:none; margin:.5rem 0 0; padding:0; display:grid; gap:.5rem; }
+ul.hyp-recipients li{ border:1px solid var(--hair); border-radius:6px; padding:.6rem .8rem; }
+ul.hyp-recipients .claim-hyp-tag{ margin:0 0 0 .5rem; vertical-align:middle; }
 </style>
 </head>
 <body>
@@ -110,6 +117,7 @@ table.claim-pieces tr.piece-vendor-unspecified td:first-child{ color:var(--ink-7
   <section class="claim-receipt">
     <div class="claim-head">
       <span class="claim-dim">{{ $c.label }}</span>
+      {{ if eq $c.epistemic_status "hypothesized" }}<span class="claim-hyp-tag">hypothesis — not confirmed</span>{{ end }}
       <h1 class="claim-val">{{ $c.value }}</h1>
       <p class="claim-meta">
         {{ with $c.confidence }}<span class="conf c-{{ . }}">{{ . }} confidence</span> · {{ end }}
@@ -152,6 +160,32 @@ table.claim-pieces tr.piece-vendor-unspecified td:first-child{ color:var(--ink-7
     <div class="claim-section">
       <h2>Basis</h2>
       <p class="claim-basis-narrative">{{ . }}</p>
+    </div>
+    {{ end }}
+
+    {{ with $c.explains_claim }}
+    {{ with index $claimById . }}
+    <div class="claim-section">
+      <p class="claim-hyp-note">This is a hypothesized partial answer to
+        <a href="/q1claim/{{ .id }}/">{{ .label }}</a> — not a confirmed
+        decomposition of its figure, and not counted toward any total.</p>
+    </div>
+    {{ end }}
+    {{ end }}
+
+    {{ with $c.hypothesized_recipients }}
+    <div class="claim-section">
+      <h2>Hypothesized recipients <span class="n">{{ len . }}</span></h2>
+      <p class="src-meta">This claim's own source names no external recipient. Separate public
+        reporting suggests some of who the money likely went to — not confirmed, not summed
+        into the total above.</p>
+      <ul class="hyp-recipients">
+        {{ range $hid := . }}{{ with index $claimById $hid }}
+        <li><a href="/q1claim/{{ .id }}/">{{ .label }}</a><span class="claim-hyp-tag">hypothesis</span>
+          <p class="claim-hyp-note">{{ .value }}</p>
+        </li>
+        {{ end }}{{ end }}
+      </ul>
     </div>
     {{ end }}
 
