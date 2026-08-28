@@ -1,7 +1,7 @@
 {
  "cut_core_buildout_version": 3,
  "dropped_for_layering": [],
- "edge_count": 220,
+ "edge_count": 257,
  "edges": [
   {
    "flows": [],
@@ -3900,11 +3900,866 @@
    "total_amount": null,
    "unit": "USD",
    "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 375000000,
+     "basis": "point",
+     "claim_id": "kat-hyp2-q1-kat-ent-stargate-datacenter-construction-kat-ent-vendor-foxconn",
+     "date": null,
+     "destination_category": "land, shell & materials",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://techcrunch.com/2025/08/08/softbank-reportedly-bought-foxconns-ohio-factory-for-the-stargate-ai-project/"
+     ],
+     "summary": "Foxconn sold its 6.2M sq ft former Lordstown Assembly plant to a SoftBank-affiliated buyer ('Crescent Dune LLC') for $375M, then leases it back to manufacture Stargate data center equipment; Shimizu North America LLC is the contractor starting construction there.",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-kat-ent-stargate-datacenter-construction-funds-kat-ent-vendor-foxconn",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-stargate-datacenter-construction",
+   "target": "kat-ent-vendor-foxconn",
+   "total_amount": 375000000,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp2-q1-kat-ent-stargate-datacenter-construction-kat-ent-vendor-shimizu-north-ameri",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://www.datacenterdynamics.com/en/news/foxconn-and-softbank-to-manufacture-stargate-data-center-equipment-at-lordstown-ohio-facility/"
+     ],
+     "summary": "Contractor starting construction at the Lordstown, Ohio Stargate equipment-manufacturing site.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-stargate-datacenter-construction-funds-kat-ent-vendor-shimizu-north-america",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-stargate-datacenter-construction",
+   "target": "kat-ent-vendor-shimizu-north-america",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp2-q1-kat-ent-stargate-datacenter-construction-kat-ent-vendor-bloom-energy",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://www.enverus.com/blog/cracks-pipe-pipeline-bloom-energy-fuel-cell-data-center/"
+     ],
+     "summary": "Oracle agreed to purchase up to 2.45GW of Bloom solid-oxide fuel cells for the New Mexico Stargate/Project Jupiter site; no dollar figure disclosed, and the project is reportedly stalled after New Mexico's State Land Office denied a needed gas-pipeline application.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-stargate-datacenter-construction-funds-kat-ent-vendor-bloom-energy",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-stargate-datacenter-construction",
+   "target": "kat-ent-vendor-bloom-energy",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 7100000000,
+     "basis": "point",
+     "claim_id": "kat-claim-jpmorgan-chase-capital-crusoe-datacenter-construction-2026-phase2-loan-obs0",
+     "date": null,
+     "destination_category": "land, shell & materials",
+     "flow_type": "debt",
+     "source_urls": [
+      "https://www.costar.com/article/1387166843/first-stargate-data-center-project-lands-7-1-billion-construction-loan"
+     ],
+     "summary": "$7.1B second JPMorgan construction loan for Crusoe's Abilene phase 2.",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-jpmorgan-chase-capital-funds-crusoe-datacenter-construction-2026-phase2-loan",
+   "note": "Second, separate loan from the existing accepted $2.3B JPMorgan claim -- same lender, same borrower facet, different facility.",
+   "role": null,
+   "source": "kat-ent-jpmorgan-chase-capital",
+   "target": "kat-ent-crusoe-datacenter-construction",
+   "total_amount": 7100000000,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 5000000000,
+     "basis": "estimate",
+     "claim_id": "kat-hyp2-q1-kat-ent-crusoe-datacenter-construction-kat-ent-vendor-blue-owl-crusoe-phase",
+     "date": null,
+     "destination_category": "land, shell & materials",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://electroneconomics.substack.com/p/hyperion-abilene-matador-portsmouth"
+     ],
+     "summary": "Blue Owl Capital and Crusoe reportedly contributed approximately $5B in equity for phase 2, alongside the $7.1B JPMorgan debt -- a secondary source's estimate, not an official disclosure; exact split not confirmed.",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-kat-ent-crusoe-datacenter-construction-funds-kat-ent-vendor-blue-owl-crusoe-phase2-equity",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-crusoe-datacenter-construction",
+   "target": "kat-ent-vendor-blue-owl-crusoe-phase2-equity",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp2-q1-kat-ent-crusoe-datacenter-construction-kat-ent-vendor-form-energy",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://lanin.substack.com/"
+     ],
+     "summary": "Signed to supply 12 GWh of iron-air battery storage for the Abilene campus, deliveries starting 2027; no dollar figure disclosed.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-crusoe-datacenter-construction-funds-kat-ent-vendor-form-energy",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-crusoe-datacenter-construction",
+   "target": "kat-ent-vendor-form-energy",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-turner-construction-epc-servic",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://www.turnerconstruction.com/pages/richland-parish-data-center-resource-page"
+     ],
+     "summary": "General contractor (scope: the four primary AI data center buildings) at Meta's Hyperion campus, Richland Parish, Louisiana.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-meta-datacenter-construction-funds-kat-ent-turner-construction-epc-services",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-meta-datacenter-construction",
+   "target": "kat-ent-turner-construction-epc-services",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-vendor-dpr-construction",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://www.dpr.com/projects/meta-richland-parish-data-center"
+     ],
+     "summary": "Named general contractor at Meta's Hyperion campus, Richland Parish, Louisiana.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-meta-datacenter-construction-funds-kat-ent-vendor-dpr-construction",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-meta-datacenter-construction",
+   "target": "kat-ent-vendor-dpr-construction",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-vendor-mortenson",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://en.wikipedia.org/wiki/Hyperion_Data_Center"
+     ],
+     "summary": "Named general contractor at Meta's Hyperion campus, Richland Parish, Louisiana.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-meta-datacenter-construction-funds-kat-ent-vendor-mortenson",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-meta-datacenter-construction",
+   "target": "kat-ent-vendor-mortenson",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 875000000,
+     "basis": "point",
+     "claim_id": "kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-vendor-louisiana-hyperion-vend",
+     "date": null,
+     "destination_category": "land, shell & materials",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://about.fb.com/news/2025/12/metas-richland-parish-data-center-supports-louisiana-economy-875-million-in-contracts/"
+     ],
+     "summary": "Meta states it has contracted more than $875M with roughly 160 Louisiana vendors (84% local to Northeast Louisiana) for the Hyperion campus, including named subcontractors Copeland Electric Co. (electrical) and 1LEMOINE (paving/utilities) -- an aggregate figure, not itemized per vendor.",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-kat-ent-meta-datacenter-construction-funds-kat-ent-vendor-louisiana-hyperion-vendors",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-meta-datacenter-construction",
+   "target": "kat-ent-vendor-louisiana-hyperion-vendors",
+   "total_amount": 875000000,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 11000000000,
+     "basis": "estimate",
+     "claim_id": "kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-vendor-entergy-louisiana-gener",
+     "date": null,
+     "destination_category": "power infrastructure",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.entergy.com/news/entergy-louisiana-power-meta-s-data-center-in-richland-parish"
+     ],
+     "summary": "Entergy Louisiana is building 10 gas-fired power plants (7+ GW total, expanded from an initial 3-plant ~2,260MW plan) to power Hyperion; Meta funds the full 15-year revenue requirement. Estimated systemwide cost of the 10 plants: approximately $11B -- an estimate, not a confirmed invoice. Turbine OEM (GE Vernova/Siemens Energy/Mitsubishi Power) not publicly confirmed.",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-kat-ent-meta-datacenter-construction-funds-kat-ent-vendor-entergy-louisiana-generation",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-meta-datacenter-construction",
+   "target": "kat-ent-vendor-entergy-louisiana-generation",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-vendor-williams-will-power",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://www.datacenterdynamics.com/en/news/ohio-regulators-approve-construction-of-200mw-gas-power-plant-to-serve-meta-data-center-in-new-albany-ohio/"
+     ],
+     "summary": "Williams' Will-Power subsidiary is building a ~200MW gas-fired 'Socrates South' plant to power Meta's New Albany, Ohio ('Prometheus') data center; no dollar figure disclosed.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-meta-datacenter-construction-funds-kat-ent-vendor-williams-will-power",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-meta-datacenter-construction",
+   "target": "kat-ent-vendor-williams-will-power",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 40000000000,
+     "basis": "point",
+     "claim_id": "kat-hyp2-q1-kat-ent-oracle-capital-kat-ent-vendor-nvidia-oracle-gpu-order",
+     "date": null,
+     "destination_category": "compute silicon & systems",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.networkworld.com/article/3995015/oracle-to-spend-40b-on-nvidia-chips-for-openai-data-center-in-texas.html"
+     ],
+     "summary": "Oracle reportedly ordered approximately $40B of Nvidia GB200 GPUs (~400,000 units) specifically for the Abilene, TX Stargate facility it leases to OpenAI under a 15-year deal -- distinct from the broader $100B Nvidia-OpenAI investment tracked elsewhere.",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-kat-ent-oracle-capital-funds-kat-ent-vendor-nvidia-oracle-gpu-order",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-oracle-capital",
+   "target": "kat-ent-vendor-nvidia-oracle-gpu-order",
+   "total_amount": 40000000000,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp2-q1-kat-ent-oracle-capital-kat-ent-vendor-walbridge",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://www.oracle.com/news/announcement/related-digital-oracle-openai-walbridge-and-governor-whitmer-celebrate-construction-of-stargate-campus-in-saline-township-2026-06-01/"
+     ],
+     "summary": "General contractor on the Oracle/OpenAI/Related Digital Stargate campus ('The Barn') in Saline Township, Michigan -- reported as a $16B project overall (not Walbridge's specific contract value), Walbridge's largest project in its 110-year history.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-oracle-capital-funds-kat-ent-vendor-walbridge",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-oracle-capital",
+   "target": "kat-ent-vendor-walbridge",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-ryan-companies",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://www.equipmentworld.com/market-pulse/article/15816534/data-center-construction-boom-to-grow-in-2026"
+     ],
+     "summary": "General contractor on Google's 'Project Skyway' data center, Pine Island, Minnesota.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-google-capital-funds-kat-ent-vendor-ryan-companies",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-google-capital",
+   "target": "kat-ent-vendor-ryan-companies",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-whiting-turner",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://buildermuse.com/commercial/the-top-20-data-center-construction-contractors/"
+     ],
+     "summary": "Reported as a contractor for Google on hyperscale data center projects generally; no single named site or dollar figure surfaced.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-google-capital-funds-kat-ent-vendor-whiting-turner",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-google-capital",
+   "target": "kat-ent-vendor-whiting-turner",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 58500000,
+     "basis": "point",
+     "claim_id": "kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-monroe-county-ga",
+     "date": null,
+     "destination_category": "land, shell & materials",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.datacenterdynamics.com/en/news/google-purchases-950-acres-for-potential-data-center-in-monroe-county-georgia/"
+     ],
+     "summary": "Google bought 950 acres in Monroe County, Georgia for $58.5M (Sept 2025), near Cloverleaf's Rumble Technology Campus, for a potential data center.",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-kat-ent-google-capital-funds-kat-ent-vendor-monroe-county-ga",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-google-capital",
+   "target": "kat-ent-vendor-monroe-county-ga",
+   "total_amount": 58500000,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 14055406,
+     "basis": "point",
+     "claim_id": "kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-botetourt-county-va",
+     "date": null,
+     "destination_category": "land, shell & materials",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.botetourtva.gov/1021/Google-Data-Center"
+     ],
+     "summary": "Google bought approximately 312 acres from Botetourt County, Virginia for $14,055,406.37, plus a $4M contribution to county projects (June 2025).",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-kat-ent-google-capital-funds-kat-ent-vendor-botetourt-county-va",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-google-capital",
+   "target": "kat-ent-vendor-botetourt-county-va",
+   "total_amount": 14055406,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-kairos-power",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://www.datacenterdynamics.com/en/news/google-signs-nuclear-smr-deal-with-kairos-for-data-center-power/"
+     ],
+     "summary": "Google backing 6-7 small modular reactors (up to 500MW total) via a US-only power purchase agreement; first unit targeted 2030; no dollar figure disclosed.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-google-capital-funds-kat-ent-vendor-kairos-power",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-google-capital",
+   "target": "kat-ent-vendor-kairos-power",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-vertiv-google",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://www.vertiv.com/en-emea/solutions/ai-hub/vertiv-and-the-open-compute-project-ocp/"
+     ],
+     "summary": "Supplies liquid-cooling technology (coolant distribution units) used in Google's 'Project Deschutes' open-standard liquid cooling design; no dollar figure disclosed.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-google-capital-funds-kat-ent-vendor-vertiv-google",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-google-capital",
+   "target": "kat-ent-vendor-vertiv-google",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp2-q1-kat-ent-intel-foundry-construction-kat-ent-vendor-bechtel",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://www.enr.com/articles/55464-bechtel-wins-phase-1-contract-for-20b-intel-chip-plant-project"
+     ],
+     "summary": "General contractor for Phase 1 of Intel's New Albany, Ohio fab -- 2.5M sq ft including 600,000 sq ft of cleanrooms; no dollar figure disclosed for Bechtel's own contract.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-intel-foundry-construction-funds-kat-ent-vendor-bechtel",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-intel-foundry-construction",
+   "target": "kat-ent-vendor-bechtel",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp2-q1-kat-ent-intel-foundry-construction-kat-ent-vendor-hoffman-construction",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://www.enr.com/articles/58334-intels-20b-arizona-chip-plant-project-poised-to-make-national-impact"
+     ],
+     "summary": "General contractor for Intel's Fab 52 and Fab 62 in Chandler, Arizona; Fab 52 (~$5B, 2.9M sq ft, project total not Hoffman-specific) was ENR's 2025 Project of the Year. Jacobs Engineering is the project designer.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-intel-foundry-construction-funds-kat-ent-vendor-hoffman-construction",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-intel-foundry-construction",
+   "target": "kat-ent-vendor-hoffman-construction",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 95000000,
+     "basis": "point",
+     "claim_id": "kat-hyp2-q1-kat-ent-intel-foundry-construction-kat-ent-vendor-aep-ohio-substation",
+     "date": null,
+     "destination_category": "power infrastructure",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.wosu.org/politics-government/2024-08-02/electric-build-up-for-intel-will-cost-95-million-all-of-aep-ohios-customers-could-be-on-the-hook"
+     ],
+     "summary": "AEP Ohio built a $95M, 500-megawatt substation ('Green Chapel Station') specifically for Intel's New Albany, Ohio fab; now sitting idle due to Intel's construction delay, with Meta separately seeking to draw power from it instead.",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-kat-ent-intel-foundry-construction-funds-kat-ent-vendor-aep-ohio-substation",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-intel-foundry-construction",
+   "target": "kat-ent-vendor-aep-ohio-substation",
+   "total_amount": 95000000,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp2-q1-kat-ent-vantage-data-centers-datacenter-construction-kat-ent-vendor-kiewit",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://www.linkedin.com/posts/kiewit_proud-to-partner-with-vantage-as-the-frontier-activity-7405305161444810752-aw5C"
+     ],
+     "summary": "Named design firm of record for Vantage's 'Frontier' megacampus (Shackelford County, TX, 1,200 acres, 10 buildings, 1.4GW, ~$25B total project cost) per a Texas Department of Licensing and Regulation filing; no dollar figure attached to Kiewit's scope. No general contractor has been publicly named for Frontier as a whole.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-vantage-data-centers-datacenter-construction-funds-kat-ent-vendor-kiewit",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-vantage-data-centers-datacenter-construction",
+   "target": "kat-ent-vendor-kiewit",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp2-q1-kat-ent-vantage-data-centers-datacenter-construction-kat-ent-turner-constru",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://www.enr.com/articles/61793-construction-team-chosen-for-first-phase-of-15b-wisconsin-data-center-campus"
+     ],
+     "summary": "Turner Construction, together with McCarthy Building Companies (as a joint venture), plus Whiting-Turner Contracting and The Weitz Company, are named contractors on Vantage's separate 'Lighthouse' Stargate campus in Port Washington, Wisconsin ($15B project, $8B first phase) -- a different Vantage project from the Texas Frontier megacampus.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-vantage-data-centers-datacenter-construction-funds-kat-ent-turner-construction-epc",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-vantage-data-centers-datacenter-construction",
+   "target": "kat-ent-turner-construction-epc-services",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [],
+   "id": "rel-kat-ent-vendor-bnp-paribas-capital-member-of-kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility",
+   "note": "Syndicate member alongside JPMorgan/MUFG, per Bloomberg -- individual dollar allocation not disclosed.",
+   "role": "participant",
+   "source": "kat-ent-vendor-bnp-paribas-capital",
+   "target": "kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [],
+   "id": "rel-kat-ent-vendor-goldman-sachs-capital-member-of-kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility",
+   "note": "Syndicate member alongside JPMorgan/MUFG, per Bloomberg -- individual dollar allocation not disclosed.",
+   "role": "participant",
+   "source": "kat-ent-vendor-goldman-sachs-capital",
+   "target": "kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [],
+   "id": "rel-kat-ent-vendor-societe-generale-capital-member-of-kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility",
+   "note": "Syndicate member alongside JPMorgan/MUFG, per Bloomberg -- individual dollar allocation not disclosed.",
+   "role": "participant",
+   "source": "kat-ent-vendor-societe-generale-capital",
+   "target": "kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [],
+   "id": "rel-kat-ent-vendor-sumitomo-mitsui-banking-corp-capital-member-of-kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility",
+   "note": "Syndicate member alongside JPMorgan/MUFG, per Bloomberg -- individual dollar allocation not disclosed.",
+   "role": "participant",
+   "source": "kat-ent-vendor-sumitomo-mitsui-banking-corp-capital",
+   "target": "kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [],
+   "id": "rel-kat-ent-vendor-wells-fargo-capital-member-of-kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility",
+   "note": "Syndicate member alongside JPMorgan/MUFG, per Bloomberg -- individual dollar allocation not disclosed.",
+   "role": "participant",
+   "source": "kat-ent-vendor-wells-fargo-capital",
+   "target": "kat-evt-vantage-data-centers-2025-mufg-jpmorgan-facility",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 2300000000,
+     "basis": "point",
+     "claim_id": "kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-dell-coreweave",
+     "date": null,
+     "destination_category": "compute silicon & systems",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.dell.com/en-us/blog/dell-delivers-market-s-first-nvidia-gb300-nvl72-to-coreweave/"
+     ],
+     "summary": "CoreWeave buys GPU-equipped server racks from Dell (a systems integrator, not directly from Nvidia): a $2.3B order of Dell-built GB200 NVL72 systems (PowerEdge XE9712, liquid-cooled) for 2025 delivery. Not tied to this specific $3.1B facility -- public reporting describes CoreWeave's aggregate debt/capex, not facility-by-facility use.",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-kat-ent-coreweave-capital-funds-kat-ent-vendor-dell-coreweave",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-coreweave-capital",
+   "target": "kat-ent-vendor-dell-coreweave",
+   "total_amount": 2300000000,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 2600000000,
+     "basis": "estimate",
+     "claim_id": "kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-supermicro-coreweave",
+     "date": null,
+     "destination_category": "compute silicon & systems",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://x.com/Beth_Kindig/status/1832407478748778950"
+     ],
+     "summary": "CoreWeave was reported as Supermicro's largest customer, approximately 22% of Supermicro's revenue (~$2.6B) across Q3 2023-Q3 2024 -- an analyst-derived revenue attribution, not a disclosed contract value.",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-kat-ent-coreweave-capital-funds-kat-ent-vendor-supermicro-coreweave",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-coreweave-capital",
+   "target": "kat-ent-vendor-supermicro-coreweave",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 11000000000,
+     "basis": "estimate",
+     "claim_id": "kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-applied-digital",
+     "date": null,
+     "destination_category": "purchased compute capacity (services)",
+     "flow_type": "capacity/service payment",
+     "source_urls": [
+      "https://ir.applieddigital.com/news-events/press-releases/detail/123/applied-digital-announces-250mw-ai-data-center-lease-with"
+     ],
+     "summary": "CoreWeave leases capacity from Applied Digital's Ellendale, ND (Polaris Forge 1) campus under two ~15-year leases, initially 250MW/~$7B projected revenue, expanded by 150MW in Aug 2025 to roughly $11B combined, amended again April 2026.",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-kat-ent-coreweave-capital-funds-kat-ent-vendor-applied-digital",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-coreweave-capital",
+   "target": "kat-ent-vendor-applied-digital",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 4000000000,
+     "basis": "estimate",
+     "claim_id": "kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-blue-owl-chirisa-lancaster",
+     "date": null,
+     "destination_category": "purchased compute capacity (services)",
+     "flow_type": "capacity/service payment",
+     "source_urls": [
+      "https://www.marketscreener.com/news/blue-owl-chirisa-technology-parks-close-4-billion-funding-for-coreweave-data-center-ce7c50d8d98ff424"
+     ],
+     "summary": "Blue Owl Capital, Chirisa Technology Parks, and Machine Investment Group closed a $4B JV funding a 100MW Lancaster, Pennsylvania campus with CoreWeave as sole tenant -- the JV's own funding total, a proxy for but not necessarily equal to CoreWeave's specific lease payments.",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-kat-ent-coreweave-capital-funds-kat-ent-vendor-blue-owl-chirisa-lancaster",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-coreweave-capital",
+   "target": "kat-ent-vendor-blue-owl-chirisa-lancaster",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 6000000000,
+     "basis": "estimate",
+     "claim_id": "kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-turner-construction-epc-services",
+     "date": null,
+     "destination_category": "land, shell & materials",
+     "flow_type": "asset purchase",
+     "source_urls": [
+      "https://www.turnerconstruction.com/insights/coreweave-announces-multi-billion-dollar-commitment-to-ai-infrastructure-in-pennsylvania"
+     ],
+     "summary": "Turner Construction and Wohlsen Construction (joint venture) are building the $6B, ~100MW-expandable-to-300MW Lancaster, PA data center for CoreWeave -- may substantially overlap with the $4B Blue Owl/Chirisa JV funding total above, since both describe the same site; not additive.",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-kat-ent-coreweave-capital-funds-kat-ent-turner-construction-epc-services",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-coreweave-capital",
+   "target": "kat-ent-turner-construction-epc-services",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": 600000000,
+     "basis": "point",
+     "claim_id": "kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-societe-generale-va-loan",
+     "date": null,
+     "destination_category": "land, shell & materials",
+     "flow_type": "debt",
+     "source_urls": [
+      "https://commercialobserver.com/2024/12/societe-generale-600m-virginia-data-center/"
+     ],
+     "summary": "A Societe Generale-led syndicate provided a $600M construction loan for a separate 50MW-then-120MW CoreWeave campus (CTP-01) in Chester/Chesterfield, Virginia, financed by Blue Owl Real Estate, Chirisa, and PowerHouse Data Centers.",
+     "unit": "USD"
+    }
+   ],
+   "id": "rel-kat-ent-coreweave-capital-funds-kat-ent-vendor-societe-generale-va-loan",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-coreweave-capital",
+   "target": "kat-ent-vendor-societe-generale-va-loan",
+   "total_amount": 600000000,
+   "unit": "USD",
+   "vendor_unspecified": false
+  },
+  {
+   "flows": [
+    {
+     "amount": null,
+     "basis": null,
+     "claim_id": "kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-vertiv-coreweave",
+     "date": null,
+     "destination_category": null,
+     "flow_type": null,
+     "source_urls": [
+      "https://enkiai.com/ai-market-intelligence/data-center-liquid-cooling-companies/"
+     ],
+     "summary": "Supplies liquid cooling infrastructure for CoreWeave racks running Nvidia GB200 NVL72 at up to 250kW/rack; no dollar figure disclosed.",
+     "unit": null
+    }
+   ],
+   "id": "rel-kat-ent-coreweave-capital-funds-kat-ent-vendor-vertiv-coreweave",
+   "note": "Hypothesized recipient (round 2), not the original claim's own source. Not summed into any total.",
+   "role": null,
+   "source": "kat-ent-coreweave-capital",
+   "target": "kat-ent-vendor-vertiv-coreweave",
+   "total_amount": null,
+   "unit": "USD",
+   "vendor_unspecified": false
   }
  ],
  "generated_by": "graph/export_q1.py",
- "layer_count": 5,
- "node_count": 223,
+ "layer_count": 6,
+ "node_count": 256,
  "nodes": [
   {
    "activity": "capital (treasury/financing facet)",
@@ -3917,7 +4772,7 @@
    "layer": 0,
    "q1_node_id": "tsmc/capital",
    "x": 0,
-   "y": 2880
+   "y": 3000
   },
   {
    "activity": "foundry construction (fab capex)",
@@ -3943,7 +4798,7 @@
    "layer": 0,
    "q1_node_id": "ext/public-equity-market",
    "x": 0,
-   "y": 3300
+   "y": 3450
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -3956,7 +4811,7 @@
    "layer": 2,
    "q1_node_id": "coreweave/capital",
    "x": 560,
-   "y": 210
+   "y": 300
   },
   {
    "activity": "datacenter operation (buyer side)",
@@ -3969,7 +4824,7 @@
    "layer": 0,
    "q1_node_id": "openai/datacenter-operation",
    "x": 0,
-   "y": 2340
+   "y": 2400
   },
   {
    "activity": "chip design",
@@ -3995,7 +4850,7 @@
    "layer": 2,
    "q1_node_id": "openai/capital",
    "x": 560,
-   "y": 720
+   "y": 1050
   },
   {
    "activity": "model training (compute consumption)",
@@ -4034,7 +4889,7 @@
    "layer": 0,
    "q1_node_id": "google/ai-compute-procurement",
    "x": 0,
-   "y": 1290
+   "y": 1350
   },
   {
    "activity": "datacenter operation",
@@ -4047,7 +4902,7 @@
    "layer": 1,
    "q1_node_id": "xai/datacenter-operation",
    "x": 280,
-   "y": 1890
+   "y": 1860
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -4060,7 +4915,7 @@
    "layer": 2,
    "q1_node_id": "xai/capital",
    "x": 560,
-   "y": 1170
+   "y": 1650
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -4086,7 +4941,7 @@
    "layer": 2,
    "q1_node_id": "anthropic/capital",
    "x": 560,
-   "y": 30
+   "y": 60
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -4112,7 +4967,7 @@
    "layer": 2,
    "q1_node_id": "mistral/capital",
    "x": 560,
-   "y": 570
+   "y": 810
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -4125,7 +4980,7 @@
    "layer": 2,
    "q1_node_id": "inflection/capital",
    "x": 560,
-   "y": 480
+   "y": 660
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -4138,7 +4993,7 @@
    "layer": 2,
    "q1_node_id": "cohere/capital",
    "x": 560,
-   "y": 180
+   "y": 270
   },
   {
    "activity": "chip design",
@@ -4151,7 +5006,7 @@
    "layer": 0,
    "q1_node_id": "nvidia/chip-design",
    "x": 0,
-   "y": 2250
+   "y": 2310
   },
   {
    "activity": "capital (VC investment facet)",
@@ -4164,7 +5019,7 @@
    "layer": 0,
    "q1_node_id": "lightspeed/capital",
    "x": 0,
-   "y": 1710
+   "y": 1770
   },
   {
    "activity": "capital (VC investment facet)",
@@ -4177,7 +5032,7 @@
    "layer": 0,
    "q1_node_id": "redpoint/capital",
    "x": 0,
-   "y": 2580
+   "y": 2640
   },
   {
    "activity": "capital (VC investment facet)",
@@ -4190,7 +5045,7 @@
    "layer": 0,
    "q1_node_id": "index-ventures/capital",
    "x": 0,
-   "y": 1470
+   "y": 1530
   },
   {
    "activity": "capital (individual angel investment facet)",
@@ -4203,7 +5058,7 @@
    "layer": 0,
    "q1_node_id": "xavier-niel/capital",
    "x": 0,
-   "y": 3120
+   "y": 3270
   },
   {
    "activity": "capital (sovereign/strategic investment facet)",
@@ -4216,7 +5071,7 @@
    "layer": 0,
    "q1_node_id": "bpifrance/capital",
    "x": 0,
-   "y": 510
+   "y": 540
   },
   {
    "activity": "capital (individual angel investment facet)",
@@ -4229,7 +5084,7 @@
    "layer": 0,
    "q1_node_id": "eric-schmidt/capital",
    "x": 0,
-   "y": 990
+   "y": 1020
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -4242,7 +5097,7 @@
    "layer": 0,
    "q1_node_id": "microsoft/capital",
    "x": 0,
-   "y": 2040
+   "y": 2100
   },
   {
    "activity": "capital (strategic/VC investment facet \u2014 distinct from nvidia/chip-design, which sells)",
@@ -4255,7 +5110,7 @@
    "layer": 0,
    "q1_node_id": "nvidia/capital",
    "x": 0,
-   "y": 2280
+   "y": 2340
   },
   {
    "activity": "capital (individual angel investment facet)",
@@ -4268,7 +5123,7 @@
    "layer": 0,
    "q1_node_id": "reid-hoffman/capital",
    "x": 0,
-   "y": 2610
+   "y": 2670
   },
   {
    "activity": "capital (individual angel investment facet)",
@@ -4281,7 +5136,7 @@
    "layer": 0,
    "q1_node_id": "bill-gates/capital",
    "x": 0,
-   "y": 390
+   "y": 420
   },
   {
    "activity": "capital (institutional investment facet)",
@@ -4294,7 +5149,7 @@
    "layer": 0,
    "q1_node_id": "psp-investments/capital",
    "x": 0,
-   "y": 2430
+   "y": 2490
   },
   {
    "activity": "capital (strategic investment facet)",
@@ -4307,7 +5162,7 @@
    "layer": 0,
    "q1_node_id": "cisco/capital",
    "x": 0,
-   "y": 600
+   "y": 630
   },
   {
    "activity": "capital (strategic investment facet)",
@@ -4320,7 +5175,7 @@
    "layer": 0,
    "q1_node_id": "fujitsu/capital",
    "x": 0,
-   "y": 1140
+   "y": 1170
   },
   {
    "activity": "capital (corporate VC facet \u2014 distinct from amd/chip-design, which sells)",
@@ -4346,7 +5201,7 @@
    "layer": 0,
    "q1_node_id": "edc/capital",
    "x": 0,
-   "y": 1020
+   "y": 1050
   },
   {
    "activity": "capital (VC investment facet)",
@@ -4359,7 +5214,7 @@
    "layer": 0,
    "q1_node_id": "radical-ventures/capital",
    "x": 0,
-   "y": 2550
+   "y": 2610
   },
   {
    "activity": "capital (VC investment facet)",
@@ -4372,7 +5227,7 @@
    "layer": 0,
    "q1_node_id": "inovia/capital",
    "x": 0,
-   "y": 1530
+   "y": 1590
   },
   {
    "activity": "capital (corporate VC facet)",
@@ -4385,7 +5240,7 @@
    "layer": 0,
    "q1_node_id": "salesforce-ventures/capital",
    "x": 0,
-   "y": 2790
+   "y": 2850
   },
   {
    "activity": "capital (strategic investment facet \u2014 distinct from any future ASML equipment-sales node, not yet instantiated)",
@@ -4411,7 +5266,7 @@
    "layer": 0,
    "q1_node_id": "dst-global/capital",
    "x": 0,
-   "y": 780
+   "y": 810
   },
   {
    "activity": "capital (VC investment facet)",
@@ -4437,7 +5292,7 @@
    "layer": 0,
    "q1_node_id": "general-catalyst/capital",
    "x": 0,
-   "y": 1230
+   "y": 1260
   },
   {
    "activity": "capital (VC investment facet)",
@@ -4450,7 +5305,7 @@
    "layer": 0,
    "q1_node_id": "founders-fund/capital",
    "x": 0,
-   "y": 1110
+   "y": 1140
   },
   {
    "activity": "capital (institutional investment facet)",
@@ -4463,7 +5318,7 @@
    "layer": 0,
    "q1_node_id": "fidelity/capital",
    "x": 0,
-   "y": 1050
+   "y": 1080
   },
   {
    "activity": "capital (VC investment facet)",
@@ -4476,7 +5331,7 @@
    "layer": 0,
    "q1_node_id": "long-journey-ventures/capital",
    "x": 0,
-   "y": 1740
+   "y": 1800
   },
   {
    "activity": "capital (sovereign wealth investment facet)",
@@ -4489,7 +5344,7 @@
    "layer": 0,
    "q1_node_id": "mubadala/capital",
    "x": 0,
-   "y": 2130
+   "y": 2190
   },
   {
    "activity": "capital (VC investment facet)",
@@ -4502,7 +5357,7 @@
    "layer": 0,
    "q1_node_id": "ribbit-capital/capital",
    "x": 0,
-   "y": 2640
+   "y": 2700
   },
   {
    "activity": "capital (VC investment facet)",
@@ -4515,7 +5370,7 @@
    "layer": 0,
    "q1_node_id": "valor-equity-partners/capital",
    "x": 0,
-   "y": 3060
+   "y": 3180
   },
   {
    "activity": "capital (VC investment facet)",
@@ -4528,7 +5383,7 @@
    "layer": 0,
    "q1_node_id": "nea/capital",
    "x": 0,
-   "y": 2220
+   "y": 2280
   },
   {
    "activity": "capital (individual angel investment facet)",
@@ -4541,7 +5396,7 @@
    "layer": 0,
    "q1_node_id": "marc-benioff/capital",
    "x": 0,
-   "y": 1920
+   "y": 1980
   },
   {
    "activity": "capital (sovereign/strategic investment facet)",
@@ -4554,7 +5409,7 @@
    "layer": 0,
    "q1_node_id": "prosperity7/capital",
    "x": 0,
-   "y": 2520
+   "y": 2580
   },
   {
    "activity": "capital (strategic investment facet)",
@@ -4567,7 +5422,7 @@
    "layer": 0,
    "q1_node_id": "damac-capital/capital",
    "x": 0,
-   "y": 750
+   "y": 780
   },
   {
    "activity": "capital (VC investment facet)",
@@ -4580,7 +5435,7 @@
    "layer": 0,
    "q1_node_id": "kleiner-perkins/capital",
    "x": 0,
-   "y": 1650
+   "y": 1710
   },
   {
    "activity": "capital (VC investment facet)",
@@ -4593,7 +5448,7 @@
    "layer": 0,
    "q1_node_id": "march-capital/capital",
    "x": 0,
-   "y": 1950
+   "y": 2010
   },
   {
    "activity": "capital (VC investment facet)",
@@ -4606,7 +5461,7 @@
    "layer": 0,
    "q1_node_id": "emergence-capital/capital",
    "x": 0,
-   "y": 960
+   "y": 990
   },
   {
    "activity": "capital (VC investment facet)",
@@ -4619,7 +5474,7 @@
    "layer": 0,
    "q1_node_id": "lux-capital/capital",
    "x": 0,
-   "y": 1770
+   "y": 1830
   },
   {
    "activity": "capital (corporate VC facet)",
@@ -4632,7 +5487,7 @@
    "layer": 0,
    "q1_node_id": "se-ventures/capital",
    "x": 0,
-   "y": 2700
+   "y": 2760
   },
   {
    "activity": "capital (VC investment facet)",
@@ -4645,7 +5500,7 @@
    "layer": 0,
    "q1_node_id": "greycroft/capital",
    "x": 0,
-   "y": 1350
+   "y": 1410
   },
   {
    "activity": "capital (VC/growth investment facet)",
@@ -4658,7 +5513,7 @@
    "layer": 0,
    "q1_node_id": "coatue/capital",
    "x": 0,
-   "y": 630
+   "y": 660
   },
   {
    "activity": "capital (VC investment facet)",
@@ -4684,7 +5539,7 @@
    "layer": 0,
    "q1_node_id": "orbis-investments/capital",
    "x": 0,
-   "y": 2370
+   "y": 2430
   },
   {
    "activity": "capital (institutional investment facet)",
@@ -4697,7 +5552,7 @@
    "layer": 0,
    "q1_node_id": "usit/capital",
    "x": 0,
-   "y": 3030
+   "y": 3150
   },
   {
    "activity": "capital (VC investment facet)",
@@ -4723,7 +5578,7 @@
    "layer": 0,
    "q1_node_id": "sk-telecom/capital",
    "x": 0,
-   "y": 2760
+   "y": 2820
   },
   {
    "activity": "capital (institutional investment facet)",
@@ -4736,7 +5591,7 @@
    "layer": 0,
    "q1_node_id": "t-rowe-price/capital",
    "x": 0,
-   "y": 2850
+   "y": 2970
   },
   {
    "activity": "capital (VC investment facet)",
@@ -4749,7 +5604,7 @@
    "layer": 0,
    "q1_node_id": "ivp/capital",
    "x": 0,
-   "y": 1440
+   "y": 1500
   },
   {
    "activity": "capital (individual angel investment facet)",
@@ -4762,7 +5617,7 @@
    "layer": 0,
    "q1_node_id": "jeff-bezos/capital",
    "x": 0,
-   "y": 1590
+   "y": 1650
   },
   {
    "activity": "capital (individual angel investment facet)",
@@ -4775,7 +5630,7 @@
    "layer": 0,
    "q1_node_id": "daniel-gross/capital",
    "x": 0,
-   "y": 810
+   "y": 840
   },
   {
    "activity": "capital (individual angel investment facet)",
@@ -4788,7 +5643,7 @@
    "layer": 0,
    "q1_node_id": "tobi-lutke/capital",
    "x": 0,
-   "y": 3000
+   "y": 3120
   },
   {
    "activity": "capital (individual angel investment facet)",
@@ -4801,7 +5656,7 @@
    "layer": 0,
    "q1_node_id": "elad-gil/capital",
    "x": 0,
-   "y": 930
+   "y": 960
   },
   {
    "activity": "capital (individual angel investment facet)",
@@ -4814,7 +5669,7 @@
    "layer": 0,
    "q1_node_id": "nat-friedman/capital",
    "x": 0,
-   "y": 2160
+   "y": 2220
   },
   {
    "activity": "capital (individual angel investment facet)",
@@ -4827,7 +5682,7 @@
    "layer": 0,
    "q1_node_id": "naval-ravikant/capital",
    "x": 0,
-   "y": 2190
+   "y": 2250
   },
   {
    "activity": "capital (individual angel investment facet)",
@@ -4853,7 +5708,7 @@
    "layer": 0,
    "q1_node_id": "thrive-capital/capital",
    "x": 0,
-   "y": 2970
+   "y": 3090
   },
   {
    "activity": "capital (institutional/real-estate investment facet)",
@@ -4866,7 +5721,7 @@
    "layer": 0,
    "q1_node_id": "blue-owl-capital/capital",
    "x": 0,
-   "y": 480
+   "y": 510
   },
   {
    "activity": "capital (institutional/real-estate investment facet)",
@@ -4879,7 +5734,7 @@
    "layer": 0,
    "q1_node_id": "primary-digital-infrastructure/capital",
    "x": 0,
-   "y": 2490
+   "y": 2550
   },
   {
    "activity": "capital (lending facet)",
@@ -4892,7 +5747,7 @@
    "layer": 0,
    "q1_node_id": "jpmorgan-chase/capital",
    "x": 0,
-   "y": 1560
+   "y": 1620
   },
   {
    "activity": "AI compute/power procurement (buyer side \u2014 distinct facet from amazon/capital, which finances Anthropic, and from any Amazon datacenter-operation node)",
@@ -4918,7 +5773,7 @@
    "layer": 0,
    "q1_node_id": "talen-energy/capital",
    "x": 0,
-   "y": 2910
+   "y": 3030
   },
   {
    "activity": "power generation (nuclear \u2014 Susquehanna plant)",
@@ -4944,7 +5799,7 @@
    "layer": 0,
    "q1_node_id": "microsoft/ai-compute-procurement",
    "x": 0,
-   "y": 2070
+   "y": 2130
   },
   {
    "activity": "power generation (nuclear \u2014 Crane Clean Energy Center / Three Mile Island Unit 1)",
@@ -4970,7 +5825,7 @@
    "layer": 2,
    "q1_node_id": "crusoe/capital",
    "x": 560,
-   "y": 240
+   "y": 330
   },
   {
    "activity": "gas turbine manufacturing (AI-datacenter-dedicated aeroderivative units)",
@@ -4983,7 +5838,7 @@
    "layer": 3,
    "q1_node_id": "ge-vernova/turbine-manufacturing",
    "x": 840,
-   "y": 0
+   "y": 150
   },
   {
    "activity": "datacenter operation (buyer side \u2014 Piketon, OH campus developer)",
@@ -4996,7 +5851,7 @@
    "layer": 0,
    "q1_node_id": "sb-energy/datacenter-operation",
    "x": 0,
-   "y": 2670
+   "y": 2730
   },
   {
    "activity": "grid interconnection / transmission infrastructure",
@@ -5022,7 +5877,7 @@
    "layer": 0,
    "q1_node_id": "meta/datacenter-operation",
    "x": 0,
-   "y": 1980
+   "y": 2040
   },
   {
    "activity": "grid interconnection / transmission infrastructure",
@@ -5048,7 +5903,7 @@
    "layer": 0,
    "q1_node_id": "sk-hynix/capital",
    "x": 0,
-   "y": 2730
+   "y": 2790
   },
   {
    "activity": "memory fab construction (DRAM/HBM)",
@@ -5074,7 +5929,7 @@
    "layer": 0,
    "q1_node_id": "micron/capital",
    "x": 0,
-   "y": 2010
+   "y": 2070
   },
   {
    "activity": "HBM advanced-packaging facility construction",
@@ -5113,7 +5968,7 @@
    "layer": 0,
    "q1_node_id": "samsung/capital",
    "x": 0,
-   "y": 2820
+   "y": 2880
   },
   {
    "activity": "foundry construction (fab capex)",
@@ -5139,7 +5994,7 @@
    "layer": 0,
    "q1_node_id": "ext/us-government",
    "x": 0,
-   "y": 3150
+   "y": 3300
   },
   {
    "activity": "foundry construction (fab capex \u2014 Foundry/IFS division)",
@@ -5204,7 +6059,7 @@
    "layer": 0,
    "q1_node_id": "nvidia/ai-compute-procurement",
    "x": 0,
-   "y": 2310
+   "y": 2370
   },
   {
    "activity": "advanced packaging construction (CoWoS \u2014 distinct facet from tsmc/foundry-construction)",
@@ -5308,7 +6163,7 @@
    "layer": 2,
    "q1_node_id": "crusoe/datacenter-construction",
    "x": 560,
-   "y": 270
+   "y": 360
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -5321,7 +6176,7 @@
    "layer": 0,
    "q1_node_id": "core-scientific/capital",
    "x": 0,
-   "y": 660
+   "y": 690
   },
   {
    "activity": "datacenter construction (Denton, TX site \u2014 propco/operator side)",
@@ -5347,7 +6202,7 @@
    "layer": 0,
    "q1_node_id": "coreweave/datacenter-operation",
    "x": 0,
-   "y": 690
+   "y": 720
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -5360,7 +6215,7 @@
    "layer": 0,
    "q1_node_id": "vantage-data-centers/capital",
    "x": 0,
-   "y": 3090
+   "y": 3210
   },
   {
    "activity": "datacenter construction (developer side)",
@@ -5373,7 +6228,7 @@
    "layer": 2,
    "q1_node_id": "vantage-data-centers/datacenter-construction",
    "x": 560,
-   "y": 990
+   "y": 1350
   },
   {
    "activity": "EPC/general-contractor services (seller side)",
@@ -5383,10 +6238,10 @@
    "entity_slug": "turner-construction-company",
    "facet_label": "Turner Construction Company (EPC/general-contractor services (seller side))",
    "id": "kat-ent-turner-construction-epc-services",
-   "layer": 1,
+   "layer": 3,
    "q1_node_id": "turner-construction/epc-services",
-   "x": 280,
-   "y": 1770
+   "x": 840,
+   "y": 330
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -5399,7 +6254,7 @@
    "layer": 2,
    "q1_node_id": "world-labs/capital",
    "x": 560,
-   "y": 1080
+   "y": 1560
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -5412,7 +6267,7 @@
    "layer": 2,
    "q1_node_id": "together-ai/capital",
    "x": 560,
-   "y": 930
+   "y": 1290
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -5425,7 +6280,7 @@
    "layer": 2,
    "q1_node_id": "nebius/capital",
    "x": 560,
-   "y": 660
+   "y": 960
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -5438,7 +6293,7 @@
    "layer": 2,
    "q1_node_id": "lambda/capital",
    "x": 560,
-   "y": 510
+   "y": 720
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -5451,7 +6306,7 @@
    "layer": 2,
    "q1_node_id": "perplexity/capital",
    "x": 560,
-   "y": 750
+   "y": 1080
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -5464,7 +6319,7 @@
    "layer": 2,
    "q1_node_id": "anysphere/capital",
    "x": 560,
-   "y": 60
+   "y": 90
   },
   {
    "activity": "private equity capital provision",
@@ -5477,7 +6332,7 @@
    "layer": 0,
    "q1_node_id": "ext/undisclosed-investors--xai-2023-formd-round",
    "x": 0,
-   "y": 3240
+   "y": 3390
   },
   {
    "activity": "VC/strategic capital provision",
@@ -5490,7 +6345,7 @@
    "layer": 0,
    "q1_node_id": "ext/undisclosed-investors--together-ai-2025-series-b-round",
    "x": 0,
-   "y": 3210
+   "y": 3360
   },
   {
    "activity": "VC capital provision",
@@ -5503,7 +6358,7 @@
    "layer": 0,
    "q1_node_id": "ext/undisclosed-investors--anysphere-2024-series-b-round",
    "x": 0,
-   "y": 3180
+   "y": 3330
   },
   {
    "activity": "capital (private-credit lending facet)",
@@ -5516,7 +6371,7 @@
    "layer": 0,
    "q1_node_id": "blackstone/capital",
    "x": 0,
-   "y": 450
+   "y": 480
   },
   {
    "activity": "capital (private-credit lending facet)",
@@ -5529,7 +6384,7 @@
    "layer": 0,
    "q1_node_id": "magnetar-capital/capital",
    "x": 0,
-   "y": 1890
+   "y": 1950
   },
   {
    "activity": "capital (private-credit lending facet)",
@@ -5542,7 +6397,7 @@
    "layer": 0,
    "q1_node_id": "digitalbridge/capital",
    "x": 0,
-   "y": 870
+   "y": 900
   },
   {
    "activity": "capital (institutional lending facet \u2014 funds managed by BlackRock)",
@@ -5555,7 +6410,7 @@
    "layer": 0,
    "q1_node_id": "blackrock/capital",
    "x": 0,
-   "y": 420
+   "y": 450
   },
   {
    "activity": "capital (institutional lending facet \u2014 funds managed by PIMCO)",
@@ -5568,7 +6423,7 @@
    "layer": 0,
    "q1_node_id": "pimco/capital",
    "x": 0,
-   "y": 2400
+   "y": 2460
   },
   {
    "activity": "capital (institutional lending facet)",
@@ -5581,7 +6436,7 @@
    "layer": 0,
    "q1_node_id": "carlyle/capital",
    "x": 0,
-   "y": 570
+   "y": 600
   },
   {
    "activity": "capital (institutional lending facet)",
@@ -5594,7 +6449,7 @@
    "layer": 0,
    "q1_node_id": "great-elm/capital",
    "x": 0,
-   "y": 1320
+   "y": 1380
   },
   {
    "activity": "capital (lending facet)",
@@ -5607,7 +6462,7 @@
    "layer": 0,
    "q1_node_id": "mufg/capital",
    "x": 0,
-   "y": 1860
+   "y": 1920
   },
   {
    "activity": "syndicated lending capital provision",
@@ -5620,7 +6475,7 @@
    "layer": 0,
    "q1_node_id": "ext/undisclosed-lenders--coreweave-2025-ddtl5-amendment",
    "x": 0,
-   "y": 3330
+   "y": 3480
   },
   {
    "activity": "public bond-market capital provision",
@@ -5633,7 +6488,7 @@
    "layer": 0,
    "q1_node_id": "ext/bond-market",
    "x": 0,
-   "y": 3270
+   "y": 3420
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -5698,7 +6553,7 @@
    "layer": 0,
    "q1_node_id": "mgx/capital",
    "x": 0,
-   "y": 1800
+   "y": 1860
   },
   {
    "activity": "datacenter construction (JV entity \u2014 umbrella receiver of committed capital; specific sites e.g. Crusoe's Abilene campus are tracked separately at the facility level in research/q3-datacenter-census/attribution.yaml and may overlap with this JV's own buildout)",
@@ -5724,7 +6579,7 @@
    "layer": 0,
    "q1_node_id": "deepseek/capital",
    "x": 0,
-   "y": 840
+   "y": 870
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -5737,7 +6592,7 @@
    "layer": 3,
    "q1_node_id": "moonshot-ai/capital",
    "x": 840,
-   "y": 30
+   "y": 210
   },
   {
    "activity": "capital (strategic investment facet)",
@@ -5763,7 +6618,7 @@
    "layer": 0,
    "q1_node_id": "hongshan/capital",
    "x": 0,
-   "y": 1380
+   "y": 1440
   },
   {
    "activity": "capital (strategic investment facet)",
@@ -5776,7 +6631,7 @@
    "layer": 0,
    "q1_node_id": "tencent/capital",
    "x": 0,
-   "y": 2940
+   "y": 3060
   },
   {
    "activity": "capital (VC investment facet)",
@@ -5789,7 +6644,7 @@
    "layer": 0,
    "q1_node_id": "gaorong-capital/capital",
    "x": 0,
-   "y": 1200
+   "y": 1230
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -5802,7 +6657,7 @@
    "layer": 2,
    "q1_node_id": "helsing/capital",
    "x": 560,
-   "y": 420
+   "y": 570
   },
   {
    "activity": "capital (strategic investment facet)",
@@ -5815,7 +6670,7 @@
    "layer": 0,
    "q1_node_id": "prima-materia/capital",
    "x": 0,
-   "y": 2460
+   "y": 2520
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -5828,7 +6683,7 @@
    "layer": 2,
    "q1_node_id": "synthesia/capital",
    "x": 560,
-   "y": 840
+   "y": 1200
   },
   {
    "activity": "capital (corporate VC facet \u2014 distinct from any future Google/Alphabet treasury node)",
@@ -5841,7 +6696,7 @@
    "layer": 0,
    "q1_node_id": "google-ventures/capital",
    "x": 0,
-   "y": 1170
+   "y": 1200
   },
   {
    "activity": "capital (VC investment facet)",
@@ -5867,7 +6722,7 @@
    "layer": 0,
    "q1_node_id": "firstmark/capital",
    "x": 0,
-   "y": 1080
+   "y": 1110
   },
   {
    "activity": "capital (VC investment facet)",
@@ -5880,7 +6735,7 @@
    "layer": 0,
    "q1_node_id": "mmc-ventures/capital",
    "x": 0,
-   "y": 1830
+   "y": 1890
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -5906,7 +6761,7 @@
    "layer": 0,
    "q1_node_id": "humain/capital",
    "x": 0,
-   "y": 1410
+   "y": 1470
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -5945,7 +6800,7 @@
    "layer": 0,
    "q1_node_id": "ext/brookfield-asset-management",
    "x": 0,
-   "y": 540
+   "y": 570
   },
   {
    "activity": "capital",
@@ -5958,7 +6813,7 @@
    "layer": 0,
    "q1_node_id": "ext/goldman-sachs",
    "x": 0,
-   "y": 1260
+   "y": 1320
   },
   {
    "activity": "capital",
@@ -5971,7 +6826,7 @@
    "layer": 0,
    "q1_node_id": "ext/kkr",
    "x": 0,
-   "y": 1620
+   "y": 1680
   },
   {
    "activity": "capital",
@@ -5984,7 +6839,7 @@
    "layer": 0,
    "q1_node_id": "ext/morgan-stanley",
    "x": 0,
-   "y": 2100
+   "y": 2160
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -6023,7 +6878,7 @@
    "layer": 2,
    "q1_node_id": "broadcom/capital",
    "x": 560,
-   "y": 120
+   "y": 210
   },
   {
    "activity": "datacenter operation (seller/landlord side \u2014 Monarch campus, West Virginia)",
@@ -6049,7 +6904,7 @@
    "layer": 2,
    "q1_node_id": "groq/capital",
    "x": 560,
-   "y": 390
+   "y": 540
   },
   {
    "activity": "capital (VC investment facet)",
@@ -6062,7 +6917,7 @@
    "layer": 0,
    "q1_node_id": "disruptive/capital",
    "x": 0,
-   "y": 900
+   "y": 930
   },
   {
    "activity": "capital (treasury/financing facet)",
@@ -6101,7 +6956,7 @@
    "layer": 0,
    "q1_node_id": "nvent/capital",
    "x": 0,
-   "y": 3360
+   "y": 3510
   },
   {
    "activity": "power distribution & infrastructure manufacturing (data center power equipment \u2014 McKinney, TX)",
@@ -6127,7 +6982,7 @@
    "layer": 0,
    "q1_node_id": "infineon/capital",
    "x": 0,
-   "y": 1500
+   "y": 1560
   },
   {
    "activity": "chip design (software-defined multiphase controllers & smart power stages for AI servers \u2014 Bengaluru, India)",
@@ -6167,7 +7022,7 @@
    "layer": 1,
    "q1_node_id": null,
    "x": 280,
-   "y": 1920
+   "y": 1890
   },
   {
    "activity": "",
@@ -6265,7 +7120,7 @@
    "layer": 1,
    "q1_node_id": null,
    "x": 280,
-   "y": 1830
+   "y": 1800
   },
   {
    "activity": "",
@@ -6419,7 +7274,7 @@
    "layer": 1,
    "q1_node_id": null,
    "x": 280,
-   "y": 1800
+   "y": 1770
   },
   {
    "activity": "",
@@ -6433,7 +7288,7 @@
    "layer": 3,
    "q1_node_id": null,
    "x": 840,
-   "y": 60
+   "y": 270
   },
   {
    "activity": "",
@@ -6447,7 +7302,7 @@
    "layer": 2,
    "q1_node_id": null,
    "x": 560,
-   "y": 600
+   "y": 870
   },
   {
    "activity": "",
@@ -6517,7 +7372,7 @@
    "layer": 1,
    "q1_node_id": null,
    "x": 280,
-   "y": 1950
+   "y": 1920
   },
   {
    "activity": "",
@@ -6559,7 +7414,7 @@
    "layer": 0,
    "q1_node_id": null,
    "x": 0,
-   "y": 720
+   "y": 750
   },
   {
    "activity": "",
@@ -6573,7 +7428,7 @@
    "layer": 0,
    "q1_node_id": null,
    "x": 0,
-   "y": 1680
+   "y": 1740
   },
   {
    "activity": "",
@@ -6587,7 +7442,7 @@
    "layer": 1,
    "q1_node_id": null,
    "x": 280,
-   "y": 1860
+   "y": 1830
   },
   {
    "activity": "general contractor (EPC)",
@@ -6601,7 +7456,7 @@
    "layer": 2,
    "q1_node_id": null,
    "x": 560,
-   "y": 1110
+   "y": 1590
   },
   {
    "activity": "MEP/cleanroom construction contractor",
@@ -6615,7 +7470,7 @@
    "layer": 2,
    "q1_node_id": null,
    "x": 560,
-   "y": 960
+   "y": 1320
   },
   {
    "activity": "EPC contractor",
@@ -6629,7 +7484,7 @@
    "layer": 2,
    "q1_node_id": null,
    "x": 560,
-   "y": 150
+   "y": 240
   },
   {
    "activity": "cleanroom/facility integration contractor",
@@ -6643,7 +7498,7 @@
    "layer": 2,
    "q1_node_id": null,
    "x": 560,
-   "y": 540
+   "y": 780
   },
   {
    "activity": "land seller (state trust land auction)",
@@ -6657,7 +7512,7 @@
    "layer": 2,
    "q1_node_id": null,
    "x": 560,
-   "y": 90
+   "y": 120
   },
   {
    "activity": "EPC contractor (affiliate)",
@@ -6671,7 +7526,7 @@
    "layer": 2,
    "q1_node_id": null,
    "x": 560,
-   "y": 780
+   "y": 1140
   },
   {
    "activity": "wastewater-treatment EPC contractor",
@@ -6685,7 +7540,7 @@
    "layer": 2,
    "q1_node_id": null,
    "x": 560,
-   "y": 900
+   "y": 1260
   },
   {
    "activity": "chemical supply system contractor",
@@ -6699,7 +7554,7 @@
    "layer": 2,
    "q1_node_id": null,
    "x": 560,
-   "y": 870
+   "y": 1230
   },
   {
    "activity": "EUV lithography equipment supplier",
@@ -6713,7 +7568,7 @@
    "layer": 2,
    "q1_node_id": null,
    "x": 560,
-   "y": 0
+   "y": 30
   },
   {
    "activity": "water infrastructure contractor/operator",
@@ -6727,7 +7582,7 @@
    "layer": 2,
    "q1_node_id": null,
    "x": 560,
-   "y": 300
+   "y": 420
   },
   {
    "activity": "general contractor (cleanroom construction; role later reduced)",
@@ -6741,7 +7596,7 @@
    "layer": 2,
    "q1_node_id": null,
    "x": 560,
-   "y": 360
+   "y": 510
   },
   {
    "activity": "construction manager-at-risk",
@@ -6755,7 +7610,7 @@
    "layer": 2,
    "q1_node_id": null,
    "x": 560,
-   "y": 1140
+   "y": 1620
   },
   {
    "activity": "joint-venture construction partner / landlord",
@@ -6769,7 +7624,7 @@
    "layer": 2,
    "q1_node_id": null,
    "x": 560,
-   "y": 450
+   "y": 630
   },
   {
    "activity": "substrate supplier / JV partner",
@@ -6783,7 +7638,7 @@
    "layer": 2,
    "q1_node_id": null,
    "x": 560,
-   "y": 1050
+   "y": 1440
   },
   {
    "activity": "general contractor",
@@ -6797,7 +7652,7 @@
    "layer": 2,
    "q1_node_id": null,
    "x": 560,
-   "y": 690
+   "y": 1020
   },
   {
    "activity": "engineering firm",
@@ -6811,7 +7666,7 @@
    "layer": 2,
    "q1_node_id": null,
    "x": 560,
-   "y": 810
+   "y": 1170
   },
   {
    "activity": "land seller",
@@ -6825,7 +7680,7 @@
    "layer": 2,
    "q1_node_id": null,
    "x": 560,
-   "y": 1020
+   "y": 1410
   },
   {
    "activity": "general contractor",
@@ -6839,7 +7694,7 @@
    "layer": 2,
    "q1_node_id": null,
    "x": 560,
-   "y": 330
+   "y": 480
   },
   {
    "activity": "underground utility contractor",
@@ -6853,7 +7708,469 @@
    "layer": 2,
    "q1_node_id": null,
    "x": 560,
-   "y": 630
+   "y": 930
+  },
+  {
+   "activity": "seller of Lordstown, OH facility",
+   "atom_type": "entity",
+   "canonical_label": "Foxconn",
+   "core_buildout": false,
+   "entity_slug": "foxconn",
+   "external": true,
+   "facet_label": "Foxconn",
+   "id": "kat-ent-vendor-foxconn",
+   "layer": 5,
+   "q1_node_id": null,
+   "x": 1400,
+   "y": 30
+  },
+  {
+   "activity": "general contractor",
+   "atom_type": "entity",
+   "canonical_label": "Shimizu North America LLC",
+   "core_buildout": false,
+   "entity_slug": "shimizu-north-america-llc",
+   "external": true,
+   "facet_label": "Shimizu North America LLC",
+   "id": "kat-ent-vendor-shimizu-north-america",
+   "layer": 5,
+   "q1_node_id": null,
+   "x": 1400,
+   "y": 60
+  },
+  {
+   "activity": "fuel-cell power equipment supplier",
+   "atom_type": "entity",
+   "canonical_label": "Bloom Energy",
+   "core_buildout": false,
+   "entity_slug": "bloom-energy",
+   "external": true,
+   "facet_label": "Bloom Energy",
+   "id": "kat-ent-vendor-bloom-energy",
+   "layer": 5,
+   "q1_node_id": null,
+   "x": 1400,
+   "y": 0
+  },
+  {
+   "activity": "JV equity co-investors",
+   "atom_type": "entity",
+   "canonical_label": "Blue Owl Capital & Crusoe (phase 2 equity)",
+   "core_buildout": false,
+   "entity_slug": "blue-owl-capital-crusoe-phase-2-equity",
+   "external": true,
+   "facet_label": "Blue Owl Capital & Crusoe (phase 2 equity)",
+   "id": "kat-ent-vendor-blue-owl-crusoe-phase2-equity",
+   "layer": 3,
+   "q1_node_id": null,
+   "x": 840,
+   "y": 30
+  },
+  {
+   "activity": "battery storage equipment supplier",
+   "atom_type": "entity",
+   "canonical_label": "Form Energy",
+   "core_buildout": false,
+   "entity_slug": "form-energy",
+   "external": true,
+   "facet_label": "Form Energy",
+   "id": "kat-ent-vendor-form-energy",
+   "layer": 3,
+   "q1_node_id": null,
+   "x": 840,
+   "y": 120
+  },
+  {
+   "activity": "general contractor",
+   "atom_type": "entity",
+   "canonical_label": "DPR Construction",
+   "core_buildout": false,
+   "entity_slug": "dpr-construction",
+   "external": true,
+   "facet_label": "DPR Construction",
+   "id": "kat-ent-vendor-dpr-construction",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 390
+  },
+  {
+   "activity": "general contractor",
+   "atom_type": "entity",
+   "canonical_label": "Mortenson Construction",
+   "core_buildout": false,
+   "entity_slug": "mortenson-construction",
+   "external": true,
+   "facet_label": "Mortenson Construction",
+   "id": "kat-ent-vendor-mortenson",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 900
+  },
+  {
+   "activity": "aggregate local contractor spend",
+   "atom_type": "entity",
+   "canonical_label": "Louisiana local vendors (Meta Hyperion contractors)",
+   "core_buildout": false,
+   "entity_slug": "louisiana-local-vendors-meta-hyperion-contractors",
+   "external": true,
+   "facet_label": "Louisiana local vendors (Meta Hyperion contractors)",
+   "id": "kat-ent-vendor-louisiana-hyperion-vendors",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 750
+  },
+  {
+   "activity": "power generation utility",
+   "atom_type": "entity",
+   "canonical_label": "Entergy Louisiana (power generation buildout)",
+   "core_buildout": false,
+   "entity_slug": "entergy-louisiana-power-generation-buildout",
+   "external": true,
+   "facet_label": "Entergy Louisiana (power generation buildout)",
+   "id": "kat-ent-vendor-entergy-louisiana-generation",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 450
+  },
+  {
+   "activity": "power generation utility",
+   "atom_type": "entity",
+   "canonical_label": "Williams Companies (Will-Power subsidiary)",
+   "core_buildout": false,
+   "entity_slug": "williams-companies-will-power-subsidiary",
+   "external": true,
+   "facet_label": "Williams Companies (Will-Power subsidiary)",
+   "id": "kat-ent-vendor-williams-will-power",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 1530
+  },
+  {
+   "activity": "GPU/compute hardware supplier",
+   "atom_type": "entity",
+   "canonical_label": "Nvidia (GPU sale to Oracle)",
+   "core_buildout": false,
+   "entity_slug": "nvidia-gpu-sale-to-oracle",
+   "external": true,
+   "facet_label": "Nvidia (GPU sale to Oracle)",
+   "id": "kat-ent-vendor-nvidia-oracle-gpu-order",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 990
+  },
+  {
+   "activity": "general contractor",
+   "atom_type": "entity",
+   "canonical_label": "Walbridge",
+   "core_buildout": false,
+   "entity_slug": "walbridge",
+   "external": true,
+   "facet_label": "Walbridge",
+   "id": "kat-ent-vendor-walbridge",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 1470
+  },
+  {
+   "activity": "general contractor",
+   "atom_type": "entity",
+   "canonical_label": "Ryan Companies",
+   "core_buildout": false,
+   "entity_slug": "ryan-companies",
+   "external": true,
+   "facet_label": "Ryan Companies",
+   "id": "kat-ent-vendor-ryan-companies",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 1110
+  },
+  {
+   "activity": "general contractor",
+   "atom_type": "entity",
+   "canonical_label": "Whiting-Turner Contracting Company",
+   "core_buildout": false,
+   "entity_slug": "whiting-turner-contracting-company",
+   "external": true,
+   "facet_label": "Whiting-Turner Contracting Company",
+   "id": "kat-ent-vendor-whiting-turner",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 1500
+  },
+  {
+   "activity": "land seller",
+   "atom_type": "entity",
+   "canonical_label": "Monroe County, Georgia (land seller)",
+   "core_buildout": false,
+   "entity_slug": "monroe-county-georgia-land-seller",
+   "external": true,
+   "facet_label": "Monroe County, Georgia (land seller)",
+   "id": "kat-ent-vendor-monroe-county-ga",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 840
+  },
+  {
+   "activity": "land seller",
+   "atom_type": "entity",
+   "canonical_label": "Botetourt County, Virginia (land seller)",
+   "core_buildout": false,
+   "entity_slug": "botetourt-county-virginia-land-seller",
+   "external": true,
+   "facet_label": "Botetourt County, Virginia (land seller)",
+   "id": "kat-ent-vendor-botetourt-county-va",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 180
+  },
+  {
+   "activity": "SMR nuclear power supplier",
+   "atom_type": "entity",
+   "canonical_label": "Kairos Power",
+   "core_buildout": false,
+   "entity_slug": "kairos-power",
+   "external": true,
+   "facet_label": "Kairos Power",
+   "id": "kat-ent-vendor-kairos-power",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 690
+  },
+  {
+   "activity": "liquid cooling equipment supplier",
+   "atom_type": "entity",
+   "canonical_label": "Vertiv",
+   "core_buildout": false,
+   "entity_slug": "vertiv",
+   "external": true,
+   "facet_label": "Vertiv",
+   "id": "kat-ent-vendor-vertiv-google",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 1380
+  },
+  {
+   "activity": "general contractor (EPC)",
+   "atom_type": "entity",
+   "canonical_label": "Bechtel Corp.",
+   "core_buildout": false,
+   "entity_slug": "bechtel-corp",
+   "external": true,
+   "facet_label": "Bechtel Corp.",
+   "id": "kat-ent-vendor-bechtel",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 150
+  },
+  {
+   "activity": "general contractor",
+   "atom_type": "entity",
+   "canonical_label": "Hoffman Construction Co.",
+   "core_buildout": false,
+   "entity_slug": "hoffman-construction-co",
+   "external": true,
+   "facet_label": "Hoffman Construction Co.",
+   "id": "kat-ent-vendor-hoffman-construction",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 600
+  },
+  {
+   "activity": "power utility infrastructure",
+   "atom_type": "entity",
+   "canonical_label": "AEP Ohio (Green Chapel Station substation)",
+   "core_buildout": false,
+   "entity_slug": "aep-ohio-green-chapel-station-substation",
+   "external": true,
+   "facet_label": "AEP Ohio (Green Chapel Station substation)",
+   "id": "kat-ent-vendor-aep-ohio-substation",
+   "layer": 2,
+   "q1_node_id": null,
+   "x": 560,
+   "y": 0
+  },
+  {
+   "activity": "design firm of record",
+   "atom_type": "entity",
+   "canonical_label": "Kiewit Corporation",
+   "core_buildout": false,
+   "entity_slug": "kiewit-corporation",
+   "external": true,
+   "facet_label": "Kiewit Corporation",
+   "id": "kat-ent-vendor-kiewit",
+   "layer": 3,
+   "q1_node_id": null,
+   "x": 840,
+   "y": 180
+  },
+  {
+   "activity": "capital (lending facet)",
+   "atom_type": "entity",
+   "canonical_label": "BNP Paribas",
+   "core_buildout": false,
+   "entity_slug": "bnp-paribas",
+   "external": true,
+   "facet_label": "BNP Paribas",
+   "id": "kat-ent-vendor-bnp-paribas-capital",
+   "layer": 0,
+   "q1_node_id": null,
+   "x": 0,
+   "y": 390
+  },
+  {
+   "activity": "capital (lending facet)",
+   "atom_type": "entity",
+   "canonical_label": "Goldman Sachs",
+   "core_buildout": false,
+   "entity_slug": "goldman-sachs",
+   "external": true,
+   "facet_label": "Goldman Sachs",
+   "id": "kat-ent-vendor-goldman-sachs-capital",
+   "layer": 0,
+   "q1_node_id": null,
+   "x": 0,
+   "y": 1290
+  },
+  {
+   "activity": "capital (lending facet)",
+   "atom_type": "entity",
+   "canonical_label": "Societe Generale",
+   "core_buildout": false,
+   "entity_slug": "societe-generale",
+   "external": true,
+   "facet_label": "Societe Generale",
+   "id": "kat-ent-vendor-societe-generale-capital",
+   "layer": 0,
+   "q1_node_id": null,
+   "x": 0,
+   "y": 2910
+  },
+  {
+   "activity": "capital (lending facet)",
+   "atom_type": "entity",
+   "canonical_label": "Sumitomo Mitsui Banking Corp",
+   "core_buildout": false,
+   "entity_slug": "sumitomo-mitsui-banking-corp",
+   "external": true,
+   "facet_label": "Sumitomo Mitsui Banking Corp",
+   "id": "kat-ent-vendor-sumitomo-mitsui-banking-corp-capital",
+   "layer": 0,
+   "q1_node_id": null,
+   "x": 0,
+   "y": 2940
+  },
+  {
+   "activity": "capital (lending facet)",
+   "atom_type": "entity",
+   "canonical_label": "Wells Fargo",
+   "core_buildout": false,
+   "entity_slug": "wells-fargo",
+   "external": true,
+   "facet_label": "Wells Fargo",
+   "id": "kat-ent-vendor-wells-fargo-capital",
+   "layer": 0,
+   "q1_node_id": null,
+   "x": 0,
+   "y": 3240
+  },
+  {
+   "activity": "GPU server systems integrator",
+   "atom_type": "entity",
+   "canonical_label": "Dell",
+   "core_buildout": false,
+   "entity_slug": "dell",
+   "external": true,
+   "facet_label": "Dell",
+   "id": "kat-ent-vendor-dell-coreweave",
+   "layer": 3,
+   "q1_node_id": null,
+   "x": 840,
+   "y": 90
+  },
+  {
+   "activity": "GPU server systems integrator",
+   "atom_type": "entity",
+   "canonical_label": "Supermicro",
+   "core_buildout": false,
+   "entity_slug": "supermicro",
+   "external": true,
+   "facet_label": "Supermicro",
+   "id": "kat-ent-vendor-supermicro-coreweave",
+   "layer": 3,
+   "q1_node_id": null,
+   "x": 840,
+   "y": 300
+  },
+  {
+   "activity": "datacenter landlord",
+   "atom_type": "entity",
+   "canonical_label": "Applied Digital Corp",
+   "core_buildout": false,
+   "entity_slug": "applied-digital-corp",
+   "external": true,
+   "facet_label": "Applied Digital Corp",
+   "id": "kat-ent-vendor-applied-digital",
+   "layer": 3,
+   "q1_node_id": null,
+   "x": 840,
+   "y": 0
+  },
+  {
+   "activity": "datacenter landlord JV",
+   "atom_type": "entity",
+   "canonical_label": "Blue Owl Capital / Chirisa Technology Parks (Lancaster PA JV)",
+   "core_buildout": false,
+   "entity_slug": "blue-owl-capital-chirisa-technology-parks-lancaster-pa-jv",
+   "external": true,
+   "facet_label": "Blue Owl Capital / Chirisa Technology Parks (Lancaster PA JV)",
+   "id": "kat-ent-vendor-blue-owl-chirisa-lancaster",
+   "layer": 3,
+   "q1_node_id": null,
+   "x": 840,
+   "y": 60
+  },
+  {
+   "activity": "construction lender",
+   "atom_type": "entity",
+   "canonical_label": "Societe Generale-led syndicate (Virginia CTP-01 loan)",
+   "core_buildout": false,
+   "entity_slug": "societe-generale-led-syndicate-virginia-ctp-01-loan",
+   "external": true,
+   "facet_label": "Societe Generale-led syndicate (Virginia CTP-01 loan)",
+   "id": "kat-ent-vendor-societe-generale-va-loan",
+   "layer": 3,
+   "q1_node_id": null,
+   "x": 840,
+   "y": 240
+  },
+  {
+   "activity": "liquid cooling equipment supplier",
+   "atom_type": "entity",
+   "canonical_label": "Vertiv",
+   "core_buildout": false,
+   "entity_slug": "vertiv",
+   "external": true,
+   "facet_label": "Vertiv",
+   "id": "kat-ent-vendor-vertiv-coreweave",
+   "layer": 3,
+   "q1_node_id": null,
+   "x": 840,
+   "y": 360
   }
  ]
 }

@@ -380,6 +380,15 @@
   "dimension": "q1-flow",
   "epistemic_status": "accepted",
   "explains_claim": null,
+  "hypothesized_recipients": [
+   "q1-kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-turner-construction-epc-services",
+   "q1-kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-applied-digital",
+   "q1-kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-blue-owl-chirisa-lancaster",
+   "q1-kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-dell-coreweave",
+   "q1-kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-societe-generale-va-loan",
+   "q1-kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-supermicro-coreweave",
+   "q1-kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-vertiv-coreweave"
+  ],
   "id": "q1-kat-claim-coreweave-2026-q2-ddtl-facility-coreweave-capital-2026-debt-obs0",
   "label": "CoreWeave (delayed-draw term loan facility (disclosed at Q2 2026 earnings), 2026-08-11) \u2192 CoreWeave (capital (treasury/financing facet))",
   "sources": [
@@ -472,6 +481,10 @@
   "dimension": "q1-flow",
   "epistemic_status": "accepted",
   "explains_claim": null,
+  "hypothesized_recipients": [
+   "q1-kat-hyp2-q1-kat-ent-crusoe-datacenter-construction-kat-ent-vendor-blue-owl-crusoe-phase",
+   "q1-kat-hyp2-q1-kat-ent-crusoe-datacenter-construction-kat-ent-vendor-form-energy"
+  ],
   "id": "q1-kat-claim-crusoe-2025-abilene-phase2-financing-crusoe-datacenter-construction-2025-phase2-obs1",
   "label": "Crusoe Energy Systems (Abilene, TX campus JV \u2014 phase 2 expansion) (real-estate/infrastructure JV debt+equity (phase 2 expansion, unitemized split), 2025-05-21) \u2192 Crusoe Energy Systems (datacenter construction (Abilene, TX campus \u2014 builder/operator side))",
   "sources": [
@@ -541,6 +554,14 @@
   "dimension": "q1-flow",
   "epistemic_status": "accepted",
   "explains_claim": null,
+  "hypothesized_recipients": [
+   "q1-kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-botetourt-county-va",
+   "q1-kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-kairos-power",
+   "q1-kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-monroe-county-ga",
+   "q1-kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-ryan-companies",
+   "q1-kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-vertiv-google",
+   "q1-kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-whiting-turner"
+  ],
   "id": "q1-kat-claim-ext-bond-market-google-capital-2026-25b-bond-obs0",
   "label": "ext (population) (public bond-market capital provision) \u2192 Google (capital (treasury/financing facet))",
   "sources": [
@@ -564,6 +585,14 @@
   "dimension": "q1-flow",
   "epistemic_status": "accepted",
   "explains_claim": null,
+  "hypothesized_recipients": [
+   "q1-kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-turner-construction-epc-servic",
+   "q1-kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-vendor-dpr-construction",
+   "q1-kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-vendor-entergy-louisiana-gener",
+   "q1-kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-vendor-louisiana-hyperion-vend",
+   "q1-kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-vendor-mortenson",
+   "q1-kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-vendor-williams-will-power"
+  ],
   "id": "q1-kat-claim-ext-bond-market-meta-capital-2025-senior-notes-obs0",
   "label": "ext (population) (public bond-market capital provision) \u2192 Meta (capital (treasury/financing facet \u2014 distinct from meta/datacenter-operation, which buys grid interconnection, and meta/datacenter-construction, which receives JV investment))",
   "sources": [
@@ -587,6 +616,10 @@
   "dimension": "q1-flow",
   "epistemic_status": "accepted",
   "explains_claim": null,
+  "hypothesized_recipients": [
+   "q1-kat-hyp2-q1-kat-ent-oracle-capital-kat-ent-vendor-nvidia-oracle-gpu-order",
+   "q1-kat-hyp2-q1-kat-ent-oracle-capital-kat-ent-vendor-walbridge"
+  ],
   "id": "q1-kat-claim-ext-bond-market-oracle-capital-2026-senior-notes-obs0",
   "label": "ext (population) (public bond-market capital provision) \u2192 Oracle (capital (treasury/financing facet))",
   "sources": [
@@ -817,6 +850,11 @@
   "dimension": "q1-flow",
   "epistemic_status": "accepted",
   "explains_claim": null,
+  "hypothesized_recipients": [
+   "q1-kat-hyp2-q1-kat-ent-intel-foundry-construction-kat-ent-vendor-aep-ohio-substation",
+   "q1-kat-hyp2-q1-kat-ent-intel-foundry-construction-kat-ent-vendor-bechtel",
+   "q1-kat-hyp2-q1-kat-ent-intel-foundry-construction-kat-ent-vendor-hoffman-construction"
+  ],
   "id": "q1-kat-claim-ext-public-equity-market-intel-capital-2026-stock-offering-obs0",
   "label": "ext (population) (public equity capital provision) \u2192 Intel (capital (treasury/financing facet))",
   "sources": [
@@ -1014,6 +1052,29 @@
   ],
   "subject": "crusoe-energy-systems",
   "value": "$2.3B \u2014 $2.3B construction loan for the same Abilene, TX campus (206MW)",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": 7100000000,
+  "as_of": null,
+  "basis": "$7.1B \u2014 $7.1B second JPMorgan construction loan for Crusoe's Abilene phase 2.",
+  "confidence": "high",
+  "dimension": "q1-flow",
+  "epistemic_status": "accepted",
+  "explains_claim": null,
+  "id": "q1-kat-claim-jpmorgan-chase-capital-crusoe-datacenter-construction-2026-phase2-loan-obs0",
+  "label": "JPMorgan Chase (capital (lending facet)) \u2192 Crusoe Energy Systems (datacenter construction (Abilene, TX campus \u2014 builder/operator side))",
+  "sources": [
+   {
+    "as_of": "2025-05-22",
+    "figure": null,
+    "reliability": "high",
+    "title": "CoStar \u2014 Stargate Abilene $7.1B construction loan",
+    "url": "https://www.costar.com/article/1387166843/first-stargate-data-center-project-lands-7-1-billion-construction-loan"
+   }
+  ],
+  "subject": "crusoe-energy-systems",
+  "value": "$7.1B \u2014 $7.1B second JPMorgan construction loan for Crusoe's Abilene phase 2.",
   "vendor_unspecified": false
  },
  {
@@ -1728,6 +1789,11 @@
   "dimension": "q1-flow",
   "epistemic_status": "accepted",
   "explains_claim": null,
+  "hypothesized_recipients": [
+   "q1-kat-hyp2-q1-kat-ent-stargate-datacenter-construction-kat-ent-vendor-bloom-energy",
+   "q1-kat-hyp2-q1-kat-ent-stargate-datacenter-construction-kat-ent-vendor-foxconn",
+   "q1-kat-hyp2-q1-kat-ent-stargate-datacenter-construction-kat-ent-vendor-shimizu-north-ameri"
+  ],
   "id": "q1-kat-claim-stargate-2025-jv-financing-stargate-datacenter-construction-2025-formation-obs0",
   "label": "Stargate LLC (joint venture) (infrastructure joint-venture equity formation, 2025-01-21) \u2192 Stargate LLC (joint venture \u2014 OpenAI/SoftBank/Oracle/MGX) (datacenter construction (JV entity \u2014 umbrella receiver of committed capital; specific sites e.g. Crusoe's Abilene campus are tracked separately at the facility level in research/q3-datacenter-census/attribution.yaml and may overlap with this JV's own buildout))",
   "sources": [
@@ -1921,6 +1987,10 @@
   "dimension": "q1-flow",
   "epistemic_status": "accepted",
   "explains_claim": null,
+  "hypothesized_recipients": [
+   "q1-kat-hyp2-q1-kat-ent-vantage-data-centers-datacenter-construction-kat-ent-turner-constru",
+   "q1-kat-hyp2-q1-kat-ent-vantage-data-centers-datacenter-construction-kat-ent-vendor-kiewit"
+  ],
   "id": "q1-kat-claim-vantage-data-centers-2025-mufg-jpmorgan-facility-vantage-data-centers-datacenter-construction-2025-debt-obs0",
   "label": "Vantage Data Centers (Texas megacampus \u2014 site/name not independently confirmed this pass) (construction/project-finance loan (REPORTED IN TALKS \u2014 not confirmed closed as of the source date), 2025-08-22) \u2192 Vantage Data Centers (datacenter construction (developer side))",
   "sources": [
@@ -2466,6 +2536,719 @@
   "vendor_unspecified": false
  },
  {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "$6.0B (estimate) \u2014 Turner Construction and Wohlsen Construction (joint venture) are building the $6B, ~100MW-expandable-to-300MW Lancaster, PA data center for CoreWeave -- may substantially overlap with the $4B Blue Owl/Chirisa JV funding total above, since both describe the same site; not additive.",
+  "confidence": "high",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-coreweave-2026-q2-ddtl-facility-coreweave-capital-2026-debt-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-turner-construction-epc-services",
+  "label": "CoreWeave (capital (treasury/financing facet)) \u2192 Turner Construction Company (EPC/general-contractor services (seller side))",
+  "sources": [
+   {
+    "as_of": null,
+    "figure": null,
+    "reliability": "high",
+    "title": "Turner Construction / ENR",
+    "url": "https://www.turnerconstruction.com/insights/coreweave-announces-multi-billion-dollar-commitment-to-ai-infrastructure-in-pennsylvania"
+   }
+  ],
+  "subject": "turner-construction-company",
+  "value": "$6.0B (estimate) \u2014 Turner Construction and Wohlsen Construction (joint venture) are building the $6B, ~100MW-expandable-to-300MW Lancaster, PA data center for CoreWeave -- may substantially overlap with the $4B Blue Owl/Chirisa JV funding total above, since both describe the same site; not additive.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "$11.0B (estimate) \u2014 CoreWeave leases capacity from Applied Digital's Ellendale, ND (Polaris Forge 1) campus under two ~15-year leases, initially 250MW/~$7B projected revenue, expanded by 150MW in Aug 2025 to roughly $11B combined, amended again April 2026.",
+  "confidence": "high",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-coreweave-2026-q2-ddtl-facility-coreweave-capital-2026-debt-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-applied-digital",
+  "label": "CoreWeave (capital (treasury/financing facet)) \u2192 Applied Digital Corp",
+  "sources": [
+   {
+    "as_of": "2025-08",
+    "figure": null,
+    "reliability": "high",
+    "title": "Applied Digital / SEC filing",
+    "url": "https://ir.applieddigital.com/news-events/press-releases/detail/123/applied-digital-announces-250mw-ai-data-center-lease-with"
+   }
+  ],
+  "subject": "applied-digital-corp",
+  "value": "$11.0B (estimate) \u2014 CoreWeave leases capacity from Applied Digital's Ellendale, ND (Polaris Forge 1) campus under two ~15-year leases, initially 250MW/~$7B projected revenue, expanded by 150MW in Aug 2025 to roughly $11B combined, amended again April 2026.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "$4.0B (estimate) \u2014 Blue Owl Capital, Chirisa Technology Parks, and Machine Investment Group closed a $4B JV funding a 100MW Lancaster, Pennsylvania campus with CoreWeave as sole tenant -- the JV's own funding total, a proxy for but not necessarily equal to CoreWeave's specific lease payments.",
+  "confidence": "high",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-coreweave-2026-q2-ddtl-facility-coreweave-capital-2026-debt-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-blue-owl-chirisa-lancaster",
+  "label": "CoreWeave (capital (treasury/financing facet)) \u2192 Blue Owl Capital / Chirisa Technology Parks (Lancaster PA JV)",
+  "sources": [
+   {
+    "as_of": null,
+    "figure": null,
+    "reliability": "high",
+    "title": "MarketScreener",
+    "url": "https://www.marketscreener.com/news/blue-owl-chirisa-technology-parks-close-4-billion-funding-for-coreweave-data-center-ce7c50d8d98ff424"
+   }
+  ],
+  "subject": "blue-owl-capital-chirisa-technology-parks-lancaster-pa-jv",
+  "value": "$4.0B (estimate) \u2014 Blue Owl Capital, Chirisa Technology Parks, and Machine Investment Group closed a $4B JV funding a 100MW Lancaster, Pennsylvania campus with CoreWeave as sole tenant -- the JV's own funding total, a proxy for but not necessarily equal to CoreWeave's specific lease payments.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": 2300000000,
+  "as_of": null,
+  "basis": "$2.3B \u2014 CoreWeave buys GPU-equipped server racks from Dell (a systems integrator, not directly from Nvidia): a $2.3B order of Dell-built GB200 NVL72 systems (PowerEdge XE9712, liquid-cooled) for 2025 delivery. Not tied to this specific $3.1B facility -- public reporting describes CoreWeave's aggregate debt/capex, not facility-by-facility use.",
+  "confidence": "high",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-coreweave-2026-q2-ddtl-facility-coreweave-capital-2026-debt-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-dell-coreweave",
+  "label": "CoreWeave (capital (treasury/financing facet)) \u2192 Dell",
+  "sources": [
+   {
+    "as_of": null,
+    "figure": null,
+    "reliability": "high",
+    "title": "Dell",
+    "url": "https://www.dell.com/en-us/blog/dell-delivers-market-s-first-nvidia-gb300-nvl72-to-coreweave/"
+   }
+  ],
+  "subject": "dell",
+  "value": "$2.3B \u2014 CoreWeave buys GPU-equipped server racks from Dell (a systems integrator, not directly from Nvidia): a $2.3B order of Dell-built GB200 NVL72 systems (PowerEdge XE9712, liquid-cooled) for 2025 delivery. Not tied to this specific $3.1B facility -- public reporting describes CoreWeave's aggregate debt/capex, not facility-by-facility use.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": 600000000,
+  "as_of": null,
+  "basis": "$600.0M \u2014 A Societe Generale-led syndicate provided a $600M construction loan for a separate 50MW-then-120MW CoreWeave campus (CTP-01) in Chester/Chesterfield, Virginia, financed by Blue Owl Real Estate, Chirisa, and PowerHouse Data Centers.",
+  "confidence": "high",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-coreweave-2026-q2-ddtl-facility-coreweave-capital-2026-debt-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-societe-generale-va-loan",
+  "label": "CoreWeave (capital (treasury/financing facet)) \u2192 Societe Generale-led syndicate (Virginia CTP-01 loan)",
+  "sources": [
+   {
+    "as_of": "2024-12",
+    "figure": null,
+    "reliability": "high",
+    "title": "Commercial Observer",
+    "url": "https://commercialobserver.com/2024/12/societe-generale-600m-virginia-data-center/"
+   }
+  ],
+  "subject": "societe-generale-led-syndicate-virginia-ctp-01-loan",
+  "value": "$600.0M \u2014 A Societe Generale-led syndicate provided a $600M construction loan for a separate 50MW-then-120MW CoreWeave campus (CTP-01) in Chester/Chesterfield, Virginia, financed by Blue Owl Real Estate, Chirisa, and PowerHouse Data Centers.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "$2.6B (estimate) \u2014 CoreWeave was reported as Supermicro's largest customer, approximately 22% of Supermicro's revenue (~$2.6B) across Q3 2023-Q3 2024 -- an analyst-derived revenue attribution, not a disclosed contract value.",
+  "confidence": "med",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-coreweave-2026-q2-ddtl-facility-coreweave-capital-2026-debt-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-supermicro-coreweave",
+  "label": "CoreWeave (capital (treasury/financing facet)) \u2192 Supermicro",
+  "sources": [
+   {
+    "as_of": null,
+    "figure": null,
+    "reliability": "med",
+    "title": "Analyst commentary (X/Twitter, Beth Kindig)",
+    "url": "https://x.com/Beth_Kindig/status/1832407478748778950"
+   }
+  ],
+  "subject": "supermicro",
+  "value": "$2.6B (estimate) \u2014 CoreWeave was reported as Supermicro's largest customer, approximately 22% of Supermicro's revenue (~$2.6B) across Q3 2023-Q3 2024 -- an analyst-derived revenue attribution, not a disclosed contract value.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "Supplies liquid cooling infrastructure for CoreWeave racks running Nvidia GB200 NVL72 at up to 250kW/rack; no dollar figure disclosed.",
+  "confidence": "med",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-coreweave-2026-q2-ddtl-facility-coreweave-capital-2026-debt-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-vertiv-coreweave",
+  "label": "CoreWeave (capital (treasury/financing facet)) \u2192 Vertiv",
+  "sources": [
+   {
+    "as_of": null,
+    "figure": null,
+    "reliability": "med",
+    "title": "Vertiv (via industry coverage)",
+    "url": "https://enkiai.com/ai-market-intelligence/data-center-liquid-cooling-companies/"
+   }
+  ],
+  "subject": "vertiv",
+  "value": "Supplies liquid cooling infrastructure for CoreWeave racks running Nvidia GB200 NVL72 at up to 250kW/rack; no dollar figure disclosed.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "$5.0B (estimate) \u2014 Blue Owl Capital and Crusoe reportedly contributed approximately $5B in equity for phase 2, alongside the $7.1B JPMorgan debt -- a secondary source's estimate, not an official disclosure; exact split not confirmed.",
+  "confidence": "med",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-crusoe-2025-abilene-phase2-financing-crusoe-datacenter-construction-2025-phase2-obs1",
+  "id": "q1-kat-hyp2-q1-kat-ent-crusoe-datacenter-construction-kat-ent-vendor-blue-owl-crusoe-phase",
+  "label": "Crusoe Energy Systems (datacenter construction (Abilene, TX campus \u2014 builder/operator side)) \u2192 Blue Owl Capital & Crusoe (phase 2 equity)",
+  "sources": [
+   {
+    "as_of": null,
+    "figure": null,
+    "reliability": "med",
+    "title": "Electron Economics",
+    "url": "https://electroneconomics.substack.com/p/hyperion-abilene-matador-portsmouth"
+   }
+  ],
+  "subject": "blue-owl-capital-crusoe-phase-2-equity",
+  "value": "$5.0B (estimate) \u2014 Blue Owl Capital and Crusoe reportedly contributed approximately $5B in equity for phase 2, alongside the $7.1B JPMorgan debt -- a secondary source's estimate, not an official disclosure; exact split not confirmed.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "Signed to supply 12 GWh of iron-air battery storage for the Abilene campus, deliveries starting 2027; no dollar figure disclosed.",
+  "confidence": "med",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-crusoe-2025-abilene-phase2-financing-crusoe-datacenter-construction-2025-phase2-obs1",
+  "id": "q1-kat-hyp2-q1-kat-ent-crusoe-datacenter-construction-kat-ent-vendor-form-energy",
+  "label": "Crusoe Energy Systems (datacenter construction (Abilene, TX campus \u2014 builder/operator side)) \u2192 Form Energy",
+  "sources": [
+   {
+    "as_of": "2026-03",
+    "figure": null,
+    "reliability": "med",
+    "title": "Lanin Substack (secondary; verify directly if used further)",
+    "url": "https://lanin.substack.com/"
+   }
+  ],
+  "subject": "form-energy",
+  "value": "Signed to supply 12 GWh of iron-air battery storage for the Abilene campus, deliveries starting 2027; no dollar figure disclosed.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": 14055406,
+  "as_of": null,
+  "basis": "$14.1M \u2014 Google bought approximately 312 acres from Botetourt County, Virginia for $14,055,406.37, plus a $4M contribution to county projects (June 2025).",
+  "confidence": "high",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-ext-bond-market-google-capital-2026-25b-bond-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-botetourt-county-va",
+  "label": "Google (capital (treasury/financing facet)) \u2192 Botetourt County, Virginia (land seller)",
+  "sources": [
+   {
+    "as_of": "2025-06",
+    "figure": null,
+    "reliability": "high",
+    "title": "Botetourt County government",
+    "url": "https://www.botetourtva.gov/1021/Google-Data-Center"
+   }
+  ],
+  "subject": "botetourt-county-virginia-land-seller",
+  "value": "$14.1M \u2014 Google bought approximately 312 acres from Botetourt County, Virginia for $14,055,406.37, plus a $4M contribution to county projects (June 2025).",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "Google backing 6-7 small modular reactors (up to 500MW total) via a US-only power purchase agreement; first unit targeted 2030; no dollar figure disclosed.",
+  "confidence": "high",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-ext-bond-market-google-capital-2026-25b-bond-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-kairos-power",
+  "label": "Google (capital (treasury/financing facet)) \u2192 Kairos Power",
+  "sources": [
+   {
+    "as_of": null,
+    "figure": null,
+    "reliability": "high",
+    "title": "DataCenterDynamics",
+    "url": "https://www.datacenterdynamics.com/en/news/google-signs-nuclear-smr-deal-with-kairos-for-data-center-power/"
+   }
+  ],
+  "subject": "kairos-power",
+  "value": "Google backing 6-7 small modular reactors (up to 500MW total) via a US-only power purchase agreement; first unit targeted 2030; no dollar figure disclosed.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": 58500000,
+  "as_of": null,
+  "basis": "$58.5M \u2014 Google bought 950 acres in Monroe County, Georgia for $58.5M (Sept 2025), near Cloverleaf's Rumble Technology Campus, for a potential data center.",
+  "confidence": "high",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-ext-bond-market-google-capital-2026-25b-bond-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-monroe-county-ga",
+  "label": "Google (capital (treasury/financing facet)) \u2192 Monroe County, Georgia (land seller)",
+  "sources": [
+   {
+    "as_of": "2025-09-26",
+    "figure": null,
+    "reliability": "high",
+    "title": "DataCenterDynamics",
+    "url": "https://www.datacenterdynamics.com/en/news/google-purchases-950-acres-for-potential-data-center-in-monroe-county-georgia/"
+   }
+  ],
+  "subject": "monroe-county-georgia-land-seller",
+  "value": "$58.5M \u2014 Google bought 950 acres in Monroe County, Georgia for $58.5M (Sept 2025), near Cloverleaf's Rumble Technology Campus, for a potential data center.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "General contractor on Google's 'Project Skyway' data center, Pine Island, Minnesota.",
+  "confidence": "med",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-ext-bond-market-google-capital-2026-25b-bond-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-ryan-companies",
+  "label": "Google (capital (treasury/financing facet)) \u2192 Ryan Companies",
+  "sources": [
+   {
+    "as_of": null,
+    "figure": null,
+    "reliability": "med",
+    "title": "Equipment World",
+    "url": "https://www.equipmentworld.com/market-pulse/article/15816534/data-center-construction-boom-to-grow-in-2026"
+   }
+  ],
+  "subject": "ryan-companies",
+  "value": "General contractor on Google's 'Project Skyway' data center, Pine Island, Minnesota.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "Supplies liquid-cooling technology (coolant distribution units) used in Google's 'Project Deschutes' open-standard liquid cooling design; no dollar figure disclosed.",
+  "confidence": "med",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-ext-bond-market-google-capital-2026-25b-bond-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-vertiv-google",
+  "label": "Google (capital (treasury/financing facet)) \u2192 Vertiv",
+  "sources": [
+   {
+    "as_of": null,
+    "figure": null,
+    "reliability": "med",
+    "title": "Vertiv",
+    "url": "https://www.vertiv.com/en-emea/solutions/ai-hub/vertiv-and-the-open-compute-project-ocp/"
+   }
+  ],
+  "subject": "vertiv",
+  "value": "Supplies liquid-cooling technology (coolant distribution units) used in Google's 'Project Deschutes' open-standard liquid cooling design; no dollar figure disclosed.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "Reported as a contractor for Google on hyperscale data center projects generally; no single named site or dollar figure surfaced.",
+  "confidence": "med",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-ext-bond-market-google-capital-2026-25b-bond-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-whiting-turner",
+  "label": "Google (capital (treasury/financing facet)) \u2192 Whiting-Turner Contracting Company",
+  "sources": [
+   {
+    "as_of": null,
+    "figure": null,
+    "reliability": "med",
+    "title": "Buildermuse",
+    "url": "https://buildermuse.com/commercial/the-top-20-data-center-construction-contractors/"
+   }
+  ],
+  "subject": "whiting-turner-contracting-company",
+  "value": "Reported as a contractor for Google on hyperscale data center projects generally; no single named site or dollar figure surfaced.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": 95000000,
+  "as_of": null,
+  "basis": "$95.0M \u2014 AEP Ohio built a $95M, 500-megawatt substation ('Green Chapel Station') specifically for Intel's New Albany, Ohio fab; now sitting idle due to Intel's construction delay, with Meta separately seeking to draw power from it instead.",
+  "confidence": "high",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-ext-public-equity-market-intel-capital-2026-stock-offering-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-intel-foundry-construction-kat-ent-vendor-aep-ohio-substation",
+  "label": "Intel (foundry construction (fab capex \u2014 Foundry/IFS division)) \u2192 AEP Ohio (Green Chapel Station substation)",
+  "sources": [
+   {
+    "as_of": "2024-08-02",
+    "figure": null,
+    "reliability": "high",
+    "title": "WOSU / Tom's Hardware",
+    "url": "https://www.wosu.org/politics-government/2024-08-02/electric-build-up-for-intel-will-cost-95-million-all-of-aep-ohios-customers-could-be-on-the-hook"
+   }
+  ],
+  "subject": "aep-ohio-green-chapel-station-substation",
+  "value": "$95.0M \u2014 AEP Ohio built a $95M, 500-megawatt substation ('Green Chapel Station') specifically for Intel's New Albany, Ohio fab; now sitting idle due to Intel's construction delay, with Meta separately seeking to draw power from it instead.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "General contractor for Phase 1 of Intel's New Albany, Ohio fab -- 2.5M sq ft including 600,000 sq ft of cleanrooms; no dollar figure disclosed for Bechtel's own contract.",
+  "confidence": "high",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-ext-public-equity-market-intel-capital-2026-stock-offering-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-intel-foundry-construction-kat-ent-vendor-bechtel",
+  "label": "Intel (foundry construction (fab capex \u2014 Foundry/IFS division)) \u2192 Bechtel Corp.",
+  "sources": [
+   {
+    "as_of": null,
+    "figure": null,
+    "reliability": "high",
+    "title": "ENR",
+    "url": "https://www.enr.com/articles/55464-bechtel-wins-phase-1-contract-for-20b-intel-chip-plant-project"
+   }
+  ],
+  "subject": "bechtel-corp",
+  "value": "General contractor for Phase 1 of Intel's New Albany, Ohio fab -- 2.5M sq ft including 600,000 sq ft of cleanrooms; no dollar figure disclosed for Bechtel's own contract.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "General contractor for Intel's Fab 52 and Fab 62 in Chandler, Arizona; Fab 52 (~$5B, 2.9M sq ft, project total not Hoffman-specific) was ENR's 2025 Project of the Year. Jacobs Engineering is the project designer.",
+  "confidence": "high",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-ext-public-equity-market-intel-capital-2026-stock-offering-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-intel-foundry-construction-kat-ent-vendor-hoffman-construction",
+  "label": "Intel (foundry construction (fab capex \u2014 Foundry/IFS division)) \u2192 Hoffman Construction Co.",
+  "sources": [
+   {
+    "as_of": null,
+    "figure": null,
+    "reliability": "high",
+    "title": "ENR",
+    "url": "https://www.enr.com/articles/58334-intels-20b-arizona-chip-plant-project-poised-to-make-national-impact"
+   }
+  ],
+  "subject": "hoffman-construction-co",
+  "value": "General contractor for Intel's Fab 52 and Fab 62 in Chandler, Arizona; Fab 52 (~$5B, 2.9M sq ft, project total not Hoffman-specific) was ENR's 2025 Project of the Year. Jacobs Engineering is the project designer.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "General contractor (scope: the four primary AI data center buildings) at Meta's Hyperion campus, Richland Parish, Louisiana.",
+  "confidence": "med",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-ext-bond-market-meta-capital-2025-senior-notes-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-turner-construction-epc-servic",
+  "label": "Meta (datacenter construction (Hyperion campus, Richland Parish LA \u2014 JV recipient side, distinct from meta/datacenter-operation's grid-interconnection edge)) \u2192 Turner Construction Company (EPC/general-contractor services (seller side))",
+  "sources": [
+   {
+    "as_of": null,
+    "figure": null,
+    "reliability": "med",
+    "title": "Turner Construction",
+    "url": "https://www.turnerconstruction.com/pages/richland-parish-data-center-resource-page"
+   }
+  ],
+  "subject": "turner-construction-company",
+  "value": "General contractor (scope: the four primary AI data center buildings) at Meta's Hyperion campus, Richland Parish, Louisiana.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "Named general contractor at Meta's Hyperion campus, Richland Parish, Louisiana.",
+  "confidence": "med",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-ext-bond-market-meta-capital-2025-senior-notes-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-vendor-dpr-construction",
+  "label": "Meta (datacenter construction (Hyperion campus, Richland Parish LA \u2014 JV recipient side, distinct from meta/datacenter-operation's grid-interconnection edge)) \u2192 DPR Construction",
+  "sources": [
+   {
+    "as_of": null,
+    "figure": null,
+    "reliability": "med",
+    "title": "DPR Construction",
+    "url": "https://www.dpr.com/projects/meta-richland-parish-data-center"
+   }
+  ],
+  "subject": "dpr-construction",
+  "value": "Named general contractor at Meta's Hyperion campus, Richland Parish, Louisiana.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "$11.0B (estimate) \u2014 Entergy Louisiana is building 10 gas-fired power plants (7+ GW total, expanded from an initial 3-plant ~2,260MW plan) to power Hyperion; Meta funds the full 15-year revenue requirement. Estimated systemwide cost of the 10 plants: approximately $11B -- an estimate, not a confirmed invoice. Turbine OEM (GE Vernova/Siemens Energy/Mitsubishi Power) not publicly confirmed.",
+  "confidence": "high",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-ext-bond-market-meta-capital-2025-senior-notes-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-vendor-entergy-louisiana-gener",
+  "label": "Meta (datacenter construction (Hyperion campus, Richland Parish LA \u2014 JV recipient side, distinct from meta/datacenter-operation's grid-interconnection edge)) \u2192 Entergy Louisiana (power generation buildout)",
+  "sources": [
+   {
+    "as_of": "2026-03",
+    "figure": null,
+    "reliability": "high",
+    "title": "Entergy / Tom's Hardware / Forbes",
+    "url": "https://www.entergy.com/news/entergy-louisiana-power-meta-s-data-center-in-richland-parish"
+   }
+  ],
+  "subject": "entergy-louisiana-power-generation-buildout",
+  "value": "$11.0B (estimate) \u2014 Entergy Louisiana is building 10 gas-fired power plants (7+ GW total, expanded from an initial 3-plant ~2,260MW plan) to power Hyperion; Meta funds the full 15-year revenue requirement. Estimated systemwide cost of the 10 plants: approximately $11B -- an estimate, not a confirmed invoice. Turbine OEM (GE Vernova/Siemens Energy/Mitsubishi Power) not publicly confirmed.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": 875000000,
+  "as_of": null,
+  "basis": "$875.0M \u2014 Meta states it has contracted more than $875M with roughly 160 Louisiana vendors (84% local to Northeast Louisiana) for the Hyperion campus, including named subcontractors Copeland Electric Co. (electrical) and 1LEMOINE (paving/utilities) -- an aggregate figure, not itemized per vendor.",
+  "confidence": "high",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-ext-bond-market-meta-capital-2025-senior-notes-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-vendor-louisiana-hyperion-vend",
+  "label": "Meta (datacenter construction (Hyperion campus, Richland Parish LA \u2014 JV recipient side, distinct from meta/datacenter-operation's grid-interconnection edge)) \u2192 Louisiana local vendors (Meta Hyperion contractors)",
+  "sources": [
+   {
+    "as_of": "2025-12",
+    "figure": null,
+    "reliability": "high",
+    "title": "Meta Newsroom",
+    "url": "https://about.fb.com/news/2025/12/metas-richland-parish-data-center-supports-louisiana-economy-875-million-in-contracts/"
+   }
+  ],
+  "subject": "louisiana-local-vendors-meta-hyperion-contractors",
+  "value": "$875.0M \u2014 Meta states it has contracted more than $875M with roughly 160 Louisiana vendors (84% local to Northeast Louisiana) for the Hyperion campus, including named subcontractors Copeland Electric Co. (electrical) and 1LEMOINE (paving/utilities) -- an aggregate figure, not itemized per vendor.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "Named general contractor at Meta's Hyperion campus, Richland Parish, Louisiana.",
+  "confidence": "med",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-ext-bond-market-meta-capital-2025-senior-notes-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-vendor-mortenson",
+  "label": "Meta (datacenter construction (Hyperion campus, Richland Parish LA \u2014 JV recipient side, distinct from meta/datacenter-operation's grid-interconnection edge)) \u2192 Mortenson Construction",
+  "sources": [
+   {
+    "as_of": null,
+    "figure": null,
+    "reliability": "med",
+    "title": "Wikipedia \u2014 Hyperion Data Center",
+    "url": "https://en.wikipedia.org/wiki/Hyperion_Data_Center"
+   }
+  ],
+  "subject": "mortenson-construction",
+  "value": "Named general contractor at Meta's Hyperion campus, Richland Parish, Louisiana.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "Williams' Will-Power subsidiary is building a ~200MW gas-fired 'Socrates South' plant to power Meta's New Albany, Ohio ('Prometheus') data center; no dollar figure disclosed.",
+  "confidence": "high",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-ext-bond-market-meta-capital-2025-senior-notes-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-vendor-williams-will-power",
+  "label": "Meta (datacenter construction (Hyperion campus, Richland Parish LA \u2014 JV recipient side, distinct from meta/datacenter-operation's grid-interconnection edge)) \u2192 Williams Companies (Will-Power subsidiary)",
+  "sources": [
+   {
+    "as_of": null,
+    "figure": null,
+    "reliability": "high",
+    "title": "DataCenterDynamics",
+    "url": "https://www.datacenterdynamics.com/en/news/ohio-regulators-approve-construction-of-200mw-gas-power-plant-to-serve-meta-data-center-in-new-albany-ohio/"
+   }
+  ],
+  "subject": "williams-companies-will-power-subsidiary",
+  "value": "Williams' Will-Power subsidiary is building a ~200MW gas-fired 'Socrates South' plant to power Meta's New Albany, Ohio ('Prometheus') data center; no dollar figure disclosed.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": 40000000000,
+  "as_of": null,
+  "basis": "$40.0B \u2014 Oracle reportedly ordered approximately $40B of Nvidia GB200 GPUs (~400,000 units) specifically for the Abilene, TX Stargate facility it leases to OpenAI under a 15-year deal -- distinct from the broader $100B Nvidia-OpenAI investment tracked elsewhere.",
+  "confidence": "high",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-ext-bond-market-oracle-capital-2026-senior-notes-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-oracle-capital-kat-ent-vendor-nvidia-oracle-gpu-order",
+  "label": "Oracle (capital (treasury/financing facet)) \u2192 Nvidia (GPU sale to Oracle)",
+  "sources": [
+   {
+    "as_of": null,
+    "figure": null,
+    "reliability": "high",
+    "title": "Network World / Tom's Hardware",
+    "url": "https://www.networkworld.com/article/3995015/oracle-to-spend-40b-on-nvidia-chips-for-openai-data-center-in-texas.html"
+   }
+  ],
+  "subject": "nvidia-gpu-sale-to-oracle",
+  "value": "$40.0B \u2014 Oracle reportedly ordered approximately $40B of Nvidia GB200 GPUs (~400,000 units) specifically for the Abilene, TX Stargate facility it leases to OpenAI under a 15-year deal -- distinct from the broader $100B Nvidia-OpenAI investment tracked elsewhere.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "General contractor on the Oracle/OpenAI/Related Digital Stargate campus ('The Barn') in Saline Township, Michigan -- reported as a $16B project overall (not Walbridge's specific contract value), Walbridge's largest project in its 110-year history.",
+  "confidence": "high",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-ext-bond-market-oracle-capital-2026-senior-notes-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-oracle-capital-kat-ent-vendor-walbridge",
+  "label": "Oracle (capital (treasury/financing facet)) \u2192 Walbridge",
+  "sources": [
+   {
+    "as_of": "2026-06-01",
+    "figure": null,
+    "reliability": "high",
+    "title": "Oracle newsroom / Michigan Contractor & Builder",
+    "url": "https://www.oracle.com/news/announcement/related-digital-oracle-openai-walbridge-and-governor-whitmer-celebrate-construction-of-stargate-campus-in-saline-township-2026-06-01/"
+   }
+  ],
+  "subject": "walbridge",
+  "value": "General contractor on the Oracle/OpenAI/Related Digital Stargate campus ('The Barn') in Saline Township, Michigan -- reported as a $16B project overall (not Walbridge's specific contract value), Walbridge's largest project in its 110-year history.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "Oracle agreed to purchase up to 2.45GW of Bloom solid-oxide fuel cells for the New Mexico Stargate/Project Jupiter site; no dollar figure disclosed, and the project is reportedly stalled after New Mexico's State Land Office denied a needed gas-pipeline application.",
+  "confidence": "high",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-stargate-2025-jv-financing-stargate-datacenter-construction-2025-formation-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-stargate-datacenter-construction-kat-ent-vendor-bloom-energy",
+  "label": "Stargate LLC (joint venture \u2014 OpenAI/SoftBank/Oracle/MGX) (datacenter construction (JV entity \u2014 umbrella receiver of committed capital; specific sites e.g. Crusoe's Abilene campus are tracked separately at the facility level in research/q3-datacenter-census/attribution.yaml and may overlap with this JV's own buildout)) \u2192 Bloom Energy",
+  "sources": [
+   {
+    "as_of": null,
+    "figure": null,
+    "reliability": "high",
+    "title": "Enverus",
+    "url": "https://www.enverus.com/blog/cracks-pipe-pipeline-bloom-energy-fuel-cell-data-center/"
+   }
+  ],
+  "subject": "bloom-energy",
+  "value": "Oracle agreed to purchase up to 2.45GW of Bloom solid-oxide fuel cells for the New Mexico Stargate/Project Jupiter site; no dollar figure disclosed, and the project is reportedly stalled after New Mexico's State Land Office denied a needed gas-pipeline application.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": 375000000,
+  "as_of": null,
+  "basis": "$375.0M \u2014 Foxconn sold its 6.2M sq ft former Lordstown Assembly plant to a SoftBank-affiliated buyer ('Crescent Dune LLC') for $375M, then leases it back to manufacture Stargate data center equipment; Shimizu North America LLC is the contractor starting construction there.",
+  "confidence": "high",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-stargate-2025-jv-financing-stargate-datacenter-construction-2025-formation-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-stargate-datacenter-construction-kat-ent-vendor-foxconn",
+  "label": "Stargate LLC (joint venture \u2014 OpenAI/SoftBank/Oracle/MGX) (datacenter construction (JV entity \u2014 umbrella receiver of committed capital; specific sites e.g. Crusoe's Abilene campus are tracked separately at the facility level in research/q3-datacenter-census/attribution.yaml and may overlap with this JV's own buildout)) \u2192 Foxconn",
+  "sources": [
+   {
+    "as_of": "2025-08-08",
+    "figure": null,
+    "reliability": "high",
+    "title": "TechCrunch",
+    "url": "https://techcrunch.com/2025/08/08/softbank-reportedly-bought-foxconns-ohio-factory-for-the-stargate-ai-project/"
+   }
+  ],
+  "subject": "foxconn",
+  "value": "$375.0M \u2014 Foxconn sold its 6.2M sq ft former Lordstown Assembly plant to a SoftBank-affiliated buyer ('Crescent Dune LLC') for $375M, then leases it back to manufacture Stargate data center equipment; Shimizu North America LLC is the contractor starting construction there.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "Contractor starting construction at the Lordstown, Ohio Stargate equipment-manufacturing site.",
+  "confidence": "high",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-stargate-2025-jv-financing-stargate-datacenter-construction-2025-formation-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-stargate-datacenter-construction-kat-ent-vendor-shimizu-north-ameri",
+  "label": "Stargate LLC (joint venture \u2014 OpenAI/SoftBank/Oracle/MGX) (datacenter construction (JV entity \u2014 umbrella receiver of committed capital; specific sites e.g. Crusoe's Abilene campus are tracked separately at the facility level in research/q3-datacenter-census/attribution.yaml and may overlap with this JV's own buildout)) \u2192 Shimizu North America LLC",
+  "sources": [
+   {
+    "as_of": "2025-08",
+    "figure": null,
+    "reliability": "high",
+    "title": "DataCenterDynamics",
+    "url": "https://www.datacenterdynamics.com/en/news/foxconn-and-softbank-to-manufacture-stargate-data-center-equipment-at-lordstown-ohio-facility/"
+   }
+  ],
+  "subject": "shimizu-north-america-llc",
+  "value": "Contractor starting construction at the Lordstown, Ohio Stargate equipment-manufacturing site.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "Turner Construction, together with McCarthy Building Companies (as a joint venture), plus Whiting-Turner Contracting and The Weitz Company, are named contractors on Vantage's separate 'Lighthouse' Stargate campus in Port Washington, Wisconsin ($15B project, $8B first phase) -- a different Vantage project from the Texas Frontier megacampus.",
+  "confidence": "high",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-vantage-data-centers-2025-mufg-jpmorgan-facility-vantage-data-centers-datacenter-construction-2025-debt-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-vantage-data-centers-datacenter-construction-kat-ent-turner-constru",
+  "label": "Vantage Data Centers (datacenter construction (developer side)) \u2192 Turner Construction Company (EPC/general-contractor services (seller side))",
+  "sources": [
+   {
+    "as_of": null,
+    "figure": null,
+    "reliability": "high",
+    "title": "ENR / Data Center Knowledge",
+    "url": "https://www.enr.com/articles/61793-construction-team-chosen-for-first-phase-of-15b-wisconsin-data-center-campus"
+   }
+  ],
+  "subject": "turner-construction-company",
+  "value": "Turner Construction, together with McCarthy Building Companies (as a joint venture), plus Whiting-Turner Contracting and The Weitz Company, are named contractors on Vantage's separate 'Lighthouse' Stargate campus in Port Washington, Wisconsin ($15B project, $8B first phase) -- a different Vantage project from the Texas Frontier megacampus.",
+  "vendor_unspecified": false
+ },
+ {
+  "amount_usd": null,
+  "as_of": null,
+  "basis": "Named design firm of record for Vantage's 'Frontier' megacampus (Shackelford County, TX, 1,200 acres, 10 buildings, 1.4GW, ~$25B total project cost) per a Texas Department of Licensing and Regulation filing; no dollar figure attached to Kiewit's scope. No general contractor has been publicly named for Frontier as a whole.",
+  "confidence": "med",
+  "dimension": "q1-flow",
+  "epistemic_status": "hypothesized",
+  "explains_claim": "q1-kat-claim-vantage-data-centers-2025-mufg-jpmorgan-facility-vantage-data-centers-datacenter-construction-2025-debt-obs0",
+  "id": "q1-kat-hyp2-q1-kat-ent-vantage-data-centers-datacenter-construction-kat-ent-vendor-kiewit",
+  "label": "Vantage Data Centers (datacenter construction (developer side)) \u2192 Kiewit Corporation",
+  "sources": [
+   {
+    "as_of": null,
+    "figure": null,
+    "reliability": "med",
+    "title": "Kiewit (LinkedIn)",
+    "url": "https://www.linkedin.com/posts/kiewit_proud-to-partner-with-vantage-as-the-frontier-activity-7405305161444810752-aw5C"
+   }
+  ],
+  "subject": "kiewit-corporation",
+  "value": "Named design firm of record for Vantage's 'Frontier' megacampus (Shackelford County, TX, 1,200 acres, 10 buildings, 1.4GW, ~$25B total project cost) per a Texas Department of Licensing and Regulation filing; no dollar figure attached to Kiewit's scope. No general contractor has been publicly named for Frontier as a whole.",
+  "vendor_unspecified": false
+ },
+ {
   "aggregate": true,
   "as_of": "",
   "basis": "Sum of point-figure, USD-denominated flow claims tagged Flow type \u00b7 asset purchase in the Q1 money-flow map.",
@@ -2553,7 +3336,7 @@
   "dimension": "q1-flow-type",
   "id": "q1-agg-flowtype-debt",
   "label": "Flow type \u00b7 debt",
-  "member_count": 15,
+  "member_count": 16,
   "members": [
    "q1-kat-claim-broadcom-2026-anthropic-spv-facility-broadcom-capital-2026-debt-obs1",
    "q1-kat-claim-coreweave-2023-blackstone-magnetar-facility-coreweave-capital-2023-debt-obs0",
@@ -2568,14 +3351,15 @@
    "q1-kat-claim-ext-bond-market-softbank-capital-2026-retail-bond-obs0",
    "q1-kat-claim-ext-bond-market-softbank-capital-2026-wholesale-bond-talks-obs0",
    "q1-kat-claim-jpmorgan-chase-capital-crusoe-datacenter-construction-2025-construction-loan-obs0",
+   "q1-kat-claim-jpmorgan-chase-capital-crusoe-datacenter-construction-2026-phase2-loan-obs0",
    "q1-kat-claim-lambda-2026-leveraged-loan-lambda-capital-2026-debt-obs0",
    "q1-kat-claim-vantage-data-centers-2025-mufg-jpmorgan-facility-vantage-data-centers-datacenter-construction-2025-debt-obs0"
   ],
   "short_label": "debt",
   "sources": [],
   "subject": null,
-  "total_usd": 139267000000,
-  "value": "$139.3B tracked across 13 claim(s) (+2 more without a settled point figure \u2014 see members)"
+  "total_usd": 146367000000,
+  "value": "$146.4B tracked across 14 claim(s) (+2 more without a settled point figure \u2014 see members)"
  },
  {
   "aggregate": true,
@@ -2753,7 +3537,7 @@
   "dimension": "q1-destination",
   "id": "q1-agg-dest-land-shell-materials",
   "label": "Destination \u00b7 land, shell & materials",
-  "member_count": 15,
+  "member_count": 16,
   "members": [
    "q1-kat-claim-amkor-capital-amkor-packaging-construction-2025-arizona-obs0",
    "q1-kat-claim-blue-owl-capital-capital-meta-datacenter-construction-2025-hyperion-jv-obs0",
@@ -2763,6 +3547,7 @@
    "q1-kat-claim-crusoe-2025-abilene-phase2-financing-crusoe-datacenter-construction-2025-phase2-obs1",
    "q1-kat-claim-ext-us-government-intel-foundry-construction-2024-chips-act-obs0",
    "q1-kat-claim-jpmorgan-chase-capital-crusoe-datacenter-construction-2025-construction-loan-obs0",
+   "q1-kat-claim-jpmorgan-chase-capital-crusoe-datacenter-construction-2026-phase2-loan-obs0",
    "q1-kat-claim-samsung-capital-samsung-foundry-construction-2021-taylor-tx-obs0",
    "q1-kat-claim-stargate-2025-jv-financing-stargate-datacenter-construction-2025-formation-obs0",
    "q1-kat-claim-tsmc-2026-q2-capex-approval-tsmc-foundry-construction-2026-capex-obs0",
@@ -2774,8 +3559,8 @@
   "short_label": "land, shell & materials",
   "sources": [],
   "subject": null,
-  "total_usd": 277064000000,
-  "value": "$277.1B tracked across 14 claim(s) (+1 more without a settled point figure \u2014 see members)"
+  "total_usd": 284164000000,
+  "value": "$284.2B tracked across 15 claim(s) (+1 more without a settled point figure \u2014 see members)"
  },
  {
   "aggregate": true,
@@ -2947,6 +3732,24 @@
  {
   "aggregate": true,
   "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 AEP Ohio (Green Chapel Station substation) in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-aep-ohio-green-chapel-station-substation",
+  "label": "Tracked inflow \u00b7 AEP Ohio (Green Chapel Station substation)",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-intel-foundry-construction-kat-ent-vendor-aep-ohio-substation"
+  ],
+  "short_label": "AEP Ohio (Green Chapel Station substation)",
+  "sources": [],
+  "subject": "aep-ohio-green-chapel-station-substation",
+  "total_usd": 95000000,
+  "value": "$95.0M tracked across 1 claim(s)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
   "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 AMD in the Q1 money-flow map.",
   "confidence": "",
   "dimension": "q1-recipient",
@@ -3057,6 +3860,24 @@
  {
   "aggregate": true,
   "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Applied Digital Corp in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-applied-digital-corp",
+  "label": "Tracked inflow \u00b7 Applied Digital Corp",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-applied-digital"
+  ],
+  "short_label": "Applied Digital Corp",
+  "sources": [],
+  "subject": "applied-digital-corp",
+  "total_usd": 0,
+  "value": "no settled point figure yet across 1 claim(s) (+1 more without a settled point figure \u2014 see members)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
   "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Arizona State Land Department in the Q1 money-flow map.",
   "confidence": "",
   "dimension": "q1-recipient",
@@ -3071,6 +3892,96 @@
   "subject": "arizona-state-land-department",
   "total_usd": 197250000,
   "value": "$197.2M tracked across 1 claim(s)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Bechtel Corp. in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-bechtel-corp",
+  "label": "Tracked inflow \u00b7 Bechtel Corp.",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-intel-foundry-construction-kat-ent-vendor-bechtel"
+  ],
+  "short_label": "Bechtel Corp.",
+  "sources": [],
+  "subject": "bechtel-corp",
+  "total_usd": 0,
+  "value": "no settled point figure yet across 1 claim(s) (+1 more without a settled point figure \u2014 see members)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Bloom Energy in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-bloom-energy",
+  "label": "Tracked inflow \u00b7 Bloom Energy",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-stargate-datacenter-construction-kat-ent-vendor-bloom-energy"
+  ],
+  "short_label": "Bloom Energy",
+  "sources": [],
+  "subject": "bloom-energy",
+  "total_usd": 0,
+  "value": "no settled point figure yet across 1 claim(s) (+1 more without a settled point figure \u2014 see members)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Blue Owl Capital & Crusoe (phase 2 equity) in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-blue-owl-capital-crusoe-phase-2-equity",
+  "label": "Tracked inflow \u00b7 Blue Owl Capital & Crusoe (phase 2 equity)",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-crusoe-datacenter-construction-kat-ent-vendor-blue-owl-crusoe-phase"
+  ],
+  "short_label": "Blue Owl Capital & Crusoe (phase 2 equity)",
+  "sources": [],
+  "subject": "blue-owl-capital-crusoe-phase-2-equity",
+  "total_usd": 0,
+  "value": "no settled point figure yet across 1 claim(s) (+1 more without a settled point figure \u2014 see members)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Blue Owl Capital / Chirisa Technology Parks (Lancaster PA JV) in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-blue-owl-capital-chirisa-technology-parks-lancaster-pa-jv",
+  "label": "Tracked inflow \u00b7 Blue Owl Capital / Chirisa Technology Parks (Lancaster PA JV)",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-blue-owl-chirisa-lancaster"
+  ],
+  "short_label": "Blue Owl Capital / Chirisa Technology Parks (Lancaster PA JV)",
+  "sources": [],
+  "subject": "blue-owl-capital-chirisa-technology-parks-lancaster-pa-jv",
+  "total_usd": 0,
+  "value": "no settled point figure yet across 1 claim(s) (+1 more without a settled point figure \u2014 see members)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Botetourt County, Virginia (land seller) in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-botetourt-county-virginia-land-seller",
+  "label": "Tracked inflow \u00b7 Botetourt County, Virginia (land seller)",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-botetourt-county-va"
+  ],
+  "short_label": "Botetourt County, Virginia (land seller)",
+  "sources": [],
+  "subject": "botetourt-county-virginia-land-seller",
+  "total_usd": 14055406,
+  "value": "$14.1M tracked across 1 claim(s)"
  },
  {
   "aggregate": true,
@@ -3284,17 +4195,54 @@
   "dimension": "q1-recipient",
   "id": "q1-agg-recipient-crusoe-energy-systems",
   "label": "Tracked inflow \u00b7 Crusoe Energy Systems (datacenter construction (Abilene, TX campus \u2014 builder/operator side))",
-  "member_count": 3,
+  "member_count": 4,
   "members": [
    "q1-kat-claim-crusoe-2024-abilene-jv-financing-crusoe-datacenter-construction-2024-jv-formation-obs0",
    "q1-kat-claim-crusoe-2025-abilene-phase2-financing-crusoe-datacenter-construction-2025-phase2-obs1",
-   "q1-kat-claim-jpmorgan-chase-capital-crusoe-datacenter-construction-2025-construction-loan-obs0"
+   "q1-kat-claim-jpmorgan-chase-capital-crusoe-datacenter-construction-2025-construction-loan-obs0",
+   "q1-kat-claim-jpmorgan-chase-capital-crusoe-datacenter-construction-2026-phase2-loan-obs0"
   ],
   "short_label": "Crusoe Energy Systems (datacenter construction (Abilene, TX campus \u2014 builder/operator side))",
   "sources": [],
   "subject": "crusoe-energy-systems",
-  "total_usd": 20700000000,
-  "value": "$20.7B tracked across 3 claim(s)"
+  "total_usd": 27800000000,
+  "value": "$27.8B tracked across 4 claim(s)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 DPR Construction in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-dpr-construction",
+  "label": "Tracked inflow \u00b7 DPR Construction",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-vendor-dpr-construction"
+  ],
+  "short_label": "DPR Construction",
+  "sources": [],
+  "subject": "dpr-construction",
+  "total_usd": 0,
+  "value": "no settled point figure yet across 1 claim(s) (+1 more without a settled point figure \u2014 see members)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Dell in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-dell",
+  "label": "Tracked inflow \u00b7 Dell",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-dell-coreweave"
+  ],
+  "short_label": "Dell",
+  "sources": [],
+  "subject": "dell",
+  "total_usd": 2300000000,
+  "value": "$2.3B tracked across 1 claim(s)"
  },
  {
   "aggregate": true,
@@ -3335,6 +4283,24 @@
  {
   "aggregate": true,
   "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Entergy Louisiana (power generation buildout) in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-entergy-louisiana-power-generation-buildout",
+  "label": "Tracked inflow \u00b7 Entergy Louisiana (power generation buildout)",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-vendor-entergy-louisiana-gener"
+  ],
+  "short_label": "Entergy Louisiana (power generation buildout)",
+  "sources": [],
+  "subject": "entergy-louisiana-power-generation-buildout",
+  "total_usd": 0,
+  "value": "no settled point figure yet across 1 claim(s) (+1 more without a settled point figure \u2014 see members)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
   "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Evans General Contractors in the Q1 money-flow map.",
   "confidence": "",
   "dimension": "q1-recipient",
@@ -3367,6 +4333,42 @@
   "subject": "exyte",
   "total_usd": 0,
   "value": "no settled point figure yet across 1 claim(s) (+1 more without a settled point figure \u2014 see members)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Form Energy in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-form-energy",
+  "label": "Tracked inflow \u00b7 Form Energy",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-crusoe-datacenter-construction-kat-ent-vendor-form-energy"
+  ],
+  "short_label": "Form Energy",
+  "sources": [],
+  "subject": "form-energy",
+  "total_usd": 0,
+  "value": "no settled point figure yet across 1 claim(s) (+1 more without a settled point figure \u2014 see members)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Foxconn in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-foxconn",
+  "label": "Tracked inflow \u00b7 Foxconn",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-stargate-datacenter-construction-kat-ent-vendor-foxconn"
+  ],
+  "short_label": "Foxconn",
+  "sources": [],
+  "subject": "foxconn",
+  "total_usd": 375000000,
+  "value": "$375.0M tracked across 1 claim(s)"
  },
  {
   "aggregate": true,
@@ -3462,6 +4464,24 @@
  {
   "aggregate": true,
   "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Hoffman Construction Co. in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-hoffman-construction-co",
+  "label": "Tracked inflow \u00b7 Hoffman Construction Co.",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-intel-foundry-construction-kat-ent-vendor-hoffman-construction"
+  ],
+  "short_label": "Hoffman Construction Co.",
+  "sources": [],
+  "subject": "hoffman-construction-co",
+  "total_usd": 0,
+  "value": "no settled point figure yet across 1 claim(s) (+1 more without a settled point figure \u2014 see members)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
   "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Hung Ching Construction in the Q1 money-flow map.",
   "confidence": "",
   "dimension": "q1-recipient",
@@ -3517,6 +4537,42 @@
  {
   "aggregate": true,
   "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Kairos Power in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-kairos-power",
+  "label": "Tracked inflow \u00b7 Kairos Power",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-kairos-power"
+  ],
+  "short_label": "Kairos Power",
+  "sources": [],
+  "subject": "kairos-power",
+  "total_usd": 0,
+  "value": "no settled point figure yet across 1 claim(s) (+1 more without a settled point figure \u2014 see members)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Kiewit Corporation in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-kiewit-corporation",
+  "label": "Tracked inflow \u00b7 Kiewit Corporation",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-vantage-data-centers-datacenter-construction-kat-ent-vendor-kiewit"
+  ],
+  "short_label": "Kiewit Corporation",
+  "sources": [],
+  "subject": "kiewit-corporation",
+  "total_usd": 0,
+  "value": "no settled point figure yet across 1 claim(s) (+1 more without a settled point figure \u2014 see members)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
   "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Lambda in the Q1 money-flow map.",
   "confidence": "",
   "dimension": "q1-recipient",
@@ -3550,6 +4606,24 @@
   "subject": "lancium",
   "total_usd": 2000000000,
   "value": "$2.0B tracked across 1 claim(s)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Louisiana local vendors (Meta Hyperion contractors) in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-louisiana-local-vendors-meta-hyperion-contractors",
+  "label": "Tracked inflow \u00b7 Louisiana local vendors (Meta Hyperion contractors)",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-vendor-louisiana-hyperion-vend"
+  ],
+  "short_label": "Louisiana local vendors (Meta Hyperion contractors)",
+  "sources": [],
+  "subject": "louisiana-local-vendors-meta-hyperion-contractors",
+  "total_usd": 875000000,
+  "value": "$875.0M tracked across 1 claim(s)"
  },
  {
   "aggregate": true,
@@ -3664,6 +4738,24 @@
  {
   "aggregate": true,
   "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Monroe County, Georgia (land seller) in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-monroe-county-georgia-land-seller",
+  "label": "Tracked inflow \u00b7 Monroe County, Georgia (land seller)",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-monroe-county-ga"
+  ],
+  "short_label": "Monroe County, Georgia (land seller)",
+  "sources": [],
+  "subject": "monroe-county-georgia-land-seller",
+  "total_usd": 58500000,
+  "value": "$58.5M tracked across 1 claim(s)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
   "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Moonshot AI (Kimi) (capital (treasury/financing facet)) in the Q1 money-flow map.",
   "confidence": "",
   "dimension": "q1-recipient",
@@ -3679,6 +4771,24 @@
   "subject": "moonshot-ai-kimi",
   "total_usd": 1300000000,
   "value": "$1.3B tracked across 2 claim(s)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Mortenson Construction in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-mortenson-construction",
+  "label": "Tracked inflow \u00b7 Mortenson Construction",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-vendor-mortenson"
+  ],
+  "short_label": "Mortenson Construction",
+  "sources": [],
+  "subject": "mortenson-construction",
+  "total_usd": 0,
+  "value": "no settled point figure yet across 1 claim(s) (+1 more without a settled point figure \u2014 see members)"
  },
  {
   "aggregate": true,
@@ -3733,6 +4843,24 @@
   "subject": "nscale",
   "total_usd": 45000000000,
   "value": "$45.0B tracked across 1 claim(s)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Nvidia (GPU sale to Oracle) in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-nvidia-gpu-sale-to-oracle",
+  "label": "Tracked inflow \u00b7 Nvidia (GPU sale to Oracle)",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-oracle-capital-kat-ent-vendor-nvidia-oracle-gpu-order"
+  ],
+  "short_label": "Nvidia (GPU sale to Oracle)",
+  "sources": [],
+  "subject": "nvidia-gpu-sale-to-oracle",
+  "total_usd": 40000000000,
+  "value": "$40.0B tracked across 1 claim(s)"
  },
  {
   "aggregate": true,
@@ -3847,6 +4975,24 @@
  {
   "aggregate": true,
   "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Ryan Companies in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-ryan-companies",
+  "label": "Tracked inflow \u00b7 Ryan Companies",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-ryan-companies"
+  ],
+  "short_label": "Ryan Companies",
+  "sources": [],
+  "subject": "ryan-companies",
+  "total_usd": 0,
+  "value": "no settled point figure yet across 1 claim(s) (+1 more without a settled point figure \u2014 see members)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
   "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 SB Energy in the Q1 money-flow map.",
   "confidence": "",
   "dimension": "q1-recipient",
@@ -3901,6 +5047,42 @@
  {
   "aggregate": true,
   "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Shimizu North America LLC in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-shimizu-north-america-llc",
+  "label": "Tracked inflow \u00b7 Shimizu North America LLC",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-stargate-datacenter-construction-kat-ent-vendor-shimizu-north-ameri"
+  ],
+  "short_label": "Shimizu North America LLC",
+  "sources": [],
+  "subject": "shimizu-north-america-llc",
+  "total_usd": 0,
+  "value": "no settled point figure yet across 1 claim(s) (+1 more without a settled point figure \u2014 see members)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Societe Generale-led syndicate (Virginia CTP-01 loan) in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-societe-generale-led-syndicate-virginia-ctp-01-loan",
+  "label": "Tracked inflow \u00b7 Societe Generale-led syndicate (Virginia CTP-01 loan)",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-societe-generale-va-loan"
+  ],
+  "short_label": "Societe Generale-led syndicate (Virginia CTP-01 loan)",
+  "sources": [],
+  "subject": "societe-generale-led-syndicate-virginia-ctp-01-loan",
+  "total_usd": 600000000,
+  "value": "$600.0M tracked across 1 claim(s)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
   "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 SoftBank Group (capital (strategic/JV investment facet)) in the Q1 money-flow map.",
   "confidence": "",
   "dimension": "q1-recipient",
@@ -3934,6 +5116,24 @@
   "subject": "stargate-llc-joint-venture-openai-softbank-oracle-mgx",
   "total_usd": 52000000000,
   "value": "$52.0B tracked across 1 claim(s)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Supermicro in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-supermicro",
+  "label": "Tracked inflow \u00b7 Supermicro",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-supermicro-coreweave"
+  ],
+  "short_label": "Supermicro",
+  "sources": [],
+  "subject": "supermicro",
+  "total_usd": 0,
+  "value": "no settled point figure yet across 1 claim(s) (+1 more without a settled point figure \u2014 see members)"
  },
  {
   "aggregate": true,
@@ -4034,15 +5234,18 @@
   "dimension": "q1-recipient",
   "id": "q1-agg-recipient-turner-construction-company",
   "label": "Tracked inflow \u00b7 Turner Construction Company (EPC/general-contractor services (seller side))",
-  "member_count": 1,
+  "member_count": 4,
   "members": [
-   "q1-kat-claim-vantage-data-centers-capital-turner-construction-epc-services-2024-new-albany-epc-obs0"
+   "q1-kat-claim-vantage-data-centers-capital-turner-construction-epc-services-2024-new-albany-epc-obs0",
+   "q1-kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-turner-construction-epc-services",
+   "q1-kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-turner-construction-epc-servic",
+   "q1-kat-hyp2-q1-kat-ent-vantage-data-centers-datacenter-construction-kat-ent-turner-constru"
   ],
   "short_label": "Turner Construction Company (EPC/general-contractor services (seller side))",
   "sources": [],
   "subject": "turner-construction-company",
   "total_usd": 2000000000,
-  "value": "$2.0B tracked across 1 claim(s)"
+  "value": "$2.0B tracked across 1 claim(s) (+3 more without a settled point figure \u2014 see members)"
  },
  {
   "aggregate": true,
@@ -4213,6 +5416,25 @@
  {
   "aggregate": true,
   "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Vertiv in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-vertiv",
+  "label": "Tracked inflow \u00b7 Vertiv",
+  "member_count": 2,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-coreweave-capital-kat-ent-vendor-vertiv-coreweave",
+   "q1-kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-vertiv-google"
+  ],
+  "short_label": "Vertiv",
+  "sources": [],
+  "subject": "vertiv",
+  "total_usd": 0,
+  "value": "no settled point figure yet across 2 claim(s) (+2 more without a settled point figure \u2014 see members)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
   "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Vistancia Development LLC in the Q1 money-flow map.",
   "confidence": "",
   "dimension": "q1-recipient",
@@ -4243,6 +5465,60 @@
   "short_label": "WUS Printed Circuit",
   "sources": [],
   "subject": "wus-printed-circuit",
+  "total_usd": 0,
+  "value": "no settled point figure yet across 1 claim(s) (+1 more without a settled point figure \u2014 see members)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Walbridge in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-walbridge",
+  "label": "Tracked inflow \u00b7 Walbridge",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-oracle-capital-kat-ent-vendor-walbridge"
+  ],
+  "short_label": "Walbridge",
+  "sources": [],
+  "subject": "walbridge",
+  "total_usd": 0,
+  "value": "no settled point figure yet across 1 claim(s) (+1 more without a settled point figure \u2014 see members)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Whiting-Turner Contracting Company in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-whiting-turner-contracting-company",
+  "label": "Tracked inflow \u00b7 Whiting-Turner Contracting Company",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-whiting-turner"
+  ],
+  "short_label": "Whiting-Turner Contracting Company",
+  "sources": [],
+  "subject": "whiting-turner-contracting-company",
+  "total_usd": 0,
+  "value": "no settled point figure yet across 1 claim(s) (+1 more without a settled point figure \u2014 see members)"
+ },
+ {
+  "aggregate": true,
+  "as_of": "",
+  "basis": "Sum of point-figure, USD-denominated flow claims tagged Tracked inflow \u00b7 Williams Companies (Will-Power subsidiary) in the Q1 money-flow map.",
+  "confidence": "",
+  "dimension": "q1-recipient",
+  "id": "q1-agg-recipient-williams-companies-will-power-subsidiary",
+  "label": "Tracked inflow \u00b7 Williams Companies (Will-Power subsidiary)",
+  "member_count": 1,
+  "members": [
+   "q1-kat-hyp2-q1-kat-ent-meta-datacenter-construction-kat-ent-vendor-williams-will-power"
+  ],
+  "short_label": "Williams Companies (Will-Power subsidiary)",
+  "sources": [],
+  "subject": "williams-companies-will-power-subsidiary",
   "total_usd": 0,
   "value": "no settled point figure yet across 1 claim(s) (+1 more without a settled point figure \u2014 see members)"
  },
