@@ -16,11 +16,44 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
   Two different claims being cited as one.'
 ---
 
-## 2026-08-27 — A judge approves the 52-AG agreement, and the causality fight gets the natural experiment it could not run
+## 2026-08-27 — Judge Gonzalez Rogers approves the settlement, and the "not yet final" flag on yesterday's entry comes off
 
-- **A federal judge approved Meta's agreement with 52 bipartisan state, territorial and DC attorneys general, and the terms rewrite the default teen experience on Instagram and Facebook for ten years.** In participating jurisdictions the protections apply automatically to every under-18 account: a **default two-hour cumulative daily limit** across both apps that only a parent can lift, counted across multiple accounts where Meta detects them; a **Night Mode** block from midnight to 6am covering Feed, Stories, Explore and Reels; **School Mode** muting notifications 8am-3pm; prompts at every 15 minutes of continuous use and at 60 and 90 minutes cumulative; a **selectable non-algorithmic feed** parents can set as required; autoplay off; likes hidden; and cosmetic-surgery and extreme-makeup filters disabled. **The majority of terms are required to remain in place for ten years.** Meta simultaneously published an open letter urging TikTok and YouTube to adopt the same standard, on the argument that teens migrate when restricted on one app.
-  **Why this matters to this thread specifically:** it tracks a research argument that policy keeps outrunning, with Australia's under-16 ban as the standing example. This imposes a **named, dated, decade-long design change on a defined population in some jurisdictions and not others** — which is the natural experiment the causality literature has not been able to run. ⚠️ Meta calls it an *agreement*, not a settlement, though it required judicial approval; and **Meta's newsroom index card says 51 attorneys general while the post's own body says 52** — the body is used here, and carries an "Updated on August 27, 2026 at 10:30 AM PT to reflect the judge's approval" stamp the card predates.
-  ([Meta Newsroom](https://about.fb.com/news/2026/08/agreement-with-state-attorneys-general-supporting-teens/), [the open letter](https://about.fb.com/news/2026/08/open-letter-to-tiktok-and-youtube-to-join-us-in-supporting-teens/))
+- **The Oakland settlement logged yesterday is now approved, and Meta has
+  published its own account of the terms.** ⚠️ **This is the same
+  agreement as the 08-26 entry below, not a second one** — the ~$17bn
+  payment and the injunctive product terms were both logged then, with
+  that entry explicitly flagging that Judge Yvonne Gonzalez Rogers had
+  only *received* the document and it was **not yet final**. **That is
+  what changed: it is final.** Meta's own post carries an "Updated on
+  August 27, 2026 at 10:30 AM PT to reflect the judge's approval" stamp.
+- **What Meta's own account adds beyond the AG press release:** the
+  protections apply **automatically** to under-18 accounts in
+  participating jurisdictions rather than on opt-in; the two-hour daily
+  limit is **cumulative across Facebook and Instagram** and counted across
+  multiple accounts where Meta detects them; Night Mode blocks midnight
+  to 6am across Feed, Stories, Explore and Reels; School Mode mutes
+  notifications 8am-3pm; prompts fire every 15 minutes of continuous use
+  and at 60 and 90 minutes cumulative; the non-algorithmic feed is
+  selectable by the teen and **parents can set it as required**; and
+  cosmetic-surgery and extreme-makeup filters are disabled. Meta
+  simultaneously published an open letter urging TikTok and YouTube to
+  adopt the same standard, arguing teens migrate when restricted on one
+  app.
+- ⚠️ **The coalition size is reported two ways and neither is adopted
+  here as the number.** California's AG put it at **51** ("all 50 states
+  plus D.C. and U.S. territories"); **Meta's own post body says 52**
+  across "US states, territories, and the District of Columbia", while
+  **Meta's own newsroom index card still says 51**. Same coalition,
+  counted differently, and the discrepancy sits inside a single
+  publisher's own site.
+- **Why the approval matters to this thread and not just to the docket:**
+  a settlement received is a proposal; a settlement approved is a
+  ten-year, jurisdiction-split, named-population design change that can
+  actually be measured. **That is the natural experiment this thread has
+  wanted** — the causality literature has never been able to run one, and
+  policy has now run it.
+  ([Meta Newsroom](https://about.fb.com/news/2026/08/agreement-with-state-attorneys-general-supporting-teens/),
+  [the open letter](https://about.fb.com/news/2026/08/open-letter-to-tiktok-and-youtube-to-join-us-in-supporting-teens/))
 
 ## 2026-08-26 — Meta settles the Oakland trial for up to $17B before a verdict; the causality fight moves from courtroom to court-ordered product design
 
