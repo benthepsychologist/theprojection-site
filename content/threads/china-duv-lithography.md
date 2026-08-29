@@ -3,7 +3,7 @@ title: Homegrown DUV
 lens: ai
 status: open
 opened: 2026-07-29
-last_seen: 2026-08-18
+last_seen: 2026-08-29
 weight: 3
 entities:
 - cxmt
@@ -29,6 +29,10 @@ blurb: 'Whether China''s first mass-produced immersion DUV tool is real at manuf
   tied to this. NAMING: "Shanghai Yuliansheng"/"Yuliangsheng" is a PREDECESSOR team
   absorbed into Aishengna (alongside SMEE), not a rival programme — do not double-count.'
 ---
+
+## 2026-08-29 — Goldman puts a number on the gap this thread exists to test, and names lithography as the reason it doesn't close faster
+
+- **Goldman Sachs forecasts China's advanced-chip deficit narrowing from 92% short of demand today to 34% short by 2035** — i.e. roughly two-thirds domestic self-sufficiency in advanced chips within a decade, per a research note relayed by SCMP (08-24) and corroborated by three independent outlets (Tech Times, a Korean business-press pickup) over 08-24/26 with consistent figures. **The explicit caveat matches this thread's own test exactly: SMIC's manufacturing yield and lithography capability are named as the binding constraint** on how fast the gap closes — one Tech Times headline states it as "Lithography Still Binding Limit." This is the first outside quantification found of the ceiling this thread has been tracking qualitatively since 07-28; it does not report any new delivery event and the DELIVERY test below is still unmet. ⚠️ Could not reach Goldman's underlying note or the SCMP original directly (paywall/fetch-blocked); figures cross-checked across four independent headlines rather than a single source. (SCMP, "China's advanced chip deficit to shrink from 92% to 34% by 2035, Goldman says" · Tech Times, "Goldman Sees China 34% Short of Chip Self-Sufficiency in 2035; SMIC Yield Is Fragile Key" — via Google News RSS)
 
 ## 2026-08-18 — Three weeks on, still nobody has confirmed a delivered tool
 

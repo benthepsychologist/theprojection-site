@@ -3,7 +3,7 @@ title: Son All-In
 lens: global-capital
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-28
+last_seen: 2026-08-29
 weight: 2
 entities:
 - softbank
@@ -27,6 +27,11 @@ blurb: 'The empire''s concentration play, assembled from pieces other threads ca
   repricing, any forced Arm monetization, Stargate milestones, the funding-gap figure,
   and whether Roze/ABB actually reaches IPO.'
 ---
+
+## 2026-08-27 (late catch, added 2026-08-29) — The concentration bet generalizes: SoftBank moves on an OpenAI-backed robotics startup too
+
+- **SoftBank is negotiating to buy majority/controlling ownership of 1X, an OpenAI-backed humanoid-robotics startup, in a deal reported around a $6 billion valuation — first reported by The Information (08-27), with Reuters, Axios and Nikkei Asia carrying it through 08-29.** **This is a new axis of concentration for this thread**, arriving the same week SoftBank is stacking a second $10bn loan against its OpenAI stake (below): Son extending SoftBank's AI-adjacent bet-sizing into a second OpenAI-linked company, rather than just deeper into OpenAI itself — one source frames it as Son's "grand return to the humanoid robot sector." ⚠️ Coverage headlines a "$6 billion discount" but does not consistently establish what prior valuation that discount is measured against; treat $6bn as the reported deal valuation, not a confirmed markdown amount. Single-original-source (The Information), not a filing or company statement.
+  ([Reuters, via pickups](https://www.reuters.com/))
 
 ## 2026-08-28 — Borrowing against the OpenAI stake rather than selling it
 

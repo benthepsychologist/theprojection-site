@@ -3,7 +3,7 @@ title: Parity Limbo
 lens: mental-health
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-24
+last_seen: 2026-08-29
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,10 @@ blurb: 'The real parity story is limbo, not a deadline: the 2024 Biden-era MHPAE
   the enforcement-gap consequences payers price in meanwhile, and any state-level
   parity action filling the federal void.'
 ---
+
+## 2026-08-28 — A commercial payer's downcoding fight shows parity enforcement as an operational cost, not a rule — critic-caught, Friday evening
+
+- **Montana behavioral-health providers are fighting Blue Cross Blue Shield of Montana over a claims-review process that has downcoded psychiatric evaluation-and-management codes since July 1, cutting $60-110 per claim — one psychiatrist logged nearly 23 unpaid hours in July appealing 40-50 downcoded claims, and providers say it is pushing them out of network.** BCBSMT's spokesperson explicitly denies using AI to make the coding calls. **Logged here as adjacent, the same treatment as the Aetna/Alma rate cut**: this is what "no compliance deadline, no consequence" looks like from the provider side while the federal parity replacement rule sits in limbo — and a live counter-example to assuming every downcoding fight is algorithmic. ⚠️ Critic-caught: Behavioral Health Business published it at 17:27 ET on 08-28, inside the evening window the 08-28 digest named as its own blind spot. If a third payer/provider downcoding dispute surfaces, that is the trigger for a thread of its own. ([Behavioral Health Business](https://bhbusiness.com/2026/08/28/providers-fight-downcoding-efforts-by-bcbs-entity/))
 
 ## 2026-08-24 — HHS OIG audits document exactly the enforcement gap this thread tracks, across four states
 

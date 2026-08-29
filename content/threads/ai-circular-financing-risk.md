@@ -3,7 +3,7 @@ title: Circular Financing
 lens: ai
 status: developing
 opened: 2026-06-28
-last_seen: 2026-08-27
+last_seen: 2026-08-29
 weight: 3
 entities:
 - nvidia
@@ -24,6 +24,11 @@ blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops wh
   in talks down to under $120B, phase-1 only (08-15). Track whether other lenders
   follow Nvidia''s retreat.'
 ---
+
+## 2026-08-28 (added 2026-08-29) — The vendor pulls back from part of the loop voluntarily, not because a customer failed
+
+- **Nvidia stepped back from the AI-cloud revenue-sharing financing programme it launched in July — $36bn of take-or-pay/revenue-share commitments per its own 10-Q — reportedly after its own employees flagged antitrust exposure over a clause requiring cloud providers to get Nvidia's approval before renting capacity to certain customers.** **This is the first voluntary retreat from the loop this thread has recorded** — every prior entry on this thread has been the loop's scale getting *larger* (the 10-Q's $105bn guarantee, the $500bn+ third-party platforms) or the market's *read* on it shifting (Burry vs. the +8.74% close), not a vendor unwinding a piece of the structure itself. It doesn't touch the $105bn OpenAI guarantee or the $500bn+ platforms, which remain fully in place — this is one program, paused, with Nvidia leaving open that it could be restructured rather than killed. Full mechanics on [Nvidia as Lender](/threads/nvidia-vendor-financing/). ⚠️ WSJ-sourced and paywalled throughout; no primary Nvidia statement beyond a spokesperson saying the July business model "is still in place and continues to evolve."
+  ([Yahoo Finance, WSJ-sourced](https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-pulls-back-financing-153423894.html))
 
 ## 2026-08-27 — Two opposite verdicts off one filing, on the same day
 

@@ -3,7 +3,7 @@ title: Compute Spend
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-28
+last_seen: 2026-08-29
 weight: 3
 entities:
 - nvidia
@@ -17,6 +17,15 @@ blurb: Where the capex lands in SILICON — the $ flowing to Nvidia/AMD/TSMC/ Br
   plus the custom-silicon revolt (Jalapeño, Trainium, Maia, TPU) as the giants try
   to stop renting from Nvidia. Category meta under where-the-capex-lands.
 ---
+
+## 2026-08-28 — A venture firm raises a fund aimed at the supply-chain limits this thread tracks — critic-caught
+
+- **Andreessen Horowitz announced a $1.1bn "Machine Age Fund" on 08-28 to back AI hardware and infrastructure — chips, memory, networking, storage and full systems including data centres, robotics and home AI appliances — framed on its own site around every layer of the AI stack "hitting the limits of today's supply chain capability."** New capital aimed squarely at the compute and memory scarcity [Memory Squeeze](/threads/ai-memory-shortage/) tracks from the price side, and a venture-scale vote that the bottleneck is physical, not model-side. ⚠️ Critic-caught from Axios Pro Rata's 08-28 fundraising lead; a16z is not a watchlist entity, so this carries no entity tag — an add is proposed to the steering loop. ([a16z, fund page](https://a16z.com/the-machine-age-fund/), [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-28/andreessen-horowitz-raises-1-1-billion-for-ai-infrastructure-fund))
+
+## 2026-08-26 (late catch, added 2026-08-29) — Nvidia's own memory-supply commitments more than double to $279bn
+
+- **Nvidia's Q2 FY2027 10-Q and CFO commentary (both dated to the 08-26 earnings release) disclose total purchase and supply/capacity commitments of $279bn, up from $119bn the prior quarter** — split $92bn due in the rest of FY2027, $87bn in FY2028 and $88bn in FY2029 — with the company describing the jump as "primarily related to the procurement of memory." **This is the dollar figure behind this thread's 08-22 finding that pricing power inside the chip flow moved upstream to the memory makers:** Nvidia is now locking in HBM/DRAM supply years out at a scale roughly 7x SK hynix's entire two-fab, $38.1bn buildout logged here 08-07. ⚠️ **Dating note:** the figure sat inside Nvidia's own 08-26 filing/call alongside the guarantees and receivables-concentration facts already logged in [Nvidia's Order Book](/threads/nvidia-order-book/)'s 08-26 entry, but this specific number wasn't picked up in trade coverage until 08-27-29 — the underlying disclosure is 08-26, this map's pickup is 08-29.
+  ([SEC EDGAR, NVDA 10-Q](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm), [TrendForce](https://www.trendforce.com/news/2026/08/27/news-nvidias-supply-commitments-soar-to-279b-as-memory-costs-surge-new-nvhbm-boosts-bandwidth-30-cuts-power-15/))
 
 ## 2026-08-27 — A neocloud shows the price of GPU debt, three points apart on the same collateral
 

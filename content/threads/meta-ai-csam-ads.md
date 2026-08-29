@@ -3,7 +3,7 @@ title: CSAM Ads
 lens: mental-health
 status: open
 opened: 2026-08-06
-last_seen: 2026-08-28
+last_seen: 2026-08-29
 weight: 2
 entities:
 - meta-ai
@@ -16,6 +16,11 @@ blurb: 'Wired reported 2026-08-05 that Meta ran ads containing AI-generated chil
   a pattern question across ad platforms broadly, not just Meta; any parallel with
   the Grok/ Stability CSAM suits already tracked elsewhere on this map.'
 ---
+
+## 2026-08-29 — The grace period this map set expires with the silence unbroken
+
+- **As of today, the date this thread's own ledger set as the grace-period expiry, Meta still has not responded to Senator Warner's letter and Warner's office has still said nothing about the non-response — eleven days past the original 08-18 letter, three past the 08-26 deadline it set.** Checked directly against both primary sources again: Warner's Senate press-releases page carries nothing about Meta between 08-26 and 08-29 (its most recent posts are on Israeli settlements and an affordability-crisis data release); Meta's newsroom has nothing past its 08-26 teen-safety-agreement post and a data-center cooling explainer. No FTC action, no state AG inquiry, and no other senator joining Warner was found. **This closes the map's own watch item as a confirmed negative, not an unresolved wait** — worth a decision on whether to keep tracking this specific letter or mark it closed/escalate the "no response" itself as the story.
+  ([Warner's Senate press releases](https://www.warner.senate.gov/public/index.cfm/press-releases), [Meta Newsroom](https://about.fb.com/news/))
 
 ## 2026-08-28 — Warner's deadline passes with confirmed silence
 

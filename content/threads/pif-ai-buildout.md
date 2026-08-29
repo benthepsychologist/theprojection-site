@@ -3,7 +3,7 @@ title: PIF Bets Out of Concrete, Into Compute
 lens: global-capital
 status: open
 opened: 2026-08-04
-last_seen: 2026-08-25
+last_seen: 2026-08-29
 weight: 3
 entities:
 - pif
@@ -24,6 +24,11 @@ blurb: 'Whether the NEOM/The Line capital retreat (halted past 2030, only ~1.4% 
   of board.yaml''s $12.5B/yr AI thrust figure against this crawl''s larger ~$21-23B
   HUMAIN deal-book tally (AMD $10B, AWS ~$5.3B, xAI $3B, AirTrunk ~$3B).'
 ---
+
+## 2026-08-26 (late catch, added 2026-08-29) — HUMAIN lands a second named partner in as many days: Microsoft
+
+- **HUMAIN and Microsoft announced a long-term strategic collaboration to bring HUMAIN's Arabic-language ALLAM model onto Microsoft Foundry, and to pair HUMAIN's AI experts with Microsoft's Forward Deployed Engineers for enterprise rollouts across Saudi Arabia and the wider region — announced 08-26, one day after the Mistral deal already on this thread's 08-25 entry.** **Two blue-chip AI players signing named commercial partnerships with HUMAIN within 24 hours of each other is exactly the "outside demand filling Saudi capacity" evidence this thread's watch line asks for**, this time from a hyperscaler rather than a frontier lab. Unlike Mistral's "hundreds of millions of Euros," no dollar figure was disclosed on the Microsoft side — it reads as a model-distribution/enterprise-GTM deal rather than a compute-capacity commitment, narrower in kind than the Mistral one.
+  ([Microsoft/HUMAIN joint release, via PR Newswire](http://www.prnewswire.com/news-releases/microsoft-and-humain-announce-long-term-strategic-collaboration-to-enable-ai-transformation-in-saudi-arabia-and-beyond-302860378.html))
 
 ## 2026-08-25 — HUMAIN lands a new named partner: Mistral AI
 

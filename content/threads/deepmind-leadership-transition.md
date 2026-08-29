@@ -3,7 +3,7 @@ title: DeepMind Succession
 lens: ai
 status: open
 opened: 2026-08-05
-last_seen: 2026-08-27
+last_seen: 2026-08-29
 weight: 2
 entities:
 - demis-hassabis
@@ -21,6 +21,12 @@ blurb: 'Demis Hassabis is stepping down as DeepMind CEO to become chairman and A
   what Discovery Loop builds and whether Google backing a departing exec''s startup
   becomes a pattern; whether other frontier labs see similar moves.'
 ---
+
+## 2026-08-29 — The team built to evaluate AI's worst risks moves out of the lab and into lobbying
+
+- **The Wall Street Journal reported (exclusive, 08-26, citing an internal email) that Google is moving its roughly 90-person "AI responsibility" team out of DeepMind and into Google's global-affairs organization** — the group covering chemical/biological/radiological/nuclear (CBRN) risk, human-AI interaction, and chatbot psychological-impact research. A Google spokesperson framed it as consolidation: "By bringing our AI responsibility teams closer together we're strengthening their ability to inform safety for our models and products." Two unnamed DeepMind employees told the WSJ they worry the move will cut the team off from the model development it's meant to evaluate and weaken its independence. Widely corroborated 08-26→08-28 (PYMNTS, Quartz, DigiTimes, Android Headlines, Times Now, NewsBytes, Times of India, TipRanks), all tracing to the same WSJ story.
+  ([PYMNTS, citing WSJ](https://www.pymnts.com/news/artificial-intelligence/2026/google-shifts-ai-safety-unit-out-of-deepmind-lab-to-global-affairs/))
+- **This is a concrete answer to the thread's own open question.** The 08-05 opening entry asked whether Kavukcuoglu's promotion "reads as succession planning or a real strategy shift." Moving the safety-evaluation function for the lab's most severe risk category (CBRN) out of the research organization entirely, three weeks into his tenure running it day-to-day, points toward "real shift." Cross-outlet coverage the same window (Fortune, Storyboard18, Adgully, Indian Television) also reports DeepMind's share of elite AI research talent declining against rivals — ⚠️ specific figures not retrieved, noted as directionally consistent context rather than a sourced finding.
 
 ## 2026-08-27 — Barret Zoph arrives as VP of Research, into the function whose departures are being priced
 

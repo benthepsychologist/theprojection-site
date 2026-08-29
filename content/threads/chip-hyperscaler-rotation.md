@@ -3,7 +3,7 @@ title: The Great Rotation
 lens: global-capital
 status: open
 opened: 2026-07-29
-last_seen: 2026-08-28
+last_seen: 2026-08-29
 weight: 2
 entities: []
 thread_kind: story
@@ -17,6 +17,14 @@ blurb: 'Analysts (Morgan Stanley, UBS, Forrester) are calling an explicit alloca
   policy) and from AI Bear Turn (the broader AI-stock drawdown) — this is specifically
   the reallocation call between the two cohorts.'
 ---
+
+## 2026-08-29 — Friday's close confirms the dispersion, and a second explanation for it lands the same day
+
+**Nvidia closed Friday 08-28 down 4.57% at $217.55, matching rather than reversing the -4.74% intraday level this thread logged that afternoon, while the S&P 500 (-0.25% to 7,711.76), Nasdaq (-0.52% to 26,402.42) and Dow (-0.02% to 53,559.99) all gave back earlier gains to close lower.** **This is the closing-level confirmation the prior entry explicitly flagged as missing** — it was logged intraday, market still open, decimals not asserted.
+([Yahoo Finance live markets blog](https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-dip-fed-warsh-jackson-hole-speech-081514091.html))
+
+**A second, competing explanation arrived the same day: Fed Chair Kevin Warsh's Jackson Hole keynote read as hawkish on inflation, pushing the market's implied odds of a September rate hike from 35% to 57% and lifting the 10-year yield 4bp to 4.72%.** **This complicates rather than confirms the prior entry's "likeliest proximate cause"** — that entry attributed the selloff to Nvidia's reported financing-programme pullback; a same-day macro shock (rates, not one company's antitrust exposure) is now an equally plausible driver, and the two aren't disentangled by anything found here.
+([Yahoo Finance live markets blog](https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-dip-fed-warsh-jackson-hole-speech-081514091.html))
 
 ## 2026-08-28 — Six points of dispersion between Nvidia and Microsoft in one session
 
@@ -44,6 +52,8 @@ blurb: 'Analysts (Morgan Stanley, UBS, Forrester) are calling an explicit alloca
   - Renames: slugs are immutable; a rename adds was: old-slug to
     frontmatter via /steer only.
 -->
+
+- **CME Group's own FedWatch tool put September rate-hike odds at 57.5% on Friday, up from 35.4% the day before — a figure CNBC cites directly from the tool rather than through a paywalled or single-outlet intermediary.** This resolves the ⚠️ hedge already sitting on this thread's 08-29 entry, which had the same directional move (35%→57%) sourced only to an unreachable FXStreet article. **A second, independent prediction market gives a materially different number for the same question**: Kalshi traders priced the odds of a hike at roughly 30% before Warsh's keynote (nearly 70% for a pause) and about 48% after — a smaller absolute move and a lower post-speech level than CME's futures-implied figure. Both are real, both are dated to the same Friday, and they do not reconcile; reported as two measures of the same event rather than one adopted number. This bears on the thread's own framing (a hawkish repricing was the "second, competing explanation" for Friday's chip selloff, alongside Nvidia's financing pullback) — the size of the rate move now has better sourcing but not full agreement across markets. ([CNBC, citing CME FedWatch](https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html))
 
 ## 2026-08-27 — The rotation shows up as concentration instead: one stock up, the average stock down
 

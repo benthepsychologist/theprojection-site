@@ -3,7 +3,7 @@ title: The Backlash Prices In
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-08-25
+last_seen: 2026-08-29
 weight: 2
 entities:
 - openai
@@ -26,6 +26,10 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   an industry messaging campaign, if one emerges, changes the polling or the moratorium
   count.'
 ---
+
+## 2026-08-29 — A CNBC synthesis ties the AI backlash directly to Anthropic's coming IPO risk factors, with fresh trust-poll and blocked-project numbers
+
+- **CNBC's 08-29 (8:00am ET) feature on the "techlash" makes the connection this thread's own watch line is built around explicit: AI backlash is expected to appear as a named risk factor in Anthropic's IPO prospectus** (citing CNBC's own prior 08-21 reporting) — the first time this map has this specific claim in a piece that also carries fresh supporting data rather than as a standalone, older item. New numbers in the 08-29 piece: a CNBC Generation Lab poll of 18-34 year-olds finds **more than 75% don't trust Anthropic CEO Dario Amodei "to act responsibly,"** ~70% say the same of OpenAI's Sam Altman and Meta's Mark Zuckerberg; Pew Research (08-18) finds **more than half of Americans are "more concerned than excited" about AI in daily life, up from 37% in 2021**; and Data Center Watch reports **roughly $130bn of data-center projects were blocked or delayed by local opposition in Q1 2026 alone — nearly matching the ~$156bn disrupted across all of 2025.** ⚠️ The Q1 figure and the IPO-risk-factor claim both trace to reporting that predates this thread's 08-26 open (Q1 ended March; the IPO story is 08-21) — flagged here as a fresh, dated synthesis of those facts rather than as a new underlying data point. ([CNBC](https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html))
 
 ## 2026-08-25 — Thread opened, folding two candidates and backfilling from [Datacenter Sites](/threads/ai-datacenter-sites/)
 

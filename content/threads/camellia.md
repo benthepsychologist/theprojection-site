@@ -3,7 +3,7 @@ title: Camellia
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-27
+last_seen: 2026-08-29
 weight: 1
 entities:
 - openai
@@ -16,6 +16,13 @@ blurb: 'OpenAI-direct build (Octans GA LLC/Butler Snow — no named GC or Starga
   SoftBank''s ~10GW Ohio (Portsmouth) campus. Track: the local secrecy backlash (10K+
   petition), generation-mix disclosure, and whether a GC/financing partner surfaces.'
 ---
+
+## 2026-08-28 (late catch, added 2026-08-29) — A US Senator visits the site and calls for a moratorium
+
+- **Sen. Raphael Warnock (D-GA) toured the Belmont Glen neighborhood adjacent to the Camellia site and met privately with community stakeholders at Zion Lutheran Church in Guyton**, then told reporters the project should not proceed until the developer "can make guarantees on utility rates, on pollution, and transparency" — an explicit moratorium call. **This is the first federal-level political figure to weigh in on Camellia specifically**, escalating past the county-level opposition this thread has tracked since 07-30. He called the confidentiality agreements behind the project's pre-announcement land and tax-abatement moves (the subject of the Herald's "moved forward without public input" piece, same week) "the opposite of democracy," and said of stopping the project: "It's not impossible."
+  ([WTOC](https://www.wtoc.com/2026/08/28/warnock-calls-data-center-moratorium-during-effingham-county-visit/), [Effingham Herald](https://www.effinghamherald.net/data-centers/warnock-criticizes-lack-of-transparency-on-effingham-data-center/))
+
+- 💡 **Sets up the 08-29 work session directly:** Warnock's visit and the Board of Commissioners' three-hour public work session (10:00-13:00, same administrative complex) landed one day apart, giving commissioners a live political pressure point walking into the session this map flagged as due today. **No outcome from the 08-29 session was available in same-day coverage as of this pass** — worth a direct follow-up check once local press files.
 
 ## 2026-08-27 — The final DRI report lands with real numbers, and two dates (late catch, event dated 08-26)
 

@@ -3,7 +3,7 @@ title: Red Sea Shock
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-28
+last_seen: 2026-08-29
 weight: 3
 entities: []
 thread_kind: story
@@ -30,6 +30,16 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   policy. This is the capital-markets and risk-underwriting read of the war, deliberately
   distinct from the conflict itself.'
 ---
+
+## 2026-08-29 — Brent settles near $88, a second UAE-bank sanctions action lands, and Qatar's LNG force majeure stretches into November
+
+- **Brent closed 08-28 around $88.10-88.29 (down roughly 0.27-0.47% on the day), WTI around $83.40-83.44 (down ~0.11-0.16%)** — a continuation of the same drift already logged, settling slightly above the afternoon's $87.90 low. **No fresh 08-29 print was available**, and the move reads as drift without a distinct new catalyst — consistent with this thread's read that the market isn't repricing on Hormuz "reopening" claims.
+
+- **Treasury published a new, distinct enforcement action on 08-28 — sb0617, "Iran's Access to UAE Banks Targeted Under Operation Economic Outcast."** FinCEN proposed a rule revoking Banque Misr UAE's US correspondent banking access, alleging the bank processed roughly $1.8 billion between January 2024 and June 2026 for 103 companies tied to Iranian shadow-banking networks, laundering funds for Supreme Leader Mojtaba Khamenei and financing weapons/terror-proxy activity; Reza Mohammad Taeedi (Bank Melli Dubai general manager) and Kameng Trading Ltd. (Hong Kong) were also designated. Treasury frames it as the first enforcement tranche under the 08-24 package, not a standalone new one. ([US Treasury sb0617](https://home.treasury.gov/news/press-releases/sb0617))
+
+- **Qatar extended its force majeure declaration on LNG exports through October into early November, citing blocked Hormuz transits — a distinct, additive supply-chain fact from the crude story, because LNG cannot be rerouted via ship-to-ship transfers the way oil can.** Asian spot LNG jumped to $23.388/MMBtu; Europe's Dutch TTF benchmark rose ~2% intraday to top $80/MWh (~€69), the highest since 2023, with European gas storage at 63% of capacity against an 80% five-year average heading into winter. ([oilprice.com](https://oilprice.com/Latest-Energy-News/World-News/Gas-Prices-in-Asia-and-Europe-Jump-as-Qatar-Extends-LNG-Force-Majeure.html))
+
+- **New Kpler data reported by CNBC (08-29, 8:06am ET) puts Iranian crude oil loadings at roughly 260,000 bpd so far in August — down more than 80% from 1.7 million bpd in August 2025, and down about 70% from July 2026's 893,000 bpd** — the first month-over-month figure this thread has carried showing the blockade's effect accelerating rather than plateauing. **US Central Command said Saturday that, as of 08-28, its forces have "redirected 82 commercial vessels, disabled 3 and boarded 2 to ensure compliance"** with the blockade Trump reimposed 07-14. Iran's Ministry of Petroleum countered on Telegram that it has transferred $7.5bn in oil-sale proceeds to its central bank over four months, enough to cover foreign-currency needs through early January 2027 — a direct rebuttal to the "Iran will run out of money" framing US officials are using. Separately, Supreme Leader Khamenei posted (late Friday) calling for "gradually phasing out the US dollar" from Iran's economy, and President Pezeshkian said total trade is down 25-35% and explicitly rejected the claim that "sanctions have no effect at all." Friday marked six months since the US/Israel campaign against Iran began. ([CNBC](https://www.cnbc.com/2026/08/29/iran-trade-sanctions-dollar-oil-exports.html))
 
 ## 2026-08-28 — Brent keeps drifting while Washington declares the chokepoint open
 

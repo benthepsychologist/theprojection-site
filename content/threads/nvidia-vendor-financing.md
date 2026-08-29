@@ -3,7 +3,7 @@ title: Nvidia as Lender
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-08-28
+last_seen: 2026-08-29
 weight: 3
 entities:
 - nvidia
@@ -21,6 +21,14 @@ blurb: 'Nvidia''s turn from chip vendor to the buildout''s lender of last resort
   toward: does the weekend signing happen, does a phase-2 guarantee follow, and rating-agency
   treatment (still untracked).'
 ---
+
+## 2026-08-29 — The pause gets a number and a mechanism: $36bn, and a customer-approval clause
+
+**Nvidia's own quarterly filing puts the AI Compute Partnership program — the one it stepped back from on 08-28 — at $36 billion of total commitments, structured as take-or-pay/revenue-share agreements with a typical six-year term.** **This is the first dollar figure on the specific program**, distinct from the $105bn OpenAI guarantee and $500bn+ third-party platforms already disclosed in the same 10-Q: if utilization ran at 80% of capacity Nvidia would take a cut of the excess revenue, and if it ran at 20% Nvidia's take-or-pay obligation would require covering the shortfall itself. ⚠️ Reached via pickups of a WSJ story (reporters Anissa Gardizy and Berber Jin, 08-27) rather than the filing text directly re-verified here.
+([SEC EDGAR, NVDA 10-Q](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm))
+
+**What actually drew the antitrust concern, reported for the first time: Nvidia told some cloud providers they could rent the guaranteed capacity only to Nvidia-approved customers, and said it preferred capacity spread across several smaller AI companies rather than concentrated with one large operator.** **That is customer allocation by a dominant supplier, not a pricing term** — courts treat the former with materially more suspicion, which is the specific legal exposure behind the vague "control" language in the 08-28 entry. Firmus Technologies (170,000-GPU Batam, Indonesia campus, up to $30bn of offtake — the underlying deal itself dates to 06-30 and isn't new) is named alongside SharonAI as an initial program signer now exposed to the pause. ⚠️ Same WSJ-derived sourcing chain as above; no primary Nvidia statement beyond the 08-28 spokesperson quote.
+([businessmodelanalyst.com, summarizing WSJ](https://businessmodelanalyst.com/nvidia-ai-compute-partnership-customer-approval/))
 
 ## 2026-08-28 — Nvidia pulls back from the revenue-share structure, and a customer's deal goes into limbo
 

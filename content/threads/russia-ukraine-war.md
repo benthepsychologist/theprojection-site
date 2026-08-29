@@ -3,7 +3,7 @@ title: Russia-Ukraine War
 lens: world-news
 status: open
 opened: 2026-07-31
-last_seen: 2026-08-27
+last_seen: 2026-08-29
 weight: 3
 entities: []
 thread_kind: story
@@ -20,6 +20,29 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   sibling thread the same way Iran''s Widening War / Red Sea Shock did, if and when
   that read becomes substantial enough to carry on its own.'
 ---
+
+## 2026-08-29 — The Kyiv-region warehouse toll is still moving, and a third straight night of drone saturation
+
+- **A Russian drone hit a munitions warehouse in Myla, a village ~5km west of Kyiv on the Kyiv-Chop highway, around 20:10 Kyiv time on 08-28, igniting a fire that set off continuous ammunition detonations "every few minutes."** At least 50 residential buildings were damaged, including a care facility for elderly and disabled residents, and more than 380 people were evacuated. **The death toll has moved between reports and is explicitly called "not final" by Kyiv regional governor Tymur Tkachenko**: Kyiv Independent's 08-29 update (13:14) cites 37 killed and 42 injured including 4 children, while CNN, CNBC, Al Jazeera and Cyprus Mail — all dated 08-29 — cite 27 killed and 42 injured. Among the dead is the mayor of Dmytrivska, Taras Didych. Zelensky said regulations barring ammunition storage near residential areas exist, implying this violated them. ([Kyiv Independent](https://kyivindependent.com/warehouses-targeted-outside-kyiv-in-all-day-drone-attack-as-russian-forces-kill-at-least-10-injure-43-over-past-day-across-ukraine/), [CNN](https://www.cnn.com/2026/08/29/europe/ukraine-kyiv-russia-war-attack-intl), [Al Jazeera](https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27))
+
+- **Ukraine's military reported 233 Russian drones shot down or suppressed overnight into 08-29 across northern, southern, eastern and central Ukraine, and air-raid alerts stretched into a third consecutive day** — a duration this thread hasn't previously logged. A further person was wounded in Boryspil district, Kyiv region, a second straight day of hits there. ([Kyiv Independent](https://kyivindependent.com/ukraine-says-it-downed-more-than-200-drones-as-rare-days-long-air-raid-alerts-stretch-into-third-morning/))
+
+- ✅ **The title discrepancy flagged above is resolved: Budanov is correct, the RBC-Ukraine "Yermak" byline is stale.** Andriy Yermak resigned as Head of the Office of the President on 2025-11-28, after his home was raided in the Energoatom corruption probe (the same NABU investigation this thread has tracked since 08-26); **Kyrylo Budanov succeeded him in that role in 2026** and is the correct current officeholder. RBC-Ukraine's 08-28 piece naming Yermak was checked directly and appears to carry an outdated title rather than reporting an actual reversal — no other outlet covering the same Witkoff talks names Yermak as currently serving. This thread's 08-26 entry stands as written. ([Kyiv Independent, on Yermak's resignation](https://kyivindependent.com/zelenskys-chief-of-staff-yermak/))
+
+- **Ukraine's Interior Minister Ivan Vyhivskyi put the Myla warehouse-strike death toll at 37 killed and 42 injured, with 4 people still missing, as of 5pm local time on 08-29 — the figure that resolves this morning's 27-vs-37 split.** The earlier 27-count (CNN, Al Jazeera, RFE/RL) reflected an earlier point in the day; 37 is now the standing Interior Ministry figure and supersedes it, though Governor Tkachenko's "not final" caveat from this morning still stands as a matter of record. ([Kyiv Independent](https://kyivindependent.com/russian-strike-near-kyiv-causes-ammunition-detonations-killing-at-least-27/), [NPR](https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv), [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-29/zelenskyy-says-dozens-killed-in-russian-drone-strike-near-kyiv))
+- **Ukrainian drones struck logistics hubs belonging to Russian e-commerce giant Ozon and electronics retailer DNS in Russia's Rostov Oblast overnight into 08-29, setting a DNS warehouse in Aksay ablaze and causing smaller fires at Ozon sites in Rostov-on-Don; Rostov governor Yury Slyusar declared a regional state of emergency.** Ozon's own platform has separately been reported carrying over $292 million in dual-use/military-adjacent goods sold to Russian buyers between August 2025 and July 2026, framing why the site keeps recurring as a target. ([Kyiv Post](https://www.kyivpost.com/post/83312), [Kyiv Independent](https://kyivindependent.com/ukrainian-forces-reportedly-strike-russian-retail-warehouse-in-rostov-oblast/))
+
+## 2026-08-28 — Two Tu-95 bombers hit at Engels-2 in six weeks, three refineries struck in one night, and Zelensky sets a 1,000-drones-a-day target
+
+- **Ukraine's SBU "Alpha" unit struck a second Tu-95MS strategic bomber at Engels-2 airbase in Saratov Oblast overnight, using a domestically-made $48,000 MICH 2000 drone — severely damaging the right wing, likely beyond repair since Tu-95 production ended decades ago.** It is the same unit's second hit on a Tu-95 at that base in roughly six weeks (the first was 07-16); Ukrainian defence intelligence put the operational Tu-95MS fleet at 38 as of 08-26, effectively down to ~37 after this strike. ([Euromaidan Press](https://euromaidanpress.com/2026/08/28/ukraine-struck-tu-95-at-base-russia-launches-its-cruise-missiles-on-ukraines-civilians-satellite-image-shows-third-of-right-wing-gone/))
+
+- **Ukrainian drones struck three Russian refineries in a single night — Slavneft-YANOS in Yaroslavl (one of Russia's largest, ~175 miles northeast of Moscow), Kuibyshev in Samara Oblast, and Afipsky in Krasnodar Krai** — with NASA satellite imagery showing heat signatures consistent with fires at all three. Kyiv Independent counts this as the 21st Ukrainian refinery strike in August alone and the 70th-plus since the start of 2026, pushing Russian refining capacity to its lowest level since 2002. ([Kyiv Independent](https://kyivindependent.com/ukrainian-drones-target-moscow-one-of-russias-largest-oil-refineries-in-yaroslavl-sparking-fire-media-reports/))
+
+- **Zelensky told his Staff of the Supreme Commander-in-Chief he wants Ukraine's long-range drone launches raised from roughly 300 a day currently to 1,000 a day**, prioritizing both deep strikes into Russia and better defence against jet-powered Shaheds. ([Kyiv Independent](https://kyivindependent.com/there-must-be-more-zelensky-calls-for-ukraine-to-launch-1-000-drones-at-russia-daily/))
+
+- **250 combat clashes were logged over the prior day, heaviest on the Pokrovsk (40 Russian attacks repelled) and Kostiantynivka (35 repelled) fronts, with 15 more in the Kupiansk sector; four regions lost power from strikes on infrastructure.** No major territorial change reported. ([Ukrainska Pravda](https://www.pravda.com.ua/eng/news/2026/08/28/8050709/))
+
+- **NABU charged businessman and former lawmaker Vasyl Astion in the same raiding/property-fraud/money-laundering network as the Halushchenko bail-money case logged 08-26.** Asked about his own name appearing in the NABU tapes, Kyrylo Budanov said only "it comes up in a lot of places" — see the title-discrepancy flag above, which bears directly on how to read this. ([Kyiv Independent](https://kyivindependent.com/ukraine-anti-corruption-agencies-charge-businessman-in-raiding-case-amid-major-corruption-scandal/))
 
 ## 2026-08-27 — A second night of drone saturation, no ballistic missiles, and the targets move to warehouses
 

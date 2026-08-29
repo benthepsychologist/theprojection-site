@@ -3,7 +3,7 @@ title: AI vs Care
 lens: mental-health
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-18
+last_seen: 2026-08-29
 weight: 3
 entities: []
 thread_kind: story
@@ -14,6 +14,11 @@ blurb: 'Budget 2025 put $925.6M+ into AI infrastructure the same cycle multiple 
   audit, Santé Québec''s pilot. Track: the 2027 cliff''s political arc, any replacement
   framework, provincial AI-health procurement vs MH service funding.'
 ---
+
+## 2026-08-25 (added 2026-08-29) — A think tank names the actual structural barrier on the AI-procurement side: 13 jurisdictions, not funding
+
+- **The C.D. Howe Institute (a nonpartisan Canadian economic-policy think tank) published a Council Report, "Scaling Up: Commercializing Health AI in Canada," on 2026-08-25**, writing up its Health Sector Economic Growth and Resilience Working Group's fourth meeting with Ontario's Auditor General, Canada Health Infoway, and Accenture. It puts a national scale number on AI-scribe adoption for the first time on this thread's record — Canada Health Infoway's national AI Scribe Program drew 10,000+ provider registrations within two weeks of launch and has now supported 11.5M+ patient encounters — and names **fragmented procurement authority across 13 provincial/territorial jurisdictions as the "principal structural obstacle"** to scaling health AI in Canada, not funding or appetite. **It does not touch mental-health funding at all** — a reminder that the AI-procurement and MH-funding sides of this thread's asymmetry are institutionally disconnected, not just politically so; nobody is arguing the tradeoff explicitly, they're just two different bureaucracies moving at two different speeds.
+  ([C.D. Howe Institute](https://cdhowe.org/publication/scaling-up-commercializing-health-ai-in-canada/))
 
 ## 2026-07-23 → 07-31 — The 2027 cliff gets a month and a standoff
 

@@ -3,7 +3,7 @@ title: AI Therapy Evidence
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-08-25
+last_seen: 2026-08-29
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -15,6 +15,10 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   maturing into a real subfield: VERA-MH benchmark, RAND''s intermediate-risk failures,
   EmoAgent.'
 ---
+
+## 2026-08-26 — A blinded pilot of LLM-drafted therapist messages in internet CBT — critic-caught
+
+- **JMIR Mental Health published a blinded clinician-rating pilot (08-26) testing whether large-language-model-generated therapeutic text can stand in for, or support, the written responses therapists draft by hand in internet-based cognitive behavioural therapy — the capacity bottleneck the paper names directly.** It is squarely the "LLM as clinician-support tool, evaluated blind" class of result this thread exists to catch before advocacy coverage of it appears, alongside the Therabot RCT it anchors on. ⚠️ Critic-caught from the JMIR Mental Health weekly benchmark; effect sizes and the rating protocol are not summarised here — read the paper before citing a finding from it. ([JMIR Mental Health](https://mental.jmir.org/2026/1/e96835))
 
 ## 2026-08-25 — An AI avatar is tested against the PTSD diagnostic gold standard
 

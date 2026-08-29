@@ -3,7 +3,7 @@ title: Dragonfly Return
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-18
+last_seen: 2026-08-29
 weight: 2
 entities:
 - qualcomm
@@ -18,6 +18,10 @@ blurb: 'Qualcomm''s datacenter re-entry, eight years after Centriq died: Dragonf
   two weeks); Ventana/RISC-V status unclear — does Dragonfly supersede it? First live
   test: Q3 FY26 earnings 07-29 (tomorrow) — does Dragonfly move guidance?'
 ---
+
+## 2026-08-26 — Samsung and SK hynix sign on to help build Qualcomm's memory-stacking answer to HBM
+
+- **Qualcomm EVP Durga Malladi said at the 2026-08-26 Deutsche Bank Technology Conference that Samsung and SK hynix have agreed to help commercialize Qualcomm's HBC (High Bandwidth Compute) architecture** — which stacks LPDDR DRAM directly on top of a compute die, a near-memory alternative to HBM — after Qualcomm pitched HBC's advantages and HBM's shortcomings at its June Investor Day; Malladi said he expected pushback from the two Korean memory makers and instead got an active proposal to collaborate. Qualcomm will design the compute die and TSV integration and work with TSMC on packaging; Samsung/SK hynix handle DRAM stacking. First-generation HBC products are targeted for commercialization/shipment in 2027. HBC is one of the named components of the Dragonfly data-center portfolio (alongside the Dragonfly C1000 CPU and AI300 accelerator), so this is a concrete supply-chain commitment behind the "first silicon dates" question this thread tracks — though it is a memory-partner agreement, not silicon itself, and 2027 is later than the Sept/December contribution timing already on this thread's radar. ([TrendForce](https://www.trendforce.com/news/2026/08/27/news-qualcomm-reportedly-enlists-samsung-sk-hynix-as-hbc-memory-partners-tsmc-eyes-packaging-role), [The Elec](https://www.thelec.net/news/articleView.html?idxno=13402))
 
 ## 2026-07-29 — Modular closed, Lattner installed, guidance reaffirmed not raised
 

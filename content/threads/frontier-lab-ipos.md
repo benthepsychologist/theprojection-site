@@ -3,7 +3,7 @@ title: Lab IPO Wave
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-08-28
+last_seen: 2026-08-29
 weight: 3
 entities:
 - openai
@@ -28,6 +28,16 @@ blurb: 'The frontier labs are converting private, vendor-financed valuations int
   does Anthropic''s S-1 land on schedule, and does OpenAI''s own timeline (currently
   "as late as next year") move.'
 ---
+
+## 2026-08-27 (added 2026-08-29) — Anthropic reportedly weighs letting insiders sell into the IPO itself, departing from the SpaceX playbook
+
+- **Anthropic is reportedly weighing a secondary-sale component in its IPO — letting early investors and insiders sell existing shares alongside the company's own new-share raise — rather than following SpaceX's tighter insider-lockup approach, per The Information (08-27).** **This is a mechanics question this thread hasn't carried before**: not valuation or timing, but who gets liquidity and when, which bears directly on whether the >$100bn "raise" figure already on this thread is genuinely new company capital or partly existing holders cashing out. Alternative middle-ground options (capped insider-sale volume, extended lockups) are also reportedly under consideration, so the shape isn't settled. ⚠️ Reported, not filed — no S-1 language on this point yet.
+  ([The Information](https://www.theinformation.com/))
+
+## 2026-08-26 (late catch, added 2026-08-29) — Anthropic commits $45bn to a UK neocloud, the same shape as OpenAI's Oracle bet
+
+- **Anthropic committed $45 billion over six years to lease AI computing capacity from UK neocloud Nscale — 460MW of Nvidia Vera Rubin-chip capacity at Nscale's Monarch campus in West Virginia — reported same-day by Bloomberg, Reuters, CNBC and the FT, with Forbes (08-28) and a West Virginia local paper (08-29) still adding site-level detail two days later.** **This is the same shape as OpenAI's Oracle Stargate commitment ([Oracle's Stargate Bet](/threads/oracle-stargate-bet/)) and CoreWeave's contracted backlog ([CoreWeave Bet](/threads/coreweave-backlog-bet/)) landing on Anthropic for the first time on this thread**: a frontier lab locking in a multi-year, multibillion-dollar compute liability just ahead of the IPO whose S-1 will have to defend it against realised revenue. Cross-refs [Oracle's Stargate Bet](/threads/oracle-stargate-bet/), [Circular Financing](/threads/ai-circular-financing-risk/). ⚠️ Sourced to "people familiar with the matter" across outlets; no company statement or filing.
+  ([CNBC](https://www.cnbc.com/2026/08/26/anthropic-nscale-45-billion-cloud-deal.html), [Reuters](https://www.reuters.com/))
 
 ## 2026-08-27 — A legal overhang clears ahead of the Anthropic listing
 

@@ -3,7 +3,7 @@ title: Treasury's Long-End Defense
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-08-28
+last_seen: 2026-08-29
 weight: 3
 entities:
 - scott-bessent
@@ -25,6 +25,12 @@ blurb: 'Whether the Treasury''s own cash position is being used to suppress long
   Warsh''s keynote addresses the TGA mechanism directly, and whether any auction result
   or yield move ties back to it explicitly.'
 ---
+
+## 2026-08-29 — The official close reassigns the biggest move: it was the 2-year, not the 5-year, and the long end is confirmed untouched
+
+- **Treasury's own daily par-yield curve closes the 08-28 gap this thread's intraday snapshot left open, and revise its shape: the 2-year rose 14bp to 4.34% close-to-close — the single largest move on the entire curve — not the 5-year, which the 15:04 ET intraday read had flagged as the biggest mover (+9.2bp).** Full close-to-close changes, 08-27→08-28: 1mo +3bp to 3.84%, 3mo +6bp to 3.90%, 1yr +11bp to 4.15%, 2yr +14bp to 4.34%, 3yr +11bp to 4.41%, 5yr +10bp to 4.48%, 7yr +7bp to 4.59%, 10yr +6bp to 4.73%, 20yr +3bp to 5.21%, 30yr +3bp to 5.22%. **The repricing hump sits at the 2-3 year part of the curve on a full-day basis — front-end/short-belly, not mid-belly — while the 20- and 30-year barely moved at all, confirming rather than overturning this thread's 08-28 read that the long end stayed untouched.** That's still a data point against the fiscal-dominance/long-end-intervention thesis, just with the specific tenor corrected. ([US Treasury, daily par yield curve](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv/2026/all))
+
+- **No Treasury auction was held on 08-28 or 08-29** (confirmed directly against TreasuryDirect's own auction API) **and no new Bessent/Treasury statement on the buyback program, TGA or "fiscal dominance" surfaced** — the only 08-28 Treasury press release concerns Iran sanctions, unrelated to this thread. The buyback program's first operation remains scheduled for 09 September, unchanged.
 
 ## 2026-08-28 — Warsh never mentioned it, and the curve then moved in the shape that argues against the thesis
 

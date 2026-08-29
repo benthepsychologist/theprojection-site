@@ -3,7 +3,7 @@ title: Gaza War
 lens: world-news
 status: open
 opened: 2026-08-01
-last_seen: 2026-08-28
+last_seen: 2026-08-29
 weight: 3
 entities: []
 thread_kind: story
@@ -37,6 +37,16 @@ blurb: 'Opened on Ben''s steer 2026-08-01, after a disarmament framework announc
   Ministry range as broadly accurate. Both the inflation and the undercount framings
   still circulate; report both, resolve neither.'
 ---
+
+## 2026-08-29 — Mladenov details the stabilization force and Morocco's role; strikes and the toll continue
+
+- **The Board of Peace's Nikolay Mladenov gave new specifics behind his 08-26 rebuke, across a Security Council briefing (08-27) and an Al Jazeera interview (08-28): Morocco has agreed to send troops to the International Stabilization Force, Israel vetoed Turkish participation, the force's advance elements are expected "soon," and reconstruction pledges now total $7 billion.** At the Security Council he called the July 30 factional-disarmament accord "a historic breakthrough" — the first time armed Palestinian groups agreed to full demilitarization and a governance handover — and warned ceasefire collapse would be "a point of no return for everyone," urging the Council to reaffirm the disarmament pathway and mobilize support for the stabilization force. ([Arab News](https://www.arabnews.com/node/2655951/middle-east), [Al Jazeera](https://www.aljazeera.com/news/2026/8/28/board-of-peace-envoy-mladenov-warns-gaza-ceasefire-risks-collapse))
+
+- **The IDF said it struck and killed a Hamas commander in Deir al-Balah on 08-29, claiming he was "hiding within the compound of the Shuhada al-Aqsa Hospital" and "planning to execute terror attacks."** A funeral held at the same hospital was for a man identified by mourners as Hamouda al-Attar — likely the same strike, not independently confirmed as such. ⚠️ **IDF-sourced claim, not independently verified.** ([The Times of Israel live blog](https://www.timesofisrael.com/liveblog-august-29-2026/), [Haaretz live](https://www.haaretz.com/israel-news/israel-security/2026-08-29/ty-article-live/000001a0-4b37-d6be-afb5-5bb7b3520000))
+
+- **Gaza's health ministry's cumulative toll since October 2023 ticked up to 73,449 killed and 174,472 injured (from 73,438/174,447 on 08-27), and the post-ceasefire-specific count rose to 1,303 killed and 4,336 wounded (from 1,300+/4,000+).** Marginal increments — continuation of the pattern, not an escalation. ⚠️ **Palestinian health-ministry figures, not independently confirmed.**
+
+- **Gaza's health ministry reported nine more bodies received in the 48 hours to 08-29, plus one more recovered, putting its post-ceasefire-specific toll at 1,313 killed and 4,361 wounded — up from the 1,303/4,336 already logged for 08-29 this morning.** The cumulative since-October-2023 toll is unchanged at 73,449 killed / 174,472 injured, matching this morning's figure exactly. ⚠️ **Palestinian health-ministry figures, not independently confirmed.** ([Anadolu Agency, citing Gaza Health Ministry's daily statistical report](https://www.aa.com.tr/en/middle-east/gaza-death-toll-from-israel-s-genocidal-war-nears-73-500-as-9-more-palestinians-killed/4040924))
 
 ## 2026-08-28 — Three farmers from one family killed in Khan Younis
 

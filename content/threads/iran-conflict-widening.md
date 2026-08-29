@@ -3,7 +3,7 @@ title: Iran's Widening War
 lens: world-news
 status: open
 opened: 2026-07-23
-last_seen: 2026-08-28
+last_seen: 2026-08-29
 weight: 3
 entities: []
 thread_kind: story
@@ -45,6 +45,16 @@ blurb: '⚠️ ORIGIN CORRECTED 2026-08-02 — READ THIS FIRST. This thread spen
   with Netanyahu''s office framing it as pressure ahead of September talks. Track
   this alongside Hormuz/Gulf as a distinct front, not folded into it.'
 ---
+
+## 2026-08-29 — Iran's leadership admits the economic toll in public, and the IRGC calls Washington's "open" Hormuz claim an "obvious lie"
+
+- **Supreme Leader Mojtaba Khamenei issued a written statement telling the government to "seriously address the chain of economic and livelihood challenges, such as inflation, unemployment, management of prices and the market for goods and services," urged officials to avoid "discouraging statements that weaken national and public motivation," and called for "gradually phasing out the US dollar" under a "Resistance Economy" push.** **This is the regime's first on-record acknowledgment, at this level, that the sanctions campaign is biting at home.** President Masoud Pezeshkian said the same day that Iran's combined exports and imports have fallen roughly 35% under the sanctions and the US/Israeli naval blockade — the first specific trade-impact figure any senior Iranian official has put on the record in this window; annual inflation is reported near 66%. Tehran separately denounced the new sanctions as "state terrorism." ([Al Jazeera](https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence))
+
+- **Iran's IRGC Navy directly disputed CENTCOM's 08-28 claim that Hormuz is "open," calling it an "obvious lie" and asserting "completely decisive" Iranian control of the strait — the sharpest official rebuttal yet to Adm. Cooper's reopening claim.** The dispute now has numbers attached to both sides: Lloyd's-sourced data cited by USNI News puts westbound transits at 42 for the week of 08-17 to 08-23 (up from 29 the week before, but still a fraction of the 120-130/day pre-war norm, and just 3 transited on 08-23 alone); CENTCOM says the blockade has redirected 82 commercial ships; the IMO reported at least 6,000 sailors stranded aboard vessels in the Gulf and 19 seafarers killed since the war began. ⚠️ **A reported tanker strike on the Kuwaiti-linked *Al-Salam II* is very likely the same incident this thread already logged for 08-26** (one-day dating discrepancy across outlets), not a second attack — not double-counted here. ([USNI News](https://news.usni.org/2026/08/28/strait-of-hormuz-tanker-transits-up-but-still-below-pre-war-levels), [Fox News live blog](https://www.foxnews.com/live-news/iran-war-us-sanctions-trump-strait-hormuz-oman-oil-prices-08-29-2026))
+
+- **Treasury's Friday (08-28) enforcement release, sb0617, put a dollar figure on the Banque Misr UAE action this thread already logged: FinCEN's proposed rule alleges the bank processed roughly $1.8 billion between January 2024 and June 2026 for 103 companies tied to Iranian shadow-banking networks.** Same designation as the 08-28 entry below — the new information is the scale Treasury says it caught, not a new target. ([US Treasury sb0617](https://home.treasury.gov/news/press-releases/sb0617))
+
+- **Israel's Shin Bet confirmed on 08-29 "a significant threat to harm Yair Netanyahu" prompted an urgent extraction of the prime minister's son and his security detail from Florida back to Israel.** ⚠️ **The underlying plot itself was first reported 08-26** (via a Newsmax report citing a US law-enforcement source), alleging Israeli intelligence learned in December of an Iranian plan to assassinate him in Miami and warned US authorities; **08-29's development is the Shin Bet's own on-record confirmation**, not a new incident — the first time an Israeli security agency has put its name to the claim rather than leaving it to anonymous sourcing. ([Shin Bet statement, via Jerusalem Post](https://www.jpost.com/israel-news/article-906963), [Haaretz, original 08-26 report](https://www.haaretz.com/israel-news/israel-security/2026-08-26/ty-article/iran-planned-to-assassinate-netanyahus-son-in-florida-report-says/000001a0-3cb1-d274-a7f4-bcb112a60000))
 
 ## 2026-08-28 — Washington declares Hormuz open; the tanker count and Tehran both disagree
 
