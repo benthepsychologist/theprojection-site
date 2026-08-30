@@ -16,6 +16,18 @@ blurb: Apple's AI coach ('Mulberry') keeps slipping — no AI, and no AI mental-
   eat the Apple Health data.
 ---
 
+## 2026-08-29 — Mulberry slips again, this time to a named window
+
+- **Gurman: the AI health coach and Health app revamp are now pointed at a
+  September 2026 debut alongside new Apple Watch hardware, or failing that,
+  iOS 27.1 in October** — the feature missed the iOS 27 initial release as
+  already tracked, and this is the first report giving the slip a concrete
+  next window rather than an open-ended "later in the cycle." Still no
+  MH-specific detail beyond the existing "tips based on Health app data"
+  framing — the MH weak-substantiation problem this thread watches is
+  unchanged.
+  ([9to5Mac](https://9to5mac.com/2026/08/29/apple-health-revamp-ai-coach-new-apple-watch-next-month/), summarizing Bloomberg/Gurman)
+
 ## 2026-07-24 — Opened + crawled
 
 - **Thread opened** (ben-steer).
