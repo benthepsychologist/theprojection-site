@@ -3,7 +3,7 @@ title: Russia-Ukraine War
 lens: world-news
 status: open
 opened: 2026-07-31
-last_seen: 2026-08-29
+last_seen: 2026-08-30
 weight: 3
 entities: []
 thread_kind: story
@@ -24,6 +24,8 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
 ## 2026-08-30 — Ukraine's General Staff claims Russia's Kirishi refinery, Yeysk airfield and a Millerovo drone facility in one overnight strike package; a Ukrainian drone kills three in Belgorod
 
 - **Ukraine's General Staff said its forces struck Russia's Kirishi (KINEF) oil refinery in Leningrad Oblast, the Yeysk military airfield in Krasnodar Krai, and a drone-launch facility in Millerovo, on the night of 08-29 into 08-30.** Kirishi — Russia's second-largest refinery by output (Surgutneftegas-operated, ~355,000 bpd) — caught fire; governor Alexander Drozdenko claimed 42 drones were intercepted but confirmed the fire. NASA FIRMS satellite data and independent monitoring channels showed active fires near Yeysk's taxiways and storage, with what appeared to be secondary ammunition detonations; the airbase hosts Russian Aerospace Forces naval-aviation units and is used to launch missiles and guided bombs into Ukraine. **This continues the refinery-strike campaign already tracked here** — Kirishi was hit previously in March and May and was reportedly just coming back online from repairs — and is the same overnight window as the Yaroslavl/Samara/Krasnodar refinery hits logged 08-28. ([Euromaidan Press](https://euromaidanpress.com/2026/08/30/ukraine-strikes-russias-second-largest-oil-refinery-again/), [Ukrainska Pravda](https://www.pravda.com.ua/eng/news/2026/08/30/8051017/), [Militarnyi](https://militarnyi.com/en/news/drones-attack-yeysk-airbase-fire-breaks-out/))
+
+- **The Myla warehouse toll rose again to 38 dead on 08-30, and Zelensky called it the deadliest single Russian attack of the year so far, blaming "horrific negligence" in storing munitions beside housing.** The count has now moved 27 → 37 → 38 across three days as the Interior Ministry reconciled it; 4 people were still listed missing. **The Ukrainian-side accountability line is the development here, not the number** — the earlier entries recorded Zelensky noting that regulations barring ammunition storage near residential areas exist, which implied a violation; he has now named it as negligence outright, with a criminal probe open into why a depot sat next to an elder-care facility. ([Al Jazeera](https://www.aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38/))
 
 ## 2026-08-29 — The Kyiv-region warehouse toll is still moving, and a third straight night of drone saturation
 

@@ -3,7 +3,7 @@ title: Grok Harm
 lens: mental-health
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-18
+last_seen: 2026-08-30
 weight: 2
 entities:
 - spacex

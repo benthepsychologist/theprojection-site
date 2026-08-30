@@ -3,7 +3,7 @@ title: Nippon Life v. OpenAI
 lens: ai
 status: open
 opened: 2026-08-04
-last_seen: 2026-08-04
+last_seen: 2026-08-30
 weight: 2
 entities:
 - nippon-life

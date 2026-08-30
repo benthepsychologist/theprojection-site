@@ -3,7 +3,7 @@ title: Musk Megacap
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-15
+last_seen: 2026-08-30
 weight: 1
 entities:
 - spacex

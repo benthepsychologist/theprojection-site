@@ -3,7 +3,7 @@ title: The Enterprise Agent Land Grab
 lens: ai
 status: open
 opened: 2026-08-25
-last_seen: 2026-08-29
+last_seen: 2026-08-30
 weight: 2
 entities:
 - anthropic

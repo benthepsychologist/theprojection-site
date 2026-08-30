@@ -3,7 +3,7 @@ title: Gaza War
 lens: world-news
 status: open
 opened: 2026-08-01
-last_seen: 2026-08-29
+last_seen: 2026-08-30
 weight: 3
 entities: []
 thread_kind: story
