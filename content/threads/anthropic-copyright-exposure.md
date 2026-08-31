@@ -3,7 +3,7 @@ title: Copyright Exposure
 lens: ai
 status: open
 opened: 2026-08-06
-last_seen: 2026-08-29
+last_seen: 2026-08-30
 weight: 2
 entities:
 - anthropic
@@ -16,6 +16,10 @@ blurb: 'Two angles surfaced the same day (2026-08-05/06): Anthropic sought parti
   Concord II dismissal ruling; further reporting on the book-shredding practice and
   whether other labs did the same; any read-through to Anthropic''s IPO risk disclosures.'
 ---
+
+## 2026-08-30 — Anthropic issues its first public statement on the Sony/Warner Chappell suit
+
+- **Anthropic broke its silence on the Sony Music Publishing/Warner Chappell copyright suit, saying it will fight the case rather than settle.** "We disagree with the publishers' claims and we intend to defend ourselves robustly in court," a spokesperson told the South China Morning Post, published 2026-08-30 21:44 ET (updated 22:13 ET) — correcting the record's prior note that Anthropic "did not immediately comment" when the suit was filed late 08-28. No case/docket number has surfaced anywhere yet; CourtListener's public search still returns only the older Concord dockets, and a direct API query could not be run without authentication. ([South China Morning Post](https://www.scmp.com/tech/big-tech/article/3365770/sony-music-warner-accuse-anthropic-blatant-theft-major-new-lawsuit))
 
 ## 2026-08-28 — Sony Music Publishing and Warner Chappell sue Anthropic and two of its founders personally, in a filing this map first saw only as a headline
 

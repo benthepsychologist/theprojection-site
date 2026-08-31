@@ -3,7 +3,7 @@ title: OpenAI IPO
 lens: ai
 status: developing
 opened: 2026-06-27
-last_seen: 2026-08-27
+last_seen: 2026-08-31
 weight: 2
 entities:
 - openai
@@ -15,6 +15,11 @@ blurb: Reported slip to 2027 chasing a ~$1T valuation; Altman rejecting a lower 
   Track confirmed timing, valuation target, and macro/AI-stock spillover (SoftBank
   fell ~12% on the report).
 ---
+
+## 2026-08-31 — OpenAI puts a number on its ad business for the first time — $1bn annualized run rate in under 200 days
+
+- **OpenAI disclosed that ChatGPT Ads has reached a $1 billion annualized revenue run rate "in less than 200 days after launch," and opened self-service ad buying across India, Europe, the Middle East and North Africa.** The post says the platform is used by "tens of thousands of advertisers," is available in **over 40 countries** through OpenAI's own sales team plus agency and technology partners, and that advertisers outside the United States are a growing share of revenue. It frames advertising as one pillar of a "diversified business model" alongside consumer subscriptions, enterprise offerings and usage-based APIs, supporting **an advertising-supported free tier for "more than 1 billion weekly active users."** **This is the first hard revenue figure OpenAI has attached to the ad business**, and it lands while the company's IPO timing is an open question on this map. ⚠️ An annualized run rate is a point-in-time extrapolation, not booked revenue, and OpenAI gave no comparison against total revenue or losses. ([OpenAI newsroom](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/), [CNBC](https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html))
+- **The mechanism disclosed in the same post is that ads are targeted on conversation context, and in some markets on the user's broader history.** OpenAI writes that "our ads system uses the context of the current conversation to show an ad relevant to what someone is exploring," and that "depending on the country and a user's settings, the ads system may also use context from the user's broader ChatGPT experience." Its stated guardrails are that ads are "clearly labeled and separate from ChatGPT's answers," that "advertising does not influence the answers ChatGPT provides," and that advertisers do not get access to private conversations. **The disclosure matters beyond the revenue line because it establishes that conversational content is now an ad-targeting input at consumer scale** — the ad tier is the free tier, so it is the default surface for the largest population of users. ([OpenAI newsroom](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/), [OpenAI, ads principles](https://openai.com/index/our-approach-to-advertising-and-expanding-access/))
 
 ## 2026-08-19 — The CFO puts a year on it, to staff
 

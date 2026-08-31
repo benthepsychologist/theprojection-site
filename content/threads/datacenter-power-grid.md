@@ -3,7 +3,7 @@ title: Grid & Turbines
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-26
+last_seen: 2026-08-31
 weight: 1
 entities:
 - spacex
@@ -16,6 +16,10 @@ blurb: The grid is the binding constraint (not chips) — interconnection queues
   fights. Watch the DOJ national- security shield over xAI's unpermitted turbines
   — the improvisation has outrun the regulatory system.
 ---
+
+## 2026-08-31 — The grid-equipment supply chain becomes an IEEPA matter, with the datacenter buildout named in the order's reasoning
+
+- **The federal government has put the grid's own hardware under emergency trade authority, and the reasoning it gave runs through the datacenter buildout.** Executive Order 14421, signed 08-26 and published in today's Federal Register, declares that foreign supply of bulk-power system electric equipment is "an unusual and extraordinary threat" and cites the growth of data centers and artificial intelligence as what has made the consequences of a supply disruption worse. The order defines the bulk-power system as transmission rated at 69kV and above, explicitly excluding local distribution, so its reach is the transmission-and-generation layer that large loads interconnect into rather than the last mile. **Its practical significance for this thread is a second constraint stacked on an already-constrained market**: the equipment classes it covers — transformers, turbines, inverters, battery storage — are the same ones whose multi-year lead times the buildout has been routing around, and Sec. 2(b) allows conditions to be imposed on equipment already in service, including replacement or removal, subject to a reliability and continuity-of-service check. ⚠️ Nothing is prohibited automatically: every prohibition requires a case-by-case determination by the Energy Secretary, and no such determination has been published yet. ([Federal Register, EO 14421 full text](https://www.federalregister.gov/documents/full_text/text/2026/08/31/2026-17843.txt), [Federal Register document page](https://www.federalregister.gov/documents/2026/08/31/2026-17843/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system))
 
 ## 2026-08-26 — Camellia's PSC clearance comes with a 1,000MW demand-response commitment
 

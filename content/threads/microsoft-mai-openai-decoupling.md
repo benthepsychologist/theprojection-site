@@ -3,7 +3,7 @@ title: Microsoft's Hedge
 lens: ai
 status: developing
 opened: 2026-06-28
-last_seen: 2026-08-18
+last_seen: 2026-08-27
 weight: 2
 entities:
 - microsoft
@@ -17,6 +17,10 @@ blurb: Microsoft shipped 7 in-house MAI models and says it was "set free" from t
   displace OpenAI in Copilot, the MSFT–OpenAI commercial terms, and whether this is
   genuine independence or a hedge.
 ---
+
+## 2026-08-27 — Microsoft's superintelligence lead publicly frames the unit's direction as AI self-sufficiency (single-sourced)
+
+- **Ali Farhadi, the executive Microsoft installed under Mustafa Suleyman to lead its superintelligence effort, is quoted pointing the company toward AI self-sufficiency** — directly on this thread's central question (how far in-house MAI models displace OpenAI dependence). ⚠️ Only one outlet found covering this specific framing (GeekWire); treat as a single-source data point pending wider pickup, not a confirmed strategic pivot. ([GeekWire](https://www.geekwire.com/))
 
 ## 2026-07-27 → 08-13 — Four MAI models ship; the backlog stays half-OpenAI
 

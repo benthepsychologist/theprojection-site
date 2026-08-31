@@ -3,7 +3,7 @@ title: Google Capex
 lens: ai
 status: developing
 opened: 2026-07-23
-last_seen: 2026-08-10
+last_seen: 2026-08-17
 weight: 2
 entities:
 - google
@@ -17,6 +17,10 @@ blurb: '$195-205B guided for 2026 (07-22), destination traced by crawl 07-27: a 
   primary filing unreached. Watch: Q3 guidance, the FCF-negative reaction, TPU externalization
   (Meta eval).'
 ---
+
+## 2026-08-17 — Alphabet debuts its first-ever Australian-dollar bond, priced at a striking 7% yield
+
+- **Alphabet raised roughly A$5B (~US$3.6-3.9B) in its inaugural Australian-dollar "Kangaroo" bond**, drawing over 200 investors — a new financing leg distinct from the ~$115B-order-book USD jumbo bond already on this thread's timeline (2026-08-06). Bloomberg's framing is pointed: the bond priced at 7%, read by the outlet as evidence of "the sky-high cost of AI debt." This is the financing side of the capex story continuing to widen geographically as Alphabet works through its 2026 raise. ([Reuters](https://www.reuters.com/), [Bloomberg](https://www.bloomberg.com/))
 
 ## 2026-08-10 — TPU externalization gets a first concrete answer: "TPU Raiden" open-sourced
 

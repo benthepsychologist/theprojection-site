@@ -3,7 +3,7 @@ title: Intel Rescue
 lens: global-capital
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-10
+last_seen: 2026-08-28
 weight: 2
 entities:
 - intel
@@ -17,6 +17,10 @@ blurb: 'The subsidized-builder paradox, filing-pinned: $10.9B outside equity (US
   (Maia 2, Tesla $20B Terafab, Apple prelim Trump-confirmed, Fortinet), none lost.
   Ohio slipped to 2030-31. CXMT''s cap passed Intel''s the week Intel shed ~$90B.'
 ---
+
+## 2026-08-28 — Intel's 14A process posts its first real yield data point — defect density "best since the 22nm process," per the CFO
+
+- **Intel's CFO said 14A defect-density improvement is the best the company has seen since its 22nm node, and that customers have shifted from "evaluating data" to "competing for capacity"** — filling a gap the thread has flagged since it opened ("no yield % anywhere"). Corroborated across Tech Times, finance.biggo.com, and igor'sLAB (which ran the actual defect-density curve against the 22nm comparison). Stock reaction was muted-to-negative on the same day (-2.9%) alongside a reported $2.1B foundry-unit loss, so this is a real signal inside continued financial pressure, not a turnaround headline. ([finance.biggo.com](https://finance.biggo.com/), [Tech Times](https://www.techtimes.com/))
 
 ## 2026-08-11 — The offering upsizes to $20B on 5x institutional demand
 

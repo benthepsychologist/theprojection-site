@@ -3,7 +3,7 @@ title: The Great Rotation
 lens: global-capital
 status: open
 opened: 2026-07-29
-last_seen: 2026-08-29
+last_seen: 2026-08-31
 weight: 2
 entities: []
 thread_kind: story
@@ -17,6 +17,12 @@ blurb: 'Analysts (Morgan Stanley, UBS, Forrester) are calling an explicit alloca
   policy) and from AI Bear Turn (the broader AI-stock drawdown) — this is specifically
   the reallocation call between the two cohorts.'
 ---
+
+## 2026-08-31 — Nvidia recovers premarket while the broader tape falls on Iran and further Fed-hike repricing, a mild discriminator against Friday's selloff being mainly about Nvidia's own financing pullback
+
+- **Monday's open put Nvidia on the opposite side of the broader market's move from Friday.** NVDA opened around $219 (up roughly 0.3-0.7% from Friday's $217.55 close), while the S&P 500 (-0.45% to 7,677), Dow (-0.62% to 53,229) and Nasdaq (-0.43% to 26,290) all opened lower on a combination of the fresh Larak Island/Jordan/UAE exchange (see [Red Sea Shock](/threads/red-sea-oil-shock/)) and continued Fed-hike repricing. That is a live discriminator between this thread's two competing explanations for Friday's -4.74% Nvidia session: if the financing-program pullback were still the dominant driver, NVDA would be expected to keep lagging; instead it's the outperformer against a macro-driven broad-market dip this morning. One premarket session is not conclusive, and Micron/Intel/Broadcom are described in same-day coverage as "choppy" rather than clean movers either way.
+- **The Fed side of the split kept drifting in the same direction already on the record, without a new catalyst.** CME FedWatch's September hike probability rose again from Friday's 57.5% to roughly 60-62% this morning (CNBC's 08-31 write-up on Warsh's analyst-reaction roundup cites 60.4%; other 08-31 coverage frames it as "62%, up from ~40% a week prior" without naming the exact source tool) — continued momentum from Warsh's keynote rather than a new weekend data point or Fed speaker. Kalshi's own September-hike contract sits close to flat at 47% (vs. 48% Friday, up from ~30% pre-Warsh) — the two markets' roughly 13-15 point gap persists, unresolved, not closing.
+  ([CNBC](https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html), [Yahoo Finance live blog](https://finance.yahoo.com/markets/live/stock-market-today-monday-august-31-dow-sp-500-nasdaq-113851714.html))
 
 ## 2026-08-29 — Friday's close confirms the dispersion, and a second explanation for it lands the same day
 

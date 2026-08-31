@@ -3,7 +3,7 @@ title: Arm Royalty Regime
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-07-31
+last_seen: 2026-08-24
 weight: 2
 entities:
 - arm
@@ -18,6 +18,11 @@ blurb: 'The ~$800B-gravity ISA chokepoint: SoftBank''s 87.1% leaned on as LOAN C
   own licensees. Royalties real (4 straight >$1B quarters, v9+CSS). Stock -28% into
   earnings 07-29 — the live test.'
 ---
+
+## 2026-08-24 — IBM builds native Arm support into its next mainframe chip; Arm shares jump on the tie-up plus a reported $2B AI-chip backlog
+
+- **IBM unveiled its next-generation dual-architecture mainframe processor — the first chip to run IBM Z and Arm-native workloads on the same cores** — under a strategic collaboration first announced 2026-04-02 and now shipping as real silicon, aimed at running Arm-native AI applications on Z mainframes and LinuxONE servers. Confirmed via both companies' own newsrooms and corroborated by VentureBeat, Forbes, and SiliconANGLE. This is a genuinely new kind of design win for Arm's royalty base — enterprise mainframes, not the mobile/cloud/AI-accelerator markets the thread has tracked so far. ([IBM Newsroom](https://newsroom.ibm.com/), [Arm Newsroom](https://newsroom.arm.com/), [VentureBeat](https://venturebeat.com/))
+- **Arm shares jumped after hours on the IBM news plus a separately reported $2B AI-chip order backlog it "cannot fill yet"** — the first concrete evidence since the thread opened that Arm's non-royalty chip ambitions (the in-house "AGI CPU") are converting into an actual order book, not just an announced pivot. Stock context: Arm had been down as much as 46% from its June peak before this. ([finance.biggo.com](https://finance.biggo.com/), [TradingKey](https://www.tradingkey.com/))
 
 ## 2026-07-31 — A one-day snapback: Arm +9% on the broad Tokyo chip rally
 

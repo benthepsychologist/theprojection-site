@@ -3,7 +3,7 @@ title: Memory Squeeze
 lens: ai
 status: developing
 opened: 2026-06-27
-last_seen: 2026-08-29
+last_seen: 2026-08-31
 weight: 2
 entities:
 - samsung
@@ -21,6 +21,13 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   push (charging ABOVE Samsung; new modules with no price relief; DoD ban overhang),
   and who blinks first on capex.'
 ---
+
+## 2026-08-31 — CXMT's Q2 gross margin beats Micron and SK Hynix; it also starts mass-producing LPDDR6 first, worldwide
+
+- **CXMT posted an 87.59% gross margin for Q2 2026, up 8.44 percentage points from Q1's roughly 79%, and higher than Micron's 84.9% non-GAAP gross margin (fiscal Q3) and SK Hynix's 83.2% (Q2 2026).** TrendForce, reporting this 08-31, frames it as the clearest evidence yet that China's state-backed DRAM entrant is now pricing and earning at the same level as the two incumbents this thread has tracked from the buy side all year — a direct extension of Saturday's already-recorded H1 revenue/profit beat, not a restatement of it. ([TrendForce](https://www.trendforce.com/news/2026/08/31/news-cxmt-gross-margin-hits-87-in-q2-to-rival-memory-giants-as-lpddr6-mass-production-reportedly-begins/))
+- **The same reporting says CXMT has begun mass production of LPDDR6, and multiple outlets (TechNode, Digitimes, Reuters-sourced coverage) confirm this is the first commercial LPDDR6 deployment anywhere, ahead of Samsung and SK Hynix** — the chips will ship in Xiaomi's 18 Fold foldable, launching September 2026, confirmed by Xiaomi founder Lei Jun on Weibo. This is a technology-leadership claim, not just a capacity or pricing one: CXMT was mass-producing LPDDR5 less than a year ago. ([TechNode](https://technode.com/2026/08/31/cxmt-starts-lpddr6-mass-production-for-xiaomis-upcoming-18-fold/), [Digitimes](https://www.digitimes.com/news/a20260831VL208/cxmt-xiaomi-production-flagship-commercial.html))
+
+- **Korean trade press reports spot-market HBM3E (36GB) trading around $2,100 against long-term-agreement pricing equivalent to roughly $350-490 — a 4-5x premium — with HBM4 (16-layer) spot pricing around $3,500 against LTA rates.** The piece attributes the gap to HBM4's lower manufacturing yield consuming more DRAM wafer capacity per unit, and to Samsung's already-recorded 70%-of-capacity long-term-agreement lock (a July commitment, not new) starving the spot market; it adds that even large customers like Nvidia, Microsoft and Google reportedly cannot get their full contracted volumes. ⚠️ Figures are reported in Korean won and converted; treat as directional rather than exact. ([Seoul Economic Daily](https://en.sedaily.com/finance/2026/08/31/spot-hbm-prices-hit-5-times-contract-levels))
 
 ## 2026-08-30 — CXMT's first results as a listed company beat its own prospectus by a third, and give the shortage a supply-side number from the Chinese side
 

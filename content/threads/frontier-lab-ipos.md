@@ -3,7 +3,7 @@ title: Lab IPO Wave
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-08-29
+last_seen: 2026-08-31
 weight: 3
 entities:
 - openai
@@ -28,6 +28,10 @@ blurb: 'The frontier labs are converting private, vendor-financed valuations int
   does Anthropic''s S-1 land on schedule, and does OpenAI''s own timeline (currently
   "as late as next year") move.'
 ---
+
+## 2026-08-31 — A second revenue engine gets a public number at the same moment the S-1 does not appear
+
+- **OpenAI's first public figure for its advertising business — $1bn annualized run rate in under 200 days, 40-plus countries, self-service buying opening across India, Europe and MENA — arrives on the same day Anthropic's public S-1 was expected and did not appear.** Read against this thread, the two facts point the same way: the labs are being pushed to show diversified, non-subscription revenue ahead of public-market access, and they are doing it on different schedules and through different disclosure channels. OpenAI chose a newsroom post with a run-rate figure and no audited comparison; Anthropic's route runs through EDGAR, where nothing has been filed as of this morning. ⚠️ This is an interpretive pairing, not a reported connection — neither company linked the two. ([OpenAI newsroom](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/), [CNBC](https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html))
 
 ## 2026-08-27 (added 2026-08-29) — Anthropic reportedly weighs letting insiders sell into the IPO itself, departing from the SpaceX playbook
 
