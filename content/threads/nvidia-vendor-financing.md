@@ -3,11 +3,13 @@ title: Nvidia as Lender
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-08-29
+last_seen: 2026-09-01
 weight: 3
 entities:
 - nvidia
 - openai
+- mediatek
+- sb-energy
 thread_kind: story
 blurb: 'Nvidia''s turn from chip vendor to the buildout''s lender of last resort:
   the $250-500B OpenAI financing guarantee (figure unresolved), equity stakes across
@@ -21,6 +23,16 @@ blurb: 'Nvidia''s turn from chip vendor to the buildout''s lender of last resort
   toward: does the weekend signing happen, does a phase-2 guarantee follow, and rating-agency
   treatment (still untracked).'
 ---
+
+## 2026-09-01 — SB Energy, the SoftBank/OpenAI entity behind Nvidia's Ohio guarantee, files for a US IPO with real financials attached
+
+- **SB Energy Corp — the SoftBank- and OpenAI-backed developer of the Ohio "PORTS" campus that Nvidia's up-to-$105bn lease guarantee underwrites — filed for a US IPO, disclosing a $439bn contracted backlog against a $3.21bn net loss on just $138.7m of revenue for the six months ended June 30, 2026** (versus a $215.5m loss on $83.3m revenue a year earlier). Nvidia has separately committed to invest $1.5bn in the IPO itself via private placement at the offer price. This is the first time SB Energy's own numbers — not just the guarantee figure this thread has tracked since 08-15 — have been public: a company with no data center yet online carrying a backlog more than 100x its trailing revenue. JPMorgan, Goldman Sachs, Morgan Stanley, Citigroup and Mizuho are leading the offering; the company plans to list on Nasdaq as "SBE."
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-01/softbank-backed-sb-energy-files-for-ipo-to-tap-ai-power-thirst))
+
+## 2026-08-31 — Nvidia buys 90% of a $3.9bn MediaTek convertible-bond offering, its largest direct investment outside the US
+
+- **Nvidia agreed to invest $3.5bn in MediaTek via convertible bonds — roughly 90% of MediaTek's entire $3.9bn overseas convertible-bond offering — deepening a collaboration built around Nvidia's NVLink Fusion platform**, which lets non-Nvidia chips (including MediaTek's custom silicon) plug into Nvidia's rack-scale data-center architecture. The bonds convert into MediaTek shares later rather than functioning as a straight equity buy today, extending the same stake-ladder pattern this thread already tracks (Nebius 9.3%, Naver $1B, Intel $5B, Groq ~$20B licensing) to a chip-design partner rather than a cloud/compute customer. MediaTek shares rose as much as 10% on the news.
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-31/nvidia-to-invest-3-5-billion-in-chipmaker-mediatek), [TechCrunch](https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/))
 
 ## 2026-08-29 — The pause gets a number and a mechanism: $36bn, and a customer-approval clause
 

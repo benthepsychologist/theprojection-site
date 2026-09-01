@@ -3,7 +3,7 @@ title: Russia-Ukraine War
 lens: world-news
 status: open
 opened: 2026-07-31
-last_seen: 2026-08-30
+last_seen: 2026-09-01
 weight: 3
 entities: []
 thread_kind: story
@@ -20,6 +20,11 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   sibling thread the same way Iran''s Widening War / Red Sea Shock did, if and when
   that read becomes substantial enough to carry on its own.'
 ---
+
+## 2026-08-31 — Sixth straight night of Russian strikes on Kyiv kills at least 12, including six railway workers
+
+- **Russia opened a sixth consecutive night of bombardment on Kyiv at roughly 18:00 ET Monday (08-31), running into Tuesday morning, and it is the deadliest single barrage this thread has recorded** — at least 12 killed (8 in Kyiv itself, 3 more in the surrounding region, one an Indian citizen) and more than a dozen wounded, three of them children. Russia used ballistic, cruise and anti-radar missiles plus 218 drones and decoys (roughly a third jet-powered); Ukraine's air force said it downed or suppressed 199 of them, including 5 ballistic missiles and 187 drones, with strikes or debris recorded across 38 locations. The single worst incident was a ballistic-missile hit on a Ukrzaliznytsia (state railway) depot that killed six railway employees, per chairman Oleksandr Pertsovskyi; other deaths came from strikes on residential buildings in the Darnytskyi, Holosiivskyi and Solomianskyi districts, and on infrastructure near Boryspil.
+  ([Euronews](https://www.euronews.com/my-europe/2026/09/01/at-least-four-people-killed-as-russia-launches-nighttime-ballistic-missile-attacks-targeti), [AP via WSLS](https://www.wsls.com/business/2026/09/01/russian-barrage-of-drones-and-missiles-on-ukraines-capital-region-kills-at-least-11/))
 
 ## 2026-08-31 — Fifth straight day of strikes around Kyiv; a Chernihiv energy facility is hit, the first action after Russia's threatened grid campaign
 

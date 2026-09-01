@@ -3,7 +3,7 @@ title: Chatbot Bans
 lens: mental-health
 status: open
 opened: 2026-07-22
-last_seen: 2026-08-30
+last_seen: 2026-09-01
 weight: 2
 entities:
 - character-ai
@@ -16,6 +16,13 @@ blurb: 'The wave is ~10+ enacted instruments in two species (crawl 2026-07-22 co
   these laws (so far only xAI v. Colorado''s discrimination law); Colorado-mandate
   copycats.'
 ---
+
+## 2026-08-31 — All three of California's AI-in-mental-health bills clear the Legislature on adjournment day; a fourth is quietly shelved by its own author
+
+- **California's Legislature adjourned its session at midnight 08-31 having passed all three of the AI-in-mental-health bills this thread has tracked against the deadline: SB 903, SB 1119, and (cross-referenced from [The Reckoning](/threads/ai-therapy-regulatory-reckoning/)) AB 2575.** SB 903 — barring anyone from marketing a chatbot as "therapy" and requiring licensed-professional oversight of AI in mental-health care — had already passed the Assembly 74-1 on 08-30; the Senate concurred in the Assembly's amendments 40 Ayes-0 Noes on 08-31, sending it to Engrossing and Enrolling. SB 1119 — the children's companion-chatbot safety bill requiring annual child-safety risk assessments, real-time crisis referrals, and AG-reported independent audits by 2027-07-01 — passed its Assembly floor vote and got Senate concurrence in the Assembly's amendments 39-0, also on 08-31. Both bills now sit at Engrossing and Enrolling, one procedural step from presentment to Governor Newsom; neither has been signed or vetoed. Three separate California AI-in-mental-health bills clearing the same legislative session, on the deadline day itself, is the wave this thread was opened to track arriving all at once rather than piecemeal.
+  ([SB 903 bill history](https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB903), [SB 1119 bill history](https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB1119))
+- **AB 2023 — the SB 1119 companion bill on children's-chatbot safety that the 08-31 digest flagged as "riding tonight's deadline alongside the three bills this map already tracks" — did not ride it: its own author, Sen. Padilla, pulled it to the Senate's inactive file on 08-30, the day before adjournment.** The Legislature's own bill-history record shows no floor vote and no defeat — just "Ordered to inactive file at the request of Senator Padilla," after the bill had already passed the Assembly 66-8 in May and cleared Senate Appropriations' suspense file 6-1 on 08-13. Read plainly: the same senator carrying SB 903 and SB 1119 to passage chose not to spend the Legislature's last day on a third, overlapping bill — a deliberate stand-down, not a loss. It dies for this two-year session with no vote on the record.
+  ([AB 2023 bill history](https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB2023))
 
 ## 2026-08-30 — SB 903's due-today floor vote hasn't posted yet; SB 1119 in the same holding pattern
 

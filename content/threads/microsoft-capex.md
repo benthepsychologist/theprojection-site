@@ -3,7 +3,7 @@ title: Microsoft Capex
 lens: ai
 status: developing
 opened: 2026-07-23
-last_seen: 2026-08-18
+last_seen: 2026-09-01
 weight: 2
 entities:
 - microsoft
@@ -32,6 +32,11 @@ blurb: 'Earnings 07-29 is the near-term test — the "$97B TTM" figure is OUR ar
   inference + Microsoft's own training/RL) with no percentage
   disclosed, and nothing here changes that.
   ([TheNextWeb](https://thenextweb.com/news/microsoft-maia-300-chip-tsmc-production-boost-nvidia), [Investing.com, citing The Information](https://m.investing.com/news/stock-market-news/microsoft-plans-maia-300-chip-reveal-in-september---information-4849477))
+
+## 2026-07-29 — CORRECTED 2026-09-01: Microsoft's FY27 capex guidance was NOT purely qualitative — a hard $175B figure was given on the same call
+
+- **A prior entry on this thread characterized Microsoft's 07-29 earnings call as leaving FY27 capex guidance "qualitative" — that was incomplete. CFO Amy Hood gave a specific FY27 full-year capex figure on that same call, tied to an accounting change: "the shift from finance to operating leases adjust[s] our expectation to approximately $175 billion."** She also said Microsoft is extending the estimated useful life of data centers/office buildings from 15 to 25 years (affecting depreciation timing and shifting more future leases from finance to operating classification — "outside of this useful life impact, our calendar year 2026 CapEx investment expectations remain unchanged"), and that commercial RPO grew 84% to $678 billion. The original entry was right to reject the ~$255-260B analyst-preview number, but wrong to call the FY27 guide purely qualitative — $175B is a real, CFO-stated figure, shaped by a lease-accounting reclassification rather than a change in underlying spend intent.
+  ([Earnings call transcript via The Globe and Mail](https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/3729593/microsoft-msft-q4-2026-earnings-call-transcript/))
 
 ## 2026-07-29 — Earnings beat, Azure accelerates, the named split still didn't happen
 

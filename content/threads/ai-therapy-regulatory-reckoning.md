@@ -3,7 +3,7 @@ title: The Reckoning
 lens: mental-health
 status: developing
 opened: 2026-06-28
-last_seen: 2026-08-29
+last_seen: 2026-09-01
 weight: 3
 entities:
 - character-ai
@@ -17,6 +17,11 @@ blurb: 'The capability/approval gap for AI mental-health chatbots is being close
   real regulatory pathway (FDA/MHRA), case outcomes, and any big-tech health-arm move
   into the vacuum. Ben''s sharpest edge — the evidence-gap thesis playing out live.'
 ---
+
+## 2026-08-31 — AB 2575 clears the California Legislature on the second try, on the last day of the session
+
+- **California AB 2575 (Ortega) — the bill shifting liability for AI-caused clinical harm onto developers and protecting clinicians who override an AI recommendation — passed both houses of the Legislature on 2026-08-31, the constitutional adjournment deadline, after its Senate floor vote failed once already.** It was refused passage 18-10 on the Senate floor 08-28, won reconsideration 40-0 the same afternoon, was re-amended and sent back to second reading 08-30, then passed the Senate floor 21-10 on 08-31 — 21 ayes being the bare majority a non-appropriation bill needs in the 40-member Senate. The Assembly concurred in the Senate's amendments the same day, sending the bill to Engrossing and Enrolling. It now awaits presentment to Governor Newsom; no signature or veto has been recorded. This is the concrete "first real regulatory pathway" the thread's watch line names, arriving via ordinary state liability law rather than FDA action, and surviving a floor defeat to get there.
+  ([California Legislature — AB 2575 bill history](https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB2575))
 
 ## 2026-08-29 — AB 2575 nearly dies on the Senate floor, then gets a lifeline, one bill in a two-bill California endgame
 

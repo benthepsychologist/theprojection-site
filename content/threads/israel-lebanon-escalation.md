@@ -3,7 +3,7 @@ title: Israel–Lebanon
 lens: world-news
 status: open
 opened: 2026-08-07
-last_seen: 2026-08-29
+last_seen: 2026-09-01
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,11 @@ blurb: 'The Israel–Hezbollah front turning hot while its diplomacy stalls: dea
   theatre from iran-conflict-widening (cross-referenced, not merged). Watch: whether
   the talks track survives, and whether strikes escalate past the current tempo.'
 ---
+
+## 2026-09-01 — Israel voices dissatisfaction with disarmament progress; Lebanese army officers said to resist an IDF pullout
+
+- **A new wrinkle on why the withdrawal track is stuck, reported hours before an eighth Rome negotiating round was supposedly due (which did not produce confirmed evidence of convening — see the upcoming.yaml ledger): Israel is privately unhappy with the Lebanese army's pace of disarming Hezbollah inside the pilot zones, while Lebanese army officers are separately reported opposing any immediate IDF pullback for fear Hezbollah would reoccupy the ground.** Per Israel's Kan public broadcaster, both frictions are live at once. An unnamed senior US official, quoted the same morning, said only "we are working with both sides to reach a future arrangement, but it will take time."
+  ([Times of Israel](https://www.timesofisrael.com/liveblog_entry/israel-said-unhappy-with-progress-on-hezbollah-disarmament-in-pilot-zones-lebanese-army-officers-said-to-oppose-idf-pullout/))
 
 ## 2026-08-29 — Hezbollah's Qassem rejects the framework agreement outright; a possible "early September" round eight
 

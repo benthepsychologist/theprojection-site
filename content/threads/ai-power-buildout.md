@@ -3,7 +3,7 @@ title: Power Buildout
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-31
+last_seen: 2026-09-01
 weight: 3
 entities:
 - spacex
@@ -16,6 +16,11 @@ blurb: Where the capex lands in POWER — the real bottleneck. Nuclear-for-AI (S
   Oklo/X-Energy), gas turbines (the Colossus permit fights), grid deals, and the energy-justice/permitting
   battles. Category meta under where-the-capex-lands.
 ---
+
+## 2026-09-01 — Google signs the largest enhanced-geothermal power deal on record
+
+- **Google signed a 396MW power-purchase agreement with Fervo Energy — the largest enhanced-geothermal PPA ever signed — for output from Fervo's Cape Station project in southwestern Utah, expected online in 2028, with an option to expand by ~600MW more (to nearly 1GW total) by June 2030.** This extends a Google/Fervo relationship dating to a 2021 pilot (Project Red, Nevada, live since late 2023) and a 115MW Nevada deal in 2024, and sits alongside this thread's existing record of Google's power book (TotalEnergies/Clearway solar, TVA/Kairos Gen-IV nuclear) as a third clean-generation category rather than the gas pivot Meta and others have taken. Fervo shares jumped nearly 15% on the news.
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-01/fervo-signs-geothermal-power-deal-with-google-for-2028-launch), [GlobeNewswire — primary](https://www.globenewswire.com/news-release/2026/09/01/3354109/0/en/fervo-energy-and-google-sign-396-mw-ppa.html))
 
 ## 2026-08-31 — An executive order restricts foreign-made grid equipment, and names AI load growth as the reason the threat sharpened
 

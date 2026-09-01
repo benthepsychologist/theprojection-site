@@ -3,7 +3,7 @@ title: HCA's AI Scale-Up
 lens: mental-health
 status: open
 opened: 2026-08-04
-last_seen: 2026-08-20
+last_seen: 2026-09-01
 weight: 2
 entities:
 - hca-healthcare
@@ -19,6 +19,11 @@ blurb: 'Six named AI initiatives at real hospital-system scale (Timpani staffing
   probe (07-14 guidance cut, payer-mix driven) is confirmed unrelated to AI — track
   independently, don''t conflate.'
 ---
+
+## 2026-08-27 — Nurses protested Palantir's Timpani system in eight US cities, HCA the named example
+
+- **Registered nurses, patients and community allies demonstrated in eight cities on 2026-08-27** — Palo Alto, Los Angeles, Chicago, Washington DC, Portland (ME), Asheville (NC), Austin and New Orleans — demanding health systems and officials cut ties with Palantir. National Nurses United's own press release names HCA Healthcare's Timpani (also called "HCA Inspire") specifically as the staffing/scheduling tool built on Palantir technology, "used for nursing staff scheduling, removing hospitals' local managers from staffing decisions and replacing them with an anonymous office in Nashville," and ties the technology to "the nationwide staffing crisis." This is the first multi-city, nationally-coordinated action on this thread's record — beyond both the original April Frist Gala protest and the 08-12 Florida-only 1199SEIU pickets — and it explicitly widens the fight beyond HCA's own facilities to Palantir's broader healthcare footprint (the union cites Palantir managing "over one-fifth of U.S. hospital beds," plus its ICE/DHS work).
+  ([National Nurses United](https://www.nationalnursesunited.org/press/nnu-nurses-to-participate-in-nationwide-protests-against-palantir), [KUT/Austin](https://www.kut.org/health/2026-08-27/atx-texas-austin-protesters-palantir-healthcare-nurses-protest))
 
 ## 2026-08-12 — The labor friction escalates: coordinated pickets over the Timpani AI scheduling system
 

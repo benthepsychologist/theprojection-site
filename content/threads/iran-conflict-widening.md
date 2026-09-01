@@ -3,7 +3,7 @@ title: Iran's Widening War
 lens: world-news
 status: open
 opened: 2026-07-23
-last_seen: 2026-08-31
+last_seen: 2026-09-01
 weight: 3
 entities: []
 thread_kind: story
@@ -45,6 +45,13 @@ blurb: '⚠️ ORIGIN CORRECTED 2026-08-02 — READ THIS FIRST. This thread spen
   with Netanyahu''s office framing it as pressure ahead of September talks. Track
   this alongside Hormuz/Gulf as a distinct front, not folded into it.'
 ---
+
+## 2026-08-31 — Two VLCCs struck by unknown projectiles near the Strait of Hormuz, unattributed
+
+- **Two Saudi-crude supertankers were hit by unidentified projectiles within minutes of each other on the evening of 08-31, and — unlike the Iranian mine claim already on this thread — nobody has claimed responsibility.** The Saudi-flagged *Sidr* (operated by Bahri) was struck roughly 16.6 nautical miles northeast of Khasab, Oman at 19:52 UTC (15:52 ET); minutes later the Liberian-flagged *Senegal Prosperity* (operated by South Korea's Sinokor) was hit by three projectiles about 17 nautical miles east of Khasab. Both vessels had each loaded roughly 2 million barrels of Saudi crude at the Juaymah terminal the prior week and were outbound from the Gulf. UKMTO and the maritime-risk firm Marisks both logged the incidents, calling them "a coordinated or closely related series of attacks"; all crew on both ships were reported safe. As of this writing no government or armed group has claimed the strikes, and no US or Iranian statement attributes them — a materially different evidentiary position than the Iranian state-media mine claim already on this thread, which Iran itself claimed and CENTCOM explicitly dismissed as disinformation. Brent, at $90.23 intraday when the last digest closed, is trading $91-92 this morning.
+  ([Insurance Journal/Bloomberg wire](https://www.insurancejournal.com/news/international/2026/09/01/883510.htm), [Reuters via Investing.com](https://www.investing.com/news/commodities-news/two-tankers-carrying-saudi-oil-attacked-in-strait-of-hormuz-4883736))
+- **Trump repeated his threat to "hit them hard" and Iran's deputy foreign minister set a public precondition for reopening Hormuz, with no new US strike confirmed as of this morning.** CBS's rolling live coverage has Trump telling Fox News the US "will respond" to Iran's Jordan/UAE strikes, while Kazem Gharibabadi said the strait will not fully reopen until the US fulfills its commitments under the lapsed June 17 memorandum — sanctions relief and frozen-asset release — and that Tehran is "in no hurry." Both restate standing positions but confirm the diplomatic track remains stalled going into the new tanker incident, not reopened by it.
+  ([CBS News live updates](https://www.cbsnews.com/live-updates/iran-war-us-strikes-strait-of-hormuz-larak-island/))
 
 ## 2026-08-31 — Iran retaliates with missile and drone strikes on US-linked bases in Jordan and the UAE
 

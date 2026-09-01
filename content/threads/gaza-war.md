@@ -3,7 +3,7 @@ title: Gaza War
 lens: world-news
 status: open
 opened: 2026-08-01
-last_seen: 2026-08-30
+last_seen: 2026-09-01
 weight: 3
 entities: []
 thread_kind: story
@@ -37,6 +37,11 @@ blurb: 'Opened on Ben''s steer 2026-08-01, after a disarmament framework announc
   Ministry range as broadly accurate. Both the inflation and the undercount framings
   still circulate; report both, resolve neither.'
 ---
+
+## 2026-09-01 — Israeli-backed militia raid captures Hamas's head of internal security; covering strikes kill at least three
+
+- **A named, distinct operation rather than the low-boil strike pattern this thread has been carrying: an Israeli-backed Palestinian militia raid in Gaza City captured Mu'in al-Arabid, identified as Hamas's head of its General Security Apparatus, and Israeli air cover for the raid's withdrawal killed at least three Palestinians (one woman and two children) with eight more injured.** Defense Minister Israel Katz confirmed the capture and said strikes were aimed to "remove threats to security forces." The raid was exposed mid-operation, triggering clashes; a higher death toll (up to 8) circulating via Hamas-linked sources is not independently confirmed here. Israel denied any of its own casualties despite a Gaza government media office claim that Israeli special-forces personnel were hit.
+  ([Times of Israel](https://www.timesofisrael.com/idf-strikes-gaza-as-hamas-official-captured-in-reported-raid-by-israel-backed-militia-3-said-killed), [The National](https://www.thenationalnews.com/news/mena/2026/09/01/series-of-strikes-hit-gaza-amid-reports-of-commando-operation-and-clashes/), [Jerusalem Post](https://www.jpost.com/israel-news/defense-news/article-907213))
 
 ## 2026-08-30 — Another strike on Deir al-Balah kills two, including a 3-year-old child
 

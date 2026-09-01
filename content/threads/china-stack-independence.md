@@ -3,7 +3,7 @@ title: China's Stack
 lens: ai
 status: open
 opened: 2026-07-22
-last_seen: 2026-08-29
+last_seen: 2026-09-01
 weight: 3
 entities:
 - zhipu-ai
@@ -18,6 +18,11 @@ blurb: 'One story, both directions: Z.AI''s 1 GW all-domestic-chip site, Kimi K3
   rules; September US-China talks) plus Beijing''s own proposed export controls on
   its models/chips. US chip-equity reaction is the measure.'
 ---
+
+## 2026-08-31 — Zhipu/Z.ai posts its first H1 earnings as a public company, missing growth expectations even as revenue quadruples
+
+- **Zhipu (Z.ai) reported first-half 2026 revenue of 953.9 million yuan (~$142 million), up about 400% year-on-year, with net loss narrowing 12.1% to 2.07 billion yuan (~$307 million) and gross profit up 163.7%** — its first earnings report since its Hong Kong listing. Cloud-based deployment revenue rose over 2,700% YoY and open-platform/API revenue rose 27-fold, now 86.5% of total revenue. Growth still fell short of what Wall Street had priced in: Bloomberg consensus had modeled full-year sales expanding 514%, so the reported 400% pace reads as a miss even at 5x growth. Shares rose ~9.6% to HK$1,195 on the print, but remain roughly 60% below their June peak of HK$2,980; annual recurring revenue reached $1.6bn by end of August, ahead of rival MiniMax's $800M ARR.
+  ([South China Morning Post](https://www.scmp.com/tech/big-tech/article/3365870/chinas-zai-revenue-jumps-400-total-losses-narrow-explosive-cloud-gains))
 
 ## 2026-08-29 — NDRC declares the supply chain "significantly safer"; Zhipu's stealth model reframes the compute story
 

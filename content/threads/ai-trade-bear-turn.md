@@ -3,7 +3,7 @@ title: AI Bear Turn
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-08-25
+last_seen: 2026-09-01
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,11 @@ blurb: 'Is the tape turning against the AI trade as a whole? Distinct from the c
   breadth (is it AI-specific or macro), the earnings verdicts, and whether the drawdown
   changes actual capex behavior.'
 ---
+
+## 2026-09-01 — The Nvidia-earnings relief rally gives way to a fresh pullback, driven by Iran and AI-debt-linked yields
+
+- **Renewed U.S.-Iran hostilities pushed oil higher and equities lower into Monday's close, and by Tuesday (09-01) morning, S&P 500 and Nasdaq-100 futures were down roughly 0.3%, with the Nasdaq Composite off 1.1% intraday and Nvidia, AMD and Micron each down around 2%.** The stated driver pairs geopolitics with this map's own debt-risk thesis: "soaring AI corporate debt issuance added to credit supply and lifted yields further," per market coverage — the 10-year Treasury yield rose to 4.754%, its highest since January 2025, and the 30-year to 5.255%. This is the same AI-debt-issuance-into-yields mechanism [AI Debt Gets Rated](/threads/ai-buildout-debt-risk/) exists to track, now showing up as a same-day equity-market driver rather than a separate story.
+  ([Yahoo Finance/TheStreet market-today coverage, 2026-09-01](https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-1-135016820.html))
 
 ## 2026-08-31 — The oil/Fed-driven risk-off froze rather than deepened or reversed through the session's first four hours
 

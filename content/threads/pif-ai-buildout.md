@@ -3,7 +3,7 @@ title: PIF Bets Out of Concrete, Into Compute
 lens: global-capital
 status: open
 opened: 2026-08-04
-last_seen: 2026-08-29
+last_seen: 2026-09-01
 weight: 3
 entities:
 - pif
@@ -24,6 +24,11 @@ blurb: 'Whether the NEOM/The Line capital retreat (halted past 2030, only ~1.4% 
   of board.yaml''s $12.5B/yr AI thrust figure against this crawl''s larger ~$21-23B
   HUMAIN deal-book tally (AMD $10B, AWS ~$5.3B, xAI $3B, AirTrunk ~$3B).'
 ---
+
+## 2026-08-31 — AMD/Cisco/HUMAIN's Saudi AI infrastructure goes live
+
+- **AMD, Cisco and HUMAIN (Saudi Arabia's state AI vehicle, PIF-backed) brought their jointly-built AI infrastructure online in Saudi Arabia**, confirmed via AMD's own investor-relations press release published 7:15am EDT on 08-31. ⚠️ This item published before this map's last recorded 08-31 15:00 ET cutoff and was missed by that run — caught here as an out-of-window gap-fill rather than same-day news.
+  ([AMD IR, primary](https://ir.amd.com))
 
 ## 2026-08-26 (late catch, added 2026-08-29) — HUMAIN lands a second named partner in as many days: Microsoft
 
