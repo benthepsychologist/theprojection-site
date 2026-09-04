@@ -3,7 +3,7 @@ title: AI Bear Turn
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-01
+last_seen: 2026-09-04
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,11 @@ blurb: 'Is the tape turning against the AI trade as a whole? Distinct from the c
   breadth (is it AI-specific or macro), the earnings verdicts, and whether the drawdown
   changes actual capex behavior.'
 ---
+
+## 2026-09-04 — Chip stocks decouple from broader tech, rallying as September hike odds cross 60%
+
+- **Intraday, chip stocks ran well ahead of the broader Nasdaq even as the hot jobs print pushed September rate-hike odds above 60%** — a move that "should have hammered high-multiple chip stocks" on rate-sensitivity grounds but did the opposite. As of an 11:12am ET read: Intel +4% to $95.41, AMD +3% to $471.05, Nvidia +2% to $232.37, and the SOXX semiconductor ETF +3% to $517.91, against the Nasdaq-100 ETF QQQ essentially flat at +0.02%. The support cited is earnings, not rate expectations — Nvidia's most recent quarter posted $96.22bn revenue (+105.8% y/y), AMD's Q2 2026 revenue was $11.54bn (+50.1% y/y) — and for Intel specifically, CEO Lip-Bu Tan's foundry turnaround pitch, though external foundry revenue is still just $293 million. This is intraday and not a session close; it extends the digest's "equities did not sell off" read specifically to the chip cohort outperforming the rest of tech, which is a data point for the breadth question this thread exists to track (AI-specific resilience vs. broad-market resilience) as distinct from the rotation call [The Great Rotation](/threads/chip-hyperscaler-rotation/) tracks.
+  ([24/7 Wall St.](https://247wallst.com/investing/2026/09/04/intel-climbs-4-as-chip-stocks-shrug-off-rising-rate-hike-odds-nvidia-and-amd-move-higher/))
 
 ## 2026-09-02 — A partial morning bounce, even as yields hit a fresh multi-year high
 

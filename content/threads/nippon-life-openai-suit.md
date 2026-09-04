@@ -3,7 +3,7 @@ title: Nippon Life v. OpenAI
 lens: ai
 status: open
 opened: 2026-08-04
-last_seen: 2026-08-30
+last_seen: 2026-09-04
 weight: 2
 entities:
 - nippon-life
@@ -68,5 +68,7 @@ blurb: 'A live federal case (1:26-cv-02448, N.D. Ill., filed 2026-03-04, verifie
   not just the AI's user — can be held liable for downstream misuse of its
   product, a question with implications well beyond this single insurer/
   plaintiff pair.
+
+- **A minute entry on the Nippon Life v. OpenAI docket, dated August 4 and never previously captured on this thread, shows Judge John F. Kness struck the original August 5, 2026 status hearing and reset it for September 2, 2026 at 9:45 AM, while OpenAI's motion to dismiss (entry 14) "remains under advisement."** Found via a direct read of the full docket (N.D. Ill., 1:26-cv-02448) today, prompted by this sweep's brief to check the case status rather than coverage. The docket has no entry after that August 4 minute entry (entry 39 of 39) — no filing, order, or transcript reflects what happened at the September 2 hearing two days ago, and the motion to dismiss remains formally undecided as of this afternoon's check. This isn't a correction to anything already recorded — it's a gap-catch that sharpens the thread's open question: the case is still exactly where the 08-30 backfilled entry (OpenAI's motion to dismiss) left it, with a status hearing that has apparently already occurred but not yet posted an outcome. ([CourtListener docket 72365583](https://www.courtlistener.com/docket/72365583/nippon-life-insurance-company-of-america-v-openai-foundation/))
 
 ## ← Backstory

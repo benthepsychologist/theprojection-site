@@ -3,7 +3,7 @@ title: Memory Squeeze
 lens: ai
 status: developing
 opened: 2026-06-27
-last_seen: 2026-09-01
+last_seen: 2026-09-04
 weight: 2
 entities:
 - samsung
@@ -21,6 +21,10 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   push (charging ABOVE Samsung; new modules with no price relief; DoD ban overhang),
   and who blinks first on capex.'
 ---
+
+## 2026-09-04 — SK hynix again tells the SEC no decision has been made on a Solidigm pre-IPO raise
+
+- **SK hynix filed a Form 6-K on September 4 reiterating that "no matters have been determined" on a rumored pre-IPO capital raise for its US NAND subsidiary Solidigm, meeting a self-imposed disclosure deadline rather than announcing anything new.** The filing traces to an August 5 Korea Economic Daily report that Solidigm was pursuing roughly 5 trillion won (later Korean press put the range at 5-10 trillion won, or roughly $3.6-7.2bn) in pre-IPO funding; SK hynix's August 6 6-K first denied any final decision and pledged a further update within one month, which put the deadline at today. Today's filing repeats that nothing is finalized and pushes the disclosure commitment out to December 4, 2026. This is a capital-raise signal, not a shortage-side development — Solidigm is SK hynix's NAND arm rather than its HBM/DRAM business — but it bears on the thread's capex-expansion watch line as another memory maker testing capital markets during the squeeze. ([SEC EDGAR 6-K, primary](https://www.sec.gov/Archives/edgar/data/2120882/000119312526382688/d111778d6k.htm), [Korea Herald, background on the Nasdaq speculation](https://www.koreaherald.com/article/10837711))
 
 ## 2026-09-01 — Counterpoint Research: CXMT crosses 10% of global DRAM revenue share, first double-digit quarter for a Chinese DRAM maker
 

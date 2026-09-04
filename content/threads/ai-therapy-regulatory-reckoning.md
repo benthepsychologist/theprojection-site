@@ -3,7 +3,7 @@ title: The Reckoning
 lens: mental-health
 status: developing
 opened: 2026-06-28
-last_seen: 2026-09-03
+last_seen: 2026-09-04
 weight: 3
 entities:
 - character-ai
@@ -17,6 +17,11 @@ blurb: 'The capability/approval gap for AI mental-health chatbots is being close
   real regulatory pathway (FDA/MHRA), case outcomes, and any big-tech health-arm move
   into the vacuum. Ben''s sharpest edge — the evidence-gap thesis playing out live.'
 ---
+
+## 2026-09-03 — Character.AI publishes a safety-priorities update naming new crisis and CSAM-detection partners
+
+- **Character.AI published a company blog post on 2026-09-03 detailing new safety partnerships and moderation controls, resolving an item this map's own 09-03 digest saw in the buffer but could not verify at the time.** The company says it has partnered with Koko (free self-guided emotional-support tools) and ThroughLine (a global directory that routes users to country-specific crisis and mental-health resources rather than a single hotline number) to strengthen its self-harm detection and response, which it says now considers signals accumulating across a whole conversation rather than any single message. On the CSAM/deepfake side it says it has joined the Internet Watch Foundation (a global CSAM-detection network it now reports into) and StopNCII (privacy-preserving hash-matching against non-consensual intimate imagery). It also announced a moderation-appeals process for creators and mutual-blocking controls for users, and says its in-house age-estimation model and its Parental Insights tool (built with k-ID) continue to be refined for the under-18 experience it walled off from open-ended chat "last year." This is a primary-source company statement about what Character.AI says it is doing, not independently verified evidence of effectiveness — and it lands directly on this thread's watch line for "any big-tech health-arm move into the vacuum," specifically as the incumbent under the most direct legal pressure (the PA suit, the Setzer settlement) publicly restating its safety posture.
+  ([Character.AI blog](https://blog.character.ai/continuing-to-build-upon-our-safety-priorities/))
 
 ## 2026-09-02 — New lawsuits say OpenAI could have prevented the Tumbler Ridge school shooting by alerting police to the shooter's ChatGPT messages
 

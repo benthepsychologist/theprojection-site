@@ -3,7 +3,7 @@ title: Anthropic IPO
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-03
+last_seen: 2026-09-04
 weight: 2
 entities:
 - anthropic
@@ -14,6 +14,10 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
   or flip-to-public, valuation vs the $965B print, and how the Opus 5 cycle + the
   AMD/Azure/Google-TPU compute deals get positioned in the roadshow narrative.'
 ---
+
+## 2026-09-04 — Anthropic's IPO puts its unusual outside-trustee governance structure under scrutiny for the first time
+
+- **Anthropic's Long-Term Benefit Trust — a five-seat body of outside advisers that holds no equity but has the right to appoint or dismiss a majority of the company's board — is drawing fresh scrutiny as Anthropic prepares an IPO that could value it at roughly $2 trillion, per a Financial Times report (syndicated via Ars Technica).** The trust currently has three of its possible five seats filled: chair Neil "Buddy" Shah (CEO of the Clinton Health Access Initiative), former Federal Reserve chair Ben Bernanke, and Richard Fontaine (CEO of the Center for a New American Security); it has already used its authority to seat four of Anthropic's seven directors, including Netflix co-founder Reed Hastings and Novartis CEO Vas Narasimhan. Trustees get advance notice of major company actions including new model launches, meet weekly among themselves and roughly biweekly with Anthropic leadership, and have weighed in on real decisions — including encouraging a limited rollout of the Mythos cybersecurity model via the Glasswing Project and the company's dispute with the US government over autonomous weapons — but the piece reports the trust "has not attempted to draw red lines or force a significant trade-off between profit and purpose," so it has not yet faced a real conflict that would test whether it can actually constrain management. Harvard Law's Jesse Fried calls the resulting arrangement a "built-in conflict": investors fund a for-profit company while self-appointed trustees decide how much profit to sacrifice for its mission. The trust can itself be removed by an 85% supermajority of shareholder voting power — a threshold that could shift once Anthropic is public. Separately, per a Motley Fool piece citing Bloomberg reporting, Anthropic has raised more than $130 billion in private funding to date (most recently $65 billion in spring 2026 at the $965 billion post-money valuation already on this thread), is reportedly targeting a roughly $100 billion IPO raise, and its prospectus was expected to go public after Labor Day (2026-09-07). ([Ars Technica, syndicating Financial Times](https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/), [Motley Fool](https://www.fool.com/investing/2026/09/04/anthropic-has-already-raised-130-billion-ahead-of/))
 
 ## 2026-09-03 — Anthropic's pre-IPO credit facility grows from a >$10bn target to $15bn, and moves from "negotiating" to "finalizing"
 

@@ -3,7 +3,7 @@ title: Grok Harm
 lens: mental-health
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-03
+last_seen: 2026-09-04
 weight: 2
 entities:
 - spacex
@@ -20,6 +20,10 @@ blurb: 'CONFIRMED substantial (crawl 2026-07-24). Two strands, kept distinct: (A
   thread''s core) from being swallowed by strand B (CSAM, the regulatory driver).
   Cross-refs ai-therapy-regulatory-reckoning.'
 ---
+
+## 2026-09-04 — Federal judge denies xAI's bid to block Minnesota's AI-nudification law, letting the ban stay in force through trial
+
+- **U.S. District Judge Donovan W. Frank denied xAI's motion for a preliminary injunction against Minnesota's H.F. 1606 "nudify" ban on 2026-09-04, ruling that the law can continue to be enforced — with civil penalties up to $500,000 per violation — while the underlying constitutional lawsuit proceeds.** This resolves the hearing this thread logged on 08-20, where Frank took the matter under advisement with no ruling from the bench; the order (Doc. 54 in *X.AI LLC v. Ellison*, Civil No. 26-3425 (DWF/DTS), D. Minn.) is a 14-page memorandum opinion pulled directly from the docket, not from coverage of it. The law prohibits any service from letting a user "nudify" an image or video — alter or generate one to depict an intimate part not in the original — and the order's background section cites legislative testimony that one identified perpetrator alone used nudification tools to create non-consensual sexual images/videos of over 80 women, plus RAINN figures of 24 million monthly users of nudification apps in 2023, over 95% of whose outputs were nonconsensual, sexually explicit, and of women. This is the second ruling against xAI in this litigation (a TRO was denied 07-31); the Trump DOJ's 08-19/20 Statement of Interest supporting xAI did not change the outcome. A motion to dismiss xAI's underlying suit remains pending. ([CourtListener/RECAP docket, Doc. 54](https://storage.courtlistener.com/recap/gov.uscourts.mnd.235231/gov.uscourts.mnd.235231.54.0_1.pdf), [MPR News](https://www.mprnews.org/story/2026/09/04/judge-lets-minnesota-enforce-antinudification-app-law-over-xai-objection-as-case-proceeds))
 
 ## 2026-09-03 — A child sexual abuse survivor's class action says Grok generated new abuse images of her from a known 20-year-old series
 

@@ -3,7 +3,7 @@ title: Copyright Exposure
 lens: ai
 status: open
 opened: 2026-08-06
-last_seen: 2026-09-03
+last_seen: 2026-09-04
 weight: 2
 entities:
 - anthropic
@@ -16,6 +16,11 @@ blurb: 'Two angles surfaced the same day (2026-08-05/06): Anthropic sought parti
   Concord II dismissal ruling; further reporting on the book-shredding practice and
   whether other labs did the same; any read-through to Anthropic''s IPO risk disclosures.'
 ---
+
+## 2026-09-04 — OpenAI and Microsoft move for summary judgment against news publishers and authors in the consolidated copyright MDL, and the New York Times cross-moves the same day
+
+- **Microsoft and OpenAI filed a coordinated set of summary-judgment declarations and Rule 56.1 statements on 2026-09-04 asking Judge Sidney Stein to rule outright in their favor against the News Plaintiffs, the Books/Authors Plaintiffs, and the Consolidated Class Plaintiffs in the consolidated AI-training copyright litigation, and the New York Times filed its own sealed cross-motion for summary judgment the same day.** The docket for *In re: OpenAI, Inc. Copyright Infringement Litigation*, MDL No. 1:25-md-03143 (S.D.N.Y., Judge Sidney H. Stein), shows more than a dozen entries dated 2026-09-04 alone: Microsoft's declarations of Annette Hurst and John D. Lafferty and expert Catherine Tucker in support of its motion for summary judgment on the News Plaintiffs' consolidated claims (Doc. 1473) and the Books Plaintiffs' consolidated claims (Doc. 777); OpenAI's declarations of Robert Van Nest, Gregory K. Leonard, and Barbara Frederiksen-Cross in support of its own motion for summary judgment on the Consolidated Class Plaintiffs' claims (Doc. 1715); the New York Times's own sealed motion for summary judgment (Doc. 1728) and combined Rule 56.1 statement (Doc. 1730); and letter motions from both the Times and OpenAI's counsel asking Judge Stein for oral argument (Docs. 1734, 1736). This is the same MDL this map has tracked since the DOJ filed a statement of interest backing OpenAI and Microsoft's fair-use defense on 2026-09-01 — this entry is the next concrete step: dispositive cross-motions are now fully briefed and both sides are asking the court to decide the copyright question without a trial, rather than merely arguing a policy brief.
+- **No hearing date has been set on either side's request for oral argument, leaving the timing of a dispositive ruling open.** Both the New York Times and OpenAI's counsel filed letter motions asking Judge Stein to hear argument (Docs. 1734, 1736); both are pending with no date on the docket. The entries above are drawn directly from the PACER/CourtListener docket report rather than from coverage — the story surfaced through paywalled MLex headlines that could not be read, so the docket is the only source standing behind this. ([CourtListener docket, 1:25-md-03143](https://www.courtlistener.com/docket/69879510/in-re-openai-inc-copyright-infringement-litigation/))
 
 ## 2026-09-01 — Music publishers file to keep the $3bn Concord II copyright suit alive against Anthropic's motion to dismiss
 
