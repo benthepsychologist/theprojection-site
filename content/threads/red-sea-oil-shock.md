@@ -3,7 +3,7 @@ title: Red Sea Shock
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-31
+last_seen: 2026-09-04
 weight: 3
 entities: []
 thread_kind: story
@@ -30,6 +30,27 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   policy. This is the capital-markets and risk-underwriting read of the war, deliberately
   distinct from the conflict itself.'
 ---
+
+## 2026-09-04 — South Korea prepares a naval deployment to the Strait of Hormuz, reversing its wait-for-the-war-to-end position
+
+- **South Korea's Defense Ministry said it is making "concrete preparations" to send forces to the Strait of Hormuz — a maritime patrol aircraft, a logistics support ship, and/or a mine-detection/clearance unit are under consideration, with a parliamentary consent motion expected this month and dispatch targeted before year-end.** This reverses Seoul's earlier stance of deploying only after the US-Iran war ends; officials are coordinating scale and nature of the contribution with the US, UK and France. The trigger is explicit: Trump said in August he scaled back joint US-South Korea exercises partly because Seoul had declined to help in the Iran war. The Blue House pushed back on reports that a final decision has been made, calling that framing "different from the facts" — so this is preparation and diplomatic coordination, not a confirmed deployment. This is the second US ally (after the EU, logged above under [Iran's Widening War](/threads/iran-conflict-widening/)) drawn into the campaign's military or financial machinery within the same 24 hours. ([Bloomberg, via Political Wire](https://politicalwire.com/2026/09/04/south-korea-weighs-strait-of-hormuz-deployment/), [Free Malaysia Today](https://www.freemalaysiatoday.com/category/world/2026/09/04/south-korea-preparing-hormuz-military-deployment-reports-say))
+
+## 2026-09-03 — Brent whipsaws between $95 and $99 as Washington's barrel-volume claims keep outrunning independent ship counts
+
+- **Brent closed above $95 on Wednesday (09-02) for the first time since late July, then spiked to roughly $99.38 by 8am ET Thursday (09-03, +3.4% on the day) before easing back to around $95 by afternoon trading (-0.4% net), snapping the three-session rally this thread has tracked since the 08-30/31 Larak Island strike** — the intraday swing reflects markets weighing the fresh Kuwait/UAE strikes ([Iran's Widening War](/threads/iran-conflict-widening/), above) against renewed claims that Hormuz transit volumes are recovering.
+  ([Fortune](https://fortune.com/article/price-of-oil-09-03-2026/), [TradingEconomics](https://tradingeconomics.com/commodity/brent-crude-oil))
+- **The administration-vs-independent-data gap this thread tracked at the 08-28 "Hormuz is open" episode reopened with fresh numbers: Energy Secretary Chris Wright told CNBC that more than 17 million barrels of oil transited Hormuz on Monday (08-31), the highest daily volume since the war began, and separate reporting put a US-escorted convoy at 40 vessels carrying 18 million barrels on Tuesday (09-01) — while Kpler's independent ship-tracking put actual tanker crossings at just 4 on that same Tuesday.** ⚠️ **The barrel-volume figures come from named US officials on the record (Wright to CNBC); the vessel-count figures come from Kpler as reported by CNBC, not directly verified against Kpler's own site this pass** — both sides of the gap are attributed, not resolved, consistent with how this thread has logged the same tension since 08-28.
+  ([CNBC](https://www.cnbc.com/2026/09/02/energy-secretary-chris-wright-tells-cnbc-that-more-than-17-million-barrels-of-oil-transited-hormuz-on-monday.html), [CNBC](https://www.cnbc.com/2026/08/12/strait-hormuz-ship-traffic-iran-war-deal.html))
+
+## 2026-09-02 — Brent tops $96 as the Iran-Gulf retaliation wave lands; the Sidr tanker toll and attribution both firm up
+
+- **Brent traded around $96.11/bbl at 8am ET on 09-02, up roughly $2 on the day** and continuing the run this thread has tracked since the 08-30/31 Larak Island strike and Jordan/UAE retaliation, now extended by 09-01's seven-site US strikes and Iran's four-country response ([Iran's Widening War](/threads/iran-conflict-widening/)). Fourth consecutive up session on the same mechanism.
+  ([Fortune](https://fortune.com/article/price-of-oil-09-02-2026/))
+- **A correction lands on the Sidr/Senegal Prosperity incident this thread and [Iran's Widening War](/threads/iran-conflict-widening/) logged 08-31/09-01 as unattributed with all crew safe: Bahri (the Saudi state shipping company) confirmed on 09-02 that two Filipino seafarers aboard the *Sidr* were killed, and Saudi Arabia's Foreign Ministry directly attributed the strike to Iran** — "an Iranian attack against a Saudi vessel in the Strait of Hormuz." Iran's IRGC maintains its own account, that the vessel struck a sea mine rather than being attacked directly. See Corrections below.
+  ([Jerusalem Post](https://www.jpost.com/middle-east/article-907312), [Manila Times](https://www.manilatimes.net/2026/09/02/news/2-filipino-seafarers-dead-after-monday-attack-on-saudi-oil-tanker-in-hormuz-says-shipping-firm/2416849))
+
+- **Iran's Persian Gulf Strait Authority (PGSA) — the body Tehran set up to manage the strait — added 11 more vessels to its "Non-Compliant Vessels" list on 09-02, bringing the total blacklisted to 56, up from the 45 first announced 08-24.** Blacklisted ships face "fines, confiscation or detention" if they attempt transit, and the PGSA added a new escalation: any vessel conducting ship-to-ship transfers or transshipment with a listed vessel will itself be added to the list. The list spans VLCCs, LNG/LPG carriers and clean-product tankers; ships owned by UAE's ADNOC L&S, Navig8 Tankers and Saudi Arabia's Bahri have previously appeared on it, and at least three Indian refiners plus a major energy company reportedly stopped using listed vessels by late August. This is a new, escalating instrument of Iran's economic-warfare campaign against shipping, distinct from the kinetic tanker strikes already tracked here.
+  ([BOE Report](https://boereport.com/2026/09/02/iran-blacklists-more-ships-trying-to-sail-through-hormuz-govt-website-shows/), [gCaptain](https://gcaptain.com/iran-blacklists-46-ships-on-hormuz-non-compliant-list/), [Newsweek](https://www.newsweek.com/iran-publishes-vessel-blacklist-for-strait-of-hormuz-warns-of-seizure-12357754))
 
 ## 2026-09-01 — Oil extends its climb on the broadest US strike wave of the war; Brent ~$91-94, WTI ~$86.6
 

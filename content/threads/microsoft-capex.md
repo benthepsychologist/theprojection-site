@@ -3,7 +3,7 @@ title: Microsoft Capex
 lens: ai
 status: developing
 opened: 2026-07-23
-last_seen: 2026-09-01
+last_seen: 2026-09-03
 weight: 2
 entities:
 - microsoft
@@ -18,6 +18,10 @@ blurb: 'Earnings 07-29 is the near-term test — the "$97B TTM" figure is OUR ar
   OpenAI-vs-own split. Watch Wednesday: FY26 full-year capex, FY27 guide, any split
   disclosure.'
 ---
+
+## 2026-09-02 — Microsoft collapses three reporting segments into two — "Agents and Infra" and "Devices and Consumer" — and promises quarterly revenue for each key business
+
+- **Microsoft filed an 8-K at 16:30 ET on 09-02 announcing that from FY27 it will report two segments, "Agents and Infra" and "Devices and Consumer," replacing Productivity and Business Processes, Intelligent Cloud and More Personal Computing, with "full transparency of quarterly revenue across each of our key businesses" — Reuters' read: Azure revenue disclosed in dollars for the first time.** Satya Nadella's note frames it as AI "blurring the boundaries between our products and reshaping our business models"; the exhibit restates historical financials and adjusts the FY27 Q1 outlook to the new structure. For this thread the change matters because the capex-to-revenue question the map has asked of every hyperscaler print becomes answerable at the Azure line rather than inferred. ([Microsoft 8-K, Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/789019/000119312526380280/d291965dex991.htm), [8-K index](https://www.sec.gov/Archives/edgar/data/789019/000119312526380280/0001193125-26-380280-index.htm))
 
 ## 2026-08-10 — Microsoft reportedly books 300,000+ Maia 300 chips from TSMC
 

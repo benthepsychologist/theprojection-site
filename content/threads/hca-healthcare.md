@@ -3,7 +3,7 @@ title: HCA's AI Scale-Up
 lens: mental-health
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-01
+last_seen: 2026-09-03
 weight: 2
 entities:
 - hca-healthcare
@@ -19,6 +19,10 @@ blurb: 'Six named AI initiatives at real hospital-system scale (Timpani staffing
   probe (07-14 guidance cut, payer-mix driven) is confirmed unrelated to AI — track
   independently, don''t conflate.'
 ---
+
+## 2026-09-02 — HCA cuts 200+ IT and support jobs, offshoring some roles to Hyderabad
+
+- **HCA Healthcare eliminated more than 200 IT and support-function jobs on 2026-09-02, with some positions relocating to an offshore operation in Hyderabad, India.** The company cited the same $400 million payer-mix hit from federal exchange-subsidy changes already tracked on this thread's non-AI strand (the 07-14 guidance cut), and said it now expects the exchange-related impact to reach $1.0-1.2 billion for the year; this is HCA's second round of workforce cuts in 2026 after a smaller reduction in May. AI/Timpani/Palantir is not mentioned in any coverage found — this is confirmed continuation of the payer-mix strand this thread already tracks separately from the AI-labor story, not a new AI development. ([Nashville Banner](https://nashvillebanner.com/2026/09/02/hca-healthcare-layoffs-heat-advisory/), [WKRN](https://www.wkrn.com/news/local-news/nashville/hca-healthcare-layoffs/))
 
 ## 2026-08-27 — Nurses protested Palantir's Timpani system in eight US cities, HCA the named example
 

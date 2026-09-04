@@ -3,7 +3,7 @@ title: The Great Rotation
 lens: global-capital
 status: open
 opened: 2026-07-29
-last_seen: 2026-08-31
+last_seen: 2026-09-03
 weight: 2
 entities: []
 thread_kind: story
@@ -17,6 +17,12 @@ blurb: 'Analysts (Morgan Stanley, UBS, Forrester) are calling an explicit alloca
   policy) and from AI Bear Turn (the broader AI-stock drawdown) — this is specifically
   the reallocation call between the two cohorts.'
 ---
+
+## 2026-09-02 — Broadcom's Q3 AI revenue nearly triples and beats, but the stock falls on a guidance miss under 1%
+
+- **Broadcom's fiscal Q3 2026 AI semiconductor revenue hit $16.7bn, up 221% year-on-year and 54% sequentially, on total revenue of $29.6bn (+86% YoY) and adjusted EPS of $3.32 (+96% YoY) — a clean beat on every headline number.** Q4 guidance called for $34.8bn total revenue and $21.7bn AI revenue (+236% YoY), which came in just under 1% below the $35.03bn consensus — enough to drop the stock roughly 3% in Thursday trading despite Wednesday's beat, because "at this point the market expects exceptional" and the stock trades above a 60x P/E with little room for deceleration. This is exactly the dispersion this thread tracks: monetization-proven AI demand still getting punished the moment forward guidance falls short of an already-elevated bar, the same dynamic that hit Meta in July. A secondary risk flagged in the same coverage: Google's recent custom-chip deal with Marvell signals large customers diversifying away from single-vendor dependence on Broadcom.
+  ([Broadcom Inc. investor release](https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial), [Motley Fool](https://www.fool.com/investing/2026/09/02/broadcom-earnings-ai-chip-sales-tripled-here-s-the-usd34-8-billion-number-investors-need-to-watch/), [CNBC](https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html))
+- *Note for the main session: this print also resolves attention/upcoming.yaml's broadcom-q3-fy2026-earnings ledger entry, which is tagged to the [ASIC Tolls](/threads/custom-asic-tolls/) thread (not one of mine) — flagging so whichever sweep owns that thread doesn't duplicate, and so the main session can flip that ledger status.*
 
 ## 2026-08-31 — Nvidia recovers premarket while the broader tape falls on Iran and further Fed-hike repricing, a mild discriminator against Friday's selloff being mainly about Nvidia's own financing pullback
 

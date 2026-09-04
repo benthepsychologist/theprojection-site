@@ -3,7 +3,7 @@ title: Gaza War
 lens: world-news
 status: open
 opened: 2026-08-01
-last_seen: 2026-09-01
+last_seen: 2026-09-03
 weight: 3
 entities: []
 thread_kind: story
@@ -38,10 +38,18 @@ blurb: 'Opened on Ben''s steer 2026-08-01, after a disarmament framework announc
   still circulate; report both, resolve neither.'
 ---
 
+## 2026-09-03 — Ben-Gvir unveils a campaign plan to relocate 1.86 million Gazans over seven years
+
+- **National Security Minister Itamar Ben-Gvir unveiled "Disengagement 710," a plan proposing a dedicated Israeli government ministry to facilitate "voluntary emigration" of roughly 1.86 million Palestinians from Gaza over seven years (250,000 in year one, 1.11 million within three years), backed by an initial 10 billion NIS Israeli investment and a matching framework of up to 50 billion NIS contingent on international participation.** ⚠️ **This is a party campaign proposal, not government policy** — Ben-Gvir framed it as a top demand of his Otzma Yehudit party after the upcoming election, explicitly citing Trump's recent endorsement of emigration as a Gaza solution as having "legitimized" his previously fringe position. Directly bears on this thread's standing questions about whether the security-zone/governance track holds or the population itself becomes the target of policy.
+  ([Jerusalem Post](https://www.jpost.com/israel-election-2026/article-907523))
+
 ## 2026-09-01 — Israeli-backed militia raid captures Hamas's head of internal security; covering strikes kill at least three
 
 - **A named, distinct operation rather than the low-boil strike pattern this thread has been carrying: an Israeli-backed Palestinian militia raid in Gaza City captured Mu'in al-Arabid, identified as Hamas's head of its General Security Apparatus, and Israeli air cover for the raid's withdrawal killed at least three Palestinians (one woman and two children) with eight more injured.** Defense Minister Israel Katz confirmed the capture and said strikes were aimed to "remove threats to security forces." The raid was exposed mid-operation, triggering clashes; a higher death toll (up to 8) circulating via Hamas-linked sources is not independently confirmed here. Israel denied any of its own casualties despite a Gaza government media office claim that Israeli special-forces personnel were hit.
   ([Times of Israel](https://www.timesofisrael.com/idf-strikes-gaza-as-hamas-official-captured-in-reported-raid-by-israel-backed-militia-3-said-killed), [The National](https://www.thenationalnews.com/news/mena/2026/09/01/series-of-strikes-hit-gaza-amid-reports-of-commando-operation-and-clashes/), [Jerusalem Post](https://www.jpost.com/israel-news/defense-news/article-907213))
+
+- **Continuation, not escalation, of the pattern this thread tracks.** A girl, Israa Al-Hissi, was killed and two others wounded on 09-01 when Israeli forces operating east of Deir al-Balah opened fire — separate from, but the same day as, the Gaza City raid and capture already logged here. The next day (09-02), Israeli forces opened fire on tents housing displaced Palestinians in Jabalia town and a drone struck a gathering in the adjacent refugee camp, killing two more. ⚠️ **Palestinian medical-source casualty claims, not independently confirmed**, consistent with how this thread has logged every strike in the post-ceasefire window.
+  ([Al-Monitor](https://www.al-monitor.com/originals/2026/09/israeli-strikes-kill-five-gaza-military-says-it-arrests-hamas-militant), [Anadolu Agency](https://aa.com.tr/en/middle-east/israel-kills-2-palestinians-in-strikes-gunfire-in-gaza-despite-ceasefire/4044987))
 
 ## 2026-08-30 — Another strike on Deir al-Balah kills two, including a 3-year-old child
 

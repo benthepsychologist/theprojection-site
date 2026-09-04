@@ -3,7 +3,7 @@ title: CSAM Ads
 lens: mental-health
 status: open
 opened: 2026-08-06
-last_seen: 2026-08-29
+last_seen: 2026-09-03
 weight: 2
 entities:
 - meta-ai
@@ -16,6 +16,10 @@ blurb: 'Wired reported 2026-08-05 that Meta ran ads containing AI-generated chil
   a pattern question across ad platforms broadly, not just Meta; any parallel with
   the Grok/ Stability CSAM suits already tracked elsewhere on this map.'
 ---
+
+## 2026-09-03 — India's NHRC opens a formal inquiry into Meta over CSAM-linked Instagram ads
+
+- **India's National Human Rights Commission took cognisance of allegations that paid Instagram ads promoted child sexual abuse material, and on 2026-09-03 ordered point-wise reports within two weeks from the Ministry of Electronics and IT, the Ministry of Information and Broadcasting, and the Delhi Police Commissioner.** The complaint (filed by Namo Foundation) follows a BBC World Service report that ads using phrases like "rape video" and "child video" redirected users to messaging-app channels allegedly selling the material, and that the ads passed Meta's own ad-review systems and stayed up even after being reported through Meta's grievance channels, until BBC escalated it. NHRC's proceedings also directed the two ministries to examine whether Meta's use of AI/algorithmic systems takes it out of pure "intermediary" status into publisher-like liability under India's 2021 IT intermediary rules. This is the first instance on this map's record of any government regulator opening formal action on the Meta-CSAM-ads story — separate and so far more responsive than the still-unanswered Sen. Warner Senate letter (deadline passed silently 08-26) — and it directly answers this thread's stated watch ("whether regulators... open an inquiry"), just from an Indian rather than a US body, and via Instagram ads specifically rather than the original Wired story's ad-system finding. ([Deccan Chronicle](https://www.deccanchronicle.com/technology/nhrc-slams-meta-over-ad-algorithms-facilitating-child-sexual-abuse-material-access-1984603))
 
 ## 2026-08-29 — The grace period this map set expires with the silence unbroken
 

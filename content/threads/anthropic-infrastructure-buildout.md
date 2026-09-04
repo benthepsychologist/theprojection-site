@@ -3,7 +3,7 @@ title: Anthropic Rents the Buildout
 lens: ai
 status: open
 opened: 2026-08-11
-last_seen: 2026-08-26
+last_seen: 2026-08-31
 weight: 2
 entities:
 - anthropic
@@ -27,6 +27,10 @@ blurb: 'Anthropic has signed four large infrastructure arrangements in roughly t
   Read against ai-circular-financing-risk, which asks whether this money is circular
   — this thread asks a narrower question, who ends up holding the asset.'
 ---
+
+## 2026-08-31 — Anthropic signs a $35bn compute deal with Nvidia-backed Lambda, its sixth or seventh outside-cloud infrastructure arrangement in months
+
+- **Anthropic agreed to a $35bn multi-year computing deal with Lambda, a Nvidia-backed cloud provider, for roughly 350MW of GPU capacity at a data center in Nueces County, Texas being developed by Hut 8** — a bitcoin miner turned AI-infrastructure company — with Nvidia itself holding the underlying site lease, putting Nvidia in the position of both Lambda's investor and the GPU supplier for its own customer's customer. First reported by the Wall Street Journal and Bloomberg the evening of August 31. This fits the exact pattern this thread already tracks (rent-and-anchor rather than own, capex on someone else's balance sheet) alongside SpaceX, Volta, Riot, Theseus and Nscale, but it is not on the thread — checked the full timeline for "Lambda," "Hut 8," and "Nueces," no hits. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda), [TechRepublic](https://www.techrepublic.com/article/news-anthropic-lambda-35-billion-cloud-deal/))
 
 ## 2026-08-26 — A sixth counterparty, and a chip generation not yet shipped
 

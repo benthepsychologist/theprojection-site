@@ -3,7 +3,7 @@ title: AI Debt Gets Rated
 lens: global-capital
 status: open
 opened: 2026-08-11
-last_seen: 2026-08-21
+last_seen: 2026-09-04
 weight: 2
 entities:
 - nvidia
@@ -27,6 +27,20 @@ blurb: 'Whether AI-buildout debt is becoming its own underwritten, rated, public
   an infrastructure asset with a 20-year life or like equipment on a 3-4 year depreciation
   clock — the two produce very different recovery rates in a default.'
 ---
+
+## 2026-09-04 — ByteDance locks in a $29.6 billion unsecured loan, the year's second-largest Asian financing after SoftBank's, to fund AI buildout
+
+- **ByteDance secured a $29.6 billion syndicated loan from nearly 30 banks — Citigroup and JPMorgan coordinating, with Chinese, US, European and Singaporean lenders subscribing, Chinese banks taking over 60% of the total — after upsizing from an initial $20 billion target on more than $30 billion of investor demand.** The three-year facility (with options to extend two more years) is unsecured — ByteDance pledged no collateral. Officially "for general corporate purposes," sources say it mainly funds AI data-center investment in Southeast Asia, where ByteDance is the offtaker for capacity Bloomberg says maps to up to $70 billion of 2026 AI capex. This is the same debt-financed-buildout pattern this thread already tracks in SoftBank's $40 billion March raise and Anthropic's $15 billion credit facility (09-03), now with a Chinese hyperscaler on the same instrument type. ([Investing.com, relaying Reuters](https://www.investing.com/news/stock-market-news/bytedance-secures-296-billion-loan-in-ai-push-sources-say-4889439), [TechNode](https://technode.com/2026/09/04/bytedance-reportedly-lines-up-a-29-6-billion-syndicated-loan/))
+
+## 2026-09-02 — BOJ Governor Ueda hints at a September hike and the yen surges on intervention alert, a day after the 10-year JGB crossed 3%
+
+- **Bank of Japan Governor Kazuo Ueda said after the G20 finance meeting that the board would "decide on policy with upside price risks in mind" at its September 17-18 meeting, and markets read it as tacit acknowledgement of pricing that reached roughly 94% odds of a hike; board member Hajime Takata separately left a larger-than-25bp move open.** The yen, which sat at 160.1 per dollar on 09-01 with intervention odds rising, reversed sharply — Bloomberg has it surging "with traders on high alert for further intervention," Nikkei Asia has it briefly touching the low-158 level. This is the cross-border transmission leg this map's context file twice deferred: the largest foreign holder of Treasuries hardening toward a hike while its own long end sits at a 30-year high. ⚠️ Dated 09-02 and available all day; it sat in this map's own collector buffer 108 times under the four watchlist terms added on 09-01, and was not read until the 09-03 finalize. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-02/boj-s-ueda-to-decide-on-policy-with-upside-price-risks-in-mind), [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-02/yen-surges-with-traders-on-high-alert-for-further-intervention), [Nikkei Asia](https://asia.nikkei.com/business/markets/currencies/yen-surges-to-briefly-touch-low-158-level-as-intervention-concerns-linger))
+
+## 2026-09-01 — Japan's 10-year JGB crosses 3% for the first time since 1996, and the US Treasury Secretary publicly presses Tokyo to hike
+
+- **Japan's 10-year government bond yield crossed 3% on 09-01, its first time above that line since 1996, while US Treasury Secretary Scott Bessent went on CNBC to press Tokyo and the Bank of Japan publicly for rate hikes.** Reporting on the exchange flagged the specific transmission risk: Japan is the largest foreign holder of US Treasurys, and a yen-defence intervention funded by selling them would push US long-end yields the same direction this thread already tracks domestically. This is the escalation of the cross-border leg this thread first recorded on 08-19, when a JGB push toward its highest yield since 1996 took SoftBank, Kioxia, Arm and Tokyo Electron down together in one Tokyo session — the mechanism is the same, the yield has now actually crossed, and a US cabinet officer is now an actor in it rather than an observer. attention/capital-context.yaml has twice flagged its own reading as "almost entirely US-Fed-framed" with a proper BOJ/JGB leg deferred to a /week-scale addition; this is that deferral coming due.
+  ([CNBC, "Japanese borrowing costs hit 30-year high as Bessent says Tokyo may intervene to boost yen," 2026-09-01](https://www.cnbc.com/2026/09/01/japan-bonds-yen-intervention-bessent.html))
+  <!-- Surfaced by the global-capital coverage critic, 2026-09-02, looking past its benchmark set rather than from the benchmarks themselves (all four were dark, paywalled or structurally unauditable for a past date). Recorded as a NEW DEVELOPMENT ON AN EXISTING STRAND, not a wholly-missing story: the critic's own report is precise about this (its grep found the 08-19 entry, "before the 3% threshold was crossed"), and the distinction is kept here deliberately. -->
 
 ## 2026-08-21 — Broadcom's SPV goes to the debt market for $70-80bn to build Anthropic's chips
 

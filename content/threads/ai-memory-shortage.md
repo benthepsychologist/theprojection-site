@@ -3,7 +3,7 @@ title: Memory Squeeze
 lens: ai
 status: developing
 opened: 2026-06-27
-last_seen: 2026-08-31
+last_seen: 2026-09-01
 weight: 2
 entities:
 - samsung
@@ -21,6 +21,10 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   push (charging ABOVE Samsung; new modules with no price relief; DoD ban overhang),
   and who blinks first on capex.'
 ---
+
+## 2026-09-01 — Counterpoint Research: CXMT crosses 10% of global DRAM revenue share, first double-digit quarter for a Chinese DRAM maker
+
+- ⚠️ **OUT OF WINDOW (Counterpoint's own report is dated 2026-09-01, two days before this sweep's window opens) — flagged because it is not recorded on this thread or on [CXMT IPO](/threads/cxmt-memory-ipo/), it speaks directly to this thread's own watch line ("Samsung/SK Hynix/Micron expansion responses, CXMT's state-funded push... and who blinks first on capex"), and press coverage of it landed squarely inside my W1 window (TechNode published 09-04, Seoul Economic Daily's piece is timestamped 2026-09-04T07:00 KST = 2026-09-03T18:00 ET).** **CXMT's global DRAM market share by revenue hit 10% in Q2 2026, up from 4% a year earlier and 8% in Q1 2026** — Counterpoint's own page gives Samsung 38%, SK Hynix 25%, Micron 24%, CXMT 10%, with the top three's combined share falling from 94% (Q2 2025) to 87% (Q2 2026). Coverage frames the milestone as roughly two years ahead of Counterpoint's and UBS's own earlier projection that CXMT would not reach 10% shipment share until 2028. The mechanism named across outlets: Samsung and SK Hynix are pivoting DRAM capacity toward HBM (SK Hynix held 50% HBM share, Samsung's HBM share rose from 21% to 33% the same quarter) opening a conventional-DRAM vacancy CXMT is filling. ([Counterpoint Research](https://counterpointresearch.com/en/insights/global-dram-and-hbm-market-share), [TechNode](https://technode.com/2026/09/04/changxin-memory-reaches-10-of-global-dram-market-in-q2/), [Seoul Economic Daily](https://en.sedaily.com/finance/2026/09/04/cxmt-hits-10-percent-dram-share-pushing-korea-toward-hbm4))
 
 ## 2026-08-31 — CXMT's Q2 gross margin beats Micron and SK Hynix; it also starts mass-producing LPDDR6 first, worldwide
 

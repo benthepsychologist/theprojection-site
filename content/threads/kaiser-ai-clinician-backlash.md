@@ -3,7 +3,7 @@ title: Kaiser vs. AI
 lens: mental-health
 status: open
 opened: 2026-07-22
-last_seen: 2026-08-30
+last_seen: 2026-09-01
 weight: 2
 entities:
 - kaiser-permanente
@@ -17,6 +17,13 @@ blurb: 'A two-year escalation over two specific systems (the E-Visit auto-triage
   question); second-strike risk; whether other systems face the same (Kaiser Hawaii
   shows the template).'
 ---
+
+## 2026-09-01 — A second, much larger Kaiser union takes AI-staffing language to the picket line
+
+- **California Nurses Association/National Nurses United — the 25,000-nurse general-RN union at Kaiser, distinct from the ~2,400-clinician NUHW mental-health bargaining unit this thread has tracked since March — held informational pickets at 22 Kaiser hospitals across California on 2026-09-01, demanding contract language requiring new technologies be "tested, regulated, and subject to nurse input" before deployment, alongside safe-staffing demands.** Hospitals included Oakland, San Francisco, Santa Clara, San Jose, Walnut Creek, Fremont, Redwood City, Sacramento, Fresno, Los Angeles, and eleven more. CNA/NNU is in early-stage bargaining, separate from NUHW's; a Kaiser spokesperson said its technology is meant to "support nurses rather than replace their clinical judgment" and that these principles are "already written into" its CNA contract — a claim not yet tested by anything in this round. This widens the "whether other health systems/unions face the same" watch line to a second bargaining unit inside Kaiser itself, an order of magnitude larger than NUHW's, applying pressure "early in the bargaining process, before staffing and AI protections are settled" per NNU's own framing.
+  ([National Nurses United](https://www.nationalnursesunited.org/press/kaiser-nurses-to-hold-informational-pickets-at-22-california-hospitals), [KRON4](https://www.kron4.com/news/bay-area/kaiser-nurses-picket-over-staffing-ai-concerns/))
+
+- **San Francisco's Board of Supervisors unanimously adopted a resolution on 2026-09-01 calling on Kaiser Permanente to withdraw its "Terrible Three" contract demands and negotiate in good faith**, escalating past July's procedural "heard and filed" hearing into a formal, on-the-record city position. Supervisor Chyanne Chen, who introduced it, said "how we're taking care of our patients and workers, especially with emerging technology, is more important now than ever"; NUHW President Emeritus Sal Rosselli said "Kaiser officials should be eager to work with their clinicians to improve services, but instead they want to sideline them." Kaiser told KALW it "does not use AI to make clinical decisions or replace licensed clinicians," while the same article reports therapists already seeing AI in triage practice. No mediation dates have been scheduled since four days of talks in August ended without progress. ⚠️ Out of window — the vote happened 09-01, before this run's W1 (2026-09-03 15:30 ET) begins — but it directly resolves an item the 09-03 digest explicitly flagged as "seen in the buffer, not resolved to a citable source this run — to verify next run": this is that verification, now primary-sourced. ([NUHW](https://home.nuhw.org/2026/09/02/san-francisco-passes-resolution-opposing-kaiser-contract-demands/), [KALW](https://www.kalw.org/bay-area-news/2026-09-02/sf-supervisors-push-back-on-kaisers-use-of-ai-in-mental-health-care))
 
 ## 2026-08-30 — AB 2575's second attempt needs a second reading first, and that hasn't happened yet either
 

@@ -3,7 +3,7 @@ title: AI vs Care
 lens: mental-health
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-29
+last_seen: 2026-09-03
 weight: 3
 entities: []
 thread_kind: story
@@ -14,6 +14,10 @@ blurb: 'Budget 2025 put $925.6M+ into AI infrastructure the same cycle multiple 
   audit, Santé Québec''s pilot. Track: the 2027 cliff''s political arc, any replacement
   framework, provincial AI-health procurement vs MH service funding.'
 ---
+
+## 2026-09-03 — CMHA puts dollar figures on the province-level stakes of the 2027 funding cliff
+
+- **The Canadian Mental Health Association put concrete numbers on the "2027 cliff" this thread already tracks: the federal bilateral health agreements (established 2017, ~$11B total, ~$5B of it mental-health-specific) lapse 2027-03-31 with no renewal committed, and Alberta alone stands to lose roughly $285M/year that funds mobile crisis teams, school mental-health programs and CBT treatment.** CMHA VP of Policy Sarah Kennell said Canada's mental-health spend, even with this funding, is "far from what our G7 and OECD peers spend on mental health, which is closer to 12 to 13 per cent [of health budgets]"; CMHA Alberta CEO Mara Grunau said without renewal, "a lot of community programming would be sunsetted, I imagine." No federal response is quoted. This doesn't touch the AI-infrastructure side of the asymmetry this thread tracks, but it's the first time an actual delivery organization (rather than premiers or generic coverage) has attached real dollar figures and named programs to what "unrenewed" would mean on the ground. ([Red Deer Advocate / Great West syndication](https://reddeeradvocate.com/2026/09/03/cmha-warns-community-mental-health-programs-at-risk-without-new-federal-deal/))
 
 ## 2026-08-25 (added 2026-08-29) — A think tank names the actual structural barrier on the AI-procurement side: 13 jurisdictions, not funding
 

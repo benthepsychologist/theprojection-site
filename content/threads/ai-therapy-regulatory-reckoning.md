@@ -3,7 +3,7 @@ title: The Reckoning
 lens: mental-health
 status: developing
 opened: 2026-06-28
-last_seen: 2026-09-01
+last_seen: 2026-09-03
 weight: 3
 entities:
 - character-ai
@@ -17,6 +17,15 @@ blurb: 'The capability/approval gap for AI mental-health chatbots is being close
   real regulatory pathway (FDA/MHRA), case outcomes, and any big-tech health-arm move
   into the vacuum. Ben''s sharpest edge — the evidence-gap thesis playing out live.'
 ---
+
+## 2026-09-02 — New lawsuits say OpenAI could have prevented the Tumbler Ridge school shooting by alerting police to the shooter's ChatGPT messages
+
+- **Multiple lawsuits filed 09-02 claim OpenAI could have prevented the February 2026 mass shooting at Tumbler Ridge Secondary School in British Columbia by informing law enforcement about the suspected shooter's messages with ChatGPT, and that the company's leadership prioritized reputation management over intervening.** The filings name CEO Sam Altman and communications chief Chris Lehane. This is a mass-casualty entry on the wrongful-harm docket this thread has tracked since it passed ten suits on 07-01 — a "withheld a warning" theory rather than the individual self-harm theory the earlier cases rest on. Broke across Bloomberg, WSJ, NPR and Bloomberg Law between 12:12 and 14:59 UTC, well inside the 09-02 digest window; this map's own collector caught it six times and it went uncurated until the finalize. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-02/openai-faces-new-lawsuits-linked-to-shooting-at-canadian-school), [NPR](https://www.npr.org/2026/09/02/nx-s1-openai-lawsuits-canadian-mass-shooting), [WSJ](https://www.wsj.com/tech/ai/openai-lawsuits-canadian-school-shooting))
+
+## 2026-09-01 — California AB 1979 is formally enrolled, one step from the Governor's desk
+
+- **AB 1979 (Bonta) — which brings consumer health chatbots under the Confidentiality of Medical Information Act and bars clinical decisions from being made on AI output alone without human review — was formally Enrolled on 2026-09-01**, per the bill's own status page. Enrollment means the final text has been printed and certified: the step immediately before presentment to Governor Newsom. That puts it one stage ahead of the three bills this thread has been counting down — SB 903, SB 1119 and AB 2575 all remain at "ordered to engrossing and enrolling" as of a direct check this afternoon, with no signature, veto or presentment on any of the four. ⚠️ Dated 09-01, caught on the 09-02 afternoon sweep.
+  ([AB 1979 bill status, California Legislature](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1979))
 
 ## 2026-08-31 — AB 2575 clears the California Legislature on the second try, on the last day of the session
 

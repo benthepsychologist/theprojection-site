@@ -3,7 +3,7 @@ title: Grok
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-15
+last_seen: 2026-09-03
 weight: 2
 entities:
 - spacex
@@ -18,6 +18,15 @@ blurb: 'The Grok line closing the frontier gap as a FAST FOLLOWER, not mid-pack 
   amid Musk hype), the $60B Cursor bet arming coding, and whether owning the mines
   sustains a lead vs. OpenAI/Anthropic.'
 ---
+
+## 2026-09-03 — xAI expands Grok Bot from beta to a dedicated Enterprise tier with a two-week free trial
+
+- **xAI moved Grok Bot — the always-on, persistent cloud-agent product this thread has tracked in beta since 08-11/08-12 — into a dedicated enterprise offering, with a two-week free trial for Grok and Cursor Enterprise customers that lets companies onboard their whole workforce, including staff without existing accounts.** xAI's own announcement frames it as governance-focused: access, network and audit controls "to govern Bots at scale." Grok Bot is now bundled into SuperGrok, Cursor Pro and Cursor Teams plans broadly, not just the higher SuperGrok Heavy/Cursor Ultra tiers the beta required, and xAI says thousands of organizations (including Legora, Supermicro and ServiceTitan) have adopted it since the beta. Note xAI's own site now brands itself "SpaceXAI." ([xAI](https://x.ai/news/grok-bot-for-enterprise))
+
+## 2026-09-02 — Musk commits to a firm ship date for Grok 4.7 — September 12, 2.1T parameters
+
+- **Elon Musk posted on X that "Grok 4.7 comes out in 10 days," putting a specific calendar date (September 12) on a model whose ship date this map's own dated expectation has tracked only as a moving "3-4 weeks" window since 08-18.** He described it as 2.1T parameters (up from Grok 4.6's 1.5T, a ~40% increase), trained in part on SpaceX's own engineering corpus, "better than 4.6 in every way except slightly slower to serve," and predicted it would "surpass all models" — the same hype register the thread's own watch line already flags. This is the first time a specific day, rather than a week-range, has attached to Grok 4.7.
+  ([Elon Musk on X](https://x.com/elonmusk/status/2094983639780204846), [NextBigFuture](https://www.nextbigfuture.com/2026/09/spacexai-grok-4-7-releases-september-12.html), [BiGGo Finance](https://finance.biggo.com/news/cdeb763e-3e82-4f0b-82bd-4f473881bf08))
 
 ## 2026-08-15 — Nvidia's own books show the xAI bet converted into a $21B SpaceX stake
 

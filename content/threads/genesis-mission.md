@@ -3,7 +3,7 @@ title: Genesis Mission
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-30
+last_seen: 2026-09-03
 weight: 2
 entities: []
 thread_kind: story
@@ -13,6 +13,10 @@ blurb: 'The $5B+ cross-agency AI overlay (DOE-led; spans NSF/NIH/DoD/NASA — $5
   actual program document. Track: the authorizing instrument, per-agency allocations,
   and whether it becomes the umbrella for nuclear-for-AI money.'
 ---
+
+## 2026-09-03 — DOE opens community input on a proposed Genesis Mission PhD Fellowship, a new program element not previously on this thread
+
+- ⚠️ **Out of window** (published 12:08 ET, roughly 3 hours before W1 opens at 15:30 ET) but a genuine, primary-sourced addition — the DOE Office of Science announced it will hold a virtual town hall September 24, 2026 to gather input on an "anticipated Genesis Mission Graduate Fellowship Pilot": 4-year PhD pathways combining "AI + discipline" dual-competency research with placements at a DOE National Laboratory and in industry. No funding figure, no launch date, and no relationship yet stated to the existing 278-award tranche or the Genesis Open Models program already on this thread — this is a planning-stage input request, not a new award. (via [HPCwire, republishing the DOE release](https://www.hpcwire.com/off-the-wire/doe-invites-community-input-on-genesis-mission-phd-fellowship-pilot/))
 
 ## 2026-08-18 — A second named private-sector Prometheus participant discloses its role
 

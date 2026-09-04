@@ -3,7 +3,7 @@ title: Musk Megacap
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-30
+last_seen: 2026-09-03
 weight: 1
 entities:
 - spacex
@@ -19,6 +19,10 @@ blurb: 'SpaceX (Nasdaq: SPCX) — the public parent holding xAI + X (crawl 2026-
   Watch: the Aug-6 lock-up (911.5M shares); Musk''s ~82% voting control; whether the
   Anthropic lease-back is real revenue or circular financing. Q7 material.'
 ---
+
+## 2026-09-01 — SpaceX shakes up AI data-center leadership after reliability failures at Tennessee/Mississippi sites
+
+- ⚠️ **OUT OF WINDOW (first reported 2026-09-01 by The Information, syndicated 09-01/09-02) — flagged because it is not recorded on this thread and materially bears on the Colossus/xAI buildout the thread tracks.** SpaceX reportedly overhauled leadership of its SpaceXAI data-center unit after facilities on the Tennessee-Mississippi border (the Colossus and "Macrohard" clusters, spanning Memphis and Southaven) ran for months without backup cooling or power, pulling uptime below the company's internal 99.9% target and interrupting AI-model training. Physical-infrastructure lead Jake Palmer left in late July along with data-center leaders Zach Wells and Pablo Mendoza (plus reported departures to OpenAI and Anthropic); Starlink engineering veteran Michael Nicolls, installed as SpaceXAI president in April, now has "ultimate oversight" of the turnaround, with rocket-production and Starbase executives (Wesley Salandro, Logan McConnell) reassigned in. Some coverage ties the timing to a September 30 capacity deadline under Google's compute deal, though I could not independently verify that specific linkage beyond the one outlet reporting it. ([BigGo Finance](https://finance.biggo.com/news/598184df-1a3e-4b4f-81e0-0f0a0d9f4bab), [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/spcx-stock-focus-spacex-reportedly-172343782.html))
 
 ## 2026-08-25 — SpaceX commits $100B to a new Louisiana "Starbase" spaceport, testing the capex-vs-cash-flow question directly
 

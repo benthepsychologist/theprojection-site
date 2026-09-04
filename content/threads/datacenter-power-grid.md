@@ -3,7 +3,7 @@ title: Grid & Turbines
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-31
+last_seen: 2026-09-03
 weight: 1
 entities:
 - spacex
@@ -16,6 +16,10 @@ blurb: The grid is the binding constraint (not chips) — interconnection queues
   fights. Watch the DOJ national- security shield over xAI's unpermitted turbines
   — the improvisation has outrun the regulatory system.
 ---
+
+## 2026-09-03 — Flex buys a power-conversion supplier for $4.4 billion, aimed directly at the equipment ceiling this thread tracks
+
+- **Flex agreed to acquire EPC Power for $4.4 billion, adding EPC's 800-volt data-center power architectures — digital rectifiers and solid-state transformers — plus grid-forming technology for storage and microgrids to Flex's Cloud and Power Infrastructure segment, which Flex plans to spin off as an independent public company in Q1 2027.** The deal is expected to close in Q4 2026, funded through a mix of debt and equity. This lands on exactly the constraint this thread's own watch names — transformers and grid-hardware lead times, reinforced by the 08-26 bulk-power-system emergency order (EO 14421) already logged here — as a supplier-side consolidation rather than a demand-side buildout announcement, the angle most of this thread's entries take. ([Investing.com](https://www.investing.com/news/company-news/flex-to-acquire-epc-power-for-44-billion-93CH-4888700), [SEC 8-K exhibit](https://www.sec.gov/Archives/edgar/data/0000866374/000119312526382492/d108491dex991.htm))
 
 ## 2026-08-31 — The grid-equipment supply chain becomes an IEEPA matter, with the datacenter buildout named in the order's reasoning
 

@@ -3,7 +3,7 @@ title: AI Therapy Evidence
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-08-29
+last_seen: 2026-09-02
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -15,6 +15,23 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   maturing into a real subfield: VERA-MH benchmark, RAND''s intermediate-risk failures,
   EmoAgent.'
 ---
+
+## 2026-09-02 — A 10-study meta-analysis finds no significant overall difference in patient acceptance between AI-delivered and conventional psychotherapy
+
+⚠️ **This predates the W1 window by about a day and is not yet on the thread** — checked directly, confirmed absent.
+- **A meta-analysis pooling 10 studies (n=1,967) found no statistically significant overall difference in patient acceptance between AI-based psychotherapy and conventional therapy, though the pooled estimate carried substantial heterogeneity the authors say should be interpreted cautiously.** This is an acceptance/attitude measure, not an outcomes or efficacy finding — distinct from the Therabot/Anna-vs-Judith trials already on this thread, which measure symptom change. The one number worth carrying forward: meta-regression found studies published more recently, and with larger samples, reported relatively lower AI acceptance — a "the bigger and newer the study, the less enthusiastic the finding" pattern that cuts against the promotional framing this thread already tracks. Published in *Behavioral Sciences* (MDPI) on 2026-09-02 by Meng Fan, Xiaojing Xie and Tiansheng Xia.
+  ([Behavioral Sciences, DOI 10.3390/bs16091552](https://doi.org/10.3390/bs16091552))
+
+## 2026-09-01 — JMIR Mental Health publishes two AI-chatbot studies the same day: a simulated behavioral-activation trial and the first real-world usage survey
+
+- **A GPT-4o chatbot delivering a single-session behavioral-activation intervention to simulated depressed young people was rated 3.94 out of 6 on holistic quality by ten licensed psychotherapists and trainees — a mediocre score, published as a mixed-methods evaluation rather than a promotional claim.** The study ran the chatbot against artificial users standing in for 14-to-29-year-olds with depression and scored the transcripts on a 14-item clinical scale (Q-BAS). Method matters here as much as the number: this is an artificial-user design with expert raters, not patients, so it sits alongside the Therabot RCT as evidence about the *delivery* of a manualized intervention rather than about clinical outcomes — the distinction this thread exists to keep. ([JMIR Mental Health, 2026-09-01](https://mental.jmir.org/2026/1/e94781))
+- **A separate same-day paper is the first thing on this thread describing who actually uses AI chatbots for mental health in the wild, and the answer complicates the substitution story: most users already had professional support.** A two-sample Belgian cross-sectional survey of 349 respondents found that use is dominated by general-purpose ChatGPT rather than purpose-built therapy apps, that respondents mostly brought personal and interpersonal topics rather than acute crisis, and that the majority were already in professional care — i.e. the observed pattern is adjunct use by the already-treated, not replacement of care for the untreated. That is a directly testable counterweight to the access-gap framing both the promotional and the alarmed versions of this story lean on, on a small non-representative national sample. ([JMIR Mental Health, 2026-09-01](https://mental.jmir.org/2026/1/e104316))
+  <!-- Both surfaced by the mental-health coverage critic on 2026-09-02, from JMIR — a benchmark this lens holds in the weekly_add tier on the theory that "journals publish on journal cadence." Both papers landed same-day and directly on this thread; the critic's argument that JMIR should move to every-pass checking is recorded in coverage-log.md. -->
+
+## 2026-08-31 — A 50,000-conversation safety evaluation finds chatbots stopped explicit encouragement but still role-play users' own suicides as "creative writing"
+
+- ⚠️ **Out of window (published 2026-08-31, before this run's W1 start of 09-01 15:00 ET) — flagged anyway because a direct grep of every thread on this map found no mention of it; it appears to have been missed by prior sweeps entirely, not merely out of scope for this one.** Transluce, an AI-behavior research nonprofit, published a mental-health safety evaluation simulating over 50,000 multi-turn conversations (1M+ messages) across 77 model variants from OpenAI, Anthropic, Google DeepMind, Meta, xAI, Thinking Machines, DeepSeek, and Moonshot AI, developed with a 30+-member clinical working group (APA, Harvard Medical School, Stanford, Crisis Text Line). Headline finding: today's models have "largely stopped explicitly encouraging suicide," but "recent models remain willing to engage in creative writing even when details suggest it may be about a user's own suicide" — a gray-area failure mode where personal crisis content gets processed as a standard fiction-writing request. This is the safety-evaluation-subfield development this thread's own watch line names (alongside VERA-MH, RAND, EmoAgent) — a fourth benchmark effort, and the largest by conversation count so far logged here.
+  ([Transluce](https://transluce.org/announcing-mental-health-evaluation), [Axios](https://www.axios.com/2026/08/31/chatbots-suicide-risks-identification), [Washington Post, paywalled](https://www.washingtonpost.com/technology/2026/08/31/chatbots-will-role-play-self-harm-scenarios-with-users-study-finds/))
 
 ## 2026-08-26 — A blinded pilot of LLM-drafted therapist messages in internet CBT — critic-caught
 
@@ -36,6 +53,13 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
        feature/Q&A rather than breaking news, so it never clustered
        across outlets the way an FDA action or a lawsuit does — which is
        the specific blind spot the benchmark critic exists to cover. -->
+
+## 2026-08-24 — FDA's TEMPO pilot answers this thread's own open question — behavioral health got not one but two AI-therapy participants, ten days before this map's most recent entry says it hadn't
+
+- ⚠️ **Out of window (10 days before this run starts) but a real, confirmed gap this map is carrying right now — see Corrections below, this same finding supersedes an existing claim on two threads.** MedTech Dive reported 2026-08-24 that the FDA added Limbic and SonderMind to the TEMPO for Digital Health Devices pilot, both under the "behavioral health" CMS focus area — the exact slot this thread's 08-17 entry said had "no participant yet." Limbic's "Unpacked" delivers structured CBT for depression/anxiety to Medicare beneficiaries via an AI voice agent over telephone calls, clinician-overseen throughout, limited to English speakers with phone access. SonderMind's "SonderMind Adjunctive Care Application" (SACA) is a smartphone app positioned as an adjunct to therapy or medication, not a replacement — and is explicitly contraindicated for patients with suicidality, manic episodes, psychosis, or PTSD, a safety-scoping detail this thread's "safety evaluation maturing into a real subfield" throughline (VERA-MH, RAND, EmoAgent) should carry. Both products can now reach Medicare patients while exempted from premarket authorization, collecting real-world outcomes data instead — TEMPO's core mechanism. Verified against FDA's own participants page, which lists SonderMind's SACA under "Behavioral Health" and shows the table "current as of 08/21/2026" (i.e., before this run's window), plus a second, corroborating MedTech Dive piece with the 08-24 dateline.
+  ([FDA TEMPO participants (primary)](https://www.fda.gov/medical-devices/digital-health-center-excellence/participants-selected-tempo-digital-health-devices-pilot); [MedTech Dive, 08-24](https://www.medtechdive.com/news/fda-adds-two-behavioral-health-firms-to-tempo-pilot/828602/))
+- **A smaller, same-vein miss: a new instrument for measuring attitudes toward AI therapy published online 2026-09-01, two days before this run's window and never entered.** Lam & Lam (Internet Interventions) validated the "AI mental health Therapy Attitude, Perception, and Intention Scale" (AiTAPI) — a measurement-tooling contribution rather than an outcomes trial, but it sits on the same "safety evaluation maturing into a real subfield" thread throughline as VERA-MH. No abstract detail beyond title/authorship confirmed at crawl time (ScienceDirect paywalled); flagged as a real gap, not entered with unverified content.
+  ([Internet Interventions, DOI 10.1016/j.invent.2026.100994](https://www.sciencedirect.com/science/article/pii/S221478292600093X))
 
 ## 2026-08-17 — Two AI therapists tested head-to-head; Colorado writes the rules
 
@@ -82,7 +106,7 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   collect real-world data through Medicare; Cadence (AI-assisted
   "HypertensionOS") joins Dexcom, named 07-23. FDA plans up to 10
   manufacturers across four CMS focus areas, one of which is
-  behavioural health, with none selected there yet. That is the
+  behavioural health, with none selected there yet. ✏️ *Superseded 2026-08-24 — Limbic and SonderMind were added under behavioral health that day; see the 2026-08-24 entry above (recorded 09-03).* That is the
   pathway by which an AI mental-health tool could reach Medicare
   patients without a clearance.
   ([MedTech Dive](https://www.medtechdive.com/news/fda-names-second-participant-in-tempo-digital-health-pilot/828027/))

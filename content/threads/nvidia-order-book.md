@@ -3,7 +3,7 @@ title: Nvidia's Order Book
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-28
+last_seen: 2026-09-03
 weight: 2
 entities:
 - nvidia
@@ -16,6 +16,16 @@ blurb: The demand side of the chip spend — a ~$1T Blackwell+Rubin book (a mana
   has shifted to supply (HBM4). Watch the per- customer concentration and the circular-financing
   stakes (Nvidia's 10-Q investments in its own buyers).
 ---
+
+## 2026-09-03 — The deal closes the arc this thread tracked since 08-26 — and the confirmed total is lower than the rumor this thread carried on 09-01
+
+- **Nvidia's own 8-K puts the total deal value at $12.93bn ($11.9bn to stockholders + up to $1.0bn employee retention) — resolving this thread's 08-26 "agreed" report and its 09-01 update, and correcting the ~$14bn total the 09-01 entry carried.** The 09-01 entry (sourced to Bloomberg) read the reported $12.9B figure as the base price with a rumored $1B retention package layered on top, putting the total at "~$14B." The primary filing shows the two instruments actually sum to $12.93bn, not ~$14bn — the earlier escalation did not hold up against Nvidia's own disclosed structure. See the correction below.
+  ([SEC EDGAR 8-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm), [TechCrunch](https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/))
+
+## 2026-09-01 — Bloomberg reports the Hugging Face deal could close this week at a higher total value
+
+- **Bloomberg reported Tuesday evening that Nvidia is nearing a roughly $14B acquisition of Hugging Face, with the agreement possibly reached "as soon as this week."** This updates, rather than repeats, the 08-27 entry already on this thread ("agreed... still unconfirmed" at ~$12.9B): the reported base price is unchanged at $12.9B, but the total is now put at ~$14B once a reported $1B employee-retention package is included, and the timeline has moved from an open-ended "agreed" to a specific "this week." Both companies again declined to comment; no final agreement is confirmed by either side, and terms/timing could still change. This is a demand-side/ecosystem move (what Nvidia is buying, not what it's selling), but the thread has carried it since 08-26 for the same reason it's flagged again here: the store of open-source models Nvidia would own bears on how "the order book" gets filled downstream.
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-02/nvidia-nears-14-billion-hugging-face-deal-this-week), [Investing.com syndication, timestamped 2026-09-01 8:56 PM](https://www.investing.com/news/stock-market-news/nvidia-could-seal-14-bln-hugging-face-deal-this-week-bloomberg-reports-4885231), [Seeking Alpha](https://seekingalpha.com/news/4639264-nvidia-nears-14b-hugging-face-deal-with-1b-employee-retention-package---reprot))
 
 ## 2026-08-27 — The guide is $108.0bn, and that is the number the tape traded
 

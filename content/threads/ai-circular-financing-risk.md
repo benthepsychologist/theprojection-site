@@ -3,7 +3,7 @@ title: Circular Financing
 lens: ai
 status: developing
 opened: 2026-06-28
-last_seen: 2026-09-01
+last_seen: 2026-08-31
 weight: 3
 entities:
 - nvidia
@@ -29,6 +29,9 @@ blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops wh
 
 - **Anthropic agreed to a $35bn cloud-computing deal with Lambda, a cloud provider Nvidia has invested in, for capacity at a Texas data center (Nueces County, developed by former bitcoin miner Hut 8) where Nvidia itself secured the space and holds the lease** — Lambda installs Nvidia chips there to serve Anthropic. Reported 08-31 at 7:42pm ET, this is Anthropic's second such deal this month after a $45bn agreement with Nscale, another Nvidia-backed cloud provider, as it works through a compute shortage. The structure adds a fourth named entity (after AMD, Nvidia and OpenAI/Oracle) to this thread's loop: Nvidia supplies chips, invests in the cloud middleman, and now holds real estate in the chain serving a lab it has no direct equity stake in. Neither Anthropic nor Lambda has officially confirmed the deal; it comes via WSJ, corroborated by Reuters and Bloomberg.
   ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda?srnd=homepage-americas), [Investing.com, WSJ-sourced](https://www.investing.com/news/stock-market-news/anthropic-signs-35-billion-cloud-deal-with-nvidiabacked-lambda-wsj-reports-93CH-4883381))
+
+- ⚠️ **OUT OF WINDOW (Bloomberg interview, 2026-08-31 — before this run's 09-03 15:30 ET start) but flagged because a grep of artifacts/threads/ai-circular-financing-risk.md and artifacts/threads/nvidia-vendor-financing.md for "not circular," "obviously they do their own business," "Rick Tsai" and "Ed Ludlow" returns nothing — this is a genuine gap in this map's coverage of the deal it exists to interrogate, not a re-report.** Speaking alongside MediaTek CEO Rick Tsai in a Bloomberg interview with Ed Ludlow, Huang addressed Nvidia's $3.5bn MediaTek convertible-bond investment directly: **"This is not circular because obviously they do their own business and we do our own business, and MediaTek is already incredibly profitable, incredibly successful."** His distinction — MediaTek is a 29-year-old, independently profitable chipmaker with non-AI revenue (smartphones, TVs, automotive), unlike a startup whose entire budget depends on Nvidia's own spending — is the first on-record company defense against the circular-financing framing this thread and [Nvidia as Lender](/threads/nvidia-vendor-financing/) both track, and is worth having on file regardless of which side of the argument it lands on.
+  ([Yahoo Finance, quoting the Bloomberg interview](https://finance.yahoo.com/markets/stocks/articles/nvidia-ceo-jensen-huang-says-170607027.html))
 
 ## 2026-08-28 (added 2026-08-29) — The vendor pulls back from part of the loop voluntarily, not because a customer failed
 

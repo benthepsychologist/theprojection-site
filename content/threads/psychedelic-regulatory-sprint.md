@@ -3,7 +3,7 @@ title: Psychedelic Sprint
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-08-14
+last_seen: 2026-09-03
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -15,6 +15,11 @@ blurb: 'Psilocybin racing toward first-ever US approval (Compass NDA targeted Q4
   the accelerating trials share. The live question: is approval outrunning the methodology
   fix?'
 ---
+
+## 2026-09-03 — UCSF posts results from a 12-patient Phase 2 psilocybin trial for depression and anxiety in Parkinson's disease
+
+- **A UCSF-led Phase 2 trial (NCT04932434, PI Joshua Woolley) posted results on ClinicalTrials.gov on 2026-09-03 showing psilocybin therapy was safe and well-tolerated in 12 people with Parkinson's disease and comorbid depression/anxiety, with zero deaths and zero serious adverse events across a 90-day safety window following one or two monitored psilocybin doses.** This is a small, open-label, single-arm, no-comparator trial — its stated purpose was safety, tolerability and feasibility, not efficacy, and it should not be read as an effect-size result. The most common adverse events during dosing sessions were anxiety and nausea (11/12 each), headache (8/12) and elevated blood pressure (9/12); one participant reported suicidal ideation as an adverse event. Parkinson's motor-symptom severity (MDS-UPDRS) trended down rather than up across follow-up (56.5 at day 7 → 49.9 at 30 days post-second-dose), a reassurance signal on the specific worry that psychedelics could destabilize PD motor symptoms, not a tested efficacy claim. Depression/anxiety-specific outcomes (MADRS, HAM-A) were also collected as pre-specified secondary measures but were not surfaced in this pass — worth a follow-up read once fully parsed.
+  ([ClinicalTrials.gov NCT04932434](https://clinicaltrials.gov/study/NCT04932434))
 
 ## 2026-08-19 — Oregon's state-regulated psilocybin program reports its first real outcomes data
 

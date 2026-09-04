@@ -3,7 +3,7 @@ title: The Backlash Prices In
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-08-29
+last_seen: 2026-09-03
 weight: 2
 entities:
 - openai
@@ -26,6 +26,14 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   an industry messaging campaign, if one emerges, changes the polling or the moratorium
   count.'
 ---
+
+## 2026-09-01 — A court, not just a legislature, stops a named data-center project cold
+
+- **The Imperial County CEQA ruling (full detail on [Datacenter Sites](/threads/ai-datacenter-sites/)) is this thread's first clean instance of litigation — rather than a legislative moratorium or a governor's directive — actually halting a named, in-progress project.** Where this thread has so far tracked political turns (Abbott, Paxton) and disclosed risk factors (Anthropic's S-1 language), a Sierra Club-and-city lawsuit forcing a full CEQA review is a different mechanism reaching the same outcome this thread exists to watch for: a specific, named project (IVCM's 330MW Imperial County campus) that cannot proceed to permitting until the developer absorbs a multi-month-to-multi-year environmental review it had not budgeted for. Worth tracking whether CEQA suits become a repeatable playbook the way Texas's PUCT/ERCOT audit-and-freeze has. ([KPBS](https://www.kpbs.org/news/environment/2026/09/01/judge-preparing-to-halt-massive-imperial-county-data-center-order-environmental-review))
+
+- ⚠️ **Vote date (09-01) falls just before this sweep's window, but results were confirmed and widely reported 09-02 and this is not on any thread I was given — flagging because it is a clean, dated instance of exactly what this thread tracks.** Independence, Missouri First District councilman John Perkins was recalled by a 68.05% margin in a special election, making him the third city official removed from office over supporting tax abatements for a planned Nebius AI data center — following council members Bridget McCandless and Jared Fears, both ousted in April over the same vote. The underlying March 2026 council approval reportedly included roughly $150bn in industrial development bonds over 20 years against an expected ~$651M in PILOT payments. The capital-markets angle that makes this belong on THIS thread rather than the physical-siting thread: Nebius is simultaneously in the convertible-bond market, having raised $4.5-5.75bn in convertible senior notes (two tranches, 2030/2034) in August to fund its AI-cloud buildout — a company financing its expansion in public capital markets while local voters are actively removing the officials who approved its tax terms, in the same month.
+  ([Newsweek](https://www.newsweek.com/missouri-officials-ousted-for-approving-massive-data-center-12394384), [NBC News](https://www.nbcnews.com/politics/elections/recall-vote-missouri-ai-data-center-rcna595690), [Spectrum Local News](https://spectrumlocalnews.com/mo/kansas-city/news/2026/09/02/independence-nebius-ai-recall-elections), [Bloomberg on the convertible raise](https://www.bloomberg.com/news/articles/2026-08-19/ai-cloud-firm-nebius-offers-4-5-billion-of-convertible-bonds))
+- *Checked: grepped artifacts/threads/datacenter-backlash-capital-risk.md and artifacts/threads/ai-datacenter-sites.md (grep -il "nebius\|independence.*missouri\|perkins") and both 09-01/09-02 digests — no hits anywhere. I can only confirm it's absent from my own threads and these two adjacent ones; I cannot rule out it belongs somewhere else I wasn't given.*
 
 ## 2026-08-29 — A CNBC synthesis ties the AI backlash directly to Anthropic's coming IPO risk factors, with fresh trust-poll and blocked-project numbers
 

@@ -3,7 +3,7 @@ title: Homegrown DUV
 lens: ai
 status: open
 opened: 2026-07-29
-last_seen: 2026-08-29
+last_seen: 2026-09-03
 weight: 3
 entities:
 - cxmt
@@ -29,6 +29,10 @@ blurb: 'Whether China''s first mass-produced immersion DUV tool is real at manuf
   tied to this. NAMING: "Shanghai Yuliansheng"/"Yuliangsheng" is a PREDECESSOR team
   absorbed into Aishengna (alongside SMEE), not a rival programme — do not double-count.'
 ---
+
+## 2026-09-01 — UBS estimates China needs 2-5 years for immersion-DUV high-volume manufacturing, a decade-plus for any EUV alternative
+
+- ⚠️ **OUT OF WINDOW (2026-09-01, before this sweep's 2026-09-02 15:00 ET start) — flagged because it directly answers this thread's central open question and is not recorded anywhere on the map.** UBS analysts, cited by TrendForce and reported separately, estimate China will reach immersion-DUV high-volume manufacturing capability within **two to five years**, based on patent activity around light-source and laser subsystems they read as comparable to where ASML stood roughly 15 years before its own EUV mass-production ramp. On EUV specifically, UBS places China's program roughly where ASML was in 2004 and does not expect a viable EUV alternative to emerge **within this decade**. This is an analyst timeline forecast, not a delivery confirmation — it does not meet this thread's own "delivery, not production" test (no installed-and-running tool at a named fab is newly confirmed here) — but it is the first dated, sourced numeric range this map has seen for the gap this thread was opened to track. ([TheNextWeb](https://thenextweb.com/news/ubs-china-asml-euv-decade-immersion-duv-dutch-export-licence), [ChipBriefing](https://chipbriefing.substack.com/p/daily-china-euv-unlikely-this-decade))
 
 ## 2026-08-29 — Goldman puts a number on the gap this thread exists to test, and names lithography as the reason it doesn't close faster
 

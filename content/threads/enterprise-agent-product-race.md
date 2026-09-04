@@ -3,7 +3,7 @@ title: The Enterprise Agent Land Grab
 lens: ai
 status: open
 opened: 2026-08-25
-last_seen: 2026-08-30
+last_seen: 2026-09-04
 weight: 2
 entities:
 - anthropic
@@ -25,6 +25,18 @@ blurb: 'Whether the enterprise agent-product surface — the layer where labs an
   IDE install counts) ever get disclosed to test whether the packaging actually converts
   to usage.'
 ---
+
+## 2026-09-04 — Altman apologizes for a "messy" Astra rollout that left paying Plus/Pro/Business/Enterprise users without access
+
+- **Sam Altman publicly apologized for the Astra launch's staged access, which prioritized OpenAI's own Daybreak cybersecurity-tester cohort and left paying ChatGPT subscribers — including Pro subscribers, who normally get first access to new releases — watching enterprise customers go first instead.** In his own words on X: "first, sorry for the messy rollout. second, when we screw up, we try to make it right. third, we should be able to begin broad rollout to API customers and chatgpt subscribers in the near future. as usual we will start with pro subscribers." OpenAI is compensating with "one banked reset for every day you don't have access to Astra on your paid ChatGPT plan," and Altman said he was hopeful (not promising) Pro subscribers could use it over the 09-05/09-06 weekend. This directly complicates this thread's own 09-03 entry, which read Astra reaching "Business and Enterprise tiers alongside Plus and Pro within days" — the "within days" promise ran into the same Daybreak-first gating that [Frontier Gatekeeping](/threads/frontier-model-gov-review-precedent/) already tracks as this thread's lab-run access-control pattern. ([Sam Altman on X](https://x.com/sama/status/2095678759651438887), [The Verge](https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout), [Unite.AI](https://www.unite.ai/sam-altman-apologizes-as-gpt-6-astra-staged-launch-denies-paid-access/))
+
+## 2026-09-03 — OpenAI markets Astra as "the world's best computer use model," publishing benchmark numbers and pricing it into Business/Enterprise ChatGPT tiers plus Azure and AWS
+
+- **OpenAI's launch materials call Astra "the world's best computer use model,"** citing an OSWorld 2.0 offline-subset score of 72.6% completed in roughly 40 minutes per task, against predecessor GPT-5.6 Sol's 65.7% at roughly 75 minutes per task — a claimed 47% completion-time improvement — for a model built to navigate browsers, spreadsheets, websites and desktop applications and carry out multistep agentic workflows. It reaches ChatGPT's Business and Enterprise tiers alongside Plus and Pro within days of the Thursday cybersecurity-tester-only start, plus the OpenAI API, AWS Bedrock and Microsoft Azure — priced at $10/million input and $50/million output tokens standard ($20/$100 in a 2.5x-faster "Fast" mode). ([TechCrunch](https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/), [VentureBeat](https://venturebeat.com/technology/welcome-to-the-agi-era-openai-launches-gpt-6-astra))
+
+## 2026-09-02 — Google's Gemini 3.8 Flash and Meta's Muse Spark 1.3 ship the same day, both pitched at long-horizon agentic work at workhorse prices
+
+- **Gemini 3.8 Flash — Google's third Flash release in six weeks — ships at 3.7 Flash's introductory price ($0.75 / $3.75 per million input/output tokens) with Google claiming it "outperforms most larger frontier models" on DeepSWE v1.1 long-horizon software engineering and 54.9% on HLE-Verified; Meta's Muse Spark 1.3 rolled out the same day in Muse Code and the Meta Model API, trained on more long-horizon coding tasks, using ~20% fewer tool calls and ~25% fewer tokens than 1.2 by Meta's own engineers' comparison, with its maximum reasoning mode held back pending "additional safety testing."** Meta's scorecard benchmarks 1.3 against GPT-5.6 Sol and Opus 5 at max effort; coverage on 09-03 had Meta shares up ~4% on the parity claim. Both are the mid-tier, agent-workhorse layer of the launch week rather than flagships. ([Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/), [Meta](https://research.meta.ai/blog/introducing-muse-spark-1-3), [TLDR AI, 09-03](https://tldr.tech/ai/2026-09-03))
 
 ## 2026-08-29 — The adoption-number disclosure this thread has been waiting for arrives, from a bank
 

@@ -3,7 +3,7 @@ title: Anthropic IPO
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-01
+last_seen: 2026-09-03
 weight: 2
 entities:
 - anthropic
@@ -14,6 +14,10 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
   or flip-to-public, valuation vs the $965B print, and how the Opus 5 cycle + the
   AMD/Azure/Google-TPU compute deals get positioned in the roadshow narrative.'
 ---
+
+## 2026-09-03 — Anthropic's pre-IPO credit facility grows from a >$10bn target to $15bn, and moves from "negotiating" to "finalizing"
+
+- **Anthropic is set to finalize a revolving credit facility at $15 billion, up from the ">$10 billion" target this thread logged on 08-18 and six times the $2.5bn facility it closed a year ago, according to Bloomberg.** Morgan Stanley is leading; Goldman Sachs, JPMorgan and Citigroup have prominent roles, with Barclays, Wells Fargo, Bank of America, Deutsche Bank, RBC, UBS, Bank of Montreal, BNP Paribas, Credit Agricole, MUFG, Sumitomo Mitsui and Toronto-Dominion also in the syndicate — the same four lead banks reported to be leading the IPO itself. Companies typically finalize the revolver before formally notifying banks of IPO roles, so this reads as a concrete step toward the listing itself, following the pattern SpaceX set (a $5bn revolver expansion a month before its own record IPO). Bloomberg's same reporting restates Anthropic's July-logged $65bn+ annualized revenue run-rate, not a new figure. ([Bloomberg via Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/anthropic-nears-finalizing-15-billion-224354345.html))
 
 ## 2026-08-31 — Anthropic is preparing to publicly file for an IPO expected to match or beat SpaceX's record raise, "in coming weeks"
 

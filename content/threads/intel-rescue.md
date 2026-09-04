@@ -3,7 +3,7 @@ title: Intel Rescue
 lens: global-capital
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-28
+last_seen: 2026-09-02
 weight: 2
 entities:
 - intel
@@ -17,6 +17,11 @@ blurb: 'The subsidized-builder paradox, filing-pinned: $10.9B outside equity (US
   (Maia 2, Tesla $20B Terafab, Apple prelim Trump-confirmed, Fortinet), none lost.
   Ohio slipped to 2030-31. CXMT''s cap passed Intel''s the week Intel shed ~$90B.'
 ---
+
+## 2026-09-02 — Intel reverses course on selling its Folsom campus, choosing to keep the asset rather than raise capital against it
+
+- **Intel confirmed Wednesday it has scrapped its November 2024 plan to sell-and-partially-lease-back its 161.8-acre, ~1.67 million-square-foot Folsom, California campus (data centers, labs, chip-verification equipment, occupied since 1984), saying in a direct statement: "After careful consideration, Intel has decided not to move forward with the sale and partial leaseback of our Folsom site. We remain committed to the Folsom campus and have determined that retaining ownership best supports our long-term objectives."** The original plan, first reported by the Sacramento Business Journal, would have sold the property while leasing back roughly 1.02 million sq ft under a 12-year term — a capital-raising move typical of Intel's 2024–2025 cash-preservation era (workforce fell from ~100,000 to under 78,000 over the same period). Reversing it now, under CEO Lip-Bu Tan's shift toward core computing/manufacturing/foundry emphasis and against a backdrop of AI-driven chip demand lifting Intel's stock, is a real if modest data point on this thread's "subsidized-builder paradox" watch: a company that took $10.9B of outside equity to stay solvent eighteen months ago is now declining to monetize a real-estate asset it once needed to sell.
+  ([Folsom Times, primary quote](https://folsomtimes.com/intel-scraps-plans-to-sell-folsom-campus-will-remain-property-owner/), [The Real Deal](https://therealdeal.com/san-francisco/2026/09/03/intel-reverses-course-on-folsom-campus-sale-plans/), [Fox40](https://fox40.com/news/local-news/sacramento-county/folsom/intel-folsom-campus-sale-cancelled/))
 
 ## 2026-08-28 — Intel's 14A process posts its first real yield data point — defect density "best since the 22nm process," per the CFO
 

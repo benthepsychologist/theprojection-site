@@ -3,7 +3,7 @@ title: Son All-In
 lens: global-capital
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-29
+last_seen: 2026-09-04
 weight: 2
 entities:
 - softbank
@@ -27,6 +27,11 @@ blurb: 'The empire''s concentration play, assembled from pieces other threads ca
   repricing, any forced Arm monetization, Stargate milestones, the funding-gap figure,
   and whether Roze/ABB actually reaches IPO.'
 ---
+
+## 2026-09-04 — SoftBank's record ¥1tn retail bond priced at 4.75%, the top of its guided range
+
+- **SoftBank Group priced its record ¥1 trillion ($6.3bn) 7-year retail bond at a 4.75% coupon, landing at the top of the 4.3-4.9% indicative range disclosed 08-24 rather than in the middle or bottom of it.** That coupon is more than double the 2.3% year-to-date average for comparable yen retail corporate bonds — a direct price on the credit risk investors now attach to SoftBank's AI-concentration bet, and the top-of-range landing reads as the market demanding real compensation rather than SoftBank's brand pricing power carrying the deal. Context: yen retail-bond issuance overall has hit ¥2.88tn year-to-date, already a record for any full year, and a Nomura credit analyst framed the size and yield as likely to "draw new individual investors into the market" — this deal isn't happening in isolation, it's riding a broader retail-bond wave in Japan.
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-04/softbank-group-prices-1-trillion-retail-bond-at-4-75), corroborated: [Briefs.co](https://www.briefs.co/news/softbank-prices-1-trillion-seven-year-retail-bond-at-4-75/))
 
 ## 2026-08-27 (late catch, added 2026-08-29) — The concentration bet generalizes: SoftBank moves on an OpenAI-backed robotics startup too
 

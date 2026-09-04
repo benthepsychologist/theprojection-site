@@ -3,7 +3,7 @@ title: Fed Independence Fight
 lens: global-capital
 status: open
 opened: 2026-08-09
-last_seen: 2026-08-29
+last_seen: 2026-09-04
 weight: 2
 entities:
 - lisa-cook
@@ -21,6 +21,21 @@ blurb: 'Two distinct, simultaneous levers on the Fed''s independence, offered as
   the 09-16 FOMC decision — as of the 08-09 /week read, a bigger open question than
   anything purely financial on this map.'
 ---
+
+## 2026-09-04 — August payrolls blow past every forecast, undercutting Waller's one-day-old case for a September hold
+
+- **August nonfarm payrolls rose 162,000, roughly triple the ~50,000-55,000 consensus, with June and July revised up a combined 55,000 — July alone flips from an originally-reported -23,000 to +21,000 — directly testing the argument Governor Waller made in public less than 24 hours earlier.** Unemployment held at 4.1%; average hourly earnings rose 0.3% m/m and 3.1% y/y, both in line. Waller said Wednesday he'd support a September hold "if disinflation continues... we can wait one meeting," and CME September-hike odds fell to ~54.6% on that comment. Friday's print reversed roughly half that move: hike odds rose back to an estimated 58-60% by mid-morning, the 2-year Treasury yield jumped 8bp to break 4.416% (its highest since January 2025), the 10-year rose to ~4.77%, and the dollar index rebounded off its weekly low (~98.92 to ~99.3). Equities were roughly flat to slightly lower (S&P ~-0.05%, Dow ~-0.16%, Nasdaq ~+0.09%) rather than selling off outright. The practical effect: the internal Fed argument this thread tracks — a Warsh-chaired, increasingly hawkish committee against a governor publicly arguing to wait — now has a real data point cutting toward Warsh's side, one day after Waller staked out the opposite position in public.
+  ([BLS, Employment Situation Summary — August 2026](https://www.bls.gov/news.release/empsit.nr0.htm), [Yahoo Finance market wrap](https://finance.yahoo.com/markets/live/stock-market-today-friday-september-3-dow-sp-500-nasdaq-august-jobs-report-081005475.html), [Convera FX research](https://convera.com/blog/market-insights/fx-research/daily-market-updates/us-dollar-recovers-as-us-jobs-reignite-fed-hike-bets/))
+
+## 2026-09-03 — A sitting Fed governor publicly splits from Chair Warsh's hawkish line, and hike odds drop 12 points
+
+- **Fed Governor Christopher Waller said Thursday he would support holding rates steady at the September 15-16 meeting if disinflation continues in data due over the next two weeks — "give disinflation a chance, we can wait one meeting" — publicly diverging from the hawkish framing Chair Kevin Warsh set at Jackson Hole.** Waller conceded inflation remains "meaningfully above" target (July headline ~3.7%, core ~3.3%) but read recent trends as showing "signs of disinflation," with the explicit caveat that a hot inflation print would put a hike back on the table. **CME FedWatch's September hike-odds dropped roughly 12 percentage points to about 54.6%** on the remarks — the first clean move off the 65-68% figure this map has carried since 09-01, and a genuinely new fault line: a Warsh-appointed hawkish chair against at least one sitting governor breaking the other way in public, not just a data-driven repricing. The 10-year Treasury yield fell to roughly 4.75% intraday Thursday (from Wednesday's 4.79% close) on the same remarks — directly relevant to [Treasury's Long-End Defense](/threads/treasury-long-end-intervention/)'s yield-direction watch, cross-referenced here rather than duplicated.
+  ([247wallst, citing CNBC](https://247wallst.com/investing/2026/09/03/the-feds-waller-says-hed-hold-rates-steady-but-his-if-is-doing-a-lot-of-heavy-lifting/), [Yahoo Finance](https://finance.yahoo.com/economy/policy/articles/fed-waller-says-d-hold-151812767.html))
+
+## 2026-08-31 — Bessent publicly argues against a September hike, cutting against the Warsh reading that drove odds up
+
+- **Treasury Secretary Scott Bessent went on CNBC and argued on the record against a September rate hike — directly counter to the reading of Kevin Warsh's Jackson Hole keynote that had pushed hike odds toward 60-66%.** Asked about the Fed's next move he said "I'm not going to speculate on what the Fed may do or not," then: "It is my belief that we've seen a supply shock, and traditionally, you don't raise interest rates into a supply shock unless you see second- or third-order effects, and we are seeing the core inflation has remained very, very restrained." He separately argued an AI-driven productivity boom would ease price pressure rather than add to it. **For this thread's own watch line that makes two messaging levers pointing opposite ways on the same decision:** an incoming Fed chair read as running a forward-guidance-removal regime, and a sitting Treasury Secretary publicly leaning against the hike that reading implies. ⚠️ Dated 08-31 and surfaced only on the 09-02 afternoon sweep — genuinely absent from every thread until now. The primary CNBC transcript 403s on direct fetch; the quotes below are from two outlets carrying it verbatim.
+  ([InvestingLive](https://investinglive.com/central-banks/icymi-bessent-lists-reasons-fed-could-skip-a-september-hike-despite-warsh-remarks/), [Crypto Briefing](https://cryptobriefing.com/bessent-federal-reserve-supply-shock/))
 
 ## 2026-08-29 — No confirmed White House response to Cook's rebuttal, and one unverified dismissal claim
 
