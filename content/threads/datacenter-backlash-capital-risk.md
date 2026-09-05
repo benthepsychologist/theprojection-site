@@ -3,7 +3,7 @@ title: The Backlash Prices In
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-03
+last_seen: 2026-09-04
 weight: 2
 entities:
 - openai
@@ -26,6 +26,11 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   an industry messaging campaign, if one emerges, changes the polling or the moratorium
   count.'
 ---
+
+## 2026-09-04 — SpaceXAI runs a Starlink discount as goodwill amid Memphis-area turbine backlash, and Congress edges toward a ratepayer-cost bill
+
+- **SpaceXAI is offering Memphis and Southaven, Mississippi residents a 50% discount on Starlink Residential plans, plus a waived $349 hardware fee, as a goodwill gesture amid community anger over its unpermitted gas turbines** — roughly 2,000 people have signed up since late June, per SpaceX's own September 2 post, continuing an earlier offer. Southern Environmental Law Center attorney Amanda Garcia dismissed it directly: "Communities in Memphis and North Mississippi aren't asking for discounted internet service. They're asking xAI to shut down its illegal, unpermitted power plant." It is a live test of whether an industry goodwill campaign changes the underlying opposition rather than the polling. ([Tom's Hardware](https://www.tomshardware.com/service-providers/network-providers/over-2-000-subscribers-grab-discounted-starlink-plans-in-tennessee-and-mississippi-spacexai-offers-50-percent-off-for-people-living-near-its-data-centers-and-other-developments))
+- **House Republicans are still negotiating whether and when to bring a bipartisan data-center ratepayer bill to the floor, with the week after Labor Day (09-08 to 09-12) the likeliest target.** The "Ratepayer Protection Act" (Reps. Gabe Evans, R-Colo., and Kathy Castor, D-Fla.) cleared the House Energy and Commerce Committee 52-0 in July and would codify parts of Trump's "Ratepayer Protection Pledge," requiring states to consider federal standards that make data centers and other large-load customers cover their own grid-upgrade costs. Separately, the committee's Environment Subcommittee held a hearing on 09-03 on a discussion draft that would bar states from letting public water systems pass data-center water costs onto other ratepayers; Chairman Brett Guthrie, R-Ky., said 09-02/03 no consensus exists yet on scope or timing, and the House won't be in session after that week except for a budget vote. It is the first federal-legislation test of whether data-center opposition becomes a priced, binding cost allocation rather than a local fight. ([Roll Call](https://rollcall.com/2026/09/04/gop-consensus-elusive-on-timing-scope-of-data-centers-bill/))
 
 ## 2026-09-01 — A court, not just a legislature, stops a named data-center project cold
 

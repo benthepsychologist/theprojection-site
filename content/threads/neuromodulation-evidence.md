@@ -3,7 +3,7 @@ title: Neuromodulation
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-03
+last_seen: 2026-09-04
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -41,6 +41,11 @@ blurb: 'The somatic bet where evidence actually caught up — and the test of wh
   sprint is running now. The difference, and the reason this thread
   exists: here the confirmatory trial eventually happened and held.
   (wave: mh-q03)
+
+## 2026-09-04 — Systematic review finds home-based tDCS for depression produces only a small, fragile effect
+
+- **A PRISMA-guided systematic review and meta-analysis in JMIR Mental Health found that home-based, remotely-supervised transcranial direct current stimulation (tDCS) for depression produces only a small, statistically fragile antidepressant effect, with the two largest trials in the pool actually negative.** Pooling 6 sham-controlled RCTs (out of 12 studies/16 reports reviewed, searched through July 2025), the effect was Hedges g=0.36 (95% CI 0.06-0.66, P=.03) — but dropping the single largest positive trial widens the interval to include zero (g=0.39, 95% CI -0.12 to 0.91). The two largest trials by sample size (n=210 unsupervised, n=141 self-administered) were both negative on their primary depression outcome; only the largest *real-time-supervised* trial (n=174) was positive. GRADE certainty was rated moderate, and the authors conclude current data are "insufficient to recommend routine clinical adoption." One pilot study was terminated early for skin lesions and one nonfatal suicide attempt occurred in an unsupervised trial arm. It lands two days after a single-arm, no-control home-tDCS study in late-life depression whose own authors said they could not attribute their findings to stimulation without a control arm; this meta-analysis is the controlled-trial context for that gap, and its verdict (small, supervision-dependent, not yet clinically adoptable) sits well behind the confirmatory-RCT status of accelerated TMS protocols such as SAINT.
+  ([JMIR Mental Health, DOI 10.2196/92522](https://mental.jmir.org/2026/1/e92522))
 
 ## 2026-09-03 — Home-based tDCS study in late-life depression finds amyloid burden blunts cognitive gains
 

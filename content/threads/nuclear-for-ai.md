@@ -3,7 +3,7 @@ title: Nuclear for AI
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-18
+last_seen: 2026-08-28
 weight: 2
 entities:
 - amazon-aws
@@ -16,6 +16,10 @@ blurb: The nuclear-for-AI wave — but ~0 net-new MW power any AI datacenter bef
   announced is <20% of projected demand; every genuinely new SMR/Gen-IV project is
   2030s-weighted. Watch which actually clear licensing.
 ---
+
+## 2026-08-28 — PJM dropped Oklo's Meta-backed Ohio nuclear project from its interconnection queue, and the FERC dispute is still open
+
+- **PJM Interconnection removed a 750MW Oklo-led, Meta-backed project — 150MW advanced nuclear, 300MW fuel cells, 300MW natural gas, sited in Pike County, Ohio (one of the four awards under Meta's up-to-6.6GW nuclear RFP, Oklo's "1.2GW Aurora") — from its interconnection study cycle**, citing an unaddressed requirement to show the project could "ride through a sudden drop in grid voltage." Oklo disputes the removal procedurally, saying PJM posted the deficiency finding via its NextGen portal on June 24 without a formal notice, denying it a chance to respond, and filed an emergency complaint with FERC on 08-28 asking for reinstatement at its original queue position — arguing the removal adds at least 14 months of delay and materially raises costs. As of this morning no FERC ruling has been reported; Oklo's stock fell roughly 5-6% on the news. It is the first of Meta's four nuclear awards to hit a hard interconnection obstacle, and the dispute is about queue procedure rather than the reactor's licensing. ([Utility Dive](https://www.utilitydive.com/news/pjm-oklo-advanced-nuclear-ferc-interconnection/829150/))
 
 ## 2026-07-30 → 08-17 — Three announcements, zero licences
 

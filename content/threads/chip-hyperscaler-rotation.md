@@ -3,7 +3,7 @@ title: The Great Rotation
 lens: global-capital
 status: open
 opened: 2026-07-29
-last_seen: 2026-09-03
+last_seen: 2026-09-04
 weight: 2
 entities: []
 thread_kind: story
@@ -17,6 +17,10 @@ blurb: 'Analysts (Morgan Stanley, UBS, Forrester) are calling an explicit alloca
   policy) and from AI Bear Turn (the broader AI-stock drawdown) — this is specifically
   the reallocation call between the two cohorts.'
 ---
+
+## 2026-09-04 — Chip-vs-tech split held through Friday's close, did not reverse
+
+- **Friday's chip-vs-tech decoupling survived the full session and shows up in the closing tape.** The PHLX Semiconductor Index (SOX) closed up 3.38% at 11,735.26 and the iShares Semiconductor ETF (SOXX) held its gains into the bell, while the S&P 500 (-0.38% to 7,718.60), Nasdaq Composite (-0.29% to 26,506.99) and Dow (-0.51% to 53,414.25) all finished the day lower on the hot August jobs print that pushed CME September-hike odds toward 58-65%. Rate-sensitivity logic said high-multiple chip names should have been hit hardest by a hawkish repricing; at the close they were the only part of the tape that was up. ⚠️ Individual Intel, AMD and Nvidia closing prices are not stated here because no closing-price page could be opened; the morning's intraday reads (Intel +4%, AMD +3%, Nvidia +2%) are the last figures on record. ([TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-04-2026), [Investrade market review](https://investrade.com/market-review-september-04-2026/))
 
 ## 2026-09-02 — Broadcom's Q3 AI revenue nearly triples and beats, but the stock falls on a guidance miss under 1%
 

@@ -3,7 +3,7 @@ title: Distillation Fight
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-03
+last_seen: 2026-09-04
 weight: 3
 entities:
 - moonshot-ai
@@ -17,6 +17,10 @@ blurb: 'The White House (OSTP''s Kratsios) directly accused Moonshot of distilli
   Moonshot''s response, independent verification one way or the other, and whether
   it chills enterprise adoption of K3.'
 ---
+
+## 2026-09-04 — Moonshot's Hong Kong IPO target revised up to $3-5bn, new $50bn pre-money round surfaces
+
+- **Bloomberg reports Moonshot is now considering raising up to $5 billion (a $3-5bn range) in its Hong Kong IPO, up from the roughly $3bn target reported on 09-03, and has added Bank of America as overall coordinator alongside the previously-reported CICC, Deutsche Bank and Goldman Sachs.** The same report surfaces a parallel, separate development: Moonshot is reaching out to backers for a new pre-IPO funding round at a **$50 billion pre-money valuation** — a step up from the $35bn valuation set by its August Series F ($3.5bn raised). Bloomberg's own framing stresses "considerations are ongoing and details such as size and timing could change." ([Bloomberg via Investing.com](https://ng.investing.com/news/stock-market-news/moonshot-ai-eyes-hong-kong-ipo-seeking-up-to-5-billion--bloomberg-93CH-2686043), [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-04/moonshot-is-said-to-seek-up-to-5-billion-in-hk-ipo-this-year) — 403'd direct fetch, corroborated via mirror)
 
 ## 2026-09-03 — Moonshot reportedly files confidentially for a Hong Kong IPO targeting $3B at a $50B valuation
 

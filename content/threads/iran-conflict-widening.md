@@ -3,7 +3,7 @@ title: Iran's Widening War
 lens: world-news
 status: open
 opened: 2026-07-23
-last_seen: 2026-09-04
+last_seen: 2026-09-05
 weight: 3
 entities: []
 thread_kind: story
@@ -45,6 +45,11 @@ blurb: '⚠️ ORIGIN CORRECTED 2026-08-02 — READ THIS FIRST. This thread spen
   with Netanyahu''s office framing it as pressure ahead of September talks. Track
   this alongside Hormuz/Gulf as a distinct front, not folded into it.'
 ---
+
+## 2026-09-05 — Iran fires ballistic missiles at two US Navy warships; both evade, and CENTCOM retaliates by disabling/destroying three IRGC oil tankers
+
+- **The IRGC fired ballistic missiles at two US Navy vessels — a carrier and a guided-missile destroyer — patrolling regional waters on 09-05; both evaded the attack and no US personnel were harmed, per US officials.** It is a direct Iranian missile attack on US warships at sea, a different target class from the strikes on Gulf bases in Jordan, Bahrain, Kuwait, the UAE and Erbil and from the tanker mining and shipping extortion that have characterised the war so far. CENTCOM said it retaliated the same day by permanently disabling the IRGC-linked crude carriers M/T Downy off Kharg Island and M/T Stark 1 near Jask, and completely destroying the unladen carrier M/T Kylo (also reported as "Noxen") in the Gulf of Oman after its crew abandoned ship — using precision strikes on critical components to disable rather than sink the vessels, limiting spill risk. No casualties were reported on either side. Iranian state TV separately claimed "four U.S. missiles struck a tanker" near Kharg Island, without evidence; CENTCOM did not immediately respond to that specific characterization.
+  ([Mediaite, citing CENTCOM](https://www.mediaite.com/media/news/breaking-u-s-strikes-three-iranian-oil-tankers-in-irans-shadow-network-after-ballistic-missiles-aimed-at-navy-warships/), [KVIA/CNN wire](https://kvia.com/news/us-world/cnn-world/2026/09/05/us-military-says-three-iranian-tankers-struck-in-gulf/), [KSAT, on Iran's Kharg Island claim](https://www.ksat.com/news/world/2026/09/05/iran-accuses-the-us-of-targeting-a-tanker-near-kharg-island-and-other-mideast-news/))
 
 ## 2026-09-04 — Washington says the EU joined Operation Economic Outcast; Brussels' own text only welcomes it
 
