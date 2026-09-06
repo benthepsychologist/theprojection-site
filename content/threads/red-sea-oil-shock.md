@@ -3,7 +3,7 @@ title: Red Sea Shock
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-05
+last_seen: 2026-09-06
 weight: 3
 entities: []
 thread_kind: story
@@ -30,6 +30,10 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   policy. This is the capital-markets and risk-underwriting read of the war, deliberately
   distinct from the conflict itself.'
 ---
+
+## 2026-09-06 — TankerTrackers puts August Middle East crude exports 39% below the pre-war baseline, a 7.2 mb/d deficit down from 12.4 in May, with Iran's 1.68 mb/d expected to stay at zero
+
+- **Middle East crude exports in August ran 39% below the January–February baseline of 18.5 million barrels a day, a deficit of 7.2 mb/d down from 12.4 mb/d in May, according to TankerTrackers, which said on Sunday that "most may recover in the coming months" but that Iran's own 1.68 mb/d baseline "may likely remain at zero for the foreseeable future, depending on any agreement."** The US military says about 90 commercial vessels have been redirected under the blockade; Iranian officials confirm no crude has passed the US warships but say up to 90 million barrels moved during the July window and that floating storage outside the line is still being sold to China at a discount — a stock Bessent put at roughly 30 million barrels remaining. With the deficit shrinking as Gulf transits recover under US escort, the supply story Tuesday's open will price is a narrowing regional gap with an Iranian zero inside it, rather than a widening one. ([Al Jazeera, carrying TankerTrackers and Bessent](https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers))
 
 ## 2026-09-05 — CENTCOM disables two IRGC crude carriers off Kharg Island and Jask and destroys a third, with oil markets closed until Tuesday
 
