@@ -3,7 +3,7 @@ title: The Backlash Prices In
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-04
+last_seen: 2026-09-05
 weight: 2
 entities:
 - openai
@@ -26,6 +26,10 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   an industry messaging campaign, if one emerges, changes the polling or the moratorium
   count.'
 ---
+
+## 2026-09-05 — AI companies have pledged about $265 million to super PACs and political groups for the 2026 midterms, per a WSJ analysis reported Saturday
+
+- **AI companies have pledged about $265 million to super PACs and political groups for the 2026 midterms, a Wall Street Journal analysis found, making AI — alongside crypto and betting — the leading industry spender of the cycle, The Independent reported on Saturday under the headline that the money is arriving "as data center backlash sweeps through communities."** The pieces the tally is built from are each on the record separately: Leading the Future, the Andreessen Horowitz/Greg Brockman-backed super PAC, has raised $140 million per Reuters, with a16z's $50 million and the Brockmans' $25 million visible in FEC filings; Anthropic's self-disclosed $40 million to Public First Action, a 501(c)(4) that backs AI regulation; and Leading the Future's "Build American AI" affiliate, which has been running ads defending the buildout in Wisconsin, Ohio and Kansas since late August. What is new is the aggregate, and its framing as a response to local opposition — the first time the industry's political spend has been totalled and set against the backlash this thread tracks. It is a tally of pledges, not disbursements, and the Journal's own piece could not be read directly. ([The Independent, via Yahoo News](https://ca.news.yahoo.com/ai-companies-dumping-265m-midterms-122332804.html), [WSJ, 07-22, on Anthropic's $40m](https://www.wsj.com/politics/policy/anthropic-doubles-midterm-spending-to-40-million-to-push-ai-regulation), [Anthropic, 07-21](https://www.anthropic.com/news/donating-another-20-million-to-public-first-action))
 
 ## 2026-09-04 — SpaceXAI runs a Starlink discount as goodwill amid Memphis-area turbine backlash, and Congress edges toward a ratepayer-cost bill
 

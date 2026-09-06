@@ -3,7 +3,7 @@ title: Fed Independence Fight
 lens: global-capital
 status: open
 opened: 2026-08-09
-last_seen: 2026-09-04
+last_seen: 2026-09-06
 weight: 2
 entities:
 - lisa-cook
@@ -21,6 +21,10 @@ blurb: 'Two distinct, simultaneous levers on the Fed''s independence, offered as
   the 09-16 FOMC decision — as of the 08-09 /week read, a bigger open question than
   anything purely financial on this map.'
 ---
+
+## 2026-09-05 — The administration's pre-FOMC pressure campaign is now the president, the vice president, the Treasury secretary and Navarro in one week, CNBC tallies, ten days before a meeting priced near 60% for a hike
+
+- **In the week before the Fed's 09-15/16 meeting the president, vice president, Treasury secretary and senior counselor Peter Navarro all publicly urged the Fed not to raise rates or to cut them — Navarro calling FOMC members "clowns" on Steve Bannon's show on Friday and a hike "careless," Vance saying earlier in the week "we believe that the Fed should be lowering interest rates," Bessent arguing on CNBC that the Fed does not hike into a supply shock until second- or third-order effects show — alongside Trump's Friday threat to halt trade with surplus countries unless the Fed cuts, the first time he has tied tariffs to Fed policy.** CNBC's Saturday tally is the first to frame the four as one campaign; the president has still not criticised Warsh by name, and Warsh has said the pressure has no effect on his decisions. Markets price the hike near 60% with Friday's CPI the last data point; the nearest precedent CNBC cites is May 2019, when Pence, Mnuchin and Kudlow all called for cuts and the Fed cut two months later. ([CNBC](https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html))
 
 ## 2026-09-04 — August payrolls blow past every forecast, undercutting Waller's one-day-old case for a September hold
 

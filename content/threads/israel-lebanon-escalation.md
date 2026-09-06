@@ -3,7 +3,7 @@ title: Israel–Lebanon
 lens: world-news
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-05
+last_seen: 2026-09-06
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,10 @@ blurb: 'The Israel–Hezbollah front turning hot while its diplomacy stalls: dea
   theatre from iran-conflict-widening (cross-referenced, not merged). Watch: whether
   the talks track survives, and whether strikes escalate past the current tempo.'
 ---
+
+## 2026-09-06 — Israeli strikes on south Lebanon Sunday kill four after a second Hezbollah drone launch
+
+- **Israeli air strikes at dawn Sunday hit Nabatieh, Arab Salim, Nabatieh al-Fawqa and Kfar Reman in south Lebanon, killing at least four and wounding 20, a day after Friday/Saturday's overnight strikes on Tyre, Nabatieh and the Beqaa killed three (already logged 09-05).** Israel said the strikes responded to Hezbollah launching two explosive drones at its forces in the occupied buffer zone, calling it a "blatant violation"; Hezbollah condemned Israel's campaign amid what it called "complete international silence and blatant American complicity" and rejected Lebanon's "fruitless direct negotiations" with Israel — each side's own characterisation, not a joint account. Two consecutive nights of cross-border strikes now, ten days before the Rome round-8 talks this map has on the ledger for 09-15. ([Al Jazeera](https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four), [Times of Israel](https://www.timesofisrael.com/4-killed-as-israel-strikes-south-lebanon-after-hezbollah-drones-target-troops))
 
 ## 2026-09-05 — Hezbollah drone at IDF troops draws Israeli strikes across south Lebanon that kill at least three
 

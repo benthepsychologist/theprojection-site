@@ -3,7 +3,7 @@ title: Datacenter Sites
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-03
+last_seen: 2026-09-05
 weight: 3
 entities:
 - openai
@@ -164,6 +164,10 @@ blurb: Where the capex lands in CONCRETE — the specific gigawatt campuses. Sta
   episode. Three independent sources plus a filing, one day.
   ([CNBC](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html),
   [Axios Pro Rata](https://www.axios.com/newsletters/axios-pro-rata))
+
+## 2026-08-20 — Piedmont, Oklahoma residents petition against Cloverleaf's Project Open Sky as the developer options a fallback site in Kingfisher County
+
+- **Residents of Piedmont, Oklahoma, began gathering signatures on 08-20 to force a vote on Cloverleaf Infrastructure's "Project Open Sky," a hyperscale campus of up to 1.5GW on 630-1,000 acres in Canadian County, on the same day Cloverleaf announced it had secured options on more than 330 acres in neighbouring Kingfisher County as an alternative location** — while saying Piedmont remains its preferred site. The city council had already sent the project's land-use amendment back to planning on 07-28 and deferred its vote to September. Cloverleaf is the developer in which Nvidia took a minority equity stake (on [Power Buildout](/threads/ai-power-buildout/), 08-21); this is the siting fight that stake is buying into, and the fallback option is the developer's own hedge against losing it. Not on the record until now, five weeks late. ([okcfox, 08-20](https://okcfox.com/news/local/piedmont-residents-petition-data-center-as-developer-secures-alternate-site-option), [okcfox, 07-28](https://okcfox.com/news/local/piedmont-city-council-delays-cloverleaf-data-center-plan-sends-land-use-map-back-cloverleaf-project-open-sky-hyperscale-campus-pud-future-land-use-map-study-zoning-and-planning-commission))
 
 ## 2026-08-17 — OpenAI's Ohio campus lease formally signed: 20 years, phased to 2032
 

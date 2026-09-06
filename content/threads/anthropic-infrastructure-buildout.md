@@ -3,7 +3,7 @@ title: Anthropic Rents the Buildout
 lens: ai
 status: open
 opened: 2026-08-11
-last_seen: 2026-08-31
+last_seen: 2026-09-05
 weight: 2
 entities:
 - anthropic
@@ -27,6 +27,10 @@ blurb: 'Anthropic has signed four large infrastructure arrangements in roughly t
   Read against ai-circular-financing-risk, which asks whether this money is circular
   — this thread asks a narrower question, who ends up holding the asset.'
 ---
+
+## 2026-09-03 — FluidStack, the GPU-cloud builder behind Anthropic's $50bn capacity deal, reaches an $18bn valuation
+
+- **FluidStack, the London-founded GPU-cloud operator that holds a roughly $50 billion multi-year capacity agreement with Anthropic and is building TPU capacity for Google, has reached an $18 billion valuation, Forbes reported on 09-03** — completing the round Bloomberg had reported in April as talks for about $1 billion led by Jane Street, at more than double the $7.5 billion mark FluidStack carried before the Anthropic deal. It makes the company a third independent capacity vendor alongside CoreWeave and Nebius rather than a sub-scale contractor, and puts a price on the counterparty carrying a large share of Anthropic's committed compute. Forbes' text could not be read past its bot wall; the valuation is from the headline and Bloomberg's April reporting, the deal size from the April reports. ([Forbes, 09-03](https://www.forbes.com/sites/iainmartin/2026/09/03/a-tiny-startup-helping-google-take-on-nvidia-is-now-worth-18-billion/), [Bloomberg, 04-14](https://www.bloomberg.com/news/articles/2026-04-14/jane-street-in-talks-to-back-fluidstack-at-18-billion-valuation))
 
 ## 2026-08-31 — Anthropic signs a $35bn compute deal with Nvidia-backed Lambda, its sixth or seventh outside-cloud infrastructure arrangement in months
 

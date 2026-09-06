@@ -3,7 +3,7 @@ title: CXMT IPO
 lens: global-capital
 status: open
 opened: 2026-07-22
-last_seen: 2026-08-29
+last_seen: 2026-09-06
 weight: 1
 entities:
 - cxmt
@@ -13,6 +13,10 @@ blurb: Up-to-$9.8B STAR Market listing (allotment 07-22, lists 07-27) funding Ch
   DRAM/HBM capacity into the global squeeze. Track first-day reception, capacity-buildout
   plans vs. the shortage, and read-through to ai-memory-shortage and china-stack-independence.
 ---
+
+## 2026-09-04 — Counterpoint Research data show CXMT's global DRAM share nearly tripled year over year
+
+- **CXMT's share of the global DRAM market by revenue reached 10% in Q2 2026, up from about 4% a year earlier**, according to Counterpoint Research data reported by TechNode — enough to push the combined share of Samsung (39%), SK Hynix (26%) and Micron (25%) down from 94% to 87% and put CXMT in fourth place globally. A separate Wall Street Journal figure cited the next day put CXMT's share slightly higher, at 11%, against Micron's 25%. For the IPO this thread tracks, a fourth-place global share is the number the prospectus will lead with, and the year-over-year tripling is the growth story behind the listing. ([Counterpoint Research](https://counterpointresearch.com/en/insights/global-dram-and-hbm-market-share), [TechNode](https://technode.com/2026/09/04/changxin-memory-reaches-10-of-global-dram-market-in-q2/), [The Motley Fool, citing WSJ](https://www.fool.com/investing/2026/09/05/chinas-memory-chip-stock-almost-as-good-as-micron/))
 
 ## 2026-08-31 — CXMT ships its first HBM3E chips, small-batch only, at ~25% yield
 

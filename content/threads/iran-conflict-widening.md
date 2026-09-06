@@ -3,7 +3,7 @@ title: Iran's Widening War
 lens: world-news
 status: open
 opened: 2026-07-23
-last_seen: 2026-09-05
+last_seen: 2026-09-06
 weight: 3
 entities: []
 thread_kind: story
@@ -45,6 +45,10 @@ blurb: '⚠️ ORIGIN CORRECTED 2026-08-02 — READ THIS FIRST. This thread spen
   with Netanyahu''s office framing it as pressure ahead of September talks. Track
   this alongside Hormuz/Gulf as a distinct front, not folded into it.'
 ---
+
+## 2026-09-06 — Iranian parliament speaker Ghalibaf says era of proportionate responses is over, threatens faster heavier reprisals
+
+- **Iran's parliament speaker and top negotiator Mohammad Bagher Ghalibaf told the Islamic Consultative Assembly on Sunday that the "era of proportionate responses" to US attacks is over, warning any future violation of Iran's "interests and security" will draw a "faster, heavier, and more painful" response** — the first formal Iranian government statement responding to Saturday's CENTCOM strikes disabling/destroying the tankers M/T Downy, M/T Stark 1 and M/T Kylo. Separately, Iranian forces claimed to have attacked a US unmanned surface vessel near the Strait of Hormuz, a claim not confirmed by Washington, and Tehran condemned the tanker strikes as "illegal and aggressive." Ghalibaf also acknowledged domestic "fundamental challenges" — inflation, unemployment, exchange-rate volatility — under sanctions and disrupted oil trade, and said the strikes on US bases were "only the beginning" of a new deterrence approach. No UKMTO/Lloyd's List transit-count update beyond the standing ~10 ships/day figure already on this thread's sibling [Red Sea Shock](/threads/red-sea-oil-shock/) was found this window. ([CNBC](https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html), [Anadolu](https://www.aa.com.tr/en/middle-east/iran-parliament-speaker-warns-us-of-faster-heavier-response-to-any-new-attack/4048802), [Kurdistan24](https://www.kurdistan24.net/en/story/937567/irans-qalibaf-says-era-of-proportionate-responses-is-over))
 
 ## 2026-09-05 — Iran fires ballistic missiles at two US Navy warships; both evade, and CENTCOM retaliates by disabling/destroying three IRGC oil tankers
 

@@ -3,7 +3,7 @@ title: Psychedelic Sprint
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-03
+last_seen: 2026-09-06
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -15,6 +15,10 @@ blurb: 'Psilocybin racing toward first-ever US approval (Compass NDA targeted Q4
   the accelerating trials share. The live question: is approval outrunning the methodology
   fix?'
 ---
+
+## 2026-09-05 — Musk-circle money recapitalizes Lykos: Antonio Gracias's $25m takes control of the company behind the rejected MDMA application, renamed Resilient Pharmaceuticals
+
+- **Antonio Gracias, the SpaceX director and Musk ally, put $25 million of family-foundation money into recapitalizing Lykos Therapeutics — the sponsor whose MDMA-assisted-therapy application for PTSD the FDA rejected in 2025 — taking control, renaming it Resilient Pharmaceuticals and moving it to Chicago, the Wall Street Journal reported on Saturday, alongside a $16 million Harvard professorship on psychedelics he endowed and earlier trial funding from fellow SpaceX director Steve Jurvetson.** The Journal's frame is that Musk's inner circle is now the capital behind mainstreaming psychedelic psychiatry, on top of the April executive order already on this thread; for the regulatory sprint it means the rejected application's sponsor is refinanced and renamed rather than gone, so any resubmission will arrive under a name this map did not have. ⚠️ The Journal's text could not be read directly; facts are from its syndicated pickup, which names the Journal as the original reporter. ([IBTimes Australia, carrying WSJ](https://www.ibtimes.com.au/billionaires-back-psychedelic-therapies-1875100))
 
 ## 2026-09-03 — UCSF posts results from a 12-patient Phase 2 psilocybin trial for depression and anxiety in Parkinson's disease
 
