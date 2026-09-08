@@ -3,7 +3,7 @@ title: CXMT IPO
 lens: global-capital
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-06
+last_seen: 2026-09-08
 weight: 1
 entities:
 - cxmt
@@ -13,6 +13,10 @@ blurb: Up-to-$9.8B STAR Market listing (allotment 07-22, lists 07-27) funding Ch
   DRAM/HBM capacity into the global squeeze. Track first-day reception, capacity-buildout
   plans vs. the shortage, and read-through to ai-memory-shortage and china-stack-independence.
 ---
+
+## 2026-09-08 — CXMT reported stockpiling three years of ASML DUV tools ahead of anticipated export limits
+
+- ⚠️ **CXMT and YMTC are reported to be stockpiling roughly three years' worth of ASML DUV lithography tools ahead of anticipated export limits.** Single-sourced through two hardware outlets; the underlying report was not located, so this is recorded as reported, not established. If true, it is the same pre-buy behaviour the map logged before the 2023 controls, run again with more warning — a live data point against this thread's capacity-buildout watch. ⚠️ No source link located for this item; recorded from the digest text alone.
 
 ## 2026-09-04 — Counterpoint Research data show CXMT's global DRAM share nearly tripled year over year
 

@@ -3,7 +3,7 @@ title: Homegrown DUV
 lens: ai
 status: open
 opened: 2026-07-29
-last_seen: 2026-09-03
+last_seen: 2026-09-08
 weight: 3
 entities:
 - cxmt
@@ -29,6 +29,14 @@ blurb: 'Whether China''s first mass-produced immersion DUV tool is real at manuf
   tied to this. NAMING: "Shanghai Yuliansheng"/"Yuliangsheng" is a PREDECESSOR team
   absorbed into Aishengna (alongside SMEE), not a rival programme — do not double-count.'
 ---
+
+## 2026-09-08 — CXMT and YMTC reported stockpiling three years of ASML DUV tools ahead of anticipated export limits
+
+- ⚠️ **CXMT and YMTC are reported to be stockpiling roughly three years' worth of ASML DUV lithography tools ahead of anticipated export limits.** Single-sourced through two hardware outlets; the underlying report was not located, so this is recorded as reported, not established. It reads as the same pre-buy behaviour seen before the 2023 controls — buying imported tools now rather than waiting on the homegrown tool this thread's DELIVERY test tracks. ⚠️ No source link located for this item; recorded from the digest text alone.
+
+## 2026-09-07 — FT reports Huawei is backing a Chinese DUV-lithography startup
+
+- ⚠️ **The Financial Times reported Huawei is backing a Chinese DUV-lithography startup** — the most direct evidence yet that China's answer to ASML is being assembled around Huawei rather than around SMIC's existing suppliers. Paywalled; confirmed at headline level only through a Korean secondary pickup. ⚠️ No direct FT or secondary link located; recorded from the digest text alone.
 
 ## 2026-09-01 — UBS estimates China needs 2-5 years for immersion-DUV high-volume manufacturing, a decade-plus for any EUV alternative
 

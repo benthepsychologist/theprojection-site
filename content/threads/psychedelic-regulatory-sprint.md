@@ -3,7 +3,7 @@ title: Psychedelic Sprint
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-06
+last_seen: 2026-09-08
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -15,6 +15,10 @@ blurb: 'Psilocybin racing toward first-ever US approval (Compass NDA targeted Q4
   the accelerating trials share. The live question: is approval outrunning the methodology
   fix?'
 ---
+
+## 2026-09-08 — Definium wins a second Breakthrough Therapy Designation, this time for depression, six days ahead of the FDA's own psychedelics hearing
+
+- **Definium Therapeutics won a second FDA Breakthrough Therapy Designation for DT120, its LSD-derived oral drug, this time in major depressive disorder — following the June designation in generalized anxiety already on this thread.** The supporting trial is reported at n=149 with an 8.1-point placebo-adjusted MADRS improvement at p<0.0001. A second BTD on a psychedelic-derived compound in a second indication is a meaningful regulatory signal about how the agency is treating this drug class, and it lands six days ahead of the FDA's own 09-14 public hearing on psychedelics (fda-psychedelic-public-hearing, confirmed on this thread's 2026-09-07 entry). ⚠️ The figures come from the company's own release — there is no independent read of the trial or a peer-reviewed publication yet — and a Breakthrough Therapy Designation is a development-pathway designation, not evidence of efficacy. (company release)
 
 ## 2026-09-05 — Musk-circle money recapitalizes Lykos: Antonio Gracias's $25m takes control of the company behind the rejected MDMA application, renamed Resilient Pharmaceuticals
 

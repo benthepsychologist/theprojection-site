@@ -3,7 +3,7 @@ title: Son All-In
 lens: global-capital
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-04
+last_seen: 2026-09-08
 weight: 2
 entities:
 - softbank
@@ -27,6 +27,10 @@ blurb: 'The empire''s concentration play, assembled from pieces other threads ca
   repricing, any forced Arm monetization, Stargate milestones, the funding-gap figure,
   and whether Roze/ABB actually reaches IPO.'
 ---
+
+## 2026-09-07 — SoftBank's Tokyo shares jump 11.2% in a single session, its biggest one-day move since July's limit-up — and a late catch the sweep itself flagged as missing
+
+- **SoftBank's Tokyo-listed shares (9984.T) rose 11.2% in a single session, from Friday's ¥5,590 close to Monday's ¥6,217 close, on returning AI risk appetite across Asia — its largest one-day move since July's limit-up.** Verified directly against the settlement series rather than taken from a headline. Asia traded a full session on 09-07 while US markets were shut for Labor Day, so this was the largest single move on any thread this map tracks that day, and it landed on a lens whose own sweep had reported the day as effectively closed. **This entry is itself a late catch**: the 09-07 global-capital digest had disclosed nineteen threads — this one among them — as unchecked when its sweep hit a hard stop mid-session, and the coverage critic's name-search pass is what found the move afterward, not the original sweep.
 
 ## 2026-09-04 — SoftBank's record ¥1tn retail bond priced at 4.75%, the top of its guided range
 

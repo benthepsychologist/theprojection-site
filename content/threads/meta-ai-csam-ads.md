@@ -3,7 +3,7 @@ title: CSAM Ads
 lens: mental-health
 status: open
 opened: 2026-08-06
-last_seen: 2026-09-03
+last_seen: 2026-09-08
 weight: 2
 entities:
 - meta-ai
@@ -16,6 +16,10 @@ blurb: 'Wired reported 2026-08-05 that Meta ran ads containing AI-generated chil
   a pattern question across ad platforms broadly, not just Meta; any parallel with
   the Grok/ Stability CSAM suits already tracked elsewhere on this map.'
 ---
+
+## 2026-09-08 — A watchdog investigation finds 300+ Meta ads with AI-generated CSAM, and traces several to Meta's own Chinese ad partners
+
+- **The Tech Transparency Project found Meta ran more than 300 paid ads containing AI-generated child sexual abuse material on Facebook and Instagram this year.** Most followed a common format — a snippet of adult pornography followed by a real child's photograph manipulated with AI to depict a sex act, with shared captions, voiceovers and backing music. TTP identified multiple real children whose images were taken from social media, including a minor member of a European royal family. The vast majority of the ads promoted Chinese AI "nudification" apps, and several were placed by Meta's own advertising partners in China, including a state-controlled company. Read against this thread's origin — a single Wired report on 08-05 that Meta had run such ads — this adds scale, provenance and a named commercial pipeline the original story didn't have. ([Tech Transparency Project](https://www.techtransparencyproject.org/articles/meta-ran-hundreds-of-paid-ads-with-child-sexual-abuse-imagery))
 
 ## 2026-09-03 — India's NHRC opens a formal inquiry into Meta over CSAM-linked Instagram ads
 

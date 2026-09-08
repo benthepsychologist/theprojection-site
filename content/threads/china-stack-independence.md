@@ -3,7 +3,7 @@ title: China's Stack
 lens: ai
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-04
+last_seen: 2026-09-08
 weight: 3
 entities:
 - zhipu-ai
@@ -18,6 +18,18 @@ blurb: 'One story, both directions: Z.AI''s 1 GW all-domestic-chip site, Kimi K3
   rules; September US-China talks) plus Beijing''s own proposed export controls on
   its models/chips. US chip-equity reaction is the measure.'
 ---
+
+## 2026-09-08 — China imposes anti-dumping deposits on Japanese dichlorosilane; Japan protests
+
+- **China imposed anti-dumping deposits of 99.2% and 80.8% on dichlorosilane imported from Japan, and Japan protested formally.** Dichlorosilane is an upstream chemical used in depositing silicon films — a real input to fabs, not a symbolic target, and the kind of chemical-supply-chain action this thread's chips/models/capital arc had not previously tracked. (SCMP, AP, Nikkei Asia — no direct links located)
+
+## 2026-09-07 — NYT: blacklisted Inspur kept buying advanced Nvidia chips through a part-owned Silicon Valley subsidiary
+
+- ⚠️ **The New York Times reported that Inspur, blacklisted by the US in 2023, kept buying advanced Nvidia chips — including Blackwell parts — through Aivres Systems, a nominally independent Silicon Valley subsidiary it part-owns (roughly one-third).** The investigation puts $5.6bn of hardware moving through that channel April 2024 → February 2026. The NYT text itself is paywalled and was not read directly; the $5.6bn figure comes from secondary outlets summarising it, so treat it as reported-not-verified. A separate $2bn Megaspeed/Malaysia claim in the same cluster appears to recycle an October 2025 story and is excluded here pending a dedupe check. ⚠️ No direct NYT link located; recorded from secondary summaries.
+
+## 2026-09-07 — FT reports Huawei is backing a Chinese DUV-lithography startup
+
+- ⚠️ **The Financial Times reported Huawei is backing a Chinese DUV-lithography startup**, the most direct evidence yet that China's answer to ASML is being assembled around Huawei rather than around SMIC's existing suppliers. Paywalled; confirmed at headline level only through a Korean secondary pickup. ⚠️ No direct FT or secondary link located; recorded from the digest text alone.
 
 ## 2026-09-04 — DeepSeek plans to order at least 160,000 Huawei Ascend chips to power the Inner Mongolia campus this thread already tracks under construction
 

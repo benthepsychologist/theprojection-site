@@ -3,7 +3,7 @@ title: GlobalFoundries — the Capex Reversal
 lens: ai
 status: open
 opened: 2026-08-04
-last_seen: 2026-08-29
+last_seen: 2026-09-08
 weight: 2
 entities:
 - globalfoundries
@@ -19,6 +19,10 @@ blurb: '⚠️ RESOLVED at the Q2 2026 print (2026-08-05, already on this thread
   and whether the ~45% stock decline since the May Mubadala sale gets explained or
   reversed by the Q2 print.'
 ---
+
+## 2026-09-08 — $375m Commerce Department award finalised, but for quantum tech, not AI silicon
+
+- **GlobalFoundries finalised a $375m Commerce Department award for quantum technology.** Adjacent to this thread rather than inside it — quantum hardware, not AI silicon — but it is the same industrial-policy instrument (a direct federal award) this thread already tracks on the AI-capex side, now pointed at a different technology. ⚠️ No source link located for this item; recorded from the digest text alone.
 
 ## 2026-08-10 — GlobalFoundries hands its factory data to Redpanda to run AI agents across every fab
 

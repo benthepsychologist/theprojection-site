@@ -3,7 +3,7 @@ title: Frontier Gatekeeping
 lens: ai
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-04
+last_seen: 2026-09-08
 weight: 3
 entities:
 - openai
@@ -20,6 +20,10 @@ blurb: 'The gpt-5.6 gating dynamic made permanent — and it''s all one buildout
   is named (SRO?); Meta''s exclusion made official; CAISI leadership (3 directors
   in a year — can it run classified review?); the first model actually gated.'
 ---
+
+## 2026-09-07 — OpenAI's own chief scientist says no lab, including his, has solved alignment — and this map missed it for two days
+
+- **OpenAI chief scientist Jakub Pachocki published "An Alien Mind," arguing that no lab — his own included — has solved alignment, that the pace of research acceleration could outrun the ability to monitor it, and that labs should agree shared safety bars and be willing to slow down voluntarily.** It is the most direct statement of that position yet from a sitting frontier-lab research head, and speaks directly to this thread's own watch on whether labs' voluntary-restraint posture converts into anything binding alongside the government-review framework. ⚠️ **This was a confirmed coverage miss, caught two days late** — the essay (public since 09-06) led two of the four AI benchmarks this map tracks and the BBC's technology page on 09-07, while this map's own same-day digest had said "nothing happened here." ([OpenAI](https://openai.com/index/an-alien-mind/))
 
 ## 2026-09-04 — Zuckerberg personally lobbies Trump against the FINRA-style AI regulator this thread has tracked since July
 

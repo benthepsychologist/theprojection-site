@@ -3,7 +3,7 @@ title: The Cross-Border Rate Leg
 lens: global-capital
 status: open
 opened: 2026-09-05
-last_seen: 2026-09-04
+last_seen: 2026-09-08
 weight: 2
 entities:
 - scott-bessent
@@ -21,6 +21,10 @@ blurb: 'Whether the world''s other long ends — Japan first, then the Bund, gil
   Treasury''s own long-end campaign is ever framed by Bessent or the market as a response
   to foreign selling rather than to domestic supply.'
 ---
+
+## 2026-09-08 — The yen hits a seven-month high on BOJ hike bets, dragging the Nikkei down 1,130 points, and the dollar-index gap proves it is yen-specific
+
+- **USD/JPY moved to 153.93 against Friday's 156.20 — a 1.45% stronger yen and a seven-month high — on bets the Bank of Japan hikes, and the Nikkei 225 fell 1,130 points (−1.70%) to 65,269.33 as the move unwound yen-funded carry positions.** The tell that this is a Tokyo-specific carry-unwind rather than broad dollar weakness: the dollar index fell only 0.31% over the same window, a fraction of the 1.45% yen move, so the currency pair moved on its own terms rather than the dollar moving against everything. This is the sharpest print yet on this thread's watch question — whether Japan's long end and the yen carry-trade unwind are now setting terms for risk assets independent of the US macro story — landing in the same session as an unrelated Gulf oil shock that a same-day read risked folding into one "risk-off" story. (Levels pulled and cross-checked in the main session against Yahoo's settlement series, 2026-09-08.)
 
 ## 2026-09-04 — A yen carry-trade unwind pushes the currency to a one-month high into the BOJ's September decision
 

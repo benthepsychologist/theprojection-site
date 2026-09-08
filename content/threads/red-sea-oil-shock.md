@@ -3,7 +3,7 @@ title: Red Sea Shock
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-06
+last_seen: 2026-09-08
 weight: 3
 entities: []
 thread_kind: story
@@ -30,6 +30,12 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   policy. This is the capital-markets and risk-underwriting read of the war, deliberately
   distinct from the conflict itself.'
 ---
+
+## 2026-09-08 — Houthi strikes on Aramco and four Saudi cities push Brent to $98.14 as OPEC+ holds October output flat
+
+- **Brent settled at $98.14, up 1.93% from Friday's $96.28, and WTI at $93.30, up 1.99% from $91.48, after Houthi drones and ballistic missiles struck Saudi Aramco energy facilities and four Saudi cities overnight, wounding at least 73.** The target set is the point: Saudi Arabia has been routing crude west to the Red Sea specifically to avoid the Strait of Hormuz, and the Red Sea coast is what was hit. Levels pulled 13:58Z against the settlement series, with the prior close and percentage cross-checked against each other. ([Al Jazeera](https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next))
+- **OPEC+ left October output unchanged, declining to add barrels against a risk premium that has taken Brent within $2 of $100 — the steady-as-she-goes stance one outlet framed as OPEC+ having "lost control of the oil market."** ⚠️ The decision was reported Sunday 09-06 and recirculated today for its interaction with today's strike, not as a fresh decision. (Reuters)
+- **Qatar said reopening the Strait of Hormuz "unconditionally" is a priority and is discussing new proposals with Beijing, as the US-Iran war passes six months.** Foreign Ministry spokesperson Ibrahim Al Hashmi called the current "no war, no peace" state unacceptable; Qatar's prime minister raised the closure directly with Wang Yi in Beijing, and Al Hashmi separately condemned the Houthi strikes on Saudi civilian sites — Doha treating Yemen and Hormuz as one shipping file rather than two. ([Al Jazeera](https://www.aljazeera.com/news/2026/9/8/qatar-says-reopening-strait-of-hormuz-unconditionally-is-a-priority))
 
 ## 2026-09-07 — Aramco's Jizan refinery hit again as Brent reaches a six-week high
 

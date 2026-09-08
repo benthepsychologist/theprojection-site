@@ -3,7 +3,7 @@ title: Fed Independence Fight
 lens: global-capital
 status: open
 opened: 2026-08-09
-last_seen: 2026-09-06
+last_seen: 2026-09-08
 weight: 2
 entities:
 - lisa-cook
@@ -21,6 +21,10 @@ blurb: 'Two distinct, simultaneous levers on the Fed''s independence, offered as
   the 09-16 FOMC decision — as of the 08-09 /week read, a bigger open question than
   anything purely financial on this map.'
 ---
+
+## 2026-09-08 — White House pressure on Warsh intensifies as the market question flips from cut to hike, but the bond market itself did not move
+
+- **White House pressure on Chair Kevin Warsh intensified into a meeting where the market's own framing question has flipped — coverage now asks whether the Fed hikes rather than whether it cuts — even though the Treasury market barely moved on the day: the 10-year sat at 4.780% against Thursday's 4.784%, the 30-year at 5.231% against 5.246%, and the 13-week bill at 3.760%, which now sits at the top of this map's standing 3.50–3.75% hawkish-hold range.** ⚠️ **The "markets now expect a hike" framing itself comes from press reporting and opinion commentary, not from a live pricing check** — this map's own last read, roughly 60% priced for a hike into the 09-16 FOMC, was carried in the 09-07 interpretation and is now several days old; neither that figure nor today's press framing has been checked against a live futures curve today. The bill yield sitting at the top of the hawkish-hold band is suggestive of real hike pricing, not a substitute for checking it. An oil-driven inflation scare (see [The Cross-Border Rate Leg](/threads/cross-border-rates/) and the Gulf strikes on this lens) arriving in the same window as a political push for looser policy puts Warsh in the position of hiking into pressure or appearing to cave — precisely the collision this thread has tracked since Jackson Hole. (Fortune; Reuters and Bloomberg commentary)
 
 ## 2026-09-05 — The administration's pre-FOMC pressure campaign is now the president, the vice president, the Treasury secretary and Navarro in one week, CNBC tallies, ten days before a meeting priced near 60% for a hike
 

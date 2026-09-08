@@ -3,7 +3,7 @@ title: ASIC Tolls
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-03
+last_seen: 2026-09-08
 weight: 2
 entities:
 - broadcom
@@ -18,6 +18,11 @@ blurb: 'Broadcom''s two tolls. ①The custom-ASIC co-design book — FIVE majors
   build. Track: Jalapeño tape-out, the sixth customer, the litigation spread, next
   earnings (~early Sept, unconfirmed).'
 ---
+
+## 2026-09-08 — Amazon buys a second custom-silicon path, not from Broadcom
+
+- **Amazon and Qualcomm announced a multi-generational collaboration on custom AI data-centre silicon, and Qualcomm's stock rose about 10%.** Qualcomm issued Amazon a warrant for up to 25 million of its own shares as part of the deal. ⚠️ The "$4 billion" figure in most headlines is the value of that warrant, not cash consideration and not a disclosed contract size. The substance for this thread: Amazon already designs Trainium in-house, and this deal is Amazon buying a *second* custom-silicon path through Qualcomm rather than deepening the first — a customer-base data point for the ASIC-toll model that sits outside Broadcom's own five/six-customer roster this thread otherwise tracks.
+  ([CNBC](https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html))
 
 ## 2026-09-02 — Broadcom's Q3 date firms to today, after the close
 

@@ -3,7 +3,7 @@ title: Social Media Fight
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-08-29
+last_seen: 2026-09-08
 weight: 2
 entities:
 - meta-ai
@@ -15,6 +15,10 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
   real academic gains (6.4% test scores) but consistently null mental-health effects.
   Two different claims being cited as one.'
 ---
+
+## 2026-09-07 — Kentucky's attorney general details the settlement's state-specific terms: $358m, a school-hours notification block, and a midnight curfew
+
+- **Kentucky's attorney general put state-specific numbers and product terms on Meta's $17.1bn teen-safety settlement already logged on this thread: $358 million to Kentucky, a block on notifications during school hours, and a midnight-to-6am curfew.** The product changes are the part that matters beyond the money — a settlement that changes how the product behaves for minors, in named hours, is a different instrument than one that only pays, and it gives this thread's "natural experiment" framing a second, state-specific data point beyond the national terms already logged on 08-27. ⚠️ Sourced to a local television paraphrase of the AG's remarks, not the settlement text itself; the specific hours and the state allocation should be confirmed against the filed agreement before being treated as final.
 
 ## 2026-08-30 — France's under-15 ban was struck down as unconstitutional on 08-14, and this thread carried it as live law for twenty days
 

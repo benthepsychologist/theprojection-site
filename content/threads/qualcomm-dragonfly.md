@@ -3,7 +3,7 @@ title: Dragonfly Return
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-29
+last_seen: 2026-09-08
 weight: 2
 entities:
 - qualcomm
@@ -18,6 +18,11 @@ blurb: 'Qualcomm''s datacenter re-entry, eight years after Centriq died: Dragonf
   two weeks); Ventana/RISC-V status unclear — does Dragonfly supersede it? First live
   test: Q3 FY26 earnings 07-29 (tomorrow) — does Dragonfly move guidance?'
 ---
+
+## 2026-09-08 — Amazon signs on as a second Dragonfly-era customer, and Qualcomm stock jumps ~10%
+
+- **Amazon and Qualcomm announced a multi-generational collaboration on custom AI data-centre silicon, and Qualcomm's stock rose about 10% on the news.** As part of the deal Qualcomm issued Amazon a warrant for up to 25 million of its own shares. ⚠️ The "$4 billion" figure in most headlines is the value of that warrant — not cash consideration, and not a disclosed contract size, a distinction most coverage collapsed. Amazon is a new named customer for the Dragonfly data-center silicon business this thread tracks, alongside Meta's already-disclosed Dragonfly C1000 relationship.
+  ([CNBC](https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html))
 
 ## 2026-08-26 — Samsung and SK hynix sign on to help build Qualcomm's memory-stacking answer to HBM
 

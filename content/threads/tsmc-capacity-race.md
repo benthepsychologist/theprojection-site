@@ -3,7 +3,7 @@ title: TSMC Capacity Race
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-25
+last_seen: 2026-09-08
 weight: 3
 entities:
 - tsmc
@@ -17,6 +17,11 @@ blurb: 'The chokepoint is cashing in: capex raised 15% to $60-64B + another $100
   ban, 07-21). "Nvidia overtook Apple as top customer" is contested, not settled.
   Our ~90% advanced-node anchor is carried, not re-verified. Next: Q3 earnings.'
 ---
+
+## 2026-09-08 — TSMC commits to ASML's High-NA EUV tools alongside Samsung and Intel; opens a joint photomask initiative with ASML
+
+- **TSMC, Samsung and Intel all committed to ASML's High-NA EUV tools for the next process node**, and TSMC and ASML separately opened a joint initiative on large-format photomasks, with a pilot production line targeted for 2031. Three competing foundries converging on the same toolmaker is the clearest signal yet of where TSMC's own capacity race goes next.
+  ([CNBC](https://www.cnbc.com/2026/09/08/tsmc-samsung-asml-high-na-euv-machine-ai-chips.html), Intel Foundry, pr.tsmc.com)
 
 ## 2026-08-25 — Apple ships the first commercial silicon on TSMC's N2 node
 

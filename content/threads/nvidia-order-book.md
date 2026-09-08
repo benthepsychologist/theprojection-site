@@ -3,7 +3,7 @@ title: Nvidia's Order Book
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-03
+last_seen: 2026-09-08
 weight: 2
 entities:
 - nvidia
@@ -16,6 +16,10 @@ blurb: The demand side of the chip spend — a ~$1T Blackwell+Rubin book (a mana
   has shifted to supply (HBM4). Watch the per- customer concentration and the circular-financing
   stakes (Nvidia's 10-Q investments in its own buyers).
 ---
+
+## 2026-09-07 — NYT: blacklisted Inspur kept buying Nvidia chips, including Blackwell, through a part-owned subsidiary
+
+- ⚠️ **The New York Times reported that Inspur, blacklisted by the US in 2023, kept buying advanced Nvidia chips — including Blackwell parts — through Aivres Systems, a nominally independent Silicon Valley subsidiary it part-owns (roughly one-third).** The investigation puts $5.6bn of hardware moving through that channel April 2024 → February 2026 — a live example of this thread's demand-side question (who is actually buying, through what channel) running into export-control evasion. The NYT text itself is paywalled and was not read directly; the $5.6bn figure comes from secondary outlets summarising it, so treat it as reported-not-verified. A separate $2bn Megaspeed/Malaysia claim in the same cluster appears to recycle an October 2025 story and is excluded here pending a dedupe check. ⚠️ No direct NYT link located; recorded from secondary summaries.
 
 ## 2026-09-03 — The deal closes the arc this thread tracked since 08-26 — and the confirmed total is lower than the rumor this thread carried on 09-01
 

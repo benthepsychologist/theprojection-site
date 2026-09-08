@@ -3,7 +3,7 @@ title: Grid & Turbines
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-03
+last_seen: 2026-09-08
 weight: 1
 entities:
 - spacex
@@ -16,6 +16,10 @@ blurb: The grid is the binding constraint (not chips) — interconnection queues
   fights. Watch the DOJ national- security shield over xAI's unpermitted turbines
   — the improvisation has outrun the regulatory system.
 ---
+
+## 2026-09-08 — DOE closes a $1.9bn loan to bring a nuclear reactor's power back online for a hyperscaler's load
+
+- **The Energy Department closed a loan of up to $1.9 billion to restart NextEra's Duane Arnold nuclear plant in Iowa, with a new NextEra-Google collaboration committing the restored output to AI demand.** This thread has tracked hyperscalers securing power through gas, solar, geothermal and interconnection-queue fights; a closed federal loan restoring existing nuclear capacity is a different mechanism again — restarted baseload capacity backed by public money rather than a developer-financed new-build or a behind-the-meter workaround. A *closed* loan is money committed, not an announced intent. ⚠️ The plant's capacity and restart-target year could not be confirmed from a 2026-dated source and are omitted. (DOE; PR Newswire; NextEra newsroom)
 
 ## 2026-09-03 — Flex buys a power-conversion supplier for $4.4 billion, aimed directly at the equipment ceiling this thread tracks
 

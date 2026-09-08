@@ -3,7 +3,7 @@ title: Russia-Ukraine War
 lens: world-news
 status: open
 opened: 2026-07-31
-last_seen: 2026-09-06
+last_seen: 2026-09-08
 weight: 3
 entities: []
 thread_kind: story
@@ -20,6 +20,12 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   sibling thread the same way Iran''s Widening War / Red Sea Shock did, if and when
   that read becomes substantial enough to carry on its own.'
 ---
+
+## 2026-09-08 — Russia ends its three-day Kyiv pause hours after the US envoys leave, and the ledger's pause claim resolves refuted
+
+- **Russia struck Kyiv city overnight, ending the three-day pause it had declared for the US envoys' visit, hours after Witkoff and Kushner left the capital.** Ukraine's Air Force reported 166 drones and 32 cruise missiles launched alongside ballistic and anti-ship missiles, with 142 drones, 31 cruise missiles and 2 ballistic missiles downed and impacts at 29 locations nationwide; Kyiv and Odesa were named the main targets. Mayor Vitali Klitschko reported 3 dead and at least 10 injured inside Kyiv city, 5 hospitalised and 2 in serious condition. A drone hit the building housing the We Are Ukraine TV channel while it was on air. The first two nights of the pause had held for the city; the third did not. ⚠️ Injury counts vary by source — the Kyiv Independent put them at 25 against Klitschko's 10, and this figure uses the mayor's own count for the city. ([Ukrainska Pravda](https://www.pravda.com.ua/eng/news/2026/09/08/8052411/), [France24](https://www.france24.com/en/), ABC News/AP)
+- ⚠️ **The ledger entry kremlin-kyiv-strike-pause-0908 resolved refuted.** The pause broke on its third and deciding night: two nights had held for Kyiv city, the third did not, with 166 drones and 32 cruise missiles launched, three dead inside the city, and a TV station hit on air — evidence loud rather than absent. The entry was a null claim ("no strikes for three nights"), so a fifth ledger status, refuted, was added for a loudly-disproved claim that neither passed-silent nor hit/slipped could describe correctly.
+- **Zelenskyy said the US envoys had presented "decent ideas" for peace talks — a characterisation offered after the strike rather than before it.** ⚠️ Headline-level only, from a Reuters item whose body could not be fetched.
 
 ## 2026-09-07 — External power restored to the Zaporizhzhia nuclear plant after 18 days on diesel generators
 

@@ -3,7 +3,7 @@ title: The Great Rotation
 lens: global-capital
 status: open
 opened: 2026-07-29
-last_seen: 2026-09-04
+last_seen: 2026-09-08
 weight: 2
 entities: []
 thread_kind: story
@@ -17,6 +17,11 @@ blurb: 'Analysts (Morgan Stanley, UBS, Forrester) are calling an explicit alloca
   policy) and from AI Bear Turn (the broader AI-stock drawdown) — this is specifically
   the reallocation call between the two cohorts.'
 ---
+
+## 2026-09-08 — Qualcomm rises ~10% on an Amazon custom-silicon deal, but the "$4 billion" headline figure is a warrant, not a contract
+
+- **Qualcomm rose about 10% on a multi-generational custom-silicon agreement with Amazon for AI data-centre infrastructure.** ⚠️ **The "$4 billion" figure in most headlines is the value of a warrant Qualcomm issued Amazon for up to 25 million of Qualcomm's own shares — not cash consideration, and not a disclosed contract size.** Most coverage collapses that distinction; it matters for this thread because it means the print is a rotation signal (Amazon adding a second custom-silicon path alongside its in-house Trainium chips) rather than a disclosed revenue number for Qualcomm.
+  ([CNBC](https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html))
 
 ## 2026-09-04 — Chip-vs-tech split held through Friday's close, did not reverse
 

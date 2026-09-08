@@ -3,7 +3,7 @@ title: Iran's Widening War
 lens: world-news
 status: open
 opened: 2026-07-23
-last_seen: 2026-09-06
+last_seen: 2026-09-08
 weight: 3
 entities: []
 thread_kind: story
@@ -45,6 +45,12 @@ blurb: '⚠️ ORIGIN CORRECTED 2026-08-02 — READ THIS FIRST. This thread spen
   with Netanyahu''s office framing it as pressure ahead of September talks. Track
   this alongside Hormuz/Gulf as a distinct front, not folded into it.'
 ---
+
+## 2026-09-08 — Houthi strikes on Saudi Aramco deepen the regional war as Qatar presses for an unconditional Hormuz reopening
+
+- **Houthi drones and ballistic missiles struck Saudi Aramco energy facilities and four Saudi cities overnight, wounding at least 73 including women and children — the sharpest Yemen-Saudi escalation since the 2022 truce, and a widening that folds Yemen, the Red Sea and the Iran war into one file.** Houthi military spokesman Yahya Saree claimed strikes on energy infrastructure in southern Saudi Arabia including near the 400,000-barrel-a-day Jizan refinery; coalition spokesman Maj-Gen Turki al-Malki said Abha, Khamis Mushait, Jazan and Najran were hit. ⚠️ The 73-wounded figure traces to a single Saudi official statement repeated by several outlets, not to independent counts. ([Al Jazeera](https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next))
+- **Qatar said reopening the Strait of Hormuz "unconditionally" is a priority as the US-Iran war passes six months, and is discussing new proposals with Beijing.** Foreign Ministry spokesperson Ibrahim Al Hashmi called the current "no war, no peace" state unacceptable; Qatar's prime minister raised the closure directly with Wang Yi in Beijing, and Al Hashmi separately condemned the Houthi strikes on Saudi civilian sites — treating Yemen and Hormuz as one shipping file rather than two. ([Al Jazeera](https://www.aljazeera.com/news/2026/9/8/qatar-says-reopening-strait-of-hormuz-unconditionally-is-a-priority))
+- **The UK separately published legislation for tougher sanctions on Iran over its nuclear programme.** ⚠️ Headline-level only; the Reuters body was not reachable.
 
 ## 2026-09-07 — Hegseth threatens to sink Iranian tankers and Ghalibaf answers in kind
 

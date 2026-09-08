@@ -3,7 +3,7 @@ title: AWS Capex
 lens: ai
 status: developing
 opened: 2026-07-23
-last_seen: 2026-08-28
+last_seen: 2026-09-08
 weight: 2
 entities:
 - amazon-aws
@@ -18,6 +18,11 @@ blurb: 'Earnings 07-30 (corrected from ~07-31). Crawl 07-27: the AGI-cuts vs $20
   + X-Energy 5GW-by-2039. Watch 07-30: capex guide, backlog, FCF (reportedly borrowing
   $25B).'
 ---
+
+## 2026-09-08 — Amazon signs a multi-generational custom-silicon deal with Qualcomm, on top of its own Trainium program
+
+- **Amazon and Qualcomm announced a multi-generational collaboration on custom AI data-centre silicon, and Qualcomm's stock rose about 10%.** Qualcomm issued Amazon a warrant for up to 25 million of its own shares as part of the deal. ⚠️ The "$4 billion" figure most headlines led with is the value of that warrant — not cash consideration, and not a disclosed contract size. Amazon already designs Trainium in-house; this reads as a second custom-silicon path rather than a deepening of the first, a capex-diversification signal for this thread.
+  ([CNBC](https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html))
 
 ## 2026-08-28 — Four Swedish wind PPAs, 199MW
 

@@ -3,7 +3,7 @@ title: Gaza War
 lens: world-news
 status: open
 opened: 2026-08-01
-last_seen: 2026-09-06
+last_seen: 2026-09-08
 weight: 3
 entities: []
 thread_kind: story
@@ -37,6 +37,10 @@ blurb: 'Opened on Ben''s steer 2026-08-01, after a disarmament framework announc
   Ministry range as broadly accurate. Both the inflation and the undercount framings
   still circulate; report both, resolve neither.'
 ---
+
+## 2026-09-08 — UK, France and ten other countries sanction Israeli settlement goods as Miliband calls West Bank conduct "ethnic cleansing"
+
+- **The UK, France and ten other countries announced sanctions and import bans on goods from Israeli settlements in the West Bank.** Foreign Secretary Ed Miliband told Parliament Britain would introduce an import ban plus a "comprehensive sanctions regime," saying Britain "refuses to be bystanders" to what he called ethnic cleansing in parts of the West Bank. The US ambassador to Israel criticised the move and two Israeli ministers called for retaliation. Practical effect on the roughly £6bn UK-Israel trade relationship is expected to be small, since settlement-origin goods are hard to distinguish — the significance is the twelve-country bloc, not the trade volume. ([Al Jazeera](https://www.aljazeera.com/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements))
 
 ## 2026-09-07 — Five killed in Gaza in 24 hours despite ceasefire, including two children in separate strikes
 

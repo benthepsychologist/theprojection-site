@@ -3,7 +3,7 @@ title: ASML — the EUV Monopoly
 lens: ai
 status: open
 opened: 2026-08-04
-last_seen: 2026-08-25
+last_seen: 2026-09-08
 weight: 3
 entities:
 - asml
@@ -31,6 +31,11 @@ blurb: 'Guidance is climbing (€36-40B to €43-45B for FY2026) while the China
   follow-on yet. Next: Q3 2026 earnings, MATCH Act''s Senate/NDAA fate, Lutnick inquiry
   resolution.'
 ---
+
+## 2026-09-08 — TSMC, Samsung and Intel all commit to High-NA EUV; ASML and TSMC open a joint photomask initiative
+
+- **TSMC, Samsung and Intel all committed to ASML's High-NA EUV tools**, the clearest signal yet that the entire leading edge is converging on one toolmaker for the next node, extending ASML's standard-EUV monopoly position into High-NA. **ASML and TSMC also opened a joint initiative on large-format photomasks**, with a pilot production line targeted for 2031 — the honest timescale of this transition.
+  ([CNBC](https://www.cnbc.com/2026/09/08/tsmc-samsung-asml-high-na-euv-machine-ai-chips.html), Intel Foundry, pr.tsmc.com)
 
 ## 2026-08-25 — Chinese state media urges Dutch retaliation over the threatened ASML export ban
 

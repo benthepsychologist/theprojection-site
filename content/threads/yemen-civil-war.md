@@ -3,7 +3,7 @@ title: Yemen's Civil War
 lens: world-news
 status: open
 opened: 2026-09-05
-last_seen: 2026-09-06
+last_seen: 2026-09-08
 weight: 2
 entities: []
 thread_kind: story
@@ -17,6 +17,10 @@ blurb: 'The Houthi-versus-government ground war inside Yemen — deliberately di
   ground or air support, and whether the UN envoy''s warning of a return to full-scale
   war becomes a formal collapse of the 2022 truce.'
 ---
+
+## 2026-09-08 — Houthi strikes on Aramco and four Saudi cities mark the sharpest escalation since the 2022 truce
+
+- **Houthi drones and ballistic missiles struck Saudi Aramco energy facilities and four Saudi cities overnight, wounding at least 73 including women and children — the sharpest Yemen-Saudi escalation since the 2022 truce.** Houthi military spokesman Yahya Saree claimed strikes on energy infrastructure in southern Saudi Arabia including near the 400,000-barrel-a-day Jizan refinery; coalition spokesman Maj-Gen Turki al-Malki said Abha, Khamis Mushait, Jazan and Najran were hit. It follows Saudi air and cruise-missile strikes on Houthi-held al-Jawf, al-Bayda, Marib and Taiz — including a strike on al-Hazm prison the Houthis say killed seven — and Yemeni government counteroffensives begun Monday. ⚠️ The 73-wounded figure traces to a single Saudi official statement repeated by several outlets, not to independent counts. ([Al Jazeera](https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next))
 
 ## 2026-09-07 — A third strike on Jizan in three months as the Yemen front reaches Saudi oil infrastructure
 

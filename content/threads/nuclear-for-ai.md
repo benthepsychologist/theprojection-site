@@ -3,7 +3,7 @@ title: Nuclear for AI
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-28
+last_seen: 2026-09-08
 weight: 2
 entities:
 - amazon-aws
@@ -16,6 +16,10 @@ blurb: The nuclear-for-AI wave — but ~0 net-new MW power any AI datacenter bef
   announced is <20% of projected demand; every genuinely new SMR/Gen-IV project is
   2030s-weighted. Watch which actually clear licensing.
 ---
+
+## 2026-09-08 — The Energy Department closes a $1.9bn loan restarting NextEra's Duane Arnold reactor, with the output pre-committed to Google
+
+- **The Energy Department closed a loan of up to $1.9 billion to restart NextEra's Duane Arnold nuclear plant in Iowa, alongside a new NextEra-Google collaboration tying the plant's output directly to AI demand.** A *closed* loan is a materially different fact from an announced one — this is money committed, not intent — and it is a rare instance of this thread's own "announced-to-operational gap" watch line actually narrowing rather than widening. ⚠️ The plant's capacity and restart-target year could not be confirmed from a 2026-dated source and are deliberately omitted rather than recalled from an earlier context. (DOE; PR Newswire; NextEra newsroom)
 
 ## 2026-08-28 — PJM dropped Oklo's Meta-backed Ohio nuclear project from its interconnection queue, and the FERC dispute is still open
 

@@ -3,7 +3,7 @@ title: Anthropic IPO
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-04
+last_seen: 2026-09-08
 weight: 2
 entities:
 - anthropic
@@ -14,6 +14,11 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
   or flip-to-public, valuation vs the $965B print, and how the Opus 5 cycle + the
   AMD/Azure/Google-TPU compute deals get positioned in the roadshow narrative.'
 ---
+
+## 2026-09-07 — Anthropic walks away from the ~$6bn Decart acquisition weeks before its expected IPO, closing a ledger entry that had stood silent since 09-04
+
+- **Anthropic walked away from its roughly $6 billion acquisition of the Israeli AI startup Decart, weeks before its own expected IPO.** Bloomberg reported the withdrawal first, at 02:02Z; Calcalist — the Israeli outlet that broke the original deal report on 08-09 — confirmed it 90 minutes later, followed by Ynetnews, The Next Web, Silicon Republic and PYMNTS. Coverage describes it as scuttled outright, not paused or delayed. ⚠️ **Every one of those bylines traces back to the same single Bloomberg scoop, and neither Anthropic nor Decart has confirmed it.** This closes attention/upcoming.yaml's decart-acquisition-close ledger entry as withdrawn, after it had stood passed-silent with its grace period expired since 09-04 — and the entry itself had named two different buyers over its life, SpaceX first and then Anthropic. Twenty-two days after coverage had put early-September completion odds "high," the deal is dead instead — a materially different outcome from the silence the ledger had been carrying, and it lands as Anthropic's IPO preparation (the credit facility, the trust-governance scrutiny, the S-1 timing) is the active story on this thread.
+  ([Calcalist](https://www.calcalistech.com/ctechnews/article/hjhzrluuml), Bloomberg, [Ynetnews](https://www.ynetnews.com/))
 
 ## 2026-09-04 — Anthropic's IPO puts its unusual outside-trustee governance structure under scrutiny for the first time
 
