@@ -3,7 +3,7 @@ title: The Enterprise Agent Land Grab
 lens: ai
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-06
+last_seen: 2026-09-08
 weight: 2
 entities:
 - anthropic
@@ -25,6 +25,10 @@ blurb: 'Whether the enterprise agent-product surface — the layer where labs an
   IDE install counts) ever get disclosed to test whether the packaging actually converts
   to usage.'
 ---
+
+## 2026-09-08 — Cognition raises over $2bn at a $48bn valuation, nearly doubling in four months
+
+- **Cognition raised more than $2bn in a Series E led by Andreessen Horowitz and Accel, valuing the maker of the Devin coding agent at $48bn** — close to double the $26bn it carried four months ago. The company put run-rate revenue at almost $900m, up from $492m, and named Nvidia, GE Aerospace, Citi and Mercedes-Benz as production customers of the agent. ⚠️ The revenue and customer figures are the company's own, reported via Bloomberg, not independently verified. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-08/ai-startup-cognition-raises-2-billion-at-a-48-billion-value))
 
 ## 2026-09-04 — Altman apologizes for a "messy" Astra rollout that left paying Plus/Pro/Business/Enterprise users without access
 

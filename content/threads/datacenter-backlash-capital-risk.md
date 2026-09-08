@@ -3,7 +3,7 @@ title: The Backlash Prices In
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-06
+last_seen: 2026-09-08
 weight: 2
 entities:
 - openai
@@ -26,6 +26,10 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   an industry messaging campaign, if one emerges, changes the polling or the moratorium
   count.'
 ---
+
+## 2026-09-08 — Massachusetts puts data centres above 25MW under local approval and bans state NDAs with developers
+
+- **Governor Maura Healey signed an executive order requiring data-centre projects above 25MW of peak demand to secure local community-benefit agreements before state permitting, and barring state agencies from signing NDAs with developers.** The NDA ban is the sharper half: the secrecy agreements that have let siting proceed without disclosure are what local opposition has organised against elsewhere. It builds on a June 2026 clean-energy and cost-recovery framework. ([WBUR](https://www.wbur.org/news/2026/09/08/proposed-data-centers-local-approvals-healey-massachusetts))
 
 ## 2026-09-05 — AI companies have pledged about $265 million to super PACs and political groups for the 2026 midterms, per a WSJ analysis reported Saturday
 

@@ -3,7 +3,7 @@ title: The Reckoning
 lens: mental-health
 status: developing
 opened: 2026-06-28
-last_seen: 2026-09-04
+last_seen: 2026-09-08
 weight: 3
 entities:
 - character-ai
@@ -17,6 +17,10 @@ blurb: 'The capability/approval gap for AI mental-health chatbots is being close
   real regulatory pathway (FDA/MHRA), case outcomes, and any big-tech health-arm move
   into the vacuum. Ben''s sharpest edge — the evidence-gap thesis playing out live.'
 ---
+
+## 2026-09-08 — Florida's attorney general moves to make AI companies liable when a product "participates in" a crime
+
+- **Florida Attorney General James Uthmeier announced a push for legislation making AI companies liable when their products "participate in" a crime**, reaching any company with control over an AI system's design, training, deployment or safety settings, with fines, victim payments and court-ordered monitoring as remedies. His office cited the 2025 Florida State University shooting and a University of South Florida murder case, both said to involve ChatGPT use by the suspects. This is a legislative push distinct from Florida's existing June 2026 civil suit against OpenAI and Sam Altman. ⚠️ Single-sourced to a local outlet's report of the announcement; no press release or bill text was located, so the scope described is the AG's characterisation, not statutory language. ([News4Jax](https://www.news4jax.com/news/local/2026/09/08/florida-ag-pushes-to-hold-ai-chatbot-companies-accountable-for-crimes/))
 
 ## 2026-09-04 — California's AB 1979 is formally presented to Governor Newsom, the second of five tracked AI/MH bills to reach his desk
 

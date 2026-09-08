@@ -3,7 +3,7 @@ title: AI Debt Gets Rated
 lens: global-capital
 status: open
 opened: 2026-08-11
-last_seen: 2026-09-04
+last_seen: 2026-09-08
 weight: 2
 entities:
 - nvidia
@@ -27,6 +27,10 @@ blurb: 'Whether AI-buildout debt is becoming its own underwritten, rated, public
   an infrastructure asset with a 20-year life or like equipment on a 3-4 year depreciation
   clock — the two produce very different recovery rates in a default.'
 ---
+
+## 2026-09-08 — AI-related debt reaches about $500bn and a fifth of higher-rated US issuance, with lenders now pricing construction risk
+
+- **AI-related debt issuance reached roughly $500bn through early August, about a fifth of higher-rated US bond issuance, against roughly 1% in 2024.** Lenders are reported to be demanding higher yields and legal backstops as the risk they underwrite shifts from demand risk to construction risk — whether the things get built on time, not whether anyone wants the compute. ⚠️ This is a Reuters Breakingviews analysis citing Goldman Sachs figures, so the framing is commentary; the $500bn figure was cross-checked against the same number cited independently by InsideAI News and GIS Reports, but reuters.com is unreachable from this session and the original column text was not read directly.
 
 ## 2026-09-04 — ByteDance locks in a $29.6 billion unsecured loan, the year's second-largest Asian financing after SoftBank's, to fund AI buildout
 
