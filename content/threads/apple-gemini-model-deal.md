@@ -3,7 +3,7 @@ title: Apple × Gemini
 lens: ai
 status: developing
 opened: 2026-06-28
-last_seen: 2026-07-30
+last_seen: 2026-09-09
 weight: 2
 entities:
 - apple
@@ -19,6 +19,11 @@ blurb: 'At WWDC 2026 (06-08) Apple shipped Siri AI on Apple Foundation Models "c
   $1B/yr figure ever gets confirmed, whether Apple builds back toward its own frontier
   model. # crawl 2026-07-27'
 ---
+
+## 2026-09-09 — Siri AI ships publicly, still gated to a waitlist and still blocked in the EU and China
+
+- **Siri AI shipped 2026-09-09, English-only and gated by a waitlist, with Apple reconfirming at actual ship time that it remains blocked in the EU and China with no launch timeline given for either** — the thread's own EU/DMA watch item, now answered at shipping time rather than at announcement time: still unresolved. The ~$1B/yr Google deal figure remains unconfirmed by either company.
+  ([TechTimes, 2026-09-02](https://www.techtimes.com/articles/326347/20260902/siri-ai-ships-september-9-waitlisted-eu-blocked-ternuss-constrained-launch.htm))
 
 ## 2026-06 (WWDC) — Thread opened
 

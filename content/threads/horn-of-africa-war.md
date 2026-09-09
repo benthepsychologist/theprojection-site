@@ -3,7 +3,7 @@ title: Horn of Africa War
 lens: world-news
 status: open
 opened: 2026-08-04
-last_seen: 2026-08-15
+last_seen: 2026-09-09
 weight: 2
 entities: []
 thread_kind: story
@@ -19,6 +19,11 @@ blurb: 'A Tigray-war reignition with cross-border spillover, offered as a thread
   conflict above hyper-local scale is a yes, not a judgment call re-litigated per
   war.'
 ---
+
+## 2026-09-09 — AU mediation attempt has stalled; Eritrea resisting dialogue
+
+- **Human Rights Watch reports the African Union has failed to secure renewed commitment from either side to the 2022 Pretoria agreement, despite a conflict-prevention meeting in Luanda a week earlier — and describes Eritrea as resisting Ethiopia's calls for dialogue, with no serious mediation push from Washington or anyone else.** This directly answers the thread's own standing watch question (any AU/UN mediation) — the answer as of today is: attempted, and stalled. It does not itself confirm Eritrea has crossed the thread's step-change threshold into direct war (the tank-deployment/Tsimdo-coalition facts are already on the 08-06 entry below) — this is a mediation-track update layered on top of already-known military facts.
+  ([HRW, 2026-09-09](https://www.hrw.org/news/2026/09/09/rising-tigray-tensions-test-african-union))
 
 ## 2026-08-06 — The Sherarina clash ran about 11 hours and stopped; outside analysis, not confirmed reporting, names an Eritrea/Sudan angle behind it
 

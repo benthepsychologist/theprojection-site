@@ -46,6 +46,13 @@ blurb: '⚠️ ORIGIN CORRECTED 2026-08-02 — READ THIS FIRST. This thread spen
   this alongside Hormuz/Gulf as a distinct front, not folded into it.'
 ---
 
+## 2026-09-09 — CENTCOM destroys five more Iranian tankers; Iran retaliates with missiles at Jordan's Muwaffaq Salti Air Base
+
+- **CENTCOM destroyed five Iranian tankers — Kaviz, Charminar, Horizon 1 and Riesco in the Gulf of Oman, and Derya near Kharg Island — on 09-08, after two failed Iranian missile attempts on a US warship; crews were ordered to abandon ship before the strikes.** Corroborated across five-plus outlets. ([Al Jazeera](https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base), NBC News, The National, Ynetnews, Outlook India)
+- **Iran retaliated hours later with ballistic missiles at Muwaffaq Salti Air Base (Al Azraq), Jordan — the principal US air-ops hub there, and the first Iranian strike to reach Jordanian soil since the war widened to bases there on 07-28.** Jordan's military said it intercepted 18 of 20 incoming missiles; the other two fell in unpopulated areas, with no deaths reported. ([Al Jazeera](https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base))
+- ⚠️ **Iranian state media (Fars News, IRGC-linked) separately claimed damage to F-35/F-16/F-15 facilities at Azraq — a contested Iranian claim, not confirmed fact, and implicitly contradicted by Jordan's own no-casualties account.** No independent corroboration found.
+- No direct Israel-Iran exchange and no Lebanon-front activity were found in this window — a notably quiet stretch on both fronts after a volatile week.
+
 ## 2026-09-08 — Houthi strikes on Saudi Aramco deepen the regional war as Qatar presses for an unconditional Hormuz reopening
 
 - **Houthi drones and ballistic missiles struck Saudi Aramco energy facilities and four Saudi cities overnight, wounding at least 73 including women and children — the sharpest Yemen-Saudi escalation since the 2022 truce, and a widening that folds Yemen, the Red Sea and the Iran war into one file.** Houthi military spokesman Yahya Saree claimed strikes on energy infrastructure in southern Saudi Arabia including near the 400,000-barrel-a-day Jizan refinery; coalition spokesman Maj-Gen Turki al-Malki said Abha, Khamis Mushait, Jazan and Najran were hit. ⚠️ The 73-wounded figure traces to a single Saudi official statement repeated by several outlets, not to independent counts. ([Al Jazeera](https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next))
