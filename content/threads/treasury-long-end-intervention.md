@@ -3,7 +3,7 @@ title: Treasury's Long-End Defense
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-08
+last_seen: 2026-09-09
 weight: 3
 entities:
 - scott-bessent
@@ -25,6 +25,11 @@ blurb: 'Whether the Treasury''s own cash position is being used to suppress long
   Warsh''s keynote addresses the TGA mechanism directly, and whether any auction result
   or yield move ties back to it explicitly.'
 ---
+
+## 2026-09-10 — Yields keep rising with oil instead of falling on safe-haven demand, and gold breaks the usual correlation
+
+- **The US 10-year Treasury yield reached 4.926% (+0.089pp) as of 10:07 ET — a further move up from Tuesday 09-09's official close of 4.845% (+4bp on the day, described by CNBC as the highest since 2023), consistent with roughly an additional 8bp move into today's session.** The 2-year traded at 4.522% (+0.095pp) and the 30-year at 5.345% (+0.059pp), both at or near 52-week highs; neither was independently cross-sourced this cut, so both are carried as single-sourced reads pending corroboration next pass. ([investing.com 10-year](https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield), CNBC, ["10-year Treasury yield touches highest since 2023"](https://www.cnbc.com/2026/09/09/treasury-yields-oil-inflation.html), [investing.com 2-year](https://www.investing.com/rates-bonds/u.s.-2-year-bond-yield), [investing.com 30-year](https://www.investing.com/rates-bonds/u.s.-30-year-bond-yield))
+- **The point for this thread: yields rose alongside oil rather than falling on safe-haven demand, extending the "yields rise on bad news, not fall" pattern this thread flagged around the Treasury buyback's first tripled-size operation on 09-09.** Gold fell $58.16 (−1.30%) to $4,402.54 from a $4,460.70 prior close on the same session — the usual flight-to-safety correlation breaking alongside the yield move, though the gold figure is itself single-sourced this cut and not independently corroborated. ([investing.com gold](https://www.investing.com/commodities/gold))
 
 ## 2026-09-09 — The first operation at the tripled size lands, and yields rise on the announcement rather than fall
 

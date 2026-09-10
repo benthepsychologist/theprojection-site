@@ -3,7 +3,7 @@ title: Distillation Fight
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-04
+last_seen: 2026-09-09
 weight: 3
 entities:
 - moonshot-ai
@@ -17,6 +17,10 @@ blurb: 'The White House (OSTP''s Kratsios) directly accused Moonshot of distilli
   Moonshot''s response, independent verification one way or the other, and whether
   it chills enterprise adoption of K3.'
 ---
+
+## 2026-09-10 — Moonshot AI is now exploring a dual Hong Kong + Shanghai STAR Market listing, on top of its existing confidential HK IPO filing
+
+- **The South China Morning Post reported Moonshot is discussing a dual listing — its already-known confidential Hong Kong IPO filing (Reuters-reported target ~$3bn) plus a subsequent mainland listing on Shanghai's STAR Market — with sources citing weaker recent performance of Hong Kong-listed AI stocks and a crowded HK IPO pipeline as reasons to hedge onto STAR, which has recently drawn other Chinese tech listings (e.g. Unitree Robotics).** This is a capital-structure update to the same IPO thread that logged the $3-5bn HK target revision and a $50bn pre-money private round on 09-04, arriving one day after Moonshot was named by name in the CISA/NSA/FBI distillation advisory this thread already recorded on 09-09 — worth watching whether the advisory affects listing terms or investor appetite. Moonshot did not comment. ([DealStreetAsia](https://www.dealstreetasia.com/stories/moonshot-ai-dual-listing-hong-kong-shanghai-494805), AOL/SCMP wire)
 
 ## 2026-09-09 — CISA, NSA and FBI jointly name Moonshot and five other Chinese labs in a formal federal distillation advisory
 

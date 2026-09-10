@@ -3,7 +3,7 @@ title: Kaiser vs. AI
 lens: mental-health
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-01
+last_seen: 2026-09-04
 weight: 2
 entities:
 - kaiser-permanente

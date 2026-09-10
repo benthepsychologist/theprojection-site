@@ -3,7 +3,7 @@ title: PIF Bets Out of Concrete, Into Compute
 lens: global-capital
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-04
+last_seen: 2026-09-09
 weight: 3
 entities:
 - pif
@@ -28,6 +28,10 @@ blurb: 'Whether the NEOM/The Line capital retreat (halted past 2030, only ~1.4% 
 ## 2026-09-09 — HUMAIN turns to outside investors as PIF reins in fiscal spending — this thread's own watch line finally answered
 
 - **HUMAIN is turning to outside investors as PIF "reins in fiscal spending," per Fortune (09-09): a $10bn global AI VC fund, a new "Humain Limitless" investment vehicle, and a planned Saudi/NY dual-listing IPO by 2029, on top of the $2.5bn data-center fund already known as of 09-04.** A quoted expert: "This is a funding-discipline decision as much as a monetization one... PIF has been explicit that portfolio companies must reduce their draw on the sovereign." This is the first evidence reaching HUMAIN itself, not just NEOM's giga-projects, of the fiscal-pressure mechanism this thread's watch line has asked about since it opened 08-04 — whether the fund's own cash squeeze eventually forces the AI side to slow too, or whether AI spend keeps expanding while giga-project cuts absorb the pressure alone. Read against PIF's 2025 Annual Report (logged 08-17, revenue and profit both up sharply, cutting against the fiscal-squeeze thesis at the time): today is the first data point pointing the other way since then. New figure: Saudi AI/cloud buildout through 2030 needs up to $42bn in project capital, including $32bn in debt financing. ([Fortune](https://fortune.com/2026/09/09/saudis-humain-turns-to-outside-investment-as-the-kingdom-reins-in-fiscal-spending))
+
+## 2026-09-08 — LIV Golf's Chapter 11 filing corroborates the fiscal-squeeze mechanism outside AI
+
+- **LIV Golf, the PIF-backed golf league, filed for Chapter 11 bankruptcy, reported 09-08 (Axios Pro Rata's lead item in its 09-09 issue).** PIF confirmed in April it was withdrawing support after the 2026 season, having put over $5bn into the league, and a BC Partners-led plan would give players majority ownership of the reorganized entity. Golf is outside this lens's core scope, but it is corroborating evidence of the same fiscal-squeeze mechanism this thread's watch line already asks about and that the 09-09 HUMAIN entry above first surfaced on the AI side: PIF pulling entirely out of a $5bn+ non-AI holding is a data point on the same underlying pressure, not an AI story itself. ([Axios](https://www.axios.com/2026/09/08/liv-golf-bankruptcy-saudi))
 
 ## 2026-09-04 — Abu Dhabi's G42 explores becoming a majority-US-owned company to lock in permanent Nvidia/AMD chip access
 

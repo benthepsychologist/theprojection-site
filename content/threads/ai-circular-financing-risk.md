@@ -3,7 +3,7 @@ title: Circular Financing
 lens: ai
 status: developing
 opened: 2026-06-28
-last_seen: 2026-08-31
+last_seen: 2026-09-04
 weight: 3
 entities:
 - nvidia

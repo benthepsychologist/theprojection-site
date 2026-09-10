@@ -3,7 +3,7 @@ title: DeepMind Succession
 lens: ai
 status: open
 opened: 2026-08-05
-last_seen: 2026-08-29
+last_seen: 2026-09-02
 weight: 2
 entities:
 - demis-hassabis

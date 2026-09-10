@@ -3,7 +3,7 @@ title: Stargate
 lens: ai
 status: developing
 opened: 2026-06-28
-last_seen: 2026-09-01
+last_seen: 2026-09-02
 weight: 2
 entities:
 - openai

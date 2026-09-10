@@ -3,7 +3,7 @@ title: ASML — the EUV Monopoly
 lens: ai
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-08
+last_seen: 2026-09-09
 weight: 3
 entities:
 - asml
@@ -31,6 +31,10 @@ blurb: 'Guidance is climbing (€36-40B to €43-45B for FY2026) while the China
   follow-on yet. Next: Q3 2026 earnings, MATCH Act''s Senate/NDAA fate, Lutnick inquiry
   resolution.'
 ---
+
+## 2026-09-10 — Correction: OpenAI Korea walks back its own executive's "next-generation chips" comment on the Samsung partnership
+
+- **OpenAI Korea's General Manager Harrison Kim told a Seoul press conference OpenAI and Samsung would do "joint production and research on the next-generation chips," but OpenAI Korea subsequently clarified there was "nothing new to announce on this front."** This is a correction to this thread's 09-09 entry below (Kim's foundry/2nm comment) — the walk-back downgrades that disclosure from a substantive R&D-scope expansion to an unclarified remark the company itself pulled back from. Separately in the same coverage: Samsung and SK hynix have signed letters of intent to supply memory for OpenAI's Stargate project. ([KSL/AP](https://www.ksl.com/article/51622239/openai-says-working-with-samsung-on-next-generation-chips-deepening-cooperation))
 
 ## 2026-09-09 — OpenAI deepens its chip R&D partnership with Samsung, extending into foundry/2nm process work
 

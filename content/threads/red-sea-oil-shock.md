@@ -3,7 +3,7 @@ title: Red Sea Shock
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-08
+last_seen: 2026-09-09
 weight: 3
 entities: []
 thread_kind: story
@@ -30,6 +30,11 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   policy. This is the capital-markets and risk-underwriting read of the war, deliberately
   distinct from the conflict itself.'
 ---
+
+## 2026-09-10 — Brent tops $105 and WTI crosses $99, both confirmed against Tuesday's official settle
+
+- **Brent traded $104.80–$105.07 (+3.50% to +3.81%) as of ~10:15 ET, measured from a $101.21–$101.26 prior close, while WTI reached $99.63 (+3.73%, +$3.58) from a $96.05 prior close as of 10:17 ET.** Both prior closes match CNBC's own report of Tuesday 09-09's official settles — Brent at $101.21 (+3.36%) and WTI at $96.05 (+3.25%) — so the 09-09 close and today's intraday reading agree within rounding. This is a fresh leg higher on top of this thread's own 09-09 entry, which logged Brent crossing $100 intraday at $101.44. Both legs were genuinely cross-checked across three independent sources — oilprice.com, investing.com and CNBC's settle report — rather than the single-source reads this thread has had to catch and correct before. ([oilprice.com](https://oilprice.com/futures/brent/), [investing.com Brent](https://www.investing.com/commodities/brent-oil), [investing.com WTI](https://www.investing.com/commodities/crude-oil))
+- **⚠️ Unresolved: this thread's own 09-09 entry says Brent crossed $100 "for the first time since July," but a separate sweep this run described the same crossing as the first since May, and today's WTI move above $99 is itself framed elsewhere as its highest "since roughly May."** The level itself is not in doubt — it reconciles cleanly against its prior close above — only the how-long-since framing is unreconciled between the two readings. Needs a check against a dated historical settle series next pass; not resolved here.
 
 ## 2026-09-09 — The US disables five Iranian tankers, Iran hits back at Jordan, and Brent crosses $100 for the first time since July
 

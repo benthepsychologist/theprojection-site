@@ -3,7 +3,7 @@ title: Copyright Exposure
 lens: ai
 status: open
 opened: 2026-08-06
-last_seen: 2026-09-04
+last_seen: 2026-09-05
 weight: 2
 entities:
 - anthropic
