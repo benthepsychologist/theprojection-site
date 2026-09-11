@@ -38,6 +38,10 @@ blurb: 'Opened on Ben''s steer 2026-08-01, after a disarmament framework announc
   still circulate; report both, resolve neither.'
 ---
 
+## 2026-09-11 — IDF says it killed the Khan Younis Brigade commander in an overnight Gaza strike
+
+- ⚠️ **The IDF says it killed Muhammad Yazouri, whom it names as commander of Hamas's Khan Younis Brigade, along with two other Hamas members, in an overnight airstrike in southern Gaza.** The IDF statement is the only account; there is no independent confirmation of Yazouri's role or of the target selection from Hamas or a neutral party, and the outlets carrying it are all citing the same IDF statement rather than corroborating it independently. This continues the post-ceasefire pattern already on this thread of Israeli strikes on individuals it says are rebuilding Hamas military structure. ([Times of Israel](https://www.timesofisrael.com/idf-kills-commander-of-hamass-khan-younis-brigade-in-southern-gaza-airstrike))
+
 ## 2026-09-10 — Family of four including two children killed in a Beit Lahia drone strike
 
 - **An Israeli drone strike after midnight hit a home in Beit Lahia, northern Gaza, killing a family of four — Momen Abdul-Rahman Ahmad, his wife Haneen Mousa Fares Saleh, and their daughters Lana (12) and Bana (8) — with a separate strike reported the same night in Jabalia refugee camp.** The IDF had said Wednesday (09-09) its forces struck Hamas weapons-storage facilities in three areas of Gaza but had not commented on the Beit Lahia strike specifically as of this report. Gaza's Health Ministry's cumulative post-ceasefire toll now stands at 1,352 killed and 4,511 injured — near-identical to the 1,355/4,516 already logged on this thread for 09-09, within normal day-to-day reporting variance. ⚠️ **Palestinian medical/security-source casualty claim, the standing caveat for this thread.** ([AP via The Hill](https://thehill.com/homenews/ap/ap-international/ap-israeli-strike-in-gaza-kills-4-including-children-and-other-mideast-developments/), [Siasat](https://www.siasat.com/two-children-among-4-killed-in-israeli-strike-on-northern-gaza-3539796/))
