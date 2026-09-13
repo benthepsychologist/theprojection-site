@@ -3,7 +3,7 @@ title: Nvidia as Lender
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-05
+last_seen: 2026-09-12
 weight: 3
 entities:
 - nvidia
@@ -23,6 +23,10 @@ blurb: 'Nvidia''s turn from chip vendor to the buildout''s lender of last resort
   toward: does the weekend signing happen, does a phase-2 guarantee follow, and rating-agency
   treatment (still untracked).'
 ---
+
+## 2026-09-12 — Nvidia moves from customer-equity stakes to anchor investor in a customer's IPO — a new mechanism on this thread
+
+- **Nvidia is weighing an anchor investment of up to $10 billion in Anthropic's IPO, per Reuters (first published 09-11 evening, broadly republished 09-12) — this thread's first anchor-investor mechanism, distinct from the direct equity stakes (Nebius, Naver, Intel, Groq, SB Energy, MediaTek, Hugging Face) and lending guarantees already tracked here.** An anchor investment commits Nvidia to buy a substantial share of the offering ahead of wider marketing — extending the pattern this thread exists to track (Nvidia funding demand for its own chips) into the public-equity stage of a customer's life, not just the private one. Anthropic is reportedly seeking up to $100bn at a ~$2-2.3T valuation, still targeted to price before the November midterms. Cross-ref [Lab IPO Wave](/threads/frontier-lab-ipos/), which carries the IPO-timeline side of the same story. Terms remain under discussion; unconfirmed by either company. ([Bloomberg, citing Reuters](https://www.bloomberg.com/news/articles/2026-09-11/nvidia-in-talks-to-invest-up-to-10b-in-anthropic-ipo-reuters), [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nvidia-may-invest-10-billion-142337240.html))
 
 ## 2026-09-04 — Nvidia's own 10-Q puts its total equity-investment portfolio at $99bn, up from $7bn a year ago
 

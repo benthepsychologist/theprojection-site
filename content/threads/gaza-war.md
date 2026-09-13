@@ -3,7 +3,7 @@ title: Gaza War
 lens: world-news
 status: open
 opened: 2026-08-01
-last_seen: 2026-09-09
+last_seen: 2026-09-13
 weight: 3
 entities: []
 thread_kind: story
@@ -37,6 +37,14 @@ blurb: 'Opened on Ben''s steer 2026-08-01, after a disarmament framework announc
   Ministry range as broadly accurate. Both the inflation and the undercount framings
   still circulate; report both, resolve neither.'
 ---
+
+## 2026-09-13 — Israeli drone strike on a vehicle kills two in Gaza City's Tal al-Hawa neighbourhood
+
+- **An Israeli drone strike hit a civilian vehicle in the Tal al-Hawa neighbourhood of Gaza City on Sunday, killing two Palestinians and wounding 13, according to medics; the Israeli military said it had targeted two Hamas fighters.** Continues the post-ceasefire pattern of near-daily Israeli strikes this thread has tracked through the low-boil period. ⚠️ Palestinian medical-source casualty count, the standing caveat for this thread. ([Al Jazeera](https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians), [Middle East Monitor](https://www.middleeastmonitor.com/20260913-2-palestinians-killed-13-injured-in-israeli-drone-strike-on-vehicle-in-gaza/))
+
+## 2026-09-12 — A pregnant woman and her unborn child die of Israeli gunfire wounds; a separate tent strike wounds nine more in Khan Younis
+
+- **Iman Shalouf, 27, and her unborn child died from wounds sustained three days earlier when Israeli gunfire struck her in the head while she sat in her family's tent in Al-Mawasi, west of Khan Younis** — a delayed death from an injury this thread had not separately logged, now closing as a fatality. A separate Israeli strike on a tent in the same Al-Mawasi area wounded at least nine more displaced Palestinians the same day. ⚠️ Palestinian medical/family-source reporting, the standing caveat for this thread. ([WAFA](https://english.wafa.ps/Pages/Details/174626), [Middle East Eye](https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-kills-pregnant-palestinian-woman-her-unborn-baby), [Free Press Kashmir](https://freepresskashmir.news/2026/09/12/at-least-nine-injured-in-israeli-strike-on-khan-younis-area/))
 
 ## 2026-09-11 — IDF says it killed the Khan Younis Brigade commander in an overnight Gaza strike
 

@@ -3,7 +3,7 @@ title: Circular Financing
 lens: ai
 status: developing
 opened: 2026-06-28
-last_seen: 2026-09-04
+last_seen: 2026-09-11
 weight: 3
 entities:
 - nvidia
@@ -24,6 +24,16 @@ blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops wh
   in talks down to under $120B, phase-1 only (08-15). Track whether other lenders
   follow Nvidia''s retreat.'
 ---
+
+## 2026-09-12 (added 2026-09-13) — A voluntary pacing pledge lands on the same growth assumption the loop's chip valuations depend on
+
+- **Anthropic CEO Dario Amodei's 09-12 essay proposing frontier labs deliberately slow the rate of capability gains — endorsed within hours by OpenAI's Sam Altman and, per Bloomberg, Elon Musk — was read by Bloomberg's own weekend survey of strategists as a near-term risk to chipmaker valuations specifically, even while judging the broader AI trade "intact."** This is a new kind of input for this thread's watch line: not a financing structure or a credit read, but a voluntary industry statement about *future growth rate* — precisely the variable every loop on this thread (Nvidia's guarantees, the $500bn+ third-party platforms, the equity-stake ladder) is priced against. Full mechanism and the OpenAI/Anthropic IPO-timing split on [Lab IPO Wave](/threads/frontier-lab-ipos/).
+  ([Dario Amodei](https://darioamodei.com/post/we-must-pace-the-frontier), [Bloomberg via CNBC](https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html))
+
+## 2026-09-11 — Nvidia in talks to anchor Anthropic's own IPO, on top of chips, cloud middlemen and real estate
+
+- **Nvidia is in talks to invest up to $10bn as an anchor investor in Anthropic's planned IPO, which could raise as much as $100bn at a valuation of roughly $2 trillion — potentially the largest IPO in history.** Reported by Reuters on 09-11 (citing two people familiar with the matter) and picked up same-day by Bloomberg; Anthropic declined to comment and Nvidia did not immediately respond, and the terms "remain under discussion and could change." This would be Nvidia's second disclosed investment in Anthropic after the ~$10bn Series G commitment alongside Microsoft (announced Nov 2025) — the same lab whose $35bn Lambda deal and $45bn Nscale deal are already logged on this thread. An anchor-investor role in the IPO itself is a new leg of the loop beyond chips/cloud/real-estate: Nvidia would now also be underwriting the exit liquidity event for a company that spends its Nvidia-adjacent capital right back into Nvidia's own supply chain. Anthropic's IPO is reportedly targeted to close before the November 2026 midterms; the reported case for the valuation leans on Anthropic's own projection of ~$190-200bn revenue by 2028.
+  ([Bloomberg, citing Reuters](https://www.bloomberg.com/news/articles/2026-09-11/nvidia-in-talks-to-invest-up-to-10b-in-anthropic-ipo-reuters))
 
 ## 2026-08-31 — Anthropic signs a $35bn cloud deal with Nvidia-backed Lambda, on a data center whose lease Nvidia itself holds
 

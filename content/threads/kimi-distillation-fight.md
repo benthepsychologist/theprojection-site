@@ -3,7 +3,7 @@ title: Distillation Fight
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-09
+last_seen: 2026-09-12
 weight: 3
 entities:
 - moonshot-ai
@@ -17,6 +17,11 @@ blurb: 'The White House (OSTP''s Kratsios) directly accused Moonshot of distilli
   Moonshot''s response, independent verification one way or the other, and whether
   it chills enterprise adoption of K3.'
 ---
+
+## 2026-09-12 — Moonshot denies and files a police report over viral rumors that its founder was detained, in the direct wake of Anthropic's distillation report; a day earlier, its own revenue target came out untouched by the fallout
+
+- **Moonshot AI issued a statement on 2026-09-12 calling online rumors that founder Yang Zhilin and 15 senior executives had been "taken away for investigation" — which spread across Chinese social platforms immediately after Anthropic's threat report named Moonshot on 09-10/09-11 (below) — "completely fabricated and malicious slander," saying it had filed a police report and would pursue legal action against whoever is spreading them.** No news outlet or government agency has independently confirmed any detention or investigation exists; the rumor and the denial are, so far, the only confirmed facts. This is Moonshot's first public response of any kind to the distillation fallout, though it answers a rumor about consequences rather than the underlying distillation allegation itself. ([BeInCrypto](https://beincrypto.com/kimi-k3-moonshot-police-report-distillation/), [BigGo Finance](https://finance.biggo.com/news/211e6cd6-32a7-4270-aad2-1ece83a01bab))
+- **A day earlier (2026-09-11, after this map's prior close), Moonshot told Bloomberg it is targeting roughly $2 billion in annualized revenue by year-end — doubling its August run rate — while Kimi K3 continues generating around 300 billion tokens/day on OpenRouter, usage having eased only slightly.** Both figures still sit far below OpenAI's reported $40B and Anthropic's $65B annualized run rates, but they are the first sign that the distillation accusations and federal advisory this thread tracks have not visibly dented Moonshot's own growth trajectory or K3's usage. ([TechCrunch](https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/))
 
 ## 2026-09-11 — Anthropic's own threat report names four more Chinese labs running silent-relay schemes against Claude, with exact exchange counts and a technical bypass of Anthropic's chain-of-thought protection
 

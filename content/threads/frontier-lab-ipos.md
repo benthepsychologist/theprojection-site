@@ -3,7 +3,7 @@ title: Lab IPO Wave
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-09
+last_seen: 2026-09-12
 weight: 3
 entities:
 - openai
@@ -28,6 +28,17 @@ blurb: 'The frontier labs are converting private, vendor-financed valuations int
   does Anthropic''s S-1 land on schedule, and does OpenAI''s own timeline (currently
   "as late as next year") move.'
 ---
+
+## 2026-09-12 (added 2026-09-13) — OpenAI rules out a 2026 IPO on safety grounds; Anthropic's own listing timeline doesn't move
+
+- **OpenAI CEO Sam Altman told Fortune in an exclusive interview that OpenAI will not go public in 2026, calling it "an ill-advised moment" given AI-safety work still underway — the same day Anthropic CEO Dario Amodei published an essay, "We Must Pace the Frontier," proposing that frontier labs give embedded third-party evaluators (such as METR) "ongoing, employee-like access" to verify safety practices, with Anthropic committing unilaterally and Altman saying OpenAI "will do the same."** Asked directly whether 2027 replaces 2026, Altman said "I would say not 2026 ... we got a lot of stuff to do, like meeting this moment of what is going to be required for safety and alignment." Musk endorsed the same pacing framework within hours, per Bloomberg's reporting. **The divergence is the fact for this thread:** reporting the same weekend states Anthropic's own IPO marketing is still on track for as early as mid-October at the ~$2 trillion valuation this thread already carries — unchanged by the essay, and landing one day after Nvidia moved to anchor that same IPO with up to $10bn (see the entry below and [Nvidia as Lender](/threads/nvidia-vendor-financing/)). The two labs converged on identical safety language and reached opposite conclusions about their own public-market timing.
+  ([Dario Amodei, "We Must Pace the Frontier"](https://darioamodei.com/post/we-must-pace-the-frontier), [Fortune, exclusive interview](https://fortune.com/2026/09/12/sam-altman-interview-ai-doomsday-safety-models-control-ipo-2027/), [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-12/openai-ipo-won-t-happen-until-2027-sam-altman-tells-fortune), [CNBC](https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html))
+- ⚠️ **Caught late, not filed same-day.** The essay and the Fortune interview both published 09-12 (Saturday); this map's 09-12 digest was a same-day reconstruction that covered only the Nvidia-anchor story and missed this one. Logged under its true date.
+
+## 2026-09-12 — Nvidia moves to anchor Anthropic's IPO with up to $10bn, as the raise grows to $100bn at a $2-2.3T target
+
+- **Nvidia is in talks to become an anchor investor in Anthropic's IPO, weighing an investment of up to $10 billion, per a Reuters exclusive (first published 09-11 evening, widely republished 09-12) — a new figure and a new mechanism for this thread: Anthropic is now reportedly seeking to raise as much as $100 billion (up from the sub-$100bn figures already logged) at a valuation of roughly $2-2.3 trillion, which would make it the largest IPO in history if it lands on those terms.** An anchor investor commits to buy a substantial share of an offering before it's marketed more widely — this would be Nvidia's first anchor role in a frontier-lab listing, distinct from the direct equity stakes it holds in AI-infrastructure customers (see [Nvidia as Lender](/threads/nvidia-vendor-financing/)). The offering is still targeted to price before the November US midterms, unchanged from this thread's 09-09 entry. Terms remain under discussion and could change; unconfirmed by either company. ([Bloomberg, citing Reuters](https://www.bloomberg.com/news/articles/2026-09-11/nvidia-in-talks-to-invest-up-to-10b-in-anthropic-ipo-reuters), [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nvidia-may-invest-10-billion-142337240.html))
+- **This resolves the thread's own 09-09 flag on the $65bn+ revenue figure: it now traces to the same Reuters reporting on the Nvidia anchor talks, not just secondary aggregation.** Reuters puts Anthropic's annualized revenue run rate at over $65 billion by end of July 2026 (up from roughly $9 billion at end of 2025), with company projections of $190-200bn revenue in 2028 cited as underpinning the $2T-plus target valuation. Still not a company-published or audited figure, but no longer merely secondary aggregation as this thread's 09-09 entry cautioned.
 
 ## 2026-09-09 — Anthropic's IPO timeline slips again, and its credit line grows sixfold as banks buy into the underwriting book
 

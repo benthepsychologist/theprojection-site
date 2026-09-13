@@ -3,7 +3,7 @@ title: Grok
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-04
+last_seen: 2026-09-11
 weight: 2
 entities:
 - spacex
@@ -18,6 +18,15 @@ blurb: 'The Grok line closing the frontier gap as a FAST FOLLOWER, not mid-pack 
   amid Musk hype), the $60B Cursor bet arming coding, and whether owning the mines
   sustains a lead vs. OpenAI/Anthropic.'
 ---
+
+## 2026-09-12 — Microsoft adds Grok to Copilot across Word, Excel and PowerPoint, its first reach into a rival's productivity suite
+
+- **Microsoft began rolling out xAI's Grok models as a selectable option inside Microsoft 365 Copilot in Word, Excel and PowerPoint, via the Microsoft Frontier Program, alongside its existing OpenAI and Anthropic options.** The setting is admin-controlled and off by default; Microsoft frames it as extending the multi-model strategy it started last year by adding Anthropic's Claude to Copilot Studio. This is the first time a Grok model has shipped inside a major third-party enterprise productivity surface rather than through xAI's own products (Grok Bot, Cursor/SpaceXAI) or X itself — a distribution channel this thread has not tracked for Grok before, distinct from Grok Bot's own enterprise push (09-03, below). ([Microsoft](https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/expanding-model-choice-in-copilot-with-grok/4555749), [Neowin](https://www.neowin.net/news/microsoft-brings-grok-to-word-excel-and-powerpoint-as-it-moves-further-beyond-openai/))
+
+## 2026-09-11 — Grok 4.7 slips a third time, on its own firmest-ever due date
+
+- **Musk's 09-02 commitment of a specific ship date — "Grok 4.7 comes out in 10 days," i.e. 09-12 — did not hold: on 09-11, a day ahead of his own deadline, Musk posted that the model "needs a few more days to cook," citing an RL tuning problem** ("We might have penalized response length too much... it still gives up on hard tasks (that it can do!) too early and isn't yet sufficiently rigorous in checking its work"). This is the third slip on this model since the original "four weeks" promise on 07-24 (already slipped once by 08-18, tightened to the 09-12 day-precision date on 09-02, now pushed past it again) — and unlike the 09-02 tightening, this one is unambiguously a miss: it moved a specific, committed calendar date rather than replacing a vague range with a firmer one. Checked directly against xAI's own model documentation at docs.x.ai as of 09-13: **the published model list still tops out at grok-4.6, with no grok-4.7 entry, price card, context window, or release note** — confirming no ship happened by 09-13 either. No new date has been committed as of this writing.
+  ([TeslaNorth](https://teslanorth.com/2026/09/11/grok-4-7-few-more-days/), [xAI docs — primary, checked 09-13, no grok-4.7 listed](https://docs.x.ai/docs/models))
 
 ## 2026-09-03 — xAI expands Grok Bot from beta to a dedicated Enterprise tier with a two-week free trial
 

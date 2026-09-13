@@ -3,7 +3,7 @@ title: China's Stack
 lens: ai
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-09
+last_seen: 2026-09-12
 weight: 3
 entities:
 - zhipu-ai
@@ -18,6 +18,10 @@ blurb: 'One story, both directions: Z.AI''s 1 GW all-domestic-chip site, Kimi K3
   rules; September US-China talks) plus Beijing''s own proposed export controls on
   its models/chips. US chip-equity reaction is the measure.'
 ---
+
+## 2026-09-12 — China's Foreign Ministry responds directly to Anthropic's own report, distinct from its 09-09 reply to the government advisory
+
+- ⚠️ **China's Foreign Ministry, through spokesperson Mao Ning, responded specifically to Anthropic's own threat-intelligence report (rather than repeating her 09-09 "unfounded" comment on the separate CISA/NSA/FBI advisory logged below), saying China "firmly opposes attempts to smear China by distorting facts."** This is a second, distinct Chinese government rebuttal aimed at the private company's report rather than the federal advisory — read together with MOFCOM's 09-09 "resolute countermeasures" warning, it shows Beijing answering both the government and corporate versions of the distillation accusation separately. The direct MFA transcript could not be reached; this rests on secondary reporting (aicommission.org, syndicated further) rather than a primary read, and the exact date/time of the briefing itself is unconfirmed beyond "reported 09-12." ([AIC](https://aicommission.org/2026/09/china-rejects-anthropics-accusations-against-ai-labs/))
 
 ## 2026-09-11 — The same Anthropic disclosure, read as industry conduct: what four PRC labs' silent Claude-relay schemes actually leaked
 
