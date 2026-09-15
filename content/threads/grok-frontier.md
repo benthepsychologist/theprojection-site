@@ -3,7 +3,7 @@ title: Grok
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-11
+last_seen: 2026-09-15
 weight: 2
 entities:
 - spacex
@@ -18,6 +18,11 @@ blurb: 'The Grok line closing the frontier gap as a FAST FOLLOWER, not mid-pack 
   amid Musk hype), the $60B Cursor bet arming coding, and whether owning the mines
   sustains a lead vs. OpenAI/Anthropic.'
 ---
+
+## 2026-09-15 — xAI opens a three-day live "Grok Bot Galaxy" event to demonstrate agentic Grok Bot on real work, while Grok 4.7 still hasn't shipped
+
+- **xAI began "Grok Bot Galaxy," a three-day event (09-15→09-17) at The Howard in San Francisco with a parallel Luma livestream, built around live demos of Grok Bot doing real workflow tasks by role — engineering/product (09-15), sales/support (09-16), marketing/post-sales (09-17), roughly 8:30am-6pm PT daily.** This is xAI's most public agentic-product showcase to date, distinct from a model release — it demonstrates the product layer (Grok Bot) rather than shipping a new base model, and lands while Grok 4.7 itself remains unshipped nine days past Musk's original mid-September framing and still carries no xAI model page, API ID or price.
+  ([TeslaNorth](https://teslanorth.com/2026/09/10/xai-grok-bot-galaxy-event/))
 
 ## 2026-09-14 — Musk previews the roadmap through Grok 4.8, 4.9 and 5 — while 4.7 itself still hasn't shipped past its own 09-19 due date
 

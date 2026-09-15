@@ -3,7 +3,7 @@ title: Psychedelic Sprint
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-08
+last_seen: 2026-09-15
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -15,6 +15,11 @@ blurb: 'Psilocybin racing toward first-ever US approval (Compass NDA targeted Q4
   the accelerating trials share. The live question: is approval outrunning the methodology
   fix?'
 ---
+
+## 2026-09-14 — Definium's third straight positive Phase 3: a second GAD trial confirms the first, and the depression/anxiety pattern with it
+
+- **Definium Therapeutics announced its LSD-derived DT120 met the primary endpoint in Panorama, a second Phase 3 trial in generalized anxiety disorder, on the same day as the FDA's own psychedelics hearing.** In the 12-week trial, the 100-microgram dose produced a 9.8-point drop on the Hamilton Anxiety Rating Scale versus 4.7 for placebo — a 5.1-point placebo-adjusted improvement, close to the 5.4-point gap this thread already logged from August's Voyage trial (the drug's first GAD readout). This is Definium's third positive Phase 3 for DT120 overall, following June's MDD win (Emerge) and August's first GAD win (Voyage) — the two-trials-per-indication requirement the FDA typically wants for approval is now met in anxiety specifically, not just claimed once. ⚠️ Topline, sponsor-reported figures from a company release; no independent read or peer-reviewed publication yet, consistent with every other Definium readout on this thread.
+  ([STAT](https://www.statnews.com/2026/09/14/definiums-lsd-therapy-eased-anxiety-large-trial-psychedelic/), [BioSpace](https://www.biospace.com/drug-development/definiums-lsd-based-therapy-elicits-profound-efficacy-in-phase-3-depression-trial))
 
 ## 2026-09-14 — The hearing itself: FDA scopes it away from any single drug, toward the delivery system, and sponsors line up to testify
 

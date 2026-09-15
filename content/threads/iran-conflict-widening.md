@@ -3,7 +3,7 @@ title: Iran's Widening War
 lens: world-news
 status: open
 opened: 2026-07-23
-last_seen: 2026-09-12
+last_seen: 2026-09-15
 weight: 3
 entities: []
 thread_kind: story
@@ -45,6 +45,12 @@ blurb: '⚠️ ORIGIN CORRECTED 2026-08-02 — READ THIS FIRST. This thread spen
   with Netanyahu''s office framing it as pressure ahead of September talks. Track
   this alongside Hormuz/Gulf as a distinct front, not folded into it.'
 ---
+
+## 2026-09-15 — A new unattributed vessel strike hits Hormuz, Trump says the US is "open" to the "concept" of an Iran deal, and the Houthis strike three more Saudi cities
+
+- **UKMTO reported a vessel struck by an unidentified projectile in the Strait of Hormuz at 5:36am EDT Tuesday, with no damage or environmental impact reported** — a second, apparently minor incident distinct from Sunday's Qeshm Island strike already on this thread, which killed one person and wounded four. No group has claimed it and no flag state or operator has been named as of this pass. ([ABC News, live blog](https://abcnews.com/International/live-updates/iran-live-updates-oil-prices-rise-after-strikes/?id=136415261))
+- **Trump said Monday the US is "open" to the "concept" of negotiating a deal with Iran — "I will determine whether or not the U.S.A. will choose to engage" — a softer framing than his Ireland remarks already on this thread about staying to "keep the oil," and the first time this thread has recorded him describing engagement itself, rather than only war aims, as an open question.** ([ABC News, live blog](https://abcnews.com/International/live-updates/iran-live-updates-oil-prices-rise-after-strikes/?id=136415261))
+- **The Houthis struck Abha, Khamis Mushait and Taif with ballistic missiles and drones Monday, wounding 13 civilians and damaging seven homes and two vehicles; Houthi spokesman Yahya Saree claimed hits on King Khalid airbase's hangars, radar, runways and ammunition depots near Khamis Mushait.** This is a fresh wave distinct from the 09-08 Aramco/four-city strikes already on this thread — the same Yemen-Saudi axis continuing to widen the war, not a repeat mention of the earlier attack. ([Arab News](https://www.arabnews.com/saudi-arabia/houthi-attacks-injure-13-civilians-and-kingdom-issues-alerts-for-several-cities-3001734), [Haaretz](https://www.haaretz.com/israel-news/israel-security/2026-09-15/ty-article-live/saudi-led-coalition-says-13-injured-in-houthi-attacks-on-three-saudi-cities/000001a0-a2c3-dceb-abe2-aecbaeef0000))
 
 ## 2026-09-14 — Oman postpones the Salalah Hormuz talks at Saudi request; an Iranian cargo vessel is hit off Qeshm Island and Trump won't say if the US struck it
 

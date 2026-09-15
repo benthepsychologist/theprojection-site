@@ -3,7 +3,7 @@ title: The Funding Shift
 lens: mental-health
 status: developing
 opened: 2026-06-28
-last_seen: 2026-08-29
+last_seen: 2026-09-15
 weight: 3
 entities:
 - spring-health
@@ -16,6 +16,11 @@ blurb: 'MH is the #1-funded US therapeutic area (~$1.27B/14 deals to start 2026)
   hitting the regulatory reckoning; watch consolidation (e.g. Spring Health/Alma).
   Tests whether the market prices in rigor — the evidence-gap thesis.'
 ---
+
+## 2026-09-11 (caught late, added 2026-09-15) — The distress-side counterpart: Aware Recovery Care's financial crisis reaches an asset sale
+
+- 🕰 **CAUGHT LATE — Aware Recovery Care, an 11-state in-home addiction/behavioral-health treatment provider founded in Connecticut, has entered an asset purchase agreement (dated 2026-09-14, per a CEO letter to employees) with an unnamed buyer, after months of deepening financial trouble first reported 2026-08-05.** The company was evicted from its Wallingford, CT headquarters over unpaid rent since June, and separately faces an $850K federal wage-and-hour settlement covering roughly 300 workers, still awaiting court approval; court documents note the buyer/debt-holder side of the asset deal isn't yet validated. **This is the distress-side counterpart to the consolidation this thread otherwise tracks** — where Beacon/Prime/Invicta (09-08), Radial/Mindful (08-20) and UHS/Talkspace (08-17) are acquirers buying growth, Aware Recovery Care is a forced sale out of financial crisis, evidence that not every part of the behavioral-health infrastructure market is consolidating from strength.
+  ([Behavioral Health Business, 09-11](https://bhbusiness.com/2026/09/11/aware-recovery-cares-financial-troubles-worsen-sales-talk-emerges/), [Behavioral Health Business, 08-05](https://bhbusiness.com/2026/08/05/aware-recovery-care-caught-in-multiple-financial-operational-crises/), [Hartford Business Journal](https://www.hartfordbusiness.com/))
 
 ## 2026-09-08 — A third, smaller-scale flavor of interventional-psychiatry roll-up: a Dallas-Fort Worth physician network doubles down
 

@@ -3,7 +3,7 @@ title: Apple × Gemini
 lens: ai
 status: developing
 opened: 2026-06-28
-last_seen: 2026-09-09
+last_seen: 2026-09-15
 weight: 2
 entities:
 - apple
@@ -19,6 +19,11 @@ blurb: 'At WWDC 2026 (06-08) Apple shipped Siri AI on Apple Foundation Models "c
   $1B/yr figure ever gets confirmed, whether Apple builds back toward its own frontier
   model. # crawl 2026-07-27'
 ---
+
+## 2026-09-14 (caught late by the coverage critic, added 2026-09-15) — The Gemini-powered Siri rebuild actually ships
+
+- 🕰 **CAUGHT LATE — the rebuilt, Gemini-powered Siri shipped publicly with iOS 27 on 2026-09-14, as the 09-11 entry below said it would.** The Neuron and other AI-newsletter benchmarks covered the ship substantively; this thread's own record had the pre-ship forecast (usage caps, paid-tier plan) but missed the actual event itself, a repeat miss the 09-10 coverage critic had already flagged by date. Confirms this thread's central watch question in the affirmative for now: the public product runs on Google's model, not a delayed Apple-only fallback.
+  (The Neuron, 09-14 issue — critic-corroborated, primary Apple newsroom confirmation not yet independently re-verified by the main session)
 
 ## 2026-09-11 — Siri's AI beta will ship 09-14 with daily usage caps and a future paid tier
 

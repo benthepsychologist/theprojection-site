@@ -3,7 +3,7 @@ title: Israel–Lebanon
 lens: world-news
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-07
+last_seen: 2026-09-15
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,10 @@ blurb: 'The Israel–Hezbollah front turning hot while its diplomacy stalls: dea
   theatre from iran-conflict-widening (cross-referenced, not merged). Watch: whether
   the talks track survives, and whether strikes escalate past the current tempo.'
 ---
+
+## 2026-09-15 — The Rome round-8 talks slip a third time, now to October, with Lebanese officials privately blaming Israeli election politics
+
+- **The eighth round of Israel-Lebanon talks, expected in Rome this week (09-15/16) per a two-week-old broadcaster report, is now confirmed postponed to October — the third slip on this map's own ledger for this round.** A US official told Times of Israel, Haaretz, ynetnews, Wanted in Rome and Middle East Eye the delay owes to the Jewish high holidays, a Paris donor conference for the Lebanese Armed Forces, and UNGA prep. **Lebanese officials separately tell reporters the real driver is domestic Israeli politics** — that Israel doesn't want to discuss the pilot-zone disarmament roadmap "because of the elections." No exact October date has been given by either government. This is the second time in two months the stated reason for a slip (diplomatic-calendar logistics) has diverged from the off-record reason (Israeli domestic politics) reported by the Lebanese side. ([Times of Israel](https://www.timesofisrael.com/upcoming-round-of-israel-lebanon-talks-delayed-from-next-week-until-october-us-official))
 
 ## 2026-09-10 — IDF says it completed demolition of a two-kilometre Hezbollah tunnel network under the Ali Taher ridge
 

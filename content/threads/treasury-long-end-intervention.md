@@ -3,7 +3,7 @@ title: Treasury's Long-End Defense
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-09
+last_seen: 2026-09-15
 weight: 3
 entities:
 - scott-bessent
@@ -25,6 +25,11 @@ blurb: 'Whether the Treasury''s own cash position is being used to suppress long
   Warsh''s keynote addresses the TGA mechanism directly, and whether any auction result
   or yield move ties back to it explicitly.'
 ---
+
+## 2026-09-15 — The 10-year crosses 5%, its highest since July 2007, as Fed hike odds reach ~92% one day out from the FOMC decision
+
+- **The 10-year Treasury yield rose to 5.041% Tuesday — its highest since July 2007, crossing the exact 5.02% threshold this thread's own 09-14 entry flagged as the next level to watch.** CME FedWatch now prices a 25bp hike at Wednesday's FOMC decision at roughly 92%, up from the 89% already logged here for 09-14, with oil's continued rise ([Red Sea Shock](/threads/red-sea-oil-shock/)) cited alongside Friday's hot CPI print as a driver. ([CNBC](https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html))
+- **Wednesday's FOMC decision, dot plot and Chair Warsh press conference — already flagged 09-14 as this thread's concrete test of whether the buyback/TGA campaign can hold the long end against a hiking Fed — is now one trading day away, with the curve having moved further against the intervention thesis heading into it.**
 
 ## 2026-09-14 — The 10-year closes in on 5% as a hot core CPI print and oil-driven inflation push Fed hike odds to ~89% ahead of Wednesday's FOMC
 

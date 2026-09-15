@@ -3,7 +3,7 @@ title: Red Sea Shock
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-09
+last_seen: 2026-09-15
 weight: 3
 entities: []
 thread_kind: story
@@ -30,6 +30,11 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   policy. This is the capital-markets and risk-underwriting read of the war, deliberately
   distinct from the conflict itself.'
 ---
+
+## 2026-09-15 — Brent consolidates near $107-108 as the pipeline stays shut and Washington predicts a restart "soon" with no date given
+
+- **Brent held in the $107-108 range Tuesday, near but not clearly above Monday's four-month intraday levels — sources disagree on the exact prior-close figure this pass (tradingeconomics reads Monday's close at $105.68, a separate feed puts Monday's high at $108.34), so this entry states the range rather than a reconciled percentage move.** The East-West pipeline remains offline five days after the 09-10 drone attack, with no Aramco damage assessment or repair timeline yet disclosed. ([TradingEconomics](https://tradingeconomics.com/commodity/brent-crude-oil))
+- **US Energy Secretary Chris Wright said the pipeline is expected to restart "soon" — the first US official comment on a restart timeline since the shutdown — but gave no date, leaving this thread's own "no repair timeline disclosed" read from 09-14 still standing as of this pass.** ([Briefs.co](https://www.briefs.co/news/saudi-east-west-pipeline-expected-back-online-soon-energy-se/))
 
 ## 2026-09-14 — Brent tops $108, a four-month high, as the Saudi pipeline workaround stays shut and the Hormuz talks collapse instead of landing
 

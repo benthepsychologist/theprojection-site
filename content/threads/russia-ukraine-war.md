@@ -3,7 +3,7 @@ title: Russia-Ukraine War
 lens: world-news
 status: open
 opened: 2026-07-31
-last_seen: 2026-09-13
+last_seen: 2026-09-15
 weight: 3
 entities: []
 thread_kind: story
@@ -20,6 +20,11 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   sibling thread the same way Iran''s Widening War / Red Sea Shock did, if and when
   that read becomes substantial enough to carry on its own.'
 ---
+
+## 2026-09-15 — A 200-drone night hits Kyiv's gas stations and a suspected Russian drone washes up on Poland's Baltic coast
+
+- **Russia launched roughly 200 strike drones — Shaheds including jet-powered variants, Gerbera and Parodiya decoys — from 18:00 on 09-14, with Ukrainian air defense downing or suppressing 187 by 08:00; drones hit two Kyiv gas stations plus warehouses, a restaurant and an office building, killing one man and injuring eight.** This continues the nightly-bombardment pattern already extensively logged on this thread rather than opening a new type of attack. ([Euromaidan Press](https://euromaidanpress.com/2026/09/15/russian-drones-killed-a-man-and-injured-eight-in-kyiv-hitting-two-gas-stations/))
+- **A suspected Russian "Gerbera" military drone washed up on Poland's Baltic coast near Rusinowo on 09-14 — a new geography for the border-incident pattern this thread has tracked since the Moldova/Romania crossings (09-09/10) and the Yahodyn/Volyn strikes (09-13), all previously on Ukraine's land borders.** Poland's own Armed Forces Operational Command said it had detected no airspace violation and could not yet link the find to a deliberate attack — logged as an unresolved incident, not a confirmed intrusion. ([Meduza](https://meduza.io/en/news/2026/09/14/polish-authorities-say-they-found-a-russian-drone-on-the-country-s-territory), [TVP World](https://tvpworld.com/95378110/suspected-russian-military-drone-found-on-polands-baltic-coast))
 
 ## 2026-09-14 — Trump claims an energy-strikes truce between Ukraine and Russia; neither side confirms it
 

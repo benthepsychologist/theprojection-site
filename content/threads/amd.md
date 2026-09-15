@@ -3,7 +3,7 @@ title: 'The #2 Cashes In'
 lens: ai
 status: open
 opened: 2026-08-04
-last_seen: 2026-08-29
+last_seen: 2026-09-11
 weight: 2
 entities:
 - amd
