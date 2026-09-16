@@ -3,7 +3,7 @@ title: Treasury's Long-End Defense
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-15
+last_seen: 2026-09-16
 weight: 3
 entities:
 - scott-bessent
@@ -25,6 +25,11 @@ blurb: 'Whether the Treasury''s own cash position is being used to suppress long
   Warsh''s keynote addresses the TGA mechanism directly, and whether any auction result
   or yield move ties back to it explicitly.'
 ---
+
+## 2026-09-16 — A hot retail-sales print lands hours before the FOMC decision, removing the last plausible dovish surprise
+
+- **August retail sales rose 1.2% month-over-month against a forecast 0.8% gain (up 6% year-over-year), released this morning hours before the 2pm ET FOMC announcement, where CME FedWatch now prices roughly 92-93% odds of a 25bp hike to 3.75%-4.00% — the Fed's first hike since 2023 if it lands.** This directly tests the "fiscal dominance" framing this thread has carried since August: a hot consumption print same-day as a near-certain hike removes the last plausible case for a dovish surprise, pushing the test of whether Treasury's TGA-funded buyback campaign can hold the long end against a hiking Fed from hypothetical to live today. October/December hike odds sit at 39%/26%.
+  ([FXStreet](https://www.fxstreet.com/news/united-states-retail-sales-rose-by-12-mom-in-august-202609161258), [CNBC](https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html))
 
 ## 2026-09-15 — The 10-year crosses 5%, its highest since July 2007, as Fed hike odds reach ~92% one day out from the FOMC decision
 

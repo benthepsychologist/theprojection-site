@@ -3,7 +3,7 @@ title: The Funding Shift
 lens: mental-health
 status: developing
 opened: 2026-06-28
-last_seen: 2026-09-15
+last_seen: 2026-09-16
 weight: 3
 entities:
 - spring-health
@@ -16,6 +16,20 @@ blurb: 'MH is the #1-funded US therapeutic area (~$1.27B/14 deals to start 2026)
   hitting the regulatory reckoning; watch consolidation (e.g. Spring Health/Alma).
   Tests whether the market prices in rigor — the evidence-gap thesis.'
 ---
+
+## 2026-09-16 — Sword-Headspace made official, and Aware Recovery Care's buyer gets a name
+
+- **Sword Health made its acquisition of Headspace official: a signed agreement to acquire Headspace's parent company OrangeDot, an all-cash transaction (reported $200-300M, terms not officially disclosed), with the close now set for "the beginning of Q4 2026" rather than the 09-14 date implied by the original August filing.** This resolves sword-headspace-acquisition-close-0914 on attention/upcoming.yaml, which had flipped to passed-silent on 09-14 within its 3-day retro-flip grace window — not a silent close, just a real deal with a later real close date; confirmed against Sword's own press release directly rather than a search summary (one result had recycled the old "expected Sept. 14" headline as current).
+  ([Sword Health, primary](https://www.globenewswire.com/news-release/2026/09/16/3363038/0/en/sword-to-acquire-headspace-bringing-ai-care-to-the-world-s-most-trusted-mental-health-brand.html), [Fierce Healthcare](https://www.fiercehealthcare.com/digital-health/sword-health-acquire-headspace-all-cash-deal))
+- **Aware Recovery Care's previously-unnamed buyer has a name: Renew Health + Recovery, an existing 11-state in-home substance-use treatment provider, has purchased "many of the assets" and clinical teams/models of the financially distressed Aware Recovery Care, with no stated interruption to existing clients.**
+  ([AP via Rutland Herald](https://www.rutlandherald.com/ap/state/renew-health-recovery-purchases-assets-of-aware-recovery-care/article_2193a02c-3e10-566b-ab1e-c72e0950934e.html))
+
+## 2026-09-15 (caught late by the coverage critic, added 2026-09-16) — Two same-day funding/M&A stories this thread missed: an autism-specialty raise, and a former Discovery Behavioral CEO's new AI-monitored addiction venture
+
+- 🕰 **CAUGHT LATE — Prosper Health, a Weston, FL virtual behavioral-health provider serving adults with autism, raised roughly $10M in an equity sale.** Adult autism diagnoses aged 26-34 grew 452% from 2011-2022, a genuinely underserved niche; Prosper was added to Headspace's specialty referral network in July alongside Cortica, Charlie Health and Equip.
+  ([Behavioral Health Business](https://bhbusiness.com/2026/09/15/prosper-health-raises-10m-to-support-adults-with-autism/))
+- 🕰 **CAUGHT LATE — John Peloquin, the longtime CEO of Discovery Behavioral Health, launched a new San Diego addiction-treatment venture (Integrated Behavioral Health Group) built explicitly around AI-backed patient monitoring, partnered with Videra Health, to interrupt addiction treatment's "episodic cycle."** The venture acquired the assets of a defunct provider, Right Path Recovery.
+  ([Behavioral Health Business](https://bhbusiness.com/2026/09/15/former-discovery-behavioral-ceo-launches-new-addiction-treatment-venture/))
 
 ## 2026-09-11 (caught late, added 2026-09-15) — The distress-side counterpart: Aware Recovery Care's financial crisis reaches an asset sale
 

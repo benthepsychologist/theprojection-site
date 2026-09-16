@@ -3,7 +3,7 @@ title: Red Sea Shock
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-15
+last_seen: 2026-09-16
 weight: 3
 entities: []
 thread_kind: story
@@ -30,6 +30,11 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   policy. This is the capital-markets and risk-underwriting read of the war, deliberately
   distinct from the conflict itself.'
 ---
+
+## 2026-09-16 — Brent eases on an inventory build even as the pipeline stays shut with no restart date
+
+- **Brent fell about 1% to $107.64 Wednesday as reported US crude-inventory increases outweighed the still-unresolved Saudi East-West pipeline shutdown (offline since the drone strike, no restart timeline despite Tuesday's "soon" comment from the US Energy Secretary) and intensifying Saudi-backed counter-strikes against Houthi positions near Bab al-Mandeb.** Two forces are pulling the same barrel in opposite directions — a bearish inventory print against a still-live chokepoint disruption on a route now carrying roughly 8x more Saudi export volume since Hormuz risk forced the reroute.
+  ([CNBC](https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html), [Washington Times](https://www.washingtontimes.com/news/2026/sep/16/saudi-backed-forces-yemen-step-strikes-houthis-oil-crisis-escalates/))
 
 ## 2026-09-15 — Brent consolidates near $107-108 as the pipeline stays shut and Washington predicts a restart "soon" with no date given
 

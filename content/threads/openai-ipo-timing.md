@@ -3,7 +3,7 @@ title: OpenAI IPO
 lens: ai
 status: developing
 opened: 2026-06-27
-last_seen: 2026-08-31
+last_seen: 2026-09-16
 weight: 2
 entities:
 - openai
@@ -15,6 +15,11 @@ blurb: Reported slip to 2027 chasing a ~$1T valuation; Altman rejecting a lower 
   Track confirmed timing, valuation target, and macro/AI-stock spillover (SoftBank
   fell ~12% on the report).
 ---
+
+## 2026-09-16 — OpenAI in early talks for a fresh round above $1.2 trillion, a ~40% jump from March's $852B mark
+
+- **OpenAI is in early, investor-initiated talks about a fresh funding round at a valuation above $1.2 trillion, ahead of its now-delayed IPO.** No round size, lead investor, or close date has been reported — talks are preliminary — and timing depends on when OpenAI actually goes public; Altman said Saturday a US IPO right now would be "ill-advised" given safety scrutiny and reaffirmed the window is pushed past 2027 (already on this thread). A private round at this size, rather than a public listing, is the more concrete near-term liquidity event this thread has seen since the IPO delay itself.
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-15/openai-weighing-funding-round-at-over-1-2-trillion-valuation), [PYMNTS](https://www.pymnts.com/news/artificial-intelligence/2026/openai-eyes-1-2-trillion-valuation-in-pre-ipo-funding-round/))
 
 ## 2026-08-31 — OpenAI puts a number on its ad business for the first time — $1bn annualized run rate in under 200 days
 

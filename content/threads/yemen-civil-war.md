@@ -3,7 +3,7 @@ title: Yemen's Civil War
 lens: world-news
 status: open
 opened: 2026-09-05
-last_seen: 2026-09-08
+last_seen: 2026-09-16
 weight: 2
 entities: []
 thread_kind: story
@@ -17,6 +17,11 @@ blurb: 'The Houthi-versus-government ground war inside Yemen — deliberately di
   ground or air support, and whether the UN envoy''s warning of a return to full-scale
   war becomes a formal collapse of the 2022 truce.'
 ---
+
+## 2026-09-16 — Yemen's own army opens a stated "preparatory phase" for a ground offensive to retake the Bab al-Mandab coast
+
+- **Yemen's own army (distinct from Saudi Arabia's counter-strikes already on this thread) intensified airstrikes on Mokha, Dhubab, Khokha and Taiz as a stated "preparatory phase" for a ground offensive to retake Bab al-Mandab coast the Houthis seized earlier this month; officials claim over 200 Houthi fighters killed (unverified), with 95,000+ people now displaced across six government-held provinces.** A Yemeni army spokesman told Arab News "the sound of aircraft is constant, continuing around the clock." Responds to the Houthi capture of Mocha/Perim Island/Hanish Islands (09-10 to 09-12).
+  ([Arab News](https://www.arabnews.com/middle-east/yemeni-army-steps-up-strikes-on-houthis-near-bab-al-mandab-ahead-of-possible-ground-offensive-3001828), [Anadolu Agency](https://aa.com.tr/en/middle-east/yemeni-army-says-more-than-20-airstrikes-hit-houthi-targets-in-central-yemen/4055653))
 
 ## 2026-09-15 — Saudi Arabia strikes back into Houthi-held Yemen for the first time in this wave, with reported child casualties
 

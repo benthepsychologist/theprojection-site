@@ -3,7 +3,7 @@ title: Russia-Ukraine War
 lens: world-news
 status: open
 opened: 2026-07-31
-last_seen: 2026-09-15
+last_seen: 2026-09-16
 weight: 3
 entities: []
 thread_kind: story
@@ -20,6 +20,11 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   sibling thread the same way Iran''s Widening War / Red Sea Shock did, if and when
   that read becomes substantial enough to carry on its own.'
 ---
+
+## 2026-09-16 — A Russian drone kills five on a passenger bus in Nikopol, a distinct strike from Tuesday's Kyiv wave
+
+- **A Russian drone struck a scheduled passenger bus in Ukraine's Nikopol district (Dnipropetrovsk region) early Wednesday, killing five and wounding at least seven.** Regional governor Oleksandr Hanzha confirmed the strike; Zelenskyy called it an "atrocity" with "no military rationale," tying it to Russia's continued targeting of logistics and infrastructure. Distinct from Tuesday's ~200-drone Kyiv wave already on this thread.
+  ([AP via messenger-inquirer](https://www.messenger-inquirer.com/ap/ap_international_news/russian-drone-strike-kills-5-and-injures-at-least-7-on-passenger-bus-in-ukraine/article_fe0cd380-71ec-55ec-9d20-7c33611dd85d.html), [Al Jazeera](https://www.aljazeera.com/news/2026/9/16/at-least-five-killed-in-russian-drone-strike-near-ukraine-front-line))
 
 ## 2026-09-15 — A 200-drone night hits Kyiv's gas stations and a suspected Russian drone washes up on Poland's Baltic coast
 

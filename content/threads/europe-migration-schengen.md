@@ -3,7 +3,7 @@ title: Europe Migration & Schengen
 lens: world-news
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-03
+last_seen: 2026-09-16
 weight: 2
 entities: []
 thread_kind: story
@@ -21,6 +21,11 @@ blurb: 'The policy fight the Ceuta mass-crossing set off, offered as a thread ca
   triggered rather than threatened, what the October summit is being set up to decide,
   and whether a Morocco-returns arrangement materialises.'
 ---
+
+## 2026-09-16 — Germany extends internal Schengen border checks through March 2027, a scheduled renewal not a new escalation
+
+- **Germany formally extended internal Schengen border checks on all nine land borders (France, Belgium, Luxembourg, Netherlands, Denmark, Austria, Switzerland, Czechia, Poland) from today through 15 March 2027 — a scheduled six-month renewal of an already-standing policy**, citing continued irregular migration and security pressure in its EU notification. Routine, not a policy shift.
+  ([InfoMigrants](https://www.infomigrants.net/en/post/69883/germany-to-extend-border-checks-by-six-months))
 
 ## 2026-09-02 — Nationwide solidarity demonstrations for Ceuta held across Spain, including Castilla-La Mancha
 
