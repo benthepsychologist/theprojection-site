@@ -3,7 +3,7 @@ title: Frontier Gatekeeping
 lens: ai
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-15
+last_seen: 2026-09-16
 weight: 3
 entities:
 - openai
@@ -20,6 +20,12 @@ blurb: 'The gpt-5.6 gating dynamic made permanent — and it''s all one buildout
   is named (SRO?); Meta''s exclusion made official; CAISI leadership (3 directors
   in a year — can it run classified review?); the first model actually gated.'
 ---
+
+## 2026-09-16 — Zuckerberg argues against a mandatory slowdown; a routine sweep catches Treasury and the FTC publicly rejecting the antitrust-waiver ask a day after this thread's own Lehane/Huang/Zuckerberg entry
+
+- **Mark Zuckerberg posted on X arguing against Amodei's proposed mandatory AI slowdown, pointing to Meta's own recent practice as the counter-example: "Meta delayed shipping Muse for several months to focus on safety and security... We just did it as part of our day-to-day work."** 🕰 **CAUGHT LATE (found in today's sweep) — this happened ~7:44am ET today, inside this digest's own 05:00-10:00 window, but wasn't captured in that pass.** Consistent with Zuckerberg's side-with-Huang framing already on this thread's 09-15 entry below. ([Fox News live blog](https://www.foxnews.com/politics))
+- 🕰 **CAUGHT LATE (found in today's routine sweep, not the coverage critic pass) — Treasury Secretary Scott Bessent and FTC Chair Andrew Ferguson both went on the record Tuesday (09-15) rejecting the antitrust-waiver ask, a day this thread's own entry below already recorded three lab executives (Lehane, Huang, Zuckerberg) rejecting.** Bessent, at a House Financial Services Committee hearing, rejected a liability-shield exemption for AI labs outright: "The best way to guarantee safety is that the creators are liable for what they build and generate." Ferguson, at Georgetown University, called the waiver ask itself "deeply suspicious" and said the rules for the most consequential technology in history "cannot be written by a small group of commercially aligned companies behind an antitrust waiver." Different cast from the same-day lab-executive pushback below: this is the regulators who'd have to grant the waiver publicly signaling they won't.
+  ([FedScoop](https://fedscoop.com/treasury-scott-bessent-ai-labs-liability-exemptions/), [Law360](https://www.law360.com/consumerprotection/articles/2525425), [Silicon.co.uk](https://www.silicon.co.uk/e-regulation/anthropic-antitrust-exemption-631587))
 
 ## 2026-09-15 — A second Google DeepMind safety researcher resigns and publicly warns AI "has the potential to kill us all" — corrects this thread's own earlier miscast of Josh Engels as an Anthropic departure
 
