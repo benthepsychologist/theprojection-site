@@ -3,7 +3,7 @@ title: Arm Royalty Regime
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-31
+last_seen: 2026-09-17
 weight: 2
 entities:
 - arm
@@ -18,6 +18,13 @@ blurb: 'The ~$800B-gravity ISA chokepoint: SoftBank''s 87.1% leaned on as LOAN C
   own licensees. Royalties real (4 straight >$1B quarters, v9+CSS). Stock -28% into
   earnings 07-29 — the live test.'
 ---
+
+## 2026-09-16 — CEO tells CNBC demand is "off the charts," rebuilds confidence in the $2B AGI-CPU target; stock jumps ~7%
+
+- **Arm CEO Rene Haas told CNBC's Jim Cramer (09-16) that his confidence in hitting the $2 billion AGI-CPU demand target — flagged in May, cut to $1B on foundry-capacity worries, then partially rebuilt by July — is now higher than at the July earnings call**, and that "data center is going to be our largest business." He described the constraint as manufacturing capacity ("wafers, substrates, testers, and memory"), not demand, which he called "off the charts." Shares rose roughly 7% on the comments (still ~45% below June's peak) — a direct hit on this thread's central question of whether Arm converts leverage into economics. Corroborated across CNBC, 24/7 Wall St., Invezz, and TradingKey.
+  ([CNBC](https://www.cnbc.com/2026/09/16/jim-cramer-arm-ceo-ai-revenue-goal.html), [24/7 Wall St.](https://247wallst.com/investing/2026/09/17/arms-ceo-says-demand-is-off-the-charts-the-problem-is-nobody-can-build-chips-fast-enough/))
+- **New supporting numbers: data-center royalties more than doubled y/y last quarter, and Arm shipped 500 million Neoverse cores in nine months versus six years for the first billion** — plus a first look at the AGI-CPU's margin profile, launching in the high-30s/low-40s% gross-margin range (below traditional IP licensing) with management targeting ~50% over subsequent years.
+  ([24/7 Wall St.](https://247wallst.com/investing/2026/09/17/arms-ceo-says-demand-is-off-the-charts-the-problem-is-nobody-can-build-chips-fast-enough/))
 
 ## 2026-08-24 — IBM builds native Arm support into its next mainframe chip; Arm shares jump on the tie-up plus a reported $2B AI-chip backlog
 

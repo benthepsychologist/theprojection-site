@@ -3,7 +3,7 @@ title: AI Debt Gets Rated
 lens: global-capital
 status: open
 opened: 2026-08-11
-last_seen: 2026-09-08
+last_seen: 2026-09-17
 weight: 2
 entities:
 - nvidia
@@ -27,6 +27,10 @@ blurb: 'Whether AI-buildout debt is becoming its own underwritten, rated, public
   an infrastructure asset with a 20-year life or like equipment on a 3-4 year depreciation
   clock — the two produce very different recovery rates in a default.'
 ---
+
+## 2026-09-17 — BOJ hike odds firm further into Friday's (Japan time) decision, no fresh substance
+
+- **Markets moved further toward pricing the Bank of Japan's 09-17/18 meeting as a hike rather than a hold: a Reuters poll of economists (conducted 09-01 to 09-08) found 97% expecting a 25bp move to 1.25%, and overnight-index-swap pricing found this pass ranged roughly 72-97% depending on source and exact timing — all at or above the 80-89% range this thread's own reads have carried since early September.** Japan's 10-year JGB held around 2.93%, essentially unchanged from this thread's 09-10 read. No new substantive development beyond the odds firming — the decision itself lands Friday Japan time (Thursday evening US time), after this pass's own window. This is the cross-border rate leg this thread and [The Cross-Border Rate Leg](/threads/cross-border-rates/) both track; nothing here yet resolves either thread's open question about the yen/JGB reaction.
 
 ## 2026-09-11 — Oracle's own numbers show the funding gap this thread tracks, and Lagarde ties AI financing to sovereign yields directly
 

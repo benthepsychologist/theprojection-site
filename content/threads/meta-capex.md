@@ -3,7 +3,7 @@ title: Meta Capex
 lens: ai
 status: developing
 opened: 2026-07-23
-last_seen: 2026-09-01
+last_seen: 2026-09-17
 weight: 2
 entities:
 - meta-ai
@@ -26,6 +26,11 @@ blurb: 'The week''s reversal: Meta QUIT RE100 amid a 7.5GW gas buildout (07-23/2
   combined. EY flagged Beignet as a critical audit matter Feb-2026. Read the guidance
   as what Meta will SPEND, not what it has COMMITTED — track the gap.'
 ---
+
+## 2026-09-15 — BofA models $8.5B in 2027 MTIA savings; the next two chip generations get names for the first time
+
+- **Bank of America estimates Meta could save roughly $8.5 billion in 2027 by running AI workloads on its own custom MTIA silicon instead of third-party chips — a modeled analyst projection, not company guidance** — built on an assumed 5-6GW of owned capacity in 2027 at ~$200B total spend, chips at 60% of that, and custom silicon priced ~40% below third-party equivalents. First time this thread has concrete names/timing for the next two MTIA generations: **MTIA 450 ("Arke") in H1 2027, MTIA 500 ("Astrid") later in 2027**, both co-developed with Broadcom for inference workloads — Broadcom CEO Hock Tan confirmed delivering "three generations of MTIA accelerators to Meta" through end of 2027. Corroborated across Bloomberg, Investing.com, and 24/7 Wall St.
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-15/meta-touts-the-cost-saving-benefits-of-latest-in-house-ai-chips), [24/7 Wall St.](https://247wallst.com/investing/2026/09/17/meta-can-save-8-5-billion-in-2027-by-using-its-own-mtia-chips/))
 
 ## 2026-08-31 — A Texas gubernatorial candidate made Meta's El Paso data center a campaign issue, calling for an emergency legislative session
 

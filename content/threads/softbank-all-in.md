@@ -3,7 +3,7 @@ title: Son All-In
 lens: global-capital
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-08
+last_seen: 2026-09-17
 weight: 2
 entities:
 - softbank
@@ -27,6 +27,10 @@ blurb: 'The empire''s concentration play, assembled from pieces other threads ca
   repricing, any forced Arm monetization, Stargate milestones, the funding-gap figure,
   and whether Roze/ABB actually reaches IPO.'
 ---
+
+## 2026-09-17 — The dollar-bond roadshow's own scheduled window closes with still no pricing found
+
+- **SoftBank's $10-20bn dollar-bond roadshow (Citigroup, New York) was scheduled to run 09-14 to 09-17 — today is its own last day — and as of this afternoon's check, no outlet (Bloomberg, Reuters-relay coverage, or SoftBank's own IR bond page, which lists nothing dated September 2026) has reported a coupon, size or launch.** This thread's 09-09/09-10 entries already established the roadshow as the funding mechanism for the $25.9bn bridge-loan payoff (itself completed 09-15 using cash already on hand plus prior bond proceeds, per those entries) — so a delayed dollar-bond pricing doesn't reopen the bridge-loan question, but it does leave the specific instrument this thread has been tracking since 09-10 still unpriced past its own reported timeline. Re-check at finalize; a same-week pricing after the roadshow's formal close would not be unusual for a deal this size.
 
 ## 2026-09-10 — The bridge-loan repayment gets its funding mechanism: a $10-20bn junk-bond roadshow via Citigroup
 
