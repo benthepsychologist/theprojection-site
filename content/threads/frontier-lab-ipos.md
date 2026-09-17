@@ -3,7 +3,7 @@ title: Lab IPO Wave
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-12
+last_seen: 2026-09-16
 weight: 3
 entities:
 - openai
@@ -28,6 +28,10 @@ blurb: 'The frontier labs are converting private, vendor-financed valuations int
   does Anthropic''s S-1 land on schedule, and does OpenAI''s own timeline (currently
   "as late as next year") move.'
 ---
+
+## 2026-09-16 (event dated 2026-09-15) — OpenAI opens talks for a $1.2 trillion pre-IPO round, closing in on Anthropic's own headline number while its public listing stays pushed to 2027
+
+- **OpenAI has opened early, investor-initiated talks for a new private funding round that would value the company at more than $1.2 trillion, per the Financial Times (picked up same-day/next-day by Bloomberg, Fortune and others) — roughly 40% above the $852bn valuation set by its March 2026 $122bn round, with no investor names, size or terms yet confirmed and the FT's own framing stressing the discussions are preliminary.** It lands days after Altman told Fortune (09-12, already on this thread) that OpenAI's IPO won't happen in 2026 — "an ill-advised moment" given safety work outstanding — and reads as the capital mechanism for staying private longer: raise bigger rounds instead of going public. **The number is the fact worth holding onto against this thread's own record:** $1.2T puts OpenAI's private valuation within range of the ~$2 trillion target Anthropic is chasing on its Nasdaq-bound IPO (this thread's 09-13 entry) — the two labs now converging on comparable headline valuations through opposite capital-markets paths, one staying private and raising bigger, the other going public. ⚠️ No investor is named, including whether any existing backer (Nvidia, Microsoft, SoftBank) is involved; treat as reported, not confirmed, and whether the round proceeds at all still depends on OpenAI's own IPO timing per the FT's framing. ([Fortune](https://fortune.com/2026/09/16/openai-ipo-sam-altman-vc-funding-valuation-1-2-trillion/), [Bloomberg via Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/openai-weighing-funding-round-over-223133303.html))
 
 ## 2026-09-13 — Anthropic picks Nasdaq for its listing, per a single Business Insider source
 

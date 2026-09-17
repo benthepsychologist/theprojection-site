@@ -3,7 +3,7 @@ title: Evidence Infrastructure
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-08-30
+last_seen: 2026-09-17
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -16,6 +16,11 @@ blurb: 'The machinery that produces the evidence base is under strain from three
   and the NHS Talking Therapies evidence fight (official ~50% recovery vs. the placebo-equivalence
   critique; no independent evaluation ever run).'
 ---
+
+## 2026-09-03 — FDA's TEMPO pilot goes live, with two named behavioral-health products first through the door
+
+- **The FDA selected four companies for its TEMPO (Technology-Enabled Meaningful Patient Outcomes) pilot, letting selected generative-AI digital-health devices reach Medicare patients without full marketing authorization** — a real deployment mechanism, distinct from (and ahead of) the comment-period discussion paper logged just below. Two of the four are behavioral-health products, both using generative AI: **SonderMind**'s smartphone app for adults 22+ with moderate depression or anxiety, used alongside therapy or medication; and **Limbic**'s "Unpacked," an AI voice agent delivering cognitive behavioral therapy to Medicare patients with significant depression or anxiety. The other two participants are Cadence Solutions (a hypertension-medication-management tool) and Dexcom (glucose/metabolic health, the pilot's first participant, admitted late July). The pilot is tied to CMS's Medicare ACCESS payment model. This is the actual implementation gap the 08-15 "facts label" proposal and the 08-18 FDA discussion paper were both written against — real generative-AI mental-health products now shipping to Medicare patients under a live pilot pathway, ahead of any finalized regulatory framework.
+  ([FDA — Participants Selected for TEMPO Pilot](https://www.fda.gov/medical-devices/digital-health-center-excellence/participants-selected-tempo-digital-health-devices-pilot), [STAT](https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/))
 
 ## 2026-08-18 — FDA opens a formal policy discussion on regulating generative-AI medical devices
 

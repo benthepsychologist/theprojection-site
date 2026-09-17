@@ -3,7 +3,7 @@ title: Psychedelic Sprint
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-15
+last_seen: 2026-09-16
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -15,6 +15,11 @@ blurb: 'Psilocybin racing toward first-ever US approval (Compass NDA targeted Q4
   the accelerating trials share. The live question: is approval outrunning the methodology
   fix?'
 ---
+
+## 2026-09-16 — COMPASS gives a conference-circuit update: a possible first-half-2027 launch, and the dosing contrast with Spravato spelled out
+
+- **COMPASS Pathways told the Morgan Stanley 24th Annual Global Healthcare Conference (09-16) it is on track for a possible first-half-2027 launch for COMP360, its psilocybin depression drug, with the FDA's rolling priority review continuing toward a Q4-2026 final NDA submission.** No new trial data — the six-month Phase 3 durability figures already on this thread from July stand (remission 30-50%, response 40-50% in open-label follow-up) — but management spelled out the expected label for the first time in concrete terms: two initial doses minimum three weeks apart, then maintenance redosing "two to four times annually," against Spravato's 25-52 annual visits. That dosing contrast is the clearest read yet on how COMPASS is positioning against the market's one existing rapid-acting option.
+  ([Investing.com conference transcript](https://www.investing.com/news/transcripts/compass-pathways-at-morgan-stanley-conference-launch-data-and-fda-push-93CH-4904159))
 
 ## 2026-09-14 — Definium's third straight positive Phase 3: a second GAD trial confirms the first, and the depression/anxiety pattern with it
 

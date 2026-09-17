@@ -3,7 +3,7 @@ title: Memory Squeeze
 lens: ai
 status: developing
 opened: 2026-06-27
-last_seen: 2026-09-04
+last_seen: 2026-09-16
 weight: 2
 entities:
 - samsung
@@ -21,6 +21,10 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   push (charging ABOVE Samsung; new modules with no price relief; DoD ban overhang),
   and who blinks first on capex.'
 ---
+
+## 2026-09-16 — SK Hynix, fresh off its own Nasdaq listing, opens talks with Intel about manufacturing memory chips on US soil for the first time
+
+- **SK Hynix confirmed it is in discussions with Intel about producing RAM chips in the United States for the first time — either leasing space at Intel's planned Ohio fab or forming a joint venture, potentially with cloud-service providers involved — though SK Hynix says "no specific plans or arrangements have been finalized at this time."** Which memory product line would move to the US is unspecified; it comes as SK Hynix is already building a separate $3.8bn advanced-packaging plant in Indiana for AI chips (mass production targeted 2029) and follows the Trump administration's push for domestic chip production plus tariff-relief incentives amid the ongoing shortage this thread tracks. Context worth noting: SK Hynix bought Intel's NAND business for $9bn in 2020, so a new joint arrangement would reverse that direction of consolidation. ⚠️ Preliminary and unconfirmed by either company beyond the fact that talks are happening; Seoul may also review any deal involving strategically sensitive chip technology. ([TechCrunch](https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/))
 
 ## 2026-09-04 — SK hynix again tells the SEC no decision has been made on a Solidigm pre-IPO raise
 

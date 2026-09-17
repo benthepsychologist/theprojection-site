@@ -3,7 +3,7 @@ title: China's Stack
 lens: ai
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-12
+last_seen: 2026-09-17
 weight: 3
 entities:
 - zhipu-ai
@@ -18,6 +18,10 @@ blurb: 'One story, both directions: Z.AI''s 1 GW all-domestic-chip site, Kimi K3
   rules; September US-China talks) plus Beijing''s own proposed export controls on
   its models/chips. US chip-equity reaction is the measure.'
 ---
+
+## 2026-09-17 — Huawei unveils the Ascend 960, moving China's chip answer from single chips to a whole-system architecture, and pulls the DeepSeek-favored 960DT variant forward three quarters
+
+- **Huawei unveiled its next-generation Ascend 960 AI chip family at HUAWEI CONNECT 2026 in Shanghai, alongside a new "SuperPoD" — a 4,096-card computing cluster delivering up to 8 EFLOPS and 1PB of HBM memory, built on an industry-first "Near-Packaged Optics" interconnect and an upgraded UnifiedBus fabric — and said the 960DT variant (the line DeepSeek is already deploying via the 950DT this thread logged on 09-04) is now targeted for Q1 2027, three quarters ahead of its original schedule.** Huawei framed the acceleration as a response to AI-chip demand outstripping its own production capacity. The Ascend 960 is pitched as roughly double the performance of the current 950 generation and is Huawei's clearest statement yet that its competitive answer to Nvidia is system-level scale-up (many chips wired together as one computer) rather than matching Nvidia chip-for-chip — directly extending this thread's fabrication/serving split (Huawei's own production capacity, not chip design, remains the binding constraint per the 09-04 DeepSeek entry). Huawei committed to a one-generation-per-year cadence going forward, with Ascend 970 slated for 2028 and 980 for 2029. ([Bloomberg via Japan Times](https://www.japantimes.co.jp/business/2026/09/17/tech/huawei-china-nvidia-ai-chip/), [DigiTimes](https://www.digitimes.com/news/a20260917VL215/huawei-ascend-2026-roadmap-accelerator.html), [TrendForce](https://www.trendforce.com/news/2026/09/17/news-huawei-speeds-up-ai-chip-roadmap-reportedly-pulls-ascend-960dt-forward-three-quarters-to-1q27/))
 
 ## 2026-09-14 — Beijing calls Amodei's pacing essay a "Cold War playbook," its third distinct government rebuttal in a week, while Trump and House Speaker Johnson reject the pacing call by citing China
 

@@ -3,7 +3,7 @@ title: Google Health
 lens: mental-health
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-18
+last_seen: 2026-09-17
 weight: 2
 entities:
 - google
@@ -14,6 +14,11 @@ blurb: Google mid-pivot — Verily spun OUT to independence (not wound down); en
   footprint is mostly defensive (Gemini suicide/self-harm safeguards after wrongful-death
   suits); genuine behavioral-health capability is upstream in research, not shipped.
 ---
+
+## 2026-09-08 — DeepMind releases the AlphaGenome Atlas, scaling the research-foundation strand this thread already tracks
+
+- **Google DeepMind published the AlphaGenome Atlas, a precomputed map of molecular-effect predictions for all 9 billion possible single-letter DNA variants across the human genome** — roughly a 1-petabyte dataset, DeepMind says more than 30x the size of the 2022 AlphaFold Database, storing an average of ~27,000 predictions per variant across hundreds of human and mouse cell/tissue types. Open for non-commercial research use from launch, with commercial access on Google Cloud described as "coming soon." DeepMind's own disclaimer: AlphaGenome "has not been validated or approved for any clinical use," and the companion paper says the Atlas and its AVI variant-ranking score can only be part of an evidence chain toward a diagnosis, not sufficient on their own. This is a scale-up of the same underlying model family already logged in this thread's 2026-01 "research foundation" entry below — from a per-variant tool to a queryable public atlas — not a new clinical product, so it doesn't change this thread's standing "reshaping, not retreating" verdict.
+  ([Google DeepMind](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/))
 
 ## 2026-08-11 — Two new items: AMIE clinical-consultation research, and an Abbott glucose-data partnership
 

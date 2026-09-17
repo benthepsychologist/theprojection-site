@@ -3,7 +3,7 @@ title: In-House Silicon
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-14
+last_seen: 2026-09-17
 weight: 2
 entities:
 - google
@@ -21,7 +21,9 @@ blurb: The custom-silicon revolt (TPU/Trainium/Maia/MTIA) — real but INFERENCE
   Watch whether displacement reaches frontier training.
 ---
 
-## 2026-09-14 — Amazon signs Qualcomm as a second custom-silicon partner alongside its own Trainium line
+## 2026-09-17 — Broadcom's Sept 2 earnings call named OpenAI as a 4th custom-silicon customer, $10B in orders, Jalapeño already shipping
+
+- **Broadcom's September 2 earnings call confirmed OpenAI as a named fourth AI-chip customer, alongside $10B in AI-chip orders and confirmation that the Jalapeño chip (already benchmarked at Hot Chips, 08-25 entry above) shipped this quarter, on track for a 1.3GW deployment.** Caught on this thread's cold-rotation pass, 15 days after the earnings call itself — a lag worth noting given how central Jalapeño's production timeline is to this thread's thesis. (Broadcom Q3 FY2026 earnings call, 2026-09-02)
 
 - **Qualcomm and Amazon announced a multi-generation collaboration on custom AI-inference silicon and optical interconnects for AWS data centers, with Qualcomm also issuing Amazon warrants for $4B of Qualcomm stock and AWS committing to purchase up to $60B of Qualcomm chips and technology over the deal's life.** This is a new fork in the thread's thesis: rather than one hyperscaler-designed chip line per company, Amazon is now running Trainium in-house *and* buying custom AWS-specific silicon from a merchant vendor (Qualcomm, diversifying beyond its smartphone base) — a hybrid pattern this thread hasn't tracked before, distinct from Broadcom/Marvell's co-design-house role. Qualcomm's own release names the technology (custom inference silicon, SerDes/optical DSP, 1.6T+ interconnects) but discloses no dollar figures; the $4B warrant and $60B purchase-commitment figures come from Qualcomm's SEC-linked disclosure as reported by CNBC and Bloomberg.
   ([Qualcomm/PR Newswire](https://www.prnewswire.com/news-releases/qualcomm-announces-multi-generational-product-collaboration-with-amazon-to-build-next-generation-ai-data-center-infrastructure-302871895.html), [CNBC](https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html))

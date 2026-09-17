@@ -3,7 +3,7 @@ title: AI Denial Machine
 lens: mental-health
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-30
+last_seen: 2026-09-17
 weight: 2
 entities:
 - unitedhealth-group
@@ -20,6 +20,13 @@ blurb: 'The concept lived in board glosses; now the evidence supports a thread: 
   the UHC discovery outputs, WISeR''s fate, state AI-denial bans spreading, and Humana''s
   nH Predict suit (quiet, distinct docket).'
 ---
+
+## 2026-09-15/16 — FOIA documents answer this thread's standing "WISeR's fate" watch: staggering denial rates and a pay-per-denial structure
+
+- **The Electronic Frontier Foundation released roughly 1,000 pages of CMS documents obtained via a FOIA lawsuit, revealing high denial rates, long delays and technical failures across WISeR's AI prior-authorization vendors since the pilot's January launch.** Vendor Virtix denied 53% of its more than 6,000 prior-authorization decisions through the end of March — "staggering," per the reviewers who examined the data. One prior-authorization request went unanswered for 83 days. Vendor Innovaccer told CMS before go-live that its software lacked full functionality and hadn't been fully tested; when CMS declined to delay launch, Innovaccer said it would auto-affirm all requests until development was complete.
+- **The payment structure is the mechanism this thread's watch line names directly: vendors are paid for the requests they deny, not for denials later reversed on appeal**, and CMS's own quality-score penalty for low scores caps the payment reduction at just 5–10% — a financial incentive to deny that a small clawback doesn't offset.
+- **Context on the pilot itself:** WISeR runs in six states (NJ, OH, OK, TX, AZ, WA; ~6.4M traditional-Medicare beneficiaries) across 17 outpatient services, launched 2026-01-01 under CMS's Innovation Center; a Senate effort to block it failed 46–50 on 2026-07-16, so it continues on its scheduled run through 2031-12-31.
+  ([EFF](https://www.eff.org/deeplinks/2026/09/new-records-reveal-problems-medicares-ai-prior-authorization-experiment), [STAT](https://www.statnews.com/2026/09/15/medicare-wiser-ai-prior-authorization-pilot-rushed-launch-delayed-care/))
 
 ## 2026-08-30 — SB 503 (AI bias-testing for clinical-decision-support tools) enrolled, sent to Governor Newsom
 

@@ -3,7 +3,7 @@ title: Frontier Gatekeeping
 lens: ai
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-16
+last_seen: 2026-09-17
 weight: 3
 entities:
 - openai
@@ -20,6 +20,10 @@ blurb: 'The gpt-5.6 gating dynamic made permanent — and it''s all one buildout
   is named (SRO?); Meta''s exclusion made official; CAISI leadership (3 directors
   in a year — can it run classified review?); the first model actually gated.'
 ---
+
+## 2026-09-17 — A narrower, already-in-motion antitrust carve-out for AI labs surfaces on the defense bill, distinct from the broader waiver Bessent and Ferguson rejected two days earlier
+
+- **Semafor reported that Sens. Jim Banks (R-Ind.) and Adam Schiff (D-Calif.), backed by Armed Services Committee leaders Roger Wicker (R-Miss.) and Jack Reed (D-R.I.), tried to attach a narrow AI-antitrust exemption to this year's annual defense authorization bill, via a manager's package of amendments to the Senate Armed Services bill — letting AI companies share intelligence and coordinate defenses against Chinese espionage and model distillation, plus collaborate on cybersecurity response, modeled on the 2015 Cybersecurity Information Sharing Act.** The provision already had committee-leadership sign-off, but stalled over the summer when Senate Democrats blocked floor debate on the broader defense bill over objections to Trump's handling of the Iran war — unrelated to the AI provision itself — and would still need to survive House negotiations before it could become law. This is a materially different, narrower mechanism than Amodei's broader "pace the frontier" antitrust waiver ask that Bessent and FTC Chair Ferguson publicly rejected two days earlier (this thread's 09-16 entry, immediately below): a defense-bill rider scoped to distillation/cyber defense coordination, already working its way through Congress via a different sponsor pair, rather than a fresh executive-branch ask tied to Amodei's essay. Worth tracking whether the two get conflated or stay distinct as the defense bill moves. ([Semafor](https://www.semafor.com/article/09/16/2026/senators-sought-to-add-ai-antitrust-exemption-to-defense-bill))
 
 ## 2026-09-16 — Zuckerberg argues against a mandatory slowdown; a routine sweep catches Treasury and the FTC publicly rejecting the antitrust-waiver ask a day after this thread's own Lehane/Huang/Zuckerberg entry
 

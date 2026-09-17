@@ -3,7 +3,7 @@ title: Gaza War
 lens: world-news
 status: open
 opened: 2026-08-01
-last_seen: 2026-09-15
+last_seen: 2026-09-17
 weight: 3
 entities: []
 thread_kind: story
@@ -37,6 +37,11 @@ blurb: 'Opened on Ben''s steer 2026-08-01, after a disarmament framework announc
   Ministry range as broadly accurate. Both the inflation and the undercount framings
   still circulate; report both, resolve neither.'
 ---
+
+## 2026-09-16 — A war-damaged Gaza City building collapses, killing at least 20, and the US denies Abbas a UN visa for the second year running
+
+- **A six-storey residential building in Gaza City's Tal al-Hawa neighbourhood — previously struck and structurally weakened in Israeli bombing in 2024 and March 2025, per Hamas's Civil Defence — collapsed Wednesday, killing at least 20-21 people including eleven children, with nearly 100 still feared under the rubble and roughly 25 more injured.** Al-Shifa Hospital director Dr. Mohammed Abu Salmiya gave the 21 figure; the IDF said it had not struck the building recently. This is a structural-collapse fatality event distinct in mechanism from the strikes this thread otherwise tracks — the building failed under its own prior war damage rather than from a new strike — but it lands inside the same low-boil post-ceasefire period and adds materially to the casualty count this thread tracks. ⚠️ Palestinian civil-defence/hospital-sourced casualty figures, the standing caveat for this thread. ([Al Jazeera](https://www.aljazeera.com/news/2026/9/16/gaza-residential-building-collapses-six-families-reportedly-trapped), [CNN](https://edition.cnn.com/2026/09/16/middleeast/gaza-building-collapse-palestine-israel-intl), [UN News](https://news.un.org/en/story/2026/09/1168346))
+- **The US denied Mahmoud Abbas a visa to attend the UN General Assembly in person for the second consecutive year, alongside dozens of other Palestinian officials — the State Department citing Palestinian officials' failure to "live up to their commitments" and their pursuit of "internationalising" the conflict via the ICC and ICJ.** UN member states adopted a resolution (145-5, six abstentions) letting Abbas submit a prerecorded address to be played in the General Assembly hall, as happened last year. Separately, top House Democrat Gregory Meeks announced opposition to a $2.8 billion US munitions sale to Israel over international-law compliance concerns, and Egypt's President Sisi met Abbas in Cairo, rejecting any "displacement of Palestinian people" — bearing directly on this thread's standing Ben-Gvir "Disengagement 710" emigration-plan entry (09-03). ([Euronews](https://www.euronews.com/2026/09/17/us-denies-palestine-leader-abbas-a-visa-to-un-summit-for-second-year-running), [Al Jazeera](https://www.aljazeera.com/news/2026/9/17/us-extends-visa-ban-on-palestinian-officials-before-un-general-assembly), [Times of Israel liveblog](https://www.timesofisrael.com/liveblog-september-16-2026/))
 
 ## 2026-09-14 — Kushner says the US used Israel's isolation after the "terrible" Doha strike as leverage to force the ceasefire deal; Netanyahu's Likud pushes back publicly
 

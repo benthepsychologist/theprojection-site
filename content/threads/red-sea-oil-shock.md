@@ -3,7 +3,7 @@ title: Red Sea Shock
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-16
+last_seen: 2026-09-17
 weight: 3
 entities: []
 thread_kind: story
@@ -30,6 +30,11 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   policy. This is the capital-markets and risk-underwriting read of the war, deliberately
   distinct from the conflict itself.'
 ---
+
+## 2026-09-17 — Brent falls to ~$102 as Saudi Arabia announces a concrete partial-restart plan for the East-West pipeline and reroutes crude through Hormuz-adjacent ship-to-ship transfers
+
+- **Brent fell roughly 3.6% to about $102/bbl Thursday — its sharpest single-day drop in this thread's recent record — as Saudi Arabia moved from the "no restart timeline disclosed" state this thread has tracked since 09-14 to a concrete plan: resuming roughly half the East-West pipeline's 7 million bpd capacity "within days," full capacity within about six weeks, while bypassing the damaged section.** Aramco is separately making additional crude cargoes available to Asian refiners via ship-to-ship transfers just outside Hormuz near Oman's Sohar port — using the chokepoint the pipeline exists to avoid as a stopgap workaround for the pipeline's own outage, worth holding against this thread's running theme that both the strait and its workaround have now each been disrupted in this war. Aramco previously restored this same pipeline to full capacity within days after an April 2026 attack, a precedent this outage (nine days old at this restart announcement, since the 09-10 drone strike) has already exceeded once.
+  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-16/saudis-seek-to-resume-half-of-key-oil-pipeline-within-days), [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-16/oil-extends-slump-as-saudi-arabia-moves-to-restore-key-pipeline), [CNBC](https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html))
 
 ## 2026-09-16 — Brent eases on an inventory build even as the pipeline stays shut with no restart date
 

@@ -3,7 +3,7 @@ title: Power Buildout
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-01
+last_seen: 2026-09-16
 weight: 3
 entities:
 - spacex
@@ -16,6 +16,11 @@ blurb: Where the capex lands in POWER — the real bottleneck. Nuclear-for-AI (S
   Oklo/X-Energy), gas turbines (the Colossus permit fights), grid deals, and the energy-justice/permitting
   battles. Category meta under where-the-capex-lands.
 ---
+
+## 2026-09-16 — Nvidia, Google and Emerald AI launch an alliance to make data centers grid-flexible resources rather than fixed loads
+
+- **Nvidia, Google and Emerald AI launched the AI Energy Management Alliance (AEMA) on 09-16, a coalition of 18 launch partners — including Anthropic, National Grid, AES, Constellation, NRG and RWE — aimed at making AI data centers dynamically shift and shed compute load in response to grid conditions rather than drawing fixed, unmanaged power.** The alliance's own claim: flexible, grid-aware operation could unlock up to 100GW of existing grid capacity nationally without building new generation, and save roughly $733M in system costs per gigawatt of new buildout avoided. This is a different lever than every deal this thread otherwise tracks (new generation, PPAs, on-site gas/geothermal) — it targets the demand side of the buildout rather than the supply side, aimed at the interconnection queue that has been the binding constraint across this thread's siting fights.
+  ([Nvidia blog — primary](https://blogs.nvidia.com/blog/ai-energy-management-alliance/), [Fortune](https://fortune.com/2026/09/16/data-centers-ai-energy-management-alliance-emerald-google-nvidia-anthropic/), [TechCrunch](https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/))
 
 ## 2026-09-09 — Massachusetts becomes the third state in three months to restrict data centers, requiring 100% clean power for anything over 25MW
 

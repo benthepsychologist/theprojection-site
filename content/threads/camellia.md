@@ -3,7 +3,7 @@ title: Camellia
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-04
+last_seen: 2026-09-17
 weight: 1
 entities:
 - openai
@@ -16,6 +16,11 @@ blurb: 'OpenAI-direct build (Octans GA LLC/Butler Snow — no named GC or Starga
   SoftBank''s ~10GW Ohio (Portsmouth) campus. Track: the local secrecy backlash (10K+
   petition), generation-mix disclosure, and whether a GC/financing partner surfaces.'
 ---
+
+## 2026-09-17 — Coastal Regional Commission's DRI report gives the project its first hard numbers: 3,210MW peak, bigger than both Vogtle reactors combined
+
+- **The Georgia Coastal Regional Commission published its Development of Regional Impact (DRI) report on Project Camellia (09-16), the first document to attach concrete build and environmental figures to the project rather than the $20-30B cost range already unreconciled on this thread.** New numbers: $20B build-out value, 3,210MW peak load — exceeding both of Georgia's Vogtle nuclear reactors combined, making this the single largest electricity consumer in Georgia history — on a 1,400-acre site with roughly 65% impervious surface and ~30,000 gal/day water use. The report also flags environmental detail not previously on the map: presence of the Hooded Pitcherplant (a state-tracked species), wetlands on-site, and recommendations for bird-safe glass and wildlife-permeable fencing.
+  ([WTOC](https://www.wtoc.com))
 
 ## 2026-09-02 — OpenAI's $80M Effingham community fund makes its first disbursement, $4.8M for a year of free school meals
 

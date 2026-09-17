@@ -3,7 +3,7 @@ title: CoreWeave Bet
 lens: global-capital
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-04
+last_seen: 2026-09-17
 weight: 2
 entities:
 - coreweave
@@ -18,6 +18,11 @@ blurb: 'The neocloud wager, quantified: $99.4B backlog (Q1-26; OpenAI $18.4B + M
   rejection left a 4.5-month capacity gap; plan B is thin. Next print: Q2 earnings
   08-11.'
 ---
+
+## 2026-09-17 — CoreWeave raises $3.0bn (+$500M option) in convertible notes aimed explicitly at investment-grade credit, and the stock sells off on the announcement rather than rallying
+
+- **CoreWeave filed an 8-K disclosing $3.0 billion of convertible senior notes due April 2033, with a $500 million upsizing option, sold to qualified institutional buyers — proceeds earmarked first for capped-call transactions to blunt dilution on conversion, the remainder for general corporate purposes.** Per CoreWeave's own press release (EX-99.1), this is debt issuance framed around credit quality, not just cash: the capped calls exist specifically to keep the notes from diluting Class A shareholders if converted. Read against this thread's own core question — is the backlog-vs-debt-financed-capacity bet real demand or announced intentions — this is the debt side of that bet getting bigger by $3-3.5bn in one filing, not new backlog. ([SEC EDGAR, CoreWeave 8-K/EX-99.1](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000429/ex9911.htm))
+- **The stock read it as a credit-risk/dilution signal rather than a confidence builder: CRWV traded at $78.61 (-5.69%) as of 10:08am ET, a reversal from the muted-to-positive tone that met CoreWeave's prior AI-infrastructure debt raises this thread has tracked.** This is the second time this thread has logged the market punishing rather than rewarding a CoreWeave balance-sheet move (see 09-11's entry on the prior week's 5% "balance-sheet concerns" drop) — worth holding against the thread's own AI-credit-repricing watch line. ([CNBC quote page](https://www.cnbc.com/quotes/CRWV))
 
 ## 2026-09-11 — CoreWeave and Nebius rise 4% in sympathy with Oracle's earnings beat, against a 1% Nasdaq
 

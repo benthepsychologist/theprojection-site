@@ -3,7 +3,7 @@ title: Treasury's Long-End Defense
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-16
+last_seen: 2026-09-17
 weight: 3
 entities:
 - scott-bessent
@@ -25,6 +25,12 @@ blurb: 'Whether the Treasury''s own cash position is being used to suppress long
   Warsh''s keynote addresses the TGA mechanism directly, and whether any auction result
   or yield move ties back to it explicitly.'
 ---
+
+## 2026-09-17 — The post-hike follow-through lands: the 10-year clears 5%, equities post their worst day since February on bank stocks, and a same-day rebound is driven by falling oil, not the buyback
+
+- **The market follow-through this thread's own note flagged to check arrived within a day: the 10-year Treasury yield rose above the psychological 5% level to 5.016% on 09-17, extending Wednesday's post-hike move rather than reversing it, with FXStreet tying the move explicitly to the Fed hike plus continued Middle East-driven inflation risk.** Wednesday's (09-16) close itself was already a clean break from the "holds the long end" thesis this thread exists to test: the Dow fell 631.21 points (-1.21%) to 51,461.90 — big bank stocks had their worst day since February, with the SPDR S&P Bank ETF down 2.6% — the S&P 500 fell 0.45% to 7,551.81, and the Nasdaq closed essentially flat at 25,978.42. All three indexes were higher earlier in the session and turned lower specifically during Chair Warsh's press conference, which markets read as more hawkish than the hike itself. **This is the concrete test resolving against the intervention thesis for a second consecutive day** — a hiking, hawkish Fed moved the long end regardless of Treasury's TGA-funded buyback campaign.
+  ([FXStreet](https://www.fxstreet.com/news/us-10-year-treasury-yield-nears-5-after-fed-rate-hike-middle-east-tensions-raise-inflation-fears-202609170501), [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-16-133949098.html), [CNBC](https://www.cnbc.com/2026/09/16/investors-react-to-fed-hike-market-sell-off-brace-for-higher-rates-for-longer.html))
+- **CNBC reports an attempted 09-17 equity rebound (the Dow up roughly 250 points intraday) is being driven by falling oil prices and yields easing off their highs — i.e. by the Saudi pipeline-restart news on [Red Sea Shock](/threads/red-sea-oil-shock/), not by any Treasury action** — worth noting because it means the one clear "good news" day since the hike is externally driven, not evidence the buyback campaign is working. ([CNBC](https://www.cnbc.com/2026/09/16/stock-market-today-live-updates.html))
 
 ## 2026-09-16 — A hot retail-sales print lands hours before the FOMC decision, removing the last plausible dovish surprise
 

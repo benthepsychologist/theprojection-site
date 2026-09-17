@@ -3,7 +3,7 @@ title: Datacenter Sites
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-12
+last_seen: 2026-09-16
 weight: 3
 entities:
 - openai
@@ -16,6 +16,11 @@ blurb: Where the capex lands in CONCRETE — the specific gigawatt campuses. Sta
   Colossus, Camellia + the 100s of sites. Category meta under where-the-capex-lands;
   the specific-sites worklist lives here.
 ---
+
+## 2026-09-15 — San Francisco becomes this thread's first major coastal-city moratorium fight, aimed at a Bayview data-center expansion
+
+- **San Francisco Supervisor Shamann Walton introduced a 45-day data-center moratorium ordinance on 09-15, joined by supervisors Jackie Fielder, Chyanne Chen and Connie Chan, aimed squarely at a planned expansion of an existing NOVVA data center in the Bayview neighborhood** — one of the city's 12 data centers, which brought its first 9MW online this summer with a stated path to 36MW by 2028. The pause can be extended to roughly 220 days if the Planning Commission finds the city's 12 data centers pose a threat to residents; sponsors argue the city's zoning code, unchanged since 2001, predates the AI buildout entirely. This is this thread's first entry naming a major West Coast coastal city rather than a Sun Belt/Rust Belt exurb or county — the same pause-and-study pattern already logged repeatedly (Cary, Mount Pleasant, Dougherty County) reaching a dense urban jurisdiction for the first time. ⚠️ Introduction only, not yet voted.
+  ([KQED](https://www.kqed.org/news/12099583/san-francisco-supervisors-push-for-moratorium-on-new-data-centers), [Hoodline](https://hoodline.com/2026/09/san-francisco-weighs-45-day-freeze-on-data-centers-as-bayview-feels-the-heat/))
 
 ## 2026-09-08 (late catch, added 2026-09-14) — A four-minute hearing five months ago approved a $10bn Utah campus; residents only just found out
 
