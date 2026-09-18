@@ -3,7 +3,7 @@ title: The Enterprise Agent Land Grab
 lens: ai
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-17
+last_seen: 2026-09-18
 weight: 2
 entities:
 - anthropic
@@ -29,6 +29,10 @@ blurb: 'Whether the enterprise agent-product surface — the layer where labs an
 ## 2026-09-17 — Two rival consumer agents add phone-calling on the same day, a capability that had been a competitive talking point rather than table stakes
 
 - **Instinct — the San Francisco text-based AI-assistant startup last valued near $2.5-10bn depending on source — and Meta's week-old Muse agent both shipped the ability to place real phone calls to businesses on 2026-09-16, closing a gap rivals had been touting as an edge over Instinct specifically.** Instinct's "Concierge" feature (early access) can book a restaurant table with no online reservation system, join a dentist's cancellation list, or fight a billing dispute by phone; Meta's Muse gained US business-calling for users who had requested it. Instinct founder Noah Shinn announced first; Meta followed the same day. Muse itself is barely a week old and had already passed 730,000 downloads, briefly hitting the #2 app-store slot. Neither Instinct nor Muse's underlying entity has its own watchlist slug yet — Instinct in particular recurs with nowhere to tag it. ([TechCrunch](https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/))
+
+- **Anthropic released a redesigned Projects experience for Claude Code in beta: a coordinator that scopes a request, delegates it across parallel Claude Code cloud sessions (each its own branch, its own repo copy), reviews the output and assembles the result, with every thread reading from and writing to a shared memory instead of the user hand-managing handoffs.** Users can steer progress from a phone, and work continues after they step away; overlapping edits across threads resolve as a merge conflict rather than silently clobbering each other. Available in beta to select Pro/Max subscribers on cloud sessions with no existing web/desktop projects. ([Anthropic](https://claude.com/blog/projects-redesigned), [Unite.AI](https://www.unite.ai/anthropic-redesigns-claude-code-projects-to-coordinate-agent-threads/))
+
+- **Google Labs expanded its "CC" personal-productivity agent (launched December 2025, brought to the Gemini app as Daily Brief in May) into a shared household agent for up to six family members, each choosing what to share with it from Gmail, Chat, Drive, Calendar and Tasks.** Google frames it as a permissioned coordination layer rather than another standalone chatbot — it can open a registration form, pull live drive times between back-to-back activities from Google Maps, or spin up a shared Doc or Sheet. Existing CC users get an upgrade invitation "in the coming days," rolling out in waves — the same consumer-agent land grab this thread otherwise tracks through Instinct/Muse, but aimed at household coordination rather than business-calling. ([SiliconANGLE](https://siliconangle.com/2026/09/17/google-expands-cc-into-a-shared-ai-agent-for-up-to-six-family-members/), [Unite.AI](https://www.unite.ai/google-labs-expands-cc-into-an-ai-agent-for-families-and-households/))
 
 ## 2026-09-16 — Anthropic folds Cowork into Claude chat and launches Docs/Slides; OpenAI opens ChatGPT to paid business placements, both same-day moves this thread had no record of until today's finalize sweep
 

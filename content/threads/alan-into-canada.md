@@ -3,7 +3,7 @@ title: Alan
 lens: mental-health
 status: open
 opened: 2026-07-28
-last_seen: 2026-08-20
+last_seen: 2026-09-18
 weight: 2
 entities:
 - alan

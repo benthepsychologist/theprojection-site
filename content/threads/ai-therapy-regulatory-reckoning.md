@@ -3,7 +3,7 @@ title: The Reckoning
 lens: mental-health
 status: developing
 opened: 2026-06-28
-last_seen: 2026-09-09
+last_seen: 2026-09-18
 weight: 3
 entities:
 - character-ai
@@ -17,6 +17,14 @@ blurb: 'The capability/approval gap for AI mental-health chatbots is being close
   real regulatory pathway (FDA/MHRA), case outcomes, and any big-tech health-arm move
   into the vacuum. Ben''s sharpest edge — the evidence-gap thesis playing out live.'
 ---
+
+## 2026-09-18 — NPR investigation: Google is drafting the state chatbot-safety bills this thread tracks, with industry-favorable exemptions built in, while three California bills sit on Newsom's desk with days left
+
+- **NPR (Katie McQue), published today, reports Google lobbyists registered in support of AI-chatbot-safety bills in Iowa, Colorado, Nebraska and Arizona, and that Google-drafted language shows up nearly verbatim across at least ten states' bills — including, per lawmakers themselves, California and New York.** Colorado state Rep. Sean Camacho (D), a bill sponsor, on the record: "You can't legislate tech companies unless you have their input." Hawaii Rep. Trish La Chica said a Google lobbyist approached her to sponsor a bill and that "the framework had been provided by Google early on during the beginning of the session." This is a materially different angle on this thread's "first real regulatory pathway" watch line than anything logged so far — not whether a pathway arrives, but who is quietly writing it.
+  ([KPBS/NPR](https://www.kpbs.org/news/science-technology/2026/09/18/google-is-helping-write-ai-chatbot-safety-laws-while-pushing-for-loopholes))
+- **The specific loopholes NPR documents, appearing in near-identical form across states: exemptions for chatbots embedded in a search engine (covers Google's own Gemini), for products aimed at developers/researchers (could exempt ChatGPT, Copilot, Claude), for voice assistants and general business-productivity software, a "technically feasible measures" standard that lets companies define their own compliance bar, and liability shields for developers once a product is deployed by a third party.** Named critics: Cynthia Montoya (mother of a teenager named Juliana who died), Laura Marquez-Garrett (Social Media Victims Law Center — the firm behind several suits this thread already tracks), Marjorie Connolly (Tech Oversight Project). Colorado's HB 26-1263 (signed May 2026) and Arizona's bill (vetoed by Gov. Katie Hobbs) are both named as carrying this language; so is Hawaii's Act 248.
+  ([KPBS/NPR](https://www.kpbs.org/news/science-technology/2026/09/18/google-is-helping-write-ai-chatbot-safety-laws-while-pushing-for-loopholes))
+- **A direct check of California's own bill-history records today confirms all three of this thread's remaining tracked bills are now formally with Governor Newsom, and none has been signed or vetoed: AB 2575 was enrolled and presented 2026-09-15 (3pm) — newly confirmed, extending the 08-31 "awaits presentment" status already on this thread — SB 903 was presented 2026-09-09 (2pm), and AB 1979 remains at its already-logged 09-04 presentment.** Newsom's decision deadline is 2026-09-30; SB 1119 ("Adam's Law") is the only one of the five original bills already signed (09-10, logged 09-11). ([AB 2575 bill history](https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB2575), [SB 903 bill status](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB903))
 
 ## 2026-09-14 — NPR tests OpenAI's four-month-old suicide-crisis feature and finds it invisible to the users it's meant to protect
 

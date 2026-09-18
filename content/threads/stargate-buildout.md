@@ -3,7 +3,7 @@ title: Stargate
 lens: ai
 status: developing
 opened: 2026-06-28
-last_seen: 2026-09-02
+last_seen: 2026-09-18
 weight: 2
 entities:
 - openai
@@ -17,6 +17,10 @@ blurb: ~$500B / ~10 GW joint venture (OpenAI/SoftBank/Oracle/MGX); ~7 GW + >$400
   via "OpenAI for Countries" (UAE live 2026; UK/Norway/Argentina/South Korea). Track
   sites actually energized, financing/grid bottlenecks, sovereign terms, and slippage.
 ---
+
+## 2026-09-17 — Crusoe raises $3.9bn at a $30.9bn valuation to fund the Abilene campus this JV leans on
+
+- **Crusoe raised $3.9bn at a $30.9bn valuation — led by Atreides Management, Mubadala Capital and Valor Equity Partners, with Nvidia, Founders Fund, GIC, Qatar Investment Authority, Radical Ventures and TPG also participating — to finance existing data-center projects including the Abilene, Texas campus that underpins Stargate, plus development of truck-transportable modular "Spark" data centers.** CEO Chase Lochmiller framed the goal as "controlling the infrastructure from electrons to tokens." New board members: Cloudflare CFO Thomas Seifert, Primary Digital Infrastructure's Bill Stein and Redwood Materials founder JB Straubel. This map carries no dedicated Crusoe entity/thread — the raise recurs here because Abilene is a named Stargate site, and in [Power Buildout](/threads/ai-power-buildout/) on the power-siting side. ([TechCrunch](https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/))
 
 ## 2026-09-01 — SB Energy's OpenAI warrants rose to $5.5bn by end-June, and the anchor-tenant incentive package is now multi-source corroborated
 

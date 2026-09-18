@@ -3,7 +3,7 @@ title: Microsoft Health
 lens: mental-health
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-25
+last_seen: 2026-09-18
 weight: 2
 entities:
 - microsoft

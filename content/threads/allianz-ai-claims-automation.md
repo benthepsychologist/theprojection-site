@@ -3,7 +3,7 @@ title: Allianz AI Claims
 lens: ai
 status: open
 opened: 2026-08-04
-last_seen: 2026-08-07
+last_seen: 2026-09-18
 weight: 2
 entities:
 - allianz

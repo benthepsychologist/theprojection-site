@@ -3,7 +3,7 @@ title: Big Tech into Health
 lens: mental-health
 status: open
 opened: 2026-07-24
-last_seen: 2026-08-28
+last_seen: 2026-09-18
 weight: 3
 entities:
 - microsoft

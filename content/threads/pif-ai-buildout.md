@@ -3,7 +3,7 @@ title: PIF Bets Out of Concrete, Into Compute
 lens: global-capital
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-09
+last_seen: 2026-09-18
 weight: 3
 entities:
 - pif

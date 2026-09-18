@@ -3,7 +3,7 @@ title: Yemen's Civil War
 lens: world-news
 status: open
 opened: 2026-09-05
-last_seen: 2026-09-17
+last_seen: 2026-09-18
 weight: 2
 entities: []
 thread_kind: story

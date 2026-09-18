@@ -3,7 +3,7 @@ title: Circular Financing
 lens: ai
 status: developing
 opened: 2026-06-28
-last_seen: 2026-09-11
+last_seen: 2026-09-18
 weight: 3
 entities:
 - nvidia
@@ -24,6 +24,11 @@ blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops wh
   in talks down to under $120B, phase-1 only (08-15). Track whether other lenders
   follow Nvidia''s retreat.'
 ---
+
+## 2026-09-17 (added 2026-09-18) — The pacing-essay selloff reverses within three sessions: this thread's own "GPU-demand softening" test resolves toward "no"
+
+- **Chip and AI-infrastructure stocks fully recovered the 09-14 pacing-essay selloff logged below, closing higher across the board on 09-17: the S&P 500 rose 1.14% to 7,638 and the Nasdaq Composite rose 1.69% to 26,418, both fresh highs, while Intel closed up 7.67% at $108.80 and AMD closed up 6.36% at $545.09.** Fool.com's own market wrap states the mechanism directly: "Chip stocks rallied today after a rough week in which interest rate hikes and tech leaders' calls for a slowdown in artificial intelligence (AI) development weighed on the sector" — the rally was driven by unconfirmed Reuters reports of exploratory SK Hynix–Intel talks to produce memory chips at Intel's idle Ohio site (SK Hynix itself says "no concrete plans, agreements, or decisions have been made"), plus a Barclays upgrade of Intel from Underperform to Overweight. Nvidia's own move was modest by comparison (roughly +0.2-2.5% across the three sessions per multiple trackers) — this is a broad chip-sector snap-back on a memory-supply/rate story, not a fresh AI-demand data point answering the thread's underlying "does capex actually pull back" question, but it does directly answer the equity-market half of the 09-14 entry's open item: the pacing-essay selloff did not hold or deepen, and no credit-market or rating-agency follow-through has been reported either.
+  ([Motley Fool market wrap](https://www.fool.com/coverage/stock-market-today/2026/09/17/stock-market-today-sept-17-intel-surges-8-on-rumored-sk-hynix-talks/), [SK hynix Newsroom, on-record denial of a firm deal](https://news.skhynix.com/en/fact-10/))
 
 ## 2026-09-14 — The pacing essay gets the price reaction this thread's watch line has been asking for: chip and AI-infrastructure stocks actually fall
 

@@ -3,7 +3,7 @@ title: TSMC Capacity Race
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-08
+last_seen: 2026-09-18
 weight: 3
 entities:
 - tsmc

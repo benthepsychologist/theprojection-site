@@ -3,7 +3,7 @@ title: Homegrown DUV
 lens: ai
 status: open
 opened: 2026-07-29
-last_seen: 2026-09-09
+last_seen: 2026-09-18
 weight: 3
 entities:
 - cxmt
@@ -33,6 +33,11 @@ blurb: 'Whether China''s first mass-produced immersion DUV tool is real at manuf
 ## 2026-09-09 — Second outlet corroborates the DUV-stockpile report and adds a new framing: a servicing ban, not a further export ban, is the remaining lever
 
 - ⚠️ **TechTimes corroborates yesterday's single-sourced report that CXMT and YMTC have stockpiled roughly three years of ASML DUV tools, and adds a new policy framing: since China's DUV pre-buy is largely complete, US leverage now rests on blocking maintenance and servicing of already-delivered tools, not on further new export bans.** Still hardware-trade-press-only — no primary customs or company data locates the underlying stockpile claim itself, so this stays reported rather than established, now with two sources rather than one. ([TechTimes](https://www.techtimes.com/articles/327083))
+
+## 2026-09-08 (added 2026-09-18) — TrendForce names Huawei as backer and puts a firmer figure on the 09-07 FT report — but the count conflicts with this thread's own Aishengna figures in a way the NAMING note already warned about
+
+- ⚠️ **TrendForce (09-08) fills in the 09-07 FT report this thread flagged as unlinked: Huawei — via its Habo venture arm and the Huawei-backed Shenzhen Yuanzhi Xinghuo fund — is the named backer, and the entity is Yuliangsheng, targeting 12 DUV machines by end-2026, with SMIC named as the tester (alongside Huawei's own production lines).** No yield, uptime or commercial delivery is claimed — the piece describes machines "being tested on less complex semiconductors as engineers continue to refine it," consistent with this thread's already-logged fact that SMIC has tested a Yuliangsheng scanner since September 2025. **The count itself is the new problem, not the backer:** this thread's own NAMING note states Yuliangsheng is a predecessor team *absorbed into* Shanghai Aishengna, not a rival programme — yet TrendForce's 12-unit-by-2026 Yuliangsheng figure runs well above Aishengna's own ~5-units-in-2026 figure already on this thread, attributed by TrendForce to separate FT vs. Reuters sourcing rather than a correction of either. Recorded as a genuine sourcing conflict, not resolved here: either the absorption is less complete than this thread's naming note assumed, or one of the two unit counts is wrong — DELIVERY (an installed, running, named-fab tool) still has not been confirmed by either account, so the thread's central falsification test remains unmet regardless of which count is right.
+  ([TrendForce](https://www.trendforce.com/news/2026/09/08/news-huawei-reportedly-backs-chinas-duv-drive-with-12-systems-targeted-by-end-2026-smic-testing-underway/))
 
 ## 2026-09-08 — CXMT and YMTC reported stockpiling three years of ASML DUV tools ahead of anticipated export limits
 

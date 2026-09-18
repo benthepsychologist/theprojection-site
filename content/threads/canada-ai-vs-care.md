@@ -3,7 +3,7 @@ title: AI vs Care
 lens: mental-health
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-04
+last_seen: 2026-09-18
 weight: 3
 entities: []
 thread_kind: story
@@ -14,6 +14,12 @@ blurb: 'Budget 2025 put $925.6M+ into AI infrastructure the same cycle multiple 
   audit, Santé Québec''s pilot. Track: the 2027 cliff''s political arc, any replacement
   framework, provincial AI-health procurement vs MH service funding.'
 ---
+
+## 2026-09-18 — A long-form investigation asks this thread's own question out loud: is Canada's AI-health spending backed by evidence, and what does the infrastructure behind it cost?
+
+- **Canada's National Observer published a long-form piece today (2026-09-18) built around Prime Minister Mark Carney's June 4, 2026 "AI for All" national AI strategy launch at Toronto General Hospital, which earmarked $200 million for health care** — narrower and more general-health-focused than mental health specifically (AI scribes, mammography triage, diabetic-retinopathy screening, drug-discovery search), but it is the clearest primary-adjacent articulation yet of this thread's own asymmetry question, asked directly of AI's health-side spending rather than assumed from the MH-funding side. Federal AI minister Evan Solomon, quoted from the same launch: "Better health data can mean better health care." ([Canada's National Observer](https://www.nationalobserver.com/2026/09/18/news/canada-healthcare-investments-ai))
+- **Named critics inside the piece go after the foundation the AI-health push is built on, not the technology itself.** University of Toronto assistant professor Zahra Shakeri: a "missing blood test" looks identical in a database whether it's missing because a doctor decided it was unnecessary or because a patient couldn't access care — meaning the health data AI trains on is "merely a reflection of a person's access to care," baking existing access gaps into whatever the models learn. Dr. Douglas Manuel (The Ottawa Hospital / University of Ottawa) frames the stakes as losing "agency" if AI moves faster than the health system's ability to govern it. Neither critique is new in kind on this map, but this is the first time they've been put specifically against Canada's own named federal AI-health dollar figures ($200M "AI for All" health tranche, the $100M VITAL data platform from June) rather than against AI-in-health generally. ([Canada's National Observer](https://www.nationalobserver.com/2026/09/18/news/canada-healthcare-investments-ai))
+- **On the AI-procurement side specifically: Canada's first Digital Health Innovation Fund selected 14 projects (55 partners, C$40.9M combined) on 2026-09-17, built on the Terry Fox Research Institute's federated-learning Digital Health & Discovery Platform** (which has itself drawn C$49M in federal funding) — project areas named include AI-supported cancer detection, personalized diabetes care, ophthalmology, neurodegenerative disease, and mental health specifically, the first time this thread has seen a named federal AI-health funding vehicle explicitly list mental health as one of its funded categories. ⚠️ Project-level detail on the MH-specific award(s) not yet confirmed — worth a follow-up. ([ICT&health](https://www.icthealth.org/news/canada-builds-national-health-data-network-for-ai))
 
 ## 2026-09-03 — CMHA puts dollar figures on the province-level stakes of the 2027 funding cliff
 

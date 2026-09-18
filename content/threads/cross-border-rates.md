@@ -3,7 +3,7 @@ title: The Cross-Border Rate Leg
 lens: global-capital
 status: open
 opened: 2026-09-05
-last_seen: 2026-09-17
+last_seen: 2026-09-18
 weight: 2
 entities:
 - scott-bessent
@@ -21,6 +21,11 @@ blurb: 'Whether the world''s other long ends — Japan first, then the Bund, gil
   Treasury''s own long-end campaign is ever framed by Bessent or the market as a response
   to foreign selling rather than to domestic supply.'
 ---
+
+## 2026-09-17 — The first test this thread's own watch line named: the BOJ actually hikes, split 7-2, and the JGB eases rather than spikes
+
+- **This thread's own watch line called "09-18 is the first test" of whether the BOJ's hike path, not just probability, now sets terms independent of the US curve — and the decision landed a day early, late in the 09-17 digest-day after the US close: a 25bp hike to 1.25%, the highest Japanese policy rate since 1995, on a split 7-2 vote.** The two dissents, board members Toichiro Asada and Ayano Sato, are both reflationists appointed by Prime Minister Sanae Takaichi earlier this year. The result so far reads as the OPPOSITE of this thread's two prior entries: on 09-04 and 09-08, pure speculation about a hike drove the yen to multi-month highs and dragged the Nikkei down (1,130 points on 09-08 alone); on the actual, delivered hike, the yen instead WEAKENED (0.45% to ¥156.64, continuing to soften toward ¥157) and the 10-year JGB EASED 4.9bp to 2.947% rather than spiking — consistent with the hike having been fully priced in (Reuters' poll had put odds at 97%) rather than a fresh shock. Whether this "sell the rumor" pattern holds over the following sessions, or reverses into renewed yen strength and a fresh carry-trade unwind the way 09-04/09-08's speculative moves eventually would have forced anyway, is this thread's next open question — see this digest's interpretation sidecar for the full mechanism read on both directions.
+  ([CNBC](https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html), [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-18/boj-hikes-rates-at-fastest-pace-since-1990-as-inflation-persists))
 
 ## 2026-09-11 — The bond selloff turns explicitly global, and Lagarde names AI financing as a driver of the long-end stress
 
