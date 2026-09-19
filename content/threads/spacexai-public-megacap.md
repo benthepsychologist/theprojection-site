@@ -3,7 +3,7 @@ title: Musk Megacap
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-03
+last_seen: 2026-09-18
 weight: 1
 entities:
 - spacex
@@ -19,6 +19,11 @@ blurb: 'SpaceX (Nasdaq: SPCX) — the public parent holding xAI + X (crawl 2026-
   Watch: the Aug-6 lock-up (911.5M shares); Musk''s ~82% voting control; whether the
   Anthropic lease-back is real revenue or circular financing. Q7 material.'
 ---
+
+## 2026-09-18 — A construction worker's family sues SpaceXAI for $30M over a fatal fall at the same Colossus buildout that prompted the 09-01 leadership shakeup
+
+- **The family of Alexis Vincent, a construction worker who fell to his death in 2025 at SpaceXAI's Colossus II campus in Whitehaven, Memphis, filed a lawsuit seeking $30 million in damages, reported 2026-09-18.** The suit alleges Vincent fell on his first day on site from a mezzanine with no tie-off point, and that the site lacked required guardrail systems, safety-net systems, a lifeline, or a functioning personal fall-arrest anchorage system. This lands directly on the 09-01 entry below (data-center leadership overhaul after Tennessee/Mississippi reliability failures) — a second, independent strand of trouble at the same physical buildout, this one a wrongful-death claim rather than an uptime one — and adds to the site's existing environmental-permitting litigation over unpermitted gas turbines.
+  ([Daily Memphian](https://dailymemphian.com/article/66766/spacexai-sued-over-worker-death), [Yahoo News](https://www.yahoo.com/news/us/articles/elon-musk-data-center-sued-161936356.html))
 
 ## 2026-09-01 — SpaceX shakes up AI data-center leadership after reliability failures at Tennessee/Mississippi sites
 

@@ -3,7 +3,7 @@ title: Kaiser vs. AI
 lens: mental-health
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-04
+last_seen: 2026-09-18
 weight: 2
 entities:
 - kaiser-permanente
@@ -17,6 +17,11 @@ blurb: 'A two-year escalation over two specific systems (the E-Visit auto-triage
   question); second-strike risk; whether other systems face the same (Kaiser Hawaii
   shows the template).'
 ---
+
+## 2026-09-15 — AB 2575 clears the legislature after nearly dying, and now sits on Governor Newsom's desk
+
+- **Checked directly against the Legislature's own bill-history record: AB 2575 — which failed its Senate floor vote 08-28 before being granted reconsideration — passed the Senate 21-10 on 08-31, the Assembly concurred in the Senate's amendments 51-16 the same day, and the bill was enrolled and presented to Governor Newsom at 3pm on 2026-09-15.** This resolves the open procedural question the 08-30 entry below left hanging (whether the required second reading and repeat vote would happen before the 08-31 adjournment) — they did, on the deadline day itself. The bill (protecting clinicians' choice to override AI clinical-decision-support output, and barring developers/deployers from using that choice as a liability defense) is now a live gubernatorial-action watch: California governors generally have 30 days to act on bills presented this late in session, putting a decision window around mid-October. ⚠️ Late catch — the 09-15 enrollment was not recorded by the prior run.
+  ([AB 2575 bill history, leginfo.legislature.ca.gov](https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260AB2575))
 
 ## 2026-09-01 — A second, much larger Kaiser union takes AI-staffing language to the picket line
 

@@ -3,7 +3,7 @@ title: Yemen's Civil War
 lens: world-news
 status: open
 opened: 2026-09-05
-last_seen: 2026-09-18
+last_seen: 2026-09-19
 weight: 2
 entities: []
 thread_kind: story
@@ -17,6 +17,17 @@ blurb: 'The Houthi-versus-government ground war inside Yemen — deliberately di
   ground or air support, and whether the UN envoy''s warning of a return to full-scale
   war becomes a formal collapse of the 2022 truce.'
 ---
+
+## 2026-09-19 — Houthis claim responsibility for Saturday's missile and drone strikes on Riyadh and Saudi Aramco's Yanbu facility
+
+- **Yemen's Houthis claimed responsibility for Saturday's missile and drone strikes that triggered the first-ever air-raid alerts over Riyadh (already logged 09-18) and hit Saudi Aramco facilities in the Red Sea port of Yanbu, causing what spokesman Yahya Saree called "massive fires"; Saree said the strikes were retaliation for a Saudi attempt to hit Houthi-held Sanaa.** Neither Saudi Arabia nor Aramco confirmed the claims, and AP could not independently verify them — this fills in, with an unverified attribution, the open question the 09-18 entry left about what caused the blasts and fire near Riyadh's airport.
+  ([TASS](https://tass.com/world/2190123), [AP via Local10](https://www.local10.com/news/world/2026/09/19/saudi-arabia-issues-air-raid-alerts-across-the-country-and-other-mideast-developments/))
+
+## 2026-09-18 — Marib emerges as the decisive front, displacement climbs past 85,000, and Houthi attack alerts reach Riyadh for the first time since the war resumed
+
+- **Houthi military spokesman Yahya Saree said late Wednesday (09-17) that Saudi warplanes flew roughly 40 air strikes on Taiz, Marib and Hodeidah provinces in the preceding 24 hours; Yemen's government army separately said the Saudi-led coalition hit Houthi outposts and equipment around Mocha and conducted drone strikes on Houthi forces in northern Marib governorate.** Coverage now frames Marib — the government's last remaining stronghold in the north and a major oil-and-gas hub — as the fight's decisive prize: government forces have advanced in western Taiz after repelling a Houthi offensive there, but a Houthi breakthrough at Marib is described as capable of decisively turning the war in the group's favor. This sharpens rather than replaces this thread's 09-16 "preparatory phase" entry — the government offensive toward Bab al-Mandab and the Houthi push on Marib are now running as parallel fronts. ([Al Jazeera](https://www.aljazeera.com/news/2026/9/14/why-the-houthi-advance-towards-yemens-marib-taiz-matters), [Al Jazeera](https://www.aljazeera.com/news/2026/9/17/yemeni-forces-target-houthis-and-a-saudi-base-as-us-rules-out-direct-role))
+- **Displacement has climbed past this thread's 09-16 figure of 95,000: NPR's week-in-review puts the toll at roughly 125,000 Yemenis forced from their homes since the Houthi coastal blitz began, while Al Jazeera's own count (worded as "since the beginning of September") says over 85,000 — both wire-level figures, cited here as a range rather than resolved to one number.** NPR frames the broader picture plainly: the Houthis' biggest land grab in years has reignited the 12-year civil war and pushed up global fuel prices, and "Saudi Arabia's most important ally, the U.S., appears to be sitting this one out" — consistent with this thread's own 09-17 entry on Washington explicitly ruling out a direct US role. ([NPR](https://www.npr.org/2026/09/18/nx-s1-5973810/houthi-attacks-saudi-oil-world-markets))
+- **Saudi Arabia sent air-raid alerts across Riyadh overnight into Saturday, the first time Yemen's Houthis have threatened the Saudi capital since the civil war resumed.** Timing: roughly 8pm-11pm ET Friday 09-18 (overnight into 09-19 local); residents received "hostile aerial threat" phone alerts, two blasts were heard in the capital shortly before 3am local time, and a large plume of black smoke and flames rose from a fuel-storage depot near King Khalid International Airport, disrupting flights.** Alerts had already progressed from Mecca to Jeddah in prior weeks; this is the first time Riyadh itself has been included, the step-change this thread has been watching for since Saudi Arabia declared Mecca a "red line" on 09-16. Saudi authorities issued an all-clear Saturday morning and had not confirmed by publication what caused the blasts or fire; Reuters said Saudi officials did not respond to questions. ([The Week](https://www.theweek.in/news/middle-east/2026/09/19/did-houthi-missiles-strike-riyadh-airport-saudi-silent-after-viral-videos.html), [Dawn](https://www.dawn.com/news/2031137/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-all-clear), [BBC](https://www.bbc.com/news))
 
 ## 2026-09-17 — A Houthi drone kills a Yemeni resident in Saudi Arabia's Taif, its leader personally denies targeting Mecca, and Pakistan pledges to defend the kingdom "to any extent"
 

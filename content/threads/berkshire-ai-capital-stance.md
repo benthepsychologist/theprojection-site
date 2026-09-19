@@ -3,7 +3,7 @@ title: Berkshire's AI Bet
 lens: global-capital
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-02
+last_seen: 2026-09-18
 weight: 2
 entities:
 - berkshire-hathaway
@@ -18,6 +18,11 @@ blurb: 'Berkshire — the board''s largest true dry powder and famously the tech
   (unconfirmed-subsidiary) AI-liability policy exclusion — industry pattern more than
   Berkshire-specific.'
 ---
+
+## 2026-09-18 — Buffett closes the loop on succession, stepping down as chairman entirely; Abel's operational control (the half of this thread's tension that matters for the AI bet) is unchanged
+
+- **Warren Buffett stepped down as Berkshire Hathaway's chairman on 2026-09-18, becoming chairman emeritus after holding the post since 1970, with his son Howard Buffett — a Berkshire director since 1993 — named as successor chairman.** Buffett announced the move in a letter to shareholders; per that letter and its coverage, Howard's role is explicitly non-executive, limited to preserving "Berkshire's culture," not running the company — Buffett's own words: "Greg runs the company; Howard will guard its culture and values." This completes the CEO-to-Abel succession this thread's own frontmatter already tracks (Buffett ceded the CEO role nine months earlier) rather than changing it: Greg Abel remains CEO and remains the one making the operational AI call this thread watches, so the Buffett-individual-stock-picking-vs-Abel-operational-caution tension the thread exists to track is not altered by this move — it is Buffett's own exit from governance entirely, not a transfer of investment authority.
+  ([CNBC](https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html), [NPR](https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down), [Reuters, via The Insurer](https://www.theinsurer.com/ti/news/warren-buffett-steps-down-as-berkshire-chairman-son-howard-succeeds-2026-09-18/))
 
 ## 2026-09-02 — Abel gives his first on-record AI comments since the Q2 13F, and adds a new angle — Berkshire's own energy business
 

@@ -3,7 +3,7 @@ title: Nvidia's Order Book
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-08
+last_seen: 2026-09-17
 weight: 2
 entities:
 - nvidia
@@ -16,6 +16,10 @@ blurb: The demand side of the chip spend — a ~$1T Blackwell+Rubin book (a mana
   has shifted to supply (HBM4). Watch the per- customer concentration and the circular-financing
   stakes (Nvidia's 10-Q investments in its own buyers).
 ---
+
+## 2026-09-17 — Huang escalates his own growth claim from 70% revenue to a doubling of chip sales volume, made at a UK AI-safety summit alongside the frontier labs
+
+- **Jensen Huang told media ahead of a summit with King Charles III — also attended by representatives from Google DeepMind, OpenAI and Anthropic to discuss AI safety — that Nvidia will sell twice as many chips next year as this year, citing AI investment demand "in almost every single country that we're in."** This is a volume claim, one notch up from the ~70% *revenue* growth claim this thread logged from him on 09-11 at Goldman's Communacopia conference (a ~$680bn implied revenue figure on a ~$400bn base); Huang made both claims within a week of each other. Separately on 09-14, Huang told Trump directly "we're not going to let [an AI slowdown] happen," a demand-side reassurance made the same week Anthropic's Dario Amodei publicly called for the industry to slow model-capability development (see [AI Bear Turn](/threads/ai-trade-bear-turn/)) — Huang is the clearest industry voice pushing back on that call. Both claims rest on conference/media remarks, not an Nvidia IR filing or transcript. ([CNBC](https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html), [TechCrunch](https://techcrunch.com/2026/09/14/))
 
 ## 2026-09-11 — Jensen Huang tells Goldman's Communacopia conference he's confident Nvidia can grow revenue 70% next fiscal year
 

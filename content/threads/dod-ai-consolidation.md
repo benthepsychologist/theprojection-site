@@ -3,7 +3,7 @@ title: DAWG Rising
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-03
+last_seen: 2026-09-18
 weight: 2
 entities: []
 thread_kind: story
@@ -12,6 +12,11 @@ blurb: 'CDAO absorbed into DAWG, Replicator absorbed too, funding moved into REC
   a 240x ask. GenAI.mil gives the force Gemini/Grok access. Track: what the FY27 conference
   actually grants, oversight pushback on the reconciliation route, and vendor wins.'
 ---
+
+## 2026-09-11 — The blacklist is now a fact on the ground, not just a statement: DOD says 90% of classified AI workloads are already off Anthropic, rest done by October
+
+- **Under Secretary of Defense for Research and Engineering Emil Michael told reporters at the National Defense Industrial Association's Emerging Technologies for Defense Conference on 2026-09-11 that the Pentagon is close to completely migrating all classified military AI systems away from Anthropic models: "I'd say about 90% has transitioned. All of the Maven Smart Systems or Palantir work has been transitioned months ago, and we're on track to get it done by the end of the month."** This is a concrete operational follow-through on the 09-03 entry below (Michael's public statement that Anthropic "is still a designated Supply Chain Risk"), naming the replacement vendor set for the first time: SpaceX, OpenAI, Google, NVIDIA, Reflection, Microsoft, AWS and Oracle. Michael framed the multi-vendor shift as a lesson independent of the Anthropic dispute itself — "one of the mistakes... is the fact that the Pentagon was solely reliant on one model" — while confirming the two sides are still litigating the underlying designation in court.
+  ([DefenseScoop](https://defensescoop.com/2026/09/11/dod-poised-to-move-all-classified-ai-workloads-off-anthropic-by-october/))
 
 ## 2026-09-03 — Pentagon says Anthropic blacklist stays in effect, defying the court and Lutnick's truce signal
 

@@ -3,7 +3,7 @@ title: Anthropic IPO
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-08
+last_seen: 2026-09-19
 weight: 2
 entities:
 - anthropic
@@ -14,6 +14,14 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
   or flip-to-public, valuation vs the $965B print, and how the Opus 5 cycle + the
   AMD/Azure/Google-TPU compute deals get positioned in the roadshow narrative.'
 ---
+
+## 2026-09-19 — Anthropic pushes its IPO from October to November
+
+- **Anthropic pushed its expected IPO from October to November, buying itself one more quarter of financial results to show investors before facing them, according to a Wall Street Journal report.** The delay lets Anthropic present Q3 numbers demonstrating its competitive position after OpenAI's September release of its Astra model, and comes alongside heightened scrutiny of AI development pace following CEO Dario Amodei's own public safety warnings. A listing is still reported to target a roughly $2 trillion valuation and could raise as much as $100bn, which would exceed SpaceX's record $86.2bn debut already on this thread's record; WSJ's own reporting flags the November timing as not yet finalized. This is the second reported slip on this thread's record, following the October-target slip logged 09-05. ([Yahoo Finance/WSJ](https://uk.finance.yahoo.com/news/anthropic-delays-ipo-staging-november-221211539.html), [CryptoTimes](https://www.cryptotimes.io/2026/09/19/anthropic-plans-november-ipo-after-october-target-slips/), [PYMNTS](https://www.pymnts.com/news/investment-tracker/ipo/2026/anthropic-targets-november-ipo-revenue-surges/))
+
+## 2026-09-18 — Anthropic weighs a new model launch to counter OpenAI's Astra, as Ramp data shows Astra ahead on enterprise spend share
+
+- **Anthropic is considering releasing a new AI model specifically to counter OpenAI's GPT-6 Astra, Reuters reported Friday (exclusive, three sources).** Astra, released 09-03, has moved fast: Ramp payment-card data puts it at roughly 13% of tracked enterprise AI spending against about 8% for Claude Fable — the first hard share number on this thread's record showing Astra ahead of Claude on that specific measure. The same reporting restates this thread's own already-logged figures (Anthropic's $65bn+ annualized revenue run-rate at end of July, up from ~$9bn at end of 2025; OpenAI's own $40bn run-rate passed in July; Anthropic's $190-200bn 2028 revenue target) rather than adding to them — the launch deliberation and the Ramp number are the new facts. A competitive-share slip is a live pressure on the roadshow story just as the IPO itself slipped from October to November (this thread's 09-19 entry). ([Investing.com/Reuters](https://ng.investing.com/news/company-news/anthropic-weighs-new-ai-model-launch-as-openai-gains-ground--reuters-2701917), [Rappler](https://www.rappler.com/technology/anthropic-considers-releasing-new-ai-model-ahead-ipo/), [Finimize](https://finimize.com/content/anthropic-weighs-a-new-ai-launch-as-openai-gains-ground))
 
 ## 2026-09-07 — Anthropic walks away from the ~$6bn Decart acquisition weeks before its expected IPO, closing a ledger entry that had stood silent since 09-04
 

@@ -3,7 +3,7 @@ title: Oracle's Stargate Bet
 lens: global-capital
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-04
+last_seen: 2026-09-18
 weight: 2
 entities:
 - oracle
@@ -19,6 +19,10 @@ blurb: Whether the FY27 capex step-up (~$70-95B, depending on source) and a repo
   vs $67B delivered in FY26) holds; any named counterparty breakdown of the OpenAI-linked
   RPO slice ($638B total, roughly half tied to OpenAI per multiple outlets).
 ---
+
+## 2026-09-18 — Oracle's $18bn Project Jupiter loan stalls in bank syndication, trading at 89-91 cents on the dollar
+
+- **Roughly $18 billion of loans backing Oracle's Project Jupiter data-center campus in Doña Ana County, New Mexico — leased to OpenAI as part of the Stargate buildout — are quoted at 89 to 91 cents on the dollar by syndicate banks including Santander and Jefferies, and banks' efforts to sell the debt on to a wider pool of investors have stalled, the Financial Times reported Friday.** The reported cause is investor concern over Oracle's rising borrowing and weakening credit profile, after S&P downgraded Oracle in July to one notch above junk — forcing banks to retain more of the debt on their own balance sheets rather than distribute it. This is the first hard market signal on this thread's own record that paper backed by an OpenAI compute lease is trading below par, bearing directly on the thread's standing watch line on further credit-rating action or a CDS move. ([Financial Times, via Investing.com/Reuters](https://www.investing.com/news/stock-market-news/oracles-18-billion-data-center-debt-under-pressure-ft-reports-4907951), [Finimize](https://finimize.com/content/oracles-18-billion-new-mexico-data-center-loans-hit-a-speed-bump))
 
 ## 2026-09-11 — Oracle's Q1 FY2027 print puts the Stargate-scale backlog at $664bn, up $209bn in a year, on a quarter that burned $5bn of cash
 

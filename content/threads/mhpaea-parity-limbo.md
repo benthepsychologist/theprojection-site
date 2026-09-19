@@ -3,7 +3,7 @@ title: Parity Limbo
 lens: mental-health
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-08
+last_seen: 2026-09-17
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,10 @@ blurb: 'The real parity story is limbo, not a deadline: the 2024 Biden-era MHPAE
   the enforcement-gap consequences payers price in meanwhile, and any state-level
   parity action filling the federal void.'
 ---
+
+## 2026-09-14 — Specialist ERISA/benefits legal analysis reads the same 09-08 DOL bulletin very differently: a narrowing of enforcement to three priority areas, not simply "more aggressive"
+
+- **A wave of benefits/ERISA law-firm client alerts (Ogletree, Morgan Lewis, Foley & Lardner, Crowell & Moring, Vorys, dated 2026-09-14 through 09-17) identify the document behind this thread's 09-08 entry as EBSA Field Assistance Bulletin No. 2026-03, and characterize its substance differently than the initial wire coverage did: rather than a general signal of tougher enforcement, the bulletin narrows EBSA's NQTL (nonquantitative treatment limitation) comparative-analysis enforcement to three specific priority categories — separate treatment limitations (including blanket MH/SUD exclusions), medical-necessity/utilization-review standards, and network-adequacy standards (admission standards, provider reimbursement).** One outlet, JD Supra, headlined its analysis "DOL Signals a Lighter Touch on Mental Health Parity Enforcement (For Now)" — a direct tension with the "more aggressive enforcement" framing this thread logged from the initial trade-press coverage. This is not a new government action — it is more careful reading of the same 09-08 bulletin arriving via a different, slower-moving channel (compliance counsel rather than wire reporters) — but the substance matters for this thread's core "limbo" framing: a narrowed set of enforcement priorities, with EBSA's discretion to pursue complaint-driven investigations outside those three areas explicitly preserved, is a more specific and more limited claim than "more aggressive" implied. ([Ogletree](https://ogletree.com/insights-resources/blog-posts/dol-guidance-clarifies-enforcement-priorities-around-mental-health-parity-rules/), [JD Supra via National Law Review](https://natlawreview.com/article/dol-issues-field-assistance-bulletin-outlining-mental-health-parity-enforcement))
 
 ## 2026-09-08 — DOL/EBSA signals more aggressive parity enforcement while the replacement rule stays pending — late catch, merged at finalize
 

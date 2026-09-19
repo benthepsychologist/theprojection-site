@@ -3,7 +3,7 @@ title: Grid & Turbines
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-08
+last_seen: 2026-09-18
 weight: 1
 entities:
 - spacex
@@ -16,6 +16,10 @@ blurb: The grid is the binding constraint (not chips) — interconnection queues
   fights. Watch the DOJ national- security shield over xAI's unpermitted turbines
   — the improvisation has outrun the regulatory system.
 ---
+
+## 2026-09-18 — Virginia's governor bans NDAs for data-center deals and orders faster noise rules, joining New York and Texas in unilateral state action while Congress stays on the sidelines
+
+- **Virginia Gov. Abigail Spanberger signed Executive Order 22, banning executive-branch officials from signing non-disclosure agreements for data-center projects, ordering expedited noise regulations, a review of data centers' backup-generation operations, and creating a state AI task force to study workforce-displacement and privacy risks.** Alongside the order, Spanberger unveiled a "Data Center Accountability Framework" that calls for eliminating "by-right approval" (the kind Loudoun County — the self-described "data center capital of the world," which Virginia already is — used for years to let developers build with no additional local approval), removing some state subsidies, setting environmental guardrails, and protecting residents from the energy-price increases data centers are associated with. Environmental groups broadly praised the move; the Piedmont Environmental Council said it doesn't go far enough. The Verge frames Virginia as the latest in a pattern of unilateral state executive action on data centers with Congress on the sidelines — alongside Texas's Gov. Abbott (already on this thread, his 08-03 grid-connection moratorium and the OpenAI/Meta rules commitments below) and, per the same report, New York's Gov. Hochul (not previously on this thread — check whether her own order belongs here too). California's Gov. Newsom issued a separate AI-safety executive order the same day (logged on [The Rogue Agent](/threads/openai-agent-security-incident/), not primarily a grid/siting story). ([The Verge](https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force))
 
 ## 2026-09-11 — Vistra raises $1.5bn to refinance its own preferred stock, not to build new generation, while Oracle issues a 2GW renewable RFP to offset a datacenter campus's emissions
 

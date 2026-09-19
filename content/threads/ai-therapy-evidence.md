@@ -3,7 +3,7 @@ title: AI Therapy Evidence
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-04
+last_seen: 2026-09-18
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -15,6 +15,11 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   maturing into a real subfield: VERA-MH benchmark, RAND''s intermediate-risk failures,
   EmoAgent.'
 ---
+
+## 2026-09-18 — A new trial registration tests whether an agentic LLM can actually improve shared decision-making, not just answer questions (caught late, added 2026-09-19)
+
+- **The Harding Center for Risk Literacy registered DEONCAi 3-1 (NCT07827924) on ClinicalTrials.gov, an online experiment testing whether a purpose-built agentic large-language-model architecture can support shared decision-making and "informed intentions" in health care, benchmarked against both a standard LLM and an evidence-based decision aid.** Not yet recruiting. Surfaced by a spot-check of buffer/2026-09-19-clinicaltrials.jsonl against ClinicalTrials.gov's own API, per this run's brief's instruction not to wave off multi-term matches as noise; most of the 219-row buffer was generic term collisions, but this one is squarely on-topic for this thread's central question — does an AI system change the outcome of a health decision, not just its speed.
+  ([ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT07827924))
 
 ## 2026-09-11 — A school-deployed chatbot's real-world usage numbers arrive without a trial behind them, and a three-model LLM benchmark on geriatric depression comes with two reasons to distrust it
 

@@ -3,7 +3,7 @@ title: Anthropic Rents the Buildout
 lens: ai
 status: open
 opened: 2026-08-11
-last_seen: 2026-09-05
+last_seen: 2026-09-16
 weight: 2
 entities:
 - anthropic
@@ -27,6 +27,14 @@ blurb: 'Anthropic has signed four large infrastructure arrangements in roughly t
   Read against ai-circular-financing-risk, which asks whether this money is circular
   — this thread asks a narrower question, who ends up holding the asset.'
 ---
+
+## 2026-09-16 — Anthropic signs its first Australian data centre, a ~$32B facility west of Brisbane that would be the country's largest
+
+- **Anthropic signed its first Australian data-centre lease, at the new Western Downs Digital Park near Dalby, Queensland, announced by the Queensland premier in parliament — a facility reported at roughly $32 billion (A$/US$ conversion varies by outlet) that would be Australia's largest, drawing power equivalent to about 1.5 million average Australian households.** The deal is subject to Foreign Investment Review Board approval and the park is expected to open next year. This extends the thread's pattern (rent-and-anchor, not own) into a new country and a new category of counterparty — a state-government-brokered digital park lease rather than a hyperscaler or crypto-miner counterparty. ([ABC News Australia](https://www.abc.net.au/news/2026-09-16/queensland-data-centre-anthropic-dalby/107160640))
+
+## 2026-09-14 — Anthropic signs a $13.7bn, six-year compute deal with Rum Group (formerly Rumble), a company with Trump-administration ties, and takes an option on 51 million of its shares
+
+- **Anthropic agreed to a $13.7 billion, six-year compute deal with Rum Group — the AI-infrastructure company formerly known as Rumble, which has longstanding ties to the Trump administration — for capacity at a data center under construction in Maysville, Georgia (120MW of grid power now, expandable to 180MW), and received an option to buy up to 51 million Rum Group shares at one cent each.** Rum Group had stated in an August 2026 filing that it lacked financing for the data center's construction and GPU purchases; this deal appears to solve that gap while extending this thread's now-familiar pattern to its most politically notable counterparty yet. Rum Group's stock rose almost 12% on the report. ([The Information](https://www.theinformation.com/articles/anthropic-strikes-13-7-billion-compute-deal-trump-linked-rum-group))
 
 ## 2026-09-03 — FluidStack, the GPU-cloud builder behind Anthropic's $50bn capacity deal, reaches an $18bn valuation
 

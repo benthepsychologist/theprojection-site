@@ -3,7 +3,7 @@ title: Fed Independence Fight
 lens: global-capital
 status: open
 opened: 2026-08-09
-last_seen: 2026-09-08
+last_seen: 2026-09-18
 weight: 2
 entities:
 - lisa-cook
@@ -21,6 +21,15 @@ blurb: 'Two distinct, simultaneous levers on the Fed''s independence, offered as
   the 09-16 FOMC decision — as of the 08-09 /week read, a bigger open question than
   anything purely financial on this map.'
 ---
+
+## 2026-09-18 — Warsh gives a rare on-the-record framing of his own approach as monetarist, and declines to address distributional effects of the hike
+
+- **In a Fortune interview, Fed Chair Kevin Warsh described his framework in explicitly monetarist terms — a break from predecessor Jerome Powell, who repeatedly rejected monetarism's basic tenets — saying the Fed cannot address individual prices (food, energy) but is responsible for preventing second- and third-order inflation effects, and that the Fed "does not deal in questions of distribution," looking only at aggregates (labor market, GDP, total spending, overall inflation).** This continues the "messaging lever" this thread has tracked since Warsh's Jackson Hole forward-guidance-removal speech — a further, voluntary disclosure of how he thinks about the job, made two days after the rate decision below and while the administration's pressure campaign (Trump, Vance, Bessent, Navarro) this thread already logged remains active. ([Fortune](https://fortune.com/2026/09/18/kevin-warsh-federal-reserve-what-is-monetarism/))
+- **Fed Chair Kevin Warsh's own framing of Tuesday's rate hike drew fresh Wall Street scrutiny, CNBC reported Friday.** Warsh described the move as removing "a dose of accommodation" from the economy — a phrase Evercore ISI's Krishna Guha singled out in a client note as the one standout hawkish signal in otherwise measured post-meeting remarks, read as suggesting further hikes rather than a one-and-done move. Asked whether he weighs the policy rate against a neutral-rate estimate, Warsh called the concept "useful academically" but said it has "no" operational effect on his actual decisions. This is new specificity about the 09-16 hike itself — an explicit rejection of a standard policy framework — extending, not replacing, this thread's forward-guidance-removal narrative from Warsh's Jackson Hole keynote. ([CNBC, primary](https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html))
+
+## 2026-09-16 — The FOMC hikes rates 25bp in a unanimous 12-0 vote, the first hike since 2023, despite the multi-week administration pressure campaign this thread has tracked
+
+- **The FOMC voted unanimously (12-0) on 2026-09-16 to raise its target rate 25 basis points to 3.75-4%, the first hike since 2023, with the dot plot showing 16 of 18 participants expecting at least one further hike this year (Warsh, as Chair, does not submit a dot).** The vote's unanimity is itself the headline for this thread: after weeks of public pressure from the president, vice president, Treasury secretary and Peter Navarro urging cuts (logged here 2026-09-05), and against speculation that Governor Christopher Waller might dissent, no governor broke ranks — the composition lever this thread tracks did not visibly move the outcome at this meeting. CNBC's own post-decision framing was pointed: "How Trump could reignite the Fed independence fight after Warsh's rate hike." Bloomberg headlined it as putting "Trump and Warsh on collision course." Warsh said at the press conference that inflation has been "too high... for too long." ([CNBC](https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html), [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-16/the-fed-s-unanimous-25-basis-point-hike-puts-trump-and-warsh-on-collision-course))
 
 ## 2026-09-08 — White House pressure on Warsh intensifies as the market question flips from cut to hike, but the bond market itself did not move
 

@@ -3,7 +3,7 @@ title: CXMT IPO
 lens: global-capital
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-08
+last_seen: 2026-09-18
 weight: 1
 entities:
 - cxmt
@@ -13,6 +13,10 @@ blurb: Up-to-$9.8B STAR Market listing (allotment 07-22, lists 07-27) funding Ch
   DRAM/HBM capacity into the global squeeze. Track first-day reception, capacity-buildout
   plans vs. the shortage, and read-through to ai-memory-shortage and china-stack-independence.
 ---
+
+## 2026-09-18 — CXMT preps a NAND flash R&D line at its new Beijing plant, its first move beyond DRAM
+
+- **CXMT is preparing a NAND flash research-and-development production line at its new Beijing manufacturing site, Reuters reported (via people familiar with the plans) — CXMT's first reported move beyond its core DRAM business and into flash memory.** The DRAM specialist would draw on a Beijing research institute whose remit includes NAND development, and has already discussed its NAND plans with potential customers, including a startup building AI/supercomputer storage products; timing for the R&D line's start, and whether pilot work ever graduates to mass production, remain undecided per the reporting. This extends this thread's capacity-buildout watch line — CXMT diversifying its product base at the same moment global memory (DRAM, and now potentially NAND) stays tight through at least 2027 on AI-server demand, challenging Samsung, SK Hynix and China's own YMTC on YMTC's home turf. ([TechPowerUp, citing Reuters](https://www.techpowerup.com/352845/chinese-dram-maker-cxmt-is-reportedly-preparing-to-enter-the-nand-flash-market), [Tom's Hardware](https://www.tomshardware.com/pc-components/ssds/chinas-premiere-memory-maker-cxmt-eyes-producing-flash-for-ssds-report-claims-3d-nand-research-and-development-line-rumored-for-its-second-manufacturing-facility-near-beijing), [Digitimes](https://www.digitimes.com/news/a20260918VL218/cxmt-nand-dram-ymtc-nand-flash.html))
 
 ## 2026-09-08 — CXMT reported stockpiling three years of ASML DUV tools ahead of anticipated export limits
 

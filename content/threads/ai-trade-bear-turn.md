@@ -3,7 +3,7 @@ title: AI Bear Turn
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-04
+last_seen: 2026-09-14
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,10 @@ blurb: 'Is the tape turning against the AI trade as a whole? Distinct from the c
   breadth (is it AI-specific or macro), the earnings verdicts, and whether the drawdown
   changes actual capex behavior.'
 ---
+
+## 2026-09-14 — Global AI stocks fall after Amodei publicly calls for slower AI development, Musk and Altman agree, and Altman shelves an OpenAI IPO this year
+
+- **AI-linked stocks fell worldwide on Monday 2026-09-14 after Anthropic CEO Dario Amodei, in a lengthy essay posted to X the preceding Saturday, called on AI companies to slow the rate at which they advance model capabilities amid mounting misuse fears — and both Elon Musk (xAI) and Sam Altman (OpenAI) publicly said they agreed.** Altman additionally said OpenAI would not proceed with an IPO this year, citing safety concerns — a direct link between the safety-slowdown call and a live capital-markets decision this thread tracks. This is the clearest instance yet of an industry-insider safety argument, not a macro rate story or an earnings miss, driving a broad AI-stock selloff — a new breadth mechanism for this thread to watch alongside the earnings-verdict and rate-sensitivity channels already logged. China's state-backed Global Times called Amodei's essay a "Cold War playbook" aimed at curbing Chinese AI development the same day, and Reuters separately flagged rising competition from cheaper Chinese models (Moonshot AI's Kimi K3, Alibaba's Qwen, DeepSeek) as a pricing pressure on the larger US labs' models — both complicating any simple safety-only reading of the selloff. ([Reuters](https://www.reuters.com/))
 
 ## 2026-09-10 — Michael Burry closes his December Nvidia puts without rolling them; outlets disagree on whether he also dumped his Palantir puts
 

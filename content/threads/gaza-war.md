@@ -3,7 +3,7 @@ title: Gaza War
 lens: world-news
 status: open
 opened: 2026-08-01
-last_seen: 2026-09-18
+last_seen: 2026-09-19
 weight: 3
 entities: []
 thread_kind: story
@@ -37,6 +37,14 @@ blurb: 'Opened on Ben''s steer 2026-08-01, after a disarmament framework announc
   Ministry range as broadly accurate. Both the inflation and the undercount framings
   still circulate; report both, resolve neither.'
 ---
+
+## 2026-09-19 — The pattern extends into its 345th day: at least three Palestinians killed in scattered strikes across Gaza City and central Gaza
+
+- **At least three Palestinians were killed in separate Israeli attacks across Gaza Saturday (09-19): one man died when an Israeli strike targeted a motorcycle in Gaza City's Sheikh Radwan neighbourhood (a child was also injured, reported in critical condition); a strike on Shujayea, east of Gaza City, killed one; a girl died of injuries from earlier Israeli gunfire north of the Nuseirat refugee camp; and a strike west of Jabalia refugee camp in the az-Zahra neighbourhood killed a young Palestinian along with Basir al-Bursh, son of a Gaza Health Ministry official.** A woman was separately seriously wounded by Israeli gunfire east of the Maghazi refugee camp. This continues, rather than escalates, the low-boil post-ceasefire pattern this thread has tracked daily — the 344th-day figure logged 09-18 below extends to a 345th day, with no single incident here rising to the scale of 09-16's building collapse. ⚠️ Palestinian civil-defence/local-media-sourced reporting, the standing caveat for this thread. ([Al Jazeera](https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza), [Al Jazeera](https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child))
+
+## 2026-09-18 — The low-boil strike pattern continues into its 344th consecutive day, with fire toward Rafah, Bureij and Shuja'iyya
+
+- **Israeli forces killed a Palestinian in central Gaza Friday, continuing what Gaza's Civil Defence counts as the 344th consecutive day of reported ceasefire violations; the same day, Israeli helicopter gunships opened fire toward Rafah in southern Gaza and east of Gaza City, artillery shelled an area northeast of the Bureij refugee camp in central Gaza, and Israeli forces detonated several Palestinian homes in Gaza City's Shuja'iyya neighbourhood.** This continues, rather than escalates, the low-boil post-ceasefire pattern already extensively logged on this thread — no single incident here rises to the scale of 09-16's building collapse or 09-17's Nahr al-Bared strike, but the pattern itself persists through the midday re-check this pass specifically went looking for. ⚠️ Palestinian civil-defence-sourced reporting, the standing caveat for this thread. ([IMEMC](https://imemc.org/article/israeli-attacks-kill-and-injure-palestinians-across-gaza/), [Middle East Eye](https://www.middleeasteye.net/live-blog/live-blog-update/israel-attacks-gaza-air-ground-and-sea-intense-strikes-hit-khan-younis))
 
 ## 2026-09-16 — A war-damaged Gaza City building collapses, killing at least 20, and the US denies Abbas a UN visa for the second year running
 

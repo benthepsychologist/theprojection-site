@@ -3,7 +3,7 @@ title: Horn of Africa War
 lens: world-news
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-09
+last_seen: 2026-09-19
 weight: 2
 entities: []
 thread_kind: story
@@ -19,6 +19,13 @@ blurb: 'A Tigray-war reignition with cross-border spillover, offered as a thread
   conflict above hyper-local scale is a yes, not a judgment call re-litigated per
   war.'
 ---
+
+## 2026-09-18 — Sudan's Blue Nile campaign escalates toward the state capital, and the US lifts its 2021 Eritrea sanctions citing Red Sea interests
+
+- **Sudan's civil war opened a second front in Blue Nile state, on the Ethiopian border, as a rebel alliance pushed toward the state capital Ed Damazin.** It is tracked here alongside the Tigray/Ethiopia-Eritrea situation; no other thread carries Sudan. An alliance of the Rapid Support Forces (RSF) and the Sudan People's Liberation Movement-North (SPLM-N) has pushed south from the border towns of Kurmuk and Geisan (retaken in a March 2026 offensive) toward Ed Damazin, Blue Nile's state capital, seizing the army bases at Bakori (Geisan) and Sorkam (Kurmuk) in the second week of September and prompting the Sudanese Armed Forces (SAF) to move in reinforcements. A wave of one-way attack drones struck multiple sites across Ed Damazin on the evening of 09-13, hitting near a military hospital and the airport and striking a fuel station; SAF air defences engaged the drones. ([Sudan Tribune](https://sudantribune.com/article/318357), [AllAfrica/Dabanga](https://allafrica.com/stories/202609150009.html))
+- ⚠️ **Sudanese officials have repeatedly alleged Ethiopian territory is being used as a staging and supply corridor for the RSF's Blue Nile offensive, including claims the Sudanese army has downed drones crossing the border from Ethiopia — Addis Ababa denies this, and no independent confirmation was found this pass.** This is the same evidentiary posture this thread already applies to Eritrea's alleged role in the Tigray fighting below (08-06 entry): a repeated, plausible-sounding allegation from one side of a conflict, carried as a claim rather than elevated to fact. If either the Sudan/Ethiopia or Tigray/Eritrea allegations firm up into confirmed cross-border state involvement, that is this thread's own step-change trigger.
+- **Context, not new: Somalia and its al-Shabab war continue at a lower simmer** — US Africa Command struck al-Shabab targets roughly 175km west of Mogadishu on 09-04 in coordination with Somalia's government, and the AU's Support and Stabilisation Mission is reported at risk of collapse after the US said it would end logistical support beyond December 2026. Neither is a dated development inside this pass's own window; noted for completeness since the brief named Somalia explicitly. ([AFRICOM](https://www.globalsecurity.org/military/library/news/2026/09/mil-260908-africom02.htm))
+- **The US Treasury lifted sanctions imposed in 2021 on Eritrea's ruling party (the People's Front for Democracy and Justice), its military, and the Red Sea Trading Corporation, plus several individuals — sanctions originally tied to Eritrea's role backing Ethiopian federal forces in the Tigray war.** The State Department said Trump chose not to renew the measure "to advance US regional interests" in the Red Sea, with reporting linking the move explicitly to Houthi advances threatening shipping through the Bab el-Mandeb strait and Eritrea's coastal position (including the port of Assab) near that chokepoint. This is a direct US policy move on the same actor this thread has carried only as a disputed allegation (Ethiopia/Eritrea's unconfirmed role in Sudan's Blue Nile fighting, below) — it does not confirm or deny that allegation, but it is new, dated US government action on Eritrea worth holding against it. ([Washington Post](https://www.washingtonpost.com/business/2026/09/19/us-eritrea-sanctions-tigray-houthi-red-sea/6c20c018-b3fd-11f1-92c2-5c918f4a6127_story.html), [Al Jazeera](https://www.aljazeera.com/news/2026/9/19/us-lifts-sanctions-on-eritrea-imposed-during-conflict-in-ethiopias-tigray))
 
 ## 2026-09-09 — AU mediation attempt has stalled; Eritrea resisting dialogue
 

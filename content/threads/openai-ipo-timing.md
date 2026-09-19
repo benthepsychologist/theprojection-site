@@ -3,7 +3,7 @@ title: OpenAI IPO
 lens: ai
 status: developing
 opened: 2026-06-27
-last_seen: 2026-09-16
+last_seen: 2026-09-18
 weight: 2
 entities:
 - openai
@@ -15,6 +15,10 @@ blurb: Reported slip to 2027 chasing a ~$1T valuation; Altman rejecting a lower 
   Track confirmed timing, valuation target, and macro/AI-stock spillover (SoftBank
   fell ~12% on the report).
 ---
+
+## 2026-09-18 — OpenAI's own financial forecast, seen by the FT, projects $278 billion in cumulative cash burn through 2030 against a targeted tenfold revenue jump to $350 billion
+
+- **A company presentation seen by the Financial Times shows OpenAI forecasting $278 billion in cumulative cash burn between 2026 and 2030 — driven mainly by ~$856 billion in compute/infrastructure spending over the same period — while projecting revenue will grow tenfold, from $36 billion this year to $350 billion in 2030 (cumulative revenue of $840 billion through decade's end).** The same reporting notes OpenAI is on track to exhaust the $122 billion it raised in March (at an $852 billion valuation) by 2028, ahead of the fresh $1.2 trillion-plus round this thread already logged on 09-16 as in early talks. This is the first hard cash-burn figure this thread has carried alongside the valuation/round-size chatter it has tracked since June — a concrete answer to how OpenAI itself models the gap between fundraising pace and spend. ([Reuters, via Investing.com](https://www.investing.com/news/economy-news/openai-expects-to-burn-through-almost-280-billion-by-2030-ft-reports-4907970), [Financial Times, cited])
 
 ## 2026-09-16 — OpenAI in early talks for a fresh round above $1.2 trillion, a ~40% jump from March's $852B mark
 

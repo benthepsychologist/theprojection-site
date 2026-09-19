@@ -3,7 +3,7 @@ title: DeepMind Succession
 lens: ai
 status: open
 opened: 2026-08-05
-last_seen: 2026-09-02
+last_seen: 2026-09-18
 weight: 2
 entities:
 - demis-hassabis
@@ -21,6 +21,11 @@ blurb: 'Demis Hassabis is stepping down as DeepMind CEO to become chairman and A
   what Discovery Loop builds and whether Google backing a departing exec''s startup
   becomes a pattern; whether other frontier labs see similar moves.'
 ---
+
+## 2026-09-11 — Discovery Loop's valuation quintuples to ~$50B in weeks, and its business is now known: parallel AI experiments for science
+
+- **Jeff Dean's AI-for-science startup Discovery Loop is raising a new funding round targeting roughly a $50 billion valuation, per Business Insider — up from about $10 billion "just weeks" earlier, when it raised roughly $1 billion.** Reported 2026-09-11, corroborated the same week by Tech Funding News and multiple financial aggregators (Investing.com, KuCoin, PANews). This is the first hard answer to this thread's own open watch item, "what Discovery Loop builds": the company, co-founded by Dean with fellow ex-Google Brain/DeepMind veterans Sanjay Ghemawat, Quoc Le and Oriol Vinyals, aims to use AI to run thousands of experiments in parallel to accelerate scientific and engineering research. Terms remain unconfirmed and could still change — this is a target valuation for an in-progress round, not a closed deal.
+  ([Tech Funding News, citing Business Insider](https://techfundingnews.com/ex-google-chief-scientist-jeff-dean-targets-50b-valuation-for-new-ai-startup-discovery-loop/), [KuCoin](https://www.kucoin.com/news/flash/jeff-dean-s-ai-startup-discovery-loop-aims-for-50b-valuation-in-new-funding-round))
 
 ## 2026-09-01 — DeepMind's new operational chief says frontier leadership is the only thing that matters, and admits the lab is currently behind
 

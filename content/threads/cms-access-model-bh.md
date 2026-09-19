@@ -3,7 +3,7 @@ title: ACCESS Model
 lens: mental-health
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-03
+last_seen: 2026-09-18
 weight: 2
 entities:
 - headspace
@@ -17,6 +17,11 @@ blurb: 'CMS''s 10-year Outcome-Aligned-Payments demonstration (launched 07-05) �
   outcomes hold up under OAPs, whether the model expands, and read-through to mh-clinical-infra-funding''s
   "does the market price in rigor" thesis.'
 ---
+
+## 2026-09-15 — CMS expands ACCESS to new condition tracks including substance use disorders, and new BH-adjacent participants join the directory
+
+- **CMS announced 2026-09-15 (published by MedTech Dive 09-16) that the ACCESS model — only two months into its run — is expanding to new condition tracks starting spring 2027: heart failure, chronic obstructive pulmonary disease, substance use disorders, and tobacco cessation, plus extended support for musculoskeletal conditions beyond the initial 12-month window.** The current-plus-expanded tracks will together cover roughly three in four Medicare beneficiaries. Substance use disorders is the first new track directly on this thread's behavioral-health remit since the original cohort's BH track (Headspace, SonderMind, Concert Health, Mindoula, April Health/Wysa). The same week, the participant directory itself went live and widened: Psynergy Health, CalmiGo, and Counsel Health (an "AI-native chronic care" entrant, now partnered with Oura) all joined — this appears to be the "formal launch event" the 08-27 entry below flagged as planned but unconfirmed in detail.
+  ([MedTech Dive](https://www.medtechdive.com/news/cms-expands-access-pilot-to-boost-use-of-digital-health-tech/830542/), [Healthcare Dive](https://www.healthcaredive.com/news/cms-add-more-chronic-conditions-access-model-2027/830506/))
 
 ## 2026-08-27 — CMS is planning a formal launch event for the ACCESS behavioral-health payment model
 
