@@ -3,7 +3,7 @@ title: Circular Financing
 lens: ai
 status: developing
 opened: 2026-06-28
-last_seen: 2026-09-18
+last_seen: 2026-09-20
 weight: 3
 entities:
 - nvidia
@@ -24,6 +24,10 @@ blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops wh
   in talks down to under $120B, phase-1 only (08-15). Track whether other lenders
   follow Nvidia''s retreat.'
 ---
+
+## 2026-09-20 — Huang answers the pacing argument: "as fast as we can irrespective of anybody else"
+
+- **Nvidia chief executive Jensen Huang, interviewed at Nvidia's headquarters by CBS's Jo Ling Kent for the Sunday 09-20 "Sunday Morning" broadcast, rejected the case for slowing AI development outright: the industry "should go as fast as we can irrespective of anybody else," a "0% chance" AI ends the world by 2030, and slowdown arguments dismissed as "doomsday narratives" with "no scientific foundation."** He argued existing product-liability and cybersecurity law suffices without AI-specific regulation, and that "our company's success is directly connected to the safe deployment of products and services." CBS's own copy names Amodei, Altman and a former Anthropic researcher as the advocates being answered; Huang names no one. The reason this sits on a financing thread rather than only a governance one: Huang runs the most exposed counterparty in the loop — chip sales, equity stakes in customers, and lease guarantees that are all underwritten by the capex pace continuing — so this is the party with the largest financial stake in the answer publicly supplying it. That makes it strong evidence about how the coalition behind the buildout is lining up, and no evidence at all about the underlying risk. It also lands six days after the pacing argument triggered the 09-14 sector selloff already on this record. ⏱ The broadcast airs 09-20; CBS's online write-up posted Friday 09-18 at 8:17pm ET. ([CBS News](https://www.cbsnews.com/news/nvidia-ceo-jensen-huang-ai-development-fast-as-we-can/), [CBS News extended interview](https://www.cbsnews.com/video/extended-interview-nvidia-ceo-jensen-huang-on-fears-about-ai/))
 
 ## 2026-09-17 (added 2026-09-18) — The pacing-essay selloff reverses within three sessions: this thread's own "GPU-demand softening" test resolves toward "no"
 

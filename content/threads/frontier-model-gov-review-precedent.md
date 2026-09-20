@@ -3,7 +3,7 @@ title: Frontier Gatekeeping
 lens: ai
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-18
+last_seen: 2026-09-20
 weight: 3
 entities:
 - openai
@@ -20,6 +20,10 @@ blurb: 'The gpt-5.6 gating dynamic made permanent — and it''s all one buildout
   is named (SRO?); Meta''s exclusion made official; CAISI leadership (3 directors
   in a year — can it run classified review?); the first model actually gated.'
 ---
+
+## 2026-09-19 — Trump answers the pacing pledge with an "AI Force" and a coming AI czar, calling the safety case a hoax
+
+- **President Trump said on Truth Social he will create an "AI Force," modelled on the Space Force, and will soon name an "AI czar," while rejecting calls to slow AI development and calling the underlying safety concern a "hoax" — his administration "will not in any way hinder or stifle the Growth of this incredible Industry."** He also claimed AI could reach "as much as 25% of our Country's GDP." No budget, no place in the government's structure and no date for the czar were given. What makes it belong on this thread is the sequence it closes: within eight days the labs' 09-12 "pace the frontier" pledge has drawn a private antitrust class action (Buist), a scheduled UN Security Council briefing by Altman, a public rejection from Europe's own labs as competitive cover, and now the US executive branch's own answer — which is not that the pledge goes too far or not far enough, but that the premise is fake. This thread tracks whether pacing coordination survives contact with governments; that is now four separate institutional responses, none of them supportive. ([The Guardian](https://www.theguardian.com/us-news/2026/sep/19/donald-trump-ai-force), [CBS News](https://www.cbsnews.com/news/trump-vows-ai-force-czar-development/), [The Hill](https://thehill.com/homenews/administration/6099970-trump-proposes-ai-force-czar/))
 
 ## 2026-09-18 — Anthropic names Accenture as its first embedded evaluator, the first concrete deliverable from Amodei's pacing essay
 

@@ -3,7 +3,7 @@ title: Russia-Ukraine War
 lens: world-news
 status: open
 opened: 2026-07-31
-last_seen: 2026-09-19
+last_seen: 2026-09-20
 weight: 3
 entities: []
 thread_kind: story
@@ -20,6 +20,10 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   sibling thread the same way Iran''s Widening War / Red Sea Shock did, if and when
   that read becomes substantial enough to carry on its own.'
 ---
+
+## 2026-09-19 — A record 1,110-drone night over Russia as the Duma vote runs, and Moscow calls it election disruption
+
+- **Russia's Defence Ministry said air defences downed 1,110 Ukrainian drones nationwide overnight into the Duma election's final day, the largest single-night total it has ever reported, with two people killed and about 20 injured in the Moscow region, including three children.** A falling drone ignited a fire on a 21-storey apartment block in the Ramensky district that forced some 400 residents out, the Moscow oil refinery was struck again, and all four Moscow airports held temporary flight restrictions overnight, lifted by Sunday morning. Mayor Sergei Sobyanin said the attack was "clearly planned... to disrupt the elections"; that is a Russian official's attribution and Ukraine issued no claim of responsibility. The same night Ukrainian authorities reported at least four killed, three of them children, in Russian strikes on the Kyiv region, with Ukraine's air force counting 138 incoming Russian drones. The scale is the fact worth holding: the ministry's own running count has never gone this high, and it lands on the one night of the election calendar when a Russian official has an obvious incentive to describe it that way — both things are true at once, and neither is evidence for the other. ⏱ Filed to digest-day 09-19: the strikes ran through Moscow's night, which is Saturday afternoon and evening Eastern time. ([TASS — Defence Ministry](https://tass.com/defense/2190245), [TASS — Moscow toll](https://tass.com/emergencies/2190177), [Al Jazeera](https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says), [NBC News](https://www.nbcnews.com/world/russia/two-dead-moscow-region-drones-hit-oil-refinery-russian-capital-rcna598767))
 
 ## 2026-09-19 — Russia's Duma election closes its second of three voting days with turnout past 32%, as Golos-successor monitors report thousands of procedural violations
 

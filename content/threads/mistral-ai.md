@@ -3,7 +3,7 @@ title: Mistral AI
 lens: ai
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-08
+last_seen: 2026-09-20
 weight: 2
 entities:
 - mistral-ai
@@ -21,6 +21,12 @@ blurb: 'The French national champion running two tracks at once: a fast, broaden
   the "sovereign alternative" framing. Cross-refs asml (the ASML stake lives on that
   thread).'
 ---
+
+## 2026-09-15 — TotalEnergies takes Mistral into oil and gas exploration in a 3-year, $115M+ partnership
+
+*Logged 2026-09-20 on the cold rotation, five days after the announcement.*
+
+- **TotalEnergies and Mistral launched a three-year artificial-intelligence partnership worth upwards of $115 million, covering exploration and reservoir characterisation, and including a joint scientific laboratory pairing TotalEnergies' subsurface specialists with Mistral's researchers.** It is a third named industrial anchor for Mistral alongside the Airbus and BMW deals already on this record, and the first in heavy extractive industry — which is the thread's actual watch line, since Mistral's European sovereignty pitch depends on landing institutional customers rather than on model releases. ([World Oil](https://www.worldoil.com/news/2026/9/15/totalenergies-mistral-launch-ai-program-for-oil-and-gas-exploration/), [Data Center Dynamics](https://www.datacenterdynamics.com/en/news/totalenergies-partners-with-mistral-to-develop-ai-models-for-oil-and-gas-exploitation/))
 
 ## 2026-09-08 — Samsung signs an MOU to run Mistral's models inside its own chip fabs, a day after leading its round
 

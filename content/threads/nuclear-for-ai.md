@@ -3,7 +3,7 @@ title: Nuclear for AI
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-08
+last_seen: 2026-09-20
 weight: 2
 entities:
 - amazon-aws
@@ -16,6 +16,12 @@ blurb: The nuclear-for-AI wave — but ~0 net-new MW power any AI datacenter bef
   announced is <20% of projected demand; every genuinely new SMR/Gen-IV project is
   2030s-weighted. Watch which actually clear licensing.
 ---
+
+## 2026-09-16 — Holtec pulls its $900M IPO, naming data-center backlash as the reason nuclear could not price
+
+*Logged 2026-09-20 on the cold rotation, four days after the event.*
+
+- **Holtec International suspended its roughly $900 million US IPO, and its chief executive told the Financial Times the withdrawal was driven by investor sentiment against the AI data-center buildout rather than by anything about the nuclear business itself** — "our business, rightly or wrongly, is viewed as connected to [data centers]... that was a big factor in market sentiment against nuclear." Holtec supplies nuclear components and had earmarked proceeds to restart a mothballed Michigan plant and fund small-modular-reactor development, so the pulled listing delays capital for exactly the announced-but-unbuilt capacity this thread tracks. It is also the first instance on this record of the data-center backlash pricing a *nuclear supplier* out of the public market — the backlash reaching the financing of the power, not just the siting of the halls. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-16/nuclear-services-firm-holtec-is-said-to-suspend-us-ipo-plan), [World Nuclear News](https://www.world-nuclear-news.org/articles/holtec-postpones-market-launch))
 
 ## 2026-09-08 — The Energy Department closes a $1.9bn loan restarting NextEra's Duane Arnold reactor, with the output pre-committed to Google
 

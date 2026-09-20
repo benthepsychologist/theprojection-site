@@ -3,7 +3,7 @@ title: DTx Paradox
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-03
+last_seen: 2026-09-20
 weight: 2
 entities: []
 parent: mh-evidence-watch

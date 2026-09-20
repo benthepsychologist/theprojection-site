@@ -3,7 +3,7 @@ title: Microsoft Capex
 lens: ai
 status: developing
 opened: 2026-07-23
-last_seen: 2026-09-03
+last_seen: 2026-09-20
 weight: 2
 entities:
 - microsoft

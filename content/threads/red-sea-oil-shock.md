@@ -3,7 +3,7 @@ title: Red Sea Shock
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-19
+last_seen: 2026-09-20
 weight: 3
 entities: []
 thread_kind: story
@@ -30,6 +30,10 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   policy. This is the capital-markets and risk-underwriting read of the war, deliberately
   distinct from the conflict itself.'
 ---
+
+## 2026-09-20 — The first market read on the Yanbu claim: Aramco closes higher
+
+- **Saudi Arabia's Tadawul index opened 0.5% lower on the first trading session after the Houthis claimed strikes on Riyadh and on Aramco's Yanbu facilities, then pared the loss to close 0.3% down at 10,750 — while Saudi Aramco's own shares reversed an early 0.6% fall to finish 1.3% higher.** ACWA Power was the steepest faller at -2.8%. Across the Gulf: Qatar -1.1% to 9,550 (Industries Qatar -4.1%), Egypt -0.2% to 55,371, Bahrain -0.2% to 1,920, Oman -0.3% to 7,580, Kuwait -0.7% to 9,182. Gulf bourses are the only equity markets open on a Sunday, so this is the first price anywhere to incorporate the claim. The informative part is Aramco closing *up* on a day its own export infrastructure was publicly named as a target: the market closest to the event, and best placed to know, priced the claim as largely immaterial. That bears on the claim's credibility — neither Saudi Arabia nor Aramco has confirmed any damage at Yanbu — without settling it. ⏱ CME crude does not reopen until 6:00pm ET Sunday, so Friday's settles (Brent $103.87, WTI $100.30) remain the last traded levels and no oil price has yet responded. ([Reuters, via syndication](https://lufkindailynews.com/news_reuters/business/saudi-gulf-stocks-fall-after-houthis-claim-riyadh-attacks/article_e971edb8-23d2-5fd1-9945-c176adc32c74.html))
 
 ## 2026-09-19 — Aramco cuts October crude to Europe as the Houthis claim a hit on Yanbu
 

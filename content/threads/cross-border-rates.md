@@ -3,7 +3,7 @@ title: The Cross-Border Rate Leg
 lens: global-capital
 status: open
 opened: 2026-09-05
-last_seen: 2026-09-18
+last_seen: 2026-09-20
 weight: 2
 entities:
 - scott-bessent

@@ -3,7 +3,7 @@ title: ASIC Tolls
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-08
+last_seen: 2026-09-20
 weight: 2
 entities:
 - broadcom

@@ -3,7 +3,7 @@ title: HCA's AI Scale-Up
 lens: mental-health
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-03
+last_seen: 2026-09-20
 weight: 2
 entities:
 - hca-healthcare

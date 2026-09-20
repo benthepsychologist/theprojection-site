@@ -3,7 +3,7 @@ title: AI Debt Gets Rated
 lens: global-capital
 status: open
 opened: 2026-08-11
-last_seen: 2026-09-18
+last_seen: 2026-09-20
 weight: 2
 entities:
 - nvidia
