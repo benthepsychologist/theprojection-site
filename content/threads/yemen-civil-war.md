@@ -3,7 +3,7 @@ title: Yemen's Civil War
 lens: world-news
 status: open
 opened: 2026-09-05
-last_seen: 2026-09-19
+last_seen: 2026-09-20
 weight: 2
 entities: []
 thread_kind: story
@@ -17,6 +17,11 @@ blurb: 'The Houthi-versus-government ground war inside Yemen — deliberately di
   ground or air support, and whether the UN envoy''s warning of a return to full-scale
   war becomes a formal collapse of the 2022 truce.'
 ---
+
+## 2026-09-20 — Saudi Arabia is reported short of interceptors and asking four governments for air-defence help
+
+- **Saudi Arabia is running low on missile interceptors and has asked France, Britain, Pakistan and Egypt for air-defence support, regional officials told the Associated Press.** It is the most consequential detail to emerge from this escalation so far. The entire Saudi response to Houthi missile and drone fire has rested on interception — Mecca on 09-16, Riyadh on 09-19, and the Yanbu, Taif, Baysh and Farasan attempts the coalition says it thwarted — and interception is a magazine-depth problem before it is anything else. Four separate governments being asked for help is a measure of how thin that magazine has become. The same account records the first civilian casualty of the exchange on 09-17, when debris from an intercepted Houthi drone killed a Yemeni resident of Saudi Arabia. ⚠️ Sourced to unnamed regional officials, not to any government on the record; no Saudi, French, British, Pakistani or Egyptian confirmation was found. Carried because the claim is specific and consequential, flagged because it is single-sourced and anonymous. ([AP via NPR](https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital))
+- **The Saudi-led coalition said the attempts on Yanbu, Taif, Baysh and Farasan were thwarted and that a ballistic missile aimed at Riyadh was intercepted** — the first Saudi answer to Houthi claims this map has carried since Friday as unconfirmed. Full treatment on [Red Sea Shock](/threads/red-sea-oil-shock/), where its weight falls on the oil supply picture. ⏱ Statement issued late Saturday, digest-day 09-19.
 
 ## 2026-09-19 — Houthis claim responsibility for Saturday's missile and drone strikes on Riyadh and Saudi Aramco's Yanbu facility
 
