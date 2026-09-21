@@ -3,7 +3,7 @@ title: CSAM Ads
 lens: mental-health
 status: open
 opened: 2026-08-06
-last_seen: 2026-09-08
+last_seen: 2026-09-16
 weight: 2
 entities:
 - meta-ai
@@ -16,6 +16,14 @@ blurb: 'Wired reported 2026-08-05 that Meta ran ads containing AI-generated chil
   a pattern question across ad platforms broadly, not just Meta; any parallel with
   the Grok/ Stability CSAM suits already tracked elsewhere on this map.'
 ---
+
+## 2026-09-16 — India's government says Meta can't claim to be a "simple intermediary" over the ads
+
+- **India's IT Minister Ashwini Vaishnaw said Meta has admitted lapses in the child-sexual-abuse-ad matter and cannot be treated as a "simple intermediary" when it charges for the ads and its own algorithms decide their distribution — the government's clearest move yet toward stripping Meta's safe-harbour framing in India.** The statement followed a National Commission for Protection of Child Rights hearing the same day; Meta has agreed to report child-safety matters directly to India's I4C cybercrime portal, while the underlying legal question over safe-harbour status remains for the courts. This extends the NHRC inquiry already logged on this thread from a formal-inquiry stage to the government stating a substantive legal position. ([Business Standard](https://www.business-standard.com/industry/news/meta-not-just-an-intermediary-has-greater-responsibility-govt-126091600971_1.html))
+
+## 2026-09-09 — San Francisco orders Meta to stop the AI-CSAM ads; Meta says it's outside city jurisdiction
+
+- **San Francisco's city attorney sent Meta a cease-and-desist letter demanding it stop "allowing" the AI-generated child-sexual-abuse-imagery ads documented by the Tech Transparency Project (300+ ads, since grown past 350), and explain how they kept running.** City Attorney David Chiu said Meta "has failed to address a known issue... while profiting from them." Meta's response was that the ads are not under the city's jurisdiction — the company has not disputed the ads ran. This is the first government body in the US to take formal action on the story, distinct from Senator Warner's letter (which this thread already logged as met with confirmed silence). ([WIRED](https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/))
 
 ## 2026-09-08 — A watchdog investigation finds 300+ Meta ads with AI-generated CSAM, and traces several to Meta's own Chinese ad partners
 

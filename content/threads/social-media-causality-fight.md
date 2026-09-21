@@ -3,7 +3,7 @@ title: Social Media Fight
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-08
+last_seen: 2026-09-16
 weight: 2
 entities:
 - meta-ai
@@ -15,6 +15,10 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
   real academic gains (6.4% test scores) but consistently null mental-health effects.
   Two different claims being cited as one.'
 ---
+
+## 2026-09-16 — The EU proposes banning social media for under-13s bloc-wide
+
+- **European Commission President Ursula von der Leyen proposed a "Kids Act" that would ban social-media accounts for children under 13 across the EU and restrict 13-15-year-olds to parent-supervised "mini-accounts" with a one-hour daily screen-time cap, default-private settings and limited contact lists.** The proposal reverses the burden of proof onto platforms to show their products are safe for minors, and explicitly targets "infinite scrolling, push-notification triggers, and engagement-driven reward loops" by design mandate — a much larger natural experiment than Australia's under-16 ban already tracked here, and one that names the specific product mechanisms at the center of the causality debate rather than an age cutoff alone. ([CNN](https://www.cnn.com/2026/09/16/europe/eu-social-media-ban-children-intl))
 
 ## 2026-09-11 — California bans addictive under-16 feed design the same week a national suicide-trend number gives the causality fight new stakes
 

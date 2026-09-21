@@ -3,7 +3,7 @@ title: Horn of Africa War
 lens: world-news
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-19
+last_seen: 2026-09-20
 weight: 2
 entities: []
 thread_kind: story
@@ -19,6 +19,10 @@ blurb: 'A Tigray-war reignition with cross-border spillover, offered as a thread
   conflict above hyper-local scale is a yes, not a judgment call re-litigated per
   war.'
 ---
+
+## 2026-09-20 — Seven Ethiopian opposition/armed groups form an alliance aimed at removing Abiy's government
+
+- **Seven Ethiopian opposition and armed groups announced a joint alliance late Sunday (09-20) aimed at removing Prime Minister Abiy Ahmed's government outright, rather than continuing separate regional fights.** The "Ethiopian Peoples' Forces Alliance for Survival" combines the Amhara Fano National Movement, the Tigray People's Liberation Front (TPLF) — already on this thread's Tigray-front record — and the Oromo Liberation Army (OLA), plus four smaller regional groups (the Ogaden National Liberation Front, the Afar National Unity Revolutionary Front, the Benishangul Peoples' Liberation Movement and the Gumuz Peoples' Democratic Movement). The alliance accuses Addis Ababa of presiding over "war, genocide, mass destruction, and utter poverty" and calls for a transitional government. This is a formal political alliance spanning fronts this thread has so far tracked as geographically separate — a different axis of step-change than the Eritrean-military-entry trigger this thread opened with, but a material widening of the war's political shape. ([The Star Kenya](https://www.the-star.co.ke/news/africa/2026-09-21-seven-ethiopian-rebel-groups-form-new-alliance), [US News/AP](https://www.usnews.com/news/world/articles/2026-09-21/seven-ethiopian-armed-groups-announce-anti-government-alliance))
 
 ## 2026-09-18 — Sudan's Blue Nile campaign escalates toward the state capital, and the US lifts its 2021 Eritrea sanctions citing Red Sea interests
 

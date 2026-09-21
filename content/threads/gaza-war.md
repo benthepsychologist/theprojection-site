@@ -3,7 +3,7 @@ title: Gaza War
 lens: world-news
 status: open
 opened: 2026-08-01
-last_seen: 2026-09-19
+last_seen: 2026-09-21
 weight: 3
 entities: []
 thread_kind: story
@@ -37,6 +37,14 @@ blurb: 'Opened on Ben''s steer 2026-08-01, after a disarmament framework announc
   Ministry range as broadly accurate. Both the inflation and the undercount framings
   still circulate; report both, resolve neither.'
 ---
+
+## 2026-09-21 — Two more killed by Israeli fire; cumulative toll passes 1,395
+
+- **Two more Palestinians were killed by Israeli forces Monday morning: Ismail al-Bardawil, a child, died of gunshot wounds in the al-Mawasi area of Rafah, and Muhsen Ahmad Mustafa Bahja was shot in the head by an Israeli quadcopter drone in northern Gaza.** The Palestinian Health Ministry's cumulative post-ceasefire toll now stands at 1,395 killed and more than 4,830 injured, with 831 bodies recovered from rubble. Continues the low-boil pattern already extensively logged on this thread. ⚠️ Palestinian Health Ministry/family-sourced, the standing caveat for this thread. ([WAFA](https://english.wafa.ps/Pages/Details/174966))
+
+## 2026-09-20 — The 346th consecutive day: three killed, 21 injured, and a plan to demolish 255 unsafe buildings
+
+- **Gaza's Health Ministry recorded three Palestinians killed and 21 injured in the 24 hours to Sunday — the 346th consecutive day of reported ceasefire violations — from tank and military-vehicle fire, artillery shelling, home demolitions and attacks on displaced-family shelters; a woman was shot and seriously injured in Jabalia, and Israeli naval boats fired on fishers off Az-Zahra.** Gaza's Government Media Office separately announced an emergency plan to evacuate and demolish roughly 255 structurally unsafe war-damaged buildings, coordinating with international organisations amid severe shortages of funding and heavy equipment. Continues, rather than escalates, the low-boil pattern already extensively logged on this thread. ⚠️ Palestinian Health Ministry/civil-defence-sourced, the standing caveat for this thread. ([IMEMC](https://imemc.org/article/israeli-attacks-kill-three-palestinians-injure-21-in-gaza-over-24-hours/))
 
 ## 2026-09-19 — The pattern extends into its 345th day: at least three Palestinians killed in scattered strikes across Gaza City and central Gaza
 

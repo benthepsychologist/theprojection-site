@@ -3,7 +3,7 @@ title: Colossus
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-11
+last_seen: 2026-09-17
 weight: 2
 entities:
 - spacex
@@ -17,6 +17,10 @@ blurb: SpaceXAI's self-owned training compute (Colossus, Memphis) — the "owns 
   constraints, and whether owning the mines translates into a frontier Grok. Feeds
   the "who controls the stack" thesis (radar Q1).
 ---
+
+## 2026-09-17 — Family sues SpaceXAI for $30M over a fatal first-day fall at Colossus II
+
+- **The family of a contract worker who died after falling roughly 25-30 feet from an unguarded mezzanine on his first day at SpaceXAI's Colossus II (Whitehaven) data-center campus filed a $30 million wrongful-death lawsuit.** The worker, Alexis Vicent, fell in August 2025 and died the following February; the suit — moved to federal court — alleges the mezzanine had no tie-off point, guardrails, safety nets or adequate warnings, and Tennessee's OSHA had already cited the site for exposing workers to fall hazards. This is separate from the air-pollution/NAACP legal action already tracked on this thread — a labor-safety liability angle on the Colossus buildout rather than an environmental one. ([Daily Memphian](https://dailymemphian.com/article/66766))
 
 ## 2026-09-11 — Memphis residents confront xAI over $3.2m in promised Community Benefits Fund money that still hasn't arrived
 

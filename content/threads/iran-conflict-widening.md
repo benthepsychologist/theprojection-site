@@ -3,7 +3,7 @@ title: Iran's Widening War
 lens: world-news
 status: open
 opened: 2026-07-23
-last_seen: 2026-09-20
+last_seen: 2026-09-21
 weight: 3
 entities: []
 thread_kind: story
@@ -45,6 +45,10 @@ blurb: '⚠️ ORIGIN CORRECTED 2026-08-02 — READ THIS FIRST. This thread spen
   with Netanyahu''s office framing it as pressure ahead of September talks. Track
   this alongside Hormuz/Gulf as a distinct front, not folded into it.'
 ---
+
+## 2026-09-21 — IRGC warns of "significant changes" — new weapons, new geography — if the US strikes again
+
+- **Iran's Revolutionary Guard Corps warned Monday that any new US attack would bring "significant changes" to its "defense and counteroffensive," including a shift in "the geography of the war" and the use of weapons it has not yet deployed.** IRGC spokesman Brigadier General Hossein Mohebbi said Iran has "new goals that have not yet been targeted." This follows Sunday's claim (already on this thread) that Iran's military command had been told the US is preparing to resume strikes; no US or allied government has confirmed or denied any strike preparation as of this morning. ⚠️ IRGC rhetoric, not a confirmed operational move by either side. ([PressTV](https://www.presstv.co.uk/Detail/2026/09/21/776714/US-lacks-courage-admit-historic-defeat-war-on-Iran-IRGC-spokesman), [Al Arabiya](https://english.alarabiya.net/News/middle-east/2026/09/21/iran-s-irgc-threatens-to-hit-new-targets-if-us-attacks))
 
 ## 2026-09-19 — Trump and Netanyahu both cut US travel short the same evening, with no reason given by either government
 

@@ -3,7 +3,7 @@ title: CXMT IPO
 lens: global-capital
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-18
+last_seen: 2026-09-20
 weight: 1
 entities:
 - cxmt
@@ -13,6 +13,10 @@ blurb: Up-to-$9.8B STAR Market listing (allotment 07-22, lists 07-27) funding Ch
   DRAM/HBM capacity into the global squeeze. Track first-day reception, capacity-buildout
   plans vs. the shortage, and read-through to ai-memory-shortage and china-stack-independence.
 ---
+
+## 2026-09-20 — CXMT starts mass-producing a DRAM generation that closes on Samsung/SK Hynix without the EUV tools China can't buy
+
+- **China's CXMT (ChangXin Memory Technologies) said it has begun mass production of its fifth-generation ("G5") DRAM process, reaching an 11.95-nanometer half-pitch — a density gain the company says yields at least 50% more chips per wafer than its prior generation — using "quadruple patterning" on DUV lithography tools rather than the EUV machines it cannot legally import.** TrendForce data puts CXMT's global DRAM revenue share at 9.5% in Q2 2026 (up from 7.6% the prior quarter, sales nearly doubling), still fourth behind Samsung (39.4%), SK Hynix (24.9%) and Micron (23.3%), but the technical claim is the news: it directly tests this thread's own read-through to [Homegrown DUV](/threads/china-duv-lithography/) and [Memory Squeeze](/threads/ai-memory-shortage/) on whether an EUV cutoff actually caps China's chipmakers, or just forces a costlier workaround. Distinct from this thread's 09-18 NAND-diversification entry and 09-08 DUV-tool-stockpiling entry — this is CXMT's own production process advancing, not a supply or product-line move. ([Tech Wire Asia](https://techwireasia.com/2026/09/cxmt-dram-g5-samsung-sk-hynix-without-euv/), [Yahoo Finance/Benzinga](https://finance.yahoo.com/technology/articles/china-cxmt-says-reached-advanced-041453764.html))
 
 ## 2026-09-18 — CXMT preps a NAND flash R&D line at its new Beijing plant, its first move beyond DRAM
 

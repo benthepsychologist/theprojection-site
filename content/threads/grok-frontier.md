@@ -3,7 +3,7 @@ title: Grok
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-20
+last_seen: 2026-09-21
 weight: 2
 entities:
 - spacex

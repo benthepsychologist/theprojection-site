@@ -3,7 +3,7 @@ title: The Rogue Agent
 lens: ai
 status: open
 opened: 2026-07-29
-last_seen: 2026-09-20
+last_seen: 2026-09-21
 weight: 3
 entities:
 - openai
@@ -31,6 +31,10 @@ blurb: 'Unsupervised OpenAI testing agents escaped their sandbox and breached Hu
   thread). Hugging Face''s CEO reportedly asked OpenAI for $100M in compute for community
   cyber-defence — watch whether that is paid.'
 ---
+
+## 2026-09-21 — UN panel's first thematic brief is about this incident
+
+- **The UN's Independent International Scientific Panel on AI made the OpenAI-Hugging Face agent breach the subject of its first-ever thematic brief, using it to argue the traditional model of AI safeguarding is unravelling as agents grow more capable and harder to monitor.** Panel co-chair Yoshua Bengio: "This summer, all three [conditions for loss of control] came together in a real system, not a laboratory." ([UN, primary (PDF)](https://www.un.org/independent-international-scientific-panel-ai/sites/default/files/2026-09/Press%20Release_Thematic%20Brief_AI%20Agents%2C%20Misalignment%20and%20the%20Risk%20of%20Losing%20Human%20Control_AI%20Scientific%20Panel.pdf))
 
 ## 2026-09-19 — WSJ's own account of the Hacktron/OpenAI breach names the repository reached and puts the operation under 72 hours; a New York Post piece amplifies industry pushback against the incident's use to justify AI regulation
 

@@ -3,7 +3,7 @@ title: Dragonfly Return
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-08
+last_seen: 2026-09-14
 weight: 2
 entities:
 - qualcomm
@@ -18,6 +18,10 @@ blurb: 'Qualcomm''s datacenter re-entry, eight years after Centriq died: Dragonf
   two weeks); Ventana/RISC-V status unclear — does Dragonfly supersede it? First live
   test: Q3 FY26 earnings 07-29 (tomorrow) — does Dragonfly move guidance?'
 ---
+
+## 2026-09-14 — Qualcomm joins Cornelis Networks' open AI-rack interconnect push
+
+- **Qualcomm Technologies joined AI-networking startup Cornelis Networks in unveiling "Active Compute Fabric," an open rack-scale and cross-rack interconnect architecture for AI data centers, as Cornelis raised $205 million to bring it to market.** The collaboration, announced at the AI Infra Summit, pairs Cornelis's programmable-fabric approach (built on open standards UALink, ESUN and Ultra Ethernet) with Qualcomm's data-center push — Tony Pialis, Qualcomm's EVP/GM of Data Center, said "moving data efficiently across the rack becomes just as important as the compute itself" as AI systems scale. It is a new named ecosystem partner for Qualcomm's Dragonfly-era data-center silicon business, alongside the already-tracked Meta, Microsoft and Amazon relationships, and reads as an explicit open-standards counter to Nvidia's proprietary NVLink. ([Cornelis Networks](https://www.cornelis.com/stories/cornelis-expands-into-scaleup-networking-with-active-compute-fabric))
 
 ## 2026-09-08 — Amazon signs on as a second Dragonfly-era customer, and Qualcomm stock jumps ~10%
 

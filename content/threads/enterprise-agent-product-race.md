@@ -3,7 +3,7 @@ title: The Enterprise Agent Land Grab
 lens: ai
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-18
+last_seen: 2026-09-20
 weight: 2
 entities:
 - anthropic
@@ -25,6 +25,10 @@ blurb: 'Whether the enterprise agent-product surface — the layer where labs an
   IDE install counts) ever get disclosed to test whether the packaging actually converts
   to usage.'
 ---
+
+## 2026-09-20 — Amazon blocks Meta's Muse from shopping on its site
+
+- **Amazon blocked Meta's Muse AI agent from shopping on Amazon.com on Sunday night after Meta declined to exclude the site voluntarily, telling users the agent's access violates Amazon's Conditions of Use.** Amazon's stated grounds: Meta never disclosed Muse's access, the agent doesn't identify itself, and it appears to capture customer credentials; the block cites Amazon's Conditions of Use (a contract claim) rather than an anti-hacking statute, consistent with the Ninth Circuit's 08-04 ruling against Amazon's earlier suit against Perplexity. ([GeekWire, primary](https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/))
 
 ## 2026-09-18 — Meta's Muse, barely two weeks old, expands from phone/mobile to the Mac desktop with system-level file and app access
 

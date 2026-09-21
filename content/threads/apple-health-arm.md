@@ -3,7 +3,7 @@ title: Apple Health
 lens: mental-health
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-15
+last_seen: 2026-09-20
 weight: 2
 entities:
 - apple
@@ -15,6 +15,10 @@ blurb: Apple's AI coach ('Mulberry') keeps slipping — no AI, and no AI mental-
   proxies, not validated measurement. Third-party chatbots (ChatGPT/Perplexity) now
   eat the Apple Health data.
 ---
+
+## 2026-09-20 — Apple lays off Fitness+ staff as it folds the service into Health
+
+- **Apple laid off the Fitness+ teams behind its "Time to Walk" and "Time to Run" features as part of folding Fitness+ into the Health app, with Eddy Cue — who took over Health after the Health+ subscription was scrapped earlier this year — reportedly pressing the health and fitness organization to "move faster and be more competitive."** Reported by Bloomberg's Mark Gurman. This is a concrete organizational signal behind the pace of Cue's post-Mulberry health reset already tracked here, though it says nothing new about an AI mental-health coach specifically — State of Mind mood logging remains the only shipped mental-health feature. ([9to5Mac, citing Bloomberg](https://9to5mac.com/2026/09/21/apple-fitness-team-hit-by-layoffs-as-major-changes-reportedly-loom/))
 
 ## 2026-09-09 — The redesign ships (via press release): "psychological wellbeing" enters as a Longevity domain, still no coach persona or validated MH measurement
 

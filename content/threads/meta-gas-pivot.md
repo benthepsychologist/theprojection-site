@@ -3,7 +3,7 @@ title: Meta Gas Pivot
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-18
+last_seen: 2026-09-21
 weight: 2
 entities:
 - meta-ai
@@ -16,6 +16,10 @@ blurb: 'Meta quit RE100 amid a 7.5GW gas buildout (07-23/24) — the first break
   or base, and regulatory/PR consequences. (Both W1 crawl agents flagged this independently;
   ben-steer: "thread it.")'
 ---
+
+## 2026-09-21 — Capital Power says Meta's Alberta build is drawing other US hyperscalers
+
+- **Capital Power's CEO said Meta's C$13bn (~$9bn) Alberta data-centre build has boosted the province's appeal to other US hyperscalers, and that he does not expect Meta to be the only one to build large-scale there — Capital Power is already in talks with several unnamed proponents and is pitching its Genesee Generating Station as a site.** More than 100 data centres have now been proposed for Alberta, against Canada's current handful of operating hyperscale sites. This is the first concrete "others follow" signal on this thread's core watch question (whether Meta's gas-powered pivot is a one-off bridge or the first of a base-load pattern), from the utility positioned to supply the next ones rather than from Meta itself. ([Reuters via Investing.com](https://za.investing.com/news/stock-market-news/meta-data-center-boosts-alberta-appeal-for-hyperscalers-capital-power-says-4470995), [Globe and Mail](https://www.theglobeandmail.com/business/article-capital-power-alberta-ai-hyperscalers-from-us/))
 
 ## 2026-08-27 — First bill-impact number lands: Pembina Institute puts the Alberta gas plant's cost on ratepayers
 

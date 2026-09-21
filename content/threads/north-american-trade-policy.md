@@ -3,7 +3,7 @@ title: The G7 Trade War
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-08
+last_seen: 2026-09-17
 weight: 2
 entities: []
 thread_kind: story
@@ -20,6 +20,10 @@ blurb: 'Whether the US-Canada tariff fight is a negotiating posture or a structu
   tariff (a genuinely new category, not an increase on an existing one) reaches specific
   manufacturers by name.'
 ---
+
+## 2026-09-17 — Trump threatens the EU with tariffs over a Canada "associate member" offer
+
+- **Trump threatened to impose new tariffs on the European Union if it proceeds with a proposal to make Canada the bloc's first "associate member," calling the idea a potential "hostile act."** The threat came after Canadian PM Mark Carney said he was open to European Commission President Ursula von der Leyen's proposal, which would deepen economic and defense ties between Canada and Europe. It is the first time the bilateral US-Canada tariff fight has produced an explicit US threat against a third party over Canada's own diversification moves — direct evidence on this thread's open question of whether the dispute stays bilateral or widens into a broader trade conflict. ([CNBC](https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html))
 
 ## 2026-09-08 — Canada's counter-tariffs take effect at 15, 25 and 50 percent, and the scope figures still don't reconcile
 

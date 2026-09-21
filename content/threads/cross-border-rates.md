@@ -3,7 +3,7 @@ title: The Cross-Border Rate Leg
 lens: global-capital
 status: open
 opened: 2026-09-05
-last_seen: 2026-09-20
+last_seen: 2026-09-21
 weight: 2
 entities:
 - scott-bessent
@@ -21,6 +21,15 @@ blurb: 'Whether the world''s other long ends — Japan first, then the Bund, gil
   Treasury''s own long-end campaign is ever framed by Bessent or the market as a response
   to foreign selling rather than to domestic supply.'
 ---
+
+## 2026-09-21 — The yen's post-BOJ weakness holds a fourth session into a thin-liquidity holiday window; Beijing keeps rare-earth licensing tight even as it proposes AI cooperation
+
+- **The yen stayed weak Monday, with the dollar holding above ¥157 (near ¥157.23, +0.23%) in a fourth session of post-BOJ-hike "sell the news" selling, as Japan's holiday-thinned trading window began.** ([FX Leaders](https://www.fxleaders.com/news/2026/09/21/dollar-holds-its-ground-monday-as-fed-gains-carry-over-and-the-yen-stays-under-pressure/))
+- **Chinese customs data released over the weekend showed rare-earth magnet shipments to the US fell to 512 tonnes in August — down 20% from July and 13% below August 2025, the fastest pace of decline since the pandemic on Capital Economics' read — even as Sunday's Bessent-Greer readout floated a cooperative AI dialogue in the same meeting.** Some Chinese suppliers are separately declining US shipments independent of formal export controls, Reuters has reported, after China sanctioned a US supply-chain monitor (the Responsible Business Alliance) in early August. China applied a lighter version of the same squeeze to Japan (-17% y/y) and Germany (-22% y/y) in August. ([Invezz, citing Chinese customs data + Capital Economics + Reuters reporting](https://invezz.com/news/2026/09/21/chinas-rare-earth-exports-to-us-fall-20-ahead-of-trump-xi-summit/))
+
+## 2026-09-20 — Bessent and Greer call the He Lifeng meeting "successful," propose a US-China AI-incident dialogue
+
+- **Treasury Secretary Scott Bessent and USTR Jamieson Greer, emerging from Sunday's meeting with China's Vice Premier He Lifeng, said the two sides had discussed a "U.S.-China AI Dialogue," with the US proposing a mechanism for notifying each other of AI incidents that "rise up to a national security level."** Bessent called the meeting "successful" and said the two sides agreed to meet again. Greer said the US and China have "operationalized" the U.S.-China Board of Trade to identify goods that could be carved out from future trade measures. No joint statement or MOFCOM readout was issued — this is both sides' own characterization, not a signed text, and the AI Dialogue is a proposal to set something up, not yet an operating mechanism. ([CNBC](https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html), [Reuters via Korea Times](https://www.koreatimes.co.kr/world/20260921/bessent-says-us-china-had-successful-meeting-with-focus-on-trade-ai))
 
 ## 2026-09-18 — The yen's post-hike weakness holds for a second session, breaking above ¥157 to a two-week high
 
