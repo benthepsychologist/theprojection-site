@@ -3,7 +3,7 @@ title: Social Media Fight
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-22
+last_seen: 2026-09-23
 weight: 2
 entities:
 - meta-ai
@@ -15,6 +15,10 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
   real academic gains (6.4% test scores) but consistently null mental-health effects.
   Two different claims being cited as one.'
 ---
+
+## 2026-09-23 — Prince Harry warns AI companion chatbots are more dangerous to young people than social media
+
+- **Prince Harry told the Clinton Global Initiative in New York on Wednesday that AI companion chatbots designed to provide companionship are "more dangerous" to young people than social media, saying the technology is "more persuasive, more intimate, and more powerful."** He said new AI companion models are built to "find you, hook you, exploit you, break and then blame you, pretend to fix you and use you more," and separately praised Australia's under-16 social-media ban — extending this thread's running comparison of national enforcement designs and its causality argument over which technology poses the bigger risk to young people. ([AP](https://apnews.com/article/prince-harry-clinton-global-initiative-601a35a7f8d1f424271069011730911d), [Daily Mail](https://www.dailymail.com/news/royals/article-16153671/Prince-Harry-Clinton-New-York-getting-disruption-right.html))
 
 ## 2026-09-22 — The EU's formal Kids Act proposal names its enforcement mechanism: a free, anonymous age-verification app — a structurally different bet than every national ban this thread has tracked as leaking
 

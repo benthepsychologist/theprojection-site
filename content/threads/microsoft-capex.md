@@ -3,7 +3,7 @@ title: Microsoft Capex
 lens: ai
 status: developing
 opened: 2026-07-23
-last_seen: 2026-09-20
+last_seen: 2026-09-23
 weight: 2
 entities:
 - microsoft
@@ -18,6 +18,10 @@ blurb: 'Earnings 07-29 is the near-term test — the "$97B TTM" figure is OUR ar
   OpenAI-vs-own split. Watch Wednesday: FY26 full-year capex, FY27 guide, any split
   disclosure.'
 ---
+
+## 2026-09-23 — Microsoft commits $10bn+ to Gulf cloud and AI infrastructure through 2030, framed around wartime "digital resilience"
+
+- **Microsoft plans to invest more than $10 billion across the UAE, Saudi Arabia, Qatar and Kuwait through 2030, including cloud and AI infrastructure, Vice Chair and President Brad Smith told Reuters — plus over $400 million in subsea and terrestrial Middle East connectivity by 2030.** Smith said the spending is accelerating despite the seven-month Iran war, which has included attacks on AWS's own Bahrain and UAE facilities: "We're sustaining all the investments we planned to make before this conflict started, and we're in fact adding to them... It's an aggressive spending schedule." Microsoft could not break the total down by country or project, citing security; it is also deepening ties with Abu Dhabi's G42 (a $1.5bn Microsoft stake since 2024, board seat held by Smith), Saudi Arabia's Humain and Qatar's Qai, though it does not plan direct capital investment in those three firms. ([Reuters, via Economic Times](https://economictimes.indiatimes.com/tech/technology/microsoft-plans-10-billion-plus-gulf-investment-with-focus-on-resilience/articleshow/134444637.cms))
 
 ## 2026-09-02 — Microsoft collapses three reporting segments into two — "Agents and Infra" and "Devices and Consumer" — and promises quarterly revenue for each key business
 

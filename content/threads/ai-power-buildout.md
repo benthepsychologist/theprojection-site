@@ -3,7 +3,7 @@ title: Power Buildout
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-22
+last_seen: 2026-09-23
 weight: 3
 entities:
 - spacex
@@ -16,6 +16,10 @@ blurb: Where the capex lands in POWER — the real bottleneck. Nuclear-for-AI (S
   Oklo/X-Energy), gas turbines (the Colossus permit fights), grid deals, and the energy-justice/permitting
   battles. Category meta under where-the-capex-lands.
 ---
+
+## 2026-09-23 — Meta signs its seventh Apex Clean Energy PPA, a 144MW Texas solar deal feeding the ERCOT grid rather than a specific site
+
+- **Meta signed a 144MW solar power purchase agreement with Apex Clean Energy tied to the Starling Solar project in Gonzales County, Texas — its seventh PPA with Apex, bringing their combined capacity to 1.2GW.** The plant's power goes to the ERCOT grid rather than powering a Meta site directly; construction is underway with commercial operations expected in 2027, and Meta gets exclusive rights to the project's renewable energy credits. Meta has now signed Apex PPAs in Virginia (61.6MW), Texas (this one plus a separate 200MW), Illinois (175MW), Kansas (197MW) and Iowa (224MW), alongside separate Texas solar deals with Sabanci Renewables (220MW) and RWE (298MW). ([Data Center Dynamics](https://www.datacenterdynamics.com/en/news/meta-signs-144mw-solar-ppa-with-apex-in-texas/))
 
 ## 2026-09-22 — Abbott extends the Texas data-center freeze from grid connections to every environmental permit, state-wide
 

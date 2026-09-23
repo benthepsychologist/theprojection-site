@@ -3,7 +3,7 @@ title: CSAM Ads
 lens: mental-health
 status: open
 opened: 2026-08-06
-last_seen: 2026-09-16
+last_seen: 2026-09-21
 weight: 2
 entities:
 - meta-ai
@@ -16,6 +16,10 @@ blurb: 'Wired reported 2026-08-05 that Meta ran ads containing AI-generated chil
   a pattern question across ad platforms broadly, not just Meta; any parallel with
   the Grok/ Stability CSAM suits already tracked elsewhere on this map.'
 ---
+
+## 2026-09-21 — Google follows Meta in agreeing to report CSAM directly to Indian authorities, bypassing the US clearinghouse
+
+- **Google agreed on 2026-09-21 to report content flagged as child sexual abuse material directly to Indian authorities, breaking from the global practice of routing such reports first through the US-based National Center for Missing & Exploited Children.** The move follows a similar move by Meta the week before, after two Indian government sources told Reuters they had pressed Google and Microsoft to report India-related child-abuse content directly, arguing the existing relay costs time in cases where a child may be in active danger; India is the largest market by users for both Google's YouTube and Meta's Facebook, and Meta's own shift followed an August apology from Mark Zuckerberg over CSAM spreading on its platforms. This extends the India safe-harbour pressure already on this thread (the NCPCR hearing and IT Minister Vaishnaw's "not a simple intermediary" statement, both against Meta) to a second major platform, on the reporting-infrastructure question rather than the ad-system one. ([Reuters via Yahoo News](https://www.yahoo.com/news/us/articles/google-report-child-abuse-content-144718541.html))
 
 ## 2026-09-16 — India's government says Meta can't claim to be a "simple intermediary" over the ads
 

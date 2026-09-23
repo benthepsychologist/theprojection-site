@@ -3,7 +3,7 @@ title: The Enterprise Agent Land Grab
 lens: ai
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-22
+last_seen: 2026-09-23
 weight: 2
 entities:
 - anthropic
@@ -25,6 +25,11 @@ blurb: 'Whether the enterprise agent-product surface — the layer where labs an
   IDE install counts) ever get disclosed to test whether the packaging actually converts
   to usage.'
 ---
+
+## 2026-09-23 — ChatGPT mobile gets voice-agentic features; Artificial Analysis confirms Opus 5.5 leads its Intelligence Index
+
+- **OpenAI brought voice-based agentic features to the ChatGPT mobile app, letting Plus and Pro subscribers trigger workflows — drafting documents, summarizing Slack messages, building sites — from the phone's Work tab and switch between text and voice mid-conversation.** Free and Go users get plugins and connected apps instead; the rollout extends to mobile what OpenAI shipped to desktop after July's GPT-Live launch. ([TechCrunch](https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/))
+- **Independent benchmarker Artificial Analysis confirmed Claude Opus 5.5 now tops its Intelligence Index at 58, "the highest score we have measured by several points," with GPT-6 Astra and Claude Fable 5.1 grouped in the next tier around 53.** Opus 5.5 leads six of ten component evaluations including Humanity's Last Exam and SciCode, and matches GPT-6 Astra on Terminal-Bench 4.0. ([Artificial Analysis, primary](https://artificialanalysis.ai/articles/claude-opus-5-5), [OfficeChai](https://officechai.com/ai/claude-opus-5-5-creates-5-point-lead-over-gpt-6-astra-jumps-to-top-spot-on-artificial-analysis-intelligence-index/))
 
 ## 2026-09-22 — Security researcher finds a local zero-day letting an attacker hijack Meta's Muse Mac app
 

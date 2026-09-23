@@ -3,7 +3,7 @@ title: OpenAI Health
 lens: mental-health
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-18
+last_seen: 2026-09-23
 weight: 2
 entities:
 - openai
@@ -16,6 +16,10 @@ blurb: 'OpenAI formalizing consumer health (ChatGPT Health went GA to all US 18+
   model keeps causing harm? Its own numbers — >1M/week showing suicidal-planning signals
   — are the liability.'
 ---
+
+## 2026-09-23 — OpenAI publishes an open, clinician-built benchmark for AI mental-health conversations
+
+- **OpenAI published "MentalHealthBench" today, a new open benchmark for measuring how AI systems handle realistic mental-health conversations, built with more than 80 licensed psychologists and psychiatrists across 22 countries and 19 languages.** The benchmark scores model responses against expert-written rubrics across non-acute, high-acuity, and emergency scenarios, and across adult, teen, caregiver, and clinician personas, on behaviors including safety, seeking context, preserving user agency, and giving actionable guidance; OpenAI is releasing it openly so outside researchers can run their own evaluations. This is a concrete answer to this thread's standing question of whether a formal health layer raises OpenAI's standard of care: rather than another product feature, it's a public, expert-graded yardstick OpenAI is submitting its own and rivals' models to, built directly on the earlier HealthBench/HealthBench Professional work already on this map. ([OpenAI](https://openai.com/index/introducing-mentalhealthbench/))
 
 ## 2026-09-18 — OpenAI publishes an Australian youth-safety roadmap naming "connections to real-world crisis support" as one of six pillars — the clearest statement yet of what the "wall it off" branch is supposed to include
 

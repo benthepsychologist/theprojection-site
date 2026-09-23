@@ -3,7 +3,7 @@ title: CXMT IPO
 lens: global-capital
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-20
+last_seen: 2026-09-22
 weight: 1
 entities:
 - cxmt
@@ -13,6 +13,10 @@ blurb: Up-to-$9.8B STAR Market listing (allotment 07-22, lists 07-27) funding Ch
   DRAM/HBM capacity into the global squeeze. Track first-day reception, capacity-buildout
   plans vs. the shortage, and read-through to ai-memory-shortage and china-stack-independence.
 ---
+
+## 2026-09-22 — YMTC preps a DRAM trial line as CXMT pushes into NAND — China's two memory champions start crossing into each other's territory
+
+- ⚠️ **YMTC — China's dominant NAND maker — is preparing LPDDR5 DRAM trial production at its Phase 3 project, targeting an end-2026 start at roughly 25,000 wafers/month, DigiTimes reported, while CXMT (DRAM) is separately building out into NAND R&D (already on this thread's 09-18 entry) — the two firms crossing into each other's core product lines for the first time, with patents flagged as the likely friction point.** DigiTimes' own report is paywalled beyond the headline; read via Wccftech's citation, so treated as single-sourced hardware-trade-press, consistent with this thread's existing sourcing caveats on CXMT/YMTC claims. Dated 09-22 (a late catch surfaced during this 09-23 PM sweep, after Tuesday 09-22 was already finalized — flagged for the main session on whether to fold it into 09-22 or carry it as a 09-23 catch-up). ([Wccftech, citing DigiTimes](https://wccftech.com/cxmt-chases-nand-as-ymtc-storms-into-dram-territory-igniting-a-chinese-memory-storage-chip-turf-war-says-report/))
 
 ## 2026-09-20 — CXMT starts mass-producing a DRAM generation that closes on Samsung/SK Hynix without the EUV tools China can't buy
 

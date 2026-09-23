@@ -3,7 +3,7 @@ title: Grok
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-21
+last_seen: 2026-09-22
 weight: 2
 entities:
 - spacex
@@ -18,6 +18,10 @@ blurb: 'The Grok line closing the frontier gap as a FAST FOLLOWER, not mid-pack 
   amid Musk hype), the $60B Cursor bet arming coding, and whether owning the mines
   sustains a lead vs. OpenAI/Anthropic.'
 ---
+
+## 2026-09-22 — Grok Bot reported at 418,000 weekly users, a month after launch
+
+- 🕰 **SpaceXAI's enterprise Grok Bot agent reached 418,000 weekly users as of September 14, up 24% week-over-week, per a company presentation shown at a London event and reviewed by Bloomberg.** Bloomberg Intelligence separately put total Muse installs at about four times Grok Bot's. SpaceXAI did not respond to requests for comment. ([Briefs.co, citing Bloomberg](https://www.briefs.co/news/grok-bot-crosses-418-000-weekly-users-a-month-after-launch-a/), [TipRanks](https://www.tipranks.com/news/spacex-stock-socx-rises-as-grok-bot-hits-418000-weekly-users))
 
 ## 2026-09-21 — Grok 4.7 ships, ending three slips since July
 

@@ -3,7 +3,7 @@ title: The G7 Trade War
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-22
+last_seen: 2026-09-23
 weight: 2
 entities: []
 thread_kind: story
@@ -20,6 +20,10 @@ blurb: 'Whether the US-Canada tariff fight is a negotiating posture or a structu
   tariff (a genuinely new category, not an increase on an existing one) reaches specific
   manufacturers by name.'
 ---
+
+## 2026-09-23 — Xi flies to Washington for the Trump summit with a much smaller business delegation than expected
+
+- **Xi Jinping flew to Washington on Wednesday for Thursday's summit with President Trump with a much smaller Chinese business delegation than expected, after reports last week anticipated a large CEO contingent — state media listed only family members and political aides, and the South China Morning Post attributed the pared-back list to a lack of progress on deals.** Trade, rare earths, AI and the Iran war are expected on the agenda; both sides face a November deadline to extend their 2025 Busan tariff truce. Xi and Trump are due to attend a Thursday dinner with US tech executives including Nvidia's Jensen Huang, OpenAI's Sam Altman and Google's Sundar Pichai. ([Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html))
 
 ## 2026-09-22 — Trump backs off Belarusian potash; Carney sets a G20 target for a deal with India
 
