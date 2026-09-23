@@ -3,7 +3,7 @@ title: Son All-In
 lens: global-capital
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-20
+last_seen: 2026-09-21
 weight: 2
 entities:
 - softbank
@@ -27,6 +27,10 @@ blurb: 'The empire''s concentration play, assembled from pieces other threads ca
   repricing, any forced Arm monetization, Stargate milestones, the funding-gap figure,
   and whether Roze/ABB actually reaches IPO.'
 ---
+
+## 2026-09-21 — Fitch gives SoftBank's OpenAI-funding bond a first-time BB+ rating
+
+- **Fitch assigned SoftBank Group's proposed dollar- and euro-denominated notes a first-time BB+ rating, aligned with its long-term issuer default rating, as the company funds October's follow-on OpenAI investment and retires the rest of its bridge loan.** SoftBank arranged a $40 billion bridge facility in March, drew $30 billion of it, and prepaid the entire outstanding $25.9 billion balance on September 15; Fitch warned that weaker execution or higher sustained leverage could pressure the rating. ([TradersUnion, citing Fitch Ratings](https://tradersunion.com/news/financial-news/show/3402049-softbank-openai-notes-bb-rating/))
 
 ## 2026-09-20 — SoftBank launches an $11bn dollar-and-euro bond sale to fund its next OpenAI payment
 

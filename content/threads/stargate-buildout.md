@@ -3,7 +3,7 @@ title: Stargate
 lens: ai
 status: developing
 opened: 2026-06-28
-last_seen: 2026-09-18
+last_seen: 2026-09-21
 weight: 2
 entities:
 - openai
@@ -17,6 +17,10 @@ blurb: ~$500B / ~10 GW joint venture (OpenAI/SoftBank/Oracle/MGX); ~7 GW + >$400
   via "OpenAI for Countries" (UAE live 2026; UK/Norway/Argentina/South Korea). Track
   sites actually energized, financing/grid bottlenecks, sovereign terms, and slippage.
 ---
+
+## 2026-09-21 — SB Energy delays its IPO
+
+- **SoftBank-backed SB Energy, the developer of the Ohio Stargate campus that filed for a US listing on 09-01, has delayed its IPO, the New York Times reported**; the Reuters summary gives no reason or new timetable. ([Reuters headline, via TradingView](https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45D0CD:0-softbank-backed-sb-energy-delays-its-ipo-nyt/))
 
 ## 2026-09-17 — Crusoe raises $3.9bn at a $30.9bn valuation to fund the Abilene campus this JV leans on
 
