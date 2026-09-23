@@ -3,7 +3,7 @@ title: Oracle's Stargate Bet
 lens: global-capital
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-20
+last_seen: 2026-09-22
 weight: 2
 entities:
 - oracle
@@ -19,6 +19,10 @@ blurb: Whether the FY27 capex step-up (~$70-95B, depending on source) and a repo
   vs $67B delivered in FY26) holds; any named counterparty breakdown of the OpenAI-linked
   RPO slice ($638B total, roughly half tied to OpenAI per multiple outlets).
 ---
+
+## 2026-09-22 — A leaked document shows 546 Oracle cloud-infrastructure layoffs
+
+- **A leaked Oracle document shows 546 employees in its America cloud-infrastructure organization were laid off in a new round begun the week of 09-14, about 7.6% of the 7,185 people listed.** Business Insider, which obtained the document, said managers, software engineers and data-center maintenance staff were hit hardest and that Oracle has not disclosed a total; it is the company's second major cut this year, after a 13% (21,000-person) fall in headcount in fiscal 2026. ([Business Insider](https://www.businessinsider.com/oracle-cloud-layoffs-america-roles-hit-hardest-leaked-doc-2026-9))
 
 ## 2026-09-18 — Oracle's $18bn Project Jupiter loan stalls in bank syndication, trading at 89-91 cents on the dollar
 

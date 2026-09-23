@@ -3,7 +3,7 @@ title: Nuclear for AI
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-20
+last_seen: 2026-09-21
 weight: 2
 entities:
 - amazon-aws
@@ -16,6 +16,11 @@ blurb: The nuclear-for-AI wave — but ~0 net-new MW power any AI datacenter bef
   announced is <20% of projected demand; every genuinely new SMR/Gen-IV project is
   2030s-weighted. Watch which actually clear licensing.
 ---
+
+## 2026-09-21 — Google funds 96MW of Georgia nuclear uprates; Kairos gets a $100M Samsung C&T commitment
+
+- **Google agreed to fund uprates at Georgia Power's Vogtle and Hatch nuclear plants that would add about 96MW of capacity, under a new subscription tariff that gives Google the plants' zero-emission credits** Georgia Power says the arrangement (the NU-1 tariff, filed 09-21 in Georgia PSC dockets 44280 and 56002 along with a request for a new extended power uprate at Hatch units 1 and 2) will bring about $900M in benefits to customers over the units' lives and shields non-participating customers from the uprate cost; it needs Georgia Public Service Commission approval. The Vogtle units 1 and 2 uprate was already approved in the utility's 2025 resource plan. ([Georgia Power/PR Newswire](https://www.prnewswire.com/news-releases/georgia-power-agreement-with-google-to-provide-approximately-900-million-in-projected-benefits-for-customers-and-advance-nuclear-energy-in-georgia-302885197.html), [POWER](https://www.powermag.com/google-georgia-power-have-deal-to-support-nuclear-power-plant-uprates/))
+- **Kairos Power signed a binding term sheet under which Samsung C&T will provide up to $100M in investment and in-kind engineering to help deliver Hermes 2, the 50MW reactor in Oak Ridge, Tennessee that will supply Google through the Tennessee Valley Authority** Samsung C&T also joins Kairos's engineering-procurement-construction team, initially on power-generation systems and balance of plant; the deal is subject to regulatory approvals and builds on an 08-18 memorandum with Barnard Construction. The plant, one of the first Generation IV reactors planned in the US, is slated for completion by 2030. ([Kairos Power](https://www.kairospower.com/updates/kairos-power-and-samsung-c-t-agree-to-pursue-strategic-investment-and-collaboration-for-kp-fhr-deployment), [DCD](https://www.datacenterdynamics.com/en/news/kairos-power-selects-samsung-ct-to-help-build-50mw-smr-for-google-in-tennessee/))
 
 ## 2026-09-16 — Holtec pulls its $900M IPO, naming data-center backlash as the reason nuclear could not price
 

@@ -3,7 +3,7 @@ title: AI Bear Turn
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-21
+last_seen: 2026-09-22
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,13 @@ blurb: 'Is the tape turning against the AI trade as a whole? Distinct from the c
   breadth (is it AI-specific or macro), the earnings verdicts, and whether the drawdown
   changes actual capex behavior.'
 ---
+
+## 2026-09-22 — Burry writes that the Nasdaq-100 is "historically overvalued" and is reported adding to Micron, Nebius, Palantir and chip-ETF shorts
+
+- **Michael Burry told his Substack readers on 09-22 that the Nasdaq-100 is "historically overvalued, and historically top heavy" and about to drag its weight to a new all-time high, while pointing to Acer's chief executive saying there is no continuous memory-chip shortage; a tracker account reading the post says he added to short positions in Micron, Nebius, Palantir and the SOXX semiconductor ETF.** He cited Acer's comment that DDR4 has more sellers than buyers and that Chinese memory capacity is a price disruptor, and wrote that he finds market prices "rather attractive" for a set of long positions he calls full. The added-short detail comes from the tracker's summary rather than the free text of the post, and the Nasdaq closed at a record that same afternoon. ([Michael Burry, Cassandra Unchained](https://michaeljburry.substack.com/p/trading-post-september-22-2026), [Benzinga](https://www.benzinga.com/trading-ideas/short-ideas/26/09/61934793/quick-spark-michael-burry-adds-to-micron-palantir-nebius-soxx-shorts))
+- **The Nasdaq Composite closed at a second straight record on 09-22 while the S&P 500 finished flat and the Dow fell about 0.4%, as AI and chip stocks held Monday's gains and oil slid.** The Nasdaq rose 122.18 points (0.45%) to 27,244.28, the S&P 500 ended at 7,764.64 (still about 0.8% below its August high), the Dow lost 185.14 points to 51,863.69 and the Russell 2000 gained 0.58%; the VIX was about 14.2. ([CNBC](https://www.cnbc.com/2026/09/22/stock-market-today-live-updates.html), [VistaP Global](https://vistapglobal.com/stock-market-today-september-22-2026-nasdaq-record-ai-stocks-oil/), [HDFC Sky](https://hdfcsky.com/news/nasdaq-hits-record-27244-as-oil-slides-1percent-on-iran-talks-dow-falls-185-points-september-23-2026))
+- **The S&P 500 Financials index fell nearly 2% on Tuesday to its lowest close since July, and bank stocks fell about 3%, as investors priced the risk that consumer AI agents such as Meta's Muse could disrupt banks, insurers, brokers and online travel agencies.** JPMorgan and Wells Fargo fell more than 3% each, Allstate 5.5% and Charles Schwab about 6%, while the broader S&P 500 finished flat; Reuters also cited the 2-year/10-year Treasury spread touching its flattest since March 2025 and doubts about AI-linked IPOs, and a Gabelli portfolio manager called it "another sell-without-regard reaction" while calling the bank outlook sound. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-22/meta-s-muse-drags-down-stocks-that-depend-on-consumer-inertia), [Reuters](https://www.reuters.com/business/finance/financial-stocks-fall-with-ai-flattening-yield-curve-focus-2026-09-22/))
+- **Nvidia's shares were trading at less than 17 times expected earnings for the next 12 months, near their cheapest level in more than a decade, according to Bloomberg-compiled data.** The multiple is about half what the stock commanded in 2025, when the company's growth was slower, and down from more than 25 times as recently as May. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-22/nvidia-s-stock-is-flashing-a-warning-sign-as-valuation-falls))
 
 ## 2026-09-21 — ESMA formally warns stretched AI valuations raise the risk of an abrupt correction
 

@@ -3,7 +3,7 @@ title: Neuromodulation
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-05
+last_seen: 2026-09-22
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -18,6 +18,10 @@ blurb: 'The somatic bet where evidence actually caught up — and the test of wh
   trial-to-real-world gap risk), the EEG-biomarker (L-ACC beta power) treatment-selection
   angle, and further confirmatory work.'
 ---
+
+## 2026-09-22 — A home-delivered spaced tDCS trial for treatment-resistant depression is registered with NIMH support
+
+- **UC San Diego registered a sham-controlled trial of home-based, remotely supervised "spaced" transcranial direct current stimulation for treatment-resistant depression, with NIMH as collaborator.** 74 participants are planned, start estimated 10-15, with the Montgomery-Åsberg Depression Rating Scale as primary outcome plus TMS-EEG mechanism measures. ([ClinicalTrials.gov NCT07834762](https://clinicaltrials.gov/study/NCT07834762))
 
 ## 2026-09-02 — A companion mechanistic paper shows SNT's antidepressant effect tracking measurable changes in brain excitability, not just symptom scores
 

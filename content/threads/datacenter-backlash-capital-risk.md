@@ -3,7 +3,7 @@ title: The Backlash Prices In
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-19
+last_seen: 2026-09-22
 weight: 2
 entities:
 - openai

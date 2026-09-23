@@ -3,7 +3,7 @@ title: Apple Health
 lens: mental-health
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-20
+last_seen: 2026-09-22
 weight: 2
 entities:
 - apple
@@ -15,6 +15,10 @@ blurb: Apple's AI coach ('Mulberry') keeps slipping — no AI, and no AI mental-
   proxies, not validated measurement. Third-party chatbots (ChatGPT/Perplexity) now
   eat the Apple Health data.
 ---
+
+## 2026-09-22 — Apple prototypes a screenless Whoop-style band
+
+- **Apple is developing a screenless, Whoop-style health and fitness band, Bloomberg reported on 09-22, but has not decided whether to release it and it would not ship before 2028.** Prototypes pair a thin fabric band with a sensor-equipped computing module; the project is in a "technology investigation" phase with backing from Tim Cook and Eddy Cue, who runs Apple's health teams and has pushed simpler, Whoop- and Oura-style interfaces. ([9to5Mac](https://9to5mac.com/2026/09/22/apple-working-on-whoop-style-screenless-fitness-tracker-per-report/), [MacRumors](https://www.macrumors.com/2026/09/22/apple-screenless-fitness-band/))
 
 ## 2026-09-20 — Apple lays off Fitness+ staff as it folds the service into Health
 

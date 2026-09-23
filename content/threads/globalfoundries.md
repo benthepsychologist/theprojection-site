@@ -3,7 +3,7 @@ title: GlobalFoundries — the Capex Reversal
 lens: ai
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-17
+last_seen: 2026-09-21
 weight: 2
 entities:
 - globalfoundries
@@ -19,6 +19,10 @@ blurb: '⚠️ RESOLVED at the Q2 2026 print (2026-08-05, already on this thread
   and whether the ~45% stock decline since the May Mubadala sale gets explained or
   reversed by the Q2 print.'
 ---
+
+## 2026-09-21 — GlobalFoundries and SMART Photonics launch an open-access foundry service combining silicon and indium-phosphide photonics
+
+- **GlobalFoundries and Dutch chipmaker SMART Photonics launched what they call the industry's first commercial open-access foundry service combining silicon photonics with indium-phosphide lasers, modulators and amplifiers, targeting AI data centers, optical transceivers and lidar, with general availability planned for the second half of 2027.** The active indium-phosphide parts are flip-chip mounted into cavities in GlobalFoundries' silicon photonics chips after more than a year of joint engineering, so designers get both technologies through a foundry rather than building the integration themselves. It adds a customer-facing product to the silicon-photonics strand this thread tracks through the $300M photonics CHIPS award and the Marvell optical-capacity expansion. ([Bits&Chips](https://bits-chips.com/article/smart-photonics-and-globalfoundries-launch-joint-photonics-foundry-service/))
 
 ## 2026-09-17 — Marvell deal expands, and Japan floats GF as operator of a new US chip plant
 

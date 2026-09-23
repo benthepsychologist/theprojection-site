@@ -3,7 +3,7 @@ title: The G7 Trade War
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-17
+last_seen: 2026-09-22
 weight: 2
 entities: []
 thread_kind: story
@@ -20,6 +20,11 @@ blurb: 'Whether the US-Canada tariff fight is a negotiating posture or a structu
   tariff (a genuinely new category, not an increase on an existing one) reaches specific
   manufacturers by name.'
 ---
+
+## 2026-09-22 — Trump backs off Belarusian potash; Carney sets a G20 target for a deal with India
+
+- **President Trump said on 09-22 the US will keep buying Canadian potash, a day after saying he was working on a cheaper supply deal with Belarus.** Beside Ukraine's Zelensky at the UN he said "we'll continue to go with Canada, but Belarus would like to sell it for a much lower price"; the US imports 79% of its potash from Canada and 3% from Belarus, per the US Geological Survey, and Saskatchewan Premier Scott Moe had called Belarusian potash support for Russian aggression. ([Global News](https://globalnews.ca/news/12069085/trump-canadian-potash-september-22/))
+- **Canadian Prime Minister Mark Carney said on 09-22 that trade talks with India are making "good progress" and aim to conclude by the G20 summit in Miami in mid-December, with Narendra Modi expected to visit Canada around then.** It is part of Carney's plan to cut Canada's reliance on the US as relations with Trump deteriorate; talks resumed after a diplomatic rupture over the 2023 killing of a Sikh activist in British Columbia. ([CBC](https://www.cbc.ca/news/politics/modi-canada-trade-deal-visit-9.7354352), [AP via Ottumwa Courier](https://www.ottumwacourier.com/news/national_news/carney-says-canada-and-india-aim-to-wrap-up-trade-talks-by-g20-ahead-of/article_c941330a-1000-5fd8-83be-8f7befa8805a.html))
 
 ## 2026-09-17 — Trump threatens the EU with tariffs over a Canada "associate member" offer
 

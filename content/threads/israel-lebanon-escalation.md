@@ -3,7 +3,7 @@ title: Israel–Lebanon
 lens: world-news
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-19
+last_seen: 2026-09-23
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,10 @@ blurb: 'The Israel–Hezbollah front turning hot while its diplomacy stalls: dea
   theatre from iran-conflict-widening (cross-referenced, not merged). Watch: whether
   the talks track survives, and whether strikes escalate past the current tempo.'
 ---
+
+## 2026-09-23 — A massive Israeli detonation in Khiam causes damage and a blackout across nearby districts
+
+- **A massive Israeli detonation overnight in the south Lebanon border town of Khiam caused widespread damage in nearby villages and a blackout across the Hasbaya, Shebaa and Arqoub regions, Lebanese outlet Naharnet reported, and Israeli artillery later shelled several villages including with white phosphorus.** Prime Minister Nawaf Salam was in New York seeking Arab and international support for Lebanon, and the US Embassy said it delivered 16 million rounds of ammunition to the Lebanese Army; the report rests on Naharnet alone and no Israeli comment was found. ([Naharnet](https://www.naharnet.com/stories/en/322661-israeli-detonation-in-khiam-leaves-widespread-destruction-across-nearby-towns))
 
 ## 2026-09-19 — A Hezbollah roadside bomb wounds two Israeli soldiers in the south Lebanon buffer zone; IDF strikes Hezbollah infrastructure in response
 

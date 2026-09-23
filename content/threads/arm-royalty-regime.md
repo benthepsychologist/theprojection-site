@@ -3,7 +3,7 @@ title: Arm Royalty Regime
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-17
+last_seen: 2026-09-21
 weight: 2
 entities:
 - arm
@@ -18,6 +18,14 @@ blurb: 'The ~$800B-gravity ISA chokepoint: SoftBank''s 87.1% leaned on as LOAN C
   own licensees. Royalties real (4 straight >$1B quarters, v9+CSS). Stock -28% into
   earnings 07-29 — the live test.'
 ---
+
+## 2026-09-21 — Arm jumps 17% in a Meta-driven CPU rally, up about 32% in three sessions
+
+- **Arm Holdings rose 17.16% on Monday 09-21 to close at $322.90, up about 32% in three sessions from $243.98 on 09-16, as Meta's new Muse AI agent, which topped Apple's US App Store, revived the trade in the central processors that coordinate agentic workloads.** Meta is the lead partner and co-developer of Arm's in-house "AGI CPU", the first chip Arm has sold itself rather than licensed, so the rally lands directly on this thread's question of whether Arm can convert leverage into its own silicon revenue; Intel rose about 12% and AMD closed above $1 trillion the same session. Arm's move follows CEO Rene Haas's 09-16 statement that AGI-CPU demand is "off the charts". ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-21/amd-set-to-top-1-trillion-in-market-value-as-chip-stocks-soar), [FinanceFeeds](https://financefeeds.com/arm-rose-17-to-322-90-up-32-in-three-sessions-as-metas-agent-revives-the-cpu-trade/))
+
+## 2026-09-18 — SoftBank raises the loan secured on its Arm shares to $25 billion instead of selling them
+
+- **SoftBank increased its margin loan backed by Arm Holdings shares by $5 billion to $25 billion, renegotiating with creditors this month, rather than selling any of its roughly 87% stake.** Bloomberg reported it on 09-18 alongside SoftBank's wider AI-funding push. It is the live follow-through on this thread's watch that SoftBank treats Arm as loan collateral, not a sell-down: the earlier $20 billion facility (which faced a December 2025 deadline with its outcome unresolved on this thread) has been upsized rather than unwound, so the parent's funding of its AI bets still rests on Arm's share price, which had fallen about 45% from its June peak by mid-September. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-18/softbank-raises-arm-margin-loan-to-25-billion-as-ai-bets-grow), [Investing.com](https://www.investing.com/news/stock-market-news/softbank-increases-arm-margin-loan-to-25-billion-bloomberg-93CH-4906723))
 
 ## 2026-09-16 — CEO tells CNBC demand is "off the charts," rebuilds confidence in the $2B AGI-CPU target; stock jumps ~7%
 

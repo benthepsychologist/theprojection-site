@@ -3,7 +3,7 @@ title: Colossus
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-17
+last_seen: 2026-09-21
 weight: 2
 entities:
 - spacex
@@ -17,6 +17,10 @@ blurb: SpaceXAI's self-owned training compute (Colossus, Memphis) — the "owns 
   constraints, and whether owning the mines translates into a frontier Grok. Feeds
   the "who controls the stack" thesis (radar Q1).
 ---
+
+## 2026-09-18 — The Justice Department appeals to the Fifth Circuit to join the NAACP's Clean Air Act suit over xAI's Southaven turbines
+
+- **The Justice Department filed a notice of appeal to the Fifth Circuit on 09-18 in an effort to intervene in the NAACP's Clean Air Act case against xAI's unpermitted gas turbines at Southaven, Mississippi, arguing the district court's failure to rule in time on its request to join amounted to an "effective denial."** The suit, brought by the NAACP through Earthjustice and the Southern Environmental Law Center, targets the power plant that runs Colossus 2 across the state line in Memphis; DOJ first signaled in May that it might step in, then asked the court in June to dismiss the case, citing what it called the government's "priorities with respect to promotion of artificial intelligence." Taking the intervention fight to the appeals court moves the federal shield already on this thread (the July "national security" framing) from a district-court motion into a higher-court test. ([Bloomberg Law](https://news.bloomberglaw.com/environment-and-energy/doj-files-appeal-in-effort-to-join-naacp-xai-data-center-suit), [CNBC](https://www.cnbc.com/2026/06/16/usdepartment-of-justice-calls-for-dismissal-of-naacp-xai-lawsuit-.html))
 
 ## 2026-09-17 — Family sues SpaceXAI for $30M over a fatal first-day fall at Colossus II
 

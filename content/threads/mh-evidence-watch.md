@@ -3,7 +3,7 @@ title: What Works
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-18
+last_seen: 2026-09-23
 weight: 3
 entities: []
 thread_kind: meta
@@ -14,6 +14,10 @@ blurb: 'The EBP umbrella — what science says makes mental-health treatment wor
   but absolute response rates run only 24-42% across disorders (Cuijpers 2024, 441
   RCTs) — most of what''s new expands REACH, not efficacy.'
 ---
+
+## 2026-09-23 — A randomized test of a Soteria-style inpatient unit for acute psychosis is registered
+
+- **A Jerusalem Mental Health Center randomized trial compares a closed psychiatric ward built around Soteria principles with a conventional closed ward for adults in acute psychosis.** 200 participants are planned, enrolling since September 2025; outcomes include psychotic symptom severity, therapeutic alliance, one-year readmission and antipsychotic dose. ([ClinicalTrials.gov NCT07836348](https://clinicaltrials.gov/study/NCT07836348))
 
 ## 2026-09-11 — A 2,477-person Swedish trial finds format, not modality, is the constraint on unguided internet therapy; a small Korean trial and a wire-sourced suicide-epidemiology finding round out the day
 

@@ -3,7 +3,7 @@ title: Ping An AI
 lens: ai
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-18
+last_seen: 2026-09-23
 weight: 3
 entities:
 - ping-an
@@ -16,6 +16,10 @@ blurb: 'Ping An running AI-driven underwriting and claims at genuine national sc
   the pending August 2026 interim results, and whether the automation numbers keep
   climbing.'
 ---
+
+## 2026-09-23 — Ping An's CTO says daily AI token use is up tenfold in a year while cost per token fell 76%
+
+- **Ping An's chief technology officer Ray Wang told Alibaba's Apsara Conference that the group's average daily AI token consumption rose from 30 billion at the end of last year to more than 300 billion, on roughly doubled computing capacity (800 to 1,500 petaflops), with cost per token down 76%.** He said full-stack optimization raised token output per unit of computing power by 368%; that its AI-powered "Express Service" has handled over 100 million user interactions in four months with a 92% end-to-end resolution rate; that AI-generated code is about 80% of total code output; and that its AI Doctor's hallucination rate is under 0.3%. These are company-reported figures from a vendor-conference talk. ([Ping An press release via PR Newswire](https://www.prnewswire.com/news-releases/ping-an-cto-ray-wang-from-tokens-to-value-creation-302887524.html))
 
 ## 2026-08-21 (added 2026-08-29) — A critical read of the H1 results: new-business growth trails peers, and an unverifiable AI health-model claim surfaces
 

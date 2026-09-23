@@ -3,7 +3,7 @@ title: Horn of Africa War
 lens: world-news
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-20
+last_seen: 2026-09-23
 weight: 2
 entities: []
 thread_kind: story
@@ -19,6 +19,14 @@ blurb: 'A Tigray-war reignition with cross-border spillover, offered as a thread
   conflict above hyper-local scale is a yes, not a judgment call re-litigated per
   war.'
 ---
+
+## 2026-09-23 — Tigrayan forces seize airports and move into Afar and Amhara as Ethiopia and Tigray each accuse the other of launching a new war
+
+- **Tigrayan forces seized airports across the Tigray region and launched an offensive against federal positions in the neighbouring Afar and Amhara regions early Wednesday, Ethiopian Prime Minister Abiy Ahmed's adviser Getachew Reda said; Tigray's authorities say they are fighting a "defensive war" against a federal "invasion."** Ethiopian Airlines suspended flights to three northern Tigray airports, residents of Mekelle told the BBC that local forces took over its airport from federal police, and clashes were reported in Afar at Abala and Berahle, three days after the TPLF announced an alliance with six other armed groups to remove Abiy's government. AFP reported that humanitarian staff in Afar said fighting broke out at Abala and Erebti late Tuesday, and a foreign security source said the TPLF controlled Abala. ([Al Jazeera, AFP](https://www.aljazeera.com/news/2026/9/23/ethiopian-airlines-suspends-flights-to-three-northern-tigray-airports), [BBC News](https://www.bbc.com/news/articles/cry8zwwq21pxo), [Africanews, AFP](https://www.africanews.com/2026/09/23/ethiopia-tigray-forces-seize-airports-as-fighting-spreads-to-afar/))
+
+## 2026-09-22 — Tigray says federal drone and jet strikes killed at least 14 in Alamata; the US condemns a strike on a Catholic aid convoy
+
+- **Ethiopian federal drone and fighter-jet strikes on the Tigrayan town of Alamata killed at least 14 civilians and injured 22 on Tuesday, Tigray's authorities said, in more than 21 strikes beginning around 3:30am local time that hit two unoccupied secondary schools, the town's mayor said.** The BBC has not verified the claims and the government has not commented; separately the US State Department condemned a Monday drone strike on a Catholic convoy carrying food aid in the region and called for an investigation. ([BBC News](https://www.bbc.com/news/articles/cry8zwwq21pxo))
 
 ## 2026-09-20 — Seven Ethiopian opposition/armed groups form an alliance aimed at removing Abiy's government
 

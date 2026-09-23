@@ -3,7 +3,7 @@ title: AI Debt Gets Rated
 lens: global-capital
 status: open
 opened: 2026-08-11
-last_seen: 2026-09-21
+last_seen: 2026-09-22
 weight: 2
 entities:
 - nvidia
@@ -27,6 +27,11 @@ blurb: 'Whether AI-buildout debt is becoming its own underwritten, rated, public
   an infrastructure asset with a 20-year life or like equipment on a 3-4 year depreciation
   clock — the two produce very different recovery rates in a default.'
 ---
+
+## 2026-09-22 — Meta's $27.3bn Hyperion bond slides to its lowest price since it was sold at par
+
+- **Meta's $27.3 billion Hyperion data-center bond, the largest private debt offering ever sold, traded near 94.4 cents on the dollar on 09-22, its lowest price since it priced at par in October 2025, Protos reported, on a day Meta's stock jumped on its Muse agent.** The 6.581% notes due 2049, issued through the Beignet Investor LLC vehicle and rated A+ by S&P, peaked near 110 within days of pricing and were about 96 in late July; one analyst estimates spreads have widened from about 140bp to 210bp, and Pimco, which anchored the deal with about $18bn, would be sitting on a paper loss near $1bn. The price is reported from a bond-pricing search rather than a dealer or exchange print, and a second write-up puts it at 94.75, so read it as "mid-90s". ([Protos](https://protos.com/metas-ai-bond-just-hit-a-record-low-as-its-stock-soared/), [The Dark Side of the Boom](https://thedarksideoftheboom.substack.com/p/the-ai-data-center-boom-has-reached))
+- **Investors are pricing AI-related investment-grade bonds wider than the rest of the market: spreads on AI issuers sit near 115 basis points against 78 for broad investment-grade, Reuters reported on 09-22, with Goldman Sachs projecting a record $420bn of hyperscaler debt issuance next year, up 60%.** Portfolio managers say default is not the worry; supply and opacity of returns are: Alphabet paid a large concession on its August sale, BlackRock's Russell Brownback described some double-A credits pricing near triple-B levels, and some investors are nearing single-name limits once related data-center vehicles are aggregated. Aon's $13.5bn acquisition financing the same month drew $65bn of orders. ([Reuters via BNN Bloomberg](https://www.bnnbloomberg.ca/investing/2026/09/22/corporate-bond-buyers-get-picky-with-flood-of-ai-debt/), [Reuters via Yahoo Finance](https://finance.yahoo.com/markets/options/articles/corporate-bond-buyers-picky-flood-100410778.html))
 
 ## 2026-09-21 — Apollo's chief economist ties the AI credit boom to an unproven hyperscaler cash-flow assumption
 

@@ -3,7 +3,7 @@ title: AI Therapy Evidence
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-20
+last_seen: 2026-09-23
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -15,6 +15,10 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   maturing into a real subfield: VERA-MH benchmark, RAND''s intermediate-risk failures,
   EmoAgent.'
 ---
+
+## 2026-09-23 — A NIMH-funded trial of a voice-based AI coach posts its results, with human-coached and delayed-treatment arms
+
+- **A University of Illinois Chicago trial of "Coach Lumen," a voice-based AI coach delivering problem-solving therapy, posted results on ClinicalTrials.gov on 09-23: at 18 weeks, participants coached by the AI improved more than a delayed-treatment control, and those coached by a human improved somewhat more than the AI-coached group on most measures, in unadjusted registry means.** On the Hospital Anxiety and Depression Scale's distress total the mean change was -5.85 for the AI-coached arm (97 completers), -7.33 for human coaching (48) and -2.76 for the delayed-treatment control (49); the registry posts no between-group tests, and the pre-specified primary outcome was a functional-MRI activation measure on which the arms are not visibly different, with the symptom scales secondary. The 200-person Phase 2 ran 2023 to April 2025 and is NIMH-funded with Penn State, Washington University and Stanford as collaborators; whether a journal paper exists was not checked. ([ClinicalTrials.gov NCT05603923](https://clinicaltrials.gov/study/NCT05603923))
 
 ## 2026-09-18 — A new trial registration tests whether an agentic LLM can actually improve shared decision-making, not just answer questions (caught late, added 2026-09-19)
 

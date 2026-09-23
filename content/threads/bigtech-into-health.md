@@ -3,7 +3,7 @@ title: Big Tech into Health
 lens: mental-health
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-18
+last_seen: 2026-09-22
 weight: 3
 entities:
 - microsoft
@@ -17,6 +17,10 @@ blurb: The wave of the AI giants moving into health/MH — the cross-actor narra
   threads below; watch which giant's health push is real vs. announced, and where
   MH specifically shows up.
 ---
+
+## 2026-09-22 — Anthropic and OpenEvidence take free clinical AI to about 100 low- and middle-income countries
+
+- **Anthropic and OpenEvidence are rolling out a free, regionally adapted version of OpenEvidence's clinical decision-support tool to physicians in about 100 low- and middle-income countries, including Uganda, Angola, Sudan, Haiti and Mongolia, with Anthropic providing back-end technology.** OpenEvidence, whose service answers doctors' questions from peer-reviewed research and is free to clinicians in the US and Europe, said US clinicians consulted it 42 million times in August; the companies did not disclose financial terms, and Reuters noted critics' concern that systems trained mainly on high-income-country data may not fit local practice. Mental health is not named in the announcement. ([Reuters via Yahoo News](https://www.yahoo.com/news/articles/exclusive-anthropic-openevidence-partner-bring-213129315.html))
 
 ## 2026-09-09 — A third giant ships a real health push at its September hardware event, and mental health again doesn't come along for the ride
 
