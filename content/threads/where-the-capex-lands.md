@@ -3,7 +3,7 @@ title: Where the Capex Lands
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-22
+last_seen: 2026-09-24
 weight: 3
 entities:
 - nvidia
@@ -25,6 +25,10 @@ blurb: 'The ~$750B question posed as a DESTINATION, not a spender: where does th
   standards (08-12). Track which outcome the majority of the project queue lands on,
   not just whether the gap exists.'
 ---
+
+## 2026-09-24 — A BlackRock-backed group is in talks for Stack's Asia-Pacific data centers at up to $25 billion
+
+- **A consortium backed by BlackRock and IFM Investors is in exclusive talks to buy Stack Infrastructure's Asia-Pacific data-center portfolio for up to $25 billion, Bloomberg reported Thursday, citing people familiar with the matter.** The group includes the BlackRock-backed AI Infrastructure Partnership, is preparing due diligence and hopes to agree terms soon with Stack's owner, Blue Owl Capital; Bloomberg reported in May that Stack was weighing a sale of its Asia operations at more than $30 billion. Reuters could not immediately verify the report, and talks could be prolonged or fail. Stack operates in Tokyo, Osaka, Sydney and Melbourne. ([Economic Times, from Reuters](https://economictimes.indiatimes.com/tech/technology/blackrock-ifm-close-in-on-25-billion-stack-data-center-deal-bloomberg/articleshow/134461641.cms))
 
 ## 2026-09-10 — Microsoft's own destination number: 12GW today, 38GW by 2032
 

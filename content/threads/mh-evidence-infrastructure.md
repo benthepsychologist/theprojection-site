@@ -3,7 +3,7 @@ title: Evidence Infrastructure
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-18
+last_seen: 2026-09-23
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -16,6 +16,10 @@ blurb: 'The machinery that produces the evidence base is under strain from three
   and the NHS Talking Therapies evidence fight (official ~50% recovery vs. the placebo-equivalence
   critique; no independent evaluation ever run).'
 ---
+
+## 2026-09-23 — The NIH grant-veto order is reported dead
+
+- **A planned White House executive order that would have let a political board veto individual National Institutes of Health grants is "looking dead," Senator Susan Collins and one person familiar with the decision told STAT on 09-23, after bipartisan pushback.** Collins, who chairs the Senate appropriations committee, wrote budget director Russell Vought and NIH Director Jay Bhattacharya on 09-22 urging them not to proceed, and Semafor first reported the order was being tempered; the White House did not respond to STAT's request for comment, so the reversal is reported rather than announced. ([STAT](https://www.statnews.com/2026/09/23/nih-grants-political-control-executive-order-bipartisan-pushback/))
 
 ## 2026-09-18 — The White House drafts an order to let a political board veto individual NIH grants
 

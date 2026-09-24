@@ -3,7 +3,7 @@ title: Israel–Lebanon
 lens: world-news
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-23
+last_seen: 2026-09-24
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,10 @@ blurb: 'The Israel–Hezbollah front turning hot while its diplomacy stalls: dea
   theatre from iran-conflict-widening (cross-referenced, not merged). Watch: whether
   the talks track survives, and whether strikes escalate past the current tempo.'
 ---
+
+## 2026-09-24 — Israeli detonations at Bint Jbeil and al-Khiam and overnight shelling across the south
+
+- **Israeli forces carried out a large detonation around Bint Jbeil in south Lebanon on Thursday and for a second night in a row in al-Khiam, while artillery shelled Beit Yahoun, Shaqra, Kounine, Hadatha and al-Mansouri overnight and strikes hit Mayfadoun, al-Mansouri, Qantara, Wadi al-Hujair and Wadi Slouqi, Lebanese outlet Naharnet reported.** Lebanese Prime Minister Nawaf Salam, in New York, was due to meet Iranian President Masoud Pezeshkian later Thursday, al-Jadeed TV reported. The detonation and shelling reports rest on Naharnet's live summary; no Israeli comment was found. ([Naharnet](https://www.naharnet.com/stories/en/322689-south-lebanon-latest-developments))
 
 ## 2026-09-23 — A massive Israeli detonation in Khiam causes damage and a blackout across nearby districts
 

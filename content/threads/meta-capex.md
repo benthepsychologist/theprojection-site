@@ -3,7 +3,7 @@ title: Meta Capex
 lens: ai
 status: developing
 opened: 2026-07-23
-last_seen: 2026-09-17
+last_seen: 2026-09-20
 weight: 2
 entities:
 - meta-ai
@@ -26,6 +26,10 @@ blurb: 'The week''s reversal: Meta QUIT RE100 amid a 7.5GW gas buildout (07-23/2
   combined. EY flagged Beignet as a critical audit matter Feb-2026. Read the guidance
   as what Meta will SPEND, not what it has COMMITTED — track the gap.'
 ---
+
+## 2026-09-20 — FT: Big Tech has issued up to $300bn of AI guarantees, Meta's is $28bn on Hyperion
+
+- **The Financial Times reported that Big Tech companies have issued up to $300bn of guarantees backing AI data centres and chips in under a year, recording little of it on their balance sheets, including a $28bn Meta guarantee behind its Hyperion venture with Blue Owl.** Secondary write-ups of the FT piece say Hyperion raised $27bn with most of the obligation outside Meta's reported balance sheet, and cite Morgan Stanley's broader estimate of more than $3.1tn of off-balance-sheet commitments across seven cloud and chip companies. It adds a headline number to the ~$420bn of off-balance-sheet AI obligations already logged here 08-17. ([Financial Times](https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563), [GuruFocus via Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/nvidia-meta-300-billion-ai-145204122.html))
 
 ## 2026-09-15 — BofA models $8.5B in 2027 MTIA savings; the next two chip generations get names for the first time
 

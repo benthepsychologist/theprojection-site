@@ -3,7 +3,7 @@ title: Grid & Turbines
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-22
+last_seen: 2026-09-24
 weight: 1
 entities:
 - spacex
@@ -16,6 +16,18 @@ blurb: The grid is the binding constraint (not chips) — interconnection queues
   fights. Watch the DOJ national- security shield over xAI's unpermitted turbines
   — the improvisation has outrun the regulatory system.
 ---
+
+## 2026-09-24 — Energy Department to fund grid-upgrade projects worth 23 gigawatts
+
+- **The Energy Department is set to announce almost $2 billion for 31 grid-upgrade projects across 26 states that it says would add more than 23 gigawatts of capacity, the Associated Press reported Thursday, with Energy Secretary Chris Wright due to announce the grants in Allentown, Pennsylvania.** The projects use sensors and other technology to move more power over existing lines (component upgrades on more than 1,500 miles of transmission lines and technology enhancements across nearly 21,000 miles), the federal $1.9 billion is matched by $3.35 billion from recipients, and the money comes from the 2021 bipartisan infrastructure law. The AP framed it as a response to AI-driven demand and to opposition that "has thrown a wrench into the plans of the world's richest companies." This is a separate program from the $1.9 billion Duane Arnold nuclear restart loan closed 09-08. ([AP via ABC News](https://www-cdn.abcnews.com/Business/wireStory/energy-department-spend-2-billion-squeeze-electricity-aging-136712117))
+
+## 2026-09-23 — Maryland's governor sets one state review for large data centers, without a moratorium
+
+- **Maryland Gov. Wes Moore signed an executive order creating one state review process for every data center of 25 megawatts or more that seeks a state permit, incentive or letter of support, judged on five principles including ratepayer and grid protection.** A new Data Center Task Force in the Governor's Office will issue each project a public determination of "Aligned," "Conditionally Aligned" or "Not Aligned" and keep a monthly-updated public dashboard showing projected power and water use, and Moore said he will ask the General Assembly to repeal the 2020 data-center sales-tax exemption; he stopped short of a moratorium, days after telling Punchbowl News he would sign one if lawmakers passed it. The order follows Virginia's and California's state actions in the past week. ([Maryland Governor's Office](https://governor.maryland.gov/news/press-releases/governor-moore-signs-executive-order-codifying-responsible-data-center-development-framework), [WTOP](https://www.wtop.com/maryland/2026/09/the-people-are-fed-up-md-governor-signs-executive-order-targeting-data-centers/))
+
+## 2026-09-22 — A county blocks the switching station meant to power seven data-center buildings
+
+- **Prince William County, Virginia's Board of Supervisors unanimously denied Dominion Energy's special-use permit to expand its Vint Hill electrical switching station, a roughly $300 million project meant to supply power for as many as seven proposed data-center buildings.** The Tuesday vote, taken the same day the board ended by-right data-center approval, followed residents' objections about the station's proximity to homes; Dominion said afterward that "all options" are on the table. It is a rare case of grid hardware, not the data center itself, being the thing a local government blocks. ([DC News Now](https://www.dcnewsnow.com/news/local-news/virginia/prince-william-county/prince-william-county-supervisors-weigh-dominion-vint-hill-substation-expansion-amid-neighborhood-opposition/), [FOX 5 DC](https://www.fox5dc.com/news/prince-william-county-vote-major-data-center-policy-changes))
 
 ## 2026-09-21 — California joins the unilateral state-regulation pattern this thread tracks — Newsom signs seven data-center utility-cost bills
 

@@ -3,7 +3,7 @@ title: The Funding Shift
 lens: mental-health
 status: developing
 opened: 2026-06-28
-last_seen: 2026-09-22
+last_seen: 2026-09-23
 weight: 3
 entities:
 - spring-health
@@ -16,6 +16,11 @@ blurb: 'MH is the #1-funded US therapeutic area (~$1.27B/14 deals to start 2026)
   hitting the regulatory reckoning; watch consolidation (e.g. Spring Health/Alma).
   Tests whether the market prices in rigor — the evidence-gap thesis.'
 ---
+
+## 2026-09-23 — New York cuts Medicaid autism-therapy rates a third time; Noto adds executives
+
+- **New York's Medicaid program will cut its direct autism-therapy (applied behavior analysis) rate a third time in a year, to $9.63 a billing unit from $14.45, a 33% cut effective 10-01 that providers say ends Medicaid ABA for children in the state.** The state announced the rate on 09-17; with two 12.5% cuts (10-2025 and 04-2026) the cumulative reduction is about 50% from early 2025, and Behavioral Health Business, citing MediRate data, reports it would be the lowest Medicaid ABA rate in the country. The state health department told BHB it remains "committed to ensuring access to high-quality, medically necessary care while managing Medicaid resources effectively." ([Behavioral Health Business](https://bhbusiness.com/2026/09/23/it-is-a-death-sentence-of-a-rate-cut-ny-medicaid-rolls-out-3rd-aba-rate-cut/))
+- **Noto, the virtual specialty-care company founded as NOCD for OCD and now also treating PTSD, named three executives on 09-23, including Doug Nemecek, formerly behavioral-health chief medical officer at Evernorth, as chief psychiatric officer.** Bruce Brandes (ex-Livongo) becomes president of health systems and David Cohn (founder of Regroup Telehealth, later Array Behavioral Care) general manager of intensive treatment; the company says the hires are meant to carry its condition-specific model to other, unnamed complex conditions. ([Behavioral Health Business](https://bhbusiness.com/2026/09/23/noto-brings-on-former-execs-from-evernorth-livongo-and-array-behavioral/))
 
 ## 2026-09-22 — Talkspace collects a TIME "Top HealthTech" listing for both its brands the same week a Seattle Times investigation says its city youth-therapy deal is underdelivering
 

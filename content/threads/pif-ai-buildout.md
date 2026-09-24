@@ -3,7 +3,7 @@ title: PIF Bets Out of Concrete, Into Compute
 lens: global-capital
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-18
+last_seen: 2026-09-24
 weight: 3
 entities:
 - pif
@@ -24,6 +24,10 @@ blurb: 'Whether the NEOM/The Line capital retreat (halted past 2030, only ~1.4% 
   of board.yaml''s $12.5B/yr AI thrust figure against this crawl''s larger ~$21-23B
   HUMAIN deal-book tally (AMD $10B, AWS ~$5.3B, xAI $3B, AirTrunk ~$3B).'
 ---
+
+## 2026-09-24 — Humain awards infrastructure work on a planned 6GW Riyadh AI campus
+
+- **Saudi Arabia's Humain, owned by the Public Investment Fund, awarded infrastructure works for a planned 6-gigawatt hyperscale AI data-centre campus in east Riyadh to Dammam-based Al-Yamama, MEED reported Thursday.** The 24-square-kilometre Al-Saad site is to be built in two phases across six 1GW plots on an early-contractor-involvement basis, with a 2,000MVA bulk supply point, two substations of 500MVA and 200MVA, and water, sewage and fibre networks; Humain tendered the work in May, and Hatch, Egis and JLL advise it. ([MEED](https://www.meed.com/contractor-wins-6gw-data-centre-campus-infrastructure))
 
 ## 2026-09-09 — HUMAIN turns to outside investors as PIF reins in fiscal spending — this thread's own watch line finally answered
 

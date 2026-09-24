@@ -3,7 +3,7 @@ title: Nuclear for AI
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-21
+last_seen: 2026-09-24
 weight: 2
 entities:
 - amazon-aws
@@ -16,6 +16,14 @@ blurb: The nuclear-for-AI wave — but ~0 net-new MW power any AI datacenter bef
   announced is <20% of projected demand; every genuinely new SMR/Gen-IV project is
   2030s-weighted. Watch which actually clear licensing.
 ---
+
+## 2026-09-24 — The NRC proposes a wholesale rewrite of reactor licensing and oversight rules
+
+- **The Nuclear Regulatory Commission published an 89-page proposed rule revising how reactors are licensed, decommissioned and overseen, with comments due November 9.** It is the NRC's response to Executive Order 14300, "Ordering the Reform of the Nuclear Regulatory Commission," which directs a wholesale revision of its regulations. The proposal touches decommissioning licensing, financial-qualification rules, risk-informed seismic design and probabilistic risk assessment, backfitting and issue-finality provisions, notification of initial fuel load, standard design approvals, early-site-permit environmental reviews, post-Three Mile Island requirements and operator licensing. It is a proposal only, so it changes no licence timelines yet. ([Federal Register](https://www.federalregister.gov/documents/2026/09/24/2026-19568/regulatory-enhancements-for-reactor-licensing-decommissioning-and-operational-oversight))
+
+## 2026-09-22 — Palisades restart stalls after a fuel assembly tips during loading
+
+- **Holtec paused fuel loading at Michigan's Palisades nuclear plant after one fuel assembly tilted out of position, stalling what would be the first restart of a decommissioned US reactor.** Holtec said crews were lowering fuel into the core when an assembly ended up stuck in a tilted position after the handling machine released it; engineers must retrieve it and move it to the spent-fuel pool before the restart can go on. Holtec and the Nuclear Regulatory Commission both said there was no radiological release and no danger to workers or the public, and the NRC is investigating. The plant closed in 2022 and is being brought back partly on AI-driven power demand, so a delay pushes back the earliest restarted-reactor electrons this thread tracks. ([ABC57](https://www.abc57.com/news/Refueling-paused-at-Palisades-Nuclear-Power-Plant-following-fuel-loading-incident), [The National](https://www.thenationalnews.com/future/technology/2026/09/23/palisades-power-plant-nuclear-incident/))
 
 ## 2026-09-21 — Google funds 96MW of Georgia nuclear uprates; Kairos gets a $100M Samsung C&T commitment
 

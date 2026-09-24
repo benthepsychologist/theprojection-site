@@ -3,7 +3,7 @@ title: Musk Megacap
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-18
+last_seen: 2026-09-22
 weight: 1
 entities:
 - spacex
@@ -19,6 +19,10 @@ blurb: 'SpaceX (Nasdaq: SPCX) — the public parent holding xAI + X (crawl 2026-
   Watch: the Aug-6 lock-up (911.5M shares); Musk''s ~82% voting control; whether the
   Anthropic lease-back is real revenue or circular financing. Q7 material.'
 ---
+
+## 2026-09-22 — OpenAI's court brief quotes SpaceX's IPO prospectus on Grok's competitive position
+
+- **OpenAI asked a Texas federal judge on 09-22 for summary judgment against SpaceXAI and X Corp.'s antitrust suit over Apple's ChatGPT integration, quoting SpaceX's IPO registration statement that Grok is "among the fastest-advancing frontier models relative to peers, including OpenAI, Anthropic, and Google."** The 59-page brief in X Corp. v. Apple (N.D. Tex., Judge Mark Pittman) notes that SpaceX, "now valued at $2 trillion," told investors in its May 20 filing (amended June 3) it holds a "formidable competitive advantage" and made no mention of the Apple agreement or the lawsuit; sealed portions were allowed 09-23, and Reuters reports a trial set for January. ([OpenAI brief, CourtListener](https://storage.courtlistener.com/recap/gov.uscourts.txnd.408471/gov.uscourts.txnd.408471.403.0.pdf), [CourtListener docket](https://www.courtlistener.com/docket/71191818/x-corp-v-apple-inc/))
 
 ## 2026-09-18 — A construction worker's family sues SpaceXAI for $30M over a fatal fall at the same Colossus buildout that prompted the 09-01 leadership shakeup
 

@@ -3,7 +3,7 @@ title: Oracle's Stargate Bet
 lens: global-capital
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-22
+last_seen: 2026-09-24
 weight: 2
 entities:
 - oracle
@@ -19,6 +19,10 @@ blurb: Whether the FY27 capex step-up (~$70-95B, depending on source) and a repo
   vs $67B delivered in FY26) holds; any named counterparty breakdown of the OpenAI-linked
   RPO slice ($638B total, roughly half tied to OpenAI per multiple outlets).
 ---
+
+## 2026-09-24 — Oracle sends a force majeure notice on its New Mexico Stargate campus
+
+- **Oracle sent the Blue Owl-owned developer of its Project Jupiter data center in New Mexico a force majeure notice, Bloomberg reported Thursday, seeking to put off payments if the 2.45-gigawatt Stargate campus fails to come online in 2028 as planned.** Oracle says the project "remains on our planned schedule"; Blue Owl said the notice "does not change the financial commitments to this multi-year project"; the roughly $18bn bank loan behind the campus already trades below 90 cents on the dollar, according to a person Bloomberg cited, and Oracle shares fell about 4% to 6% in morning trading. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center), [CNBC](https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html))
 
 ## 2026-09-22 — A leaked document shows 546 Oracle cloud-infrastructure layoffs
 

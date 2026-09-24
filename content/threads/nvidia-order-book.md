@@ -3,7 +3,7 @@ title: Nvidia's Order Book
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-17
+last_seen: 2026-09-23
 weight: 2
 entities:
 - nvidia
@@ -16,6 +16,10 @@ blurb: The demand side of the chip spend — a ~$1T Blackwell+Rubin book (a mana
   has shifted to supply (HBM4). Watch the per- customer concentration and the circular-financing
   stakes (Nvidia's 10-Q investments in its own buyers).
 ---
+
+## 2026-09-23 — Supermicro says it is shipping Vera Rubin NVL72 racks
+
+- **Supermicro announced on 09-23 that it is now shipping Nvidia Vera Rubin NVL72 racks, integrated with its liquid-cooling stack, with customers able to order "Scalable Units" of production-ready systems.** The press release gives no volumes or customer names, so it is a vendor claim about availability rather than an order-book number, but Rubin availability is what the ~$1T Blackwell-plus-Rubin book depends on. ([PR Newswire](https://www.prnewswire.com/news-releases/supermicro-now-shipping-nvidia-vera-rubin-nvl72-racks-302886839.html))
 
 ## 2026-09-17 — Huang escalates his own growth claim from 70% revenue to a doubling of chip sales volume, made at a UK AI-safety summit alongside the frontier labs
 

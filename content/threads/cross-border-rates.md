@@ -3,7 +3,7 @@ title: The Cross-Border Rate Leg
 lens: global-capital
 status: open
 opened: 2026-09-05
-last_seen: 2026-09-23
+last_seen: 2026-09-24
 weight: 2
 entities:
 - scott-bessent
@@ -21,6 +21,19 @@ blurb: 'Whether the world''s other long ends — Japan first, then the Bund, gil
   Treasury''s own long-end campaign is ever framed by Bessent or the market as a response
   to foreign selling rather than to domestic supply.'
 ---
+
+## 2026-09-24 — France's 10-year yield reaches an 18-year high ahead of the 2027 budget fight
+
+- **France's 10-year borrowing cost rose to a new 18-year high of about 4.7% on Thursday, more than a full percentage point above Germany's, as strategists warned the 2027 budget fight could topple the government.** CNBC saw the 10-year OAT at 4.6696%; Prime Minister Sébastien Lecornu's draft budget, with about €54bn of spending cuts, goes to parliament in early October ahead of a November 17 vote, and euro-zone business activity grew at its fastest pace in nearly three and a half years on Wednesday, keeping money markets pricing at least one more ECB hike by year-end. ([CNBC](https://www.cnbc.com/2026/09/24/france-budget-debt-deficit-government.html), [TradingView](https://www.tradingview.com/news/te_news:586507:0-french-10-year-oat-yield-hits-fresh-18-year-high/))
+- **The UK 10-year gilt yield rose to 5.38% by mid-morning Thursday, close to last week's 19-year high, adding pressure on Chancellor John Healey's budget next month.** Analysts say recent rises have wiped out more than half of the £24bn of headroom against Labour's fiscal rules, and Bank of England chief economist Clare Lombardelli said in Warsaw that policy "is increasingly likely to need to tighten if elevated energy prices persist, absent clear evidence of disinflation or weaker activity." ([The Guardian](https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget))
+
+## 2026-09-23 — Japan's 10-year yield hits a 30-year high, the SNB holds, and the IIF warns on global debt
+
+- **Japan's 10-year government bond yield rose as high as 3.075% in Tokyo on Thursday, the highest in 30 years, tracking the US Treasury selloff, while the yen slid to the low 158s per dollar before recovering on talk of intervention.** NHK reported the yen strengthened to the upper 157 range on speculation authorities may step in, a week after rate checks with currency dealers, a step that often precedes intervention. ([NHK](https://www3.nhk.or.jp/nhkworld/news/20260924de52162/), [CNBC](https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html))
+- **The Swiss National Bank held its policy rate at 0% on Thursday, defying the tightening cycle the Fed, the European Central Bank and the Bank of Japan have begun, with traders pricing roughly even odds of a December hike.** Swiss inflation was 0.8% in August, inside the bank's 0%-2% range. ([CNBC](https://www.cnbc.com/2026/09/24/swiss-national-bank-interest-rates-inflation.html))
+- **Global debt rose by $10 trillion in the first half of 2026 to top $365 trillion, the Institute of International Finance said Wednesday, warning of a "vicious cycle" as the US, Japan, France and the UK carry deficits and interest bills more typical of debt-distressed emerging markets.** Advanced economies paid over $3.3 trillion in interest on internationally traded government bonds last year, more than global spending on AI, defense or clean energy. ([CNBC](https://www.cnbc.com/2026/09/24/global-debt-bond-yields-inflation.html))
+- **The average yield on Bloomberg's Global Aggregate Treasuries index rose 8 basis points to 3.99% on Wednesday, a level not seen since 2007, on the index's biggest one-day loss since May.** The index is down about 2.4% in 2026 after a 6.8% gain in 2025; swaps fully price three quarter-point Fed hikes over the next year, the ICE BofA MOVE index of US bond volatility hit its highest since March, and on Thursday Australia's three-year yield jumped 13 basis points to 5.07%, its highest since May 2011. ([Bloomberg via Business Times](https://www.businesstimes.com.sg/international/global/tumbling-global-government-bonds-puts-yields-brink-4-highest-level-nearly-20-years))
+- **Japanese Finance Minister Satsuki Katayama said Thursday in Tokyo that the principles behind the coordinated Japan-US currency intervention of July 31 remain in place, signalling readiness to act again if yen moves become disorderly.** The yen sat near 158 per dollar after last week's Bank of Japan hike failed to reassure investors; Japan's Ministry of Finance said on August 3 that it bought yen in coordination with the US Treasury, "will not hesitate to conduct further joint intervention," and plans to use the Fed's FIMA repo facility, and she declined to comment on levels. ([Reuters](https://www.reuters.com/world/asia-pacific/japans-katayama-says-principles-japan-us-fx-intervention-remain-place-2026-09-24/), [Traders Union](https://tradersunion.com/news/financial-news/show/3466953-japan-us-fx-intervention-yen-weakness/), [Japan Ministry of Finance](https://www.mof.go.jp/english/public_relations/statement/others/20260803073000.html))
 
 ## 2026-09-22 — The French premium holds above 100bp as the OAT reaches 4.5%
 

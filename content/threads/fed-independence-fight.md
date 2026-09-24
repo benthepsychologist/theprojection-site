@@ -3,7 +3,7 @@ title: Fed Independence Fight
 lens: global-capital
 status: open
 opened: 2026-08-09
-last_seen: 2026-09-18
+last_seen: 2026-09-23
 weight: 2
 entities:
 - lisa-cook
@@ -21,6 +21,10 @@ blurb: 'Two distinct, simultaneous levers on the Fed''s independence, offered as
   the 09-16 FOMC decision — as of the 08-09 /week read, a bigger open question than
   anything purely financial on this map.'
 ---
+
+## 2026-09-23 — White House economic chief attacks Fed officials pushing rate hikes
+
+- **National Economic Council Director Kevin Hassett criticised Federal Reserve policymakers not appointed by President Trump for seeking rate hikes, asking "Why are they hiking" when, he said, recent annualised core inflation is 2%, and said Chairman Kevin Warsh is "managing an unusually partisan Fed."** He spoke Wednesday at Georgetown University, a week after the Fed's first hike since 2023 and a day when Governor Barr said further hikes are likely needed; CNBC describes inflation as still above 3%, so the 2% figure is Hassett's own measure. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-23/hassett-blasts-fed-officials-calling-for-hikes-in-recent-days), [Guavy](https://guavy.com/wire/forex/hassett-slams-fed-officials-for-seeking-hikes-amid-subdued-inflation-0nDjKWax48nEEpiEIgLjs5))
 
 ## 2026-09-18 — Warsh gives a rare on-the-record framing of his own approach as monetarist, and declines to address distributional effects of the hike
 

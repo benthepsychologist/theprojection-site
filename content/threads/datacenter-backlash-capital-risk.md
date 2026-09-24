@@ -3,7 +3,7 @@ title: The Backlash Prices In
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-22
+last_seen: 2026-09-23
 weight: 2
 entities:
 - openai
@@ -26,6 +26,11 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   an industry messaging campaign, if one emerges, changes the polling or the moratorium
   count.'
 ---
+
+## 2026-09-23 — Data-center fights turn to threats and arrests; Maryland's governor and his opponent trade blame
+
+- **A Scripps News Group investigation documents local officials threatened, resigning and, in some cases, residents arrested in data-center disputes across the country, including officials in Michigan townships that had no project in development.** Examples include Saline Township's treasurer resigning in tears over threats, Tyrone Township officials receiving death-threat voicemails after an edited meeting clip spread, an Indianapolis councilman finding bullet holes in his door and a "No data centers" note in April, two Illinois men charged over Facebook threats, and police removing residents from public meetings in Claremore, Oklahoma and Emporia, Kansas. A researcher told Scripps that local elected leaders are especially vulnerable if citizens feel their questions go unanswered. ([Scripps News](https://www.scrippsnews.com/the-price-of-data/community-debates-over-data-centers-boiling-over-into-arrests-reported-threats))
+- **Maryland Gov. Wes Moore's data-center executive order became an election issue within hours: his Republican opponent Dan Cox called the timing a political stunt, while Moore's campaign noted the sales-tax exemption Moore wants repealed was a 2020 bill Cox sponsored.** Moore said "the people are fed up, and so am I," and local governments of both parties in Maryland have already passed moratoria. ([WTOP](https://www.wtop.com/maryland/2026/09/the-people-are-fed-up-md-governor-signs-executive-order-targeting-data-centers/))
 
 ## 2026-09-22 — Pima County, Arizona passes a 120-day data-center moratorium, citing water, heat and air-quality impacts
 

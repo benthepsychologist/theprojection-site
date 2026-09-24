@@ -3,7 +3,7 @@ title: Google Capex
 lens: ai
 status: developing
 opened: 2026-07-23
-last_seen: 2026-09-20
+last_seen: 2026-09-24
 weight: 2
 entities:
 - google
@@ -17,6 +17,10 @@ blurb: '$195-205B guided for 2026 (07-22), destination traced by crawl 07-27: a 
   primary filing unreached. Watch: Q3 guidance, the FCF-negative reaction, TPU externalization
   (Meta eval).'
 ---
+
+## 2026-09-24 — Google to put its first TPUs in orbit next week
+
+- **Google said it will launch its first Project Suncatcher prototype satellite next week, putting its Tensor Processing Units into orbit for the first time.** The satellite, built with Planet, rides SpaceX's Transporter-18 rideshare mission (launch trackers list 2026-10-01 from Vandenberg; Google gave only "next week") and is meant to show how the chips handle spaceflight vibration, radiation and the cooling problem in a vacuum before any larger constellation. Suncatcher is Google's research programme for running machine-learning compute in space on solar power; this is a test flight, not capacity. ([Google](https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/), [Unite.AI](https://www.unite.ai/googles-project-suncatcher-prototype-heads-to-orbit-for-ai-chip-tests/))
 
 ## 2026-09-08 — Google locks in restored nuclear output from a DOE-financed Iowa reactor restart
 

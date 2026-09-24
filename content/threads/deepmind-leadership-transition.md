@@ -3,7 +3,7 @@ title: DeepMind Succession
 lens: ai
 status: open
 opened: 2026-08-05
-last_seen: 2026-09-18
+last_seen: 2026-09-23
 weight: 2
 entities:
 - demis-hassabis
@@ -21,6 +21,10 @@ blurb: 'Demis Hassabis is stepping down as DeepMind CEO to become chairman and A
   what Discovery Loop builds and whether Google backing a departing exec''s startup
   becomes a pattern; whether other frontier labs see similar moves.'
 ---
+
+## 2026-09-23 — DeepMind's new chief says Gemini 4 is nearing release
+
+- **Google DeepMind's new chief, Koray Kavukcuoglu, said Gemini 4 is nearing release and that Google aims to ship an early post-training version "much earlier" than the end of the year** In his first media interview as DeepMind's leader, given to The Information, he conceded Google "took a little bit of a step back" to ship faster Flash models instead of the Gemini 3.5 Pro update promised for June. ([The Information](https://www.theinformation.com/articles/google-nears-release-flagship-gemini-4-ai-model), [The Verge](https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu))
 
 ## 2026-09-16 — DeepMind launches an AGI-focused institute, with Hassabis's new chairman title doing real work
 

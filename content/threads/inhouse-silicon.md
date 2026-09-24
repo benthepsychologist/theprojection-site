@@ -3,7 +3,7 @@ title: In-House Silicon
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-17
+last_seen: 2026-09-22
 weight: 2
 entities:
 - google
@@ -20,6 +20,10 @@ blurb: The custom-silicon revolt (TPU/Trainium/Maia/MTIA) — real but INFERENCE
   demand still grows; the clearest winners are the co- design houses (Broadcom, Marvell).
   Watch whether displacement reaches frontier training.
 ---
+
+## 2026-09-22 — Google pitches TPUs to Korea, outside its own cloud
+
+- **Google has offered South Korea priority supply of its TPU accelerators for the country's sovereign-AI data-center buildout, following an April announcement that it would sell TPUs to data centers outside Google Cloud.** Seoul Economic Daily reports Google met Korean AI-strategy officials on 09-09, cites Morgan Stanley's estimate of Google direct TPU sales of $84bn in 2027 and $108bn in 2028, and notes Anthropic's plan to expand TPU use from 1GW this year to 5GW next year; an unnamed Korean industry official told the paper Nvidia GPU delivery lead times run "as long as 30 weeks" and that Google is exploiting the gap. It moves the TPU from an in-house inference chip toward a product sold to third parties and governments, which is a step past the inference-only framing on this thread. ([Seoul Economic Daily](https://en.sedaily.com/technology/2026/09/22/google-joins-nvidia-amd-in-race-for-koreas-ai-infrastructure))
 
 ## 2026-09-17 — Broadcom's Sept 2 earnings call named OpenAI as a 4th custom-silicon customer, $10B in orders, Jalapeño already shipping
 

@@ -3,7 +3,7 @@ title: AI Denial Machine
 lens: mental-health
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-17
+last_seen: 2026-09-24
 weight: 2
 entities:
 - unitedhealth-group
@@ -20,6 +20,10 @@ blurb: 'The concept lived in board glosses; now the evidence supports a thread: 
   the UHC discovery outputs, WISeR''s fate, state AI-denial bans spreading, and Humana''s
   nH Predict suit (quiet, distinct docket).'
 ---
+
+## 2026-09-24 — The Blues put a $942M price on hospital AI coding
+
+- **The Blue Cross Blue Shield Association said hospitals' growing use of AI coding tools cost its member plans an estimated $942 million more over two years for similar care.** Its claims analysis found the share of inpatient stays classed as medically complex rose from 37% at the start of 2023 to 40% by the end of 2025, about 70% of the increase coming from more than 55,000 extra cases where secondary diagnoses pushed a claim into a higher-paying diagnosis-related group ($653 million, roughly $11,000 per excess case), with, BCBSA says, no matching change in care delivered. This is an insurer's own analysis of its own claims, not an independent study; it follows a March 2026 BCBSA maternity-coding analysis that put similar spending at about $2.3 billion, and the New York Times frames the pair as an AI-versus-AI escalation of the hospital-insurer feud over payment, the mirror image of this thread's insurer-denial story. ([Fierce Healthcare](https://www.fiercehealthcare.com/finance/hospitals-use-ai-coding-tools-cost-bcbsa-plans-942m-more-similar-care-analysis), [Reuters](https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/), [New York Times](https://www.nytimes.com/2026/09/24/business/ai-hospitals-insurers-health-care-costs.html))
 
 ## 2026-09-15/16 — FOIA documents answer this thread's standing "WISeR's fate" watch: staggering denial rates and a pay-per-denial structure
 

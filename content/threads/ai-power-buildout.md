@@ -3,7 +3,7 @@ title: Power Buildout
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-23
+last_seen: 2026-09-24
 weight: 3
 entities:
 - spacex
@@ -16,6 +16,10 @@ blurb: Where the capex lands in POWER — the real bottleneck. Nuclear-for-AI (S
   Oklo/X-Energy), gas turbines (the Colossus permit fights), grid deals, and the energy-justice/permitting
   battles. Category meta under where-the-capex-lands.
 ---
+
+## 2026-09-24 — Fervo's Cape Station puts its first enhanced-geothermal power on the grid
+
+- **Fervo Energy said its Cape Station in Beaver County, Utah reached First Power on Thursday, the first utility-scale enhanced geothermal project to do so anywhere in the world.** The first of three 33-megawatt "GeoBlocks" in the roughly 100MW first phase is exporting electricity and is due to reach commercial operation by 10-01, the other two by 01-01-2027, with a further 400MW under construction for 2028 and about 900MW of offtake contracted. Cape Station is the project behind the record 396MW enhanced-geothermal deal Google signed on 09-01. Fervo's release names data centers and AI infrastructure among the demand drivers. ([Fervo Energy](https://fervoenergy.com/fervo-energy-achieves-first-power-at-cape-station-a-landmark-moment-for-the-future-of-enhanced-geothermal-systems/))
 
 ## 2026-09-23 — Meta signs its seventh Apex Clean Energy PPA, a 144MW Texas solar deal feeding the ERCOT grid rather than a specific site
 
@@ -30,6 +34,10 @@ blurb: Where the capex lands in POWER — the real bottleneck. Nuclear-for-AI (S
 
 - **Nvidia, Google and Emerald AI launched the AI Energy Management Alliance (AEMA) on 09-16, a coalition of 18 launch partners — including Anthropic, National Grid, AES, Constellation, NRG and RWE — aimed at making AI data centers dynamically shift and shed compute load in response to grid conditions rather than drawing fixed, unmanaged power.** The alliance's own claim: flexible, grid-aware operation could unlock up to 100GW of existing grid capacity nationally without building new generation, and save roughly $733M in system costs per gigawatt of new buildout avoided. This is a different lever than every deal this thread otherwise tracks (new generation, PPAs, on-site gas/geothermal) — it targets the demand side of the buildout rather than the supply side, aimed at the interconnection queue that has been the binding constraint across this thread's siting fights.
   ([Nvidia blog — primary](https://blogs.nvidia.com/blog/ai-energy-management-alliance/), [Fortune](https://fortune.com/2026/09/16/data-centers-ai-energy-management-alliance-emerald-google-nvidia-anthropic/), [TechCrunch](https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/))
+
+## 2026-09-15 — ERCOT's conditional grid classifications reach the first named data-center developer
+
+- **Cipher Digital said ERCOT gave conditional "Batch Zero" classifications to 3.2 gigawatts of its proposed Texas data-center projects: 1.1GW conditional base load (1GW at Colchis, 100MW at Stingray) and 2.1GW conditional studied load across four sites, with final designations expected in December after Governor Abbott's data-center audit.** Base load counts as established for the batch study, while studied load depends on a system-wide assessment of grid capability, and some sites qualify for a framework letting controllable demand run ahead of full transmission buildout at the risk of curtailment. ERCOT notified transmission providers of the conditional classifications on 09-03; Cipher's shares rose about 9% on 09-16. The disclosure is company-reported. ([TheEnergyMag](https://theenergymag.com/news/market-news/cipher-texas-ercot-batch-zero), [Crypto Briefing](https://cryptobriefing.com/cipher-digital-ercot-3gw-conditional-classification/))
 
 ## 2026-09-09 — Massachusetts becomes the third state in three months to restrict data centers, requiring 100% clean power for anything over 25MW
 

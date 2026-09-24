@@ -3,7 +3,7 @@ title: Lab IPO Wave
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-22
+last_seen: 2026-09-23
 weight: 3
 entities:
 - openai
@@ -28,6 +28,10 @@ blurb: 'The frontier labs are converting private, vendor-financed valuations int
   does Anthropic''s S-1 land on schedule, and does OpenAI''s own timeline (currently
   "as late as next year") move.'
 ---
+
+## 2026-09-23 — Nscale's biggest customer supplied 73% of its revenue and is not named in the IPO filing
+
+- **One unnamed customer accounted for 73% of Nscale's 2025 revenue and 52% of its first-half 2026 revenue, the company's IPO filing says, and the Financial Times reported the customer is a ByteDance-linked Singapore unit mentioned only in an appendix.** The S-1 says the same customer should fall below 20% of revenue in 2026 as Microsoft (up to about $43.8bn of statements of work through 2033) and Anthropic (about $44.6bn) contracts scale, which together make up roughly $88bn of its $103.4bn contracted backlog, and the filing's own text does not name the customer. ([Nscale S-1 on SEC EDGAR](https://www.sec.gov/Archives/edgar/data/2110365/000119312526395475/ck0002110365-20260918.htm), [The Decoder, citing the Financial Times](https://the-decoder.com/nvidia-backed-nscale-keeps-its-biggest-customer-bytedance-out-of-its-ipo-filing/))
 
 ## 2026-09-22 — Nscale's S-1 discloses it once carried "substantial doubt" about its own survival as a going concern
 

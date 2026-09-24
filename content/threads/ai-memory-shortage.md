@@ -3,7 +3,7 @@ title: Memory Squeeze
 lens: ai
 status: developing
 opened: 2026-06-27
-last_seen: 2026-09-16
+last_seen: 2026-09-24
 weight: 2
 entities:
 - samsung
@@ -21,6 +21,18 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   push (charging ABOVE Samsung; new modules with no price relief; DoD ban overhang),
   and who blinks first on capex.'
 ---
+
+## 2026-09-24 — China's memory expansion is expected to feed China first
+
+- **TrendForce, summarizing Taiwanese and Korean press, reports CXMT's monthly DRAM capacity rising from about 320,000 to 420,000 wafers by 2027 and YMTC's third Wuhan fab starting up by end-2026, but says institutional investors expect China's own AI and cloud demand to absorb most of the new supply, so it will not ease the global shortage until 2027 or later.** TrendForce's own tracker puts CXMT at 9.5% of global DRAM revenue in 2Q26, up from 7.6% in 1Q26 and fourth behind Samsung (39.4%), SK hynix (24.9%) and Micron (23.3%); Counterpoint's ">10%" figure logged 09-01 uses a different tracker. ([TrendForce](https://www.trendforce.com/news/2026/09/24/news-cxmt-ymtc-ramp-memory-capacity-but-chinas-ai-cloud-boom-could-soak-up-new-supply-through-2027/))
+
+## 2026-09-23 — A patent case puts Micron's US DRAM imports, and its server customers, in the dock
+
+- **The US International Trade Commission opened a Section 337 investigation that could bar imports of Micron DRAM, naming Micron, Hewlett Packard Enterprise, Lenovo and Super Micro Computer as respondents.** The complaint was filed by Netlist on August 11 (supplemented August 25) and asks for a limited exclusion order and cease-and-desist orders; the investigation is numbered 337-TA-1523. Instituting a case is not a ruling on the merits: an administrative law judge will hold an evidentiary hearing and issue an initial determination that the Commission can review. Micron is the memory supplier at the centre of the AI-server squeeze, so a remedy would hit supply as well as one company's sales, though nothing of the sort is close. ([USITC](https://www.usitc.gov/press_room/news_release/2026/er0923_69264.htm), [PR Newswire](https://www.prnewswire.com/news-releases/us-international-trade-commission-votes-to-institute-investigation-into-micron-technology-inc-302888468.html))
+
+## 2026-09-22 — Burry adds to shorts on Micron and the chip ETF, betting the shortage ends
+
+- **Michael Burry said Tuesday 09-22 that he added to his short positions in Micron, Nebius, Palantir and the iShares Semiconductor ETF, arguing chip prices are inflated by a supply bottleneck and will fall when capacity arrives.** He has been short semiconductors since the end of last year; his stated mechanism is the exact reversal this thread watches for (capacity expansion ending the squeeze), with Micron's fiscal Q4 report due 09-30. ([Investor's Business Daily](https://www.investors.com/news/micron-technology-michael-burry-palantir-semiconductors-ai-stocks-nebius/))
 
 ## 2026-09-16 — SK Hynix, fresh off its own Nasdaq listing, opens talks with Intel about manufacturing memory chips on US soil for the first time
 

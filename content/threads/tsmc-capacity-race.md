@@ -3,7 +3,7 @@ title: TSMC Capacity Race
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-18
+last_seen: 2026-09-23
 weight: 3
 entities:
 - tsmc
@@ -17,6 +17,10 @@ blurb: 'The chokepoint is cashing in: capex raised 15% to $60-64B + another $100
   ban, 07-21). "Nvidia overtook Apple as top customer" is contested, not settled.
   Our ~90% advanced-node anchor is carried, not re-verified. Next: Q3 earnings.'
 ---
+
+## 2026-09-23 — TSMC reportedly set to raise wafer prices 3-6% from January 2027
+
+- **TSMC is reportedly planning to raise wafer foundry prices 3% to 6% from January 2027, with the steepest increases on its most advanced processes, Digitimes reported, citing supply-chain sources.** Digitimes says TSMC's order visibility now runs to 2030, with 8-inch fabs above 100% utilisation and processes at 45nm and below fully loaded; the range compares with the 5-10% baseline reported in July. TSMC did not respond to Benzinga's request for comment, so this is a report, not a company announcement. ([Digitimes](https://apps.digitimes.com/news/a20260924PD214/tsmc-wafer-price-2027-demand.html), [Benzinga](https://www.benzinga.com/markets/tech/26/09/61964879/tsmc-reportedly-plans-to-hike-wafer-price-next-year))
 
 ## 2026-09-10 — August revenue breaks NT$500B for the first time, up 53% YoY, on AI-chip demand
 

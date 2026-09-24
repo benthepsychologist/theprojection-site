@@ -3,7 +3,7 @@ title: Neuromodulation
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-22
+last_seen: 2026-09-23
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -18,6 +18,10 @@ blurb: 'The somatic bet where evidence actually caught up — and the test of wh
   trial-to-real-world gap risk), the EEG-biomarker (L-ACC beta power) treatment-selection
   angle, and further confirmatory work.'
 ---
+
+## 2026-09-23 — A stimulation device for stimulant use disorder gets a breakthrough designation
+
+- **The FDA granted Breakthrough Device Designation to NET Recovery's transcutaneous alternating-current stimulation device as an aid in reducing stimulant use in adults with cocaine or methamphetamine use disorder, a condition with no FDA-approved drug or cleared device (company announcement, 09-23).** The device is already cleared for opioid-withdrawal symptoms; the designation covers a proposed new indication and buys expedited review without changing clearance requirements, and the company says it is still designing a pivotal randomized trial and expects the De Novo pathway, so this is a regulatory status, not efficacy evidence. ([PR Newswire](https://www.prnewswire.com/news-releases/net-recovery-granted-fda-breakthrough-device-designation-for-stimulant-use-disorder-where-no-drug-is-fda-approved-or-medical-device-fda-cleared-302886966.html), [Psychiatric Times](https://www.psychiatrictimes.com/view/fda-grants-breakthrough-device-designation-to-net-recovery-s-device-for-stimulant-use-disorder))
 
 ## 2026-09-22 — A home-delivered spaced tDCS trial for treatment-resistant depression is registered with NIMH support
 
