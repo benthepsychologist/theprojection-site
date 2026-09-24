@@ -3,7 +3,7 @@ title: Big Tech into Health
 lens: mental-health
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-22
+last_seen: 2026-09-24
 weight: 3
 entities:
 - microsoft
@@ -17,6 +17,10 @@ blurb: The wave of the AI giants moving into health/MH — the cross-actor narra
   threads below; watch which giant's health push is real vs. announced, and where
   MH specifically shows up.
 ---
+
+## 2026-09-24 — OpenEvidence raises $250 million at a $15 billion valuation
+
+- **OpenEvidence, the clinical AI search company, raised $250 million from hospital systems and Andreessen Horowitz at a $15 billion valuation, Business Insider reported Thursday, citing people familiar with the matter.** The valuation is up from $12 billion in January; the company has raised more than $1 billion in the past year, Business Insider said it could be open to an acquisition that includes access to compute, which it could not verify, and Anthropic announced a partnership with it this week. ([Business Insider](https://www.businessinsider.com/chatgpt-for-medicine-openevidence-fielding-valuation-2026-9))
 
 ## 2026-09-22 — Anthropic and OpenEvidence take free clinical AI to about 100 low- and middle-income countries
 

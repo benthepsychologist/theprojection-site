@@ -3,7 +3,7 @@ title: Chatbot Bans
 lens: mental-health
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-21
+last_seen: 2026-09-23
 weight: 2
 entities:
 - character-ai
@@ -16,6 +16,10 @@ blurb: 'The wave is ~10+ enacted instruments in two species (crawl 2026-07-22 co
   these laws (so far only xAI v. Colorado''s discrimination law); Colorado-mandate
   copycats.'
 ---
+
+## 2026-09-23 — Two Pennsylvania House members circulate a bill to bar chatbots posing as licensed professionals
+
+- **Two Pennsylvania House members, Republican Jason Ortitay and Democrat Joe Ciresi, circulated a memo on 09-23 seeking co-sponsors for a bill that would bar AI chatbots from falsely claiming to hold a Pennsylvania professional license.** The bill has not been introduced; it would also cover false credentials such as invented license numbers, give the state Attorney General enforcement power with civil penalties, and require a chatbot to say it is not a licensed professional whenever it discusses matters within a licensed profession. The memo says it closes a gap exposed by Governor Josh Shapiro's May suit against Character.AI, in which a chatbot posed as a licensed psychiatrist and gave an invalid license number, because that suit had to rest on the Medical Practice Act, which covers only the practice of medicine. ([Pennsylvania House co-sponsorship memo](https://www.palegis.us/house/co-sponsorship/memo?memoID=49274), [ABC27](https://www.abc27.com/pennsylvania/proposed-bipartisan-legislation-cracks-down-on-ai-chatbots-claiming-to-be-licensed-professionals/))
 
 ## 2026-09-11 — SB 1119, "Adam's Law," is confirmed signed — the country's first statutory child-safety-audit mandate for companion chatbots — while the other four tracked California bills sit unsigned with twenty days left
 

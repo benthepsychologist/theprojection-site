@@ -3,7 +3,7 @@ title: Grok
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-22
+last_seen: 2026-09-24
 weight: 2
 entities:
 - spacex
@@ -18,6 +18,10 @@ blurb: 'The Grok line closing the frontier gap as a FAST FOLLOWER, not mid-pack 
   amid Musk hype), the $60B Cursor bet arming coding, and whether owning the mines
   sustains a lead vs. OpenAI/Anthropic.'
 ---
+
+## 2026-09-24 — Musk says SpaceXAI could match a Fable or GPT-6-level model in two to three months
+
+- **Elon Musk said SpaceXAI could have a model at "Fable/GPT-6 level" within two to three months and reach "pole position" in AI in about six months if its rate of improvement holds** In a Thursday exchange on X he said SpaceX's AI effort is three years old against six for Anthropic and ten for OpenAI and that bringing compute online quickly is the main constraint; it is a forecast, not a release. ([TeslaNorth](https://teslanorth.com/2026/09/24/musk-spacexai-ai-pole-position/), [Forbes](https://www.forbes.com/sites/antoniopequenoiv/2026/09/24/elon-musk-says-spacexs-ai-models-may-surpass-anthropic-and-openais-in-6-months/))
 
 ## 2026-09-22 — Grok Bot reported at 418,000 weekly users, a month after launch
 

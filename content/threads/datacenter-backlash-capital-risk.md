@@ -3,7 +3,7 @@ title: The Backlash Prices In
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-23
+last_seen: 2026-09-24
 weight: 2
 entities:
 - openai
@@ -26,6 +26,10 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   an industry messaging campaign, if one emerges, changes the polling or the moratorium
   count.'
 ---
+
+## 2026-09-24 — A New Mexico congresswoman calls for a data-center pause as Oracle's Jupiter project wobbles
+
+- **U.S. Rep. Teresa Leger Fernández called Thursday for a "pause" on data centers in New Mexico and published "No Blank Checks for Data Centers" standards, on the day Bloomberg reported Oracle's force majeure notice on Project Jupiter.** The standards require a data center to show it will not raise electricity bills or harm water resources, meet the state's renewable-energy requirements, create well-paid union jobs, take no taxpayer subsidies and win community approval; state lawmakers are preparing to consider a moratorium next session, Democratic gubernatorial candidate Deb Haaland says she would sign a moratorium order on her first day, and the State Ethics Commission reported last week that Oracle spent more than $3.4 million on advertising aimed at influencing Jupiter's air-permit process. ([Source NM](https://sourcenm.com/2026/09/24/u-s-rep-leger-fernandez-calls-for-pause-on-data-centers-in-new-mexico-as-oracle-stock-falls/))
 
 ## 2026-09-23 — Data-center fights turn to threats and arrests; Maryland's governor and his opponent trade blame
 

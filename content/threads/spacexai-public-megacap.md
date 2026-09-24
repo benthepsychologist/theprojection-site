@@ -3,7 +3,7 @@ title: Musk Megacap
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-22
+last_seen: 2026-09-24
 weight: 1
 entities:
 - spacex
@@ -19,6 +19,10 @@ blurb: 'SpaceX (Nasdaq: SPCX) — the public parent holding xAI + X (crawl 2026-
   Watch: the Aug-6 lock-up (911.5M shares); Musk''s ~82% voting control; whether the
   Anthropic lease-back is real revenue or circular financing. Q7 material.'
 ---
+
+## 2026-09-24 — About 328 million SpaceX shares come out of lockup, with two more tranches due in October
+
+- **About 328 million SpaceX shares came out of post-IPO lockup on Thursday, roughly $48.7bn at Wednesday's $148.36 close, with further tranches due October 9 and October 24; the stock was down about 1% at $146.95 at 3:39pm ET.** Stocktwits said the release follows 911.5 million shares on August 6 and 319 million on August 20, and that becoming eligible does not mean holders will sell; Mizuho reiterated Outperform with a $200 target, and an SEC filing dated 09-22 showed President Gwynne Shotwell proposed selling 342,170 shares worth about $52 million. ([Stocktwits via Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/spacex-lockup-expiry-mizuho-reiterates-153149780.html))
 
 ## 2026-09-22 — OpenAI's court brief quotes SpaceX's IPO prospectus on Grok's competitive position
 
