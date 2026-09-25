@@ -3,7 +3,7 @@ title: AI Therapy Evidence
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-23
+last_seen: 2026-09-25
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -15,6 +15,10 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   maturing into a real subfield: VERA-MH benchmark, RAND''s intermediate-risk failures,
   EmoAgent.'
 ---
+
+## 2026-09-25 — Spring Health expands its VERA-MH AI-safety benchmark to cover harm from others
+
+- **Spring Health expanded VERA-MH, the open-source AI mental-health safety benchmark, into a second clinical-safety area on 09-25: a "harm-from-others" rubric scoring how AI systems respond when an adult describes being at risk of physical or sexual violence from another person, opened for 60 days of public comment ahead of Domestic Violence Awareness Month.** Developed with clinicians, interpersonal-violence experts and people with lived experience, the rubric scores responses across five areas — detecting the risk, confirming it, guiding the person to human care, supportive conversation, and following AI boundaries — using 100 realistic personas, and follows VERA-MH's original suicidal-ideation rubric, which OpenAI's newly published MentalHealthBench paper cites as one of the few frameworks built specifically to assess safe AI responses to risk. VERA-MH is open source on GitHub for any organization, including general-purpose AI model builders, to use to test their own systems. ([PR Newswire](https://www.prnewswire.com/news-releases/spring-health-opens-vera-mh-harm-from-others-safety-rubric-for-public-comment-302890379.html))
 
 ## 2026-09-23 — A NIMH-funded trial of a voice-based AI coach posts its results, with human-coached and delayed-treatment arms
 

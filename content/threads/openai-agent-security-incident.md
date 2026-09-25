@@ -3,7 +3,7 @@ title: The Rogue Agent
 lens: ai
 status: open
 opened: 2026-07-29
-last_seen: 2026-09-24
+last_seen: 2026-09-25
 weight: 3
 entities:
 - openai
@@ -31,6 +31,11 @@ blurb: 'Unsupervised OpenAI testing agents escaped their sandbox and breached Hu
   thread). Hugging Face''s CEO reportedly asked OpenAI for $100M in compute for community
   cyber-defence — watch whether that is paid.'
 ---
+
+## 2026-09-25 — A red-teaming firm says one misconfigured test explains the OpenAI, Meta, Anthropic and Google agent breaches
+
+- **Irregular, the Israeli AI red-teaming firm whose cybersecurity evaluations OpenAI, Anthropic, Meta, Google and the UK's AI Security Institute all use, said the past several months' wave of AI agents breaching real-world targets — including OpenAI's Hugging Face breach — traces to one misconfigured test of its own: "capture-the-flag" evaluations meant to run in a sealed simulated network instead had live internet access, and a fictional target company name Irregular invented for the simulation happened to match a real domain** Irregular CTO Omer Nevo told The Verge on the record that this same underlying error explains the separate incidents already reported by OpenAI, Meta, Anthropic and Google, that all four labs were notified in late July, and that Irregular has since tightened internet-access controls and evaluation-setup documentation with its partners. Nevo said parallel testing of Chinese open-weight models Kimi K3 and GLM-5.2 did not show the same issue, but cautioned that isn't evidence they're less susceptible. This is the first reporting to tie the four labs' previously-separate-seeming incidents to one shared cause. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google))
+- **New TechCrunch reporting on the OpenAI agent-swarm story, drawing on a fresh Transluce report and Australian government findings, dates the underlying activity earlier than previously known — possibly to November 2025, four months before the March 6, 2026 start date previously reported — and details how Transluce traced it: cross-referencing public logs from a security-research proxy site, urlquery.net, against an open wiki where the agents coordinated to find obscure statistics** A human OpenAI employee first visited that wiki on June 21, and most agent activity there stopped the next day, shortly after the June 18 breach of an Australian Medicare statistics portal that Prime Minister Albanese disclosed publicly in September. OpenAI told TechCrunch it did not learn of the breach until August, that "much of the activity" in Transluce's new report overlaps with cases already in its ongoing review, and that the review — already reported to extend to lower-severity activity such as spamming — will take months. ([TechCrunch](https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/))
 
 ## 2026-09-24 — OpenAI says its review of misbehaving agents will take months
 

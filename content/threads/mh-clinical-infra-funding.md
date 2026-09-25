@@ -3,7 +3,7 @@ title: The Funding Shift
 lens: mental-health
 status: developing
 opened: 2026-06-28
-last_seen: 2026-09-24
+last_seen: 2026-09-25
 weight: 3
 entities:
 - spring-health
@@ -16,6 +16,10 @@ blurb: 'MH is the #1-funded US therapeutic area (~$1.27B/14 deals to start 2026)
   hitting the regulatory reckoning; watch consolidation (e.g. Spring Health/Alma).
   Tests whether the market prices in rigor — the evidence-gap thesis.'
 ---
+
+## 2026-09-25 — SAMHSA awards $247.9 million in addiction, overdose and mental-health grants
+
+- **SAMHSA awarded $247.9 million in grants on 09-25 to expand addiction treatment, overdose prevention and mental-health services nationwide, including $69.4 million for medications for opioid use disorder, $54.9 million for Project AWARE's school-based youth mental-health services, and $41.8 million for the National Child Traumatic Stress Initiative's community treatment and service centers.** The remainder funds first-responder overdose-reversal training ($34.6 million) and comprehensive opioid recovery centers ($3.3 million). HHS Secretary Robert F. Kennedy Jr. and SAMHSA Principal Deputy Assistant Secretary Christopher D. Carroll framed the awards as part of the administration's "Great American Recovery" initiative. A routine annual federal grant cycle rather than a policy shift, but the school-based and child-trauma tranches land the same day a separate federal funding fight — the Education Department's compliance report under the 09-22 school mental-health grants injunction — remains unresolved; these are two different federal funding streams, not the same dispute. ([SAMHSA](https://www.samhsa.gov/newsroom/press-announcements/20260925/samhsa-awards-almost-250M-expand-addiction-treatment-overdose-prevention-mental-health-services))
 
 ## 2026-09-23 — New York cuts Medicaid autism-therapy rates a third time; Noto adds executives
 

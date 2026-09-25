@@ -3,7 +3,7 @@ title: Anthropic IPO
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-20
+last_seen: 2026-09-25
 weight: 2
 entities:
 - anthropic
@@ -14,6 +14,10 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
   or flip-to-public, valuation vs the $965B print, and how the Opus 5 cycle + the
   AMD/Azure/Google-TPU compute deals get positioned in the roadshow narrative.'
 ---
+
+## 2026-09-25 — Anthropic's founders ask for 50.1% voting control ahead of the IPO
+
+- **Anthropic's seven co-founders are asking shareholders to approve, in the coming days, a share structure giving them a combined 50.1% of the vote on most corporate matters ahead of the company's IPO, The Information reported** Each founder holds roughly 2% of the company outright; the new shares carry no extra economic value but preserve group control once Anthropic trades publicly, conditioned on at least three of the seven keeping a minimum stake. Anthropic's Long-Term Benefit Trust would still choose most of the board, founders' board seats would grow from two to three, and employees would get separate stock to break ties on some issues; the company was valued at $965bn in a May funding round and has recently traded around $1.5 trillion on the secondary market. ([TechCrunch, citing The Information](https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/))
 
 ## 2026-09-19 — Anthropic pushes its IPO from October to November
 

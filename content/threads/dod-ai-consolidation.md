@@ -3,7 +3,7 @@ title: DAWG Rising
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-18
+last_seen: 2026-09-25
 weight: 2
 entities: []
 thread_kind: story
@@ -12,6 +12,10 @@ blurb: 'CDAO absorbed into DAWG, Replicator absorbed too, funding moved into REC
   a 240x ask. GenAI.mil gives the force Gemini/Grok access. Track: what the FY27 conference
   actually grants, oversight pushback on the reconciliation route, and vendor wins.'
 ---
+
+## 2026-09-25 — A divided D.C. Circuit panel lets the Pentagon keep Anthropic designated a supply-chain risk
+
+- **A divided D.C. Circuit panel ruled 2-1 on Friday that the Pentagon may keep its second supply-chain-risk designation of Anthropic in place, so the block on Claude in defence systems can continue** The majority wrote that the department "had ample support for its conclusion" that integrating Claude "presented a statutorily covered national-security risk," and rejected Anthropic's due-process and free-speech claims. Judge Rita Lin's August ruling against the other designation stands. Anthropic said it is "considering all options," which could include asking the full court or the Supreme Court to review it. ([Wired](https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/))
 
 ## 2026-09-18 — Pentagon investigators cite overreliance on Palantir's Maven in the Minab school strike
 

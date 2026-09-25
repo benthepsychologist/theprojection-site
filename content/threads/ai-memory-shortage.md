@@ -3,7 +3,7 @@ title: Memory Squeeze
 lens: ai
 status: developing
 opened: 2026-06-27
-last_seen: 2026-09-24
+last_seen: 2026-09-25
 weight: 2
 entities:
 - samsung
@@ -21,6 +21,10 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   push (charging ABOVE Samsung; new modules with no price relief; DoD ban overhang),
   and who blinks first on capex.'
 ---
+
+## 2026-09-25 — SK Hynix's Solidigm weighs a $150bn US IPO
+
+- **SK Hynix's US-based NAND/SSD subsidiary Solidigm is weighing an IPO as soon as next year that could value the unit at up to $150 billion and raise about $15 billion, Reuters reported, citing three people familiar with the matter** The chipmaker held pitch meetings this week with investment banks competing for roles; a deal at that size would rank as the largest-ever US semiconductor listing. Solidigm, formed when SK Hynix bought Intel's NAND/SSD business for about $9bn in 2020, supplies the high-capacity enterprise SSDs used in AI servers and data centers; deal size and timing remain early-stage and could change with market conditions. ([Yahoo Finance/Investing.com, citing Reuters](https://finance.yahoo.com/markets/stocks/articles/sk-hynix-u-based-solidigm-175825373.html))
 
 ## 2026-09-24 — China's memory expansion is expected to feed China first
 

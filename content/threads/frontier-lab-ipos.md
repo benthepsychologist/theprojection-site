@@ -3,7 +3,7 @@ title: Lab IPO Wave
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-23
+last_seen: 2026-09-25
 weight: 3
 entities:
 - openai
@@ -28,6 +28,10 @@ blurb: 'The frontier labs are converting private, vendor-financed valuations int
   does Anthropic''s S-1 land on schedule, and does OpenAI''s own timeline (currently
   "as late as next year") move.'
 ---
+
+## 2026-09-25 — Nscale's convertible financing grows to $3.36B, with Nvidia's $1B arriving mid-November
+
+- **British AI neocloud Nscale secured $3.36 billion in convertible-note financing ahead of its NYSE IPO, led by hedge fund Third Point, with $2.36 billion available to the company immediately and $1 billion from existing investor Nvidia arriving in mid-November, the company said Friday.** The notes convert into equity once the IPO completes. The total is up from the roughly $3.1 billion reported on 09-18, when Nvidia's share was given only as "at least $1 billion". Nscale, which filed its S-1 on 09-18, has amassed more than $103 billion in contracts since spinning out of Australian crypto-mining company Arkon Energy two years ago; the Financial Times puts its expected NYSE valuation at $35 billion, and Bloomberg reports it is seeking to raise $3 billion in the offering. ([TechCrunch](https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/))
 
 ## 2026-09-23 — Nscale's biggest customer supplied 73% of its revenue and is not named in the IPO filing
 

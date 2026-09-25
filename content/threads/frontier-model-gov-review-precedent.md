@@ -3,7 +3,7 @@ title: Frontier Gatekeeping
 lens: ai
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-24
+last_seen: 2026-09-25
 weight: 3
 entities:
 - openai
@@ -20,6 +20,11 @@ blurb: 'The gpt-5.6 gating dynamic made permanent — and it''s all one buildout
   is named (SRO?); Meta''s exclusion made official; CAISI leadership (3 directors
   in a year — can it run classified review?); the first model actually gated.'
 ---
+
+## 2026-09-25 — A divided D.C. Circuit panel upholds the Pentagon's other Anthropic supply-chain-risk designation, 2-1
+
+- **A divided panel of the US Court of Appeals for the D.C. Circuit ruled 2-1 that the Pentagon may keep Anthropic listed as a "supply chain risk," leaving the block on Claude models in federal use in place indefinitely, and rejected Anthropic's First Amendment and due-process claims** The majority wrote the department "had ample support for its conclusion" that integrating Claude posed a statutorily covered national-security risk, since Anthropic "encodes restrictions into Claude that prevent the model from performing tasks that Anthropic wishes to prevent," and held the exclusion followed Anthropic's refusal of a contract term rather than its criticism of the administration. It concerns the separate FASCSA-based designation that was pending in the D.C. Circuit after Judge Rita Lin's August 27 ruling voided the other designation on First Amendment grounds (that ruling stands, unaffected by Friday's); the same three-judge panel had already declined to temporarily block this designation in April. It is the first appellate merits ruling in either Anthropic supply-chain case (the same panel refused a temporary block in April) and lands weeks ahead of its planned IPO. Anthropic said it is "considering all options," including asking the full D.C. Circuit or the Supreme Court to review it. ([Wired](https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/))
+- **President Trump said Friday that Treasury Secretary Scott Bessent will not be his "Super Intelligence (SI) Czar", the AI role Trump announced on 09-19 alongside an "AI Force"** "Number One, he doesn't want to. Number Two, he's doing such a great job at Treasury, and that's where I want to keep him!" Trump wrote on Truth Social. Bessent had been seen as the front-runner after leading AI-focused talks with China's Vice Premier He Lifeng; the White House gave no word on who might be named instead. ([CNBC](https://www.cnbc.com/2026/09/25/trump-bessent-ai-czar.html), [Reuters, via WTVB](https://wtvbam.com/2026/09/25/trump-says-treasurys-bessent-will-not-be-his-ai-czar/))
 
 ## 2026-09-24 — White House memo casts Anthropic's Amodei as the face of AI "doomerism"
 
