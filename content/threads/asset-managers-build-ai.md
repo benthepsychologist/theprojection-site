@@ -3,7 +3,7 @@ title: Asset Managers Build
 lens: global-capital
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-18
+last_seen: 2026-09-25
 weight: 2
 entities:
 - blackrock
@@ -15,6 +15,10 @@ blurb: 'The capital pools stopped just financing the buildout and started OWNING
   Track: who buys the next hyperscaler asset, the SWF co-investor pattern, and whether
   "locked" fiduciary capital keeps sliding into physical AI infra.'
 ---
+
+## 2026-09-24 — A BlackRock-led consortium is in exclusive talks for Stack Infrastructure's $25bn Asia data-center portfolio
+
+- **A consortium including BlackRock's Artificial Intelligence Infrastructure Partnership and IFM Investors is in exclusive talks to buy Stack Infrastructure's Asia-Pacific data-center portfolio — spanning Tokyo, Osaka, Sydney and Melbourne — from Blue Owl Capital for up to $25 billion, Bloomberg reported Thursday.** The buyer group is preparing due diligence and hopes to reach agreement soon; Reuters could not independently verify the report, and BlackRock, IFM, Stack and AIP all declined to comment. Bloomberg had reported in May that Stack was weighing a sale of its Asia operations at more than $30bn, with IFM and AIP among the potential bidders as of June. It is a fresh acquisition target for the same BlackRock/AIP cohort already tracked on this thread through the Aligned and Hyperion deals, and the same Blue Owl that sold 80% of Meta's Hyperion venture is the seller here. ([Reuters, via KFGO](https://www.kfgo.com/2026/09/24/blackrock-ifm-close-in-on-25-billion-stack-data-center-deal-bloomberg-news-reports/))
 
 ## 2026-08-27 — KKR takes direct equity in a carrier's carved-out data-centre company
 

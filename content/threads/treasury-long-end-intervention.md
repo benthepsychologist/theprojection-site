@@ -3,7 +3,7 @@ title: Treasury's Long-End Defense
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-24
+last_seen: 2026-09-25
 weight: 3
 entities:
 - scott-bessent

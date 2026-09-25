@@ -3,7 +3,7 @@ title: Nuclear for AI
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-24
+last_seen: 2026-09-25
 weight: 2
 entities:
 - amazon-aws
@@ -16,6 +16,10 @@ blurb: The nuclear-for-AI wave — but ~0 net-new MW power any AI datacenter bef
   announced is <20% of projected demand; every genuinely new SMR/Gen-IV project is
   2030s-weighted. Watch which actually clear licensing.
 ---
+
+## 2026-09-25 — NRC and DOE issue the final environmental clearance for the Three Mile Island/Crane restart
+
+- **The Nuclear Regulatory Commission and the Department of Energy issued a final environmental assessment and finding of no significant impact for reauthorizing power operations at the Christopher M. Crane Clean Energy Center, formerly Three Mile Island Unit 1** The NRC is separately deciding whether to grant an exemption and three license amendments Constellation Energy requested, and DOE's Office of Energy Dominance Financing is deciding on a loan guarantee for refueling; Constellation's 2024 20-year power purchase agreement commits the reactor's 835 megawatts to Microsoft's data centers on the PJM grid. This finalizes a draft environmental assessment from June 2026 and is not itself a license decision. ([Federal Register / NRC](https://www.federalregister.gov/documents/2026/09/25/2026-19603/constellation-energy-generation-llc-christopher-m-crane-clean-energy-center-environmental-assessment))
 
 ## 2026-09-24 — The NRC proposes a wholesale rewrite of reactor licensing and oversight rules
 

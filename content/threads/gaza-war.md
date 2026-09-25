@@ -3,7 +3,7 @@ title: Gaza War
 lens: world-news
 status: open
 opened: 2026-08-01
-last_seen: 2026-09-24
+last_seen: 2026-09-25
 weight: 3
 entities: []
 thread_kind: story
@@ -37,6 +37,11 @@ blurb: 'Opened on Ben''s steer 2026-08-01, after a disarmament framework announc
   Ministry range as broadly accurate. Both the inflation and the undercount framings
   still circulate; report both, resolve neither.'
 ---
+
+## 2026-09-25 — AP: the Board of Peace has quietly met UNRWA despite saying it has no Gaza role; Turkey formally rebukes Netanyahu at the UN
+
+- **The US-created Board of Peace has met UNRWA officials at least three times since Gaza's ceasefire despite publicly saying the UN Palestinian refugee agency has no role in the strip's future, former UNRWA chief Philippe Lazzarini told the Associated Press in his first interview since leaving the post, corroborated by two senior UN officials and a Board of Peace official.** The Board official confirmed the meetings but said they were about making UNRWA's operations "far more efficient and accountable," insisting "UNRWA's days are over" even as its roughly 11,000 Gaza staff (more than any other agency) run about half of Gaza's public health system and 14,000 daily medical appointments. Israel wants UNRWA out of Gaza over unproven Hamas-infiltration allegations the International Court of Justice says have not been substantiated; reconstruction has not begun almost a year after the ceasefire because Israel still bars entry to the Palestinian technocratic committee pending Hamas disarmament. ([AP via ClickOnDetroit](https://www.clickondetroit.com/news/world/2026/09/25/board-of-peace-has-met-with-unrwa-despite-saying-it-has-no-gaza-role-agencys-ex-chief-says/))
+- **Turkiye formally rebuked Netanyahu's UN speech through a diplomat exercising its right of reply at the General Assembly on Friday, calling his accusations against President Erdogan "baseless and malicious," while senior Turkish officials issued separate, sharper statements.** Communications Director Burhanettin Duran called the remarks "insolent and vile," and AKP spokesman Omer Celik called them "insolent, aggressive and delusional"; Turkiye's statement pointed to the walkout during Netanyahu's speech as evidence of Israel's "growing international isolation" and reiterated support for a two-state solution on 1967 lines. ([Hurriyet Daily News](https://www.hurriyetdailynews.com/turkiye-rebukes-netanyahu-over-un-attacks-on-erdogan-227319))
 
 ## 2026-09-24 — Toll reaches 73,928; Hamas says it is ready to implement the Board of Peace roadmap
 

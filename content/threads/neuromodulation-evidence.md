@@ -3,7 +3,7 @@ title: Neuromodulation
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-23
+last_seen: 2026-09-25
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -18,6 +18,12 @@ blurb: 'The somatic bet where evidence actually caught up — and the test of wh
   trial-to-real-world gap risk), the EEG-biomarker (L-ACC beta power) treatment-selection
   angle, and further confirmatory work.'
 ---
+
+## 2026-09-25 — A brain-stimulation trial targets co-occurring depression and opioid use disorder
+
+- **The University of Kentucky registered a trial of brain stimulation for patients with co-occurring major depressive disorder and opioid use disorder (first posted 09-25).** No phase or participant count is yet available in the registry record; this is a dual-diagnosis population this lens's neuromodulation thread has not covered before. Registration only, no data. ([ClinicalTrials.gov NCT07842601](https://clinicaltrials.gov/study/NCT07842601))
+- **neurocare group AG and Wave Neuroscience announced a partnership on 09-25 to make Wave's FDA-cleared MeRT EEG-guided brain-stimulation therapy for PTSD available on neurocare's Apollo TMS platform.** MeRT uses EEG-derived brain-activity measurements to individualize TMS treatment parameters and won FDA clearance for adult PTSD in June 2026; neurocare's CEO frames the deal as expanding its "open ecosystem" of compatible neuromodulation technologies through its growing US installed base of Apollo TMS devices. A distribution and commercialization partnership, not new clinical evidence — no new trial or outcome data accompanies the announcement. Neither company has an existing thread mention; this is real-world commercial deployment of neuromodulation, exactly this thread's watch line. ([GlobeNewswire via Manila Times](https://www.manilatimes.net/2026/09/25/tmt-newswire/globenewswire/neurocare-and-wave-neuroscience-partner-to-expand-patient-access-to-fda-cleared-mert-therapy-for-ptsd-on-the-apollo-tms-therapy-system/2433023))
+- **Firefly Neuroscience and NeuroSigma announced a second neuromodulation distribution partnership the same day, 09-25: Firefly will introduce NeuroSigma's Monarch eTNS System, the first FDA-cleared non-drug treatment for pediatric ADHD, to the psychiatry, neurology and behavioral-health practices in its nationwide Evoke EEG/ERP clinician network.** Monarch is an at-home external trigeminal nerve stimulation device; Firefly's Evoke platform is its own FDA 510(k)-cleared AI-powered EEG/ERP system, so the deal pairs Firefly's brain-function measurement tool with NeuroSigma's treatment device. Firefly cites a 2024 Journal of Clinical Child & Adolescent Psychology estimate that about 7.1 million US children have an ADHD diagnosis and nearly a third of the 6.5 million with current ADHD get no ADHD-specific treatment. A second same-day distribution deal for an FDA-cleared brain-stimulation device, after neurocare/Wave Neuroscience — a real-world-deployment pattern worth watching, not necessarily a coordinated one. ([Yahoo Finance, GlobeNewswire release](https://finance.yahoo.com/healthcare/articles/firefly-nasdaq-aiff-neurosigma-partner-114500758.html))
 
 ## 2026-09-23 — A stimulation device for stimulant use disorder gets a breakthrough designation
 

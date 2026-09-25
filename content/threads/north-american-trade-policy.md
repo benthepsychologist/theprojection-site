@@ -3,7 +3,7 @@ title: The G7 Trade War
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-24
+last_seen: 2026-09-25
 weight: 2
 entities: []
 thread_kind: story
@@ -21,9 +21,14 @@ blurb: 'Whether the US-Canada tariff fight is a negotiating posture or a structu
   manufacturers by name.'
 ---
 
+## 2026-09-25 — Trump-Xi state visit ends with no chip, tariff or agricultural-purchase deal announced
+
+- **Trump and Xi's three-day state visit closed Friday morning with tea in the Red Room and a National Archives tour, with neither government announcing a chip, tariff or new agricultural-purchase agreement across the full visit.** U.S. Trade Representative Jamieson Greer told CNBC Friday that "a lot more details" on the US-China negotiations will be released Monday; China's Commerce Ministry and Foreign Ministry have each stopped short of confirming Treasury Secretary Bessent's Wednesday statement that the trade truce runs to January 10, and the Ministry held no briefing Friday for the Mid-Autumn Festival. ([CNBC live updates](https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html), [Al Jazeera](https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting))
+
 ## 2026-09-24 — China confirms first AI talks with the US hours before the summit
 
 - **China's Commerce Ministry confirmed Thursday that the two countries held their first talks on artificial intelligence and that senior negotiators also discussed plans to reduce tariffs and extend their trade arrangements, hours before Xi and Trump were due to meet at the White House.** Vice Premier He Lifeng and Treasury Secretary Bessent met in New York beforehand and the ministry said the talks reached multiple points of consensus; no summit outcome existed at the time of writing. ([CNBC](https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html))
+- **Treasury Secretary Bessent told Reuters on Thursday evening that China is meeting its commitment to buy 25 million tons of soybeans but is lagging on a separate $17bn pledge to buy other US agricultural goods, and that rare-earth deliveries are also falling short — new detail behind his Wednesday announcement of a two-month truce extension to January 10.** The extension defers the central disputes (tariffs, Chinese purchases, rare-earth supplies, technology restrictions) to the next round of talks rather than resolving them; no Chinese government document has named the January 10 date, including Friday's fuller official readout of the talks, which describes only a "new joint arrangement" between the trade teams. ([Reuters, via Yahoo Finance](https://www.yahoo.com/news/politics/articles/four-takeaways-trumps-summit-xi-205101025.html), [China MFA readout](https://www.fmprc.gov.cn/mfa_eng/xw/zyxw/202609/t20260925_12031181.html))
 
 ## 2026-09-23 — Xi flies to Washington for the Trump summit with a much smaller business delegation than expected
 

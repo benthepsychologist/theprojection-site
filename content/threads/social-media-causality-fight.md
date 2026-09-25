@@ -3,7 +3,7 @@ title: Social Media Fight
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-23
+last_seen: 2026-09-25
 weight: 2
 entities:
 - meta-ai
@@ -15,6 +15,10 @@ blurb: 'The Haidt vs. Odgers/Przybylski causality fight is generating fresh rebu
   real academic gains (6.4% test scores) but consistently null mental-health effects.
   Two different claims being cited as one.'
 ---
+
+## 2026-09-25 — Alabama's TikTok trial becomes the first teen-mental-health social-media suit to reach a jury
+
+- **An Alabama jury will hear the state's case against TikTok and ByteDance beginning Monday 09-28 in Montgomery, the first of at least 27 state lawsuits over the platform's alleged effects on teen mental health to reach trial, expected to last two to three weeks.** Alabama alleges TikTok designed its endless video feed and recommendation algorithm to keep children on the platform while steering some toward increasingly intense content involving violence and self-harm, and that it misled parents and consumers about its safeguards, age restrictions and the amount of sexual or violent material available to minors; the allegations have not been proven in court. TikTok says protecting teenagers is a priority and that federal law shields platforms from liability for user-created content; it did not respond to Reuters for comment. Alabama seeks financial penalties and other court-ordered relief, and the trial could surface internal TikTok material that has stayed sealed or redacted in earlier, settled cases. ([Reuters](https://www.reuters.com/world/us/first-us-trial-against-tiktok-test-claims-platform-fueled-teen-mental-health-2026-09-25/), [ThriveNews, syndicating Reuters](https://thrivenews.co/tiktok-alabama-trial-teen-mental-health/), [Alabama Attorney General's complaint](https://www.alabamaag.gov/wp-content/uploads/2025/04/2-Complaint.pdf))
 
 ## 2026-09-23 — Prince Harry warns AI companion chatbots are more dangerous to young people than social media
 

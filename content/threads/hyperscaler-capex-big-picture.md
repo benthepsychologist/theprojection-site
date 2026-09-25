@@ -3,7 +3,7 @@ title: Hyperscaler Capex
 lens: ai
 status: open
 opened: 2026-07-23
-last_seen: 2026-09-18
+last_seen: 2026-09-25
 weight: 3
 entities:
 - google
@@ -21,6 +21,10 @@ blurb: 'The combined 2026 plan is now ~$610-650B across the four (Google $195-20
   and capex migrating off balance sheets (Blue Owl, bonds, leases → the financing
   threads). Earnings Wed/Thu (Meta+MSFT 07-29, AMZN 07-30) are the live test.'
 ---
+
+## 2026-09-21 — JPMorgan's Dimon puts hyperscaler AI spending on course for $1 trillion in 2027
+
+- **JPMorgan chief executive Jamie Dimon said spending across the hyperscaler ecosystem has more than doubled from about $300 billion last year to around $700 billion this year and could reach $1 trillion next year.** Speaking to CNBC-TV18 at JPMorgan's India investor conference, he called the surge "like 1% increase to GDP each year" and warned it may also add to inflation. It bears directly on this thread's own tracked question of whether the ~$610-650bn combined 2026 plan across Google/Microsoft/Amazon/Meta is peaking — Dimon's figure covers the wider hyperscaler ecosystem, not just those four, and points the other way. The same quote is already logged on the sibling thread [The Great Rotation](/threads/chip-hyperscaler-rotation/) (dated 09-21, staged 09-24); flagging here since it wasn't yet on this thread and speaks to this thread's specific watch question. ([CNBC](https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html), [CNBC-TV18](https://www.cnbctv18.com/technology/ai/ai-capex-could-hit-1-trillion-next-year-says-jpmorgan-ceo-jamie-dimon-19995144.htm))
 
 ## 2026-09-10 — Microsoft's own plan answers this thread's "pulling back" question: triple capacity by 2032, not shrink it
 

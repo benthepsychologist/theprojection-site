@@ -3,7 +3,7 @@ title: Evidence Infrastructure
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-23
+last_seen: 2026-09-24
 weight: 2
 entities: []
 parent: mh-evidence-watch
