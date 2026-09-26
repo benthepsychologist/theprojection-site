@@ -3,7 +3,7 @@ title: Red Sea Shock
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-25
+last_seen: 2026-09-26
 weight: 3
 entities: []
 thread_kind: story
@@ -30,6 +30,10 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   policy. This is the capital-markets and risk-underwriting read of the war, deliberately
   distinct from the conflict itself.'
 ---
+
+## 2026-09-26 — Trump gives the first on-record US rejection of Iran's seven-day Hormuz plan
+
+- **President Trump told reporters Saturday, as he boarded Marine One, that he has rejected Iran's seven-day plan to reopen the Strait of Hormuz: "I reject their proposal... that deal would not be acceptable."** He said Iran wants an immediate reopening only because "they're losing so badly" and is short of oil revenue under the US blockade, which he called "the greatest blockade ever in military history," and posted an image of the strait on Truth Social relabelled the "Trump Strait." The remarks are the first on-the-record US answer since Friday's Wall Street Journal report (unnamed officials) and Foreign Minister Araghchi's Friday statement that the choice "rests with the United States"; no Iranian on-record reaction to this specific rejection was found by 3:10pm ET, and oil futures do not reopen until Sunday evening. ([CNN](https://www.cnn.com/2026/09/26/middleeast/trump-rejects-iran-proposal-hormuz-intl), [NBC News](https://www.nbcnews.com/world/iran/iran-says-choice-reopening-hormuz-rests-united-states-offer-rcna599956))
 
 ## 2026-09-25 — Iran says it is "not in a hurry" for a US response to its Hormuz proposal
 
