@@ -3,7 +3,7 @@ title: AI Debt Gets Rated
 lens: global-capital
 status: open
 opened: 2026-08-11
-last_seen: 2026-09-24
+last_seen: 2026-09-25
 weight: 2
 entities:
 - nvidia
@@ -27,6 +27,12 @@ blurb: 'Whether AI-buildout debt is becoming its own underwritten, rated, public
   an infrastructure asset with a 20-year life or like equipment on a 3-4 year depreciation
   clock — the two produce very different recovery rates in a default.'
 ---
+
+## 2026-09-25 — Japan's regulator turns to AI data-center lending; Reuters maps the operator IPO queue
+
+- **Japan's Financial Services Agency will step up its scrutiny of how banks and insurers assess the risks of financing AI data centers, particularly in the US, a senior FSA official told Bloomberg on Friday.** The agency is not discouraging the lending, and has listed project finance including data centers among its priorities for July 2026 to June 2027; Nippon Life alone plans about ¥2 trillion (roughly $12.8 billion) of infrastructure financing, with US data centers expected to take a significant share. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-25/japan-regulator-is-boosting-scrutiny-of-ai-data-center-financing), [PressInsider](https://pressinsider.com/news/japan-steps-up-scrutiny-of-ai-data-center-lending/))
+- **Singapore-based data-center operator DayOne plans to make its US IPO filing public in mid-October and list in November, aiming for a valuation of about $20 billion, Reuters reported, even as a tougher market has delayed rivals.** Three people familiar said Switch has filed confidentially and is expected to follow DayOne; Reuters also names Vantage and CyrusOne as exploring listings, and a Singapore analyst told it the dividing line is "whether demand is contracted and already energised, or only planned." ([Reuters](https://www.reuters.com/legal/transactional/data-center-ipo-hopefuls-brave-tougher-market-investor-scrutiny-grows-2026-09-25/), [Reuters via WIFC](https://wifc.com/2026/09/25/analysis-data-center-ipo-hopefuls-brave-tougher-market-as-investor-scrutiny-grows/))
+- **Kansas City Fed President Jeff Schmid said Friday the Fed needs to understand whether the network of firms and contracts around the AI and data-center build-out is becoming so large it is too big to fail.** "You worry a little bit about how do we understand what's inside... Is there anything systemic?" he said, referring to the 2007-2009 bailouts of major financial institutions; Reuters carried the remarks at about 10:40am ET. ([Reuters, via WIFC](https://wifc.com/2026/09/25/feds-schmid-need-to-understand-if-ai-ecosystem-getting-too-big-to-fail/))
 
 ## 2026-09-24 — A Brookings paper puts the AI buildout at $10.3 trillion and warns the financing is opaque
 

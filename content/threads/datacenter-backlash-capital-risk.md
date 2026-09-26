@@ -3,7 +3,7 @@ title: The Backlash Prices In
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-24
+last_seen: 2026-09-25
 weight: 2
 entities:
 - openai
@@ -26,6 +26,10 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   an industry messaging campaign, if one emerges, changes the polling or the moratorium
   count.'
 ---
+
+## 2026-09-25 — SpaceXAI offers to buy Southaven neighbours' homes if they drop out of the noise lawsuit
+
+- **SpaceXAI has sent residents near its Southaven, Mississippi power plant letters offering to buy their homes if they sign away claims in a pending class action over turbine noise.** The letters, reported Thursday and Friday, say the company denies the allegations but "requires property for its business purposes"; offers are reportedly based on Zillow estimates and list no prices. Three residents filed the suit in the Northern District of Mississippi in June, estimating more than 10,000 people live in the affected area, and a first conference is set for October 29 in Oxford. ([DeSoto Times-Tribune](https://www.desototimes.com/news/spacexai-offering-to-buy-homes-affected-by-noise-in-southaven/article_6effb2e9-9334-4a69-9ccf-f2da859996a8.html), [DeSoto County News](https://desotocountynews.com/mississippi-news/xai-southaven-home-buyout-offer/))
 
 ## 2026-09-24 — A New Mexico congresswoman calls for a data-center pause as Oracle's Jupiter project wobbles
 

@@ -3,7 +3,7 @@ title: Power Buildout
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-24
+last_seen: 2026-09-25
 weight: 3
 entities:
 - spacex
@@ -16,6 +16,10 @@ blurb: Where the capex lands in POWER — the real bottleneck. Nuclear-for-AI (S
   Oklo/X-Energy), gas turbines (the Colossus permit fights), grid deals, and the energy-justice/permitting
   battles. Category meta under where-the-capex-lands.
 ---
+
+## 2026-09-25 — Crusoe drops Boom Supersonic's turbine power plants
+
+- **Crusoe ended its plan to buy Boom Supersonic's gas-turbine power plants for its AI data centers, a $1.25 billion deal in TechCrunch's telling, after saying turbines are no longer part of its near-term primary power mix at Abilene and other sites** Boom's CEO said Boom will deliver about 250 megawatts to other sites next year and target 1 gigawatt in 2028; Crusoe says its 1.2-gigawatt Abilene campus for Oracle and OpenAI runs on the grid with turbines only as backup, while a separate 900-megawatt Abilene campus for Microsoft is planned to run on on-site gas turbines. ([TechCrunch](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/))
 
 ## 2026-09-24 — Fervo's Cape Station puts its first enhanced-geothermal power on the grid
 

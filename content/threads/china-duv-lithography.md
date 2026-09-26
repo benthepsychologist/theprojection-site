@@ -3,7 +3,7 @@ title: Homegrown DUV
 lens: ai
 status: open
 opened: 2026-07-29
-last_seen: 2026-09-18
+last_seen: 2026-09-24
 weight: 3
 entities:
 - cxmt
@@ -29,6 +29,14 @@ blurb: 'Whether China''s first mass-produced immersion DUV tool is real at manuf
   tied to this. NAMING: "Shanghai Yuliansheng"/"Yuliangsheng" is a PREDECESSOR team
   absorbed into Aishengna (alongside SMEE), not a rival programme — do not double-count.'
 ---
+
+## 2026-09-24 — Dutch prime minister says he has raised the MATCH Act with Trump and is confident of a deal on ASML's China sales
+
+- **Dutch Prime Minister Rob Jetten said in a Bloomberg Television interview in New York on 2026-09-24 that he has discussed the MATCH Act with President Trump and US lawmakers several times and is "very confident" of a deal that works for everyone.** The bill, which would push allies to stop sales of ASML's immersion DUV machines and servicing to China, is the main legislative lever over the class of tools China is trying to replace; Jetten gave no terms or timeline. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-24/dutch-premier-hopes-to-prevent-more-us-export-curbs-on-asml), [BigGo Finance](https://www.europesays.com/netherlands/49221/))
+
+## 2026-09-18 — Chinese Academy of Sciences reportedly builds DUV-fabricated gate-all-around transistors, with a claimed path to 3nm-class performance
+
+- **The Chinese Academy of Sciences has reportedly built gate-all-around transistors using DUV lithography that show on/off current ratios above 500,000, which researchers say opens a route toward 3nm-class performance without EUV, TrendForce reported on 2026-09-18.** It is a device-level result relayed second-hand from Wccftech; no paper was located, and an expert quoted in the report says contact formation (middle-end-of-line) and first-metal-layer interconnect remain the real scaling bottlenecks for SMIC. It says nothing about tool deliveries, yields or production. ([TrendForce](https://www.trendforce.com/news/2026/09/18/news-chinese-researchers-reportedly-push-gaa-with-duv-opening-potential-path-to-3nm-level-performance/))
 
 ## 2026-09-09 — Second outlet corroborates the DUV-stockpile report and adds a new framing: a servicing ban, not a further export ban, is the remaining lever
 

@@ -3,7 +3,7 @@ title: Circular Financing
 lens: ai
 status: developing
 opened: 2026-06-28
-last_seen: 2026-09-23
+last_seen: 2026-09-25
 weight: 3
 entities:
 - nvidia
@@ -24,6 +24,10 @@ blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops wh
   in talks down to under $120B, phase-1 only (08-15). Track whether other lenders
   follow Nvidia''s retreat.'
 ---
+
+## 2026-09-25 — CleanSpark closes its $2.276 billion data-center notes at a 7.875% coupon
+
+- **CleanSpark's finance subsidiary closed its $2.276 billion offering of 7.875% senior secured notes due 2031 on Friday, the debt behind its Sandersville, Georgia data center.** The notes were priced on September 18 at 98.5% of principal; CleanSpark's release says the proceeds fund the remaining build-out cost, reimburse earlier equity contributions and fund debt-service reserves, with CleanSpark giving a completion guarantee. ([CleanSpark](https://www.prnewswire.com/news-releases/cleanspark-inc-announces-closing-of-2-276-billion-of-senior-secured-notes-302890605.html), [CleanSpark pricing release](https://www.prnewswire.com/news-releases/cleanspark-inc-announces-pricing-of-2-276-billion-of-senior-secured-notes-302883634.html))
 
 ## 2026-09-23 — Baseten and Modal Labs are in talks at $26bn and $15bn valuations
 

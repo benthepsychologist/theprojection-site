@@ -3,7 +3,7 @@ title: Nvidia as Lender
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-23
+last_seen: 2026-09-25
 weight: 3
 entities:
 - nvidia
@@ -23,6 +23,10 @@ blurb: 'Nvidia''s turn from chip vendor to the buildout''s lender of last resort
   toward: does the weekend signing happen, does a phase-2 guarantee follow, and rating-agency
   treatment (still untracked).'
 ---
+
+## 2026-09-25 — SB Energy holds back its IPO marketing to answer SEC questions
+
+- **SoftBank-backed SB Energy postponed the formal marketing of its IPO this week while it answers additional SEC questions, and is seeking a valuation of about $60 billion, Reuters reported, citing people familiar.** Investors are also concerned about the valuation and about the company's reliance on OpenAI as its main customer; the figure compares with the roughly $50 billion valuation reported by the New York Times on 09-21, and Reuters notes Nvidia's guarantee of up to $105 billion for OpenAI's lease of SB Energy's Ohio campus. ([Reuters](https://www.reuters.com/legal/transactional/data-center-ipo-hopefuls-brave-tougher-market-investor-scrutiny-grows-2026-09-25/))
 
 ## 2026-09-23 — Credit-default-swap trading in Nvidia's debt jumps tenfold after June's $25bn bond sale
 

@@ -3,7 +3,7 @@ title: Datacenter Sites
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-24
+last_seen: 2026-09-25
 weight: 3
 entities:
 - openai
@@ -16,6 +16,11 @@ blurb: Where the capex lands in CONCRETE — the specific gigawatt campuses. Sta
   Colossus, Camellia + the 100s of sites. Category meta under where-the-capex-lands;
   the specific-sites worklist lives here.
 ---
+
+## 2026-09-25 — Cleveland puts no Project River annexation on Monday's agenda; Pulaski County's judge vetoes Arkansas data-center rules
+
+- **The City of Cleveland, Tennessee said Friday that no annexation related to Project River is on the City Council's agenda for Monday, September 28 (3pm at the Municipal Building).** The statement comes after the developers of the $11.3 billion Bradley County campus asked the city on 09-18 to pause action while a third-party technical team reviews the project. ([Cleveland Daily Banner](https://www.clevelandbanner.com/news/no-annexations-related-to-project-river-on-mondays-city-council-agenda/article_b0ca8491-ffbe-5174-a737-66006db4ccd4.html))
+- **Pulaski County, Arkansas Judge Barry Hyde on Friday vetoed the ordinance regulating large data centers that the Quorum Court had passed 11-4 on September 22, saying his objection was not to "reasonable regulation" but to whether it can be administered without exposing the county to legal risk.** A three-fifths majority of the Quorum Court can override; sponsor Julie Blackwood said members will try at their next regular meeting. The rules, which would create a permitting process for "high-intensity digital infrastructure," were written in the middle of AVAIO Digital Partners' proposed $6 billion campus in south Pulaski County. ([Arkansas Democrat-Gazette](https://www.arkansasonline.com/news/2026/sep/25/pulaski-county-judge-barry-hyde-vetoes-ordinance/), [Arkansas Times](https://arktimes.com/arkansas-blog/2026/09/22/after-months-of-turmoil-pulaski-county-quorum-court-passes-sweeping-data-center-rules))
 
 ## 2026-09-24 — Oracle tells Project Jupiter's developer it may invoke force majeure
 

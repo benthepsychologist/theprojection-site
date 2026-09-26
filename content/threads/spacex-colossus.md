@@ -3,7 +3,7 @@ title: Colossus
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-21
+last_seen: 2026-09-25
 weight: 2
 entities:
 - spacex
@@ -17,6 +17,10 @@ blurb: SpaceXAI's self-owned training compute (Colossus, Memphis) — the "owns 
   constraints, and whether owning the mines translates into a frontier Grok. Feeds
   the "who controls the stack" thesis (radar Q1).
 ---
+
+## 2026-09-25 — Justice Department asks to pause the NAACP's Clean Air Act suit over SpaceXAI's Southaven turbines
+
+- **The Justice Department asked a federal judge Friday to pause the NAACP's Clean Air Act suit against SpaceXAI over its unpermitted gas turbines in Southaven, Mississippi, while its appeal of the judge's refusal to let it intervene is decided** The department moved in June to intervene for the EPA and have the suit dismissed, arguing SpaceXAI's importance to national security; the judge did not allow it, and the department appealed to the Fifth Circuit on September 18. ([Action News 5](https://www.actionnews5.com/2026/09/25/doj-asks-judge-pause-spacexai-suit-appeal-be-determined/))
 
 ## 2026-09-18 — The Justice Department appeals to the Fifth Circuit to join the NAACP's Clean Air Act suit over xAI's Southaven turbines
 
