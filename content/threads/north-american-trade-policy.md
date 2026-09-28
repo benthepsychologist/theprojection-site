@@ -21,6 +21,10 @@ blurb: 'Whether the US-Canada tariff fight is a negotiating posture or a structu
   manufacturers by name.'
 ---
 
+## 2026-09-28 — Greer publishes US-China Board of Trade tariff recommendations
+
+- **USTR Jamieson Greer published product-level lists for a reciprocal $30 billion-each-way US-China tariff-reduction recommendation — 1,619 US items, 77 Chinese categories — under a newly established "US-China Board of Trade," but with no disclosed rates or effective date.** ([USTR](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ambassador-greer-issues-statement-announcement-recommendations-us-china-board-trade), [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-28/us-releases-details-on-30-billion-of-goods-with-tariff-cuts))
+
 ## 2026-09-26 — Beijing lists eight outcomes of Xi's Washington visit, including a $30 billion reciprocal tariff reduction
 
 - **China's Foreign Ministry and Embassy in Washington said Saturday that Beijing and Washington agreed a $30 billion reciprocal tariff reduction, a Board of Trade and an extension of the Kuala Lumpur trade outcomes among eight results of Xi Jinping's state visit.** The text says the two leaders "endorse the outcomes of the consultations between the two economic and trade teams" and instruct that they be implemented; it names no products, start date or truce length, and USTR Jamieson Greer has said the US side's details come Monday 09-28. ([Embassy of the PRC in the US](https://us.china-embassy.gov.cn/eng/zgyw/202609/t20260926_12031663.htm), [Reuters, via Yahoo](https://www.yahoo.com/news/articles/china-us-agree-30-billion-083836628.html))

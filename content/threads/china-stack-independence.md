@@ -3,7 +3,7 @@ title: China's Stack
 lens: ai
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-26
+last_seen: 2026-09-27
 weight: 3
 entities:
 - zhipu-ai
@@ -18,6 +18,10 @@ blurb: 'One story, both directions: Z.AI''s 1 GW all-domestic-chip site, Kimi K3
   rules; September US-China talks) plus Beijing''s own proposed export controls on
   its models/chips. US chip-equity reaction is the measure.'
 ---
+
+## 2026-09-27 — Beijing widens its outbound travel curbs on AI talent to cover spouses and children
+
+- **China has broadened its pre-approval overseas-travel regime for top AI and chip talent at private firms — first imposed in May 2026 — to now also cover spouses and children, under a new exit/entry regulation effective 09-15 aimed at stopping AI know-how outflow.** Direct relatives of executives and founders whose work is considered paramount to state security must now get Beijing's approval before travelling abroad, even for short trips; the tightening follows Beijing forcing Meta to scrap its $2bn acquisition of Chinese AI startup Manus. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent))
 
 ## 2026-09-26 — Beijing confirms the AI dialogue and the AI-incident channel it had declined to confirm
 
