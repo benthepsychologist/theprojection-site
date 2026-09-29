@@ -3,7 +3,7 @@ title: The Funding Shift
 lens: mental-health
 status: developing
 opened: 2026-06-28
-last_seen: 2026-09-28
+last_seen: 2026-09-29
 weight: 3
 entities:
 - spring-health
@@ -16,6 +16,10 @@ blurb: 'MH is the #1-funded US therapeutic area (~$1.27B/14 deals to start 2026)
   hitting the regulatory reckoning; watch consolidation (e.g. Spring Health/Alma).
   Tests whether the market prices in rigor — the evidence-gap thesis.'
 ---
+
+## 2026-09-29 — VA awards $111.9 million in Fox suicide-prevention grants to 191 community organizations
+
+- **The Department of Veterans Affairs announced on 09-29 that it awarded $111.9 million in Staff Sergeant Parker Gordon Fox Suicide Prevention Grants to 191 community organizations, funds that become available at the start of fiscal year 2027.** VA Secretary Doug Collins said community groups are critical to reaching veterans who may not connect with VA care; VA says 61% of veterans who died by suicide in 2023 were not receiving VA health care in their last year of life. ([Department of Veterans Affairs](https://news.va.gov/press-room/va-awards-112-million-in-suicide-prevention-grants/))
 
 ## 2026-09-28 — LifeStance names interventional psychiatry its 2027 growth lead, and a Massachusetts ABA provider sues over Medicaid clawbacks
 

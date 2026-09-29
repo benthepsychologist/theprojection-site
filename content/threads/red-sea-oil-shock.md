@@ -3,7 +3,7 @@ title: Red Sea Shock
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-28
+last_seen: 2026-09-29
 weight: 3
 entities: []
 thread_kind: story
@@ -30,6 +30,11 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   policy. This is the capital-markets and risk-underwriting read of the war, deliberately
   distinct from the conflict itself.'
 ---
+
+## 2026-09-29 — US offers 40 million barrels from the Strategic Petroleum Reserve
+
+- **The US offered to loan up to 40 million barrels from the Strategic Petroleum Reserve on Tuesday, with WTI near $90.5 after a fall of about 2% that Reuters attributed to recovering Middle East exports rather than the loan.** It is the last of the 172 million barrels ordered in March, bids are due October 6, and the reserve is projected to reach its lowest level since 1982; Reuters had Brent's November contract at $104.28 at about 1pm ET. ([The National](https://www.thenationalnews.com/news/us/2026/09/29/us-to-withdraw-more-oil-from-emergency-stockpile-as-country-faces-rising-fuel-prices/), [Trading Economics](https://tradingeconomics.com/commodity/crude-oil/news/587818))
+- **Middle East crude exports rebounded to 16.3 million barrels a day in September, the highest since the war began in late February, and oil fell about 2% Tuesday as Saudi tankers resumed loading at Yanbu.** Reuters's 1:03pm ET oil report put Brent (November) down $1.38, or 1.3%, at $103.88 and WTI down $2.04, or 2.16%, at $90.58, and attributed the decline to signs of recovering Middle East exports rather than to the Strategic Petroleum Reserve loan; this corrects the earlier entry that placed the fall directly after the loan offer. ([Reuters via Yahoo Finance](https://finance.yahoo.com/energy/articles/oil-prices-rise-second-session-003313319.html))
 
 ## 2026-09-28 — Oil reverses off session highs on twin de-escalation signals
 

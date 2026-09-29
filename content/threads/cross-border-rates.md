@@ -3,7 +3,7 @@ title: The Cross-Border Rate Leg
 lens: global-capital
 status: open
 opened: 2026-09-05
-last_seen: 2026-09-25
+last_seen: 2026-09-29
 weight: 2
 entities:
 - scott-bessent
@@ -21,6 +21,10 @@ blurb: 'Whether the world''s other long ends — Japan first, then the Bund, gil
   Treasury''s own long-end campaign is ever framed by Bessent or the market as a response
   to foreign selling rather than to domestic supply.'
 ---
+
+## 2026-09-29 — France's debt hits a record 119% of GDP and its agency plans record 2027 borrowing
+
+- **France's public debt reached a record 119% of GDP at the end of June, and its debt agency said it will sell a record €340 billion of bonds in 2027, as the premium over German bonds hit its highest since 2012.** Insee put debt at €3,595.5 billion, the highest ratio since 1946; the agency's €340 billion compares with €310 billion this year and assumes the 10-year yield eases to 4.3% from about 4.8%. ([Euronews](https://www.euronews.com/business/2026/09/29/frances-public-debt-soars-to-a-record-119-of-gdp), [Reuters via Devdiscourse](https://www.devdiscourse.com/article/international/3984042-france-plans-record-bond-sales-in-2027-as-covid-era-debt-comes-due))
 
 ## 2026-09-28 — France previews record debt ahead of 2027 budget bill
 

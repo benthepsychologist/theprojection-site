@@ -3,7 +3,7 @@ title: Psychedelic Sprint
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-25
+last_seen: 2026-09-29
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -15,6 +15,10 @@ blurb: 'Psilocybin racing toward first-ever US approval (Compass NDA targeted Q4
   the accelerating trials share. The live question: is approval outrunning the methodology
   fix?'
 ---
+
+## 2026-09-29 — Filament ships psilocybin to Calgary for a phase 2 PTSD trial in intimate-partner-violence survivors
+
+- **Filament Health, the psilocybin developer owned by Ontario-based Rhelion Life Sciences, said on 09-29 that it shipped its botanical psilocybin candidate PEX010 to the University of Calgary for PsiPTSD, a Phase 2 trial of psilocybin-assisted therapy for chronic PTSD in adult survivors of intimate partner violence (NCT06885996).** The university is the sponsor, led by Dr. Chantel Debert; Filament says it only supplies the drug, and the release gives no start date or enrolment figure. ([Rhelion Life Sciences via Newsfile](https://www.newsfilecorp.com/release/316514/Rhelion-Life-Sciences-Wholly-Owned-Subsidiary-Filament-Health-Ships-PEX010-to-the-University-of-Calgary-for-Phase-2-Trial-of-PsilocybinAssisted-Therapy-for-PTSD-in-Survivors-of-Intimate-Partner-Violence))
 
 ## 2026-09-25 — Filament Health expands psilocybin supply for Italy's first psilocybin trial
 

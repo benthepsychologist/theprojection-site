@@ -3,7 +3,7 @@ title: Anthropic IPO
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-28
+last_seen: 2026-09-29
 weight: 2
 entities:
 - anthropic
@@ -14,6 +14,10 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
   or flip-to-public, valuation vs the $965B print, and how the Opus 5 cycle + the
   AMD/Azure/Google-TPU compute deals get positioned in the roadshow narrative.'
 ---
+
+## 2026-09-29 — Anthropic tells investors rogue agents create uncertain legal risk
+
+- **Anthropic told investors in its IPO prospectus that rogue AI agents could expose it to legal claims from customers and users, and that the legal framework is uncertain, Reuters reported** Reuters described it as an exclusive drawn from the prospectus, a document it reviewed rather than a public filing. ([Reuters](https://www.reuters.com/legal/litigation/anthropic-says-rogue-ai-agents-pose-uncertain-legal-risk-company-2026-09-29/))
 
 ## 2026-09-28 — Anthropic's IPO prospectus is reported: $42 billion loss, $518 billion of spending plans, 80 pages of risk factors
 

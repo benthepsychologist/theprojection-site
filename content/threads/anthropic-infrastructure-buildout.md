@@ -3,7 +3,7 @@ title: Anthropic Rents the Buildout
 lens: ai
 status: open
 opened: 2026-08-11
-last_seen: 2026-09-22
+last_seen: 2026-09-29
 weight: 2
 entities:
 - anthropic
@@ -27,6 +27,10 @@ blurb: 'Anthropic has signed four large infrastructure arrangements in roughly t
   Read against ai-circular-financing-risk, which asks whether this money is circular
   — this thread asks a narrower question, who ends up holding the asset.'
 ---
+
+## 2026-09-29 — Anthropic's prospectus breaks down a $518 billion, mostly non-cancelable buildout
+
+- **Anthropic's prospectus commits it to at least $518 billion of infrastructure spending over a decade with six partners, about 80% non-cancelable or payable regardless of usage, Reuters reported** At least $111.1 billion with Google, $110 billion with Amazon and $31.4 billion with Microsoft, plus about $161.2 billion of largely non-cancelable Broadcom-related equipment leases; xAI agreements could reach $84.5 billion but are largely cancelable on 90 days' notice, and AMD committed to buy up to $5 billion of Anthropic stock. ([Reuters](https://www.reuters.com/business/anthropics-518-billion-ai-buildout-hinges-largely-deals-that-cannot-be-canceled-2026-09-29/), [Northland News Radio](https://northlandnewsradio.com/2026/09/29/anthropics-518-billion-ai-buildout-hinges-largely-on-deals-that-cannot-be-canceled-filing-shows/))
 
 ## 2026-09-22 — Nscale's own IPO filing puts a primary-source number on the West Virginia lease this thread has tracked as unconfirmed since August — and disclosed that Anthropic can walk away
 

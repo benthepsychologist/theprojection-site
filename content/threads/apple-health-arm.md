@@ -3,7 +3,7 @@ title: Apple Health
 lens: mental-health
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-22
+last_seen: 2026-09-29
 weight: 2
 entities:
 - apple
@@ -15,6 +15,10 @@ blurb: Apple's AI coach ('Mulberry') keeps slipping — no AI, and no AI mental-
   proxies, not validated measurement. Third-party chatbots (ChatGPT/Perplexity) now
   eat the Apple Health data.
 ---
+
+## 2026-09-29 — Apple and the American Academy of Pediatrics publish a family screen-time and parental-controls guide
+
+- **Apple and the American Academy of Pediatrics released "Building Healthy Digital Habits: A Guide for Families" on 09-29, a six-step guide to setting up children's iPhone, iPad and Mac parental controls alongside AAP screen-time guidance by age.** It follows the June announcement of expanded parental controls built with the AAP; Communication Safety is on by default for under-18s; no outcome data. ([Apple Support](https://support.apple.com/guide/aap-apple/screen-time-guidance-american-academy-dwpwek4yury5/web), [AppleInsider](https://appleinsider.com/articles/26/09/29/apple-american-academy-of-pediatrics-team-up-for-new-screen-time-guide))
 
 ## 2026-09-22 — Apple prototypes a screenless Whoop-style band
 

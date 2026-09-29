@@ -3,7 +3,7 @@ title: Nvidia as Lender
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-28
+last_seen: 2026-09-29
 weight: 3
 entities:
 - nvidia
@@ -23,6 +23,10 @@ blurb: 'Nvidia''s turn from chip vendor to the buildout''s lender of last resort
   toward: does the weekend signing happen, does a phase-2 guarantee follow, and rating-agency
   treatment (still untracked).'
 ---
+
+## 2026-09-29 — Nvidia reported in talks with insurers over chip-backed loans
+
+- **Nvidia has held talks with insurers, including reinsurance broker Howden Re, about taking on the default risk of loans backed by its AI chips, the Financial Times reported Tuesday.** One structure would protect lenders if a smaller cloud provider defaults and the pledged chips resell for less than the debt; the talks are early and may not produce deals, and Nvidia has shared chip-depreciation data with at least one insurer. ([The Next Web on the FT](https://thenextweb.com/news/nvidia-insurers-ai-chip-loans-neoclouds-ft), [Benzinga](https://www.benzinga.com/markets/tech/26/09/62043405/nvidia-reportedly-turns-to-insurers-to-de-risk-ai-chip-loans-as-jensen-huang-pushes-beyond-big-tech-could-this-unlock-billions-for-smaller-cloud-players))
 
 ## 2026-09-28 — Nvidia's $150bn buyback increase, the largest buyback authorization increase on record
 

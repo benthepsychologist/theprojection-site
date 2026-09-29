@@ -3,7 +3,7 @@ title: The G7 Trade War
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-28
+last_seen: 2026-09-29
 weight: 2
 entities: []
 thread_kind: story
@@ -20,6 +20,10 @@ blurb: 'Whether the US-Canada tariff fight is a negotiating posture or a structu
   tariff (a genuinely new category, not an increase on an existing one) reaches specific
   manufacturers by name.'
 ---
+
+## 2026-09-29 — Canada's economy stalls in July and Deloitte cuts its 2027 forecast
+
+- **Canada's real GDP was unchanged in July, Statistics Canada said, and Deloitte cut its 2027 growth forecast for the country to 1.6% from 2.0%.** Manufacturing fell 0.9% and mining and oil and gas extraction 0.5%; Deloitte's outlook rests on the 50% US tariffs that began August 22 and Canada's reciprocal tariffs from September 8. ([Statistics Canada](https://www150.statcan.gc.ca/n1/daily-quotidien/260929/dq260929a-eng.htm), [CBC](https://www.cbc.ca/news/business/trump-gdp-canada-9.7362091))
 
 ## 2026-09-28 — Greer publishes US-China Board of Trade tariff recommendations
 

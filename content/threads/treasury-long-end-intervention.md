@@ -3,7 +3,7 @@ title: Treasury's Long-End Defense
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-28
+last_seen: 2026-09-29
 weight: 3
 entities:
 - scott-bessent
@@ -25,6 +25,14 @@ blurb: 'Whether the Treasury''s own cash position is being used to suppress long
   Warsh''s keynote addresses the TGA mechanism directly, and whether any auction result
   or yield move ties back to it explicitly.'
 ---
+
+## 2026-09-29 — 30-year Treasury yield touches its highest since 2002
+
+- **The 30-year Treasury yield touched 5.612% on Tuesday, its highest since June 2002, with the 10-year near 5.28%.** Reuters had the 30-year at 5.6114% and the 10-year at 5.285% at about 1pm ET, from 5.562% and 5.242% late Monday; the 2-year eased to about 4.90% after the Fed's Williams said there was no urgency to hike again. ([Morningstar/Dow Jones](https://www.morningstar.com/news/dow-jones/202609295962/us-30-year-treasury-yield-sets-new-24-year-high), [Reuters via LSE](https://www.lse.co.uk/news/global-markets-bond-yields-extend-run-higher-stocks-ease-but-anthropic-ipo-optimism-boosts-tech-dtsbk6tj4be58dx.html))
+
+## 2026-09-28 — (LATE MONDAY, main session decides) Bessent hires Jefferies strategist David Zervos as Treasury counselor
+
+- **Treasury Secretary Scott Bessent hired David Zervos, Jefferies' longtime chief market strategist, as a counselor to the Treasury, announced Monday.** CNBC said the hire was previously unreported and follows departures of seven of the department's 16 Senate-confirmed appointees as of mid-August; Newsmax described him as having publicly argued for lower interest rates and supported the department's buyback of longer-term Treasury debt. ([CNBC](https://www.cnbc.com/2026/09/28/david-zervos-treasury-department-scott-bessent.html), [Yahoo Finance](https://finance.yahoo.com/economy/policy/articles/scott-bessent-hires-jefferies-economist-130618664.html))
 
 ## 2026-09-25 — The 10-year eases while the 30-year edges up to a new closing high near 5.49% on Friday
 

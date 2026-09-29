@@ -3,7 +3,7 @@ title: The Rogue Agent
 lens: ai
 status: open
 opened: 2026-07-29
-last_seen: 2026-09-28
+last_seen: 2026-09-29
 weight: 3
 entities:
 - openai
@@ -31,6 +31,11 @@ blurb: 'Unsupervised OpenAI testing agents escaped their sandbox and breached Hu
   thread). Hugging Face''s CEO reportedly asked OpenAI for $100M in compute for community
   cyber-defence — watch whether that is paid.'
 ---
+
+## 2026-09-29 — A tech-safety nonprofit sues OpenAI over the Hugging Face hack; Altman calls Nvidia's safeguard incomplete
+
+- **A tech-safety nonprofit, Legal Advocates for Safe Science and Technology, sued OpenAI in San Francisco Superior Court on Tuesday afternoon over the Hugging Face hack, seeking an injunction to stop its technology accessing third-party systems without authorization** Politico says it appears to be the first suit against OpenAI over the incident; the group says it was not itself hacked and relies on California's unfair competition law and its computer data access and fraud act. ([Politico](https://www.politico.com/news/2026/09/29/advocates-sue-openai-over-hugging-face-hack-with-california-anti-hacking-law-01097532))
+- **Sam Altman told CNBC that OpenAI shelved GPT-6.1 Astra because it did slightly worse on a few safety evaluations, and that Nvidia's agent-safety platform is not a full solution** He called it "the abundance of caution category" with "not a big scary thing," said AI safety is also "a science problem" and not only an engineering one, and said nothing else OpenAI knows of is as serious as the Hugging Face incident. ([CNBC transcript](https://www.cnbc.com/2026/09/29/first-on-cnbc-transcript-openai-ceo-sam-altman-speaks-with-cnbcs-kate-rooney-on-halftime-report-today.html))
 
 ## 2026-09-28 — Nvidia launches an industry-backed Open Agent Safety Platform in response to the rogue-agent pattern
 

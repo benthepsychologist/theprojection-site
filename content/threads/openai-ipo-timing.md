@@ -3,7 +3,7 @@ title: OpenAI IPO
 lens: ai
 status: developing
 opened: 2026-06-27
-last_seen: 2026-09-20
+last_seen: 2026-09-29
 weight: 2
 entities:
 - openai
@@ -15,6 +15,12 @@ blurb: Reported slip to 2027 chasing a ~$1T valuation; Altman rejecting a lower 
   Track confirmed timing, valuation target, and macro/AI-stock spillover (SoftBank
   fell ~12% on the report).
 ---
+
+## 2026-09-29 — OpenAI seeks $30 billion at $1.4 trillion as a bridge in place of an IPO
+
+- **OpenAI is seeking to raise at least $30 billion at a valuation of about $1.4 trillion, before the new money, as bridge financing in place of an IPO, Bloomberg reported** Talks are early and terms could change; the last round closed in March at $852 billion, and Altman said this month OpenAI would not go public in 2026. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value), [Reuters via KFGO](https://kfgo.com/2026/09/29/openai-targets-30-billion-funding-at-1-4-trillion-valuation-bloomberg-news-reports/))
+- **OpenAI's annualized recurring revenue is approaching $70 billion, up more than 70% since July as enterprise sales more than doubled, Reuters reported Tuesday, citing a source, after Axios's first report** The source said OpenAI earned more consumer revenue in the third quarter than in all of last year; Reuters cautions that annualized run rate can mislead, and had Oracle shares 5.3% higher. ([Reuters via The Star](https://www.thestar.com.my/tech/tech-news/2026/09/29/openai039s-annual-recurring-revenue-nears-70-billion-axios-reports))
+- **Sam Altman told CNBC he has no particular IPO timeline and that one could follow once OpenAI has run a few safety cases** He said "barreling forward with an IPO while I think things feel so in flux" would distract from the mission, consistent with his earlier statement that a 2026 listing is ill-advised. ([CNBC transcript](https://www.cnbc.com/2026/09/29/first-on-cnbc-transcript-openai-ceo-sam-altman-speaks-with-cnbcs-kate-rooney-on-halftime-report-today.html))
 
 ## 2026-09-18 — OpenAI's own financial forecast, seen by the FT, projects $278 billion in cumulative cash burn through 2030 against a targeted tenfold revenue jump to $350 billion
 
