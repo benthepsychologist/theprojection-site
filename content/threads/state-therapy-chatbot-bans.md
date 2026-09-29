@@ -3,7 +3,7 @@ title: Chatbot Bans
 lens: mental-health
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-24
+last_seen: 2026-09-28
 weight: 2
 entities:
 - character-ai
@@ -16,6 +16,10 @@ blurb: 'The wave is ~10+ enacted instruments in two species (crawl 2026-07-22 co
   these laws (so far only xAI v. Colorado''s discrimination law); Colorado-mandate
   copycats.'
 ---
+
+## 2026-09-28 — Pennsylvania's House passes HB 2006, parental consent and crisis protocols for minors' AI companions
+
+- **The Pennsylvania House passed HB 2006 on 09-28 by 133-70, requiring verifiable parental consent before minors can use AI companion chatbots and crisis-response protocols when a conversation signals suicidal thoughts, self-harm, certain eating-disorder behaviour or interest in harming another person.** Thirty Republicans joined all 103 Democrats in backing the bill by Rep. Melissa Shusterman (D-Chester). Operators would also have to stop companions from encouraging harmful acts or giving instructions for suicide or violence, remind users every two hours that they are talking to an AI, and label a companion that could be mistaken for a person; the Attorney General would enforce it with civil penalties of up to $100,000 per day, effective 180 days after enactment. A ranking Republican objected that it would force companies to "collect more information on everyone" to establish age. It now goes to the Republican-controlled Senate; the thread's 09-23 entry logged a separate House memo on chatbots posing as licensed professionals. ([The Center Square](https://www.thecentersquare.com/pennsylvania/article_54c11d69-8a2d-40b4-a45d-f01bd3195074.html), [Law Commentary](https://www.lawcommentary.com/articles/pennsylvania-ai-companions-parental-consent-minors))
 
 ## 2026-09-23 — Two Pennsylvania House members circulate a bill to bar chatbots posing as licensed professionals
 

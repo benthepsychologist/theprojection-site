@@ -3,7 +3,7 @@ title: Asset Managers Build
 lens: global-capital
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-25
+last_seen: 2026-09-28
 weight: 2
 entities:
 - blackrock
@@ -15,6 +15,10 @@ blurb: 'The capital pools stopped just financing the buildout and started OWNING
   Track: who buys the next hyperscaler asset, the SWF co-investor pattern, and whether
   "locked" fiduciary capital keeps sliding into physical AI infra.'
 ---
+
+## 2026-09-28 — Samsung commits $1 billion to KKR's Helix AI-infrastructure company
+
+- **Samsung Electronics and five affiliates committed a combined $1 billion to Helix Digital Infrastructure, the AI-infrastructure company KKR launched in June and Nvidia backs.** Samsung Electronics puts in $500 million, with Samsung C&T, SDS, SDI, Life Insurance and Fire and Marine contributing the rest; KKR, Nvidia, the Kuwait Investment Authority and Vistra are founding investors, and former AWS chief Adam Selipsky leads Helix, which targets hyperscale data centers, power generation and fiber networks. ([CNBC](https://www.cnbc.com/2026/09/29/samsung-investment-nvidia-kkr-ai-helix-digital.html), [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-28/samsung-to-invest-1-billion-in-kkr-s-ai-infrastructure-company))
 
 ## 2026-09-24 — A BlackRock-led consortium is in exclusive talks for Stack Infrastructure's $25bn Asia data-center portfolio
 

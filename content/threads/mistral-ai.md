@@ -3,7 +3,7 @@ title: Mistral AI
 lens: ai
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-24
+last_seen: 2026-09-28
 weight: 2
 entities:
 - mistral-ai
@@ -21,6 +21,10 @@ blurb: 'The French national champion running two tracks at once: a fast, broaden
   the "sovereign alternative" framing. Cross-refs asml (the ASML stake lives on that
   thread).'
 ---
+
+## 2026-09-28 — Mistral's CEO says the US safety debate covers rivals' negligence and Mistral will not slow down
+
+- **Mistral CEO Arthur Mensch said the US debate over AI safety has been "a cover for the negligence of some of our competitors," and that Mistral will not slow down** He told CNBC that systems to contain AI agents are needed, that the US labs' lead is "not extremely large," and that Mistral's next model will "close the gap very significantly"; CNBC notes Mistral raised €3 billion led by Samsung earlier this month. ([CNBC](https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html))
 
 ## 2026-09-24 — Mistral's CEO says a new model is coming in weeks and attacks US labs' doom warnings
 

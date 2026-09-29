@@ -3,7 +3,7 @@ title: Nvidia as Lender
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-25
+last_seen: 2026-09-28
 weight: 3
 entities:
 - nvidia
@@ -24,7 +24,7 @@ blurb: 'Nvidia''s turn from chip vendor to the buildout''s lender of last resort
   treatment (still untracked).'
 ---
 
-## 2026-09-28 — Nvidia's $150bn buyback increase, the largest single authorization in US history
+## 2026-09-28 — Nvidia's $150bn buyback increase, the largest buyback authorization increase on record
 
 - **Nvidia's board authorized a $150 billion increase to its share-buyback program, lifting total remaining authorization to $235 billion, the same day it launched an Open Agent Safety Platform with over 100 partners.** Jensen Huang: "Our cash generation gives us the capacity to invest in the technologies that advance this transformation and return capital to shareholders." ([Nvidia Newsroom](https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase), [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-28/nvidia-boosts-share-buyback-authorization-by-150-billion-mul5jmu7))
 

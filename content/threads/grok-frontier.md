@@ -3,7 +3,7 @@ title: Grok
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-24
+last_seen: 2026-09-28
 weight: 2
 entities:
 - spacex
@@ -18,6 +18,10 @@ blurb: 'The Grok line closing the frontier gap as a FAST FOLLOWER, not mid-pack 
   amid Musk hype), the $60B Cursor bet arming coding, and whether owning the mines
   sustains a lead vs. OpenAI/Anthropic.'
 ---
+
+## 2026-09-28 — SpaceXAI ships Team Bots for shared Grok agents
+
+- **SpaceXAI launched Team Bots, Grok Bots that a team shares so everyone works from the same context** Each combines shared files and instructions, plugins for Salesforce, Notion and GitHub, credentials and per-user memories, keeps each person's conversations private, and can join Slack channels; SpaceXAI says it uses them internally to brief account teams each morning. ([SpaceXAI](https://x.ai/news/team-bots))
 
 ## 2026-09-25 — Musk says SpaceXAI's Colossus 2 will add 220,000 more Nvidia chips next week
 

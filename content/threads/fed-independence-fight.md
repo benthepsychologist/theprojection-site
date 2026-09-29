@@ -3,7 +3,7 @@ title: Fed Independence Fight
 lens: global-capital
 status: open
 opened: 2026-08-09
-last_seen: 2026-09-23
+last_seen: 2026-09-29
 weight: 2
 entities:
 - lisa-cook
@@ -21,6 +21,10 @@ blurb: 'Two distinct, simultaneous levers on the Fed''s independence, offered as
   the 09-16 FOMC decision — as of the 08-09 /week read, a bigger open question than
   anything purely financial on this map.'
 ---
+
+## 2026-09-29 — Consumer confidence drops to 81.9 as fuel-cost worries hit new highs
+
+- **US consumer confidence fell 6.7 points to 81.9 in September, with oil and gas prices the most-cited worry.** The Conference Board's survey ran September 1-23 and included the Fed's 09-16 rate hike; job openings held at 7.1 million in August. ([Conference Board via PR Newswire](https://www.prnewswire.com/news-releases/us-consumer-confidence-fell-in-september-302892867.html), [BLS](https://www.bls.gov/news.release/jolts.nr0.htm))
 
 ## 2026-09-23 — White House economic chief attacks Fed officials pushing rate hikes
 

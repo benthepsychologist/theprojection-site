@@ -3,7 +3,7 @@ title: AI Therapy Evidence
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-25
+last_seen: 2026-09-28
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -15,6 +15,10 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   maturing into a real subfield: VERA-MH benchmark, RAND''s intermediate-risk failures,
   EmoAgent.'
 ---
+
+## 2026-09-28 — A peer-reviewed review links companion chatbots to addiction-like attachment and worsened symptoms
+
+- **A peer-reviewed paper in JMIR Mental Health by Northeastern University's Network Science Institute, publicized 09-28, concludes that using companion chatbots such as Replika and Character.ai for companionship and emotional support is linked with "severe negative outcomes," including addiction-like attachment, worsened symptoms and cases involving self-harm.** Corresponding author Andreia Sofia Teixeira and first author Asia Maurich Novelli call for more testing before deployment and more evidence on how people use the products; the university's account gives no sample size or effect size. ([Northeastern Global News](https://news.northeastern.edu/2026/09/28/ai-chatbots-psychological-harm-mental-health/))
 
 ## 2026-09-25 — Spring Health expands its VERA-MH AI-safety benchmark to cover harm from others
 

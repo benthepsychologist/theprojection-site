@@ -3,7 +3,7 @@ title: The Funding Shift
 lens: mental-health
 status: developing
 opened: 2026-06-28
-last_seen: 2026-09-26
+last_seen: 2026-09-28
 weight: 3
 entities:
 - spring-health
@@ -16,6 +16,12 @@ blurb: 'MH is the #1-funded US therapeutic area (~$1.27B/14 deals to start 2026)
   hitting the regulatory reckoning; watch consolidation (e.g. Spring Health/Alma).
   Tests whether the market prices in rigor — the evidence-gap thesis.'
 ---
+
+## 2026-09-28 — LifeStance names interventional psychiatry its 2027 growth lead, and a Massachusetts ABA provider sues over Medicaid clawbacks
+
+- **LifeStance Health, the Nasdaq-listed outpatient mental-health chain, said on 09-28 that it plans to grow from 34 states to all major US markets in 2027, led by new clinics and targeted acquisitions, with interventional psychiatry at the top of its priority list.** Chief growth officer Dan Ferris named treatment-resistant depression, psychological and neuropsychological testing and scalable therapy practices as targets, and chief medical officer Dr. Stephanie Eken said the company is also evaluating at-home neuromodulation devices to complement TMS. ([Behavioral Health Business](https://bhbusiness.com/2026/09/28/lifestance-execs-say-interventional-psychiatry-critical-to-companys-expansion-plans-in-2027/))
+- **Autism Spectrum Therapies, a unit of LEARN Behavioral, sued ten Massachusetts officials, agencies and health-plan entities on 09-23 to stop MassHealth's recoupment of payments for 2024 autism (ABA) therapy delivered outside a one-hour-supervision-per-ten-hours-of-therapy ratio.** Behavioral Health Business, reporting it on 09-28, says the provider faces $943,000 in clawbacks, has paid $117,000 under protest, and argues the ratio comes from a 2016 "aspirational guidance document" never enacted through rulemaking; the state had not commented. ([Behavioral Health Business](https://bhbusiness.com/2026/09/28/learn-behavioral-entity-sues-to-stop-masshealth-medicaid-recoupment/))
+- **New Jersey Governor Mikie Sherrill announced on 09-28 that she has signed a law creating the SPARK pilot, which connects students to behavioral-health services within the school community and is funded with $8 million in the state's fiscal 2027 budget.** Her office said New Jersey is investing more than $125 million in school- and community-based mental-health programs this school year. ([Office of the Governor of New Jersey](https://www.nj.gov/governor/news/2026/20260928a.shtml))
 
 ## 2026-09-26 — Joliet, Illinois gets a $1 million federal grant for its no-cost mental-health counseling program
 

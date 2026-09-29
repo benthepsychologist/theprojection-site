@@ -3,7 +3,7 @@ title: 'The #2 Cashes In'
 lens: ai
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-11
+last_seen: 2026-09-28
 weight: 2
 entities:
 - amd
@@ -18,6 +18,10 @@ blurb: 'Whether the ~14GW of announced OpenAI/Meta/Anthropic compute deals actua
   after this crawl closed) is the first real test. Also watching: China MI325X licensing
   status, and whether the Oracle 50,000-GPU Q3-2026 rollout starts on schedule.'
 ---
+
+## 2026-09-28 — AMD agrees to buy Fei-Fei Li's World Labs for $8.2 billion
+
+- **AMD agreed to acquire Fei-Fei Li's World Labs for about $8.2 billion in stock, with Li joining AMD as executive vice president and chief scientist** AMD's release says the deal is expected to close by the end of 2026, subject to regulatory approvals, and that World Labs' spatial-intelligence models will inform AMD's hardware and software roadmaps. CNBC notes AMD is chasing Nvidia, which already offers open-weight world models. ([AMD](https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute), [CNBC](https://www.cnbc.com/2026/09/28/amd-fei-fei-li-world-labs.html))
 
 ## 2026-09-22 — AMD crosses $1 trillion in market value, on a hyperscaler-customer product catalyst rather than its own numbers
 

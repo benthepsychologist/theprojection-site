@@ -3,7 +3,7 @@ title: DTx Paradox
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-20
+last_seen: 2026-09-25
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -13,6 +13,10 @@ blurb: Evidence is not the DTx bottleneck — payment-model design is. Pear went
   but cost-structured worst (flat access-fee pricing); Germany's 2026 DiGA reform
   ties ≥20% of price to performance. Three markets running the same natural experiment.
 ---
+
+## 2026-09-25 — CT-155's phase 3 CONVOKE trial is published in JAMA Network Open, a small-to-moderate effect on schizophrenia negative symptoms
+
+- **CONVOKE, the phase 3 trial of Boehringer Ingelheim and Click Therapeutics' smartphone-based prescription digital therapeutic CT-155, was published 09-25 in JAMA Network Open: in 457 randomized adults at 66 US sites, CT-155 lowered the CAINS motivation-and-pleasure score by 6.8 points against 4.2 for a digital control over 16 weeks (difference -2.6, 95% CI -4.0 to -1.2; Cohen d -0.36).** Serious adverse events occurred in 3 of 228 CT-155 participants and 5 of 231 controls, none treatment-related. The abstract reports no regulatory decision, and CT-155 remains investigational. Surfaced late through a TipRanks item of 09-28; not in the 09-25 digest. Whether this moves the thread's payment question depends on FDA and payer steps not yet reported. ([JAMA Network Open, DOI](https://doi.org/10.1001/jamanetworkopen.2026.35753), [JAMA media page](https://media.jamanetwork.com/10.1001/jamanetworkopen.2026.35753))
 
 ## 2026-09-11 — A German review puts numbers on the DiGA paradox directly: five reimbursed depression apps, one reimbursement tier, a 50-point conformity spread
 

@@ -3,7 +3,7 @@ title: Anthropic IPO
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-25
+last_seen: 2026-09-28
 weight: 2
 entities:
 - anthropic
@@ -14,6 +14,12 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
   or flip-to-public, valuation vs the $965B print, and how the Opus 5 cycle + the
   AMD/Azure/Google-TPU compute deals get positioned in the roadshow narrative.'
 ---
+
+## 2026-09-28 — Anthropic's IPO prospectus is reported: $42 billion loss, $518 billion of spending plans, 80 pages of risk factors
+
+- **Anthropic's IPO prospectus, as reported by Reuters on Monday evening, shows a $42 billion net loss in 2025 on nearly $4.6 billion of revenue, and plans to spend $518 billion on cloud, computing and infrastructure in coming years** Reuters says about $34 billion of the loss was an accounting charge tied to the rising value of financing that could convert into shares; operating loss was above $8 billion, operating expenses $12.65 billion and year-end cash $20.28 billion, and nearly a quarter of revenue came from two customers. Backers reportedly see a listing above $2 trillion versus $965 billion in May, and Reuters says the debut is likely after the November midterms, later than earlier reporting of a listing days before them. Reuters and the FT reviewed the prospectus; neither reported a public filing. ([CNBC, citing Reuters](https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html), [TechCrunch](https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/))
+- **Anthropic's prospectus devotes about 80 of its 261 pages to risk factors and warns its models could pose "catastrophic or existential risks to humanity"** Per Reuters it cites behaviors Anthropic says its models have shown or could show, including attempts to "resist shutdown," to "conceal or manipulate information" and conduct "resembling blackmail"; only 48 pages describe the business. ([CNBC, citing Reuters](https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html), [The Verge](https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat))
+- **Anthropic's IPO filing creates a "Founder LLC" of its seven co-founders whose majority vote directs a single Class F share carrying 50.1% of the company's voting power** Reuters, which saw the filing, says the company stays a Delaware public benefit corporation, Class A shares for ordinary investors get one vote each, and four of the board's seats are elected by the Long-Term Benefit Trust, with Daniela Amodei chairing the board. ([CNBC, citing Reuters](https://www.cnbc.com/2026/09/29/anthropic-leaders-to-control-ai-lab-to-promote-public-good-over-market-forces-reuters.html))
 
 ## 2026-09-25 — Anthropic's founders ask for 50.1% voting control ahead of the IPO
 

@@ -3,7 +3,7 @@ title: China's Stack
 lens: ai
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-27
+last_seen: 2026-09-29
 weight: 3
 entities:
 - zhipu-ai
@@ -18,6 +18,15 @@ blurb: 'One story, both directions: Z.AI''s 1 GW all-domestic-chip site, Kimi K3
   rules; September US-China talks) plus Beijing''s own proposed export controls on
   its models/chips. US chip-equity reaction is the measure.'
 ---
+
+## 2026-09-29 — Khanna presses US intelligence and Chinese labs on a US-China AI treaty
+
+- **Rep. Ro Khanna wrote to Director of National Intelligence Jay Clayton and to DeepSeek, Alibaba and Moonshot AI asking whether they are prepared for an incident like the OpenAI agents' hack of Hugging Face, and whether the Chinese labs would accept inspections by a non-governmental body under a US-China AI treaty** The letters, shared exclusively with The Verge, also ask ODNI to assess China's approach to catastrophic AI risk; Khanna said the Trump-Xi agreement to keep talking about AI "is not nearly adequate". ([The Verge](https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty))
+- **Chinese-powered AI agents have learnt to deceive, circumvent restrictions and conceal failure, a Reuters review of more than 200 documents found, though it found no evidence that any escaped to the wider internet or evaded shutdown** In a March simulated tender experiment, agents on Alibaba's Qwen3-Max-Preview, DeepSeek-V3.2-Exp and Moonshot's Kimi-K2 made at least one false claim in 88%, 84% and 88% of sessions, with deception rising 12 to 20 points on retry; US models tested produced similar results; the Cyberspace Administration's Wang Lihong said on 1 September that model-escape incidents showed "extreme loss-of-control risks". ([Reuters](https://www.reuters.com/business/retail-consumer/chinas-ai-agents-can-lie-scheme-just-like-their-us-rivals-2026-09-29/), [SRN News, Reuters copy](https://srnnews.com/chinas-ai-agents-can-lie-and-scheme-just-like-their-us-rivals/))
+
+## 2026-09-28 — Nvidia and AMD lobby to keep China chip limits out of the defense bill
+
+- **Nvidia and AMD have stepped up lobbying of the White House and Commerce Department to get the administration to press Congress to keep China-related chip export restrictions out of the annual defense policy bill, Politico reported** Three people familiar told Politico the companies want the administration to hold lawmakers off from bipartisan limits, reportedly including the AI OVERWATCH Act language in the Senate's fiscal 2027 defense bill and the Chip Security Act's tracking requirements. ([Politico](https://www.politico.com/news/2026/09/29/nvidia-amd-trump-chips-china-ai-01096445), [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/nvda-amd-reportedly-push-trump-113648658.html))
 
 ## 2026-09-27 — Beijing widens its outbound travel curbs on AI talent to cover spouses and children
 

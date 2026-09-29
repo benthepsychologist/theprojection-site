@@ -3,7 +3,7 @@ title: Russia-Ukraine War
 lens: world-news
 status: open
 opened: 2026-07-31
-last_seen: 2026-09-26
+last_seen: 2026-09-29
 weight: 3
 entities: []
 thread_kind: story
@@ -20,6 +20,17 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   sibling thread the same way Iran''s Widening War / Red Sea Shock did, if and when
   that read becomes substantial enough to carry on its own.'
 ---
+
+## 2026-09-29 — Estonia blames Russian special services for an arson attack on a defence firm
+
+- **Estonia's foreign minister said Tuesday that an August arson attack on the defence company Milrem Robotics in Tallinn was sabotage ordered by Russia's special services, and summoned the Russian ambassador; the Kremlin called the accusation "baseless."** NATO Secretary General Mark Rutte said Russia "continues its reckless campaign of hostile actions against NATO allies," and France, Lithuania, Latvia and Sweden condemned the attack. ([Al Jazeera](https://www.aljazeera.com/news/2026/9/29/estonia-says-russia-ordered-august-arson-attack-on-defence))
+- **Russian missiles and drones struck Kyiv again overnight into Tuesday, wounding at least one person and damaging a railway depot, data centres, business centres and an educational institution.** The strikes extend what Al Jazeera's Kyiv correspondent called a sixth day of rolling attacks on Ukraine's economic and communications targets. ([Kyiv Independent](https://kyivindependent.com/russian-missiles-strike-kyiv-educational-facility-in-overnight-attacks/))
+
+## 2026-09-28 — A Russian jet drone hits Kyiv's Academy of Sciences as strikes kill at least nine across Ukraine
+
+- **A Russian jet-powered drone hit the National Academy of Sciences of Ukraine in central Kyiv on Monday, killing at least two people, as Russian drone strikes killed at least nine and wounded more than 80 across Ukraine.** Zelenskyy said 90 of the 120 drones fired Monday were jet-propelled and 57 percent of that type were intercepted; a Dnipro business centre was hit (three killed, 19 wounded) and an attack on infrastructure in Zaporizhzhia wounded 32, with fresh explosions in Kyiv early Tuesday. ([Al Jazeera](https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2))
+- **Putin signed a decree on Monday raising Russia's authorised armed-forces strength by 15,500 to 2,441,630 people, the fourth such increase this year.** ([Yahoo News, citing TASS](https://www.yahoo.com/news/world/articles/putin-signs-decree-increasing-size-182300599.html))
+- **Russia plans to spend about 17.1 trillion rubles ($202.6 billion) on defence in 2027, roughly 27% more than the 13.5 trillion originally budgeted and the highest since the 2022 invasion, budget documents seen by Reuters showed Monday.** The same documents raise the 2026 deficit estimate to 3.2% of GDP from 1.6% and add a windfall tax on metals and mining. ([The Moscow Times, Reuters](https://www.themoscowtimes.com/2026/09/28/russia-raises-2027-military-spending-by-27-budget-documents-show-a93810))
 
 ## 2026-09-27 — Russian overnight barrage kills at least 14 across Ukraine, the week's heaviest single-night toll
 

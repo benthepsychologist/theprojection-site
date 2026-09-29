@@ -3,7 +3,7 @@ title: Frontier Gatekeeping
 lens: ai
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-25
+last_seen: 2026-09-29
 weight: 3
 entities:
 - openai
@@ -20,6 +20,19 @@ blurb: 'The gpt-5.6 gating dynamic made permanent — and it''s all one buildout
   is named (SRO?); Meta''s exclusion made official; CAISI leadership (3 directors
   in a year — can it run classified review?); the first model actually gated.'
 ---
+
+## 2026-09-29 — Democrats demand the labs' rogue-agent incident reports ahead of the White House meeting
+
+- **Democrats demanded that the leaders of the top AI labs hand over incident reports of "rogue agents," Politico reported ahead of Tuesday's White House meeting of President Trump, Speaker Johnson and tech chief executives** The item ran at 6:14am ET; the reporting available did not give the letter's signers, recipients or deadline. ([Politico](https://www.politico.com/live-updates/2026/09/29/congress/democrats-ai-rogue-agents-cyberattack-01096455))
+
+## 2026-09-28 — Amodei meets Thune as the Senate's AI-risk bill negotiations continue
+
+- **Anthropic CEO Dario Amodei met Senate Majority Leader John Thune at the Capitol Monday night, and Thune said Anthropic has reviewed drafts of a bill he, Amy Klobuchar and Ted Cruz are negotiating to reduce the catastrophic risks of AI** Thune called the meeting "productive"; Cruz has promised a Senate Commerce Committee markup but has set no date, and the parties remain apart on key provisions. Thune said he would skip Tuesday's White House meeting with Trump, Speaker Johnson and tech executives. ([Yahoo News](https://www.yahoo.com/news/politics/articles/amodei-adds-thune-meeting-washington-231620875.html), [Washington Examiner](https://www.washingtonexaminer.com/news/senate/4745857/thune-skipping-white-house-ai-meeting/))
+- **A Warner and Schatz attempt to pass their frontier-AI testing bill by unanimous consent failed, according to Warner's home-state coverage** WVVA reported Sunday that Sen. Warner tried to pass the bill the same afternoon he filed it and "that effort failed"; the attempt dates to the week of 21 September, most likely 23 September (the day Warner's release says the bill was introduced), and the Congressional Record has not confirmed the date. ([WVVA](https://www.wvva.com/2026/09/27/sen-warner-proposes-ai-safety-testing-requirement-before-public-release/), [Warner](https://www.warner.senate.gov/newsroom/press-releases/warner-schatz-to-take-to-senate-floor-to-demand-passage-of-new-ai-security-legislation/))
+- **Pope Leo XIV said concerns about AI going rogue are not "fake news" and should be taken seriously, contradicting President Trump's "hoax" description** Speaking to reporters on the papal plane home from France, he said "the concerns raised by many of the experts, specialists in AI should be taken seriously," added "I don't think that that is 'fake news' as some have said," and cited that day's Nvidia guardrails announcement. ([AP via PBS](https://www.pbs.org/newshour/world/contradicting-trump-pope-leo-says-ai-safety-concerns-not-fake-news))
+- **Florida's attorney general asked a state court to bar OpenAI from developing new models without third-party-approved safety guardrails** The temporary-injunction motion, filed in the state's June suit against OpenAI and Sam Altman, also seeks orders against ChatGPT posing as human and against advertising it as safe. ([WCTV](https://www.wctv.tv/2026/09/28/stop-pretending-its-human-florida-ag-asks-judge-block-openai-making-new-models/), [The Verge](https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids))
+- **New York City's council subpoenaed Elon Musk's SpaceXAI to testify on AI safety at a full-council hearing on 5 October, after Anthropic, OpenAI, Google and Meta agreed to send representatives** Speaker Julie Menin's letter says the investigation will assess whether AI risks "warrant immediate legislative action"; the council says all but Meta confirmed only after it threatened subpoenas, and that SpaceXAI had not answered its inquiry. ([CNBC](https://www.cnbc.com/2026/09/28/elon-musk-spacexai-subpoenaed-by-nyc-in-ai-safety-investigation.html), [NYC Council](https://council.nyc.gov/press/2026/09/28/3266/))
+- **Rep. Ro Khanna will introduce a "Human Control Over AI Act" banning models that recursively self-improve until federal guardrails exist and an agency approves, and creating a federal agency to license frontier training and deployment** The bill, shared first with CNBC, would also embed independent auditors at every frontier lab, require liability insurance and impose strict liability and criminal penalties for employees who disable safeguards; no House bill is expected to get a vote before the midterms. ([CNBC](https://www.cnbc.com/2026/09/28/khanna-ai-safety-bill.html))
 
 ## 2026-09-25 — A divided D.C. Circuit panel upholds the Pentagon's other Anthropic supply-chain-risk designation, 2-1
 
