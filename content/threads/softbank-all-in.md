@@ -3,7 +3,7 @@ title: Son All-In
 lens: global-capital
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-25
+last_seen: 2026-09-30
 weight: 2
 entities:
 - softbank
@@ -27,6 +27,10 @@ blurb: 'The empire''s concentration play, assembled from pieces other threads ca
   repricing, any forced Arm monetization, Stargate milestones, the funding-gap figure,
   and whether Roze/ABB actually reaches IPO.'
 ---
+
+## 2026-09-30 — SoftBank completes the DigitalBridge acquisition
+
+- **SoftBank completed its roughly $3.1 billion acquisition of DigitalBridge on September 30, US time, making it a controlled subsidiary led by Marc Ganzi.** SoftBank's release says DigitalBridge will keep operating as a separately managed platform; the deal had all regulatory approvals as of 09-22. ([SoftBank Group](https://group.softbank/en/news/press/20260930), [DigitalBridge](https://ir.digitalbridge.com/news-releases/news-release-details/digitalbridge-receives-all-regulatory-approvals-required))
 
 ## 2026-09-25 — SoftBank falls about 3% in Tokyo on Oracle's Project Jupiter notice
 

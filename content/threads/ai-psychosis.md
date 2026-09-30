@@ -3,7 +3,7 @@ title: AI Psychosis
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-28
+last_seen: 2026-09-30
 weight: 2
 entities:
 - openai
@@ -14,6 +14,10 @@ blurb: Chatbot-linked psychosis/delusion moving from case reports toward a clini
   signals; sycophancy research now formally connected to delusion-reinforcement risk.
   No population-level epidemiology yet — that arriving (or failing to) is the thread.
 ---
+
+## 2026-09-30 — A clinician framework for asking patients about chatbot use is published
+
+- **Researchers published the AWARE framework in JMIR Medical Education on 09-30, a five-part set of questions clinicians can use to ask patients how they use AI chatbots, how attached they are, and whether it affects their sense of reality and daily functioning.** Lead author Alexandre Hudon frames it as a structured, nonjudgmental conversation aid; the release reports no validation data. ([JMIR Publications via Newswise](https://www.newswise.com/articles/is-your-patient-chatting-with-ai-new-tool-guides-psychiatrists-on-assessing-patients-ai-use))
 
 ## 2026-08-31 — The same evaluation puts a number on delusion-reinforcement rates by model generation, for the first time on this thread
 

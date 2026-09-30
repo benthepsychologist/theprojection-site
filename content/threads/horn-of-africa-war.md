@@ -3,7 +3,7 @@ title: Horn of Africa War
 lens: world-news
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-29
+last_seen: 2026-09-30
 weight: 2
 entities: []
 thread_kind: story
@@ -19,6 +19,11 @@ blurb: 'A Tigray-war reignition with cross-border spillover, offered as a thread
   conflict above hyper-local scale is a yes, not a judgment call re-litigated per
   war.'
 ---
+
+## 2026-09-30 — Pope appeals for dialogue in Tigray as Israelis are evacuated from Lalibela
+
+- **Pope Leo XIV appealed on Wednesday to all parties in Tigray to "choose the path of dialogue," saying he follows "with deep concern" the renewed hostilities in Tigray, Afar and Amhara.** ([Vatican News](https://www.vaticannews.va/en/pope/news/2026-09/pope-appeals-for-dialogue-in-tigray-region.html))
+- **Israel's Foreign Ministry said a group of Israelis stranded in Lalibela, in Ethiopia's Amhara region, was evacuated by helicopter after a three-day diplomatic effort.** Flights to Lalibela have been suspended since September 24 because of nearby clashes. ([i24NEWS](https://www.i24news.tv/en/news/israel/diplomacy/artc-israelis-airlifted-from-ethiopia-s-lalibela-as-fighting-escalates))
 
 ## 2026-09-29 — Afar governor says Eritrean forces are fighting alongside the rebel coalition
 

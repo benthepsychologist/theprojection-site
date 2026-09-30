@@ -3,7 +3,7 @@ title: AI Debt Gets Rated
 lens: global-capital
 status: open
 opened: 2026-08-11
-last_seen: 2026-09-25
+last_seen: 2026-09-30
 weight: 2
 entities:
 - nvidia
@@ -27,6 +27,15 @@ blurb: 'Whether AI-buildout debt is becoming its own underwritten, rated, public
   an infrastructure asset with a 20-year life or like equipment on a 3-4 year depreciation
   clock — the two produce very different recovery rates in a default.'
 ---
+
+## 2026-09-30 — The Bank of England says AI debt and sovereign debt could crystallise at once
+
+- **The Bank of England's Financial Policy Committee warned Wednesday that AI-related borrowing, about $450 billion so far this year, and sovereign debt could hit trouble together, with government bond yields at levels not seen since 2008.** Its September record says the Middle East conflict is "re-intensifying the risk that vulnerabilities in sovereign debt markets, risky asset valuations and risky credit markets crystalise at the same time," that private credit "remains vulnerable to a tightening in financial conditions," and that "the risk of a sharper correction persists" if AI earnings expectations are shaken. It cited JPMorgan analysts' estimate that debt-financed AI capital spending could reach about $4.1 trillion in 2026 to 2030, Morgan Stanley's estimate that about $700 billion of data-center spending in 2026 to 2028 will be financed through private credit, and "circular arrangements" in AI financing. ([Yahoo Finance](https://finance.yahoo.com/economy/policy/articles/bank-england-warns-looming-debt-102220091.html), [ANI](https://www.aninews.in/news/business/bank-of-england-says-ai-investment-boom-raises-financial-risks-debt-financing-could-reach-usd-41-trillion-by-203020260930181650))
+
+## 2026-09-29 — Tesla lines up $30 billion of credit; an AI data-center IPO prices below its range
+
+- **Tesla signed $30 billion of unused bank credit facilities on Tuesday: a $20 billion three-year delayed-draw term loan led by Citibank and $8 billion five-year and $2 billion 364-day revolvers led by Wells Fargo.** Nothing was drawn at signing and Tesla says it does not plan to borrow in 2026; the package replaces a $5 billion revolver from January 2023 as the company guides capital spending sharply higher on its AI and robotics plans. ([Tesla 8-K](https://www.sec.gov/Archives/edgar/data/1318605/000162828026063820/tsla-20260929.htm), [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/tesla-lines-30-billion-credit-223608219.html))
+- **Data-center infrastructure firm Accelevation priced its US IPO at $18 a share, below the $20 to $24 marketed range, raising $540 million.** The private-equity-backed company and its selling shareholders offered 30 million shares (10 million new, 20 million sold by Olympus Partners-affiliated holders), pressing ahead despite surging bond yields; Reuters called it a key test for AI-infrastructure listings in a rocky IPO month. Trading on Nasdaq as ACCV begins September 30. ([Reuters via The Economic Times](https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-infra-firm-accelevation-shareholders-raise-540-million-in-us-ipo/articleshow/134578811.cms), [Pulse 2.0](https://pulse2.com/accelevation-prices-540-million-ipo-at-18-per-share/))
 
 ## 2026-09-25 — Japan's regulator turns to AI data-center lending; Reuters maps the operator IPO queue
 

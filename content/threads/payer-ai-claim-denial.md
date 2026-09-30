@@ -3,7 +3,7 @@ title: AI Denial Machine
 lens: mental-health
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-25
+last_seen: 2026-09-29
 weight: 2
 entities:
 - unitedhealth-group
@@ -20,6 +20,10 @@ blurb: 'The concept lived in board glosses; now the evidence supports a thread: 
   the UHC discovery outputs, WISeR''s fate, state AI-denial bans spreading, and Humana''s
   nH Predict suit (quiet, distinct docket).'
 ---
+
+## 2026-09-29 — A federal judge lets the Blue Shield of California "ghost network" class action proceed
+
+- **A federal judge ruled on 09-23 that a class action accusing Blue Shield of California and its behavioral-health contractor Magellan of publishing a grossly inaccurate directory of mental-health clinicians can go forward, granting the motions to dismiss in part and denying the rest (reported 09-29).** Judge William Orrick's order in Roiz v. Blue Shield dismissed two causes of action against Blue Shield and five against Magellan, with leave to amend within 20 days; Behavioral Health Business reports the amended complaint is due 10-13, after which discovery and class certification follow, and that Blue Shield does not comment on pending litigation. ([Order, N.D. Cal.](https://litigationtracker.law.georgetown.edu/wp-content/uploads/2026/02/Roiz_2026.09.23_OPINION.pdf), [Behavioral Health Business](https://bhbusiness.com/2026/09/29/blue-shield-of-california-magellan-ghost-network-lawsuit-continues-after-failed-motion-to-dismiss/))
 
 ## 2026-09-25 — New documents detail Medicare's AI prior-authorization pilot's chaotic rollout
 

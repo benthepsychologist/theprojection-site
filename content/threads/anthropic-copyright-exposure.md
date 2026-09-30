@@ -3,7 +3,7 @@ title: Copyright Exposure
 lens: ai
 status: open
 opened: 2026-08-06
-last_seen: 2026-09-22
+last_seen: 2026-09-29
 weight: 2
 entities:
 - anthropic
@@ -16,6 +16,11 @@ blurb: 'Two angles surfaced the same day (2026-08-05/06): Anthropic sought parti
   Concord II dismissal ruling; further reporting on the book-shredding practice and
   whether other labs did the same; any read-through to Anthropic''s IPO risk disclosures.'
 ---
+
+## 2026-09-29 — Third Circuit upholds Thomson Reuters over Ross on AI-training fair use
+
+- **The Third Circuit affirmed Thomson Reuters's win against Ross Intelligence, the first federal appeals-court ruling on fair use in AI training** A three-judge panel upheld Judge Bibas's February 2025 finding that Ross infringed Westlaw headnotes and could not claim fair use for training a competing legal search tool on them; the court issued a one-word judgment, "AFFIRMED", and the 32-page precedential opinion by Judge Tamika Montgomery-Reeves is under seal pending redactions, and the case involved a non-generative AI tool, so generative-AI fair use is still undecided. ([Copyright Lately](https://copyrightlately.com/thomson-reuters-v-ross-third-circuit/), [Music Business Worldwide](https://www.musicbusinessworldwide.com/us-appeals-court-rejects-fair-use-defense-over-ai-training-as-thomson-reuters-wins-copyright-case-backed-by-riaa-and-nmpa/))
+- **Google is paying about 100 digital publishers for content used in AI Overviews, AI Mode and Gemini, with payments from under $1,000 over several months to more than $1 million a year, The Information reported** The pilot launched less than a year ago, some publishers say they cannot tell how payments are calculated, and some larger publishers are declining to join to press Google to pay more while the European Commission's antitrust probe into AI Overviews continues. ([The Decoder](https://the-decoder.com/google-is-paying-almost-no-publishers-almost-nothing-for-content-used-in-ai-answers/))
 
 ## 2026-09-22 — Anthropic and OpenAI ask Australia to relax its AI-training copyright ban
 
