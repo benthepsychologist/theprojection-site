@@ -3,7 +3,7 @@ title: Psychedelic Sprint
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-29
+last_seen: 2026-09-30
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -15,6 +15,11 @@ blurb: 'Psilocybin racing toward first-ever US approval (Compass NDA targeted Q4
   the accelerating trials share. The live question: is approval outrunning the methodology
   fix?'
 ---
+
+## 2026-09-30 — Portland council finalizes low-priority psychedelics ordinance
+
+- **Portland's City Council passed, as amended, an ordinance making non-commercial personal use of naturally occurring psychedelics a low law-enforcement priority and creating a Psychedelics Advisory Commission (10 aye, two absent).** The ordinance adds Chapter 14B.140 to city code and keeps enforcement against illegal sales and impaired driving; it had passed to second reading on 09-23. ([City of Portland](https://www.portland.gov/council/documents/ordinance/psychedelic-health-and-safety-act))
+- **Portland's low-priority psychedelics ordinance covers naturally occurring psychedelics including psilocybin mushrooms and ayahuasca, explicitly excludes peyote, and keeps bans on commercial sales outside state licensing and on impaired driving.** Marijuana Moment reported the council vote on 09-30 as unanimous among the councilors present; the peyote exclusion protects the threatened plant and Native American religious use, and the ordinance stays subordinate to Oregon state law. ([Marijuana Moment](https://www.marijuanamoment.net/portland-oregon-city-council-votes-to-deprioritize-police-enforcement-against-psychedelics/))
 
 ## 2026-09-29 — Filament ships psilocybin to Calgary for a phase 2 PTSD trial in intimate-partner-violence survivors
 

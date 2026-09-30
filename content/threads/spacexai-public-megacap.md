@@ -3,7 +3,7 @@ title: Musk Megacap
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-24
+last_seen: 2026-09-30
 weight: 1
 entities:
 - spacex
@@ -19,6 +19,10 @@ blurb: 'SpaceX (Nasdaq: SPCX) — the public parent holding xAI + X (crawl 2026-
   Watch: the Aug-6 lock-up (911.5M shares); Musk''s ~82% voting control; whether the
   Anthropic lease-back is real revenue or circular financing. Q7 material.'
 ---
+
+## 2026-09-30 — SpaceXAI weighs four-tier Grok and X subscriptions
+
+- **SpaceXAI is considering a four-tier subscription overhaul for Grok and X, including a $100 a month "Ultra" plan with access to its Grok Bot agent and an $8 "Lite" plan, Bloomberg reported from an internal document** The plan is under consideration and has not been announced. ([Investing.com via Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/spacexai-considers-four-tier-pricing-181516980.html))
 
 ## 2026-09-28 — Starship reaches orbit for the first time and deploys 26 Starlink V3 satellites
 

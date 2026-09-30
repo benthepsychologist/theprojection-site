@@ -3,7 +3,7 @@ title: Distillation Fight
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-23
+last_seen: 2026-09-30
 weight: 3
 entities:
 - moonshot-ai
@@ -17,6 +17,10 @@ blurb: 'The White House (OSTP''s Kratsios) directly accused Moonshot of distilli
   Moonshot''s response, independent verification one way or the other, and whether
   it chills enterprise adoption of K3.'
 ---
+
+## 2026-09-30 — OpenAI attributes a reasoning-extraction campaign to Moonshot-linked users
+
+- **OpenAI said it disrupted a coordinated campaign to extract its models' protected reasoning and attributed a core cluster of it to individuals associated with Moonshot AI, maker of Kimi** The activity began 1 July, peaked on 24 and 25 July with 16,000 attempted requests from more than 4,000 users, and a cluster of more than 15,000 users was fully disrupted by 28 July; OpenAI says it cannot tell whether all operators were one actor. ([OpenAI](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign/), [Unite.AI](https://www.unite.ai/openai-disrupts-coordinated-model-reasoning-extraction-campaign/))
 
 ## 2026-09-23 — Chinese AI shares fall on the reported probe
 

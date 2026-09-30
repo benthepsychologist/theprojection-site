@@ -3,7 +3,7 @@ title: The Enterprise Agent Land Grab
 lens: ai
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-29
+last_seen: 2026-09-30
 weight: 2
 entities:
 - anthropic
@@ -25,6 +25,14 @@ blurb: 'Whether the enterprise agent-product surface — the layer where labs an
   IDE install counts) ever get disclosed to test whether the packaging actually converts
   to usage.'
 ---
+
+## 2026-09-30 — OpenAI and Synopsys build a chip-design model; Meta denies Muse message-reading claim
+
+- **OpenAI and Synopsys signed a multi-year agreement to build GPT-Synopsys, a model specialised to run Synopsys's chip-design tools, with revenue sharing and joint sales** The model will run on OpenAI-hosted infrastructure, with agents running the design tools and returning results for engineer review. ([Synopsys](https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design))
+- **Meta denied that its Muse agent read a user's private messages without permission** Spokesman Andy Stone said the Mac app's Messages integration is opt-in and needs both Full Disk Access and the Messages connector enabled, after an Inc. columnist wrote that it read his messages unprompted. ([TechCrunch](https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/))
+- **Anthropic made Claude for Government generally available to federal and state agencies, ending a public beta that began in July** The platform runs in a FedRAMP High authorized environment with no seat fees, agencies buy usage in fixed increments under a hard not-to-exceed cap, and Claude Code's command-line tool and Claude for Microsoft 365 are in early access. ([Anthropic](https://claude.com/blog/claude-for-government-is-now-generally-available), [Reuters via TradingView](https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45M1CM:0-anthropic-says-claude-for-government-is-now-generally-available/))
+- **Google began rolling out reusable "skills" in Gemini chat worldwide, the feature that will replace Gems** Users save instructions once and call them with a forward slash, skills can be stacked or given reference files, existing Gems will migrate automatically, and Workspace business, enterprise, nonprofit and education customers get skills in the coming weeks. ([Google](https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/), [PCWorld](https://www.pcworld.com/article/3246807/adios-gems-googles-new-gemini-skills-wont-be-paywalled.html))
+- **Meta's Muse agent passed 5 million downloads on Wednesday, less than a month after its September 8 launch, according to Sensor Tower** Sensor Tower's comparison has ChatGPT reaching 5 million downloads in 56 days, Grok in 103 and Claude in 492; Muse is still the top app on both major US app stores and is available only in the US and Canada. ([Yahoo Finance](https://finance.yahoo.com/technology/article/metas-muse-tops-5-million-downloads-faster-than-chatgpt-claude-161145561.html))
 
 ## 2026-09-29 — Meta takes its Muse agent to small businesses
 

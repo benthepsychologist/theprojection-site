@@ -3,7 +3,7 @@ title: Russia-Ukraine War
 lens: world-news
 status: open
 opened: 2026-07-31
-last_seen: 2026-09-29
+last_seen: 2026-09-30
 weight: 3
 entities: []
 thread_kind: story
@@ -20,6 +20,10 @@ blurb: 'The single largest signal in kestrel''s own mechanical world-news sweep,
   sibling thread the same way Iran''s Widening War / Red Sea Shock did, if and when
   that read becomes substantial enough to carry on its own.'
 ---
+
+## 2026-09-30 — Russian attacks kill at least seven across Ukraine on Wednesday
+
+- **Russian attacks have killed at least seven people, including a child, and wounded 24 across Ukraine since the start of Wednesday, President Zelenskyy said, with Kyiv and three regions placed on emergency power outages.** Ukraine's air force says it neutralised 254 of 285 drones launched during the day. ([Ukrinform](https://www.ukrinform.net/rubric-ato/4169664-death-toll-from-todays-russian-attack-rises-to-seven-24-injured-zelensky.html))
 
 ## 2026-09-29 — Estonia blames Russian special services for an arson attack on a defence firm
 

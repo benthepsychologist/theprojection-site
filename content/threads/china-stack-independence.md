@@ -3,7 +3,7 @@ title: China's Stack
 lens: ai
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-29
+last_seen: 2026-09-30
 weight: 3
 entities:
 - zhipu-ai
@@ -18,6 +18,10 @@ blurb: 'One story, both directions: Z.AI''s 1 GW all-domestic-chip site, Kimi K3
   rules; September US-China talks) plus Beijing''s own proposed export controls on
   its models/chips. US chip-equity reaction is the measure.'
 ---
+
+## 2026-09-30 — DeepSeek and Huawei release open-source Ascend programming tools
+
+- **DeepSeek said it has teamed up with Huawei to release open-source programming tools for Huawei's Ascend AI chips, led by TileLang, a language it presents as simpler than Nvidia's CUDA** A post on DeepSeek's official WeChat channel says Huawei "fully supported" the work, which includes libraries for computation and moving data between chips and an optimized "supernode" of 128 Ascend 950 chips; TileLang began at Peking University. ([The Decoder](https://the-decoder.com/chinas-ai-industry-closes-ranks-as-deepseek-ships-open-source-software-for-huaweis-ascend-chips/), [Yahoo Tech](https://tech.yahoo.com/ai/articles/deepseek-huawei-partner-open-source-134322190.html))
 
 ## 2026-09-29 — Khanna presses US intelligence and Chinese labs on a US-China AI treaty
 

@@ -3,7 +3,7 @@ title: In-House Silicon
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-22
+last_seen: 2026-09-30
 weight: 2
 entities:
 - google
@@ -20,6 +20,10 @@ blurb: The custom-silicon revolt (TPU/Trainium/Maia/MTIA) — real but INFERENCE
   demand still grows; the clearest winners are the co- design houses (Broadcom, Marvell).
   Watch whether displacement reaches frontier training.
 ---
+
+## 2026-09-30 — AWS signs a $1 billion-plus chip-design licence with Synopsys
+
+- **Amazon Web Services agreed a multi-year deal worth more than $1 billion to license chip-design intellectual property from Synopsys, which names Amazon the lead customer for its new "application-optimized" silicon IP** The deal moves Synopsys to a license-plus-royalty model with payments tied to production volumes, extends AWS's use of Synopsys's design software and agentic AI tools, and does not say which AWS chips will use the designs. ([Synopsys](https://news.synopsys.com/2026-09-30-Synopsys-and-Amazon-Announce-Strategic,-Multi-year-IP-Agreement-for-Custom-Silicon-Collaboration-Also-Extends-to-Cloud-and-AI-Powered-Engineering), [Quartz via Yahoo Finance](https://finance.yahoo.com/technology/articles/aws-signs-1b-chip-design-134633158.html))
 
 ## 2026-09-22 — Google pitches TPUs to Korea, outside its own cloud
 
