@@ -23,6 +23,7 @@ blurb: 'A Tigray-war reignition with cross-border spillover, offered as a thread
 ## 2026-10-01 — Eritrea denies backing Ethiopia's rebel alliance
 
 - **Eritrea's information minister told the BBC his government is not backing Ethiopia's rebel alliance, accusing Ethiopia's ruling Prosperity Party of seeking external scapegoats, while a pro-government militia commander told the BBC that Eritrean soldiers are on the front lines in Tigray.** The BBC could not verify either claim and cannot report from Tigray, where internet and telecoms are cut. ([BBC](https://www.bbc.co.uk/news/articles/c3vgygpqky9zo))
+- **Ethiopia ordered 10 Eritrean diplomats out within 48 hours and closed its embassy in Eritrea; Eritrea said it would sever all diplomatic ties in return.** Ethiopia cited a "direct threat to Ethiopia's national security"; AP says it is unclear whether the overnight Addis Ababa blasts were an attack or training. ([AP, via WSLS](https://www.wsls.com/news/world/2026/10/01/blasts-reported-in-ethiopian-capital-hours-after-government-banned-drone-flights/))
 
 ## 2026-09-30 — Pope appeals for dialogue in Tigray as Israelis are evacuated from Lalibela
 

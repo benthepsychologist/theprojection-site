@@ -3,7 +3,7 @@ title: Anthropic IPO
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-29
+last_seen: 2026-10-01
 weight: 2
 entities:
 - anthropic
@@ -14,6 +14,10 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
   or flip-to-public, valuation vs the $965B print, and how the Opus 5 cycle + the
   AMD/Azure/Google-TPU compute deals get positioned in the roadshow narrative.'
 ---
+
+## 2026-10-01 — Anthropic reported to target a mid-November IPO
+
+- **Anthropic is seeking to go public as soon as the middle of November, with formal marketing possibly starting the week of November 9, Bloomberg reported** Citing people familiar with the matter, Bloomberg says that would put Anthropic in line to begin trading before Thanksgiving on November 26, after the company pushed back earlier listing plans; this is a report, not a company announcement. ([Financial Post, carrying Bloomberg](https://financialpost.com/investing/anthropic-target-mega-ipo-before-u-s-thanksgiving))
 
 ## 2026-09-29 — Anthropic tells investors rogue agents create uncertain legal risk
 

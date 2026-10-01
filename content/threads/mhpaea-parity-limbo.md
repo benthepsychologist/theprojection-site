@@ -3,7 +3,7 @@ title: Parity Limbo
 lens: mental-health
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-30
+last_seen: 2026-10-01
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,10 @@ blurb: 'The real parity story is limbo, not a deadline: the 2024 Biden-era MHPAE
   the enforcement-gap consequences payers price in meanwhile, and any state-level
   parity action filling the federal void.'
 ---
+
+## 2026-10-01 — Replacement parity proposal now expected in 2027
+
+- **The Trump administration's replacement proposal for the federal mental-health parity rule is now expected in 2027, according to a government legal filing reported by Bloomberg Law on 10-01.** The proposal would overhaul how federal rules treat employers' mental-health coverage; enforcement of the 2024 rule was paused in May 2025 and narrower enforcement priorities were issued last month. ([Bloomberg Law](https://news.bloomberglaw.com/health-law-and-business/expected-timeline-for-mental-health-coverage-rule-slips-to-2027))
 
 ## 2026-09-30 — California writes the 2024 federal parity rules into state law
 

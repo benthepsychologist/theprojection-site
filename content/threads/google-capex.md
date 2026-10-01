@@ -3,7 +3,7 @@ title: Google Capex
 lens: ai
 status: developing
 opened: 2026-07-23
-last_seen: 2026-09-24
+last_seen: 2026-10-01
 weight: 2
 entities:
 - google
@@ -17,6 +17,10 @@ blurb: '$195-205B guided for 2026 (07-22), destination traced by crawl 07-27: a 
   primary filing unreached. Watch: Q3 guidance, the FCF-negative reaction, TPU externalization
   (Meta eval).'
 ---
+
+## 2026-10-01 — Google's first Suncatcher satellite launches with four TPUs aboard
+
+- **Google's first Project Suncatcher satellite, carrying four of its TPU AI chips, launched into low-Earth orbit on a SpaceX Falcon 9 at about 2:32pm ET** The Planet Labs-built prototype flew on the Transporter-18 rideshare from Vandenberg to test how the chips fare through launch and in orbit, running a version of Google's Gemma model about 15 minutes at a time; no separation or first-contact report had appeared by about 4pm ET. ([Scientific American](https://www.scientificamerican.com/article/googles-project-suncatcher-ai-data-center-test-has-officially-launched-to-space-aboard-spacex-rocket/), [NPR via WVIK](https://www.wvik.org/npr-top-stories/2026-10-01/google-launches-project-suncatcher-a-step-towards-ai-data-centers-in-space))
 
 ## 2026-09-24 — Google to put its first TPUs in orbit next week
 
