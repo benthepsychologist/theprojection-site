@@ -3,7 +3,7 @@ title: Neuromodulation
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-30
+last_seen: 2026-10-01
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -19,10 +19,16 @@ blurb: 'The somatic bet where evidence actually caught up — and the test of wh
   angle, and further confirmatory work.'
 ---
 
+## 2026-10-01 — New focused-ultrasound and theta-burst trials are registered
+
+- **Attune Neurosciences registered a 300-participant dose-finding study of low-intensity focused ultrasound across seven deep-brain targets in adults with mild-to-moderate depression, anxiety or obsessive-compulsive disorder (first posted 10-01; start planned 10-05).** Every session delivers active stimulation with no sham arm; this is the sponsor's own registration. ([ClinicalTrials.gov NCT07851038](https://clinicaltrials.gov/study/NCT07851038))
+- **Egypt's Kafrelsheikh University registered a 182-patient randomized non-inferiority trial of 3-minute intermittent theta-burst stimulation against standard 37-minute 10 Hz magnetic stimulation for treatment-resistant depression (first posted 10-01).** Participants get 20 sessions over four weeks, with change on the 17-item Hamilton scale at week 4 as the primary outcome. ([ClinicalTrials.gov NCT07852065](https://clinicaltrials.gov/study/NCT07852065))
+
 ## 2026-09-30 — A small uncontrolled radiosurgery study reports relief for treatment-resistant depression, and NRx announces a DARPA-funded one-day TMS trial
 
 - **A 20-patient uncontrolled study presented at the American Society for Radiation Oncology's annual meeting reported that incisionless stereotactic radiosurgical capsulotomy cut depression scores by 53% on average in treatment-resistant depression, and that thoughts of suicide fell from 14 patients to one (coverage 09-30).** Lead author Mohamed Khattab of the University of South Florida reports that 61% still met the response criteria at the last follow-up, a median of 38.6 months after treatment at Vanderbilt University Medical Center, with no cognitive decline; he and ASTRO's Markus Bredel caution that the study had no comparison group and that larger controlled trials are needed. ([Applied Radiology](https://appliedradiology.com/articles/astro-2026-stereotactic-radiosurgery-demonstrates-potential-in-treating-severe-depression), [HealthDay](https://www.healthday.com/health-news/mental-health/focused-brain-radiation-could-ease-severe-tough-to-treat-depression))
 - **NRx Defense Systems, a subsidiary of NRx Pharmaceuticals, announced on 09-30 an initial $11.18 million DARPA contract for the SPARC-TMS trial, which will test whether a full course of transcranial magnetic stimulation delivered in one day, combined with its drug NRX-101, treats major depression.** The company says the FDA-approved trial (NCT07227103) will begin enrolling at Harvard's McLean Hospital, Arizona State University and HOPE Therapeutics, with military hospitals affiliated; this is the company's own announcement. ([NRx via GlobeNewswire on Yahoo Finance](https://finance.yahoo.com/healthcare/articles/nrx-defense-systems-nrx-company-110000462.html))
+- **A Spanish research institute registered a 33-patient randomized trial of transcranial direct current stimulation, online cognitive rehabilitation or both for depressive symptoms after ischemic stroke, with a sham arm and the 17-item Hamilton scale as primary outcome (first posted 09-30).** Enrolment is complete and the study started in April 2024; no results are posted. ([ClinicalTrials.gov NCT07848919](https://clinicaltrials.gov/study/NCT07848919))
 
 ## 2026-09-25 — A brain-stimulation trial targets co-occurring depression and opioid use disorder
 

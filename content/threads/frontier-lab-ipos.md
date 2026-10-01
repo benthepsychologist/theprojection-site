@@ -3,7 +3,7 @@ title: Lab IPO Wave
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-28
+last_seen: 2026-09-30
 weight: 3
 entities:
 - openai
@@ -28,6 +28,10 @@ blurb: 'The frontier labs are converting private, vendor-financed valuations int
   does Anthropic''s S-1 land on schedule, and does OpenAI''s own timeline (currently
   "as late as next year") move.'
 ---
+
+## 2026-09-30 — SEC charges advisers who sold fake pre-IPO stakes
+
+- **The SEC charged private fund advisers in two cases involving funds that claimed pre-IPO stakes in SpaceX, OpenAI and xAI, alleging misappropriated investor money and false statements.** One complaint alleges at least $1.27 million was misappropriated from funds that raised at least $18.5 million from nearly 100 investors; the other, brought with federal prosecutors, alleges a fund raised $8.7 million from 35 investors while falsely listing SpaceX and xAI as holdings; none of the companies is accused of wrongdoing. ([SEC](https://www.sec.gov/newsroom/press-releases/2026-98-sec-charges-meyer-global-management-its-ceo-defrauding-retail-investors-private-funds-held-interests), [Fortune](https://fortune.com/2026/09/30/openai-spacex-private-fund-advisers-charged/))
 
 ## 2026-09-25 — Nscale's convertible financing grows to $3.36B, with Nvidia's $1B arriving mid-November
 

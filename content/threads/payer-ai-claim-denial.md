@@ -3,7 +3,7 @@ title: AI Denial Machine
 lens: mental-health
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-29
+last_seen: 2026-09-30
 weight: 2
 entities:
 - unitedhealth-group
@@ -20,6 +20,10 @@ blurb: 'The concept lived in board glosses; now the evidence supports a thread: 
   the UHC discovery outputs, WISeR''s fate, state AI-denial bans spreading, and Humana''s
   nH Predict suit (quiet, distinct docket).'
 ---
+
+## 2026-09-30 — California signs its bias-testing law for AI clinical decision tools
+
+- **Governor Newsom signed SB 503 on 09-30, requiring developers and deployers of AI clinical decision-support systems to take reasonable steps to identify and reduce biased impacts in health programs.** The law (Weber Pierson, Chapter 857) has developers publish intended uses and foreseeable risks and has deployers monitor the tools in use; the governor's release frames it as keeping clinicians' professional judgment at the center of AI-assisted care. ([SB 503 bill status](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB503), [Governor's legislative update](https://www.gov.ca.gov/2026/09/30/governor-newsom-issues-legislative-update-9-30-2026/))
 
 ## 2026-09-29 — A federal judge lets the Blue Shield of California "ghost network" class action proceed
 

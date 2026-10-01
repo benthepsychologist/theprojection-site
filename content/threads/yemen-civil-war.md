@@ -3,7 +3,7 @@ title: Yemen's Civil War
 lens: world-news
 status: open
 opened: 2026-09-05
-last_seen: 2026-09-29
+last_seen: 2026-10-01
 weight: 2
 entities: []
 thread_kind: story
@@ -17,6 +17,15 @@ blurb: 'The Houthi-versus-government ground war inside Yemen — deliberately di
   ground or air support, and whether the UN envoy''s warning of a return to full-scale
   war becomes a formal collapse of the 2022 truce.'
 ---
+
+## 2026-10-01 — Yemeni army reports six airstrikes in Taiz as fighting continues
+
+- **Yemen's army said Thursday its warplanes carried out six airstrikes on Houthi positions in Taiz province, in the Al-Akboush area and Hayfan district, as fierce fighting continued on several Taiz fronts.** The army claimed casualties and equipment losses for the Houthis without giving figures; the Houthis did not immediately comment. ([Anadolu](https://aa.com.tr/en/middle-east/yemeni-army-says-it-carried-out-6-airstrikes-on-houthi-positions-in-taiz/4074505))
+
+## 2026-09-30 — Saudi crown prince says the Houthis chose "chaos"; Yemen's army claims 468 operations
+
+- **Saudi Crown Prince Mohammed bin Salman said Wednesday that the Houthis chose "chaos and destruction, threatening the Yemeni people and the region" and that Saudi Arabia "will not hesitate to respond firmly to any threat or attack."** In his Shura Council speech he rejected the use of the Bab al-Mandab and other waterways "as a tool for political or economic pressure" and said a multinational maritime coalition had been set up; Al Jazeera notes Pakistan's defence minister said Tuesday that Islamabad would use "whatever means" to defend the kingdom under their pact. ([Al Jazeera](https://www.aljazeera.com/news/2026/9/30/saudi-crown-prince-says-no-compromise-on-kingdoms-security-against-threats))
+- **Yemen's army said Wednesday it carried out 468 operations against Houthi fighters and equipment on the eastern, Al-Bayda and Al-Mansoura fronts, claiming hundreds of Houthi fighters killed or injured.** The figures are the army's own, from spokesman Maj. Gen. Majed Abdullah al-Nazili; the Houthis did not immediately comment, and Anadolu describes the escalation as the largest since the April 2022 truce. ([Anadolu](https://www.aa.com.tr/en/middle-east/yemeni-army-says-it-carried-out-468-operations-against-houthis-on-3-fronts/4074351))
 
 ## 2026-09-29 — UN envoy meets the Houthis' chief negotiator; the US flags Houthi ties to al-Shabaab
 

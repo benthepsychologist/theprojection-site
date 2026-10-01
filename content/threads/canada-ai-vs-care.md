@@ -3,7 +3,7 @@ title: AI vs Care
 lens: mental-health
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-18
+last_seen: 2026-09-28
 weight: 3
 entities: []
 thread_kind: story
@@ -14,6 +14,10 @@ blurb: 'Budget 2025 put $925.6M+ into AI infrastructure the same cycle multiple 
   audit, Santé Québec''s pilot. Track: the 2027 cliff''s political arc, any replacement
   framework, provincial AI-health procurement vs MH service funding.'
 ---
+
+## 2026-09-28 — Provincial health ministers call an emergency meeting over the 2027 funding cliff
+
+- **Ontario Health Minister Sylvia Jones said on 2026-09-28 that Canada's provincial and territorial health ministers would meet on 09-29 to warn of a "fiscal cliff" if federal funding agreements for home care and mental health are not renewed.** The $4.8 billion earmarked for home care, community care and mental-health and addiction services under the 2023 health deal ends in 2027, and Jones said Ottawa appears to be walking away from part of the Canada Health Transfer. A spokesperson for federal Health Minister Marjorie Michel said she will talk with counterparts at a meeting next month, and the federal budget is due later this fall. ([Global News](https://globalnews.ca/news/12076426/as-feds-budget-nears-canadas-health-ministers-to-meet-to-talk-funding/), [Canadian Press via Times Colonist](https://www.pressreader.com/canada/times-colonist/20260929/281603837395005))
 
 ## 2026-09-18 — A long-form investigation asks this thread's own question out loud: is Canada's AI-health spending backed by evidence, and what does the infrastructure behind it cost?
 

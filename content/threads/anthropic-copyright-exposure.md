@@ -3,7 +3,7 @@ title: Copyright Exposure
 lens: ai
 status: open
 opened: 2026-08-06
-last_seen: 2026-09-29
+last_seen: 2026-09-30
 weight: 2
 entities:
 - anthropic
@@ -16,6 +16,10 @@ blurb: 'Two angles surfaced the same day (2026-08-05/06): Anthropic sought parti
   Concord II dismissal ruling; further reporting on the book-shredding practice and
   whether other labs did the same; any read-through to Anthropic''s IPO risk disclosures.'
 ---
+
+## 2026-09-30 — Third Circuit's unsealed opinion rejects Ross's fair-use defense
+
+- **The Third Circuit's unsealed opinion says Ross Intelligence's use of Westlaw headnotes to build a competing legal search engine was not transformative, so it was not fair use** A unanimous panel opinion by Judge Tamika Montgomery-Reeves, filed under seal Tuesday and unsealed Wednesday, calls it "no more than an ordinary copyright case"; the court stressed that Ross's engine was not generative AI and said in a footnote that concerns the Justice Department raised in its copyright suit against OpenAI "do not apply here." ([Reuters, via Stockopedia](https://www.stockopedia.com/share-prices/thomson-reuters-TSE:TRI/news/unsealed-opinion-shows-why-thomson-reuters-won-landmark-ai-fair-use-ruling-updated-01a0f42b-f99e-7bc8-8584-7b24af27a3de/))
 
 ## 2026-09-29 — Third Circuit upholds Thomson Reuters over Ross on AI-training fair use
 

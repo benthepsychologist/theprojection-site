@@ -3,7 +3,7 @@ title: Psychedelic Sprint
 lens: mental-health
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-30
+last_seen: 2026-10-01
 weight: 2
 entities: []
 parent: mh-evidence-watch
@@ -15,6 +15,10 @@ blurb: 'Psilocybin racing toward first-ever US approval (Compass NDA targeted Q4
   the accelerating trials share. The live question: is approval outrunning the methodology
   fix?'
 ---
+
+## 2026-10-01 — A bipartisan House caucus publishes its psychedelic-therapy report
+
+- **The bipartisan Congressional Psychedelics Advancing Therapies (PATH) Caucus published a report on 10-01 finding broad stakeholder consensus that psychedelic-assisted therapy could treat a range of treatment-resistant conditions, and urging coordination among federal agencies, states and tribes.** Built on responses to a 2024 request for information, it recommends federal therapy guidelines, multiple credentialing pathways, a national adverse-event monitoring system and work on insurance coverage; co-chairs Reps. Jack Bergman and Lou Correa said President Trump's executive order on psychedelic research had pushed colleagues to take the issue seriously. ([Marijuana Moment](https://www.marijuanamoment.net/bipartisan-congressional-psychedelics-caucus-lays-out-plan-for-federal-and-state-cooperation-to-increase-therapeutic-access/))
 
 ## 2026-09-30 — Portland council finalizes low-priority psychedelics ordinance
 

@@ -3,7 +3,7 @@ title: DAWG Rising
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-25
+last_seen: 2026-09-30
 weight: 2
 entities: []
 thread_kind: story
@@ -12,6 +12,11 @@ blurb: 'CDAO absorbed into DAWG, Replicator absorbed too, funding moved into REC
   a 240x ask. GenAI.mil gives the force Gemini/Grok access. Track: what the FY27 conference
   actually grants, oversight pushback on the reconciliation route, and vendor wins.'
 ---
+
+## 2026-09-30 — Pentagon announces an Autonomous Warfare Command
+
+- **Defense Secretary Pete Hegseth announced a new four-star Autonomous Warfare Command to build and field drones, robots and other autonomous systems across the US military, the first new US command since Space Command in 2019** He said it will have powers similar to the services, be set up over several months and launch within a year, with an interim effort called Project Agincourt and new job specialties for operators of autonomous systems; he spoke at Quantico in his State of the Force speech. ([The Straits Times](https://www.straitstimes.com/world/united-states/pentagon-creates-autowarcom-to-expand-ai-and-drone-capabilities), [The Next Web](https://thenextweb.com/news/pentagon-autonomous-warfare-command-autowarcom))
+- **Hegseth tapped Elon Musk, Anduril co-founder Palmer Luckey and former House Speaker Newt Gingrich to lead "Project Meridian," a 120-day review of the weapons, technologies and capabilities the US military will need in future wars** He said the effort "is not about developing new strategies or new policies" but about identifying "the domains that we must conquer, and capabilities we must master"; CNBC notes that Musk's SpaceX and Luckey's Anduril both hold large Pentagon contracts. ([CNBC](https://www.cnbc.com/2026/09/30/musk-luckey-gingrich-pentagon-hegseth-.html), [The Hill via Yahoo](https://www.yahoo.com/news/politics/articles/hegseth-puts-musk-luckey-gingrich-205643850.html))
 
 ## 2026-09-25 — A divided D.C. Circuit panel lets the Pentagon keep Anthropic designated a supply-chain risk
 

@@ -3,7 +3,7 @@ title: UBS vs. Bern
 lens: global-capital
 status: open
 opened: 2026-09-28
-last_seen: 2026-09-28
+last_seen: 2026-09-30
 weight: 2
 entities:
 - ubs
@@ -15,6 +15,10 @@ blurb: Whether UBS actually relocates its headquarters (or credibly threatens to
   and whether Finance Minister Keller-Sutter's public dismissals hold as the rule's
   implementation timeline firms up.
 ---
+
+## 2026-09-30 — Top-20 shareholder Artisan urges UBS to leave Switzerland
+
+- **Artisan Partners, a top-20 UBS shareholder, urged the bank in a letter published late Wednesday to leave Switzerland over tougher capital rules, estimating they would cost UBS $16 billion of extra capital and about $36 billion of market value.** The letter from Artisan's Global Value Team and International Value Group, which said they manage more than 60 million UBS shares, called the rules "punitive" and said there is "no compelling reason for UBS to remain a Swiss company"; UBS said its goal is to keep operating as a global bank from Switzerland, and the lower house has yet to debate the 90% common equity tier 1 requirement the upper house passed last month. ([Reuters via Global Banking & Finance Review](https://www.globalbankingandfinance.com/us-investor-artisan-urges-ubs-quit-switzerland-over-capital/))
 
 ## 2026-09-28 — Thread opened; the Swiss capital-rules fight so far
 

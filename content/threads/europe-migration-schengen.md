@@ -3,7 +3,7 @@ title: Europe Migration & Schengen
 lens: world-news
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-19
+last_seen: 2026-10-01
 weight: 2
 entities: []
 thread_kind: story
@@ -21,6 +21,10 @@ blurb: 'The policy fight the Ceuta mass-crossing set off, offered as a thread ca
   triggered rather than threatened, what the October summit is being set up to decide,
   and whether a Morocco-returns arrangement materialises.'
 ---
+
+## 2026-10-01 — EU gives final approval to a return regulation that allows "return hubs" in non-EU countries
+
+- **EU governments gave final approval Thursday to a regulation on returning people with no right to stay in the bloc, including the option for member states to send them to "return hubs" in non-EU countries.** It adds sanctions for those who do not cooperate, up to criminal penalties where national law provides them, a "European Return Order" to ease recognition of return decisions across states (voluntary at first, reviewed after three years), and longer detention and indefinite entry bans for people judged a security risk; a hub requires an agreement with the third country. ([Anadolu](https://www.aa.com.tr/en/europe/eu-gives-final-green-light-to-stricter-rules-for-migrants-return-hubs/4075204))
 
 ## 2026-09-19 — Dutch riot police break up a violent far-right anti-immigration protest in The Hague
 

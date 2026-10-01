@@ -3,7 +3,7 @@ title: Google Health
 lens: mental-health
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-17
+last_seen: 2026-10-01
 weight: 2
 entities:
 - google
@@ -14,6 +14,14 @@ blurb: Google mid-pivot — Verily spun OUT to independence (not wound down); en
   footprint is mostly defensive (Gemini suicide/self-harm safeguards after wrongful-death
   suits); genuine behavioral-health capability is upstream in research, not shipped.
 ---
+
+## 2026-10-01 — Verily is chosen to build the data platform for ARPA-H's CIRCLE ICU program
+
+- **Verily Health was selected to build and operate the database for ARPA-H's CIRCLE program, with its Verily Workbench platform serving as the data backbone, Verily and Business Wire announced on 2026-10-01.** CIRCLE (Critical Illness Immunological Reprogramming and Control Point Learning Engine) is ARPA-H's effort to use AI and diagnostics to build digital twins of the immune response in critically ill patients; ARPA-H says more than 7 million Americans are treated in US ICUs each year. The release body could not be opened, so contract terms are unreported here. ([Business Wire](https://www.businesswire.com/news/home/20261001143913/en/Verily-Health-Selected-to-Build-Data-Platform-for-ARPA-H-CIRCLE-Program), [ARPA-H CIRCLE program page](https://arpa-h.gov/explore-funding/programs/circle), [Verily newsroom](https://www.verily.com/newsroom))
+
+## 2026-09-29 — Weight Watchers becomes a second named Google Health Enterprise partner
+
+- **Weight Watchers announced a collaboration with Google Health Enterprise on 2026-09-29, giving eligible employer and payer clients' members access to the Fitbit Air and Google Health Premium after they complete activity milestones.** It is a second named Google Health Enterprise tie-up after Amae Health, and it is a weight-management, not a behavioral-health, deployment. WW says the program is available now through select Weight Watchers for Business client programs. ([WW International release](https://corporate.ww.com/news/news-details/2026/Weight-Watchers-and-Google-Health-Enterprise-Launch-New-Collaboration-to-Enhance-Engagement-and-Outcomes-in-Weight-Health-Programs/default.aspx))
 
 ## 2026-09-09 — Nvidia invests in Verily, with Alphabet still on the cap table
 

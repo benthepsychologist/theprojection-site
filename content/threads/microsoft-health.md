@@ -3,7 +3,7 @@ title: Microsoft Health
 lens: mental-health
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-18
+last_seen: 2026-09-25
 weight: 2
 entities:
 - microsoft
@@ -14,6 +14,10 @@ blurb: Large and fast, but somatic-first (Dragon Copilot, MAI-DxO, Copilot Healt
   the loudest Big-Tech voice on chatbot 'AI psychosis' harm while shipping companions
   — and MH is conspicuously absent from the flagship products.
 ---
+
+## 2026-09-25 — Microsoft folds its consumer Copilot into the workplace product
+
+- **Microsoft is merging the consumer and workplace versions of Copilot into one product aimed at corporate customers, ending its separate personal-chatbot effort, the Los Angeles Times reported on 2026-09-25.** Executives previewed the new Copilot to business leaders in Seattle on 09-23; Mustafa Suleyman, who was tapped two years ago to lead the consumer assistant, handed Copilot product development to Jacob Andreou in March. The change removes the consumer companion-chatbot line that sat beside Suleyman's public warnings about chatbot harm. ([Los Angeles Times](https://www.latimes.com/business/story/2026-09-25/microsoft-retreats-from-personal-ai-chatbot-race-refocusing-copilot-on-workplace), [Straits Times](https://www.straitstimes.com/world/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot))
 
 ## 2026-08-25 — Dragon Copilot opens a physician-app marketplace, still no MH angle
 

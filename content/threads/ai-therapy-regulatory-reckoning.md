@@ -3,7 +3,7 @@ title: The Reckoning
 lens: mental-health
 status: developing
 opened: 2026-06-28
-last_seen: 2026-09-29
+last_seen: 2026-09-30
 weight: 3
 entities:
 - character-ai
@@ -17,6 +17,11 @@ blurb: 'The capability/approval gap for AI mental-health chatbots is being close
   real regulatory pathway (FDA/MHRA), case outcomes, and any big-tech health-arm move
   into the vacuum. Ben''s sharpest edge — the evidence-gap thesis playing out live.'
 ---
+
+## 2026-09-30 — California's governor signs two AI health-care bills and vetoes two
+
+- **California Governor Gavin Newsom signed AB 1979 and SB 503 on 09-30, laws that bar AI from independently performing licensed clinical functions and require bias mitigation in AI clinical decision-support tools.** AB 1979 (Bonta, Chapter 854) also directs health facilities and clinics to keep a licensed professional's independent judgment in care informed by such tools and deems businesses offering consumer health-care chatbots providers of health care under the state's medical-privacy act; SB 503 (Weber Pierson, Chapter 857) requires developers to document intended uses and foreseeable risks and deployers to monitor for biased impacts. ([Governor's office](https://www.gov.ca.gov/2026/09/30/californias-nation-leading-ai-framework-just-got-stronger-governor-newsom-signs-more-first-in-the-nation-worker-protections-and-more/), [AB 1979 bill text](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1979))
+- **Governor Newsom vetoed AB 2575 on 09-30, Assemblymember Liz Ortega's bill to let clinicians override AI clinical-decision-support output and bar employers from retaliating against them.** His veto message says the "solely" standard in the anti-retaliation language sets a higher bar than other retaliation protections and would put the Labor Commissioner in the position of judging the standard of patient care; the California Nurses Association called the veto a green light to discipline nurses who override unsafe AI. ([Veto message](https://www.gov.ca.gov/wp-content/uploads/2026/09/VETO-msg-AB-2575.pdf), [California Nurses Association](https://www.nationalnursesunited.org/press/governor-newsom-fails-californians-by-refusing-to-sign-ai-protection-law))
 
 ## 2026-09-29 — Everytown's white paper documents chatbot suicide-coaching and gun-violence risk across five AI companies and urges crisis protocols
 

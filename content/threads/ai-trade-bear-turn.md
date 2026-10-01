@@ -3,7 +3,7 @@ title: AI Bear Turn
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-25
+last_seen: 2026-10-01
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,10 @@ blurb: 'Is the tape turning against the AI trade as a whole? Distinct from the c
   breadth (is it AI-specific or macro), the earnings verdicts, and whether the drawdown
   changes actual capex behavior.'
 ---
+
+## 2026-10-01 — Volatility-control funds are stretched on equities
+
+- **Volatility control funds have pushed their equity allocations to the 98th percentile since 2010, leaving them positioned to force billions of dollars of share sales if volatility rises, Reuters reported.** Banks estimate the strategies manage $300 billion to $500 billion, and Barclays' Stefano Pascale said "even a mild rise in volatility would theoretically cause a significant exposure unwind." ([Reuters via Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/analysis-volatility-control-funds-near-100442724.html))
 
 ## 2026-09-25 — Equity funds see their biggest inflow since July despite the bond selloff
 

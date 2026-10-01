@@ -3,7 +3,7 @@ title: Kaiser vs. AI
 lens: mental-health
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-18
+last_seen: 2026-09-30
 weight: 2
 entities:
 - kaiser-permanente
@@ -17,6 +17,10 @@ blurb: 'A two-year escalation over two specific systems (the E-Visit auto-triage
   question); second-strike risk; whether other systems face the same (Kaiser Hawaii
   shows the template).'
 ---
+
+## 2026-09-30 — Newsom vetoes the bill shielding clinicians who override AI, and the AI-in-therapy bill
+
+- **Governor Newsom vetoed AB 2575, the bill that would have protected California health workers who override AI recommendations from employer discipline, on 2026-09-30, and vetoed SB 903, Senator Padilla's mental-health-professionals AI bill, the same day.** Both appear as vetoes in the governor's 09-30 legislative update, while AB 1979 and SB 503 on clinicians' judgment and AI bias were signed. The California Nurses Association said the AB 2575 veto lets hospitals discipline nurses who override unsafe AI; the California Federation of Labor Unions said it will bring the bill back next year. ([Governor's legislative update, 9-30-2026](https://www.gov.ca.gov/2026/09/30/governor-newsom-issues-legislative-update-9-30-2026/), [Governor's AI signing announcement](https://www.gov.ca.gov/2026/09/30/californias-nation-leading-ai-framework-just-got-stronger-governor-newsom-signs-more-first-in-the-nation-worker-protections-and-more/), [California Nurses Association](https://www.nationalnursesunited.org/press/governor-newsom-fails-californians-by-refusing-to-sign-ai-protection-law))
 
 ## 2026-09-15 — AB 2575 clears the legislature after nearly dying, and now sits on Governor Newsom's desk
 

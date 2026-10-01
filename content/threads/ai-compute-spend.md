@@ -3,7 +3,7 @@ title: Compute Spend
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-18
+last_seen: 2026-09-27
 weight: 3
 entities:
 - nvidia
@@ -17,6 +17,10 @@ blurb: Where the capex lands in SILICON — the $ flowing to Nvidia/AMD/TSMC/ Br
   plus the custom-silicon revolt (Jalapeño, Trainium, Maia, TPU) as the giants try
   to stop renting from Nvidia. Category meta under where-the-capex-lands.
 ---
+
+## 2026-09-27 — China signals it may let ByteDance and Alibaba buy Nvidia's RTX PRO 5500
+
+- **China's industry ministry has signaled it intends to approve purchases of Nvidia's RTX PRO 5500 chip by firms including ByteDance and Alibaba, The Information reported on 2026-09-27, citing two people familiar.** The ministry asked the companies to report their purchase plans, and some executives expect the chip to fall outside US export restrictions. Reuters said it could not immediately verify the report, and an Nvidia spokesperson said US firms remain restricted by outdated US export controls and by China's own import limits. ([CNBC](https://www.cnbc.com/2026/09/27/china-bytedance-alibaba-nvidia-chips.html), [Reuters](https://www.reuters.com/business/retail-consumer/china-weighs-allowing-bytedance-alibaba-buy-new-nvidia-chips-information-reports-2026-09-27/))
 
 ## 2026-09-02 (late catch, added 2026-09-14) — Broadcom's Q3 print puts the fourth name in this thread's own watch line on the record
 

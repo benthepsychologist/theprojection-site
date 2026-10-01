@@ -3,7 +3,7 @@ title: Son All-In
 lens: global-capital
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-30
+last_seen: 2026-10-01
 weight: 2
 entities:
 - softbank
@@ -27,6 +27,10 @@ blurb: 'The empire''s concentration play, assembled from pieces other threads ca
   repricing, any forced Arm monetization, Stargate milestones, the funding-gap figure,
   and whether Roze/ABB actually reaches IPO.'
 ---
+
+## 2026-10-01 — SoftBank completes its $30 billion OpenAI follow-on
+
+- **SoftBank executed the third and final $10.0 billion tranche of its follow-on investment in OpenAI on October 1 (Japan time), completing the $30.0 billion commitment and lifting its cumulative investment to $64.6 billion and its stake to about 13%.** SoftBank says the tranche was funded with the proceeds of the senior notes it announced on September 24, and that it cancelled the last $10.0 billion of undrawn capacity on its $40.0 billion bridge facility effective September 30, so no bridge borrowing remains. ([SoftBank Group](https://group.softbank/en/news/press/20261001))
 
 ## 2026-09-30 — SoftBank completes the DigitalBridge acquisition
 

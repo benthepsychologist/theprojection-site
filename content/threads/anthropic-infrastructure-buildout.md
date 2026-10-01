@@ -3,7 +3,7 @@ title: Anthropic Rents the Buildout
 lens: ai
 status: open
 opened: 2026-08-11
-last_seen: 2026-09-29
+last_seen: 2026-10-01
 weight: 2
 entities:
 - anthropic
@@ -27,6 +27,10 @@ blurb: 'Anthropic has signed four large infrastructure arrangements in roughly t
   Read against ai-circular-financing-risk, which asks whether this money is circular
   — this thread asks a narrower question, who ends up holding the asset.'
 ---
+
+## 2026-10-01 — Broadcom to lend Anthropic up to $42 billion
+
+- **Broadcom has agreed to lend Anthropic up to $42 billion to finance its chip leases, according to Anthropic's confidential IPO filing as described by Reuters** The convertible note could fund about a third of a $125.2 billion five-year TPU lease, and the filing flags "potential conflicts of interest" in Broadcom's dual role as supplier and lender. ([CNBC, carrying Reuters](https://www.cnbc.com/2026/10/01/broadcom-lending-anthropic-42-billion-chips-reuters.html))
 
 ## 2026-09-29 — Anthropic's prospectus breaks down a $518 billion, mostly non-cancelable buildout
 

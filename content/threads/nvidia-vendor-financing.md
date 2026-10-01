@@ -3,7 +3,7 @@ title: Nvidia as Lender
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-09-29
+last_seen: 2026-10-01
 weight: 3
 entities:
 - nvidia
@@ -23,6 +23,10 @@ blurb: 'Nvidia''s turn from chip vendor to the buildout''s lender of last resort
   toward: does the weekend signing happen, does a phase-2 guarantee follow, and rating-agency
   treatment (still untracked).'
 ---
+
+## 2026-10-01 — Lenders press Nvidia for stronger guarantees
+
+- **Lenders want more guarantees than Nvidia first offered on its $500 billion chip-backed financing plan because they doubt GPUs will earn revenue for a decade, Reuters reported** Sources say Nvidia may need to guarantee all deals or tie them to investment-grade customers' revenue; Nvidia called its compute "a productive, durable and fungible asset." ([Reuters via BNN Bloomberg](https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/01/nvidias-bet-that-its-chips-can-finance-the-ai-boom-gets-a-wall-street-reality-check/))
 
 ## 2026-09-29 — Nvidia reported in talks with insurers over chip-backed loans
 

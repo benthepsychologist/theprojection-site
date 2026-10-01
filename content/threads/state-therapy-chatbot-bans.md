@@ -3,7 +3,7 @@ title: Chatbot Bans
 lens: mental-health
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-29
+last_seen: 2026-10-01
 weight: 2
 entities:
 - character-ai
@@ -16,6 +16,14 @@ blurb: 'The wave is ~10+ enacted instruments in two species (crawl 2026-07-22 co
   these laws (so far only xAI v. Colorado''s discrimination law); Colorado-mandate
   copycats.'
 ---
+
+## 2026-10-01 — Connecticut's AI law begins taking effect
+
+- **Connecticut's omnibus AI law began taking effect on 10-01, with its AI-companion duties to detect suicide and self-harm risk and to refer users to resources such as 988 set to start on 2027-01-01.** The Daily Campus reports the first provisions to apply cover subscription-renewal consent and anonymous-reporting protections for frontier-lab employees. ([The Daily Campus](https://dailycampus.com/2026/09/30/new-ai-regulation-law-goes-into-effect-oct-1/))
+
+## 2026-09-30 — California's governor vetoes the AI-psychotherapy bill
+
+- **Governor Newsom vetoed SB 903 on 09-30, Senator Steve Padilla's bill to bar companion chatbots from providing psychotherapy and to limit licensed professionals' use of AI in therapy, calling it overly broad.** His veto message says the bill would "drastically limit a clinician's use of tools that benefit the delivery of care today" and that its definition of psychotherapy services would capture general-purpose AI systems not deployed to deliver that care; he urged the author to revisit the issue next year. ([Veto message](https://www.gov.ca.gov/wp-content/uploads/2026/09/VETO-msg-SB-903.pdf), [SB 903 bill status](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB903))
 
 ## 2026-09-28 — Pennsylvania's House passes HB 2006, parental consent and crisis protocols for minors' AI companions
 

@@ -3,7 +3,7 @@ title: Grok
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-28
+last_seen: 2026-09-30
 weight: 2
 entities:
 - spacex
@@ -18,6 +18,10 @@ blurb: 'The Grok line closing the frontier gap as a FAST FOLLOWER, not mid-pack 
   amid Musk hype), the $60B Cursor bet arming coding, and whether owning the mines
   sustains a lead vs. OpenAI/Anthropic.'
 ---
+
+## 2026-09-30 — SpaceXAI signs a Grok memorandum with Azerbaijan
+
+- **Azerbaijan's Ministry of Digital Development and Transport signed a memorandum with SpaceXAI to explore using its Grok models in government services** The agreement is a cooperation framework rather than a purchase: the parties will jointly assess AI uses across public-sector institutions and consider scaling successful ones, and Deputy Minister Rashad Hasanov said Azerbaijan has "moved from discussing AI to implementing it." ([AzerNews](https://www.azernews.az/nation/264803.html), [Report.az](https://report.az/en/ict/azerbaijan-and-spacexai-sign-ai-cooperation-memorandum))
 
 ## 2026-09-28 — SpaceXAI ships Team Bots for shared Grok agents
 

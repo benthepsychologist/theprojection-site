@@ -3,7 +3,7 @@ title: Musk Megacap
 lens: global-capital
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-30
+last_seen: 2026-10-01
 weight: 1
 entities:
 - spacex
@@ -19,6 +19,10 @@ blurb: 'SpaceX (Nasdaq: SPCX) — the public parent holding xAI + X (crawl 2026-
   Watch: the Aug-6 lock-up (911.5M shares); Musk''s ~82% voting control; whether the
   Anthropic lease-back is real revenue or circular financing. Q7 material.'
 ---
+
+## 2026-10-01 — SpaceXAI reported in compute-leasing talks with Microsoft
+
+- **SpaceX's AI unit held talks over the summer about leasing computing capacity to Microsoft, The Information reported** The report, citing people familiar with the matter, was published Thursday. ([MarketScreener, relaying The Information](https://ae.marketscreener.com/news/spacex-s-ai-unit-in-talks-to-lease-compute-capacity-to-microsoft-ce785ddad98df62d))
 
 ## 2026-09-30 — SpaceXAI weighs four-tier Grok and X subscriptions
 

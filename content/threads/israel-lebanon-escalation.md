@@ -3,7 +3,7 @@ title: Israel–Lebanon
 lens: world-news
 status: open
 opened: 2026-08-07
-last_seen: 2026-09-24
+last_seen: 2026-10-01
 weight: 2
 entities: []
 thread_kind: story
@@ -14,6 +14,10 @@ blurb: 'The Israel–Hezbollah front turning hot while its diplomacy stalls: dea
   theatre from iran-conflict-widening (cross-referenced, not merged). Watch: whether
   the talks track survives, and whether strikes escalate past the current tempo.'
 ---
+
+## 2026-10-01 — Syria and Hezbollah held secret talks in Turkey
+
+- **Syrian government officials and Hezbollah representatives held face-to-face talks in Turkey last month, the first known meeting between the longtime foes, six sources told Reuters.** Turkish security and intelligence agencies hosted the meeting to de-escalate; no agreement was reached and none was to be announced. ([Reuters, via KFGO](https://kfgo.com/2026/10/01/exclusive-syrian-government-officials-and-hezbollah-held-secret-talks-in-turkey-sources-say/))
 
 ## 2026-09-24 — Israeli detonations at Bint Jbeil and al-Khiam and overnight shelling across the south
 

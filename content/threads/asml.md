@@ -3,7 +3,7 @@ title: ASML — the EUV Monopoly
 lens: ai
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-18
+last_seen: 2026-09-24
 weight: 3
 entities:
 - asml
@@ -31,6 +31,10 @@ blurb: 'Guidance is climbing (€36-40B to €43-45B for FY2026) while the China
   follow-on yet. Next: Q3 2026 earnings, MATCH Act''s Senate/NDAA fate, Lutnick inquiry
   resolution.'
 ---
+
+## 2026-09-24 — Dutch prime minister says he expects a deal with Washington on the MATCH Act
+
+- **Dutch Prime Minister Rob Jetten said on 2026-09-24 he has spoken with President Trump and US lawmakers about the MATCH Act and is "pretty confident we will come to some agreement that is workable for each and every one."** Speaking to Bloomberg Television in New York, Jetten described the Act as stopping all sales to China of ASML's immersion DUV machines, on top of existing EUV controls; Bloomberg noted China was 14% of ASML's net system sales in the second quarter, down from 19% in the first. No agreement has been announced. ([Bloomberg via Livemint](https://www.livemint.com/companies/dutch/dutch-premier-hopes-to-prevent-more-us-export-curbs-on-asml-11790277201761.html), [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-24/dutch-premier-hopes-to-prevent-more-us-export-curbs-on-asml))
 
 ## 2026-09-22 — ASML's own public-affairs chief says the EUV monopoly is selling nothing at all in its home region
 
