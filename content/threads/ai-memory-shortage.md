@@ -3,7 +3,7 @@ title: Memory Squeeze
 lens: ai
 status: developing
 opened: 2026-06-27
-last_seen: 2026-09-30
+last_seen: 2026-10-02
 weight: 2
 entities:
 - samsung
@@ -21,6 +21,10 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   push (charging ABOVE Samsung; new modules with no price relief; DoD ban overhang),
   and who blinks first on capex.'
 ---
+
+## 2026-10-02 — Toshiba's plan to double hard-drive output hits Seagate and Western Digital
+
+- **Seagate fell about 10% and Western Digital about 7% in early Friday trading after Nikkei Asia reported that Toshiba plans to double its hard-disk-drive output.** Toshiba plans to spend about 60 billion yen expanding production in the Philippines for AI data-center storage; a memory-stock ETF rose 0.8%, so the sell-off was confined to drive makers. ([Nikkei Asia](https://asia.nikkei.com/business/electronics/toshiba-to-double-hard-disk-drive-supply-to-fill-ai-chip-memory-gap), [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/seagate-tumbles-10-western-digital-125250923.html))
 
 ## 2026-09-30 — Micron reports $54.2 billion quarter and guides to $61.5 billion
 

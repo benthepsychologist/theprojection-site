@@ -3,7 +3,7 @@ title: AI Debt Gets Rated
 lens: global-capital
 status: open
 opened: 2026-08-11
-last_seen: 2026-10-01
+last_seen: 2026-10-02
 weight: 2
 entities:
 - nvidia
@@ -27,6 +27,10 @@ blurb: 'Whether AI-buildout debt is becoming its own underwritten, rated, public
   an infrastructure asset with a 20-year life or like equipment on a 3-4 year depreciation
   clock — the two produce very different recovery rates in a default.'
 ---
+
+## 2026-10-02 — Blue Owl again caps withdrawals from two private credit funds
+
+- **Blue Owl again limited withdrawals from two of its private credit funds to 5% after investors asked to pull 39% of shares in its technology lending fund and 17% in a second fund, Bloomberg reported.** The roughly $5 billion Blue Owl Technology Income Corp. is the largest fund of its kind focused on technology lending; requests rose slightly from 38.1% in the prior quarter, and fears about artificial intelligence kept them well above industry peers. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-10-02/blue-owl-again-caps-two-bdcs-after-39-17-withdrawal-requests))
 
 ## 2026-10-01 — Broadcom's convertible loan extends supplier financing of AI labs
 

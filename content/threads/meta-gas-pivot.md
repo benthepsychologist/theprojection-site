@@ -3,7 +3,7 @@ title: Meta Gas Pivot
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-21
+last_seen: 2026-09-30
 weight: 2
 entities:
 - meta-ai
@@ -16,6 +16,14 @@ blurb: 'Meta quit RE100 amid a 7.5GW gas buildout (07-23/24) — the first break
   or base, and regulatory/PR consequences. (Both W1 crawl agents flagged this independently;
   ben-steer: "thread it.")'
 ---
+
+## 2026-09-30 — Meta signs a 144MW Texas solar deal while telling reporters it still uses gas
+
+- **Meta entered a power purchase agreement for a 144-megawatt Apex Clean Energy solar project in Gonzales County, Texas, which the developer says would not have been built without Meta's backing** Meta told Inside Climate News that natural gas options are part of its AI data-center plans, that leaving the RE100 initiative does not change its clean-energy commitment, and that it has contributed more than 30 gigawatts of new clean energy to US grids. ([Inside Climate News](https://insideclimatenews.org/news/30092026/meta-texas-solar-purchase-smaller-than-data-center-gas-plant/))
+
+## 2026-09-23 — Texas judges say El Paso Electric did not weigh alternatives to the gas plant serving Meta
+
+- **Administrative law judges at the Public Utility Commission of Texas proposed approving El Paso Electric's 366-megawatt gas plant for Meta's El Paso data center only if the utility does not pass its capital and operating costs to ratepayers, and otherwise denying it** The judges found El Paso Electric failed to adequately consider alternatives to the McCloud facility and did not issue a request for proposals; the full commission still has to decide. ([Inside Climate News](https://insideclimatenews.org/news/24092026/el-paso-electric-only-considered-gas-to-power-meta-data-center/))
 
 ## 2026-09-21 — Capital Power says Meta's Alberta build is drawing other US hyperscalers
 

@@ -3,7 +3,7 @@ title: CHIPS Equity Pivot
 lens: global-capital
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-20
+last_seen: 2026-10-01
 weight: 2
 entities:
 - intel
@@ -15,6 +15,10 @@ blurb: 'Grants→stakes as policy: the state converting subsidy into ownership. 
   which awards convert, the legal instrument used, and whether equity terms start
   steering corporate behavior (links intel-rescue).'
 ---
+
+## 2026-10-01 — Trump says the government might take stakes in OpenAI and Anthropic as it did in Intel
+
+- **Asked in a TIME interview why not take stakes in OpenAI and Anthropic as it did with Intel, Trump answered "I might. Maybe I could do that. I have many deals like that"** He described the Intel deal as the government getting 10% of the company, said "I think we made $60 billion," and rejected nationalizing the frontier labs, saying the Justice Department is the guardrail. ([TIME interview transcript](https://time.com/article/2026/10/01/donald-trump-2026-interview-transcript/))
 
 ## 2026-09-16 — IBM's quantum-foundry unit finalises the largest quantum CHIPS award, $1 billion
 

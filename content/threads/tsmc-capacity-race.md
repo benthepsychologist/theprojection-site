@@ -3,7 +3,7 @@ title: TSMC Capacity Race
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-23
+last_seen: 2026-10-01
 weight: 3
 entities:
 - tsmc
@@ -17,6 +17,10 @@ blurb: 'The chokepoint is cashing in: capex raised 15% to $60-64B + another $100
   ban, 07-21). "Nvidia overtook Apple as top customer" is contested, not settled.
   Our ~90% advanced-node anchor is carried, not re-verified. Next: Q3 earnings.'
 ---
+
+## 2026-10-01 — TSMC weighs a multi-fab Texas campus
+
+- **TSMC is weighing a new multi-fab chip campus in Texas that would add tens of billions of dollars to its US investment, Bloomberg reported, citing people familiar with its plans.** Each plant would cost at least $20 billion and the plans are at an early stage; the project is contingent on Congress extending the 35% advanced-manufacturing tax credit that expires at the end of the year. TSMC has already committed $265 billion to its Arizona site, and North America is more than 75% of its wafer revenue this year. ([Bloomberg via Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/tsmc-mulls-multibillion-dollar-texas-102454782.html))
 
 ## 2026-09-23 — TSMC reportedly set to raise wafer prices 3-6% from January 2027
 

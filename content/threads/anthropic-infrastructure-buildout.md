@@ -3,7 +3,7 @@ title: Anthropic Rents the Buildout
 lens: ai
 status: open
 opened: 2026-08-11
-last_seen: 2026-10-01
+last_seen: 2026-10-02
 weight: 2
 entities:
 - anthropic
@@ -27,6 +27,10 @@ blurb: 'Anthropic has signed four large infrastructure arrangements in roughly t
   Read against ai-circular-financing-risk, which asks whether this money is circular
   — this thread asks a narrower question, who ends up holding the asset.'
 ---
+
+## 2026-10-02 — Broadcom's $60 billion debt package
+
+- **Broadcom is assembling $60 billion of debt financing to help Anthropic and other companies buy AI chips, Bloomberg reported** The package has a $42 billion senior-secured Class A tranche and an $18 billion junior tranche led by Blackstone, which is putting up $9 billion of its own capital; Broadcom declined to comment. ([Quartz via Yahoo Finance, citing Bloomberg](https://finance.yahoo.com/technology/ai/articles/broadcom-raises-60-billion-debt-113047288.html))
 
 ## 2026-10-01 — Broadcom to lend Anthropic up to $42 billion
 

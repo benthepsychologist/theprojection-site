@@ -3,7 +3,7 @@ title: The Enterprise Agent Land Grab
 lens: ai
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-30
+last_seen: 2026-10-01
 weight: 2
 entities:
 - anthropic
@@ -25,6 +25,13 @@ blurb: 'Whether the enterprise agent-product surface — the layer where labs an
   IDE install counts) ever get disclosed to test whether the packaging actually converts
   to usage.'
 ---
+
+## 2026-10-01 — Claude Code mods, Copilot computer use, Tavus's Griffin and a new class of decision models
+
+- **Anthropic introduced "mods" for Claude Code, small TypeScript functions that can rewrite prompts, block or retry tool calls, redact secrets and replace parts of the interface in the terminal and desktop app** Mods ship inside plugins, the built-in /diff feature is now a mod, and Team and Enterprise plans load a "sec-default" mod first to stop user-installed mods from overriding permission deny rules; Anthropic says mods are not sandboxed. ([Anthropic](https://claude.com/blog/claude-code-mods))
+- **GitHub put computer use into public preview in Copilot CLI and the Copilot app on macOS and Windows, letting Copilot click, type, scroll and drag through desktop apps that have no API** Copilot asks approval before controlling an app, and organization-managed settings can turn the feature off. ([GitHub changelog](https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps/))
+- **Tavus previewed Griffin, a video model it says made 48% of study participants believe they were talking to a human, against under 3% for its earlier system** The company ran the study itself (26 of 54 people after a one-minute live call, per tech-ish), Griffin-Lite is limited to select testers while Tavus builds disclosure and safety features, and a wider release is to follow. ([Tavus](https://www.tavus.io/griffin), [tech-ish](https://tech-ish.com/2026/10/02/tavus-griffin-ai-fooled-48-percent-video-call/))
+- **Amazon's Strands Labs released Strands Decider 2B, an open-source 2-billion-parameter "decision model" that picks among preset options and scores its own reliability, joining a class begun by TypeSafe AI's Jev earlier this month** Decision models cannot generate text, so they suit routing, classification and scoring inside agent workflows; Amazon says the model returns answers in tens of milliseconds on a local CPU or GPU. ([Strands Agents](https://strandsagents.com/blog/introducing-strands-decider/), [MarkTechPost](https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-strands-decider-2b/))
 
 ## 2026-09-30 — OpenAI and Synopsys build a chip-design model; Meta denies Muse message-reading claim
 

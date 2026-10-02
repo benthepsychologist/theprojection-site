@@ -3,7 +3,7 @@ title: Meta Capex
 lens: ai
 status: developing
 opened: 2026-07-23
-last_seen: 2026-09-20
+last_seen: 2026-09-30
 weight: 2
 entities:
 - meta-ai
@@ -26,6 +26,10 @@ blurb: 'The week''s reversal: Meta QUIT RE100 amid a 7.5GW gas buildout (07-23/2
   combined. EY flagged Beignet as a critical audit matter Feb-2026. Read the guidance
   as what Meta will SPEND, not what it has COMMITTED — track the gap.'
 ---
+
+## 2026-09-30 — Meta's AI data centers cut its federal tax bill by classing them as experimental
+
+- **Meta cut its 2025 federal tax bill by nearly 71% by treating its AI data centers as experimental facilities eligible for research tax credits, the New York Times reported** The credit saved $3.9 billion in 2025, up from $700 million in 2023, and the Times says Meta's own accountants flagged the approach as legally risky. ([Quartz](https://qz.com/meta-ai-data-centers-tax-credits-experimental-093026), [New York Times](https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html))
 
 ## 2026-09-20 — FT: Big Tech has issued up to $300bn of AI guarantees, Meta's is $28bn on Hyperion
 

@@ -3,7 +3,7 @@ title: Anthropic IPO
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-10-01
+last_seen: 2026-10-02
 weight: 2
 entities:
 - anthropic
@@ -15,9 +15,14 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
   AMD/Azure/Google-TPU compute deals get positioned in the roadshow narrative.'
 ---
 
+## 2026-10-02 — Prospectus risk language on government attitudes
+
+- **Anthropic's IPO prospectus warns that government perceptions of the company "could extend beyond its direct dealings to affect customers, partners, other commercial relationships," Reuters reported** Reuters says government agency contracts are under 1% of annual revenue; the prospectus is a document seen by Reuters, not a public filing. ([Yahoo Finance, citing Reuters](https://finance.yahoo.com/technology/article/leaked-anthropic-ipo-prospectus-the-us-government-could-hurt-our-business-105326368.html))
+
 ## 2026-10-01 — Anthropic reported to target a mid-November IPO
 
 - **Anthropic is seeking to go public as soon as the middle of November, with formal marketing possibly starting the week of November 9, Bloomberg reported** Citing people familiar with the matter, Bloomberg says that would put Anthropic in line to begin trading before Thanksgiving on November 26, after the company pushed back earlier listing plans; this is a report, not a company announcement. ([Financial Post, carrying Bloomberg](https://financialpost.com/investing/anthropic-target-mega-ipo-before-u-s-thanksgiving))
+- **Anthropic is set to hold a pre-IPO investor day on October 14 with prospective institutional investors, Bloomberg reported** Bloomberg's sources say formal marketing could begin the week of November 9; Yahoo Finance's summary says invitations have gone out for an event at Anthropic's San Francisco headquarters, and Anthropic has not announced it. ([Yahoo Finance, citing Bloomberg](https://finance.yahoo.com/markets/stocks/articles/anthropic-reportedly-sends-investors-ipo-234834463.html), [Bloomberg](https://www.bloomberg.com/news/articles/2026-10-01/anthropic-is-said-to-plan-pre-ipo-investor-day-as-listing-nears))
 
 ## 2026-09-29 — Anthropic tells investors rogue agents create uncertain legal risk
 

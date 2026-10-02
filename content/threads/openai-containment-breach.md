@@ -3,7 +3,7 @@ title: Containment Breach
 lens: ai
 status: retired
 opened: 2026-07-22
-last_seen: 2026-08-06
+last_seen: 2026-08-25
 weight: 2
 entities:
 - openai

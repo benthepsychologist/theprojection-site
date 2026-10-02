@@ -3,7 +3,7 @@ title: Jalapeño
 lens: ai
 status: retired
 opened: 2026-06-27
-last_seen: 2026-06-27
+last_seen: 2026-07-27
 weight: 1
 entities:
 - openai

@@ -3,7 +3,7 @@ title: Stargate
 lens: ai
 status: developing
 opened: 2026-06-28
-last_seen: 2026-09-21
+last_seen: 2026-10-01
 weight: 2
 entities:
 - openai
@@ -17,6 +17,10 @@ blurb: ~$500B / ~10 GW joint venture (OpenAI/SoftBank/Oracle/MGX); ~7 GW + >$400
   via "OpenAI for Countries" (UAE live 2026; UK/Norway/Argentina/South Korea). Track
   sites actually energized, financing/grid bottlenecks, sovereign terms, and slippage.
 ---
+
+## 2026-10-01 — SoftBank completes its $30 billion follow-on in OpenAI
+
+- **SoftBank executed the third and final $10 billion tranche of its $30 billion follow-on investment in OpenAI on 10-01, taking its cumulative OpenAI investment to $64.6 billion and its stake to about 13%** SoftBank says the tranche was paid for with the senior notes it issued on 09-24, and that it cancelled the last $10 billion of undrawn bridge-loan capacity, so all borrowing under the $40 billion bridge facility has been repaid. ([SoftBank Group](https://group.softbank/en/news/press/20261001))
 
 ## 2026-09-21 — SB Energy delays its IPO
 

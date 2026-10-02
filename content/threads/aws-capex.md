@@ -3,7 +3,7 @@ title: AWS Capex
 lens: ai
 status: developing
 opened: 2026-07-23
-last_seen: 2026-09-20
+last_seen: 2026-10-02
 weight: 2
 entities:
 - amazon-aws
@@ -18,6 +18,14 @@ blurb: 'Earnings 07-30 (corrected from ~07-31). Crawl 07-27: the AGI-cuts vs $20
   + X-Energy 5GW-by-2039. Watch 07-30: capex guide, backlog, FCF (reportedly borrowing
   $25B).'
 ---
+
+## 2026-10-02 — Amazon adds a $1 billion community programme and a data-center code of conduct
+
+- **Amazon announced "Built Together," adding more than $1 billion over five years for communities that host its US data centers, alongside a published "Data Center Commitment" that ends nondisclosure agreements with government agencies** AWS chief executive Matt Garman's post also pledges Tier 4 backup generators at new sites, annual public reporting of energy and water use, and says Amazon has put more than $1 billion into such communities over the past three years. ([Amazon](https://www.aboutamazon.com/news/company-news/amazon-data-centers-built-together))
+
+## 2026-09-30 — Amazon signs a 20-year Maryland nuclear deal after pulling out of a data-center campus beside the plant
+
+- **Amazon and Constellation announced a 20-year power purchase agreement for 690 megawatts from the Calvert Cliffs nuclear plant in Maryland, enabling more than $3 billion of plant investment and about 190 megawatts of new capacity between 2030 and 2032** The deal also covers a retail supply agreement for Amazon's operations in the 13-state PJM market; Amazon had planned a large data-center campus next to the plant but pulled out in August. ([Data Center Dynamics](https://www.datacenterdynamics.com/en/news/amazon-signs-ppa-with-constellation-for-maryland-nuclear-plant/))
 
 ## 2026-09-18 — Amazon agrees to buy two Hong Kong data-centre properties for up to HK$2.4 billion
 

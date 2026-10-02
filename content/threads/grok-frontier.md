@@ -3,7 +3,7 @@ title: Grok
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-30
+last_seen: 2026-10-01
 weight: 2
 entities:
 - spacex
@@ -18,6 +18,10 @@ blurb: 'The Grok line closing the frontier gap as a FAST FOLLOWER, not mid-pack 
   amid Musk hype), the $60B Cursor bet arming coding, and whether owning the mines
   sustains a lead vs. OpenAI/Anthropic.'
 ---
+
+## 2026-10-01 — Grok and the Venezuela decision
+
+- **Time reported that President Trump spent hours in a December 2025 meeting asking Musk's Grok chatbot how Venezuelans would respond if their president were captured** A source told Time that Trump "came away thinking Grok was ingenious"; TechCrunch notes the Pentagon's AI head said in June the military used Grok Gov during the Iran war. ([TechCrunch](https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/))
 
 ## 2026-09-30 — SpaceXAI signs a Grok memorandum with Azerbaijan
 

@@ -3,7 +3,7 @@ title: Nvidia as Lender
 lens: global-capital
 status: open
 opened: 2026-07-27
-last_seen: 2026-10-01
+last_seen: 2026-10-02
 weight: 3
 entities:
 - nvidia
@@ -23,6 +23,10 @@ blurb: 'Nvidia''s turn from chip vendor to the buildout''s lender of last resort
   toward: does the weekend signing happen, does a phase-2 guarantee follow, and rating-agency
   treatment (still untracked).'
 ---
+
+## 2026-10-02 — Amazon explores an outside-funded chip vehicle
+
+- **Amazon is exploring moving about $8 billion of Nvidia chips into a separate vehicle funded by outside investors, the Financial Times reported** The vehicle could issue debt and sell up to a 10% equity stake while Amazon keeps using the chips. ([Financial Times](https://www.ft.com/content/97d8d346-519e-48fb-8df8-66cf5f12ef62), [GuruFocus via Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/amazon-takes-drastic-step-finance-123622467.html))
 
 ## 2026-10-01 — Lenders press Nvidia for stronger guarantees
 

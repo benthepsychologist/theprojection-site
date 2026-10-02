@@ -3,7 +3,7 @@ title: Gaza War
 lens: world-news
 status: open
 opened: 2026-08-01
-last_seen: 2026-09-30
+last_seen: 2026-10-01
 weight: 3
 entities: []
 thread_kind: story
@@ -37,6 +37,10 @@ blurb: 'Opened on Ben''s steer 2026-08-01, after a disarmament framework announc
   Ministry range as broadly accurate. Both the inflation and the undercount framings
   still circulate; report both, resolve neither.'
 ---
+
+## 2026-10-01 — Eight more deaths reported; ceasefire-era toll 1,439
+
+- **Gaza's health ministry reported eight more Palestinians killed and 26 wounded in 24 hours on Thursday, putting the toll since the October 2025 ceasefire at 1,439 killed and 5,052 wounded, and the war's total at least 74,040 dead.** An Israeli drone strike on a tent sheltering displaced people in al-Mawasi killed one man and wounded three; the figures are the ministry's own count. ([Al Jazeera](https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank))
 
 ## 2026-09-30 — Israeli strikes kill at least seven in Gaza
 

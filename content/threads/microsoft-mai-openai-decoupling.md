@@ -3,7 +3,7 @@ title: Microsoft's Hedge
 lens: ai
 status: developing
 opened: 2026-06-28
-last_seen: 2026-09-20
+last_seen: 2026-10-01
 weight: 2
 entities:
 - microsoft
@@ -17,6 +17,10 @@ blurb: Microsoft shipped 7 in-house MAI models and says it was "set free" from t
   displace OpenAI in Copilot, the MSFT–OpenAI commercial terms, and whether this is
   genuine independence or a hedge.
 ---
+
+## 2026-10-01 — Microsoft ships its first streaming transcription model and two new voice models
+
+- **Microsoft AI launched MAI-Transcribe-2-Streaming, its first real-time transcription model, plus MAI-Voice-2.1 and a faster MAI-Voice-2.1-Flash, and says the transcription model debuts at no. 1 on Artificial Analysis** The launch extends the in-house MAI line beyond text and image models into voice-agent building blocks, a market where OpenAI, Google and ElevenLabs sell competing products; the ranking is Microsoft's own claim. ([Microsoft AI](https://microsoft.ai/news/our-first-streaming-transcription-model/))
 
 ## 2026-09-14 — Microsoft AI publishes a draft code of conduct for its own MAI models
 
