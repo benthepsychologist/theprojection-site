@@ -3,7 +3,7 @@ title: Nvidia's Order Book
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-23
+last_seen: 2026-10-02
 weight: 2
 entities:
 - nvidia
@@ -16,6 +16,10 @@ blurb: The demand side of the chip spend — a ~$1T Blackwell+Rubin book (a mana
   has shifted to supply (HBM4). Watch the per- customer concentration and the circular-financing
   stakes (Nvidia's 10-Q investments in its own buyers).
 ---
+
+## 2026-10-02 — Nvidia hits first record high since May
+
+- **Nvidia shares hit their first record high since May on Friday, gaining 2.9% as its market value neared $6 trillion, Bloomberg reported** Bloomberg's first dispatch was at about 9:47am ET and its headline says the value "nears $6 trillion"; Quartz puts the value at around $5.7 trillion and attributes the run to the $150 billion buyback increase Nvidia's board approved on Monday, September 28, and the company's agent-security system. Friday's close was not yet in. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-10-02/nvidia-hits-first-record-since-may-as-value-nears-6-trillion), [Quartz](https://qz.com/nvidia-stock-record-high-market-cap-6-trillion-100226))
 
 ## 2026-09-23 — Supermicro says it is shipping Vera Rubin NVL72 racks
 

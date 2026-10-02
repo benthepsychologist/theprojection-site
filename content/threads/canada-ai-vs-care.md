@@ -3,7 +3,7 @@ title: AI vs Care
 lens: mental-health
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-28
+last_seen: 2026-10-01
 weight: 3
 entities: []
 thread_kind: story
@@ -14,6 +14,10 @@ blurb: 'Budget 2025 put $925.6M+ into AI infrastructure the same cycle multiple 
   audit, Santé Québec''s pilot. Track: the 2027 cliff''s political arc, any replacement
   framework, provincial AI-health procurement vs MH service funding.'
 ---
+
+## 2026-10-01 — Canada's health ministers formally ask Ottawa to renew expiring mental-health funding
+
+- **Canada's provincial and territorial health ministers said in a statement on Thursday 10-01 that they are "united in calling on the federal government" to renew about $1.2 billion in mental-health, addictions and home-care funding that expires next March.** The ministers met earlier in the week with their finance counterparts and warned of "profound and negative" effects on patients and health-care jobs if the agreements are not renewed in this year's budget; the Canadian Mental Health Association's president said any cut to targeted funding "would be problematic and concerning." ([Global News](https://globalnews.ca/news/12085236/mental-health-home-care-funding/), [CTV News](https://www.ctvnews.ca/health/article/health-ministers-say-ottawa-needs-to-renew-mental-health-home-care-funding/))
 
 ## 2026-09-28 — Provincial health ministers call an emergency meeting over the 2027 funding cliff
 

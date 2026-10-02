@@ -3,7 +3,7 @@ title: UBS vs. Bern
 lens: global-capital
 status: open
 opened: 2026-09-28
-last_seen: 2026-09-30
+last_seen: 2026-10-02
 weight: 2
 entities:
 - ubs
@@ -15,6 +15,10 @@ blurb: Whether UBS actually relocates its headquarters (or credibly threatens to
   and whether Finance Minister Keller-Sutter's public dismissals hold as the rule's
   implementation timeline firms up.
 ---
+
+## 2026-10-02 — UBS sounded out Nordea about leaving Switzerland
+
+- **UBS executives once sounded out Nordea, the Finnish bank that moved its headquarters from Stockholm to Helsinki, about leaving Switzerland, Bloomberg reported, as the Swiss upper house's capital vote raised the chance UBS must hold as much as $16 billion more equity.** Nordea said no such discussions involving its senior executives took place; the lower house's committees meet October 26-27 and November 23-24, a floor vote is possible in December, and a softer plan would require 75% backing for foreign units instead of 90%; some inside UBS see a deal with Morgan Stanley or another large US bank as a possible route, with no sign any party is pursuing one, and UBS reports third-quarter results on October 28. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-10-02/ubs-confronts-swiss-exit-or-stay-and-pay-as-capital-defeat-nears), [Bloomberg via swissinfo](https://www.swissinfo.ch/eng/ubs-faces-swiss-exit-or-stay-and-pay-as-capital-defeat-nears/92158188))
 
 ## 2026-09-30 — Top-20 shareholder Artisan urges UBS to leave Switzerland
 

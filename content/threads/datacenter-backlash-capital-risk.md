@@ -3,7 +3,7 @@ title: The Backlash Prices In
 lens: global-capital
 status: open
 opened: 2026-08-25
-last_seen: 2026-09-25
+last_seen: 2026-10-02
 weight: 2
 entities:
 - openai
@@ -26,6 +26,10 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   an industry messaging campaign, if one emerges, changes the polling or the moratorium
   count.'
 ---
+
+## 2026-10-02 — AWS pledges $1 billion to host communities and drops government NDAs
+
+- **Amazon Web Services said Friday it will invest more than $1 billion over five years in communities that host its data centers and no longer uses non-disclosure agreements with government agencies on its projects** AWS chief executive Matt Garman's blog post says AWS is 75% of the way to being water positive by 2030 and that more than 100 data-center moratoriums are being considered across the country; AWS did not say which communities get the money. ([The Hill](https://thehill.com/policy/technology/6126145-amazon-investment-data-center-communities-energy-water-costs/), [DCD](https://www.datacenterdynamics.com/en/news/aws-drops-non-disclosure-agreements-for-data-center-projects/))
 
 ## 2026-09-25 — SpaceXAI offers to buy Southaven neighbours' homes if they drop out of the noise lawsuit
 

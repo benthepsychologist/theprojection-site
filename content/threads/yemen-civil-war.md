@@ -3,7 +3,7 @@ title: Yemen's Civil War
 lens: world-news
 status: open
 opened: 2026-09-05
-last_seen: 2026-10-01
+last_seen: 2026-10-02
 weight: 2
 entities: []
 thread_kind: story
@@ -17,6 +17,12 @@ blurb: 'The Houthi-versus-government ground war inside Yemen — deliberately di
   ground or air support, and whether the UN envoy''s warning of a return to full-scale
   war becomes a formal collapse of the 2022 truce.'
 ---
+
+## 2026-10-02 — Saudi Arabia reportedly plans an offensive to retake the Bab el-Mandeb coast
+
+- **Saudi Arabia is planning an offensive against the Houthis in Yemen, expected within weeks, to retake the Bab el-Mandeb coast, six officials told Reuters.** The options are a narrow push around the strait or a multi-front assault in Al-Bayda, Marib, Taiz and Al-Jawf, led by Yemeni forces overseen by Riyadh with Saudi air support and possibly more than 100,000 troops; timing estimates range from within a week to after the US midterms, and no government or Houthi spokesperson had responded. ([Reuters, via Yahoo](https://hk.news.yahoo.com/articles/saudis-plan-assault-houthis-break-160352911.html))
+- **The Houthis said Friday that Saudi forces launched 94 strikes on their areas in 24 hours and 1,350 since the renewed fighting began.** This is a Houthi claim, unverified by Saudi Arabia. ([Middle East Eye](https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-saudi-forces-launched-94-strikes-yemen-24-hours))
+- **Pakistan's foreign minister said Friday that Iran has suggested engaging the Houthis politically, and that the Mecca defence pact's three members (Saudi Arabia, Turkey, Pakistan) will discuss it at an emergency meeting in Riyadh next week.** Ishaq Dar called it "brainstorming between two foreign ministers", not a written offer, to be weighed as an alternative to "kinetic action". ([Reuters, via Straits Times](https://www.straitstimes.com/world/middle-east/pakistan-says-mecca-pact-members-to-hold-emergency-talks-on-engaging-houthis))
 
 ## 2026-10-01 — Yemeni army reports six airstrikes in Taiz as fighting continues
 
