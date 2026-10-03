@@ -3,7 +3,7 @@ title: ASIC Tolls
 lens: ai
 status: open
 opened: 2026-07-28
-last_seen: 2026-09-23
+last_seen: 2026-10-01
 weight: 2
 entities:
 - broadcom
@@ -18,6 +18,11 @@ blurb: 'Broadcom''s two tolls. ①The custom-ASIC co-design book — FIVE majors
   build. Track: Jalapeño tape-out, the sixth customer, the litigation spread, next
   earnings (~early Sept, unconfirmed).'
 ---
+
+## 2026-10-01 — Broadcom's financing role in Anthropic's compute buildout comes into view
+
+- **Broadcom has agreed to lend Anthropic up to $42 billion to finance infrastructure spending, according to Anthropic's IPO prospectus as described by Reuters, and Anthropic is expected to become Broadcom's largest compute customer in 2027** The convertible note could fund about a third of the $125.2 billion Anthropic has committed to a five-year lease of Google-designed TPU capacity, Anthropic warns that Broadcom's dual role as supplier and financing partner creates "potential conflicts of interest," and Broadcom projects AI semiconductor revenue of about $115 billion in fiscal 2027. ([Reuters via Dunya News](https://dunyanews.tv/en/Technology/975740-broadcom-to-lend-anthropic-up-to-42-billion-to-lease-its-chips-filin))
+- **A Broadcom-led bank syndicate is gathering $60 billion of AI chip financing to benefit Anthropic and other companies, Bloomberg reported, starting with a $42 billion senior-secured tranche** Banks are poised to send syndication letters for the $42 billion Class A tranche and Blackstone is leading an $18 billion junior tranche, committing $9 billion from its funds; the deal has not been announced. ([Bloomberg via Economic Times](https://economictimes.indiatimes.com/tech/technology/broadcom-starts-amassing-60-billion-to-fund-chips-for-anthropic-report/articleshow/134632012.cms))
 
 ## 2026-09-23 — China surveys Broadcom switch use in state-backed data centres
 

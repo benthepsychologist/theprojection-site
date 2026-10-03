@@ -3,7 +3,7 @@ title: Gaza War
 lens: world-news
 status: open
 opened: 2026-08-01
-last_seen: 2026-10-01
+last_seen: 2026-10-02
 weight: 3
 entities: []
 thread_kind: story
@@ -37,6 +37,10 @@ blurb: 'Opened on Ben''s steer 2026-08-01, after a disarmament framework announc
   Ministry range as broadly accurate. Both the inflation and the undercount framings
   still circulate; report both, resolve neither.'
 ---
+
+## 2026-10-02 — Israeli strike on a Gaza City apartment kills five
+
+- **An Israeli airstrike killed at least five Palestinians, including four women, in a Gaza City apartment building early Saturday, health and civil defence officials said.** Israel's military said it was checking; Gaza's Health Ministry says strikes have killed at least 1,439 people since the ceasefire. ([Reuters, via Yahoo](https://www.yahoo.com/news/world/articles/israeli-strike-kills-four-people-235013038.html))
 
 ## 2026-10-01 — Eight more deaths reported; ceasefire-era toll 1,439
 

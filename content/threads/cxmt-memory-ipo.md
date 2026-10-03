@@ -3,7 +3,7 @@ title: CXMT IPO
 lens: global-capital
 status: open
 opened: 2026-07-22
-last_seen: 2026-09-22
+last_seen: 2026-09-28
 weight: 1
 entities:
 - cxmt
@@ -13,6 +13,10 @@ blurb: Up-to-$9.8B STAR Market listing (allotment 07-22, lists 07-27) funding Ch
   DRAM/HBM capacity into the global squeeze. Track first-day reception, capacity-buildout
   plans vs. the shortage, and read-through to ai-memory-shortage and china-stack-independence.
 ---
+
+## 2026-09-28 — CXMT files a 34.9 billion yuan plan for DRAM R&D and wafer-testing capacity, mostly spent on equipment
+
+- **CXMT filed a plan to invest 34.9 billion yuan (US$5.2 billion) in a new DRAM technology R&D project and a second-phase wafer testing base, with a large share going to domestic chipmaking-equipment suppliers** The Monday stock filing splits the money 24.1 billion yuan for R&D (nearly 22.4 billion yuan, about 93%, for equipment) and 10.8 billion yuan for the testing base; a source told SCMP the company has set an "aggressive" target for local tools, and Global Times reports 18 billion yuan of it comes from surplus IPO proceeds. ([South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3369192/chinas-cxmt-favour-domestic-suppliers-us52b-memory-chip-capacity-push-source), [Global Times](https://www.globaltimes.cn/page/202609/1371549.shtml))
 
 ## 2026-09-22 — YMTC preps a DRAM trial line as CXMT pushes into NAND — China's two memory champions start crossing into each other's territory
 

@@ -3,7 +3,7 @@ title: China's Stack
 lens: ai
 status: open
 opened: 2026-07-22
-last_seen: 2026-10-01
+last_seen: 2026-10-03
 weight: 3
 entities:
 - zhipu-ai
@@ -18,6 +18,10 @@ blurb: 'One story, both directions: Z.AI''s 1 GW all-domestic-chip site, Kimi K3
   rules; September US-China talks) plus Beijing''s own proposed export controls on
   its models/chips. US chip-equity reaction is the measure.'
 ---
+
+## 2026-10-03 — Bessent: US to propose an AI-incident channel to China
+
+- **Treasury Secretary Scott Bessent said the US plans to propose to China a notification process for AI incidents and told AI executives who fear losing control of their models "then they should slow down," Axios reported Saturday** Bessent told The Axios Show he thinks Beijing would agree, that he and Vice Premier He Lifeng discussed AI safety before Xi Jinping's state visit, that China has realised "how powerful their open source models are" and that the US government's model reviews are voluntary though it reserves the right to intervene; the date of the interview was not stated. ([Axios](https://www.axios.com/2026/10/03/china-ai-bessent-axios-show))
 
 ## 2026-10-01 — Khanna presses five AI labs on Chinese theft of model weights; China's ambassador urges cooperation
 

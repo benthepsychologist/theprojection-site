@@ -3,7 +3,7 @@ title: Ping An AI
 lens: ai
 status: open
 opened: 2026-08-04
-last_seen: 2026-09-23
+last_seen: 2026-09-30
 weight: 3
 entities:
 - ping-an
@@ -16,6 +16,10 @@ blurb: 'Ping An running AI-driven underwriting and claims at genuine national sc
   the pending August 2026 interim results, and whether the automation numbers keep
   climbing.'
 ---
+
+## 2026-09-30 — Ping An Bank becomes the first listed Chinese lender to adopt formal AI rules
+
+- **Ping An Bank became the first listed Chinese lender to formally adopt rules governing its use of artificial intelligence, after its board approved AI management measures in a Wednesday filing** The Shenzhen-listed bank is part of Ping An Group; SCMP analysts expect other mainland banks to follow as regulators tighten oversight of AI use, and the full rules have not been made public. ([South China Morning Post](https://www.scmp.com/business/banking-finance/article/3369577/more-chinese-banks-likely-adopt-ai-rules-after-ping-move-analysts))
 
 ## 2026-09-23 — Ping An's CTO says daily AI token use is up tenfold in a year while cost per token fell 76%
 

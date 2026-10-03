@@ -3,7 +3,7 @@ title: Targets
 lens: ai
 status: open
 opened: 2026-07-29
-last_seen: 2026-09-23
+last_seen: 2026-10-01
 weight: 3
 entities:
 - amazon-aws
@@ -24,6 +24,18 @@ blurb: 'Commercial datacentres are now deliberately struck in wartime, with publ
   datacentre assets; siting decisions that cite geopolitical risk; and whether the
   precedent outlives this particular war, which is the thread''s main mortality risk.'
 ---
+
+## 2026-10-01 — A third Kyiv data center goes down as dline.ua's is destroyed
+
+- **The dline.ua data center on Predslavynska Street in Kyiv was destroyed in a Russian strike on 10-01, the company said, with all services and customer data moved to backup facilities** Ukrinform counts it as the third Kyiv data center to report suspending operations in recent days; the Parkovy business-center facility ceased operations on 10-01 after critical damage. ([Ukrinform](https://www.ukrinform.net/rubric-ato/4170349-russians-destroy-dlineua-data-center-in-kyiv.html))
+
+## 2026-09-30 — Russia strikes the Bi-mobile and Parkovy data centers in Kyiv
+
+- **Russia's overnight attack on Kyiv hit the Bi-mobile data center, which Russia's Defense Ministry called one of the city's main internet exchange points, and the Parkovy data center** CNBC reports Russia has stepped up strikes on Ukrainian data centers and internet providers in recent days to disrupt the flow of information; the Ministry's descriptions are its own claims. ([CNBC](https://www.cnbc.com/2026/09/30/ukraine-war-russia-nato-nuclear-kyiv.html))
+
+## 2026-09-27 — Russia hits Kyivstar's headquarters and claims a strike on Vodafone Ukraine's data center
+
+- **A Russian drone struck the headquarters of Ukraine's largest mobile operator Kyivstar on 09-27, and Russia's Defense Ministry claimed it also targeted the data center of Vodafone Ukraine** Breaking Defense, citing Reuters for the ministry claim, reports a recent surge in Russian attacks on Ukrainian data centers; Ukraine's former deputy defense minister Kateryna Chernohorenko says the answer is more underground facilities and far more anti-ballistic and counter-drone capacity, which she calls critically short. ([Breaking Defense](https://breakingdefense.com/2026/10/in-ukraine-data-centers-facing-increased-attacks-in-recent-weeks-ex-official/))
 
 ## 2026-09-23 — A Russian strike on Kyiv damages two internet providers' data centers
 

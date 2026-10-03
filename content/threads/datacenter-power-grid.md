@@ -3,7 +3,7 @@ title: Grid & Turbines
 lens: ai
 status: open
 opened: 2026-07-24
-last_seen: 2026-09-24
+last_seen: 2026-09-29
 weight: 1
 entities:
 - spacex
@@ -16,6 +16,14 @@ blurb: The grid is the binding constraint (not chips) — interconnection queues
   fights. Watch the DOJ national- security shield over xAI's unpermitted turbines
   — the improvisation has outrun the regulatory system.
 ---
+
+## 2026-09-29 — Parallax comes out of stealth with $117 million to build a turbine for data centers
+
+- **Parallax came out of stealth with $117 million raised to build a roughly 10-megawatt gas turbine, small enough to ship in a container, designed specifically for AI data centers** The $75 million Series A was led by Greylock and General Catalyst after a $42 million seed co-led by Eclipse and Lux; the company says a 3D-printed core and a cooler-running design avoid single-crystal blades and rhenium superalloy, with a prototype by year-end, testing next year and deliveries in 2028. ([WOWTALE](https://en.wowtale.net/2026/09/29/235268/))
+
+## 2026-09-28 — Small gas turbines become the fast path to data-center power, at a cost
+
+- **Sales of small and aeroderivative gas turbines are surging as data-center builders avoid long lead times, with 29.6 gigawatts of behind-the-meter gas generation due to be added in the US through 2030, about 88% of it for data centers, according to Enverus** Lead times for large combined-cycle plants can stretch to six years against about 40 months for aeroderivatives; Crusoe says it ordered 29 GE Vernova 35MW aeroderivative turbines, and Reuters Events says the shift raises long-term power costs and emissions. ([Reuters Events via Pipeline & Gas Journal](https://pgjonline.com/news/2026/september/dash-for-small-gas-turbines-set-to-impact-data-center-costs))
 
 ## 2026-09-24 — Energy Department to fund grid-upgrade projects worth 23 gigawatts
 
