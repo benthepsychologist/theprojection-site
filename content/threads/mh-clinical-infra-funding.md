@@ -17,6 +17,10 @@ blurb: 'MH is the #1-funded US therapeutic area (~$1.27B/14 deals to start 2026)
   Tests whether the market prices in rigor — the evidence-gap thesis.'
 ---
 
+## 2026-10-09 — R&S Holdings buys a 52-bed Pennsylvania detox facility
+
+- **Behavioral Health Business reported that R&S Holdings, which operates more than 35 behavioral health facilities across Maryland, acquired Innovo Detox, a 52-bed detox and residential treatment facility in Abbottstown, Pennsylvania, its first acquisition in the state** — financial terms were not disclosed. ([Behavioral Health Business](https://bhbusiness.com/2026/10/09/rs-holdings-acquires-residential-addiction-treatment-operator-innovo-detox/)) Claims: kat-claim-328961abd588, kat-claim-bade20e07c9c
+
 ## 2026-10-02 — HHS names eight STREETS communities; an Ohio behavioral-health provider closes
 
 - **HHS Secretary Robert F. Kennedy Jr. announced in Houston on 10-02 that eight communities will receive $96 million over four years, $3 million a year each, under the new STREETS program for people who are homeless and have serious mental illness, addiction or both.** The communities are Montgomery County (Ohio), the Cherokee Nation, Detroit, Houston, Huntington (West Virginia), Miami-Dade County, Robeson County (North Carolina) and Tangipahoa Parish (Louisiana); SAMHSA administers the program, which HHS says puts its "Treatment First" approach into action, and the figures are HHS's own. ([HHS](https://www.hhs.gov/press-room/secretary-kennedy-announces-96-million-streets-program-homelessness-addiction.html))

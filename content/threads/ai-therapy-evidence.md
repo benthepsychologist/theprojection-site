@@ -16,6 +16,11 @@ blurb: 'The SCIENCE track of AI therapy (the courts/legislatures track is ai-the
   EmoAgent.'
 ---
 
+## 2026-10-09 — A meta-analysis finds AI chatbots favoured over low-intensity comparators in university students, with low certainty
+
+- **A systematic review and meta-analysis in Frontiers in Psychiatry, published 10-09, reported that AI conversational interventions were favoured over non-active or low-intensity comparators for depression (3 comparisons, Hedges g = -0.413) and anxiety (4 comparisons, g = -0.435) symptoms in university students** — the authors conclude the certainty of evidence is low and rests on few comparisons; two comparisons against an active conversational control did not show a reliable incremental effect. ([Frontiers in Psychiatry](https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1824378)) Claims: kat-claim-69644d0478fd, kat-claim-04d64de6de07
+- **A survey of 1,622 Chinese junior high school students, published in Frontiers in Psychiatry on 10-09, reported that narcissistic traits correlated positively with emotional dependence on large language models (r = 0.301)** — a cross-sectional association, as the authors report it. ([Frontiers in Psychiatry](https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1958023)) Claim: kat-claim-b52a8ef3eb6a
+
 ## 2026-09-28 — A peer-reviewed review links companion chatbots to addiction-like attachment and worsened symptoms
 
 - **A peer-reviewed paper in JMIR Mental Health by Northeastern University's Network Science Institute, publicized 09-28, concludes that using companion chatbots such as Replika and Character.ai for companionship and emotional support is linked with "severe negative outcomes," including addiction-like attachment, worsened symptoms and cases involving self-harm.** Corresponding author Andreia Sofia Teixeira and first author Asia Maurich Novelli call for more testing before deployment and more evidence on how people use the products; the university's account gives no sample size or effect size. ([Northeastern Global News](https://news.northeastern.edu/2026/09/28/ai-chatbots-psychological-harm-mental-health/))
