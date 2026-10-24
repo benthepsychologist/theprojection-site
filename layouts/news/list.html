@@ -6,89 +6,31 @@
 <body>
 {{ partial "masthead.html" . }}
 
-<p class="crumb" style="max-width:var(--max-width);margin:1.2rem auto 0;padding:0 1.5rem;">
-  <a href="{{ .Site.Home.RelPermalink }}">← Projects</a> · <a href="/methodology/">Methodology</a></p>
-
-{{ $p := .Site.Data.payload }}
-{{ if $p }}
-<div class="thread-header" style="padding-bottom:.6rem;">
-  <h1>News</h1>
-  <p class="dek">The rolling weekly read — three lenses, one flash rail.</p>
-</div>
-<p class="dateline" style="text-align:center;">Week of {{ $p.week_start }} · centered on {{ $p.today }}
-  · generated {{ $p.generated }} · {{ len $p.days }}/7 days in</p>
-{{/* Visible feed links — near the top, not buried below the filter chips
-     (Ben: "there's no link to the feed"). The chips below stay JS filters;
-     these are the real navigation to each lens's own page. */}}
-<div class="feeds-row">
-  <span class="feeds-label">Feeds</span>
-  <a class="tag ai" href="/news/ai/">AI</a>
-  <a class="tag global-capital" href="/news/global-capital/">Global Capital</a>
-  <a class="tag mental-health" href="/news/mental-health/">Mental Health</a>
-</div>
-{{ partial "world-news.html" . }}
-{{/* The briefing leads, per AGENTS.md discipline 10's fixed page order:
-     flash rail -> executive summary -> today's calendar -> ranked content.
-     The compact front readout still renders below the dashboard. */}}
-{{ partial "briefing.html" (dict "ctx" . "scope" "front") }}
-{{/* Narrated audio version (2026-08-13, Ben: "add an AUDIO briefing").
-     Generated separately (sources/generate_audio_briefing.py in
-     theprojection-corpus, Gemini TTS as of 2026-08-13 — switched
-     same-day from Kokoro, Ben's verdict: "sounds TERRIBLE") and dropped
-     into static/audio/. Not every day has one yet (not wired into
-     /daily's automated run for every scope, just the front/general feed
-     so far), so this only renders when today's file actually exists
-     rather than showing a dead player. Sits alongside, not instead of,
-     the free Listen button above (that one works every day, any device,
-     no generation step; this one is a fixed narrator voice, once it's
-     been generated for the day).
-
-     CACHE-BUST QUERY PARAM (added 2026-08-13, same day as a real
-     incident): the mp3's own URL never changes day to day (same
-     <date>-front.mp3 name even when the file is regenerated in place —
-     e.g. an engine swap re-narrating an already-published day, as
-     happened this same session), and static/_headers previously cached
-     it `immutable` for a year. A browser that had already fetched the
-     Kokoro version kept it forever with no way to know the underlying
-     file changed. `_headers` now caps the cache at 1h/must-revalidate,
-     but that only fixes FUTURE fetches — this ?v= param, tied to the
-     whole payload's own `generated` timestamp, forces every regenerated
-     publish to be a genuinely new URL so a stale browser cache can never
-     mask a real content change again, immutable header or not. */}}
-{{ $audioPath := printf "static/audio/%s-front.mp3" $p.today }}
-{{ if os.FileExists $audioPath }}
-{{ $audioSrc := printf "/audio/%s-front.mp3?v=%s" $p.today ($p.generated | urlquery) }}
-<div class="briefing-audio">
-  <p class="briefing-audio-label"><span aria-hidden="true">🎧</span> Narrated briefing</p>
-  <audio controls preload="none" src="{{ $audioSrc }}">
-    Your browser doesn't support inline audio —
-    <a href="{{ $audioSrc }}">download the mp3</a> instead.
-  </audio>
-</div>
-{{ end }}
-{{/* The card feed, its lens filter chips, and the duplicate compact readout
-     were RETIRED here 2026-08-07 (Ben: "the cards... can be retired... we
-     want the STORIES of the day up top, linked to our summarized story
-     page, and that's all"). The brief above is the page; per-lens reading
-     surfaces live at /news/<lens>/ via the Feeds row. dashboard.js stays
-     loaded below because it also powers the copy-week button — it renders
-     into a detached node when #dashboard is absent. */}}
-<div style="text-align:center; margin-top:.9rem;">
-  <button class="copy-chat-btn" id="copy-chat-week">💬 Copy this week for AI chat</button>
-</div>
-{{/* jsonify alone would get quoted-as-a-JS-string-literal by Go's
-     html/template script-context auto-escaper (double-encoding — the bug
-     that shipped). safeJS stops that, but it also opts out of the
-     escaper's own </script>-breaking protection, so that guard has to be
-     applied by hand here instead, same fix render_read.py already uses
-     for the internal page's payload. */}}
-<script id="tp-payload" type="application/json">{{ (replace ($p | jsonify) "</" "<\\/") | safeJS }}</script>
-<script src="/js/copy-chat.js" defer></script>
-<script src="/js/dashboard.js" defer></script>
-<script src="/js/listen.js" defer></script>
-{{ else }}
-<div class="feed"><p style="grid-column:1/-1; color:var(--ink-faint);">No published week yet — check back soon.</p></div>
-{{ end }}
+{{/* The news page, kept simple (Ben, 2026-10-24: "news related to those questions"). One list,
+     newest first, from data/research.json: each story links to its story page and its thread,
+     and names the question(s) it bears on. */}}
+<section class="news-simple" aria-label="News on the research questions">
+  <div class="thread-header" style="padding-bottom:.6rem;">
+    <h1>News</h1>
+    <p class="dek">The newest reporting on the questions this site follows. Every story links to its sources and to the thread it belongs to.</p>
+  </div>
+  {{ $news := site.Data.research.news }}
+  {{ if $news }}
+  {{ $last := "" }}
+  <div class="ns-list">
+  {{ range $news }}
+    {{ if ne .date $last }}{{ if $last }}</ul>{{ end }}<h2 class="ns-date">{{ .date }}</h2><ul class="ns-day">{{ $last = .date }}{{ end }}
+    <li>
+      <a class="ns-head" href="/story/{{ .id }}/">{{ .headline }}</a>
+      <span class="ns-meta">
+        <a href="/threads/{{ .thread }}/">{{ .thread_title }}</a>
+        {{ range .questions }}<a class="chip ns-q" href="{{ .url }}">{{ .title }}</a>{{ end }}
+      </span>
+    </li>
+  {{ end }}
+  </ul></div>
+  {{ else }}<p>No stories yet.</p>{{ end }}
+</section>
 
 {{ partial "footer.html" . }}
 </body>

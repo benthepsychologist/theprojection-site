@@ -1,0 +1,8 @@
+{{- /* True when the page path is on the hub's hide list (data/research.json hidden_paths).
+       "=" means that exact page; anything else is a prefix. Hidden pages are still built. */ -}}
+{{- $p := . -}}{{- $h := false -}}
+{{- range site.Data.research.hidden_paths -}}
+  {{- if hasPrefix . "=" -}}{{- if eq $p (strings.TrimPrefix "=" .) -}}{{- $h = true -}}{{- end -}}
+  {{- else if hasPrefix $p . -}}{{- $h = true -}}{{- end -}}
+{{- end -}}
+{{- return $h -}}

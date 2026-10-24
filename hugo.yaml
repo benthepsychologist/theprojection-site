@@ -47,15 +47,10 @@ menus:
   # /news/ai/ etc.) and are reached from there; threads and entities are
   # shared news/map infrastructure reachable from the pages that use them.
   main:
-    - name: "News"
-      url: "/news/"
-      weight: 1
-    - name: "The Map"
-      url: "/map/"
-      weight: 2
     - name: "Research"
       url: "/research/"
-      weight: 3
-    - name: "About"
-      url: "/about/"
-      weight: 4
+      weight: 1
+    - name: "News"
+      url: "/news/"
+      weight: 2
+

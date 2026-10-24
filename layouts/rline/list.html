@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+{{ partial "head.html" . }}
+</head>
+<body>
+{{ partial "masthead.html" . }}
+{{ $lineSlug := .Params.line }}
+{{ range .Site.Data.research.lines }}{{ if eq .slug $lineSlug }}
+{{ $line := . }}
+<p class="crumb" style="max-width:var(--max-width);margin:1.2rem auto 0;padding:0 1.5rem;">
+  <a href="/research/">← Research</a></p>
+<div class="thread-header">
+  <h1>{{ $line.title }}</h1>
+  <p class="dek">{{ $line.blurb }}</p>
+</div>
+<section class="research-stub wrap">
+  {{ partial "research-questions.html" (dict "line" $line "heading" false) }}
+</section>
+{{ end }}{{ end }}
+{{ partial "footer.html" . }}
+</body>
+</html>

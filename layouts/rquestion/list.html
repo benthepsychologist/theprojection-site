@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+{{ partial "head.html" . }}
+</head>
+<body>
+{{ partial "masthead.html" . }}
+{{ $lineSlug := .Params.line }}{{ $qSlug := .Params.question }}
+{{ range .Site.Data.research.lines }}{{ if eq .slug $lineSlug }}
+{{ $line := . }}
+{{ range .questions }}{{ if eq .slug $qSlug }}
+{{ $q := . }}
+
+<p class="crumb" style="max-width:var(--max-width);margin:1.2rem auto 0;padding:0 1.5rem;">
+  <a href="/research/">← Research</a> · <a href="/research/{{ $line.slug }}/">{{ $line.title }}</a></p>
+
+<div class="thread-header">
+  <h1>{{ $q.title }}</h1>
+  <p class="dek">{{ $line.title }} ·
+    {{ $q.counts.threads }} threads · {{ $q.counts.stories }} stories ·
+    {{ $q.counts.predictions }} open predictions</p>
+</div>
+
+<div class="rq wrap">
+
+  <section class="rq-sec" aria-label="Where it stands">
+    <h2>Where it stands</h2>
+    {{ with $q.note }}
+      <div class="rq-note">{{ .html | safeHTML }}</div>
+      <p class="rq-stale">Working note of {{ .date }}{{ if gt .age_days 14 }} ({{ .age_days }} days old; no newer one has been
+        written){{ end }}. The threads, stories and predictions below are the live evidence behind it.</p>
+    {{ else }}
+      <p class="rq-stale">{{ if $q.provisional }}This is a new question and no read has been written on it yet.
+        Below is what bears on it so far: the threads, stories and predictions that touch it.{{ else }}No dated working
+        note has been written for this question yet.{{ end }}</p>
+    {{ end }}
+  </section>
+
+  <section class="rq-sec" aria-label="Threads">
+    <h2>Threads that serve this question</h2>
+    {{ $prim := where $q.threads "primary" true }}
+    <ul class="rq-list">
+    {{ range first 10 $prim }}
+      <li><a href="/threads/{{ .slug }}/">{{ .title }}</a>
+        <span class="rq-meta">{{ .status }}{{ with .last_seen }} · last seen {{ . }}{{ end }}</span>
+        {{ with .blurb }}<p>{{ . | truncate 240 }}</p>{{ end }}</li>
+    {{ end }}
+    </ul>
+    {{ if gt (len $prim) 10 }}
+    <details class="rq-how"><summary>{{ sub (len $prim) 10 }} more threads</summary>
+    <ul class="rq-list">
+    {{ range after 10 $prim }}
+      <li><a href="/threads/{{ .slug }}/">{{ .title }}</a>
+        <span class="rq-meta">{{ .status }}{{ with .last_seen }} · last seen {{ . }}{{ end }}</span>
+        {{ with .blurb }}<p>{{ . | truncate 240 }}</p>{{ end }}</li>
+    {{ end }}
+    </ul></details>
+    {{ end }}
+    {{ $also := where $q.threads "primary" false }}
+    {{ if $also }}
+    <h3>Also bears on it</h3>
+    <ul class="rq-list rq-also">
+    {{ range $also }}
+      <li><a href="/threads/{{ .slug }}/">{{ .title }}</a>
+        <span class="rq-meta">{{ .status }}{{ with .last_seen }} · last seen {{ . }}{{ end }}</span></li>
+    {{ end }}
+    </ul>
+    {{ end }}
+  </section>
+
+  <section class="rq-sec" aria-label="Stories">
+    <h2>Newest stories</h2>
+    <ul class="rq-list">
+    {{ range $q.stories }}
+      <li><a href="/story/{{ .id }}/">{{ .headline }}</a>
+        <span class="rq-meta">{{ .date }} · <a href="/threads/{{ .thread }}/">{{ .thread_title }}</a></span></li>
+    {{ end }}
+    </ul>
+    {{ if gt $q.counts.stories (len $q.stories) }}<p class="rq-stale">{{ sub $q.counts.stories (len $q.stories) }} older
+      stories are on the threads above.</p>{{ end }}
+  </section>
+
+  <section class="rq-sec" aria-label="Predictions">
+    <h2>Predictions waiting on events</h2>
+    {{ if $q.predictions }}
+    <ul class="rq-list">
+    {{ range $q.predictions }}
+      <li>{{ .claim }}
+        <span class="rq-meta">due {{ .due }}{{ if .overdue }} · <span class="rq-overdue">due date passed, not yet
+          settled</span>{{ end }} · <a href="/threads/{{ .thread }}/">{{ .thread_title }}</a></span></li>
+    {{ end }}
+    </ul>
+    {{ else }}<p class="rq-stale">No open predictions on this question's threads.</p>{{ end }}
+  </section>
+
+</div>
+{{ end }}{{ end }}
+{{ end }}{{ end }}
+
+{{ partial "footer.html" . }}
+</body>
+</html>

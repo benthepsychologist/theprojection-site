@@ -1,0 +1,15 @@
+{{- /* research-questions.html — a line's shown questions as a list. Params: line, heading (bool). */ -}}
+{{ $line := .line }}
+{{ if .heading }}<h2 class="rs-line"><a href="/research/{{ $line.slug }}/">{{ $line.title }}</a></h2>
+{{ with $line.blurb }}<p class="rs-blurb">{{ . }}</p>{{ end }}{{ end }}
+<ol class="rs-questions rs-plain">
+{{ range $line.questions }}
+  <li class="rs-q">
+    <div>
+      <h3><a href="{{ .url }}">{{ .title }}</a></h3>
+      <p>{{ .counts.threads }} threads · {{ .counts.stories }} stories ·
+        {{ .counts.predictions }} open predictions{{ if .counts.overdue }}, {{ .counts.overdue }} past their date{{ end }}{{ if .provisional }} · new question{{ end }}</p>
+    </div>
+  </li>
+{{ end }}
+</ol>

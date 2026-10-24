@@ -79,7 +79,7 @@
              `$.practices_of` was a build-breaking bug, not a silent one. */}}
         {{ $src := . }}
         {{ with .practices }}
-          <a class="cred cred-practices" href="/methodology/#layer-3--published-practice-indicators"
+          <a class="cred cred-practices" {{ if not (partial "ishidden.html" "/methodology/") }}href="/methodology/#layer-3--published-practice-indicators"{{ end }}
              title="Published-practice indicators: how many of the transparency practices in our rubric this outlet publishes. Not an accuracy rating. A denominator below 7 means some indicators could not be checked and were dropped rather than counted as failures.">practices {{ . }}/{{ or $src.practices_of 7 }}</a>
         {{ end }}
         {{ if and (not .band) (not .rsp) (not .practices) }}<span class="cred cred-unrated" title="Not in the credibility layer — no rating either way.">unrated</span>{{ end }}
@@ -184,9 +184,9 @@
     <div class="adjacent-threads">
       <p class="small muted">Adjacent threads (shared entities):</p>
       {{ range $sibs }}
-      <div class="qrow"><span class="dash">·</span>
+      {{ if not (partial "ishidden.html" (printf "/threads/%s/" .slug)) }}<div class="qrow"><span class="dash">·</span>
         <span><a href="/threads/{{ .slug }}/">{{ .title }}</a></span>
-      </div>
+      </div>{{ end }}
       {{ end }}
     </div>
     {{ end }}

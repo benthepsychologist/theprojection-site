@@ -8,12 +8,14 @@
 
 <div class="feed">
   {{ range (.Pages.ByParam "last_seen").Reverse }}
+  {{ if not (partial "ishidden.html" .RelPermalink) }}
   <div class="card">
     {{ if .Params.lens }}<span class="tag {{ .Params.lens }}">{{ index (index $.Site.Params.lenses .Params.lens) "label" }}</span>{{ end }}
     <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
     {{ with .Params.blurb }}<p>{{ . }}</p>{{ end }}
     {{ if .Params.status }}<span class="meta">{{ upper .Params.status }} · LAST SEEN {{ .Params.last_seen }}</span>{{ end }}
   </div>
+  {{ end }}
   {{ end }}
 </div>
 
