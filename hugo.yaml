@@ -24,9 +24,9 @@ params:
   # loading the page. This is the sitewide fallback; /news/, /map/, and a
   # few others override it with their own tailored description already.
   description: >
-    A daily-updated news read on AI, money, and mental health — three
-    feeds, each story sourced and dated, written by a clinical
-    psychologist who also builds software.
+    A daily-updated read on the AI buildout: who the big players are,
+    where the money is going, and who is paying for the compute. Every
+    story sourced and dated.
   favicon: "/favicon.png"
   mark: "/images/mark.png"
 
