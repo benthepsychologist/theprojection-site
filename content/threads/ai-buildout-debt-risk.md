@@ -28,6 +28,11 @@ blurb: 'Whether AI-buildout debt is becoming its own underwritten, rated, public
   clock — the two produce very different recovery rates in a default.'
 ---
 
+## 2026-10-22 — Blackstone's Khaira on AI-buildout debt; TechCrunch reports Firmus scrapped its ASX IPO
+
+- **TechCrunch reported that Blackstone's Jas Khaira said Blackstone is the largest owner of compute outside of the hyperscalers** — the article's account of his remarks at TechCrunch Disrupt, where it says he discussed neocloud and data-center investments and the debt behind them. ([TechCrunch](https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/)) Claims: kat-claim-ca17f3f059a7
+- **TechCrunch reported that Firmus scrapped its planned IPO on the Australian Securities Exchange at a target valuation of roughly $30 billion.** The thread's 2026-10-01 entry recorded Firmus pricing that listing at A$11 a share, with trading due October 23, so this report conflicts with it; the earlier entry is left as written and which account holds is not settled here. ([TechCrunch](https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/)) Claims: kat-claim-2e37f5aa474a
+
 ## 2026-10-02 — Blue Owl again caps withdrawals from two private credit funds
 
 - **Blue Owl again limited withdrawals from two of its private credit funds to 5% after investors asked to pull 39% of shares in its technology lending fund and 17% in a second fund, Bloomberg reported.** The roughly $5 billion Blue Owl Technology Income Corp. is the largest fund of its kind focused on technology lending; requests rose slightly from 38.1% in the prior quarter, and fears about artificial intelligence kept them well above industry peers. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-10-02/blue-owl-again-caps-two-bdcs-after-39-17-withdrawal-requests))

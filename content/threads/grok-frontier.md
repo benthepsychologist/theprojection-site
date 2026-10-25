@@ -19,6 +19,10 @@ blurb: 'The Grok line closing the frontier gap as a FAST FOLLOWER, not mid-pack 
   sustains a lead vs. OpenAI/Anthropic.'
 ---
 
+## 2026-10-13 — SpaceX Super Intelligence folds Grok into a single five-tier X subscription
+
+- **TechCrunch reported that SpaceX Super Intelligence is bundling X Premium, Grok and Cursor into one subscription with five plans: free, Plus ($8/month), Premium ($30/month), Super ($100/month) and Ultra ($200/month)** TechCrunch says the free plan offers only limited chat and agent usage, Premium or higher is required to reach the latest Grok models, and AI usage caps rise with each tier. ([TechCrunch](https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/)) Claims: kat-claim-e1694d0ef027
+
 ## 2026-10-01 — Grok and the Venezuela decision
 
 - **Time reported that President Trump spent hours in a December 2025 meeting asking Musk's Grok chatbot how Venezuelans would respond if their president were captured** A source told Time that Trump "came away thinking Grok was ingenious"; TechCrunch notes the Pentagon's AI head said in June the military used Grok Gov during the Iran war. ([TechCrunch](https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/))

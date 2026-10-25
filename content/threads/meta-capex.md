@@ -27,6 +27,11 @@ blurb: 'The week''s reversal: Meta QUIT RE100 amid a 7.5GW gas buildout (07-23/2
   as what Meta will SPEND, not what it has COMMITTED — track the gap.'
 ---
 
+## 2026-10-22 — Meta raises the low end of its 2026 capex range and says it will issue a new non-voting share class
+
+- **The Verge reported that Meta expects capital expenditures between $135 billion and $145 billion this year, up from the previous estimate of $130 billion to $145 billion.** ([The Verge](https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings)) Claims: kat-claim-73db47fbb2a8
+- **The Verge reported that Meta said in its third-quarter earnings report that it is issuing a new class of non-voting shares to fund its AI initiatives, potential acquisitions and employee compensation, with trading beginning in 2027.** ([The Verge](https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings)) Claims: kat-claim-0cf64a02b792
+
 ## 2026-09-30 — Meta's AI data centers cut its federal tax bill by classing them as experimental
 
 - **Meta cut its 2025 federal tax bill by nearly 71% by treating its AI data centers as experimental facilities eligible for research tax credits, the New York Times reported** The credit saved $3.9 billion in 2025, up from $700 million in 2023, and the Times says Meta's own accountants flagged the approach as legally risky. ([Quartz](https://qz.com/meta-ai-data-centers-tax-credits-experimental-093026), [New York Times](https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html))

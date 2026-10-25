@@ -15,6 +15,13 @@ blurb: 'Is the tape turning against the AI trade as a whole? Distinct from the c
   changes actual capex behavior.'
 ---
 
+## 2026-10-19 — EPFR: equity funds take in $64.5 billion in the week to October 14 as alternatives post their first outflow since July
+
+- **ISI Markets reported that EPFR-tracked equity funds took in $64.5 billion during the week to October 14, five times the size of the previous week's inflow** — the note also says flows into technology sector and US equity funds rebounded and that investors' faith in the AI story was not dented by Middle East tensions and high energy prices. ([ISI Markets](https://isimarkets.com/publications/global-navigator-investors-turn-back-the-page-during-the-second-week-of-october/)) Claims: kat-claim-2de8a3791a45
+- **ISI Markets reported that EPFR-tracked US leveraged funds drew their biggest inflow since early 2Q25, with over $2.7 billion directed into a single fund tracking the NYSE Semiconductor index** — the note adds that investors may have been anticipating a rebound after the latest Nasdaq sell-off. ([ISI Markets](https://isimarkets.com/publications/global-navigator-investors-turn-back-the-page-during-the-second-week-of-october/)) Claims: kat-claim-cefc19838d64
+- **ISI Markets reported that EPFR-tracked alternative funds saw their first outflow since late July, with nearly $1.3 billion redeemed, snapping a 10-week run of inflows that totaled almost $63.2 billion** ([ISI Markets](https://isimarkets.com/publications/global-navigator-investors-turn-back-the-page-during-the-second-week-of-october/)) Claims: kat-claim-22a6ce59034a
+- **ISI Markets reported that EPFR-tracked money market funds saw redemptions of $53.12 billion in the week to October 14, reversing 32% of the previous week's sizable inflows** ([ISI Markets](https://isimarkets.com/publications/global-navigator-investors-turn-back-the-page-during-the-second-week-of-october/)) Claims: kat-claim-f2fd0b0ae72f
+
 ## 2026-10-01 — Volatility-control funds are stretched on equities
 
 - **Volatility control funds have pushed their equity allocations to the 98th percentile since 2010, leaving them positioned to force billions of dollars of share sales if volatility rises, Reuters reported.** Banks estimate the strategies manage $300 billion to $500 billion, and Barclays' Stefano Pascale said "even a mild rise in volatility would theoretically cause a significant exposure unwind." ([Reuters via Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/analysis-volatility-control-funds-near-100442724.html))

@@ -27,6 +27,22 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   count.'
 ---
 
+## 2026-10-21 — Wired reports Germany is loosening waste-heat rules for data centers and that Stack Infrastructure canceled a $3 billion facility in Hesse
+
+- **WIRED reported that the German government laid out a plan earlier this year to double the scale of the country's data center fleet and quadruple the amount of compute available for running artificial intelligence models by 2030.** ([Wired](https://www.wired.com/story/europe-data-centers-climate-change/)) Claims: kat-claim-e787c4ecf6da
+- **WIRED reported that under an amended Energy Efficiency Act, which is to be put to the German parliament for ratification imminently, data center operators in Germany would no longer be obligated to reuse waste heat and would only have to scope out the possibility.** ([Wired](https://www.wired.com/story/europe-data-centers-climate-change/)) Claims: kat-claim-88161efcd67f
+- **WIRED reported that in the last 18 months Stack Infrastructure canceled a $3 billion data center facility in Hesse, Germany.** ([Wired](https://www.wired.com/story/europe-data-centers-climate-change/)) Claims: kat-claim-798a887ca07b
+
+## 2026-10-18 — Industry groups court schoolchildren as a Pew poll shows about half of those surveyed see data centers as mostly bad
+
+- **WIRED reported that its tally of public blogs and social media posts found at least eleven companies and industry groups have hosted student field trips to local data centers since 2025** — WIRED presents this as an industry push to win over young people amid backlash to data center build-outs. ([WIRED](https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/)) Claims: kat-claim-fb83f728de26
+- **WIRED reported that a Pew Research poll conducted over the summer found about half of the 10,000 Americans surveyed see data centers as "mostly bad" for the environment and quality of life** — WIRED cites the poll as the backdrop to the field trips. ([WIRED](https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/)) Claims: kat-claim-b03d50ec1be2
+- **WIRED, citing boston.com, reported that Westfield, Massachusetts, killed a $3 billion data center project** — listed in WIRED's weekly reading roundup; WIRED's own account is a one-line relay of the boston.com report. ([WIRED](https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/)) Claims: kat-claim-0524764449cb
+
+## 2026-10-11 — New York's permit moratorium on large data centers is cited as the no-NDA pledges spread
+
+- **TechCrunch reported that Amazon recently followed Microsoft in saying it will no longer use non-disclosure agreements while negotiating with local governments over data centers, an announcement made in the middle of a longer blog post arguing data centers are good for communities** — on the same Equity podcast, TechCrunch's Anthony Ha said New York has a moratorium on permits for large data center projects that runs until the state finalizes an environmental review expected to take a year. The Amazon pledge itself is the one this timeline recorded on 10-02; the New York moratorium is new here, and it is stated by a reporter on a podcast, not yet checked against a state source. ([TechCrunch](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/)) Claims: kat-claim-724ec53fc7ab, kat-claim-66cd07079d82, kat-claim-d0ccebcf3a4c
+
 ## 2026-10-02 — AWS pledges $1 billion to host communities and drops government NDAs
 
 - **Amazon Web Services said Friday it will invest more than $1 billion over five years in communities that host its data centers and no longer uses non-disclosure agreements with government agencies on its projects** AWS chief executive Matt Garman's blog post says AWS is 75% of the way to being water positive by 2030 and that more than 100 data-center moratoriums are being considered across the country; AWS did not say which communities get the money. ([The Hill](https://thehill.com/policy/technology/6126145-amazon-investment-data-center-communities-energy-water-costs/), [DCD](https://www.datacenterdynamics.com/en/news/aws-drops-non-disclosure-agreements-for-data-center-projects/))
@@ -169,6 +185,6 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   only a local-consent one. Gizmodo reads the pivot as a campaign
   calculation; that does not change the exposure if it wins. Cross-refs
   [Datacenter Sites](/threads/ai-datacenter-sites/), and — via the chatbot-liability plank —
-  [The Reckoning](/threads/ai-therapy-regulatory-reckoning/).
+  ai-therapy-regulatory-reckoning.
   ([Bloomberg Government](https://news.bgov.com/bloomberg-government-news/paxton-abbott-break-with-trump-and-go-negative-on-data-centers),
   [Fox News](https://www.foxnews.com/politics/ais-massive-appetite-power-water-ignites-fight-high-stakes-texas-senate-race))

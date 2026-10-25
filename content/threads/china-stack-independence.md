@@ -19,6 +19,16 @@ blurb: 'One story, both directions: Z.AI''s 1 GW all-domestic-chip site, Kimi K3
   its models/chips. US chip-equity reaction is the measure.'
 ---
 
+## 2026-10-22 — DeepSeek reportedly raises about $15 billion days after the US federal removal order
+
+- **TechCrunch reported, citing Bloomberg, that DeepSeek raised about $15 billion, about 100 billion yuan, in one of the biggest funding rounds in China.** ([TechCrunch](https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/)) Claims: kat-claim-2729ce0b028d
+- **TechCrunch reported that DeepSeek raised more than $7 billion at a valuation of $50 billion in an investment round in June** — the earlier round the article sets the reported new funding against. ([TechCrunch](https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/)) Claims: kat-claim-357a9db59f93
+
+## 2026-10-20 — US orders federal civilian agencies to remove DeepSeek; DHS cites data-access concerns
+
+- **TechCrunch reported, citing the Department of Homeland Security, that the US ordered federal civilian agencies to stop purchasing DeepSeek products and services and to remove them from government IT systems** — the article says the order also covers third-party products built with DeepSeek technology, though agencies can request exceptions; China's Foreign Ministry spokesperson Mao Ning said Beijing opposes "overstretching the concept of national security and politicizing technology and trade issues." ([TechCrunch](https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/)) Claims: kat-claim-295b42ff33d0
+- **TechCrunch reported that DHS raised concerns that sensitive information from US government users could potentially be accessible to Chinese authorities under Chinese law** — the article ties the concern to DeepSeek's handling of user data, as stated in the order. ([TechCrunch](https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/)) Claims: kat-claim-4e1ac2040540
+
 ## 2026-10-03 — Bessent: US to propose an AI-incident channel to China
 
 - **Treasury Secretary Scott Bessent said the US plans to propose to China a notification process for AI incidents and told AI executives who fear losing control of their models "then they should slow down," Axios reported Saturday** Bessent told The Axios Show he thinks Beijing would agree, that he and Vice Premier He Lifeng discussed AI safety before Xi Jinping's state visit, that China has realised "how powerful their open source models are" and that the US government's model reviews are voluntary though it reserves the right to intervene; the date of the interview was not stated. ([Axios](https://www.axios.com/2026/10/03/china-ai-bessent-axios-show))

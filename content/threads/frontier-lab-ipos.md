@@ -29,6 +29,10 @@ blurb: 'The frontier labs are converting private, vendor-financed valuations int
   "as late as next year") move.'
 ---
 
+## 2026-10-19 — Bloomberg reports investor pushback on Nscale's proposed $30 billion valuation
+
+- **Bloomberg reported on Monday that Nscale is experiencing investor pushback over its proposed $30 billion valuation, TechCrunch reported** — TechCrunch says Nscale is seeking to go public and that Anthropic is still expected to go public this year. ([TechCrunch](https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/)) Claims: kat-claim-73082474045b
+
 ## 2026-09-30 — SEC charges advisers who sold fake pre-IPO stakes
 
 - **The SEC charged private fund advisers in two cases involving funds that claimed pre-IPO stakes in SpaceX, OpenAI and xAI, alleging misappropriated investor money and false statements.** One complaint alleges at least $1.27 million was misappropriated from funds that raised at least $18.5 million from nearly 100 investors; the other, brought with federal prosecutors, alleges a fund raised $8.7 million from 35 investors while falsely listing SpaceX and xAI as holdings; none of the companies is accused of wrongdoing. ([SEC](https://www.sec.gov/newsroom/press-releases/2026-98-sec-charges-meyer-global-management-its-ceo-defrauding-retail-investors-private-funds-held-interests), [Fortune](https://fortune.com/2026/09/30/openai-spacex-private-fund-advisers-charged/))

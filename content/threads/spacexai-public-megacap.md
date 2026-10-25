@@ -20,6 +20,17 @@ blurb: 'SpaceX (Nasdaq: SPCX) — the public parent holding xAI + X (crawl 2026-
   Anthropic lease-back is real revenue or circular financing. Q7 material.'
 ---
 
+## 2026-10-23 — The Verge reports SpaceX and Tesla have formed special committees to discuss a merger; puts SpaceX's AI-infrastructure revenue line at $7 billion
+
+- **The Verge reported that SpaceX and Tesla have formed special committees to discuss a merger** — the column says Musk told the SpaceX earnings call there is "a lot of merit to combining" the two companies and did not elaborate on the Tesla call; the piece is an opinion column by Elizabeth Lopatto, and the report of the committees is stated in it without a named source. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari)) Claims: kat-claim-604afeeaac18
+- **The Verge reported that SpaceX's "SI solutions & infrastructure revenues" subcategory jumped to $7 billion in its third quarter, more than three times the prior quarter's level** — the column says $608 million of that came from the Cursor acquisition, that most of the rest was likely compute rented to Anthropic and Google, and that analyst Gil Luria of DA Davidson says Grok likely contributes less; the company did not break out Grok revenue, and the breakdown beyond Cursor is the column's and the analyst's estimate, not a SpaceX disclosure. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari)) Claims: kat-claim-b52d5a617ed8
+
+## 2026-10-20 — SpaceX reports $14.6 billion third-quarter revenue and $4.4 billion net income
+
+- **SpaceX reported $14.6 billion in third-quarter revenue on Tuesday, according to its regulatory filing, TechCrunch reported** — the article says growth came in all segments and that the AI business now makes up 52% of the company's income. ([TechCrunch](https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/)) Claims: kat-claim-56d9b954e200
+- **TechCrunch reported that SpaceX's renamed "Super Intelligence" business line generated $7.5 billion of revenue from the Cursor coding tool, the Grok bot and its neocloud business** — the article says the AI business generated $431 million in profit, which would have been higher without $1.2 billion in one-time stock-based compensation expenses related to the Cursor acquisition. ([TechCrunch](https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/)) Claims: kat-claim-db1ff05edb69
+- **SpaceX reported net income of $4.4 billion for the quarter, against a $1 billion loss in the same quarter a year earlier, TechCrunch reported** — the article adds that SpaceX still had a net income loss of $413 million over the first nine months of the year. ([TechCrunch](https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/)) Claims: kat-claim-7c233ea8c69b
+
 ## 2026-10-01 — SpaceXAI reported in compute-leasing talks with Microsoft
 
 - **SpaceX's AI unit held talks over the summer about leasing computing capacity to Microsoft, The Information reported** The report, citing people familiar with the matter, was published Thursday. ([MarketScreener, relaying The Information](https://ae.marketscreener.com/news/spacex-s-ai-unit-in-talks-to-lease-compute-capacity-to-microsoft-ce785ddad98df62d))

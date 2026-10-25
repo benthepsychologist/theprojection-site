@@ -28,6 +28,10 @@ blurb: 'Anthropic has signed four large infrastructure arrangements in roughly t
   — this thread asks a narrower question, who ends up holding the asset.'
 ---
 
+## 2026-10-19 — Anthropic and Nscale reported close to announcing a second $45 billion compute deal
+
+- **Bloomberg, citing people familiar with the matter, reported that Anthropic and Nscale are on the verge of announcing another $45 billion compute deal, TechCrunch reported** — TechCrunch says the two companies announced a first $45 billion compute deal a little over a month earlier, and that the sources cautioned talks are still underway and details could change. ([TechCrunch](https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/)) Claims: kat-claim-5bc615f691f2
+
 ## 2026-10-02 — Broadcom's $60 billion debt package
 
 - **Broadcom is assembling $60 billion of debt financing to help Anthropic and other companies buy AI chips, Bloomberg reported** The package has a $42 billion senior-secured Class A tranche and an $18 billion junior tranche led by Blackstone, which is putting up $9 billion of its own capital; Broadcom declined to comment. ([Quartz via Yahoo Finance, citing Bloomberg](https://finance.yahoo.com/technology/ai/articles/broadcom-raises-60-billion-debt-113047288.html))

@@ -19,6 +19,11 @@ blurb: 'The neocloud wager, quantified: $99.4B backlog (Q1-26; OpenAI $18.4B + M
   08-11.'
 ---
 
+## 2026-10-19 — The Verge analysis cites $103.7 billion of CoreWeave obligations and more than $35 billion owed
+
+- **The Verge's Elizabeth Lopatto wrote that CoreWeave had $103.7 billion of remaining performance obligations from customers as of the second quarter, about 40 percent of it due in 2028** — the analysis says the customers can't cancel the contracts except under some very limited circumstances, and names Microsoft, OpenAI and what is probably Nvidia as the biggest customers. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai)) Claims: kat-claim-8b4cab5bcc0c
+- **The Verge's Elizabeth Lopatto wrote that CoreWeave, as of its second-quarter earnings, owed more than $35 billion** — the analysis says CoreWeave's bonds slipped into distressed territory the previous week and its shares were down more than 20 percent since Tuesday's close. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai)) Claims: kat-claim-5a93f0402042
+
 ## 2026-09-24 — JPMorgan upgrades CoreWeave on compute pricing power
 
 - **JPMorgan upgraded CoreWeave to overweight from neutral on Thursday, arguing the AI cloud provider has pricing power as customers pay up for scarce compute and for short-term contracts.** Analyst Samik Chatterjee cited a roughly 25% price increase across CoreWeave's SKUs in July, contracts signed in its fiscal third quarter at about $40 million per megawatt, and 5 to 10 percentage points more contribution margin on newer contracts; the call comes ahead of the company's customer conference next week. ([Investor's Business Daily](https://www.investors.com/news/technology/coreweave-stock-upgraded-jpmorgan-ai-cloud-pricing-power/), [Benzinga](https://www.benzinga.com/trading-ideas/long-ideas/26/09/61970810/coreweave-shorter-contracts-higher-margins-jpmorgan))

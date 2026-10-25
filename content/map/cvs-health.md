@@ -1,4 +1,4 @@
 ---
-title: CVS Health / Aetna
+title: Cvs Health
 board_kind: org
 ---

@@ -18,6 +18,12 @@ blurb: 'A live federal case (1:26-cv-02448, N.D. Ill., filed 2026-03-04, verifie
   past the original 2026-05-15 deadline, and whether other companies cite the case.'
 ---
 
+## 2026-10-14 — Eight US states sue OpenAI over ChatGPT's safety for children, a separate case from Nippon Life
+
+- **The Verge reported that eight US states have filed lawsuits accusing OpenAI of harming children and misleading customers about ChatGPT's safety.** The article says the suits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho and Montana, allege consumer-protection violations and cite recent rogue AI hacking incidents as evidence of recklessness. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety)) Claims: kat-claim-ea42e8c5524f
+
+*Reporting judgment (ours, not the sources'):* this is not the Nippon Life case and does not change its docket. It is logged here because the thread's watch names AI developer liability as the question, and these suits test that question through consumer-protection law rather than contract breach.
+
 ## 2026-08-28 — Judge resets the Nippon Life hearing to October 20 with OpenAI's motion to dismiss still undecided
 
 - **The judge in Nippon Life v. OpenAI struck the 09-02 hearing and reset it to 10-20 at 9:45 a.m., with OpenAI's motion to dismiss still "under advisement"** The docket since the 05-15 motion shows Nippon's opposition on 07-03, OpenAI's reply on 07-17, and on 08-04 an order denying Nippon's request to file a surreply; no ruling has been entered, and the latest entry (09-23) is a lawyer's change of address. ([CourtListener docket](https://www.courtlistener.com/docket/72365583/nippon-life-insurance-company-of-america-v-openai-foundation/))

@@ -1,4 +1,4 @@
 ---
-title: SonderMind
+title: Sondermind
 board_kind: org
 ---

@@ -9,7 +9,7 @@ entities: []
 thread_kind: story
 blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-month structural
   closure as a one-week price spike. The Strait of Hormuz has been effectively closed
-  since 2026-02-28, the opening day of the Iran war (see Iran''s Widening War, whose
+  since 2026-02-28, the opening day of the Iran war (see iran-conflict-widening, whose
   origin was corrected the same day): transits are running roughly 10 ships/day against
   a 60-140/day norm, and Maersk, MSC, CMA CGM and Hapag-Lloyd have ALL suspended Hormuz
   transits, rerouting via the Cape of Good Hope. War-risk insurance is the sharpest
@@ -156,7 +156,7 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
 
 ## 2026-09-14 — Brent tops $108, a four-month high, as the Saudi pipeline workaround stays shut and the Hormuz talks collapse instead of landing
 
-- **Brent traded as high as $108.04 (+3.28%) and held around $106.69-108 through Monday, its strongest level in four months, extending last week's 9%+ rally rather than reversing it.** The move stacks three inputs this thread and [Iran's Widening War](/threads/iran-conflict-widening/) have been tracking separately onto one session: Saudi Arabia's East-West pipeline — its principal workaround for avoiding the Strait of Hormuz, moving 4-5% of global crude supply — remains shut four days after the 09-10 drone attack traced to Iraq's Maysan province; the Houthis' completed hold on both Bab el-Mandeb shipping lanes (already on this thread's 09-11 record) is unresolved; and Monday's planned Salalah talks on a Hormuz shipping corridor were postponed with no new date (full diplomatic detail on [Iran's Widening War](/threads/iran-conflict-widening/)). ([FinanceFeeds](https://financefeeds.com/brent-crude-oil-price-107-oman-postpones-iran-hormuz-talks/), [EnergyNow](https://energynow.com/2026/09/oil-surges-again-as-saudi-pipeline-outage-and-hormuz-risks-push-brent-above-108/), [CNBC](https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html))
+- **Brent traded as high as $108.04 (+3.28%) and held around $106.69-108 through Monday, its strongest level in four months, extending last week's 9%+ rally rather than reversing it.** The move stacks three inputs this thread and iran-conflict-widening have been tracking separately onto one session: Saudi Arabia's East-West pipeline — its principal workaround for avoiding the Strait of Hormuz, moving 4-5% of global crude supply — remains shut four days after the 09-10 drone attack traced to Iraq's Maysan province; the Houthis' completed hold on both Bab el-Mandeb shipping lanes (already on this thread's 09-11 record) is unresolved; and Monday's planned Salalah talks on a Hormuz shipping corridor were postponed with no new date (full diplomatic detail on iran-conflict-widening). ([FinanceFeeds](https://financefeeds.com/brent-crude-oil-price-107-oman-postpones-iran-hormuz-talks/), [EnergyNow](https://energynow.com/2026/09/oil-surges-again-as-saudi-pipeline-outage-and-hormuz-risks-push-brent-above-108/), [CNBC](https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html))
 - **Unlike the 09-11 pullback this thread logged on profit-taking, this leg is not reversing — the pipeline outage is the mechanism, and it has now run four days with no repair timeline disclosed** (Saudi Arabia has given no damage assessment; a comparable April attack on the same pipeline was repaired within three days, a precedent this outage has already exceeded). This is the first time in the war that Saudi Arabia's own Hormuz-avoidance route, not just the strait itself, has been the thing taken offline — pushing the "workaround" itself into the same risk category as the chokepoint it was built to avoid.
 
 ## 2026-09-13 (late catch, added 2026-09-14) — the Sunday-evening reopening print the prior digest could only anticipate
@@ -165,7 +165,7 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
 
 ## 2026-09-11 — Bab el-Mandeb is now fully Houthi-held on both shipping lanes, yet oil gave back Thursday's spike on profit-taking rather than de-escalation
 
-- **The Houthis' seizure of Perim Island completed their hold on the entirety of Yemen's Red Sea coast, putting both shipping lanes of the Bab el-Mandeb strait — roughly 12–15% of global maritime trade — under one combatant's control for the first time in this war; oil nonetheless fell rather than spiked, with Brent down 3.58% to $103.78 and WTI down 2.17% to $99.23, snapping five and eight consecutive days of gains respectively.** Deutsche Bank's Jim Reid attributed the pullback specifically to a WSJ report that White House advisers have discussed the Iran conflict extending beyond Trump's current term — a longer war read by the market as a lower near-term disruption probability, the opposite of how the same fact reads on the conflict side. The week is still up 8–9%. See [Yemen's Civil War](/threads/yemen-civil-war/) for the ground-war account of the same advance. ([CNBC](https://www.cnbc.com/2026/09/11/oil-price-today-iran-brent-wti-trump.html))
+- **The Houthis' seizure of Perim Island completed their hold on the entirety of Yemen's Red Sea coast, putting both shipping lanes of the Bab el-Mandeb strait — roughly 12–15% of global maritime trade — under one combatant's control for the first time in this war; oil nonetheless fell rather than spiked, with Brent down 3.58% to $103.78 and WTI down 2.17% to $99.23, snapping five and eight consecutive days of gains respectively.** Deutsche Bank's Jim Reid attributed the pullback specifically to a WSJ report that White House advisers have discussed the Iran conflict extending beyond Trump's current term — a longer war read by the market as a lower near-term disruption probability, the opposite of how the same fact reads on the conflict side. The week is still up 8–9%. See yemen-civil-war for the ground-war account of the same advance. ([CNBC](https://www.cnbc.com/2026/09/11/oil-price-today-iran-brent-wti-trump.html))
 - ✅ **This thread's own open "since when" flag is resolved: Thursday's break above $100 was the first time since mid-May, not July as an earlier reading had it** — stated directly in CNBC's Friday piece, not inferred, closing the discrepancy this thread has carried unresolved since 09-09. ([CNBC](https://www.cnbc.com/2026/09/11/oil-price-today-iran-brent-wti-trump.html))
 - ⚠️ **Saudi Arabia's own oil output has fallen to its lowest level since 1990**, per Deutsche Bank's Jim Reid, cited as one of Thursday's specific escalation inputs alongside the Houthi capture of Mokha — distinct from the US-Iran naval exchange this thread has tracked as the primary mechanism. Single-sourced to a bank strategist quoted in a market wrap, not independently corroborated. ([CNBC](https://www.cnbc.com/2026/09/11/oil-price-today-iran-brent-wti-trump.html))
 
@@ -173,7 +173,7 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
 
 - **Brent traded $104.80–$105.07 (+3.50% to +3.81%) as of ~10:15 ET, measured from a $101.21–$101.26 prior close, while WTI reached $99.63 (+3.73%, +$3.58) from a $96.05 prior close as of 10:17 ET.** Both prior closes match CNBC's own report of Tuesday 09-09's official settles — Brent at $101.21 (+3.36%) and WTI at $96.05 (+3.25%) — so the 09-09 close and today's intraday reading agree within rounding. This is a fresh leg higher on top of this thread's own 09-09 entry, which logged Brent crossing $100 intraday at $101.44. Both legs were genuinely cross-checked across three independent sources — oilprice.com, investing.com and CNBC's settle report — rather than the single-source reads this thread has had to catch and correct before. ([oilprice.com](https://oilprice.com/futures/brent/), [investing.com Brent](https://www.investing.com/commodities/brent-oil), [investing.com WTI](https://www.investing.com/commodities/crude-oil))
 - **⚠️ Unresolved: this thread's own 09-09 entry says Brent crossed $100 "for the first time since July," but a separate sweep this run described the same crossing as the first since May, and today's WTI move above $99 is itself framed elsewhere as its highest "since roughly May."** The level itself is not in doubt — it reconciles cleanly against its prior close above — only the how-long-since framing is unreconciled between the two readings. Needs a check against a dated historical settle series next pass; not resolved here.
-- **By mid-afternoon Brent had climbed further to $106.83 (+5.55%) and WTI to $101.57 (+5.75%) — a second leg up on the morning's own $105/$99 reading, logged above in this same block.** The move now reflects two chokepoints being priced at once rather than one: Hormuz, off the US-vs-Iranian-Navy tanker exchange already on this thread's 09-09 record, and Bab el-Mandeb, off a new Houthi advance past Mokha to the Hanish Islands — see [Yemen's Civil War](/threads/yemen-civil-war/) for the ground-war account of the same advance. Houthi forces are pushing toward the peninsula overlooking Perim Island and Bab el-Mandeb itself, per Maritime Executive, which would give them leverage over roughly 8.1 million barrels a day transiting the strait — about 8% of global oil supply on Q2 2026 figures. A sustained disruption there forces Asia–Europe shipping around the Cape of Good Hope. The internationally recognised Yemeni government still holds the coastline and islands overlooking the shipping channels in that specific area as of the same report, and the Houthis deny that blocking traffic is their objective, saying they can already control it from positions they hold now. ([Maritime Executive](https://maritime-executive.com/article/houthis-break-through-towards-bab-el-mandeb))
+- **By mid-afternoon Brent had climbed further to $106.83 (+5.55%) and WTI to $101.57 (+5.75%) — a second leg up on the morning's own $105/$99 reading, logged above in this same block.** The move now reflects two chokepoints being priced at once rather than one: Hormuz, off the US-vs-Iranian-Navy tanker exchange already on this thread's 09-09 record, and Bab el-Mandeb, off a new Houthi advance past Mokha to the Hanish Islands — see yemen-civil-war for the ground-war account of the same advance. Houthi forces are pushing toward the peninsula overlooking Perim Island and Bab el-Mandeb itself, per Maritime Executive, which would give them leverage over roughly 8.1 million barrels a day transiting the strait — about 8% of global oil supply on Q2 2026 figures. A sustained disruption there forces Asia–Europe shipping around the Cape of Good Hope. The internationally recognised Yemeni government still holds the coastline and islands overlooking the shipping channels in that specific area as of the same report, and the Houthis deny that blocking traffic is their objective, saying they can already control it from positions they hold now. ([Maritime Executive](https://maritime-executive.com/article/houthis-break-through-towards-bab-el-mandeb))
 
 ## 2026-09-09 — The US disables five Iranian tankers, Iran hits back at Jordan, and Brent crosses $100 for the first time since July
 
@@ -206,7 +206,7 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
 
 ## 2026-09-04 — South Korea prepares a naval deployment to the Strait of Hormuz, reversing its wait-for-the-war-to-end position
 
-- **South Korea's Defense Ministry said it is making "concrete preparations" to send forces to the Strait of Hormuz — a maritime patrol aircraft, a logistics support ship, and/or a mine-detection/clearance unit are under consideration, with a parliamentary consent motion expected this month and dispatch targeted before year-end.** This reverses Seoul's earlier stance of deploying only after the US-Iran war ends; officials are coordinating scale and nature of the contribution with the US, UK and France. The trigger is explicit: Trump said in August he scaled back joint US-South Korea exercises partly because Seoul had declined to help in the Iran war. The Blue House pushed back on reports that a final decision has been made, calling that framing "different from the facts" — so this is preparation and diplomatic coordination, not a confirmed deployment. This is the second US ally (after the EU, logged above under [Iran's Widening War](/threads/iran-conflict-widening/)) drawn into the campaign's military or financial machinery within the same 24 hours. ([Bloomberg, via Political Wire](https://politicalwire.com/2026/09/04/south-korea-weighs-strait-of-hormuz-deployment/), [Free Malaysia Today](https://www.freemalaysiatoday.com/category/world/2026/09/04/south-korea-preparing-hormuz-military-deployment-reports-say))
+- **South Korea's Defense Ministry said it is making "concrete preparations" to send forces to the Strait of Hormuz — a maritime patrol aircraft, a logistics support ship, and/or a mine-detection/clearance unit are under consideration, with a parliamentary consent motion expected this month and dispatch targeted before year-end.** This reverses Seoul's earlier stance of deploying only after the US-Iran war ends; officials are coordinating scale and nature of the contribution with the US, UK and France. The trigger is explicit: Trump said in August he scaled back joint US-South Korea exercises partly because Seoul had declined to help in the Iran war. The Blue House pushed back on reports that a final decision has been made, calling that framing "different from the facts" — so this is preparation and diplomatic coordination, not a confirmed deployment. This is the second US ally (after the EU, logged above under iran-conflict-widening) drawn into the campaign's military or financial machinery within the same 24 hours. ([Bloomberg, via Political Wire](https://politicalwire.com/2026/09/04/south-korea-weighs-strait-of-hormuz-deployment/), [Free Malaysia Today](https://www.freemalaysiatoday.com/category/world/2026/09/04/south-korea-preparing-hormuz-military-deployment-reports-say))
 
 - **Hours after reports that South Korea was making "concrete preparations" for a Hormuz deployment, a South Korean presidential official told Al-Monitor "nothing has been decided" and specifically denied the two most concrete claims in that reporting — that a deployment before year-end was settled, and that a parliamentary consent motion would be sought "this month."** The official said Seoul still has to clear domestic legal procedure, assess military readiness on the Korean Peninsula, and secure National Assembly approval before any decision, and that President Lee Jae-myung might raise the question with Macron the following week — no decision date given. This sharpens the Blue House's earlier "different from the facts" pushback into specific denials: what stands is preparation and review, not an in-motion deployment timeline.
   ([Al-Monitor](https://www.al-monitor.com/originals/2026/09/south-korea-reviewing-military-options-hormuz-no-decision-made-official-says))
@@ -216,16 +216,16 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
 
 ## 2026-09-03 — Brent whipsaws between $95 and $99 as Washington's barrel-volume claims keep outrunning independent ship counts
 
-- **Brent closed above $95 on Wednesday (09-02) for the first time since late July, then spiked to roughly $99.38 by 8am ET Thursday (09-03, +3.4% on the day) before easing back to around $95 by afternoon trading (-0.4% net), snapping the three-session rally this thread has tracked since the 08-30/31 Larak Island strike** — the intraday swing reflects markets weighing the fresh Kuwait/UAE strikes ([Iran's Widening War](/threads/iran-conflict-widening/), above) against renewed claims that Hormuz transit volumes are recovering.
+- **Brent closed above $95 on Wednesday (09-02) for the first time since late July, then spiked to roughly $99.38 by 8am ET Thursday (09-03, +3.4% on the day) before easing back to around $95 by afternoon trading (-0.4% net), snapping the three-session rally this thread has tracked since the 08-30/31 Larak Island strike** — the intraday swing reflects markets weighing the fresh Kuwait/UAE strikes (iran-conflict-widening, above) against renewed claims that Hormuz transit volumes are recovering.
   ([Fortune](https://fortune.com/article/price-of-oil-09-03-2026/), [TradingEconomics](https://tradingeconomics.com/commodity/brent-crude-oil))
 - **The administration-vs-independent-data gap this thread tracked at the 08-28 "Hormuz is open" episode reopened with fresh numbers: Energy Secretary Chris Wright told CNBC that more than 17 million barrels of oil transited Hormuz on Monday (08-31), the highest daily volume since the war began, and separate reporting put a US-escorted convoy at 40 vessels carrying 18 million barrels on Tuesday (09-01) — while Kpler's independent ship-tracking put actual tanker crossings at just 4 on that same Tuesday.** ⚠️ **The barrel-volume figures come from named US officials on the record (Wright to CNBC); the vessel-count figures come from Kpler as reported by CNBC, not directly verified against Kpler's own site this pass** — both sides of the gap are attributed, not resolved, consistent with how this thread has logged the same tension since 08-28.
   ([CNBC](https://www.cnbc.com/2026/09/02/energy-secretary-chris-wright-tells-cnbc-that-more-than-17-million-barrels-of-oil-transited-hormuz-on-monday.html), [CNBC](https://www.cnbc.com/2026/08/12/strait-hormuz-ship-traffic-iran-war-deal.html))
 
 ## 2026-09-02 — Brent tops $96 as the Iran-Gulf retaliation wave lands; the Sidr tanker toll and attribution both firm up
 
-- **Brent traded around $96.11/bbl at 8am ET on 09-02, up roughly $2 on the day** and continuing the run this thread has tracked since the 08-30/31 Larak Island strike and Jordan/UAE retaliation, now extended by 09-01's seven-site US strikes and Iran's four-country response ([Iran's Widening War](/threads/iran-conflict-widening/)). Fourth consecutive up session on the same mechanism.
+- **Brent traded around $96.11/bbl at 8am ET on 09-02, up roughly $2 on the day** and continuing the run this thread has tracked since the 08-30/31 Larak Island strike and Jordan/UAE retaliation, now extended by 09-01's seven-site US strikes and Iran's four-country response (iran-conflict-widening). Fourth consecutive up session on the same mechanism.
   ([Fortune](https://fortune.com/article/price-of-oil-09-02-2026/))
-- **A correction lands on the Sidr/Senegal Prosperity incident this thread and [Iran's Widening War](/threads/iran-conflict-widening/) logged 08-31/09-01 as unattributed with all crew safe: Bahri (the Saudi state shipping company) confirmed on 09-02 that two Filipino seafarers aboard the *Sidr* were killed, and Saudi Arabia's Foreign Ministry directly attributed the strike to Iran** — "an Iranian attack against a Saudi vessel in the Strait of Hormuz." Iran's IRGC maintains its own account, that the vessel struck a sea mine rather than being attacked directly. See Corrections below.
+- **A correction lands on the Sidr/Senegal Prosperity incident this thread and iran-conflict-widening logged 08-31/09-01 as unattributed with all crew safe: Bahri (the Saudi state shipping company) confirmed on 09-02 that two Filipino seafarers aboard the *Sidr* were killed, and Saudi Arabia's Foreign Ministry directly attributed the strike to Iran** — "an Iranian attack against a Saudi vessel in the Strait of Hormuz." Iran's IRGC maintains its own account, that the vessel struck a sea mine rather than being attacked directly. See Corrections below.
   ([Jerusalem Post](https://www.jpost.com/middle-east/article-907312), [Manila Times](https://www.manilatimes.net/2026/09/02/news/2-filipino-seafarers-dead-after-monday-attack-on-saudi-oil-tanker-in-hormuz-says-shipping-firm/2416849))
 
 - **Iran's Persian Gulf Strait Authority (PGSA) — the body Tehran set up to manage the strait — added 11 more vessels to its "Non-Compliant Vessels" list on 09-02, bringing the total blacklisted to 56, up from the 45 first announced 08-24.** Blacklisted ships face "fines, confiscation or detention" if they attempt transit, and the PGSA added a new escalation: any vessel conducting ship-to-ship transfers or transshipment with a listed vessel will itself be added to the list. The list spans VLCCs, LNG/LPG carriers and clean-product tankers; ships owned by UAE's ADNOC L&S, Navig8 Tankers and Saudi Arabia's Bahri have previously appeared on it, and at least three Indian refiners plus a major energy company reportedly stopped using listed vessels by late August. This is a new, escalating instrument of Iran's economic-warfare campaign against shipping, distinct from the kinetic tanker strikes already tracked here.
@@ -237,7 +237,7 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   the run that started with the 08-30/08-31 Larak Island strike and
   Jordan/UAE retaliation, as the US struck IRGC targets across seven-plus
   sites in southern Iran around noon ET — the conflict narrative is on
-  [Iran's Widening War](/threads/iran-conflict-widening/). Third consecutive up session on the same
+  iran-conflict-widening. Third consecutive up session on the same
   Iran-driven mechanism this thread has tracked since 08-30; no new
   war-risk-insurance percentage or transit-count figure found this pass
   (standing figures unchanged from 08-31).
@@ -443,7 +443,7 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
 - **Iran and Oman announced a "shipping map" agreement for Hormuz vessel
   routing Saturday, but it settles neither the fee structure nor the
   security arrangement the market actually needs to reprice risk — full
-  diplomatic account on [Iran's Widening War](/threads/iran-conflict-widening/).** The lack of resolved
+  diplomatic account on iran-conflict-widening.** The lack of resolved
   terms is itself the market-relevant fact: the deal firmed up over the
   weekend without producing the kind of clean reopening signal that has
   moved price on past occasions (see 08-05, 08-06).
@@ -609,7 +609,7 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
 
 ## 2026-08-06 — Brent rebounds into the low-$80s as the still-unsigned Hormuz deal keeps the market whipsawing
 
-- **Brent traded back up off the 08-05 slide** — readings cluster around $80.80 (+1.7% on the session, Oilprice.com) to $83.64 (Forbes/Fortune's Aug-6-morning read, essentially flat on the day) — a rebound from the ~$78.4-78.7 close logged here yesterday, even though the Iran-Oman deal remains unsigned (status: [Iran's Widening War](/threads/iran-conflict-widening/), now "agreed in principle" on shipping-lane coordinates but still pending Iran's Supreme Leader and still gated by a US-Iran dispute over fees/control). Two aggregators ~$3 apart — recorded as a range, consistent with this thread's practice when a clean print isn't available.
+- **Brent traded back up off the 08-05 slide** — readings cluster around $80.80 (+1.7% on the session, Oilprice.com) to $83.64 (Forbes/Fortune's Aug-6-morning read, essentially flat on the day) — a rebound from the ~$78.4-78.7 close logged here yesterday, even though the Iran-Oman deal remains unsigned (status: iran-conflict-widening, now "agreed in principle" on shipping-lane coordinates but still pending Iran's Supreme Leader and still gated by a US-Iran dispute over fees/control). Two aggregators ~$3 apart — recorded as a range, consistent with this thread's practice when a clean print isn't available.
   ([Oilprice.com](https://oilprice.com/futures/brent/), [Fortune](https://fortune.com/article/price-of-oil-08-06-2026/))
 - **Same pattern flagged 08-05, now repeating in the other direction:** this thread has already watched one de-escalation trade fail to survive a night (08-03) and a slide build on deal anticipation (08-05); today's rebound is the same anticipation trade wobbling, not new information about the strait itself. Nothing here yet confirms which way it ultimately breaks — that depends on an actual signed deal and real transit volumes, not headlines.
 
@@ -619,7 +619,7 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   its decline from the 08-03 close of $84.75 — a roughly 7% two-day
   drop — as markets price in a reported 60-day US-Iran-Oman deal to
   reopen the Strait of Hormuz (terms and status on
-  [Iran's Widening War](/threads/iran-conflict-widening/)). Gold, the mirror trade, gained for a third
+  iran-conflict-widening). Gold, the mirror trade, gained for a third
   straight day on the same easing-risk-premium logic, holding above
   $4,100.
   ([Trading Economics](https://tradingeconomics.com/commodity/brent-crude-oil), [NBC News](https://www.nbcnews.com/world/iran/trump-iran-war-deal-strait-hormuz-deal-oman-rcna590920))
@@ -726,7 +726,7 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   reports ranged $87.30 to above $90/bbl within a two-hour window, WTI
   near $83-84 — noisy but still well above pre-conflict levels; no clean
   single print to cite. Full account of the diplomatic fragmentation
-  driving this volatility is on [Iran's Widening War](/threads/iran-conflict-widening/).
+  driving this volatility is on iran-conflict-widening.
 
 ## 2026-07-28 — Brent craters, then round-trips on the day's whiplash
 
@@ -739,7 +739,7 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
 - **Oil round-tripped the day: Brent +4.3% to ~$87.7, WTI +4.2% to
   ~$82.6** — erasing the afternoon crater to ~$84 (−4.8%, a third losing
   session) once Iran fired on the US base in Jordan (full account:
-  [Iran's Widening War](/threads/iran-conflict-widening/)). A **3.3M-barrel US crude draw** (week ended
+  iran-conflict-widening). A **3.3M-barrel US crude draw** (week ended
   07-24) compounded it.
 - **The Fed meets today (14:00 ET) with its inflation impulse re-armed
   overnight** — and hike odds that don't agree across venues (CME
@@ -760,7 +760,7 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   Aramco refineries at Jizan and Yanbu — Yanbu alone handles ~92% of
   Saudi seaborne crude exports (Kpler/AFP). The strike itself (first
   direct hit on Saudi oil infrastructure since 2022) is on
-  [Iran's Widening War](/threads/iran-conflict-widening/).
+  iran-conflict-widening.
   ([Washington Post](https://www.washingtonpost.com/world/2026/07/25/houthis-claim-attack-saudi-oil-refinery-iran-war-widens-red-sea/))
 
 ## 2026-07-23 — Blockade declared; the market's answer
@@ -771,7 +771,7 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   Fed-hike-odds spike, and equity selloff — compounded the Alphabet-led
   Magnificent 7 rout into its worst day since April 2025's tariff
   tantrum. The triggering tanker strikes and blockade declaration are on
-  [Iran's Widening War](/threads/iran-conflict-widening/).
+  iran-conflict-widening.
   ([NBC/Yahoo](https://www.nbcnews.com/business/markets/oil-prices-rise-red-sea-attacks-houthis-saudi-trump-iran-war-rcna588851))
 
 ## 2026-07-24 — Partial retreat

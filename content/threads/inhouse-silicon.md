@@ -21,6 +21,15 @@ blurb: The custom-silicon revolt (TPU/Trainium/Maia/MTIA) — real but INFERENCE
   Watch whether displacement reaches frontier training.
 ---
 
+## 2026-10-20 — Google releases TorchTPU as open source, a day after Amazon's TorchNeuron
+
+- **Google announced on Tuesday that TorchTPU, its version of PyTorch, is available as an open-source project, TechCrunch reported** — the article says it lets AI apps run on Google's Tensor Processing Units and lets existing PyTorch apps move to TPUs and Google Cloud with a configuration change and no rewriting. ([TechCrunch](https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/)) Claims: kat-claim-5ee1826be130
+- **Amazon released its own PyTorch version, TorchNeuron, which lets AI apps be ported to its Trainium chip and to AWS with no rewriting, TechCrunch reported** — the article says Amazon announced it on Monday and is also submitting code to the main PyTorch project that decouples features from Nvidia's chips. ([TechCrunch](https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/)) Claims: kat-claim-a27afd311125
+
+## 2026-10-12 — Microsoft announces Maia 300, its third in-house AI chip, to be its main inference system from 2027
+
+- **Microsoft announced Maia 300, its third-generation in-house AI chip, designed to be the primary AI inference system for its products and services and to start rolling out to production workloads in 2027, The Verge reported** — Microsoft's Scott Guthrie said the company expects 40 percent more tokens per megawatt than leading GPU-based systems and will scale the Azure Maia family to multi-gigawatt deployments starting in 2027; The Verge reports the chip is built on TSMC's N2P process with a chiplet design separating compute, memory controller and I/O. These are Microsoft's own performance figures, not independent measurements. ([The Verge](https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout)) Claims: kat-claim-04da171bc68f, kat-claim-1604732130d2, kat-claim-8ddbe389ce6a, kat-claim-2c38b20a50a0, kat-claim-7c004023627f
+
 ## 2026-09-30 — AWS signs a $1 billion-plus chip-design licence with Synopsys
 
 - **Amazon Web Services agreed a multi-year deal worth more than $1 billion to license chip-design intellectual property from Synopsys, which names Amazon the lead customer for its new "application-optimized" silicon IP** The deal moves Synopsys to a license-plus-royalty model with payments tied to production volumes, extends AWS's use of Synopsys's design software and agentic AI tools, and does not say which AWS chips will use the designs. ([Synopsys](https://news.synopsys.com/2026-09-30-Synopsys-and-Amazon-Announce-Strategic,-Multi-year-IP-Agreement-for-Custom-Silicon-Collaboration-Also-Extends-to-Cloud-and-AI-Powered-Engineering), [Quartz via Yahoo Finance](https://finance.yahoo.com/technology/articles/aws-signs-1b-chip-design-134633158.html))

@@ -18,6 +18,10 @@ blurb: Microsoft shipped 7 in-house MAI models and says it was "set free" from t
   genuine independence or a hedge.
 ---
 
+## 2026-10-23 — Science study reports Microsoft's MAI-DxO diagnosing 83% of complex cases against 36% for generalist physicians
+
+- **TechCrunch reported that a study published Thursday in Science found Microsoft's MAI-DxO diagnostic system, which coordinates several AI agents acting as a panel of doctors, correctly diagnosed complex New England Journal of Medicine cases 83% of the time in a simulation, against 36% for primary care doctors and general internists working individually with reference materials** — TechCrunch notes that cases this complex are usually handled by specialists or teams, who were not in the comparison. ([TechCrunch](https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/)) Claims: kat-claim-bad8ce7e3d13
+
 ## 2026-10-01 — Microsoft ships its first streaming transcription model and two new voice models
 
 - **Microsoft AI launched MAI-Transcribe-2-Streaming, its first real-time transcription model, plus MAI-Voice-2.1 and a faster MAI-Voice-2.1-Flash, and says the transcription model debuts at no. 1 on Artificial Analysis** The launch extends the in-house MAI line beyond text and image models into voice-agent building blocks, a market where OpenAI, Google and ElevenLabs sell competing products; the ranking is Microsoft's own claim. ([Microsoft AI](https://microsoft.ai/news/our-first-streaming-transcription-model/))

@@ -1,4 +1,4 @@
 ---
-title: UnitedHealth Group / Optum
+title: Unitedhealth Group
 board_kind: org
 ---

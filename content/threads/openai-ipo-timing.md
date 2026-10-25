@@ -16,6 +16,10 @@ blurb: Reported slip to 2027 chasing a ~$1T valuation; Altman rejecting a lower 
   fell ~12% on the report).
 ---
 
+## 2026-10-23 — CNBC reports OpenAI working on up to $30 billion at a $1.25 trillion pre-money valuation, led by Coatue and UAE investors
+
+- **TechCrunch, relaying CNBC, reported that OpenAI is working on raising up to $30 billion at a $1.25 trillion pre-money valuation in a round led by Coatue and investors in the United Arab Emirates, citing sources** — TechCrunch says Bloomberg reported a month earlier that OpenAI was working on $30 billion at $1.4 trillion, that both outlets report terms are still being negotiated, that CNBC says the UAE funding could be paired with a deal for more computing capacity from the UAE, and that OpenAI declined to comment. TechCrunch adds that OpenAI filed confidential IPO paperwork in June, after a March round at $852 billion post-money. ([TechCrunch](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/)) Claims: kat-claim-c88fccbe0b29
+
 ## 2026-09-29 — OpenAI seeks $30 billion at $1.4 trillion as a bridge in place of an IPO
 
 - **OpenAI is seeking to raise at least $30 billion at a valuation of about $1.4 trillion, before the new money, as bridge financing in place of an IPO, Bloomberg reported** Talks are early and terms could change; the last round closed in March at $852 billion, and Altman said this month OpenAI would not go public in 2026. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value), [Reuters via KFGO](https://kfgo.com/2026/09/29/openai-targets-30-billion-funding-at-1-4-trillion-valuation-bloomberg-news-reports/))
