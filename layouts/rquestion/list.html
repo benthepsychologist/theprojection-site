@@ -36,6 +36,14 @@
     {{ end }}
   </section>
 
+  {{ range $q.visuals }}
+  <section class="rq-sec" aria-label="{{ . }}">
+    {{ partial (printf "visual-%s.html" .) (dict "site" $.Site "board" $.Site.Data.board "groups" $.Site.Data.board.groups
+        "exclude" (or $.Site.Data.research.plate_exclude_sectors slice) "big" false "embed" true
+        "flow" $.Site.Data.q1_flows "snapshot" (index (or $.Site.Data.research.visual_snapshots dict) .)) }}
+  </section>
+  {{ end }}
+
   <section class="rq-sec" aria-label="Threads">
     <h2>Threads that serve this question</h2>
     {{ $prim := where $q.threads "primary" true }}

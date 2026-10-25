@@ -2,83 +2,6 @@
 <html lang="en">
 <head>
 {{ partial "head.html" . }}
-<style>
-  /* ---- the board plate (thrust × gravity) — scoped to this page ---- */
-  .plate-stage{display:grid;grid-template-columns:minmax(0,1fr) 280px;gap:20px;
-    align-items:start;margin:26px 0 40px}
-  @media(max-width:860px){.plate-stage{grid-template-columns:1fr}}
-  .plate{background:var(--paper-2);border:1px solid var(--hair);border-radius:3px;
-    padding:6px;box-shadow:0 1px 0 var(--ink-06),0 22px 50px -34px rgba(27,32,39,.35)}
-  .plate svg{display:block;width:100%;height:auto}
-  .plate-head{display:flex;justify-content:space-between;align-items:baseline;
-    gap:14px;flex-wrap:wrap;margin:0 0 10px}
-  .plate-title{font-family:var(--serif);font-size:20px;font-weight:600;margin:0}
-  .plate-enc{font-family:var(--sans);font-size:11px;color:var(--ink-45);margin:0;text-align:right}
-  .plate-controls{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
-  .pf-row{display:flex;gap:4px;flex-wrap:wrap}
-  .pf-chip{font-family:var(--sans);font-size:11px;color:var(--ink-70);
-    background:transparent;border:1px solid var(--hair);border-radius:2px;
-    padding:4px 9px;cursor:pointer;text-decoration:none;text-transform:capitalize}
-  .pf-chip:hover{border-color:var(--ink-24);color:var(--ink)}
-  .pf-chip.active{color:#fff;background:var(--ink);border-color:var(--ink)}
-  .pf-reset{border-style:dashed}
-  .pf-big{font-weight:600}
-  :root{
-    /* chart-only NEON sector rings (Ben 2026-07-27: "almost neon") —
-       the muted page pigments stay everywhere else */
-    --ring-finance:#00B8D9;--ring-power:#B44BFF;--ring-infra:#00C853;--ring-care:#2962FF}
-  .col-h{font-family:var(--serif);font-weight:600;font-size:22px;
-    letter-spacing:.06em;fill:var(--ink)}
-  .col-gloss{font-family:var(--sans);font-size:11px;fill:var(--ink-45)}
-  .plate .col-rule{stroke:var(--ink-12);stroke-width:1;stroke-dasharray:1 4}
-  .plate .axis-line{stroke:var(--ink-24);stroke-width:1}
-  .plate .tick text{font-family:var(--sans);font-size:12px;fill:var(--ink-70);
-    font-variant-numeric:tabular-nums;font-weight:600}
-  .plate .tick line{stroke:var(--ink-12);stroke-width:1}
-  .plate .thresh{stroke:var(--ink-12);stroke-width:1;stroke-dasharray:2 5}
-  .plate .diag{stroke:var(--ink-24);stroke-width:1;stroke-dasharray:1 6;fill:none}
-  .plate .diag-lbl{font-family:var(--sans);font-size:11px;fill:var(--ink-70);
-    letter-spacing:.04em;font-weight:600}
-  .plate .axis-title{font-family:var(--sans);font-size:15px;fill:var(--ink);
-    letter-spacing:.02em;font-weight:600}
-  .plate .lead{stroke:var(--ink-45);stroke-width:1}
-  .plate .lbl{font-family:var(--serif);font-size:14px;fill:var(--ink);font-weight:600}
-  @media(max-width:640px){.plate .lbl,.plate .lead{display:none}}
-  .plate .bubble{cursor:pointer;transition:opacity .2s ease}
-  .plate .bubble .ring{fill:none;stroke-width:3}
-  .plate .bubble:focus-visible{outline:none}
-  .plate .bubble:focus-visible .ring{stroke:var(--live);stroke-width:4}
-  .plate-rail{position:sticky;top:16px;display:flex;flex-direction:column;gap:12px}
-  .receipt{background:var(--paper-2);border:1px solid var(--hair);border-radius:3px;
-    padding:16px 16px 12px;min-height:210px}
-  .r-eyebrow{font-family:var(--sans);font-size:10px;letter-spacing:.2em;
-    text-transform:uppercase;color:var(--ink-45);margin:0 0 8px}
-  .r-name{font-family:var(--serif);font-size:21px;font-weight:600;margin:0;line-height:1.05}
-  .r-name a{color:var(--ink);text-decoration:none}
-  .r-name a:hover{text-decoration:underline;text-decoration-color:var(--ink-45)}
-  .r-posture{font-family:var(--serif);font-style:italic;font-size:13.5px;color:var(--ink-70);margin:3px 0 10px}
-  .r-fig{border-top:1px solid var(--hair);padding:8px 0}
-  .r-fig-top{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
-  .r-k{font-family:var(--sans);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase}
-  .r-k a{color:var(--ink-45);text-decoration:none;border-bottom:1px dotted var(--ink-24)}
-  .r-k a:hover{color:var(--ink)}
-  .r-v{font-family:var(--sans);font-size:16px;font-weight:600;
-    font-variant-numeric:tabular-nums;letter-spacing:-.01em}
-  .r-src{font-family:var(--serif);font-style:italic;font-size:11.5px;color:var(--ink-70);
-    line-height:1.4;margin:2px 0 0}
-  .r-more{font-family:var(--sans);font-size:11px;margin:10px 0 0}
-  .r-more a{color:var(--ink-70)}
-  .plate-legend{font-family:var(--sans);font-size:11px;color:var(--ink-70);
-    border-top:1px solid var(--hair);padding-top:10px}
-  .plate-legend h4{font-size:10px;letter-spacing:.16em;text-transform:uppercase;
-    color:var(--ink-45);margin:8px 0 6px;font-weight:600}
-  .lg-row{display:flex;align-items:center;gap:7px;margin:0 0 4px}
-  .lg-dot{width:11px;height:11px;border-radius:50%;flex:none}
-  .lg-ring{width:11px;height:11px;border-radius:50%;flex:none;border:2px solid;background:transparent}
-  .lg-ramp{display:flex;align-items:center;gap:7px;font-size:10.5px;color:var(--ink-45)}
-  .lg-ramp i{flex:1;height:10px;border-radius:5px;
-    background:linear-gradient(90deg,#8A97A3 0%,#3A3A42 8%,#C40E0E 30%,#FF3D00 55%,#FF8F00 75%,#FFC800 90%,#FFFBE0 100%)}
-</style>
 </head>
 <body>
 {{ partial "masthead.html" . }}
@@ -106,63 +29,7 @@
     {{ partial "vocab-toggle.html" (dict "labels" $labels "default" $default) }}
   </div>
 
-  {{/* ---- the plate: thrust × gravity, size = weight, fill = optionality, ring = sector ---- */}}
-  {{ $axed := slice }}
-  {{ range $board.orgs }}{{ if and .axes_num (ne .kind "state") (ne .kind "agency") }}
-    {{ $axed = $axed | append (dict "slug" .slug "name" .name "pocket" (or .pocket "")
-        "posture" (or .posture "") "optionality" (or .optionality "")
-        "thrust" (or .thrust "") "cc" (or .commanded_capital "") "grav" (or .gravity "")
-        "num" .axes_num) }}
-  {{ end }}{{ end }}
-  {{ with $axed }}
-  <section class="plate-section">
-    <div class="plate-head">
-      <h2 class="plate-title">The Plate</h2>
-      <div class="plate-controls">
-        <div id="plate-filters" class="pf-row" aria-label="Filter by pocket"></div>
-        <button type="button" id="plate-reset" class="pf-chip pf-reset">reset</button>
-        <a class="pf-chip pf-big" href="/plate/">open big ⤢</a>
-      </div>
-      <p class="plate-enc">size = <a href="/metric/gravity/">gravity</a> ·
-        heat = burn (<a href="/metric/thrust/">thrust</a>÷weight) · height =
-        <a href="/metric/commanded-capital/">weight</a> · columns =
-        <a href="/metric/optionality/">optionality</a> · ring = sector</p>
-    </div>
-    <div class="plate-stage">
-      <div class="plate">
-        <svg viewBox="0 0 1000 800" role="img"
-             aria-label="Actors in four optionality columns by commanded capital; bubble size is gravity, fill is thrust heat, ring is sector"></svg>
-      </div>
-      <div class="plate-rail">
-        <div class="receipt" id="plate-receipt" aria-live="polite">
-          <p class="r-eyebrow">The receipt</p>
-          <p class="r-src" style="font-size:13px">Hover or tap a mark for its
-            figures. The giants are the chokepoints — the economy that breaks
-            if they stop. The heavy, cold pools sit high in the locked column.
-            White-hot means capital is being committed <em>now</em>.</p>
-        </div>
-        <div class="plate-legend">
-          <h4>Size = <a href="/metric/gravity/" style="color:inherit">gravity</a></h4>
-          <div class="lg-row">the economy that breaks if the actor stops</div>
-          <h4>Heat = burn (<a href="/metric/thrust/" style="color:inherit">thrust</a> ÷ weight)</h4>
-          <div class="lg-ramp"><span>idle</span><i></i><span>all-in</span></div>
-          <h4>Ring = sector</h4>
-          <div class="lg-row"><span class="lg-ring" style="border-color:var(--ring-power)"></span>Big Tech</div>
-          <div class="lg-row"><span class="lg-ring" style="border-color:var(--ring-infra)"></span>Infrastructure</div>
-          <div class="lg-row"><span class="lg-ring" style="border-color:var(--ring-finance)"></span>Finance</div>
-          <div class="lg-row"><span class="lg-ring" style="border-color:var(--ring-care)"></span>Care</div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <script>
-    window.PLATE_DATA = {
-      actors: {{ $axed | jsonify | safeJS }},
-      groups: {{ $groups | jsonify | safeJS }}
-    };
-  </script>
-  <script src="/js/board-plate.js" defer></script>
-  {{ end }}
+  {{ partial "visual-plate.html" (dict "board" $board "groups" $groups "exclude" slice "big" true) }}
 
   {{/* ---- sectors (G2) -> pocket tiles (G1) ---- */}}
   {{ range $sector := (where $groups "tier" "G2") }}

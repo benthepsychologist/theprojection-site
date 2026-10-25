@@ -1,0 +1,54 @@
+{{/* The money-flow tables and map (Q1). Context (a dict): site, flow (data/q1_flows.json), snapshot (date shown when the data is a frozen export, else empty), embed (wrap for use inside a question page). */}}
+{{ if .embed }}<div class="rq-visual board-paper flowmap-page">{{ else }}<div class="flowmap-page">{{ end }}
+  {{ $flow := .flow }}
+  {{ $q1Claims := .site.Data.q1_claims }}
+  {{ if $q1Claims }}
+  {{ $byFlowType  := sort (where $q1Claims "dimension" "q1-flow-type") "total_usd" "desc" }}
+  {{ $byDest      := sort (where $q1Claims "dimension" "q1-destination") "total_usd" "desc" }}
+  {{ $byRecipient := first 15 (sort (where $q1Claims "dimension" "q1-recipient") "total_usd" "desc") }}
+  <div class="fm-breakdowns">
+    <div class="fm-breakdown">
+      <h2>By transaction type</h2>
+      <table class="fm-bd-table"><tbody>
+        {{ range $byFlowType }}
+        <tr><td><a href="/q1claim/{{ .id }}/">{{ .short_label | humanize }}</a></td>
+          <td class="fm-bd-amt">{{ if gt .total_usd 0 }}{{ printf "$%.1fB" (div .total_usd 1000000000) }}{{ else }}—{{ end }}</td></tr>
+        {{ end }}
+      </tbody></table>
+      <p class="fm-bd-note">Point-figure, USD-denominated flows only — click a row for the members and sourcing.</p>
+    </div>
+    <div class="fm-breakdown">
+      <h2>By what it bought</h2>
+      <table class="fm-bd-table"><tbody>
+        {{ range $byDest }}
+        <tr><td><a href="/q1claim/{{ .id }}/">{{ .short_label | humanize }}</a></td>
+          <td class="fm-bd-amt">{{ if gt .total_usd 0 }}{{ printf "$%.1fB" (div .total_usd 1000000000) }}{{ else }}—{{ end }}</td></tr>
+        {{ end }}
+      </tbody></table>
+    </div>
+    <div class="fm-breakdown">
+      <h2>Where it's going — top tracked recipients</h2>
+      <table class="fm-bd-table"><tbody>
+        {{ range $byRecipient }}
+        <tr><td><a href="/q1claim/{{ .id }}/">{{ .short_label }}</a></td>
+          <td class="fm-bd-amt">{{ printf "$%.1fB" (div .total_usd 1000000000) }}</td></tr>
+        {{ end }}
+      </tbody></table>
+    </div>
+  </div>
+  {{ end }}
+
+  {{ if $flow }}
+  <div class="fm-toolbar">
+    <input id="fm-search" type="search" placeholder="Find an entity, fund, or company…" aria-label="Find a node">
+    <label><input type="checkbox" id="fm-core-toggle"> Highlight <code>cut:core-buildout</code> v{{ $flow.cut_core_buildout_version }}</label>
+    <span class="fm-stats">{{ $flow.node_count }} nodes · {{ $flow.edge_count }} flows · {{ with $.snapshot }}snapshot of {{ . }}{{ else }}live from the knowledge graph{{ end }}</span>
+  </div>
+
+  <div id="q1-flowmap" class="fm-canvas"></div>
+  <div id="fm-panel" class="fm-panel" hidden></div>
+
+  <script type="application/json" id="q1-flow-data">{{ $flow | jsonify | safeJS }}</script>
+  <script src="/js/q1-flowmap.js"></script>
+  {{ end }}
+</div>

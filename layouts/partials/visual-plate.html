@@ -1,0 +1,66 @@
+{{/* The plate: thrust × gravity, size = gravity, fill = burn, ring = sector. Drawn by /js/board-plate.js.
+     Context (a dict): board, groups, exclude (sector slugs left out), big (show the "open big" link),
+     embed (wrap in the board-paper surface the plate's colours live on). */}}
+{{ $board := .board }}{{ $exclude := .exclude }}
+{{ $dropPockets := slice }}
+{{ range .groups }}{{ $g := . }}{{ if eq .tier "G1" }}{{ range .member_of }}{{ if in $exclude . }}{{ $dropPockets = $dropPockets | append $g.slug }}{{ end }}{{ end }}{{ end }}{{ end }}
+{{ $groups := slice }}
+{{ range .groups }}{{ if not (or (in $exclude .slug) (in $dropPockets .slug)) }}{{ $groups = $groups | append . }}{{ end }}{{ end }}
+{{ $axed := slice }}
+{{ range $board.orgs }}{{ if and .axes_num (ne .kind "state") (ne .kind "agency") (not (in $dropPockets (or .pocket ""))) }}
+  {{ $axed = $axed | append (dict "slug" .slug "name" .name "pocket" (or .pocket "")
+      "posture" (or .posture "") "optionality" (or .optionality "")
+      "thrust" (or .thrust "") "cc" (or .commanded_capital "") "grav" (or .gravity "")
+      "num" .axes_num) }}
+{{ end }}{{ end }}
+{{ with $axed }}
+{{ if $.embed }}<div class="rq-visual board-paper">{{ end }}
+<section class="plate-section">
+  <div class="plate-head">
+    <h2 class="plate-title">The Plate</h2>
+    <div class="plate-controls">
+      <div id="plate-filters" class="pf-row" aria-label="Filter by pocket"></div>
+      <button type="button" id="plate-reset" class="pf-chip pf-reset">reset</button>
+      {{ if $.big }}<a class="pf-chip pf-big" href="/plate/">open big ⤢</a>{{ end }}
+    </div>
+    <p class="plate-enc">size = <a href="/metric/gravity/">gravity</a> ·
+      heat = burn (<a href="/metric/thrust/">thrust</a>÷weight) · height =
+      <a href="/metric/commanded-capital/">weight</a> · columns =
+      <a href="/metric/optionality/">optionality</a> · ring = sector</p>
+  </div>
+  <div class="plate-stage">
+    <div class="plate">
+      <svg viewBox="0 0 1000 800" role="img"
+           aria-label="Actors in four optionality columns by commanded capital; bubble size is gravity, fill is thrust heat, ring is sector"></svg>
+    </div>
+    <div class="plate-rail">
+      <div class="receipt" id="plate-receipt" aria-live="polite">
+        <p class="r-eyebrow">The receipt</p>
+        <p class="r-src" style="font-size:13px">Hover or tap a mark for its
+          figures. The giants are the chokepoints — the economy that breaks
+          if they stop. The heavy, cold pools sit high in the locked column.
+          White-hot means capital is being committed <em>now</em>.</p>
+      </div>
+      <div class="plate-legend">
+        <h4>Size = <a href="/metric/gravity/" style="color:inherit">gravity</a></h4>
+        <div class="lg-row">the economy that breaks if the actor stops</div>
+        <h4>Heat = burn (<a href="/metric/thrust/" style="color:inherit">thrust</a> ÷ weight)</h4>
+        <div class="lg-ramp"><span>idle</span><i></i><span>all-in</span></div>
+        <h4>Ring = sector</h4>
+        {{ if not (in $exclude "power") }}<div class="lg-row"><span class="lg-ring" style="border-color:var(--ring-power)"></span>Big Tech</div>{{ end }}
+        {{ if not (in $exclude "infra") }}<div class="lg-row"><span class="lg-ring" style="border-color:var(--ring-infra)"></span>Infrastructure</div>{{ end }}
+        {{ if not (in $exclude "finance") }}<div class="lg-row"><span class="lg-ring" style="border-color:var(--ring-finance)"></span>Finance</div>{{ end }}
+        {{ if not (in $exclude "care") }}<div class="lg-row"><span class="lg-ring" style="border-color:var(--ring-care)"></span>Care</div>{{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+<script>
+  window.PLATE_DATA = {
+    actors: {{ . | jsonify | safeJS }},
+    groups: {{ $groups | jsonify | safeJS }}
+  };
+</script>
+<script src="/js/board-plate.js" defer></script>
+{{ if $.embed }}</div>{{ end }}
+{{ end }}
