@@ -27,6 +27,12 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   count.'
 ---
 
+## 2026-10-25 — Wired interviews author Paris Marx on data center opposition in the US, Ireland and Oregon
+
+- **Wired reported that data centers are one of the issues that could decide key US midterm races in less than two weeks.** ([Wired](https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/)) Claims: kat-claim-172a859b9190
+- **Author Paris Marx told Wired that data center companies in Ireland lobbied for legislation that allows private companies to build electricity cables on what is a public grid.** ([Wired](https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/)) Claims: kat-claim-e99a148c2835
+- **Author Paris Marx told Wired that, once the community obtained the figures, it found Google was using 29 percent of the water in The Dalles, Oregon.** ([Wired](https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/)) Claims: kat-claim-086bc16cb8eb
+
 ## 2026-10-21 — Wired reports Germany is loosening waste-heat rules for data centers and that Stack Infrastructure canceled a $3 billion facility in Hesse
 
 - **WIRED reported that the German government laid out a plan earlier this year to double the scale of the country's data center fleet and quadruple the amount of compute available for running artificial intelligence models by 2030.** ([Wired](https://www.wired.com/story/europe-data-centers-climate-change/)) Claims: kat-claim-e787c4ecf6da
