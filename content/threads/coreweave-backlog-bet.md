@@ -19,6 +19,11 @@ blurb: 'The neocloud wager, quantified: $99.4B backlog (Q1-26; OpenAI $18.4B + M
   08-11.'
 ---
 
+## 2026-10-27 — Neocloud General Compute raises a $100 million Series A at an $800 million valuation
+
+- **TechCrunch reported that General Compute, a neocloud built on specialized inference chips, raised $100 million in Series A funding led by Blackbird Ventures and Abstract Ventures, at a post-money valuation of $800 million** — TechCrunch says the round follows a customer deal worth $100 million in annual recurring revenue and a May seed round at a $60 million valuation, notes that CoreWeave's stock has fallen to a 12-month low, and quotes CEO Finn Puklowski calling fears of a chip-led collapse "massively overstated". ([TechCrunch](https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/)) Claims: kat-claim-29a21bdfbf0e
+- **TechCrunch reported that General Compute struck a $400 million deal to purchase inference chips from SambaNova, which it describes as the first debt financing of inference chips** — the company has since added Positron and Cerebras as chip suppliers, and Puklowski expects to deploy 75 megawatts of computing capacity in 2027. ([TechCrunch](https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/)) Claims: kat-claim-beff02b6f6c2
+
 ## 2026-10-19 — The Verge analysis cites $103.7 billion of CoreWeave obligations and more than $35 billion owed
 
 - **The Verge's Elizabeth Lopatto wrote that CoreWeave had $103.7 billion of remaining performance obligations from customers as of the second quarter, about 40 percent of it due in 2028** — the analysis says the customers can't cancel the contracts except under some very limited circumstances, and names Microsoft, OpenAI and what is probably Nvidia as the biggest customers. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai)) Claims: kat-claim-8b4cab5bcc0c

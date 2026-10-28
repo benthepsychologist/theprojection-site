@@ -1,5 +1,5 @@
 ---
-title: "Tracked inflow \u00b7 Walbridge"
+title: Tracked inflow · Walbridge
 claim_id: q1-agg-recipient-walbridge
 type: claim
 ---

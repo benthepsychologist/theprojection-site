@@ -18,6 +18,10 @@ blurb: 'Analysts (Morgan Stanley, UBS, Forrester) are calling an explicit alloca
   the reallocation call between the two cohorts.'
 ---
 
+## 2026-10-28 — EPFR: $12.4 billion into semiconductor funds in the week to October 21
+
+- **EPFR reported that $12.4 billion flowed into semiconductor funds in the week ending October 21, while flows into artificial intelligence and data center funds had not yet been dented** — the same note says concerns over how AI spending is being financed, and whether it will pay off, had investors fretting, and that equity funds took in $55.5 billion overall that week. ([EPFR](https://isimarkets.com/publications/global-navigator-investors-search-for-the-eye-of-the-storm/)) Claims: kat-claim-d3fcfca3f977
+
 ## 2026-09-23 — Chipmakers and AI hyperscalers fall together as yields hit a 19-year high
 
 - **Chip stocks and the biggest AI cloud spenders fell together on Wednesday 09-23 as Treasury yields hit their highest since 2007: Nvidia closed down 1.4% at $225.51 and Alphabet fell 3.8% to $337.83.** The pairing is the opposite of what this thread's rotation call predicts (money leaving chipmakers for hyperscalers): the larger drop was in a hyperscaler, and the move tracked the rate shock. ([Barron's](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-google-2c231d8d), [Trading Economics](https://tradingeconomics.com/united-states/stock-market), [biggo](https://finance.biggo.com/news/953e87b5-ebc7-4722-99d5-47317c1e8b15))

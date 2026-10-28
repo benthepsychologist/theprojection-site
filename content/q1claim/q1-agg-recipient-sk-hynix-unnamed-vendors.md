@@ -1,5 +1,5 @@
 ---
-title: "Tracked inflow \u00b7 Unnamed vendors (via SK hynix's capex)"
+title: Tracked inflow · Unnamed vendors (via SK Hynix's capex)
 claim_id: q1-agg-recipient-sk-hynix-unnamed-vendors
 type: claim
 ---

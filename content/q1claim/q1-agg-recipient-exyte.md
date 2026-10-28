@@ -1,5 +1,5 @@
 ---
-title: "Tracked inflow \u00b7 Exyte"
+title: Tracked inflow · Exyte
 claim_id: q1-agg-recipient-exyte
 type: claim
 ---

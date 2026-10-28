@@ -1,5 +1,5 @@
 ---
-title: "Google (capital (treasury/financing facet)) \u2192 Vertiv"
+title: Google → Vertiv
 claim_id: q1-kat-hyp2-q1-kat-ent-google-capital-kat-ent-vendor-vertiv-google
 type: claim
 ---

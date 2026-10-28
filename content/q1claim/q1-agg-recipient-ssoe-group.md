@@ -1,5 +1,5 @@
 ---
-title: "Tracked inflow \u00b7 SSOE Group"
+title: Tracked inflow · SSOE Group
 claim_id: q1-agg-recipient-ssoe-group
 type: claim
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tracked inflow \u00b7 Google"
+title: Tracked inflow · Google
 claim_id: q1-agg-recipient-google
 type: claim
 ---

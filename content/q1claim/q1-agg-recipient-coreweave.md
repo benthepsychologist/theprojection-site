@@ -1,5 +1,5 @@
 ---
-title: "Tracked inflow \u00b7 CoreWeave"
+title: Tracked inflow · CoreWeave
 claim_id: q1-agg-recipient-coreweave
 type: claim
 ---

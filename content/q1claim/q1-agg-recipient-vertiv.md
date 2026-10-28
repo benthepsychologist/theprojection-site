@@ -1,5 +1,5 @@
 ---
-title: "Tracked inflow \u00b7 Vertiv"
+title: Tracked inflow · Vertiv
 claim_id: q1-agg-recipient-vertiv
 type: claim
 ---

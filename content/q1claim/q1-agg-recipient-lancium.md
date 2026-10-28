@@ -1,5 +1,5 @@
 ---
-title: "Tracked inflow \u00b7 Lancium"
+title: Tracked inflow · Lancium
 claim_id: q1-agg-recipient-lancium
 type: claim
 ---

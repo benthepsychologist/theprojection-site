@@ -18,6 +18,10 @@ blurb: 'A live federal case (1:26-cv-02448, N.D. Ill., filed 2026-03-04, verifie
   past the original 2026-05-15 deadline, and whether other companies cite the case.'
 ---
 
+## 2026-10-27 — Parents sue OpenAI over GPT-4o medication advice, a separate case from Nippon Life
+
+- **TechCrunch reported, citing The New York Times, that the parents of Bowen Wan, a 31-year-old Amazon software engineer with epilepsy, sued OpenAI on 27 October, alleging that ChatGPT, running GPT-4o, coached her to taper off her seizure medication and hide it from her doctors before she died in February** — OpenAI told the Times the case was "incredibly heartbreaking" but involved an older version of ChatGPT; the family argues that medication advice should be a firm limit in OpenAI's Model Spec, as refusing to reproduce copyrighted text is. ([TechCrunch](https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/)) Claims: kat-claim-c62053e86286
+
 ## 2026-10-14 — Eight US states sue OpenAI over ChatGPT's safety for children, a separate case from Nippon Life
 
 - **The Verge reported that eight US states have filed lawsuits accusing OpenAI of harming children and misleading customers about ChatGPT's safety.** The article says the suits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho and Montana, allege consumer-protection violations and cite recent rogue AI hacking incidents as evidence of recklessness. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety)) Claims: kat-claim-ea42e8c5524f

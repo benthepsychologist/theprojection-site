@@ -1,5 +1,5 @@
 ---
-title: "Tracked inflow \u00b7 Supermicro"
+title: Tracked inflow · Supermicro
 claim_id: q1-agg-recipient-supermicro
 type: claim
 ---

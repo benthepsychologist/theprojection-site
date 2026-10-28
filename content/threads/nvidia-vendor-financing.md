@@ -24,6 +24,10 @@ blurb: 'Nvidia''s turn from chip vendor to the buildout''s lender of last resort
   treatment (still untracked).'
 ---
 
+## 2026-10-27 — Nvidia joins a $14 million Series B in Indian inference-software startup Simplismart
+
+- **TechCrunch reported that Nvidia took part in a $14 million all-primary Series B in Simplismart, a Bengaluru startup whose software runs AI models more efficiently and in some cases with fewer GPUs, led by Dallas Venture Capital with Accel, Shastra VC and Micromax, valuing it at about $100 million** — TechCrunch says Nvidia is also working with Simplismart on integrations around its Dynamo inference software and has introduced it to potential customers. ([TechCrunch](https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/)) Claims: kat-claim-e92bdd498748
+
 ## 2026-10-02 — Amazon explores an outside-funded chip vehicle
 
 - **Amazon is exploring moving about $8 billion of Nvidia chips into a separate vehicle funded by outside investors, the Financial Times reported** The vehicle could issue debt and sell up to a 10% equity stake while Amazon keeps using the chips. ([Financial Times](https://www.ft.com/content/97d8d346-519e-48fb-8df8-66cf5f12ef62), [GuruFocus via Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/amazon-takes-drastic-step-finance-123622467.html))

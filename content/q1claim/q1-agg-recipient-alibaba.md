@@ -1,5 +1,5 @@
 ---
-title: "Tracked inflow \u00b7 Alibaba"
+title: Tracked inflow · Alibaba
 claim_id: q1-agg-recipient-alibaba
 type: claim
 ---

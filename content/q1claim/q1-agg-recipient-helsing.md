@@ -1,5 +1,5 @@
 ---
-title: "Tracked inflow \u00b7 Helsing"
+title: Tracked inflow · Helsing
 claim_id: q1-agg-recipient-helsing
 type: claim
 ---

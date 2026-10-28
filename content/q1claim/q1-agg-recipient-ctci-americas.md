@@ -1,5 +1,5 @@
 ---
-title: "Tracked inflow \u00b7 CTCI Americas"
+title: Tracked inflow · CTCI Americas
 claim_id: q1-agg-recipient-ctci-americas
 type: claim
 ---

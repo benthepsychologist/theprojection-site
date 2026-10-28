@@ -1,5 +1,5 @@
 ---
-title: "Tracked inflow \u00b7 Bloom Energy"
+title: Tracked inflow · Bloom Energy
 claim_id: q1-agg-recipient-bloom-energy
 type: claim
 ---

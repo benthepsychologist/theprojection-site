@@ -1,5 +1,5 @@
 ---
-title: "Tracked inflow \u00b7 ASML"
+title: Tracked inflow · ASML
 claim_id: q1-agg-recipient-asml
 type: claim
 ---

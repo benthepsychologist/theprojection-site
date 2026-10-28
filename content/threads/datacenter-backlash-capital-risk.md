@@ -27,6 +27,12 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   count.'
 ---
 
+## 2026-10-27 — The Verge maps data centers as a midterm issue: AI super PAC money, a Pennsylvania poll and a failed ratepayer bill
+
+- **The Verge reported that Leading the Future, a super PAC backed by Marc Andreessen and OpenAI president Greg Brockman, has spent $45 million in a year, and that Public First Action, an Anthropic-backed group, says it has raised $80 million** — The Verge says both have funded Democratic- and Republican-aligned groups. ([The Verge](https://www.theverge.com/policy/1019152/data-centers-midterm-elections)) Claims: kat-claim-651bd3cf5d06
+- **The Verge reported that an early-October Quinnipiac University poll of likely Pennsylvania voters found 64 percent believed AI data centers in the state would do more harm than good** — 80 percent of Democratic respondents said so; the article also cites an October NBC6/Telemundo poll in which 59 percent of likely Florida voters opposed data centers in their own communities. ([The Verge](https://www.theverge.com/policy/1019152/data-centers-midterm-elections)) Claims: kat-claim-2f1f0c94bb57
+- **The Verge reported that Ohio Senator Jon Husted's Ratepayer Protection Act, which would require large-load customers such as data centers to cover their own energy costs and grid upgrades, passed the House but narrowly failed to pass the Senate** — The Verge cites a leaked National Republican Senatorial Committee memo calling data centers "the anchor hanging around Husted's neck". ([The Verge](https://www.theverge.com/policy/1019152/data-centers-midterm-elections)) Claims: kat-claim-a070a9230780
+
 ## 2026-10-25 — Wired interviews author Paris Marx on data center opposition in the US, Ireland and Oregon
 
 - **Wired reported that data centers are one of the issues that could decide key US midterm races in less than two weeks.** ([Wired](https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/)) Claims: kat-claim-172a859b9190

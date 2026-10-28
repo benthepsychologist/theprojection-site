@@ -1,5 +1,5 @@
 ---
-title: "Tracked inflow \u00b7 EPCOR Utilities"
+title: Tracked inflow · EPCOR Utilities
 claim_id: q1-agg-recipient-epcor-utilities
 type: claim
 ---

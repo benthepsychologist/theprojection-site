@@ -1,5 +1,5 @@
 ---
-title: "Tracked inflow \u00b7 AMD"
+title: Tracked inflow · AMD
 claim_id: q1-agg-recipient-amd
 type: claim
 ---

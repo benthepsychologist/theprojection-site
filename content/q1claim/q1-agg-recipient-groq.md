@@ -1,5 +1,5 @@
 ---
-title: "Tracked inflow \u00b7 Groq"
+title: Tracked inflow · Groq
 claim_id: q1-agg-recipient-groq
 type: claim
 ---

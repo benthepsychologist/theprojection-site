@@ -1,5 +1,5 @@
 ---
-title: "Tracked inflow \u00b7 Synthesia"
+title: Tracked inflow · Synthesia
 claim_id: q1-agg-recipient-synthesia
 type: claim
 ---

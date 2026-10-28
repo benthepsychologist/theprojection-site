@@ -1,5 +1,5 @@
 ---
-title: "Flow type \u00b7 prepayment"
+title: Flow type · prepayment
 claim_id: q1-agg-flowtype-prepayment
 type: claim
 ---
