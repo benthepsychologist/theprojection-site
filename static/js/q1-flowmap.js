@@ -1,9 +1,9 @@
-/* q1-flowmap.js — renders the Q1 money-flow map from the JSON graph/export_q1.py
-   writes to data/q1_flows.json (embedded inline by layouts/research/single.html
-   as #q1-flow-data). Layout (x/y per node) is computed server-side in the
-   export script; this file only draws it and wires up click-to-inspect,
-   text search, and the core-buildout-cut highlight toggle. No dependency,
-   consistent with this site's other data-driven pages (map.js). */
+/* q1-flowmap.js — renders the money-flow map from the corpus's flows.json, which the hub's
+   publish copies to data/q1_flows.json (embedded inline by layouts/partials/visual-money-flow.html
+   as #q1-flow-data). Layout (x/y per node) is computed in the corpus's export; this file only
+   draws it and wires up click-to-inspect and text search. Edges for deals still in talks
+   (in_talks) are dashed and guarantees (contingent) are dotted. No dependency, consistent with
+   this site's other data-driven pages (map.js). */
 (function () {
   "use strict";
   var dataEl = document.getElementById("q1-flow-data");
@@ -45,6 +45,7 @@
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
     });
   }
+  function nodeLabel(n) { return n.label || n.facet_label || n.canonical_label || n.slug || n.id; }
   function truncate(s, n) { s = s || ""; return s.length > n ? s.slice(0, n - 1) + "…" : s; }
   function fmtAmount(v) {
     if (v == null) return null;
@@ -62,7 +63,7 @@
     var mx = (sx + tx) / 2;
     var path = document.createElementNS(svgNS, "path");
     path.setAttribute("d", "M" + sx + "," + sy + " C" + mx + "," + sy + " " + mx + "," + ty + " " + tx + "," + ty);
-    path.setAttribute("class", "fm-edge" + (e.total_amount ? "" : " fm-edge-thin") + (e.vendor_unspecified ? " fm-edge-vendor-unspecified" : ""));
+    path.setAttribute("class", "fm-edge" + (e.total_amount ? "" : " fm-edge-thin") + (e.vendor_unspecified ? " fm-edge-vendor-unspecified" : "") + (e.in_talks ? " fm-edge-intalks" : "") + (e.contingent ? " fm-edge-contingent" : ""));
     path.dataset.source = e.source;
     path.dataset.target = e.target;
     g.appendChild(path);
@@ -73,7 +74,7 @@
   data.nodes.forEach(function (n) {
     var grp = document.createElementNS(svgNS, "g");
     grp.setAttribute("transform", "translate(" + n.x + "," + n.y + ")");
-    grp.setAttribute("class", "fm-node fm-node-" + (n.atom_type || "entity") + (n.core_buildout ? " fm-core" : ""));
+    grp.setAttribute("class", "fm-node fm-node-" + (n.atom_type || "entity"));
     grp.tabIndex = 0;
     grp.dataset.id = n.id;
 
@@ -86,7 +87,7 @@
     var label = document.createElementNS(svgNS, "text");
     label.setAttribute("x", 6);
     label.setAttribute("y", 13);
-    label.textContent = truncate(n.facet_label || n.canonical_label || n.entity_slug || n.id, 32);
+    label.textContent = truncate(nodeLabel(n), 32);
     grp.appendChild(label);
 
     grp.addEventListener("click", function () { selectNode(n.id); });
@@ -131,9 +132,9 @@
     if (!panel) return;
     panel.hidden = false;
     var html = "<button class='fm-close' aria-label='Close'>×</button>";
-    html += "<h2>" + escapeHtml(n.facet_label || n.canonical_label || n.entity_slug) + "</h2>";
-    if (n.activity) html += "<p class='fm-activity'>" + escapeHtml(n.activity) + "</p>";
-    if (n.core_buildout) html += "<p class='fm-tag'>inside cut:core-buildout</p>";
+    html += "<h2>" + escapeHtml(nodeLabel(n)) + "</h2>";
+    var acts = n.activities || (n.activity ? [n.activity] : []);
+    if (acts.length) html += "<p class='fm-activity'>" + escapeHtml(acts.join(" · ")) + "</p>";
     html += "<h3>" + connected.length + " connected flow" + (connected.length === 1 ? "" : "s") + "</h3>";
     html += "<ul class='fm-flows'>";
     connected.forEach(function (e) {
@@ -141,14 +142,18 @@
       var other = nodesById[otherId];
       var dir = e.source === n.id ? "→ " : "← ";
       html += "<li><span class='fm-dir'>" + dir + "</span>";
-      html += "<a href='#' class='fm-jump' data-id='" + escapeHtml(otherId) + "'>" + escapeHtml(other ? (other.facet_label || other.canonical_label || other.id) : otherId) + "</a>";
+      html += "<a href='#' class='fm-jump' data-id='" + escapeHtml(otherId) + "'>" + escapeHtml(other ? nodeLabel(other) : otherId) + "</a>";
       if (e.total_amount) html += " <span class='fm-fa'>" + fmtAmount(e.total_amount) + "</span>";
       if (e.role) html += " <span class='fm-role'>(" + escapeHtml(e.role) + ")</span>";
+      if (e.in_talks) html += " <span class='fm-role'>(still in talks, not counted)</span>";
+      if (e.contingent) html += " <span class='fm-role'>(guarantee, not counted)</span>";
       if (e.vendor_unspecified) html += " <span class='fm-role'>(paid to unnamed vendor(s) — this source doesn't say who)</span>";
       (e.flows || []).forEach(function (f) {
         html += "<div class='fm-flow-detail'>";
         if (f.amount) html += "<span class='fm-fa'>" + fmtAmount(f.amount) + (f.basis && f.basis !== "point" ? " (" + escapeHtml(f.basis) + ")" : "") + "</span> ";
         if (f.flow_type) html += "<span class='fm-ft'>" + escapeHtml(f.flow_type) + "</span> ";
+        if (f.reported_not_closed) html += "<span class='fm-ft'>in talks, not counted</span> ";
+        if (f.contingent) html += "<span class='fm-ft'>guarantee, not counted</span> ";
         if (f.date) html += "<span class='fm-internal-src'>" + escapeHtml(f.date) + "</span> ";
         html += "<span class='fm-summary'>" + escapeHtml(f.summary || "") + "</span>";
         (f.source_urls || []).forEach(function (u) {
@@ -182,16 +187,10 @@
       var q = search.value.trim().toLowerCase();
       Object.keys(nodeEls).forEach(function (id) {
         var n = nodesById[id];
-        var match = !q || (n.facet_label || n.canonical_label || "").toLowerCase().indexOf(q) !== -1;
+        var match = !q || nodeLabel(n).toLowerCase().indexOf(q) !== -1;
         nodeEls[id].classList.toggle("fm-search-dim", !match);
       });
     });
   }
 
-  var coreToggle = document.getElementById("fm-core-toggle");
-  if (coreToggle) {
-    coreToggle.addEventListener("change", function () {
-      container.classList.toggle("fm-core-mode", coreToggle.checked);
-    });
-  }
 })();

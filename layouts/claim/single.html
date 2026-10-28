@@ -213,12 +213,12 @@ ul.hyp-recipients .claim-hyp-tag{ margin:0 0 0 .5rem; vertical-align:middle; }
           {{ range $m := $ordered }}
           {{ $mHref := cond (hasPrefix $m.id "q1-") (printf "/q1claim/%s/" $m.id) (printf "/claim/%s/" $m.id) }}
           <tr{{ if $m.vendor_unspecified }} class="piece-vendor-unspecified"{{ end }}>
-            <td><a href="{{ $mHref }}">{{ $m.label }}</a>{{ if $m.vendor_unspecified }} <span class="piece-vu-tag">vendor unnamed</span>{{ end }}</td>
+            <td><a href="{{ $mHref }}">{{ $m.label }}</a>{{ if $m.vendor_unspecified }} <span class="piece-vu-tag">vendor unnamed</span>{{ end }}{{ if $m.reported_not_closed }} <span class="piece-vu-tag">in talks</span>{{ end }}{{ if $m.contingent }} <span class="piece-vu-tag">guarantee</span>{{ end }}</td>
             <td class="piece-asof">{{ $m.as_of }}</td>
             {{ if $m.amount_usd }}
             <td class="piece-amt">{{ if ge $m.amount_usd 1000000000.0 }}{{ printf "$%.1fB" (div $m.amount_usd 1000000000.0) }}{{ else }}{{ printf "$%.1fM" (div $m.amount_usd 1000000.0) }}{{ end }}</td>
             {{ else }}
-            <td class="piece-amt piece-unsettled">not summed</td>
+            <td class="piece-amt piece-unsettled">{{ if $m.reported_not_closed }}in talks, not counted{{ else if $m.contingent }}guarantee, not counted{{ else }}not summed{{ end }}</td>
             {{ end }}
             {{/* $m.amount_usd truthiness (not isset) is intentional here:
                  a real flow amount is never legitimately $0, so treating

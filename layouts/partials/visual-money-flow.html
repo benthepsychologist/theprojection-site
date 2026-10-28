@@ -1,4 +1,4 @@
-{{/* The money-flow tables and map (Q1). Context (a dict): site, flow (data/q1_flows.json), snapshot (date shown when the data is a frozen export, else empty), embed (wrap for use inside a question page). */}}
+{{/* The money-flow tables and map (Q1). Context (a dict): site, flow (data/q1_flows.json, with the `export` block the hub adds: corpus, commit, date, totals), snapshot (date shown only when the data is a frozen copy, else empty), embed (wrap for use inside a question page). */}}
 {{ if .embed }}<div class="rq-visual board-paper flowmap-page">{{ else }}<div class="flowmap-page">{{ end }}
   {{ $flow := .flow }}
   {{ $q1Claims := .site.Data.q1_claims }}
@@ -6,12 +6,17 @@
   {{ $byFlowType  := sort (where $q1Claims "dimension" "q1-flow-type") "total_usd" "desc" }}
   {{ $byDest      := sort (where $q1Claims "dimension" "q1-destination") "total_usd" "desc" }}
   {{ $byRecipient := first 15 (sort (where $q1Claims "dimension" "q1-recipient") "total_usd" "desc") }}
+  {{ with $flow.export }}
+  <p class="fm-totals"><strong>${{ lang.FormatNumber 1 (div .counted_usd 1000000000) }}B</strong> counted across {{ .flow_claims }} flow claims in the corpus's graph{{ with .date }}, export of {{ . }}{{ end }}{{ with .commit }} (corpus commit <code>{{ . }}</code>){{ end }}.
+    {{ if .in_talks_count }}Not counted: {{ printf "$%.1fB" (div .in_talks_usd 1000000000) }} across {{ .in_talks_count }} deals still in talks{{ end }}{{ if .contingent_count }}{{ if .in_talks_count }}, and {{ else }}Not counted: {{ end }}{{ .contingent_count }} guarantees{{ with .contingent_usd }} ({{ printf "$%.1fB" (div . 1000000000) }} stated){{ end }}, recorded as who is liable and not as money paid{{ end }}{{ if or .in_talks_count .contingent_count }}.{{ end }}</p>
+  <p class="fm-bd-note">Recorded transactions, not unique dollars: money raised and then spent can appear in both. An all-time total, and some claims are undated. It moves as the corpus files new claims.</p>
+  {{ end }}
   <div class="fm-breakdowns">
     <div class="fm-breakdown">
       <h2>By transaction type</h2>
       <table class="fm-bd-table"><tbody>
         {{ range $byFlowType }}
-        <tr><td><a href="/q1claim/{{ .id }}/">{{ .short_label | humanize }}</a></td>
+        <tr><td><a href="/q1claim/{{ .id }}/">{{ .short_label | strings.FirstUpper }}</a></td>
           <td class="fm-bd-amt">{{ if gt .total_usd 0 }}{{ printf "$%.1fB" (div .total_usd 1000000000) }}{{ else }}—{{ end }}</td></tr>
         {{ end }}
       </tbody></table>
@@ -21,7 +26,7 @@
       <h2>By what it bought</h2>
       <table class="fm-bd-table"><tbody>
         {{ range $byDest }}
-        <tr><td><a href="/q1claim/{{ .id }}/">{{ .short_label | humanize }}</a></td>
+        <tr><td><a href="/q1claim/{{ .id }}/">{{ .short_label | strings.FirstUpper }}</a></td>
           <td class="fm-bd-amt">{{ if gt .total_usd 0 }}{{ printf "$%.1fB" (div .total_usd 1000000000) }}{{ else }}—{{ end }}</td></tr>
         {{ end }}
       </tbody></table>
@@ -41,14 +46,13 @@
   {{ if $flow }}
   <div class="fm-toolbar">
     <input id="fm-search" type="search" placeholder="Find an entity, fund, or company…" aria-label="Find a node">
-    <label><input type="checkbox" id="fm-core-toggle"> Highlight <code>cut:core-buildout</code> v{{ $flow.cut_core_buildout_version }}</label>
-    <span class="fm-stats">{{ $flow.node_count }} nodes · {{ $flow.edge_count }} flows · {{ with $.snapshot }}snapshot of {{ . }}{{ else }}live from the knowledge graph{{ end }}</span>
+    <span class="fm-stats">{{ $flow.node_count }} nodes · {{ $flow.edge_count }} flows{{ with $flow.export }}{{ if .not_drawn }} ({{ .not_drawn }} not drawn){{ end }}{{ end }} · {{ with $.snapshot }}snapshot of {{ . }}{{ else }}live from the knowledge graph{{ end }}</span>
   </div>
 
   <div id="q1-flowmap" class="fm-canvas"></div>
   <div id="fm-panel" class="fm-panel" hidden></div>
 
   <script type="application/json" id="q1-flow-data">{{ $flow | jsonify | safeJS }}</script>
-  <script src="/js/q1-flowmap.js"></script>
+  <script src="/js/q1-flowmap.js?v=2026-10-28"></script>
   {{ end }}
 </div>
