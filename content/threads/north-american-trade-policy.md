@@ -94,12 +94,10 @@ blurb: 'Whether the US-Canada tariff fight is a negotiating posture or a structu
 
 ## 2026-08-25 — Thread opened, backfilled from global-capital's 08-24 digest
 
-- **Opened on Ben's promotion, after threads.yaml was confirmed to
-  have no thread covering North American trade policy at all** despite
-  two independent same-day items on 2026-08-24. Morning: the Canadian
-  dollar slid about 0.5% (USD/CAD to 1.383 from 1.376) as US-Canada
-  tariff talks reportedly broke down, quoted as "they asked too much."
-  ([CNBC](https://www.cnbc.com))
+- **Opened because no thread covered North American trade policy** despite two
+  independent same-day items on 2026-08-24. Morning: the Canadian dollar slid
+  about 0.5% (USD/CAD to 1.383 from 1.376) as US-Canada tariff talks reportedly
+  broke down, quoted as "they asked too much." ([CNBC](https://www.cnbc.com))
 - **Afternoon, same day: Trump put a dated, quantified schedule behind
   it.** He said he will double tariffs on Canadian autos from 25% to
   50%, extend a new 50% tariff to auto parts (previously untariffed),

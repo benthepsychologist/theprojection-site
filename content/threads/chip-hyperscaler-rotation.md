@@ -44,8 +44,6 @@ blurb: 'Analysts (Morgan Stanley, UBS, Forrester) are calling an explicit alloca
 
 - **Broadcom's fiscal Q3 2026 AI semiconductor revenue hit $16.7bn, up 221% year-on-year and 54% sequentially, on total revenue of $29.6bn (+86% YoY) and adjusted EPS of $3.32 (+96% YoY) — a clean beat on every headline number.** Q4 guidance called for $34.8bn total revenue and $21.7bn AI revenue (+236% YoY), which came in just under 1% below the $35.03bn consensus — enough to drop the stock roughly 3% in Thursday trading despite Wednesday's beat, because "at this point the market expects exceptional" and the stock trades above a 60x P/E with little room for deceleration. This is exactly the dispersion this thread tracks: monetization-proven AI demand still getting punished the moment forward guidance falls short of an already-elevated bar, the same dynamic that hit Meta in July. A secondary risk flagged in the same coverage: Google's recent custom-chip deal with Marvell signals large customers diversifying away from single-vendor dependence on Broadcom.
   ([Broadcom Inc. investor release](https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial), [Motley Fool](https://www.fool.com/investing/2026/09/02/broadcom-earnings-ai-chip-sales-tripled-here-s-the-usd34-8-billion-number-investors-need-to-watch/), [CNBC](https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html))
-- *Note for the main session: this print also resolves attention/upcoming.yaml's broadcom-q3-fy2026-earnings ledger entry, which is tagged to the [ASIC Tolls](/threads/custom-asic-tolls/) thread (not one of mine) — flagging so whichever sweep owns that thread doesn't duplicate, and so the main session can flip that ledger status.*
-
 ## 2026-08-31 — Nvidia recovers premarket while the broader tape falls on Iran and further Fed-hike repricing, a mild discriminator against Friday's selloff being mainly about Nvidia's own financing pullback
 
 - **Monday's open put Nvidia on the opposite side of the broader market's move from Friday.** NVDA opened around $219 (up roughly 0.3-0.7% from Friday's $217.55 close), while the S&P 500 (-0.45% to 7,677), Dow (-0.62% to 53,229) and Nasdaq (-0.43% to 26,290) all opened lower on a combination of the fresh Larak Island/Jordan/UAE exchange (see [Red Sea Shock](/threads/red-sea-oil-shock/)) and continued Fed-hike repricing. That is a live discriminator between this thread's two competing explanations for Friday's -4.74% Nvidia session: if the financing-program pullback were still the dominant driver, NVDA would be expected to keep lagging; instead it's the outperformer against a macro-driven broad-market dip this morning. One premarket session is not conclusive, and Micron/Intel/Broadcom are described in same-day coverage as "choppy" rather than clean movers either way.
@@ -247,10 +245,9 @@ blurb: 'Analysts (Morgan Stanley, UBS, Forrester) are calling an explicit alloca
 
 ## 2026-07-29 — Opened: analysts call the rotation explicitly
 
-- **Split from [CHIPS Equity Pivot](/threads/chips-equity-pivot/)** (ben-steer) — that thread is CHIPS
-  Act grants-to-equity policy; this is the separate chipmaker-to-hyperscaler
-  reallocation trade a tier-2 agent had written into it by mistake, and
-  flagged as a topic mismatch itself.
+- **Split from [CHIPS Equity Pivot](/threads/chips-equity-pivot/)** — that thread is CHIPS Act
+  grants-to-equity policy; this is the separate chipmaker-to-hyperscaler
+  reallocation trade.
 - **Analysts are framing the selloff as a rotation from chipmakers to
   hyperscalers**, on fear that AI infrastructure capex is peaking faster
   than expected — Morgan Stanley, UBS and Forrester; BofA dissents and

@@ -12,17 +12,17 @@ thread_kind: story
 blurb: 'Whether the NEOM/The Line capital retreat (halted past 2030, only ~1.4% of
   the planned foundation built) keeps funding HUMAIN''s AI buildout (next tranches,
   next named position) or whether the same fiscal pressure behind both moves forces
-  a slowdown on the AI side too — ⚠️ but that premise WEAKENED 2026-08-21: Brent is
-  ~$95/bbl, not the ~$71 this watch was written against (+40% YoY, on the Hormuz closure),
-  and Aramco''s Q2 base dividend was reportedly RAISED ~3.5% YoY rather than cut,
-  though the ~$40B cut figure and the ~$15B PIF cash-reserve figure both still need
-  re-verification against primary filings before the thesis is rewritten around them;
-  the AMD/Cisco 1GW buildout''s progress; whether the xAI stake''s reported conversion
-  into SpaceX shares completes; further US export-control movement specific to Saudi
-  Arabia (only one Saudi-specific chip approval — 35,000 Nvidia chips to HUMAIN/G42
-  — is on record so far, vs. a UAE-only easing found this pass); and reconciliation
-  of board.yaml''s $12.5B/yr AI thrust figure against this crawl''s larger ~$21-23B
-  HUMAIN deal-book tally (AMD $10B, AWS ~$5.3B, xAI $3B, AirTrunk ~$3B).'
+  a slowdown on the AI side too — but that premise weakened as of 2026-08-21: Brent
+  is ~$95/bbl, not the ~$71 the question was framed against (+40% YoY, on the Hormuz
+  closure), and Aramco''s Q2 base dividend was reportedly RAISED ~3.5% YoY rather
+  than cut, though the ~$40B cut figure and the ~$15B PIF cash-reserve figure both
+  still need re-verification against primary filings before the thesis is rewritten
+  around them; the AMD/Cisco 1GW buildout''s progress; whether the xAI stake''s reported
+  conversion into SpaceX shares completes; further US export-control movement specific
+  to Saudi Arabia (only one Saudi-specific chip approval — 35,000 Nvidia chips to
+  HUMAIN/G42 — is on record so far, vs. a UAE-only easing); and reconciliation of
+  the board''s $12.5B/yr AI thrust figure against the larger ~$21-23B HUMAIN deal-book
+  tally (AMD $10B, AWS ~$5.3B, xAI $3B, AirTrunk ~$3B).'
 ---
 
 ## 2026-09-24 — Humain awards infrastructure work on a planned 6GW Riyadh AI campus
@@ -43,14 +43,14 @@ blurb: 'Whether the NEOM/The Line capital retreat (halted past 2030, only ~1.4% 
 
 ## 2026-09-04 — Abu Dhabi's G42 explores becoming a majority-US-owned company to lock in permanent Nvidia/AMD chip access
 
-- **G42 has held exploratory talks about selling a majority stake to American investors and fully reincorporating as a US entity, aiming to convert time-limited chip access into structural, permanent access.** The immediate trigger is a July 2026 Commerce Department reclassification that gave the UAE a more favorable export category for only a nine-month window — this thread's only prior Saudi/UAE-specific chip-access data point was the November 2025 approval of ~35,000 Nvidia chips (~$1B) to HUMAIN and G42, and the 07-10 easing found UAE-only, not Saudi. G42 is chaired by Sheikh Tahnoon bin Zayed Al Nahyan; Microsoft's 2024 $1.5B investment already forced G42 to divest Chinese holdings, and full US reincorporation would complete that decoupling process. No UAE-specific thread exists on this map to carry a UAE-only entity's chip-access story, so this is logged here alongside the thread's existing Gulf chip-access tracking; flag for the main session on whether G42/UAE warrants its own thread given this map already runs a dedicated [PIF Bets Out of Concrete, Into Compute](/threads/pif-ai-buildout/) for Saudi Arabia. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-04/abu-dhabi-s-g42-weighs-us-ownership-to-safeguard-ai-chip-access), [CryptoBriefing](https://cryptobriefing.com/g42-us-ownership-ai-chip-access/))
+- **G42 has held exploratory talks about selling a majority stake to American investors and fully reincorporating as a US entity, aiming to convert time-limited chip access into structural, permanent access.** The immediate trigger is a July 2026 Commerce Department reclassification that gave the UAE a more favorable export category for only a nine-month window — this thread's only prior Saudi/UAE-specific chip-access data point was the November 2025 approval of ~35,000 Nvidia chips (~$1B) to HUMAIN and G42, and the 07-10 easing found UAE-only, not Saudi. G42 is chaired by Sheikh Tahnoon bin Zayed Al Nahyan; Microsoft's 2024 $1.5B investment already forced G42 to divest Chinese holdings, and full US reincorporation would complete that decoupling process. This is logged here alongside the thread's existing Gulf chip-access tracking. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-04/abu-dhabi-s-g42-weighs-us-ownership-to-safeguard-ai-chip-access), [CryptoBriefing](https://cryptobriefing.com/g42-us-ownership-ai-chip-access/))
 
 ## 2026-08-31 — AMD/Cisco/HUMAIN's Saudi AI infrastructure goes live
 
 - **AMD, Cisco and HUMAIN (Saudi Arabia's state AI vehicle, PIF-backed) brought their jointly-built AI infrastructure online in Saudi Arabia**, confirmed via AMD's own investor-relations press release published 7:15am EDT on 08-31. ⚠️ This item published before this map's last recorded 08-31 15:00 ET cutoff and was missed by that run — caught here as an out-of-window gap-fill rather than same-day news.
   ([AMD IR, primary](https://ir.amd.com))
 
-## 2026-08-26 (late catch, added 2026-08-29) — HUMAIN lands a second named partner in as many days: Microsoft
+## 2026-08-26 — HUMAIN lands a second named partner in as many days: Microsoft
 
 - **HUMAIN and Microsoft announced a long-term strategic collaboration to bring HUMAIN's Arabic-language ALLAM model onto Microsoft Foundry, and to pair HUMAIN's AI experts with Microsoft's Forward Deployed Engineers for enterprise rollouts across Saudi Arabia and the wider region — announced 08-26, one day after the Mistral deal already on this thread's 08-25 entry.** **Two blue-chip AI players signing named commercial partnerships with HUMAIN within 24 hours of each other is exactly the "outside demand filling Saudi capacity" evidence this thread's watch line asks for**, this time from a hyperscaler rather than a frontier lab. Unlike Mistral's "hundreds of millions of Euros," no dollar figure was disclosed on the Microsoft side — it reads as a model-distribution/enterprise-GTM deal rather than a compute-capacity commitment, narrower in kind than the Mistral one.
   ([Microsoft/HUMAIN joint release, via PR Newswire](http://www.prnewswire.com/news-releases/microsoft-and-humain-announce-long-term-strategic-collaboration-to-enable-ai-transformation-in-saudi-arabia-and-beyond-302860378.html))

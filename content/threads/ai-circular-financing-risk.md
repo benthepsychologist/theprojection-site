@@ -47,7 +47,7 @@ blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops wh
 
 - **Nvidia chief executive Jensen Huang, interviewed at Nvidia's headquarters by CBS's Jo Ling Kent for the Sunday 09-20 "Sunday Morning" broadcast, rejected the case for slowing AI development outright: the industry "should go as fast as we can irrespective of anybody else," a "0% chance" AI ends the world by 2030, and slowdown arguments dismissed as "doomsday narratives" with "no scientific foundation."** He argued existing product-liability and cybersecurity law suffices without AI-specific regulation, and that "our company's success is directly connected to the safe deployment of products and services." CBS's own copy names Amodei, Altman and a former Anthropic researcher as the advocates being answered; Huang names no one. The reason this sits on a financing thread rather than only a governance one: Huang runs the most exposed counterparty in the loop — chip sales, equity stakes in customers, and lease guarantees that are all underwritten by the capex pace continuing — so this is the party with the largest financial stake in the answer publicly supplying it. That makes it strong evidence about how the coalition behind the buildout is lining up, and no evidence at all about the underlying risk. It also lands six days after the pacing argument triggered the 09-14 sector selloff already on this record. ⏱ The broadcast airs 09-20; CBS's online write-up posted Friday 09-18 at 8:17pm ET. ([CBS News](https://www.cbsnews.com/news/nvidia-ceo-jensen-huang-ai-development-fast-as-we-can/), [CBS News extended interview](https://www.cbsnews.com/video/extended-interview-nvidia-ceo-jensen-huang-on-fears-about-ai/))
 
-## 2026-09-17 (added 2026-09-18) — The pacing-essay selloff reverses within three sessions: this thread's own "GPU-demand softening" test resolves toward "no"
+## 2026-09-17 — The pacing-essay selloff reverses within three sessions: this thread's own "GPU-demand softening" test resolves toward "no"
 
 - **Chip and AI-infrastructure stocks fully recovered the 09-14 pacing-essay selloff logged below, closing higher across the board on 09-17: the S&P 500 rose 1.14% to 7,638 and the Nasdaq Composite rose 1.69% to 26,418, both fresh highs, while Intel closed up 7.67% at $108.80 and AMD closed up 6.36% at $545.09.** Fool.com's own market wrap states the mechanism directly: "Chip stocks rallied today after a rough week in which interest rate hikes and tech leaders' calls for a slowdown in artificial intelligence (AI) development weighed on the sector" — the rally was driven by unconfirmed Reuters reports of exploratory SK Hynix–Intel talks to produce memory chips at Intel's idle Ohio site (SK Hynix itself says "no concrete plans, agreements, or decisions have been made"), plus a Barclays upgrade of Intel from Underperform to Overweight. Nvidia's own move was modest by comparison (roughly +0.2-2.5% across the three sessions per multiple trackers) — this is a broad chip-sector snap-back on a memory-supply/rate story, not a fresh AI-demand data point answering the thread's underlying "does capex actually pull back" question, but it does directly answer the equity-market half of the 09-14 entry's open item: the pacing-essay selloff did not hold or deepen, and no credit-market or rating-agency follow-through has been reported either.
   ([Motley Fool market wrap](https://www.fool.com/coverage/stock-market-today/2026/09/17/stock-market-today-sept-17-intel-surges-8-on-rumored-sk-hynix-talks/), [SK hynix Newsroom, on-record denial of a firm deal](https://news.skhynix.com/en/fact-10/))
@@ -56,7 +56,7 @@ blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops wh
 
 - **Monday's session produced the first real equity-market reaction to Dario Amodei's weekend "pace the frontier" essay logged here yesterday only as a strategist concern, not a price move: Nvidia fell roughly 2-3%, Intel about 7%, AMD about 6%, and Broadcom about 3-4%, while in Asia SoftBank Group (a major OpenAI backer) plunged as much as 13% intraday alongside declines in SK Hynix and Samsung — the Nasdaq-100 fell about 0.8% and the S&P 500 about 0.6%.** This is the credit/equity-market reaction this thread's own watch line has asked for since it opened, now answered in the direction of risk rather than the "intact" read Bloomberg's strategist survey gave the essay two days ago. One outlet (24/7 Wall St) argues the pattern — Intel falling hardest despite the least AI exposure, Nvidia falling least despite the most — points to a "positioning unwind in the crowded corners of the AI trade" rather than genuine demand reassessment; that interpretive read is noted, not adopted. ⚠️ Figures are premarket/early-session prices, not confirmed closes, as of this write-up, and no rating-agency or credit-market response has yet followed. ([24/7 Wall St](https://247wallst.com/investing/2026/09/14/chip-stocks-tumble-as-ai-pacing-call-reaches-beyond-memory-intel-drops-7-amd-sinks-6-nvidia-pulls-back/), [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/nvidia-chip-stocks-fall-ai-114634380.html))
 
-## 2026-09-12 (added 2026-09-13) — A voluntary pacing pledge lands on the same growth assumption the loop's chip valuations depend on
+## 2026-09-12 — A voluntary pacing pledge lands on the same growth assumption the loop's chip valuations depend on
 
 - **Anthropic CEO Dario Amodei's 09-12 essay proposing frontier labs deliberately slow the rate of capability gains — endorsed within hours by OpenAI's Sam Altman and, per Bloomberg, Elon Musk — was read by Bloomberg's own weekend survey of strategists as a near-term risk to chipmaker valuations specifically, even while judging the broader AI trade "intact."** This is a new kind of input for this thread's watch line: not a financing structure or a credit read, but a voluntary industry statement about *future growth rate* — precisely the variable every loop on this thread (Nvidia's guarantees, the $500bn+ third-party platforms, the equity-stake ladder) is priced against. Full mechanism and the OpenAI/Anthropic IPO-timing split on [Lab IPO Wave](/threads/frontier-lab-ipos/).
   ([Dario Amodei](https://darioamodei.com/post/we-must-pace-the-frontier), [Bloomberg via CNBC](https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html))
@@ -71,10 +71,9 @@ blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops wh
 - **Anthropic agreed to a $35bn cloud-computing deal with Lambda, a cloud provider Nvidia has invested in, for capacity at a Texas data center (Nueces County, developed by former bitcoin miner Hut 8) where Nvidia itself secured the space and holds the lease** — Lambda installs Nvidia chips there to serve Anthropic. Reported 08-31 at 7:42pm ET, this is Anthropic's second such deal this month after a $45bn agreement with Nscale, another Nvidia-backed cloud provider, as it works through a compute shortage. The structure adds a fourth named entity (after AMD, Nvidia and OpenAI/Oracle) to this thread's loop: Nvidia supplies chips, invests in the cloud middleman, and now holds real estate in the chain serving a lab it has no direct equity stake in. Neither Anthropic nor Lambda has officially confirmed the deal; it comes via WSJ, corroborated by Reuters and Bloomberg.
   ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda?srnd=homepage-americas), [Investing.com, WSJ-sourced](https://www.investing.com/news/stock-market-news/anthropic-signs-35-billion-cloud-deal-with-nvidiabacked-lambda-wsj-reports-93CH-4883381))
 
-- ⚠️ **OUT OF WINDOW (Bloomberg interview, 2026-08-31 — before this run's 09-03 15:30 ET start) but flagged because a grep of artifacts/threads/ai-circular-financing-risk.md and artifacts/threads/nvidia-vendor-financing.md for "not circular," "obviously they do their own business," "Rick Tsai" and "Ed Ludlow" returns nothing — this is a genuine gap in this map's coverage of the deal it exists to interrogate, not a re-report.** Speaking alongside MediaTek CEO Rick Tsai in a Bloomberg interview with Ed Ludlow, Huang addressed Nvidia's $3.5bn MediaTek convertible-bond investment directly: **"This is not circular because obviously they do their own business and we do our own business, and MediaTek is already incredibly profitable, incredibly successful."** His distinction — MediaTek is a 29-year-old, independently profitable chipmaker with non-AI revenue (smartphones, TVs, automotive), unlike a startup whose entire budget depends on Nvidia's own spending — is the first on-record company defense against the circular-financing framing this thread and [Nvidia as Lender](/threads/nvidia-vendor-financing/) both track, and is worth having on file regardless of which side of the argument it lands on.
-  ([Yahoo Finance, quoting the Bloomberg interview](https://finance.yahoo.com/markets/stocks/articles/nvidia-ceo-jensen-huang-says-170607027.html))
+- Speaking alongside MediaTek CEO Rick Tsai in a Bloomberg interview with Ed Ludlow, Huang addressed Nvidia's $3.5bn MediaTek convertible-bond investment directly: **"This is not circular because obviously they do their own business and we do our own business, and MediaTek is already incredibly profitable, incredibly successful."** His distinction — MediaTek is a 29-year-old, independently profitable chipmaker with non-AI revenue (smartphones, TVs, automotive), unlike a startup whose entire budget depends on Nvidia's own spending — is the first on-record company defense against the circular-financing framing this thread and [Nvidia as Lender](/threads/nvidia-vendor-financing/) both track, and is worth having on file regardless of which side of the argument it lands on. ([Yahoo Finance, quoting the Bloomberg interview](https://finance.yahoo.com/markets/stocks/articles/nvidia-ceo-jensen-huang-says-170607027.html))
 
-## 2026-08-28 (added 2026-08-29) — The vendor pulls back from part of the loop voluntarily, not because a customer failed
+## 2026-08-28 — The vendor pulls back from part of the loop voluntarily, not because a customer failed
 
 - **Nvidia stepped back from the AI-cloud revenue-sharing financing programme it launched in July — $36bn of take-or-pay/revenue-share commitments per its own 10-Q — reportedly after its own employees flagged antitrust exposure over a clause requiring cloud providers to get Nvidia's approval before renting capacity to certain customers.** **This is the first voluntary retreat from the loop this thread has recorded** — every prior entry on this thread has been the loop's scale getting *larger* (the 10-Q's $105bn guarantee, the $500bn+ third-party platforms) or the market's *read* on it shifting (Burry vs. the +8.74% close), not a vendor unwinding a piece of the structure itself. It doesn't touch the $105bn OpenAI guarantee or the $500bn+ platforms, which remain fully in place — this is one program, paused, with Nvidia leaving open that it could be restructured rather than killed. Full mechanics on [Nvidia as Lender](/threads/nvidia-vendor-financing/). ⚠️ WSJ-sourced and paywalled throughout; no primary Nvidia statement beyond a spokesperson saying the July business model "is still in place and continues to evolve."
   ([Yahoo Finance, WSJ-sourced](https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-pulls-back-financing-153423894.html))
@@ -104,7 +103,7 @@ blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops wh
 
 - **Wire-service earnings previews ahead of Wednesday's print are now explicitly framing "circular financing" as the thing Nvidia's quarter has to answer, not a side debate** — citing this month's $500B Wall Street financing-platform mobilization and the $105B OpenAI Ohio guarantee as the two facts investors are weighing against the risk that they "artificially inflate demand and distort broader economic signals." That framing appearing in a mainstream pre-earnings wire story, rather than in Burry's Substack or a critic's newsletter, is the new fact: the loop is now the market's own lens on the print, not a minority read of it. ([Reuters, via Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/nvidia-faces-growth-test-rubin-100234535.html))
 
-## 2026-08-24 (late catch, added 2026-08-26) — The SEC subpoenas four banks over their exposure to the AI fund that blew up
+## 2026-08-24 — The SEC subpoenas four banks over their exposure to the AI fund that blew up
 
 - **The SEC subpoenaed Goldman Sachs, JPMorgan, Citigroup and Bank of
   America for records on their exposure to Situational Awareness**, the
@@ -137,7 +136,7 @@ blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops wh
   figure.
   ([The Decoder](https://the-decoder.com/gpt-5-6-sol-drives-openais-revenue-surge-as-it-regains-ground-on-anthropic/))
 
-## 2026-08-20 — Critic catch: Meta is quietly one of Microsoft's largest AI customers
+## 2026-08-20 — Meta is quietly one of Microsoft's largest AI customers
 
 - **Meta pays Microsoft "hundreds of millions of dollars a year" to reach
   AI models through Azure, consuming trillions of tokens weekly** — a
@@ -294,9 +293,8 @@ blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops wh
 
 ## 2026-07-30 (later) — The first AI-thesis fund broken by the AI trade: Situational Awareness force-sold to Citadel
 
-<!-- Added at finalize. Missed on the day; caught by the
-     coverage critic — Money Stuff led with it and six-plus outlets
-     carried it. The single biggest miss of 07-30. -->
+<!-- Added at finalize. Money Stuff led with it and six-plus
+     outlets carried it. The single biggest miss of 07-30. -->
 
 - **Leopold Aschenbrenner's Situational Awareness fund was forced to sell
   its entire public-equity book to Citadel after margin calls.** Up
@@ -315,13 +313,13 @@ blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops wh
   because it is not marked daily. The public book was the liquid,
   marginable expression of a thesis whose illiquid expression is still
   carried at par. That asymmetry is the circularity risk in miniature.
-- ⚠ **Position list and stake valuation unconfirmed.** Two independent
-  sweeps returned *different* holdings (one naming SK Hynix, SanDisk,
-  Nebius, CoreWeave and Micron; the other Riot, CleanSpark and Bloom
-  Energy) and different Anthropic-stake figures. The forced sale, the
-  three lenders, the leverage ratio and Citadel as buyer are corroborated
-  across six-plus outlets; the specific holdings are not. Do not cite a
-  position list from this entry without re-verifying it.
+- ⚠ **Position list and stake valuation unconfirmed.** Two independent reports
+  gave *different* holdings (one naming SK Hynix, SanDisk, Nebius, CoreWeave and
+  Micron; the other Riot, CleanSpark and Bloom Energy) and different
+  Anthropic-stake figures. The forced sale, the three lenders, the leverage
+  ratio and Citadel as buyer are corroborated across six-plus outlets; the
+  specific holdings are not. Do not cite a position list from this entry without
+  re-verifying it.
 
 ## 2026-07-30 — Microsoft's earnings put a number on the divergence
 

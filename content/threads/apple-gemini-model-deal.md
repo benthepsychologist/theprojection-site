@@ -17,22 +17,21 @@ blurb: 'At WWDC 2026 (06-08) Apple shipped Siri AI on Apple Foundation Models "c
   AI from EU iPhones at launch (06-09) citing DMA compliance after the EU rejected
   its exemption request — not US antitrust. Track: EU launch resolution, whether the
   $1B/yr figure ever gets confirmed, whether Apple builds back toward its own frontier
-  model. # crawl 2026-07-27'
+  model.'
 ---
 
 ## 2026-09-22 — OpenAI tells a court its ChatGPT-in-Siri deal underperformed, and that Apple refused exclusivity
 
 - **OpenAI told a federal court that Apple's ChatGPT integration was "persistently underperforming" and that Apple refused the two-year exclusivity OpenAI first asked for, in a summary-judgment brief filed 09-22 in Musk's companies' antitrust suit.** The brief (heavily redacted) says the integration was "dramatically underperforming" by the time the suit was filed and that OpenAI raised the problem with Apple on 2026-03-25; on the Google side it cites only the 2026-01-12 joint announcement that Apple's next Foundation Models would be "based on Google's Gemini models and cloud technology", so the brief itself does not explain why Apple chose Gemini. Apple's non-exclusivity, and its stated plan to integrate one provider and then add others, is the contractual background to the Gemini deal. ([Court filing, Doc. 403](https://www.courtlistener.com/docket/71191818/403/x-corp-v-apple-inc/), [MacRumors](https://www.macrumors.com/2026/09/23/openai-siri-chatgpt-underperforming/))
 
-## 2026-09-15 (caught late by the coverage critic, added 2026-09-16) — Hidden iOS 27 code shows Apple built Siri to let a third-party model replace its own backend entirely
+## 2026-09-15 — Hidden iOS 27 code shows Apple built Siri to let a third-party model replace its own backend entirely
 
-- 🕰 **CAUGHT LATE — MacRumors found hidden iOS 27 code showing Apple built Siri with a Model Delegation API and an Inference Provider protocol that would let Claude or GPT-5.6 replace Apple's own model as the backend — neither switched on for users yet.** This is a materially bigger watch-question answer than the Gemini deal alone: rather than a single locked-in partner, Apple appears to be building Siri as model-agnostic infrastructure, with Gemini (below) as the current default rather than the architecture's ceiling. TLDR AI's 09-15 issue led its news block with this alongside two unrelated items (Anthropic's "Claude Money" personal-finance feature in development, OpenAI's ~$300M acquisition of camera startup Glass Imaging) that this map has no existing thread for — noted here for provenance, not filed to this thread.
+- **MacRumors found hidden iOS 27 code showing Apple built Siri with a Model Delegation API and an Inference Provider protocol that would let Claude or GPT-5.6 replace Apple's own model as the backend — neither switched on for users yet.** This is a materially bigger watch-question answer than the Gemini deal alone: rather than a single locked-in partner, Apple appears to be building Siri as model-agnostic infrastructure, with Gemini (below) as the current default rather than the architecture's ceiling. TLDR AI's 09-15 issue led its news block with this alongside two unrelated items (Anthropic's "Claude Money" personal-finance feature in development, OpenAI's ~$300M acquisition of camera startup Glass Imaging) that this map has no existing thread for — noted here for provenance, not filed to this thread.
   ([MacRumors](https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/), [TLDR AI](https://tldr.tech/ai/2026-09-15))
 
-## 2026-09-14 (caught late by the coverage critic, added 2026-09-15) — The Gemini-powered Siri rebuild actually ships
+## 2026-09-14 — The Gemini-powered Siri rebuild actually ships
 
-- 🕰 **CAUGHT LATE — the rebuilt, Gemini-powered Siri shipped publicly with iOS 27 on 2026-09-14, as the 09-11 entry below said it would.** The Neuron and other AI-newsletter benchmarks covered the ship substantively; this thread's own record had the pre-ship forecast (usage caps, paid-tier plan) but missed the actual event itself, a repeat miss the 09-10 coverage critic had already flagged by date. Confirms this thread's central watch question in the affirmative for now: the public product runs on Google's model, not a delayed Apple-only fallback.
-  (The Neuron, 09-14 issue — critic-corroborated, primary Apple newsroom confirmation not yet independently re-verified by the main session)
+- **the rebuilt, Gemini-powered Siri shipped publicly with iOS 27 on 2026-09-14, as the 09-11 entry below said it would.** The Neuron and other AI newsletters covered the ship substantively. Confirms this thread's central watch question in the affirmative for now: the public product runs on Google's model, not a delayed Apple-only fallback. (The Neuron, 09-14 issue — primary Apple newsroom confirmation not yet independently re-verified)
 
 ## 2026-09-11 — Siri's AI beta will ship 09-14 with daily usage caps and a future paid tier
 
@@ -54,15 +53,7 @@ blurb: 'At WWDC 2026 (06-08) Apple shipped Siri AI on Apple Foundation Models "c
 
 ## 2026-07-27 — the flagged "07-21/22 cloud extension" traced to a stale re-index
 
-- **The dated development the weekly sweep flagged as uncovered
-  ("Siri-Gemini cloud-services extension," ~07-21/22) does not appear to
-  be new news** — the MSN item Google News indexed on 07-22 carries a
-  headline near-identical to a 2026-03-02 Gadget Hacks story on the same
-  underlying report, with no independent outlet corroborating a genuinely
-  new cloud-hosting development in the 07-20→07-22 window. Read as a
-  syndication re-date, not a missed story — the real gap in the window was
-  the EU launch fight (06-09, below), not this.
-  ([MSN via Google News](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWWIta2dENEtBMEZFRDd3N1JIQUtNN01QTFFReTV6a3ZKVTE3cXg4ZTU5ekZVQ2J3ajNVLXpnTlRtOWFWNEJhc0JIWmo1bVZTZWpSQVhXWHRFbm1pYzNpUkNsbGhhTEM2OEFhQlRxY0lMNzJJMGlJa1Y2SS1QS2NXQ0xyT0szUUp3MXdZc2ZYVlBzaFlmeU9GVUF1VktheTBVekRseG1TTG00bm5yLTlVREVjbjBITUprZG9OVmhmNEJyYjByR2oxYTMxeGZ3TG1zZGZTYUp3?oc=5))
+- **The dated development reported as "Siri-Gemini cloud-services extension" (~07-21/22) does not appear to be new news** — the MSN item Google News indexed on 07-22 carries a headline near-identical to a 2026-03-02 Gadget Hacks story on the same underlying report, with no independent outlet corroborating a genuinely new cloud-hosting development in the 07-20→07-22 window. Read as a syndication re-date, not a missed story — the real gap in the window was the EU launch fight (06-09, below), not this. ([MSN via Google News](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWWIta2dENEtBMEZFRDd3N1JIQUtNN01QTFFReTV6a3ZKVTE3cXg4ZTU5ekZVQ2J3ajNVLXpnTlRtOWFWNEJhc0JIWmo1bVZTZWpSQVhXWHRFbm1pYzNpUkNsbGhhTEM2OEFhQlRxY0lMNzJJMGlJa1Y2SS1QS2NXQ0xyT0szUUp3MXdZc2ZYVlBzaFlmeU9GVUF1VktheTBVekRseG1TTG00bm5yLTlVREVjbjBITUprZG9OVmhmNEJyYjByR2oxYTMxeGZ3TG1zZGZTYUp3?oc=5))
 
 ## 2026-07-13→22 — iOS 27 public beta ships Siri AI broadly
 

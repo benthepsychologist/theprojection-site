@@ -7,28 +7,25 @@ last_seen: 2026-10-03
 weight: 3
 entities: []
 thread_kind: story
-blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-month structural
-  closure as a one-week price spike. The Strait of Hormuz has been effectively closed
-  since 2026-02-28, the opening day of the Iran war (see iran-conflict-widening, whose
-  origin was corrected the same day): transits are running roughly 10 ships/day against
-  a 60-140/day norm, and Maersk, MSC, CMA CGM and Hapag-Lloyd have ALL suspended Hormuz
-  transits, rerouting via the Cape of Good Hope. War-risk insurance is the sharpest
-  number on this thread: 3-10% of hull value versus ~0.25% pre-war, so insuring a
-  $100M tanker for one transit went from ~$250K to $3-10M. VLCC Gulf-to-China freight
+blurb: 'This thread tracks a five-month structural closure, not a one-week price spike.
+  The Strait of Hormuz has been effectively closed since 2026-02-28, the opening day
+  of the Iran war (see iran-conflict-widening): transits are running roughly 10 ships/day
+  against a 60-140/day norm, and Maersk, MSC, CMA CGM and Hapag-Lloyd have ALL suspended
+  Hormuz transits, rerouting via the Cape of Good Hope. War-risk insurance is the
+  sharpest number on this thread: 3-10% of hull value versus ~0.25% pre-war, so insuring
+  a $100M tanker for one transit went from ~$250K to $3-10M. VLCC Gulf-to-China freight
   +24% to ~$1.67/bbl. Sourced to Lloyd''s List, a Congressional Research Service product,
   and GulfNews. The 07-23 Houthi strikes on two Saudi tankers and the Brent spike
-  to ~$100.69 were therefore an ESCALATION INSIDE an existing blockade, not its start
-  — this thread inherited a start date from the day the price moved, which is exactly
-  the failure mode of reading a market reaction as an origin. CURRENT LEVELS (07-31
-  close, the last tradeable print — futures shut over the weekend): Brent $90.12,
-  WTI $84.67, both up on the 07-31 IRGC strike on two tankers transiting under US
-  escort, with four more turning back. Brent''s July gain was its biggest monthly
-  move since March. Note the standing level is now BELOW the ~$100.69 spike this thread
-  was opened on. Watch: oil/shipping premiums, the underwriting layer, whether the
-  08-01 Trump "deal" claim (which demands the complete reopening of Hormuz, and which
-  Iran denies) actually moves transit volumes, and how far any of it feeds into Fed
-  policy. This is the capital-markets and risk-underwriting read of the war, deliberately
-  distinct from the conflict itself.'
+  to ~$100.69 were an ESCALATION INSIDE an existing blockade, not its start. CURRENT
+  LEVELS (07-31 close, the last tradeable print — futures shut over the weekend):
+  Brent $90.12, WTI $84.67, both up on the 07-31 IRGC strike on two tankers transiting
+  under US escort, with four more turning back. Brent''s July gain was its biggest
+  monthly move since March. Note the standing level is now BELOW the ~$100.69 spike
+  this thread was opened on. Watch: oil/shipping premiums, the underwriting layer,
+  whether the 08-01 Trump "deal" claim (which demands the complete reopening of Hormuz,
+  and which Iran denies) actually moves transit volumes, and how far any of it feeds
+  into Fed policy. This is the capital-markets and risk-underwriting read of the war,
+  deliberately distinct from the conflict itself.'
 ---
 
 ## 2026-10-03 — Fire reported near an Aramco facility in Riyadh
@@ -135,8 +132,7 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
 
 ## 2026-09-18 — Brent round-trips within a single session as fresh Saudi-Houthi border clashes revive the war-risk premium the pipeline restart had been paring back
 
-- **Brent extended Thursday's decline to a fourth straight down session in Asian trading, easing 2.2% to about $102.57 (WTI 1.9% to about $100.05), before both benchmarks round-tripped back toward flat during the US session as Saudi Arabia and Yemen's Houthis traded fresh cross-border attacks Thursday.** By midday Friday the same live CNBC page this thread has cited all week showed Brent at $104.34 (down just 48 cents on the day) and WTI at $101.66 (down 25 cents) — the Asian-session decline was real, but it did not hold once the border-clash headlines landed. Saudi Arabia's East-West pipeline restart plan and Oman ship-to-ship workaround (both logged 09-17) are still the supply-side story that had been removing this thread's tracked war-risk premium; Thursday's border exchange is pulling the same barrel the other way within the same 24-hour window, a clean real-time test of which force the market currently weights more. **Correction at finalize: the midday "round-tripped to flat" read did not hold into the close — both benchmarks resumed their decline into Friday's settle, Brent to $103.87 (-0.91%) and WTI to $100.30 (-1.58%), each a third straight down close.** CNBC's own oil page and Reuters/MarketWatch all 403'd direct fetch at finalize (a broader block than the single-page 403 logged mid-pass); the settle figures are cross-checked across tradingeconomics.com's commodity pages against two independent same-day recap sources (vittarthi.com, KBL Destinations) rather than a single wire's "settled at" sentence.
-  ([CNBC](https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html), [Vantage Markets](https://www.vantagemarkets.com/market-analysis/why-crude-oil-prices-fell-saudi-pipeline-repair-september-18-2026/), [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-17/latest-oil-market-news-and-analysis-for-sept-18), [tradingeconomics.com/commodity/brent-crude-oil](https://tradingeconomics.com/commodity/brent-crude-oil), [tradingeconomics.com/commodity/crude-oil](https://tradingeconomics.com/commodity/crude-oil))
+- **Brent extended Thursday's decline to a fourth straight down session in Asian trading, easing 2.2% to about $102.57 (WTI 1.9% to about $100.05), before both benchmarks round-tripped back toward flat during the US session as Saudi Arabia and Yemen's Houthis traded fresh cross-border attacks Thursday.** By midday Friday the same live CNBC page this thread has cited all week showed Brent at $104.34 (down just 48 cents on the day) and WTI at $101.66 (down 25 cents) — the Asian-session decline was real, but it did not hold once the border-clash headlines landed. Saudi Arabia's East-West pipeline restart plan and Oman ship-to-ship workaround (both logged 09-17) are still the supply-side story that had been removing this thread's tracked war-risk premium; Thursday's border exchange is pulling the same barrel the other way within the same 24-hour window, a clean real-time test of which force the market currently weights more. **By the close, the midday "round-tripped to flat" read had not held — both benchmarks resumed their decline into Friday's settle, Brent to $103.87 (-0.91%) and WTI to $100.30 (-1.58%), each a third straight down close.** CNBC's own oil page and Reuters/MarketWatch all 403'd direct fetch at finalize (a broader block than the single-page 403 logged mid-pass); the settle figures are cross-checked across tradingeconomics.com's commodity pages against two independent same-day recap sources (vittarthi.com, KBL Destinations) rather than a single wire's "settled at" sentence. ([CNBC](https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html), [Vantage Markets](https://www.vantagemarkets.com/market-analysis/why-crude-oil-prices-fell-saudi-pipeline-repair-september-18-2026/), [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-17/latest-oil-market-news-and-analysis-for-sept-18), [tradingeconomics.com/commodity/brent-crude-oil](https://tradingeconomics.com/commodity/brent-crude-oil), [tradingeconomics.com/commodity/crude-oil](https://tradingeconomics.com/commodity/crude-oil))
 
 ## 2026-09-17 — Brent swings as low as ~$102 before settling at $104.82 as Saudi Arabia announces a concrete partial-restart plan for the East-West pipeline and reroutes crude through Hormuz-adjacent ship-to-ship transfers
 
@@ -159,9 +155,9 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
 - **Brent traded as high as $108.04 (+3.28%) and held around $106.69-108 through Monday, its strongest level in four months, extending last week's 9%+ rally rather than reversing it.** The move stacks three inputs this thread and iran-conflict-widening have been tracking separately onto one session: Saudi Arabia's East-West pipeline — its principal workaround for avoiding the Strait of Hormuz, moving 4-5% of global crude supply — remains shut four days after the 09-10 drone attack traced to Iraq's Maysan province; the Houthis' completed hold on both Bab el-Mandeb shipping lanes (already on this thread's 09-11 record) is unresolved; and Monday's planned Salalah talks on a Hormuz shipping corridor were postponed with no new date (full diplomatic detail on iran-conflict-widening). ([FinanceFeeds](https://financefeeds.com/brent-crude-oil-price-107-oman-postpones-iran-hormuz-talks/), [EnergyNow](https://energynow.com/2026/09/oil-surges-again-as-saudi-pipeline-outage-and-hormuz-risks-push-brent-above-108/), [CNBC](https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html))
 - **Unlike the 09-11 pullback this thread logged on profit-taking, this leg is not reversing — the pipeline outage is the mechanism, and it has now run four days with no repair timeline disclosed** (Saudi Arabia has given no damage assessment; a comparable April attack on the same pipeline was repaired within three days, a precedent this outage has already exceeded). This is the first time in the war that Saudi Arabia's own Hormuz-avoidance route, not just the strait itself, has been the thing taken offline — pushing the "workaround" itself into the same risk category as the chokepoint it was built to avoid.
 
-## 2026-09-13 (late catch, added 2026-09-14) — the Sunday-evening reopening print the prior digest could only anticipate
+## 2026-09-13 — the Sunday-evening reopening print the prior digest could only anticipate
 
-- **Brent jumped $3.62 to $108.23/bbl and WTI rose $3.15 to $103.20/bbl — a 3%+ move — when CME Globex oil futures reopened for the week at 6:00pm ET Sunday 09-13, on continued vessel attacks in the Strait of Hormuz and Monday's planned Oman Hormuz-shipping talks being reported as postponed before the reopen even printed.** Critic-caught: the 09-13 digest's own throughline correctly flagged that "oil futures reopen this evening... the risk that reopening will have to price, not something already reflected in these levels," but was drafted four hours before the print existed to check it against. This is the first real number behind that anticipated move, and the direct predecessor to the following day's Brent-above-$108 entry above — the same rally continuing, not two separate moves. ([investinglive.com](https://investinglive.com/commodities/globex-is-open-and-oil-has-jumped-higher-while-stocks-have-slumped/))
+- **Brent jumped $3.62 to $108.23/bbl and WTI rose $3.15 to $103.20/bbl — a 3%+ move — when CME Globex oil futures reopened for the week at 6:00pm ET Sunday 09-13, on continued vessel attacks in the Strait of Hormuz and Monday's planned Oman Hormuz-shipping talks being reported as postponed before the reopen even printed.** The reopening was the risk flagged beforehand — "oil futures reopen this evening... the risk that reopening will have to price, not something already reflected in these levels." This is the first real number behind that anticipated move, and the direct predecessor to the following day's Brent-above-$108 entry above — the same rally continuing, not two separate moves. ([investinglive.com](https://investinglive.com/commodities/globex-is-open-and-oil-has-jumped-higher-while-stocks-have-slumped/))
 
 ## 2026-09-11 — Bab el-Mandeb is now fully Houthi-held on both shipping lanes, yet oil gave back Thursday's spike on profit-taking rather than de-escalation
 
@@ -172,7 +168,7 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
 ## 2026-09-10 — Brent tops $106 and WTI tops $101 by afternoon as two chokepoints — Hormuz and Bab el-Mandeb — get priced at once
 
 - **Brent traded $104.80–$105.07 (+3.50% to +3.81%) as of ~10:15 ET, measured from a $101.21–$101.26 prior close, while WTI reached $99.63 (+3.73%, +$3.58) from a $96.05 prior close as of 10:17 ET.** Both prior closes match CNBC's own report of Tuesday 09-09's official settles — Brent at $101.21 (+3.36%) and WTI at $96.05 (+3.25%) — so the 09-09 close and today's intraday reading agree within rounding. This is a fresh leg higher on top of this thread's own 09-09 entry, which logged Brent crossing $100 intraday at $101.44. Both legs were genuinely cross-checked across three independent sources — oilprice.com, investing.com and CNBC's settle report — rather than the single-source reads this thread has had to catch and correct before. ([oilprice.com](https://oilprice.com/futures/brent/), [investing.com Brent](https://www.investing.com/commodities/brent-oil), [investing.com WTI](https://www.investing.com/commodities/crude-oil))
-- **⚠️ Unresolved: this thread's own 09-09 entry says Brent crossed $100 "for the first time since July," but a separate sweep this run described the same crossing as the first since May, and today's WTI move above $99 is itself framed elsewhere as its highest "since roughly May."** The level itself is not in doubt — it reconciles cleanly against its prior close above — only the how-long-since framing is unreconciled between the two readings. Needs a check against a dated historical settle series next pass; not resolved here.
+- **⚠️ Unresolved: this thread's own 09-09 entry says Brent crossed $100 "for the first time since July," but a separate report described the same crossing as the first since May, and today's WTI move above $99 is itself framed elsewhere as its highest "since roughly May."** The level itself is not in doubt — it reconciles cleanly against its prior close above — only the how-long-since framing is unreconciled between the two readings. Needs a check against a dated historical settle series; not resolved.
 - **By mid-afternoon Brent had climbed further to $106.83 (+5.55%) and WTI to $101.57 (+5.75%) — a second leg up on the morning's own $105/$99 reading, logged above in this same block.** The move now reflects two chokepoints being priced at once rather than one: Hormuz, off the US-vs-Iranian-Navy tanker exchange already on this thread's 09-09 record, and Bab el-Mandeb, off a new Houthi advance past Mokha to the Hanish Islands — see yemen-civil-war for the ground-war account of the same advance. Houthi forces are pushing toward the peninsula overlooking Perim Island and Bab el-Mandeb itself, per Maritime Executive, which would give them leverage over roughly 8.1 million barrels a day transiting the strait — about 8% of global oil supply on Q2 2026 figures. A sustained disruption there forces Asia–Europe shipping around the Cape of Good Hope. The internationally recognised Yemeni government still holds the coastline and islands overlooking the shipping channels in that specific area as of the same report, and the Houthis deny that blocking traffic is their objective, saying they can already control it from positions they hold now. ([Maritime Executive](https://maritime-executive.com/article/houthis-break-through-towards-bab-el-mandeb))
 
 ## 2026-09-09 — The US disables five Iranian tankers, Iran hits back at Jordan, and Brent crosses $100 for the first time since July
@@ -359,9 +355,9 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   driving the piracy and war-risk premiums above.
   ([OPB](https://www.opb.org/article/2026/08/21/trump-warns-iran-economic-d-day-tehran-familiar-with-sanctions/))
 - ⚠️ **Expectation status: iran-oman-hormuz-deal-signing stays
-  passed-silent**, with its 3-day grace expiring 08-22. Two independent
-  sweeps five hours apart both found no signing and no date, which makes
-  this a well-established negative rather than a thin one.
+  passed-silent**, with its 3-day grace expiring 08-22. Two independent checks
+  five hours apart both found no signing and no date, which makes this a
+  well-established negative rather than a thin one.
 
 ## 2026-08-20 — A hijacked shadow-fleet tanker adds a piracy premium on top of the war premium
 
@@ -520,15 +516,7 @@ blurb: '⚠️ SCALE CORRECTED 2026-08-02 — this thread was reading a five-mon
   exports through the Egypt-Mediterranean pipeline route (Sidi Kerir)
   more than doubled to ~2.3M bpd.
   ([CNBC](https://www.cnbc.com/2026/08/12/saudi-arabia-iran-oil-red-sea-houthi-suez-canal-strait-hormuz.html))
-- **Late that evening Trump escalated on Truth Social, claiming the US
-  has "total control over the Strait of Hormuz" and "I THINK WE WILL
-  KEEP IT!"** — a claim to outright control rather than a negotiated
-  reopening, sharper than anything either side had said on the record
-  before. Strait transits had already thinned to 8 vessels the prior day
-  (08-11), the lowest daily count since 08-05 against a ~12-vessel
-  10-day average. Iran had not responded as this digest-day's window
-  closed.
-  ([CBS News](https://www.cbsnews.com/live-updates/iran-war-us-strait-of-hormuz-donald-trump-tehran-control-threatens-keep-it/))
+- **Late that evening Trump escalated on Truth Social, claiming the US has "total control over the Strait of Hormuz" and "I THINK WE WILL KEEP IT!"** — a claim to outright control rather than a negotiated reopening, sharper than anything either side had said on the record before. Strait transits had already thinned to 8 vessels the prior day (08-11), the lowest daily count since 08-05 against a ~12-vessel 10-day average. Iran had not responded at the time of writing. ([CBS News](https://www.cbsnews.com/live-updates/iran-war-us-strait-of-hormuz-donald-trump-tehran-control-threatens-keep-it/))
 - **Brent and WTI both closed effectively flat ($88.98 and $83.27, +$0.07
   each) despite this week's fatal Red Sea/Gulf of Oman escalation** —
   the first time this thread has recorded a muted price reaction to a

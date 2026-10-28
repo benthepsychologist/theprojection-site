@@ -15,21 +15,20 @@ entities:
 thread_kind: story
 blurb: 'Guidance is climbing (€36-40B to €43-45B for FY2026) while the China fight
   runs on three fronts at once: the MATCH Act would extend controls to DUV tools generally,
-  not just EUV, and passed House committee — but ⚠️ its vehicle is STALLED (corrected
-  2026-08-21): MATCH rode as an amendment to the FY2027 NDAA, and the Senate failed
-  cloture on that bill 50-46 on 2026-07-14, blocked by Democrats over Iran-war and
-  Israel provisions rather than anything to do with chips. Thune switched to "no"
-  to preserve a motion to reconsider, so it is stalled rather than dead, and the reconsideration
-  vote is now the real next trigger — if it clears, MATCH''s 150-day clock for the
-  Netherlands to align its export controls starts running; Commerce''s Lutnick opened
-  a still-unresolved inquiry into whether an EUV tool illegally reached China (ASML
-  denies it); and China''s own Shanghai Aishengna is now shipping domestic DUV units
-  to SMIC/Hua Hong/CXMT, though independent forecasts put a genuinely competitive
-  7nm domestic scanner a decade out, not this year. High-NA adoption is splitting
-  the big three — Intel shipped first, TSMC opted out for A14 on cost, Samsung/SK
-  Hynix are ordering. The Mistral stake (11%, active board seat) has no confirmed
-  follow-on yet. Next: Q3 2026 earnings, MATCH Act''s Senate/NDAA fate, Lutnick inquiry
-  resolution.'
+  not just EUV, and passed House committee — but its vehicle is STALLED: MATCH rode
+  as an amendment to the FY2027 NDAA, and the Senate failed cloture on that bill 50-46
+  on 2026-07-14, blocked by Democrats over Iran-war and Israel provisions rather than
+  anything to do with chips. Thune switched to "no" to preserve a motion to reconsider,
+  so it is stalled rather than dead, and the reconsideration vote is now the real
+  next trigger — if it clears, MATCH''s 150-day clock for the Netherlands to align
+  its export controls starts running; Commerce''s Lutnick opened a still-unresolved
+  inquiry into whether an EUV tool illegally reached China (ASML denies it); and China''s
+  own Shanghai Aishengna is now shipping domestic DUV units to SMIC/Hua Hong/CXMT,
+  though independent forecasts put a genuinely competitive 7nm domestic scanner a
+  decade out, not this year. High-NA adoption is splitting the big three — Intel shipped
+  first, TSMC opted out for A14 on cost, Samsung/SK Hynix are ordering. The Mistral
+  stake (11%, active board seat) has no confirmed follow-on yet. Next: Q3 2026 earnings,
+  MATCH Act''s Senate/NDAA fate, Lutnick inquiry resolution.'
 ---
 
 ## 2026-09-24 — Dutch prime minister says he expects a deal with Washington on the MATCH Act

@@ -1,5 +1,5 @@
 ---
-title: Opened (ben-steer)
+title: Opened
 story_id: anthropic-copyright-exposure--2026-08-06
 date: '2026-08-06'
 lens: ai

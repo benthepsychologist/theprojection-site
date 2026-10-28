@@ -83,14 +83,7 @@ blurb: The custom-silicon revolt (TPU/Trainium/Maia/MTIA) — real but INFERENCE
 
 ## 2026-08-06 — Anthropic joins the in-house silicon story
 
-- **Anthropic confirmed it is building an in-house AI chip-design team,
-  targeting ~50% inference-cost cuts, with Samsung scouted as a fab
-  partner** (disclosed 08-05; caught by the 08-07 finalize's coverage
-  critic — 3 of 4 benchmark newsletters carried it while this thread's
-  terms only swept the hyperscalers' chips, which is exactly why the
-  thread had gone quiet). First frontier-lab entrant on a thread that
-  had been hyperscaler-only; term and entity added.
-  ([TechCrunch](https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/))
+- **Anthropic confirmed it is building an in-house AI chip-design team, targeting ~50% inference-cost cuts, with Samsung scouted as a fab partner** (disclosed 08-05; carried by 3 of 4 benchmark newsletters). First frontier-lab entrant on a thread that had been hyperscaler-only. ([TechCrunch](https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/))
 
 ## 2026-08-05 — A fifth entrant: Anthropic starts building its own chip-design team
 
@@ -119,7 +112,7 @@ blurb: The custom-silicon revolt (TPU/Trainium/Maia/MTIA) — real but INFERENCE
 
 ## 2026-07-24 — Opened + crawled
 
-- **Thread opened** (ben-steer).
+- **Thread opened**.
 - **Verdict: diversification at the margin and on inference, not a rout.**
   The CUDA-vs-XLA software moat keeps Nvidia the default for anyone without
   a captive anchor customer; the "in-house" silicon is largely outsourced

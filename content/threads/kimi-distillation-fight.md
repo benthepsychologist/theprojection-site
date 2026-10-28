@@ -121,13 +121,7 @@ blurb: 'The White House (OSTP''s Kratsios) directly accused Moonshot of distilli
 
 ## 2026-07-27 — Beijing draws the line
 
-- **China vowed "all necessary measures" against the threatened US
-  sanctions on AI firms** over the Kimi-K3-distilled-from-Fable-5
-  accusations — tariff lines drawn ahead of the Sept 24 Xi–Trump summit.
-  The state response the *Watch* line waits on has begun, on the trade
-  axis rather than the export-control one. Critic-caught (benchmark
-  miss, folded at 07-27 finalization).
-  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-27/china-vows-response-to-us-sanctions-threat-against-ai-firms))
+- **China vowed "all necessary measures" against the threatened US sanctions on AI firms** over the Kimi-K3-distilled-from-Fable-5 accusations — tariff lines drawn ahead of the Sept 24 Xi–Trump summit. The state response the *Watch* line waits on has begun, on the trade axis rather than the export-control one. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-27/china-vows-response-to-us-sanctions-threat-against-ai-firms))
 
 ## 2026-07-26 — K3 weights live
 

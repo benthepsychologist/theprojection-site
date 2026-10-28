@@ -9,17 +9,15 @@ entities:
 - lisa-cook
 - kevin-warsh
 thread_kind: story
-blurb: 'Two distinct, simultaneous levers on the Fed''s independence, offered as a
-  thread candidate 08-07 and promoted 08-09 (Ben: "yes to all"). Composition lever:
-  Trump revived his effort to remove Governor Lisa Cook on a hard three-week deadline
-  (08-26), rebuilt to survive the Supreme Court''s due-process ruling that blocked
-  his first attempt — this map tracked two straight weeks of detailed FOMC vote-count
-  coverage without ever naming her. Messaging lever: Chair Kevin Warsh''s own forward-guidance-removal
+blurb: 'Two distinct, simultaneous levers on the Fed''s independence. Composition
+  lever: Trump revived his effort to remove Governor Lisa Cook on a hard three-week
+  deadline (08-26), rebuilt to survive the Supreme Court''s due-process ruling that
+  blocked his first attempt. Messaging lever: Chair Kevin Warsh''s own forward-guidance-removal
   regime change is a separate, non-composition pressure on the same institution. Track:
   whether Cook''s removal effort survives a second legal challenge before 08-26, and
   whether the Fed-composition fight becomes the dominant global-capital story into
-  the 09-16 FOMC decision — as of the 08-09 /week read, a bigger open question than
-  anything purely financial on this map.'
+  the 09-16 FOMC decision — as of 08-09, a bigger open question than anything purely
+  financial.'
 ---
 
 ## 2026-10-02 — A weak jobs report cuts October hike odds to under a fifth
@@ -49,7 +47,7 @@ blurb: 'Two distinct, simultaneous levers on the Fed''s independence, offered as
 - **St. Louis Fed President Alberto Musalem said Tuesday that a Fed that communicates too little would face higher and more volatile interest rates and inflation.** In remarks for the London School of Economics he said "the communications choice before us is not between noisy overpromising and stoic silence. It is between leaving the public to guess how the central bank thinks and telling them"; Chair Kevin Warsh has set up a task force on Fed communications and called for "a quieter Fed." ([Investing.com via Yahoo Finance](https://sg.finance.yahoo.com/news/fed-musalem-warns-against-central-180821213.html), [Reuters](https://www.reuters.com/business/finance/prospect-fed-pulling-too-far-back-communications-poses-volatility-risk-musalem-2026-09-29/))
 - **Fed Governor Michael Barr said Tuesday that "further policy adjustments are likely to be needed" to bring inflation down, adding that the Fed has been "knocked off course."** In remarks prepared for the Detroit Economic Club he said he sees no clear trend back to 2%, called the labor market solid with receding risks, and expects growth to pick up from a 2% first-half pace; he tied the inflation to Middle East energy prices and AI-buildout demand for high-tech goods. Markets are betting heavily on another quarter-point hike at the October 27-28 meeting. ([Reuters via Yahoo Finance](https://finance.yahoo.com/news/feds-barr-says-more-rate-164345528.html))
 
-## 2026-09-28 — (LATE MONDAY, main session decides) Fed Governor Cook says AI demand is broadening inflation
+## 2026-09-28 — Fed Governor Cook says AI demand is broadening inflation
 
 - **Fed Governor Lisa Cook said Monday that AI-driven investment is broadening inflation pressure beyond AI goods, and that using monetary policy against sector-specific inflation "could be a mistake."** In an Oakland Tech Week keynote she said electricity and water costs are each up about 5% over the past year, core goods prices are running above a 3% annual pace, and productivity gains should bring "modest disinflation within the next few years" but not "in time to offset the broadening inflationary pressure later this year." ([Federal Reserve](https://www.federalreserve.gov/newsevents/speech/cook20260928a.htm), [Axios](https://www.axios.com/2026/09/29/ai-inflation-fed-cook))
 
@@ -88,8 +86,7 @@ blurb: 'Two distinct, simultaneous levers on the Fed''s independence, offered as
 
 ## 2026-08-31 — Bessent publicly argues against a September hike, cutting against the Warsh reading that drove odds up
 
-- **Treasury Secretary Scott Bessent went on CNBC and argued on the record against a September rate hike — directly counter to the reading of Kevin Warsh's Jackson Hole keynote that had pushed hike odds toward 60-66%.** Asked about the Fed's next move he said "I'm not going to speculate on what the Fed may do or not," then: "It is my belief that we've seen a supply shock, and traditionally, you don't raise interest rates into a supply shock unless you see second- or third-order effects, and we are seeing the core inflation has remained very, very restrained." He separately argued an AI-driven productivity boom would ease price pressure rather than add to it. **For this thread's own watch line that makes two messaging levers pointing opposite ways on the same decision:** an incoming Fed chair read as running a forward-guidance-removal regime, and a sitting Treasury Secretary publicly leaning against the hike that reading implies. ⚠️ Dated 08-31 and surfaced only on the 09-02 afternoon sweep — genuinely absent from every thread until now. The primary CNBC transcript 403s on direct fetch; the quotes below are from two outlets carrying it verbatim.
-  ([InvestingLive](https://investinglive.com/central-banks/icymi-bessent-lists-reasons-fed-could-skip-a-september-hike-despite-warsh-remarks/), [Crypto Briefing](https://cryptobriefing.com/bessent-federal-reserve-supply-shock/))
+- **Treasury Secretary Scott Bessent went on CNBC and argued on the record against a September rate hike — directly counter to the reading of Kevin Warsh's Jackson Hole keynote that had pushed hike odds toward 60-66%.** Asked about the Fed's next move he said "I'm not going to speculate on what the Fed may do or not," then: "It is my belief that we've seen a supply shock, and traditionally, you don't raise interest rates into a supply shock unless you see second- or third-order effects, and we are seeing the core inflation has remained very, very restrained." He separately argued an AI-driven productivity boom would ease price pressure rather than add to it. **For this thread's own watch line that makes two messaging levers pointing opposite ways on the same decision:** an incoming Fed chair read as running a forward-guidance-removal regime, and a sitting Treasury Secretary publicly leaning against the hike that reading implies. ⚠️ Dated 08-31. The primary CNBC transcript 403s on direct fetch; the quotes below are from two outlets carrying it verbatim. ([InvestingLive](https://investinglive.com/central-banks/icymi-bessent-lists-reasons-fed-could-skip-a-september-hike-despite-warsh-remarks/), [Crypto Briefing](https://cryptobriefing.com/bessent-federal-reserve-supply-shock/))
 
 ## 2026-08-29 — No confirmed White House response to Cook's rebuttal, and one unverified dismissal claim
 
@@ -103,11 +100,11 @@ blurb: 'Two distinct, simultaneous levers on the Fed''s independence, offered as
   **The absence is the finding for this thread, and it was verified rather than inferred:** direct string search over the released text returns **zero occurrences of "independence," "administration" or "buyback."** Going in, previews framed the Cook removal fight and fiscal-dominance pressure as the market's central question. He did not engage either. **A chairman declining to defend the institution's independence from the one podium built for it is a datapoint on this thread, not an empty result.**
   ([Federal Reserve, released text](https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm))
 
-- **The University of Michigan's final August survey put sentiment at 51.7, confirming its early-month reading, about 6% below July's 55.2 and 11% below a year ago — with year-ahead inflation expectations falling to 4.0% from 4.2% and long-run expectations holding at 3.3% for a third month.** **The market moved on rhetoric against the data**, repricing toward fewer cuts on the same day the only inflation-expectations print available softened. Expected year-ahead business conditions fell 10% and the five-year horizon 13%; the survey names the Iran conflict as driving gasoline-price expectations and notes 4.0% still "substantially exceeds the 3.4% seen in February before the Iran conflict began." Interviews ran 07-28 to 08-24, so **the window contains none of the keynote.** ⚠️ A sweep reported this figure as *rising* to 4.3%; corrected against the primary release before publication. ([University of Michigan, Surveys of Consumers, read directly](https://www.sca.isr.umich.edu/))
+- **The University of Michigan's final August survey put sentiment at 51.7, confirming its early-month reading, about 6% below July's 55.2 and 11% below a year ago — with year-ahead inflation expectations falling to 4.0% from 4.2% and long-run expectations holding at 3.3% for a third month.** **The market moved on rhetoric against the data**, repricing toward fewer cuts on the same day the only inflation-expectations print available softened. Expected year-ahead business conditions fell 10% and the five-year horizon 13%; the survey names the Iran conflict as driving gasoline-price expectations and notes 4.0% still "substantially exceeds the 3.4% seen in February before the Iran conflict began." Interviews ran 07-28 to 08-24, so **the window contains none of the keynote.** ([University of Michigan, Surveys of Consumers, read directly](https://www.sca.isr.umich.edu/))
 
 - **Alan Blinder, a former Federal Reserve vice chairman now at Princeton, went on the record 08-28 (5:36pm ET) calling Warsh's Jackson Hole remarks forward guidance in substance, despite Warsh's own explicit disclaimer of the term.** Blinder: "I would call that forward guidance," adding Warsh "sounded to me like somebody who thought interest rates should go up, right?" and that Warsh sounded "like a man who was rationalizing raising interest rates." This is a named, on-record contradiction of Warsh's own framing from someone who held the job — a sharper, more citable version of the "the absence is the finding" read this thread already carries, and it lands on the same day the Fed's own press-release log stayed silent on Cook. ([Yahoo Finance / syndicated](https://finance.yahoo.com/economy/policy/article/warsh-offered-forward-guidance-after-all-says-former-fed-vice-chair-190112766.html))
 
-- **Chicago Fed President Austan Goolsbee, interviewed by Odd Lots at Jackson Hole on 08-27 and published 08-28 at 13:23 ET, said he is worried the economy is overheating, that the 2% target is "farther away than it was this time last year," and that GDP is growing "mostly due to AI and the data center buildout" while hiring and firing both stay unusually low.** He also said he is "embracing Kevin Warsh's philosophy around reducing forward guidance." **Two things this thread did not have from the keynote day: a second Fed voice at the same venue endorsing the quieter-Fed doctrine, and a sitting Fed president attributing output growth itself to the buildout this map tracks** — which is the Warsh AI section restated as a current-conditions claim rather than a research question. ⚠️ Critic-caught from the Odd Lots weekly benchmark; recorded from the episode transcript, not a Fed release. ([Odd Lots, episode page and transcript](https://omny.fm/shows/odd-lots/austan-goolsbee-is-worried-the-economy-is-overheating))
+- **Chicago Fed President Austan Goolsbee, interviewed by Odd Lots at Jackson Hole on 08-27 and published 08-28 at 13:23 ET, said he is worried the economy is overheating, that the 2% target is "farther away than it was this time last year," and that GDP is growing "mostly due to AI and the data center buildout" while hiring and firing both stay unusually low.** He also said he is "embracing Kevin Warsh's philosophy around reducing forward guidance." **Two things this thread did not have from the keynote day: a second Fed voice at the same venue endorsing the quieter-Fed doctrine, and a sitting Fed president attributing output growth itself to the buildout this map tracks** — which is the Warsh AI section restated as a current-conditions claim rather than a research question. ⚠️ Source: the Odd Lots episode transcript, not a Fed release. ([Odd Lots, episode page and transcript](https://omny.fm/shows/odd-lots/austan-goolsbee-is-worried-the-economy-is-overheating))
 
 ## 2026-08-26 — Cook files a formal rebuttal on the deadline day itself
 
@@ -148,14 +145,7 @@ blurb: 'Two distinct, simultaneous levers on the Fed''s independence, offered as
 
 ## 2026-08-09 — Thread opened
 
-- **Promoted from an unpromoted 08-07 thread candidate on Ben's direct
-  word** ("yes to all," /week 2026-08-09). Trump revived his effort to
-  remove Fed Governor Lisa Cook, on a hard three-week deadline (08-26),
-  rebuilt to survive the Supreme Court's due-process ruling that blocked
-  his first removal attempt. This map had carried two straight weeks of
-  detailed FOMC vote-count coverage without ever naming her — the same
-  shape of gap the Kevin Warsh watchlist add closed on 2026-08-02.
-  ([NPR](https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve))
+- **Thread opened.** Trump revived his effort to remove Fed Governor Lisa Cook, on a hard three-week deadline (08-26), rebuilt to survive the Supreme Court's due-process ruling that blocked his first removal attempt. ([NPR](https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve))
 - **The removal fight is starting to get a market price rather than just
   political commentary — analyst/prediction-market reads now put real
   odds (roughly 13-31%, varying by source and horizon) on Trump

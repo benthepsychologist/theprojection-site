@@ -65,7 +65,7 @@ blurb: 'The combined 2026 plan is now ~$610-650B across the four (Google $195-20
 
 - **Dell'Oro Group's own 2030 worldwide data-center capex outlook "has nearly doubled since the January 2026 forecast,"** driven by higher hyperscale capex guidance and a newly modeled "AI-specialized cloud" segment (AI model builders + neoclouds) growing at ~60% CAGR. ⚠️ This is a market-research firm's forward-looking estimate, not a hyperscaler's own disclosed guidance — treat as an analyst forecast, not a company commitment. ([Dell'Oro Group via PR Newswire](https://www.prnewswire.com/news-releases/ai-buildout-maintains-momentum-as-data-center-capex-surpasses-3-trillion-by-2030-according-to-delloro-group-302852171.html))
 
-## 2026-08-03 — BofA puts a number on the next leg up: $1.2T over the next 12 months (caught 08-05)
+## 2026-08-03 — BofA puts a number on the next leg up: $1.2T over the next 12 months
 
 - **Bank of America now sees hyperscaler capex reaching $1.2 trillion over
   the next 12 months** — a step up from the ~$700B-for-calendar-2026
@@ -169,11 +169,10 @@ artifacts/bundles/*-capex-2026-07-27/). The comparable read:*
 ## 2026-07-23 — Meta-thread opened
 
 - **Opened as a meta-thread grouping four sub-threads** — google-capex,
-  meta-capex, aws-capex, microsoft-capex — after Ben asked for the
-  individual hyperscalers as their own threads plus "the big picture" as
-  an overlapping parent (/steer, "figure out how to do meta-threads").
-  A meta-thread's card shows its children as linked rows, not a flat
-  re-listing of their items; its ranking score aggregates their activity.
+  meta-capex, aws-capex, microsoft-capex — to give the individual hyperscalers
+  their own threads plus "the big picture" as an overlapping parent. A
+  meta-thread's card shows its children as linked rows, not a flat re-listing of
+  their items; its ranking score aggregates their activity.
 
 ## ← Backstory
 

@@ -15,6 +15,16 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
   AMD/Azure/Google-TPU compute deals get positioned in the roadshow narrative.'
 ---
 
+## 2026-10-26 — Anthropic files its public S-1 under the ticker ANT; the filing states no raise size or valuation
+
+- **TechCrunch reported that Anthropic's SEC filing shows revenue of $16.3 billion for the first half of 2026, up from $1.2 billion a year earlier** — TechCrunch also reported that Anthropic plans to list under the ticker "ANT"; the revenue figure matches the one reported from the draft filing on 2026-10-20. ([TechCrunch](https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/)) Claims: kat-claim-6b99eeae0c8f
+- **TechCrunch reported an operating loss of $693 million for the first half of 2026 (against $2.1 billion a year earlier) and a net loss of $80.7 billion** — TechCrunch says the net loss was largely driven by noncash accounting adjustments tied to convertible debt, and that the filing states Anthropic "may not achieve or sustain profitability in the future." ([TechCrunch](https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/)) Claims: kat-claim-f169d6395a63
+- **Wired reported that the S-1 prospectus does not state how much Anthropic plans to raise or its targeted valuation** — Wired attributes a possible IPO later in November to the Wall Street Journal, and a raise above $100 billion at a valuation near $2 trillion to the New York Times (August). ([Wired](https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/)) Claims: kat-claim-bf438f4a7419
+- **Wired reported that the S-1 leaves blank financials for the quarter ended September 30 and lease agreements tied to compute** — Wired quotes accounting academics saying such redactions are common and that the filing would need third-quarter financials if the IPO comes later than about mid-November. ([Wired](https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/)) Claims: kat-claim-d4f14f5774a1
+- **TechCrunch reported that, per the filing, Anthropic's seven co-founders will make up a "Founder LLC" controlling 50.1% of shareholder voting power** — TechCrunch also reported that Anthropic's Long-Term Benefit Trust will have authority to appoint most of the board, and notes that voting power is not proportional to the founders' economic ownership. ([TechCrunch](https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/)) Claims: kat-claim-935f974c0ff9
+- **Crunchbase News relayed a Reuters report that Anthropic could reach a $110 billion annualized revenue run rate by year-end** — Reuters cited analysts who met with company executives; per Crunchbase, the S-1 itself does not forecast the second half of the year. ([Crunchbase News](https://news.crunchbase.com/public/anthropic-ipo-filing-ai-earnings-growth-risks/)) Claims: kat-claim-91e3fef043fe
+- **Wired reported that the S-1 says Anthropic cannot be certain the resolution of its lawsuits over the Trump administration's supply-chain-risk designation will not adversely affect its ability to sell to government agencies and to customers that sell to the US government** ([Wired](https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/)) Claims: kat-claim-8ad7ae5dc30e
+
 ## 2026-10-23 — CNBC reports Anthropic seeking $1.5 trillion to $2 trillion for its public debut; The Verge cites the leaked S-1's $16.3 billion first-half revenue
 
 - **TechCrunch, relaying CNBC, reported that Anthropic is seeking a valuation of $1.5 trillion to $2 trillion for its public debut** — the article, written about OpenAI's reported raise, says Anthropic raised $65 billion at a $965 billion valuation in May and filed confidential paperwork in June, and that rumors suggest its public S-1 could arrive "any day now"; those details are TechCrunch's, not CNBC's. ([TechCrunch](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/)) Claims: kat-claim-6e45437d77fc
@@ -123,10 +133,6 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
 
 ## 2026-08-17 — Run-rate past $65B, ahead of OpenAI, ahead of the filing
 
-*Logged 2026-08-18 by the coverage critic. Surfaced independently by all
-three critic-bearing lens sweeps — the strongest miss signal this map
-has recorded.*
-
 - **Anthropic's annualized revenue run-rate topped $65 billion in July,
   disclosed to investors in a regular update.** Up from **$47B in May**
   and **~$9B at the end of 2025** — roughly 7x in seven months — and it
@@ -137,11 +143,11 @@ has recorded.*
   ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo),
   [CNBC](https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html),
   [TechCrunch](https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/))
-- **⚠️ This is NOT the $11.5B figure this map logged as caught-late on
-  08-17.** That is **quarterly** Q2 revenue, reported by Bloomberg on
-  08-14. This is an **annualized run-rate**, reported 08-17. Aggregators
-  merged the two all day and at least one sweep re-reported the quarterly
-  figure as though it were fresh. Two numbers, two dates, two meanings.
+- **⚠️ This is NOT the $11.5B figure this map logged as caught-late on 08-17.**
+  That is **quarterly** Q2 revenue, reported by Bloomberg on 08-14. This is an
+  **annualized run-rate**, reported 08-17. Aggregators merged the two all day,
+  and the quarterly figure was re-reported as though it were fresh. Two numbers,
+  two dates, two meanings.
 - **The filing has not caught up with the number.** No public S-1 or
   S-1/A has appeared on EDGAR as of 08-18; the June 1 submission remains
   confidential. A fall listing at a $2T target now has a run-rate
@@ -149,22 +155,15 @@ has recorded.*
   should be watching next.
 
 
-## 2026-08-17 — Caught late: the Q2 revenue print this map never carried
+## 2026-08-17 — Anthropic's Q2 revenue print
 
-- 🕰 **Anthropic's Q2 revenue exceeded $11.5B, up roughly 14x year-on-year —
-  reported by Bloomberg on 2026-08-14 and missing from this map until
-  today.** Preliminary figures from documents Bloomberg reviewed: $11.5B
-  against $787M in Q2 2025 and $4.73B in Q1 2026, with positive adjusted
-  operating income for the quarter.
-  ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-14/anthropic-revenue-ahead-of-ipo-surges-over-14-fold-in-second-quarter), [CNBC](https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html))
+- **Anthropic's Q2 revenue exceeded $11.5B, up roughly 14x year-on-year — reported by Bloomberg on 2026-08-14.** Preliminary figures from documents Bloomberg reviewed: $11.5B against $787M in Q2 2025 and $4.73B in Q1 2026, with positive adjusted operating income for the quarter. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-14/anthropic-revenue-ahead-of-ipo-surges-over-14-fold-in-second-quarter), [CNBC](https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html))
 - **The gap is worth naming because of what this thread WAS carrying at the
   time.** The 08-15 digest covered Anthropic's IPO timeline firming to a
-  September–October Nasdaq target with investor meetings underway and
-  backers pressing management on Chinese model competition — without the
-  revenue print that had landed the day before. Logged under its true date;
-  the 08-14 and 08-15 digests are not reopened. It surfaced today only
-  because an afternoon sweep mis-reported it as fresh news and checking the
-  date found the gap instead.
+  September–October Nasdaq target with investor meetings underway and backers
+  pressing management on Chinese model competition — without the revenue print
+  that had landed the day before. Logged under its true date; the 08-14 and
+  08-15 digests are not reopened.
 
 ## 2026-08-15 — The timeline firms to September, and a seller picks Anthropic stock over a higher Nvidia cash bid
 

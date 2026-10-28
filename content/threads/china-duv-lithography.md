@@ -18,16 +18,16 @@ blurb: 'Whether China''s first mass-produced immersion DUV tool is real at manuf
   target, which fabs actually receive them, any yield/uptime disclosure, ASML''s order
   book and guidance for China, and whether export-control policy re-prices on it.
   A slip here is as informative as a hit — this is the load-bearing assumption under
-  the whole chokepoint picture. ADDENDUM 2026-08-18 (cold rotation): 21 days on, the
-  delivery test is STILL UNMET — no confirmation from Aishengna or from SMIC/Hua Hong/CXMT
-  of an installed running tool at any node with any yield figure. HARD QUALIFIER now
-  on record: the tools support 28nm-class SINGLE-EXPOSURE patterning only, advanced
-  nodes need multi-patterning, some critical components still internationally sourced.
-  ASML fell up to 14% on the 07-27/28 report, then RAISED its own 2026 guidance to
-  EUR36-40B with DUV immersion shipments ~130 systems and an order book "largely filled
-  through 2027" — the market repriced, the company did not. No export-control change
-  tied to this. NAMING: "Shanghai Yuliansheng"/"Yuliangsheng" is a PREDECESSOR team
-  absorbed into Aishengna (alongside SMEE), not a rival programme — do not double-count.'
+  the whole chokepoint picture. ADDENDUM 2026-08-18: 21 days on, the delivery test
+  is STILL UNMET — no confirmation from Aishengna or from SMIC/Hua Hong/CXMT of an
+  installed running tool at any node with any yield figure. HARD QUALIFIER now on
+  record: the tools support 28nm-class SINGLE-EXPOSURE patterning only, advanced nodes
+  need multi-patterning, some critical components still internationally sourced. ASML
+  fell up to 14% on the 07-27/28 report, then RAISED its own 2026 guidance to EUR36-40B
+  with DUV immersion shipments ~130 systems and an order book "largely filled through
+  2027" — the market repriced, the company did not. No export-control change tied
+  to this. NAMING: "Shanghai Yuliansheng"/"Yuliangsheng" is a PREDECESSOR team absorbed
+  into Aishengna (alongside SMEE), not a rival programme — do not double-count.'
 ---
 
 ## 2026-09-24 — Dutch prime minister says he has raised the MATCH Act with Trump and is confident of a deal on ASML's China sales
@@ -42,7 +42,7 @@ blurb: 'Whether China''s first mass-produced immersion DUV tool is real at manuf
 
 - ⚠️ **TechTimes corroborates yesterday's single-sourced report that CXMT and YMTC have stockpiled roughly three years of ASML DUV tools, and adds a new policy framing: since China's DUV pre-buy is largely complete, US leverage now rests on blocking maintenance and servicing of already-delivered tools, not on further new export bans.** Still hardware-trade-press-only — no primary customs or company data locates the underlying stockpile claim itself, so this stays reported rather than established, now with two sources rather than one. ([TechTimes](https://www.techtimes.com/articles/327083))
 
-## 2026-09-08 (added 2026-09-18) — TrendForce names Huawei as backer and puts a firmer figure on the 09-07 FT report — but the count conflicts with this thread's own Aishengna figures in a way the NAMING note already warned about
+## 2026-09-08 — TrendForce names Huawei as backer and puts a firmer figure on the 09-07 FT report — but the count conflicts with this thread's own Aishengna figures in a way the NAMING note already warned about
 
 - ⚠️ **TrendForce (09-08) fills in the 09-07 FT report this thread flagged as unlinked: Huawei — via its Habo venture arm and the Huawei-backed Shenzhen Yuanzhi Xinghuo fund — is the named backer, and the entity is Yuliangsheng, targeting 12 DUV machines by end-2026, with SMIC named as the tester (alongside Huawei's own production lines).** No yield, uptime or commercial delivery is claimed — the piece describes machines "being tested on less complex semiconductors as engineers continue to refine it," consistent with this thread's already-logged fact that SMIC has tested a Yuliangsheng scanner since September 2025. **The count itself is the new problem, not the backer:** this thread's own NAMING note states Yuliangsheng is a predecessor team *absorbed into* Shanghai Aishengna, not a rival programme — yet TrendForce's 12-unit-by-2026 Yuliangsheng figure runs well above Aishengna's own ~5-units-in-2026 figure already on this thread, attributed by TrendForce to separate FT vs. Reuters sourcing rather than a correction of either. Recorded as a genuine sourcing conflict, not resolved here: either the absorption is less complete than this thread's naming note assumed, or one of the two unit counts is wrong — DELIVERY (an installed, running, named-fab tool) still has not been confirmed by either account, so the thread's central falsification test remains unmet regardless of which count is right.
   ([TrendForce](https://www.trendforce.com/news/2026/09/08/news-huawei-reportedly-backs-chinas-duv-drive-with-12-systems-targeted-by-end-2026-smic-testing-underway/))
@@ -57,7 +57,7 @@ blurb: 'Whether China''s first mass-produced immersion DUV tool is real at manuf
 
 ## 2026-09-01 — UBS estimates China needs 2-5 years for immersion-DUV high-volume manufacturing, a decade-plus for any EUV alternative
 
-- ⚠️ **OUT OF WINDOW (2026-09-01, before this sweep's 2026-09-02 15:00 ET start) — flagged because it directly answers this thread's central open question and is not recorded anywhere on the map.** UBS analysts, cited by TrendForce and reported separately, estimate China will reach immersion-DUV high-volume manufacturing capability within **two to five years**, based on patent activity around light-source and laser subsystems they read as comparable to where ASML stood roughly 15 years before its own EUV mass-production ramp. On EUV specifically, UBS places China's program roughly where ASML was in 2004 and does not expect a viable EUV alternative to emerge **within this decade**. This is an analyst timeline forecast, not a delivery confirmation — it does not meet this thread's own "delivery, not production" test (no installed-and-running tool at a named fab is newly confirmed here) — but it is the first dated, sourced numeric range this map has seen for the gap this thread was opened to track. ([TheNextWeb](https://thenextweb.com/news/ubs-china-asml-euv-decade-immersion-duv-dutch-export-licence), [ChipBriefing](https://chipbriefing.substack.com/p/daily-china-euv-unlikely-this-decade))
+- UBS analysts, cited by TrendForce and reported separately, estimate China will reach immersion-DUV high-volume manufacturing capability within **two to five years**, based on patent activity around light-source and laser subsystems they read as comparable to where ASML stood roughly 15 years before its own EUV mass-production ramp. On EUV specifically, UBS places China's program roughly where ASML was in 2004 and does not expect a viable EUV alternative to emerge **within this decade**. This is an analyst timeline forecast, not a delivery confirmation — it does not meet this thread's own "delivery, not production" test (no installed-and-running tool at a named fab is newly confirmed here) — but it is the first dated, sourced numeric range this map has seen for the gap this thread was opened to track. ([TheNextWeb](https://thenextweb.com/news/ubs-china-asml-euv-decade-immersion-duv-dutch-export-licence), [ChipBriefing](https://chipbriefing.substack.com/p/daily-china-euv-unlikely-this-decade))
 
 ## 2026-08-29 — Goldman puts a number on the gap this thread exists to test, and names lithography as the reason it doesn't close faster
 
@@ -109,11 +109,10 @@ That test is still unmet, and the non-result is the finding.*
 - ⚠️ **Unconfirmed, not used:** a Digitimes claim of "$1B state backing"
   for Aishengna is paywalled with no independent corroboration.
 
-## 2026-07-29 — Split out on Ben's steer; Shanghai Aishengna named as the maker
+## 2026-07-29 — Split out; Shanghai Aishengna named as the maker
 
-- **Split out of [China's Stack](/threads/china-stack-independence/) on Ben's steer** — "Sure, add
-  it. its interesting. Probably a sub-thread of china-stack-independence."
-  The parent was promoted story → meta to take the pointer.
+- **Split out of [China's Stack](/threads/china-stack-independence/).** The parent was promoted story →
+  meta to take the pointer.
 - **Shanghai Aishengna was named as the maker** — founded August 2023,
   backed by Shanghai Electric Holding and Shanghai International Trust,
   staffed from SMEE and Yuliangsheng.

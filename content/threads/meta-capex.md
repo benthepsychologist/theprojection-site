@@ -13,18 +13,17 @@ blurb: 'The week''s reversal: Meta QUIT RE100 amid a 7.5GW gas buildout (07-23/2
   and SOLD 80% of Hyperion (5GW, $50B+) to Blue Owl — capex migrating off its balance
   sheet while El Paso ($10B/1GW) faces live local pushback and the BlackRock bond
   ran a soft-demand-then-upsized-to-$12.5B arc in one week. MTIA at "millions" of
-  H100-equivalents (600K figure is STALE), "Iris" to production Sept-26, Broadcom
-  extended thru 2029. Superintelligence framing softening ("more slowly than expected");
-  Moody''s credit warning 07-24. ✅ DISCREPANCY RESOLVED 2026-08-18 (cold rotation,
-  20 days late): the $76B TTM basis was WRONG and is retired. Meta''s own 07-29 filing
-  gives Q2 capex $31.08B and FY2026 guidance NARROWED to $130-145B (from $125-145B);
-  revenue $60.8B +28%, EPS $6.18 vs $7.17 est, shares -7-10% after hours. ADDENDUM
-  2026-08-18, larger than the guidance number: Meta carries a reported ~$420B of AI
-  obligations OFF the balance sheet against $83.7B of reported debt — future leases
-  incl. the $27.3B Beignet/Hyperion structure with Blue Owl, chip/equipment purchase
-  obligations, and the $35B CoreWeave commitment; five hyperscalers cited at ~$1.65T
-  combined. EY flagged Beignet as a critical audit matter Feb-2026. Read the guidance
-  as what Meta will SPEND, not what it has COMMITTED — track the gap.'
+  H100-equivalents, "Iris" to production Sept-26, Broadcom extended thru 2029. Superintelligence
+  framing softening ("more slowly than expected"); Moody''s credit warning 07-24.
+  The $76B TTM basis is retired. Meta''s own 07-29 filing gives Q2 capex $31.08B and
+  FY2026 guidance NARROWED to $130-145B (from $125-145B); revenue $60.8B +28%, EPS
+  $6.18 vs $7.17 est, shares -7-10% after hours. ADDENDUM 2026-08-18: Meta carries
+  a reported ~$420B of AI obligations OFF the balance sheet against $83.7B of reported
+  debt — future leases incl. the $27.3B Beignet/Hyperion structure with Blue Owl,
+  chip/equipment purchase obligations, and the $35B CoreWeave commitment; five hyperscalers
+  cited at ~$1.65T combined. EY flagged Beignet as a critical audit matter Feb-2026.
+  Read the guidance as what Meta will SPEND, not what it has COMMITTED — track the
+  gap.'
 ---
 
 ## 2026-10-22 — Meta raises the low end of its 2026 capex range and says it will issue a new non-voting share class

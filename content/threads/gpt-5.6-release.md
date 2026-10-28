@@ -15,9 +15,8 @@ blurb: Did GPT-5.6 ship, slip, or get gated? The June window reportedly slipped;
 
 ## 2026-07-22 — Resolved
 
-- **Ben resolved the thread** — shipped 07-09, access open; the live
-  remainder (institutionalized gating) moved to the new review-precedent
-  thread.
+- **Thread resolved** — shipped 07-09, access open; the live remainder
+  (institutionalized gating) moved to the new review-precedent thread.
 
 ## 2026-07-20 — Rollout completed
 
@@ -34,6 +33,4 @@ blurb: Did GPT-5.6 ship, slip, or get gated? The June window reportedly slipped;
 
 ## 2026-06-26 — Thread opened
 
-- **June window slipped; access-regime story emerged** — the slip was
-  missed by RSS-only collection; this thread existed to sweep the timing
-  signal.
+- **June window slipped; access-regime story emerged**.

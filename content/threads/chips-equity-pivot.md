@@ -10,10 +10,10 @@ entities:
 thread_kind: story
 blurb: 'Grants→stakes as policy: the state converting subsidy into ownership. Intel
   $8.9B stake CONFIRMED (9.9% at announce, 8.6% after the SoftBank/Nvidia dilution;
-  only 290.3M of 433.3M sh issued — crawl 07-28; the foundry poison-pill warrant);
-  TSMC/Micron equity conversions CONTESTED — direct source conflict, unresolved. Track:
-  which awards convert, the legal instrument used, and whether equity terms start
-  steering corporate behavior (links intel-rescue).'
+  only 290.3M of 433.3M sh issued as of 07-28; the foundry poison-pill warrant); TSMC/Micron
+  equity conversions CONTESTED — direct source conflict, unresolved. Track: which
+  awards convert, the legal instrument used, and whether equity terms start steering
+  corporate behavior (links intel-rescue).'
 ---
 
 ## 2026-10-01 — Trump says the government might take stakes in OpenAI and Anthropic as it did in Intel

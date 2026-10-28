@@ -10,14 +10,17 @@ entities:
 - elon-musk
 - xai
 thread_kind: story
-blurb: 'The Grok line closing the frontier gap as a FAST FOLLOWER, not mid-pack (crawl
-  2026-07-24 corrected our seed): Grok 4.5 (07-08) posted the biggest single-gen leap
-  on the AA Intelligence Index (38→54), 4th at launch, strong on coding (76, ties
-  GPT-5.5) and price ($2/$6, 500k context) — the real weakness is factuality (~54%
-  hallucination). Track Grok 5 (training on Colossus 2; ship date slipping Q1→Q3+
-  amid Musk hype), the $60B Cursor bet arming coding, and whether owning the mines
-  sustains a lead vs. OpenAI/Anthropic.'
+blurb: 'The Grok line closing the frontier gap as a FAST FOLLOWER, not mid-pack: Grok
+  4.5 (07-08) posted the biggest single-gen leap on the AA Intelligence Index (38→54),
+  4th at launch, strong on coding (76, ties GPT-5.5) and price ($2/$6, 500k context)
+  — the real weakness is factuality (~54% hallucination). Track Grok 5 (training on
+  Colossus 2; ship date slipping Q1→Q3+ amid Musk hype), the $60B Cursor bet arming
+  coding, and whether owning the mines sustains a lead vs. OpenAI/Anthropic.'
 ---
+
+## 2026-10-25 — Grok publishes the first seven minutes of its AI-generated "Odyssey" series
+
+- **TechCrunch reported that Grok published seven minutes of an AI-generated "Odyssey" series, which the company calls Episode 1, made with Grok Imagine in collaboration with Wonder Studios and director Dev Walker** TechCrunch says Musk had said three months earlier that Grok would release a full-length "historically accurate" film version of the Odyssey; the Grok Imagine account posted the episode on October 23. ([TechCrunch](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/)) Claims: kat-claim-341ce5d5488e
 
 ## 2026-10-13 — SpaceX Super Intelligence folds Grok into a single five-tier X subscription
 
@@ -45,7 +48,7 @@ blurb: 'The Grok line closing the frontier gap as a FAST FOLLOWER, not mid-pack 
 
 ## 2026-09-22 — Grok Bot reported at 418,000 weekly users, a month after launch
 
-- 🕰 **SpaceXAI's enterprise Grok Bot agent reached 418,000 weekly users as of September 14, up 24% week-over-week, per a company presentation shown at a London event and reviewed by Bloomberg.** Bloomberg Intelligence separately put total Muse installs at about four times Grok Bot's. SpaceXAI did not respond to requests for comment. ([Briefs.co, citing Bloomberg](https://www.briefs.co/news/grok-bot-crosses-418-000-weekly-users-a-month-after-launch-a/), [TipRanks](https://www.tipranks.com/news/spacex-stock-socx-rises-as-grok-bot-hits-418000-weekly-users))
+- **SpaceXAI's enterprise Grok Bot agent reached 418,000 weekly users as of September 14, up 24% week-over-week, per a company presentation shown at a London event and reviewed by Bloomberg.** Bloomberg Intelligence separately put total Muse installs at about four times Grok Bot's. SpaceXAI did not respond to requests for comment. ([Briefs.co, citing Bloomberg](https://www.briefs.co/news/grok-bot-crosses-418-000-weekly-users-a-month-after-launch-a/), [TipRanks](https://www.tipranks.com/news/spacex-stock-socx-rises-as-grok-bot-hits-418000-weekly-users))
 
 ## 2026-09-21 — Grok 4.7 ships, ending three slips since July
 
@@ -170,7 +173,7 @@ blurb: 'The Grok line closing the frontier gap as a FAST FOLLOWER, not mid-pack 
 
 ## 2026-07-24 — Opened + crawled
 
-- **Thread opened** (ben-steer).
+- **Thread opened**.
 - **Verdict: Grok is genuinely closing the gap, not mid-pack — but as a
   fast follower, not the leader.** Grok 4.5 posted the biggest
   single-generation leap on the Artificial Analysis Intelligence Index

@@ -86,12 +86,9 @@ blurb: 'Demis Hassabis is stepping down as DeepMind CEO to become chairman and A
   outlet has yet drawn a direct causal line from that gap to the timing of
   this transition. Worth watching as context, not yet a confirmed driver.
 
-## 2026-08-05 — Opened (ben-steer), promoted the same day it was offered
+## 2026-08-05 — Opened
 
-- **Promoted from a same-day thread candidate.** Offered by the tier-2
-  AI/governance research sweep — "a leadership reset at a top-3 frontier
-  lab with no thread to hang it on" — and promoted by Ben the same
-  session: "track the DeepMind thread."
+- **Thread opened** — a leadership reset at a top-3 frontier lab.
 - **Hassabis steps down as DeepMind CEO; Jeff Dean leaves Google after 27
   years.** Demis Hassabis becomes DeepMind chairman and Alphabet's Chief
   Scientist; Koray Kavukcuoglu is promoted to SVP of DeepMind, reporting

@@ -48,7 +48,7 @@ blurb: 'The French national champion running two tracks at once: a fast, broaden
 
 - **Mistral closed a Samsung-led round of about €3 billion at a roughly €21 billion valuation, with Nvidia and BlackRock participating, confirmed on Mistral's own site at 01:03 ET on 09-08.** Roughly a doubling of the prior ~€12bn mark and the largest European AI raise to date — the round this thread's own watch line has carried as "pending... in talks since mid-June, still not closed" since it opened is now closed. This resolves a flag the map carried unresolved across three consecutive digests, where search results kept substituting the confirmed September-**2025** €1.7bn round for the pending one. ([Mistral](https://mistral.ai/news/), [CNBC](https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html))
 
-## 2026-08-20 — Critic catch: Agentic Search triples document-QA accuracy while cutting tokens
+## 2026-08-20 — Agentic Search triples document-QA accuracy while cutting tokens
 
 - **Mistral shipped Agentic Search, a retrieval layer that gives a model
   five tool-like actions — search, open, navigate, read, grep — so it
@@ -64,7 +64,7 @@ blurb: 'The French national champion running two tracks at once: a fast, broaden
 
 ## 2026-08-04 — Opened + crawled
 
-- **Thread opened** (ben-steer, crawl) — filling a confirmed coverage gap:
+- **Thread opened** — filling a confirmed coverage gap:
   the board's own actor-doing.yaml entry flagged Mistral as "barely
   tracked... a coverage gap flagged for the next collection pass, not a
   quiet actor."

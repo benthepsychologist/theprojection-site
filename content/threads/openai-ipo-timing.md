@@ -115,5 +115,4 @@ blurb: Reported slip to 2027 chasing a ~$1T valuation; Altman rejecting a lower 
 
 ## 2026-06-27 — Thread opened
 
-- **Coverage-critic gap** — The Neuron/CNBC carried the delay; we had no
-  capital-markets signal.
+- **The IPO delay** — carried by The Neuron and CNBC.

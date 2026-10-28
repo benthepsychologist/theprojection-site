@@ -14,12 +14,12 @@ blurb: 'The empire''s concentration play, assembled from pieces other threads ca
   one Nvidia may guarantee $250-500B against), Arm''s 87.1% pledged as loan collateral
   ($5B sought + a $20B margin loan with an unresolved Dec-25 deadline), the $2B Intel
   stake, a renewed $10B OpenAI-collateral loan. Everything Son owns now collateralizes
-  everything else. A fourth front, found by the 2026-08-04 crawl: SoftBank is SELF-FUNDING
-  the bet by selling down other holdings (its entire $5.83B Nvidia stake, $9.17B of
-  T-Mobile), while Vision Fund''s ~$46B FY2025 gain is confirmed to trace almost entirely
-  to the OpenAI markup — a concentrated bet wearing a diversified-fund wrapper, not
-  a real hedge — against Coupang/DiDi/ Klarna/ByteDance losses in the same period.
-  A new lever entirely: a $5.375B ABB Robotics acquisition feeding a planned ~$100B
+  everything else. A fourth front, as of 2026-08-04: SoftBank is SELF-FUNDING the
+  bet by selling down other holdings (its entire $5.83B Nvidia stake, $9.17B of T-Mobile),
+  while Vision Fund''s ~$46B FY2025 gain is confirmed to trace almost entirely to
+  the OpenAI markup — a concentrated bet wearing a diversified-fund wrapper, not a
+  real hedge — against Coupang/DiDi/ Klarna/ByteDance losses in the same period. A
+  new lever entirely: a $5.375B ABB Robotics acquisition feeding a planned ~$100B
   "Roze" physical-AI/data-center-robotics IPO targeted H2 2026. CreditSights sizes
   a $32B two-year funding gap; rating agencies diverge (Moody''s stable Sep-25, S&P
   negative Mar-26 over buybacks-while-borrowing); stock down ~50% since June on a
@@ -69,7 +69,7 @@ blurb: 'The empire''s concentration play, assembled from pieces other threads ca
 
 ## 2026-09-17 — The dollar-bond roadshow's own scheduled window closes with still no pricing found — and a second SoftBank financing story breaks the same day
 
-- **SoftBank's $10-20bn dollar-bond roadshow (Citigroup, New York) was scheduled to run 09-14 to 09-17 — today is its own last day — and as of this afternoon's check, no outlet (Bloomberg, Reuters-relay coverage, or SoftBank's own IR bond page, which lists nothing dated September 2026) has reported a coupon, size or launch.** This thread's 09-09/09-10 entries already established the roadshow as the funding mechanism for the $25.9bn bridge-loan payoff (itself completed 09-15 using cash already on hand plus prior bond proceeds, per those entries) — so a delayed dollar-bond pricing doesn't reopen the bridge-loan question, but it does leave the specific instrument this thread has been tracking since 09-10 still unpriced past its own reported timeline. Re-check at finalize; a same-week pricing after the roadshow's formal close would not be unusual for a deal this size.
+- **SoftBank's $10-20bn dollar-bond roadshow (Citigroup, New York) was scheduled to run 09-14 to 09-17 — today is its own last day — and as of this afternoon's check, no outlet (Bloomberg, Reuters-relay coverage, or SoftBank's own IR bond page, which lists nothing dated September 2026) has reported a coupon, size or launch.** This thread's 09-09/09-10 entries already established the roadshow as the funding mechanism for the $25.9bn bridge-loan payoff (itself completed 09-15 using cash already on hand plus prior bond proceeds, per those entries) — so a delayed dollar-bond pricing doesn't reopen the bridge-loan question, but it does leave the specific instrument this thread has been tracking since 09-10 still unpriced past its own reported timeline. A same-week pricing after the roadshow's formal close would not be unusual for a deal this size.
 - **FINALIZE UPDATE: the roadshow's full scheduled window closed with zero pricing found anywhere, including a direct check of SoftBank's own IR bond page (via python3 urllib), which lists nothing dated later than the 09-04 retail-bond terms release. Resolves upcoming.yaml's softbank-openai-bridge-bond-pricing-0917 as passed-silent** — "due today" was Reuters' own reported timeline (09-10), and the date passed with the roadshow's own window closed and no evidence either way.
 - **A second, separate SoftBank financing story broke the same day: Bloomberg reported Apollo Global Management is negotiating to nearly double its net-asset-value (NAV) loan against SoftBank's Vision Fund 2 assets, from $5.4bn to $9bn, to keep funding SoftBank's $64.6bn OpenAI commitment.** Apollo first provided this loan in 2021 and already expanded it once, to $5.4bn, within the past year; the size of any further increase is not finalized and the talks may not result in a revised agreement. A NAV loan is financing raised against a fund's underlying portfolio value rather than a single stake — a third simultaneous SoftBank financing lever active this same week, alongside the bond roadshow above. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-17/apollo-mulls-raising-softbank-loan-to-9-billion-for-openai-bets), [Japan Times](https://www.japantimes.co.jp/business/2026/09/17/softbank-loan-apollo/))
 
@@ -83,14 +83,14 @@ blurb: 'The empire''s concentration play, assembled from pieces other threads ca
 
 ## 2026-09-07 — SoftBank's Tokyo shares jump 11.2% in a single session, its biggest one-day move since July's limit-up
 
-- **SoftBank's Tokyo-listed shares (9984.T) rose 11.2% in a single session, from Friday's ¥5,590 close to Monday's ¥6,217 close, on returning AI risk appetite across Asia — its largest one-day move since July's limit-up.** Verified directly against the settlement series rather than taken from a headline. Asia traded a full session on 09-07 while US markets were shut for Labor Day, so this was the largest single move on any thread this map tracks that day, and it landed on a lens whose own sweep had reported the day as effectively closed. **This entry is itself a late catch**: the 09-07 global-capital digest had disclosed nineteen threads — this one among them — as unchecked when its sweep hit a hard stop mid-session, and the coverage critic's name-search pass is what found the move afterward, not the original sweep.
+- **SoftBank's Tokyo-listed shares (9984.T) rose 11.2% in a single session, from Friday's ¥5,590 close to Monday's ¥6,217 close, on returning AI risk appetite across Asia — its largest one-day move since July's limit-up.** Verified directly against the settlement series rather than taken from a headline. Asia traded a full session on 09-07 while US markets were shut for Labor Day, so this was the largest single move on any thread this map tracks that day.
 
 ## 2026-09-04 — SoftBank's record ¥1tn retail bond priced at 4.75%, the top of its guided range
 
 - **SoftBank Group priced its record ¥1 trillion ($6.3bn) 7-year retail bond at a 4.75% coupon, landing at the top of the 4.3-4.9% indicative range disclosed 08-24 rather than in the middle or bottom of it.** That coupon is more than double the 2.3% year-to-date average for comparable yen retail corporate bonds — a direct price on the credit risk investors now attach to SoftBank's AI-concentration bet, and the top-of-range landing reads as the market demanding real compensation rather than SoftBank's brand pricing power carrying the deal. Context: yen retail-bond issuance overall has hit ¥2.88tn year-to-date, already a record for any full year, and a Nomura credit analyst framed the size and yield as likely to "draw new individual investors into the market" — this deal isn't happening in isolation, it's riding a broader retail-bond wave in Japan.
   ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-04/softbank-group-prices-1-trillion-retail-bond-at-4-75), corroborated: [Briefs.co](https://www.briefs.co/news/softbank-prices-1-trillion-seven-year-retail-bond-at-4-75/))
 
-## 2026-08-27 (late catch, added 2026-08-29) — The concentration bet generalizes: SoftBank moves on an OpenAI-backed robotics startup too
+## 2026-08-27 — The concentration bet generalizes: SoftBank moves on an OpenAI-backed robotics startup too
 
 - **SoftBank is negotiating to buy majority/controlling ownership of 1X, an OpenAI-backed humanoid-robotics startup, in a deal reported around a $6 billion valuation — first reported by The Information (08-27), with Reuters, Axios and Nikkei Asia carrying it through 08-29.** **This is a new axis of concentration for this thread**, arriving the same week SoftBank is stacking a second $10bn loan against its OpenAI stake (below): Son extending SoftBank's AI-adjacent bet-sizing into a second OpenAI-linked company, rather than just deeper into OpenAI itself — one source frames it as Son's "grand return to the humanoid robot sector." ⚠️ Coverage headlines a "$6 billion discount" but does not consistently establish what prior valuation that discount is measured against; treat $6bn as the reported deal valuation, not a confirmed markdown amount. Single-original-source (The Information), not a filing or company statement.
   ([Reuters, via pickups](https://www.reuters.com/))
@@ -115,7 +115,7 @@ blurb: 'The empire''s concentration play, assembled from pieces other threads ca
   ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-26/softbank-mulls-up-to-20-billion-bond-sale-for-openai-financing),
   [SoftBank IR, outstanding bonds](https://group.softbank/en/ir/stock/bond))
 
-## 2026-08-24 (late catch, added 2026-08-25) — The record bond gets its terms, and a reason it had to be retail
+## 2026-08-24 — The record bond gets its terms, and a reason it had to be retail
 
 - **The ¥1 trillion ($6.3bn) retail bond filed on 08-23 now has a
   schedule and a price: 7-year paper, an indicative coupon of 4.3–4.9%,
@@ -240,14 +240,7 @@ blurb: 'The empire''s concentration play, assembled from pieces other threads ca
   "dead cross" formed 2026-07-28 ahead of the 2.6% Arm-sympathy drop
   already on this thread's 07-30/08-01 entries.
   ([Investing.com](https://www.investing.com/news/stock-market-news/softbank-q1-earnings-preview-low-bar-arm-risk-and-the-beatanddrop-pattern-93CH-4832632))
-- **Confirmed: the 08-06 Group print has not happened yet** as of
-  2026-08-04 (3-day GDELT sweep found no contradicting report); the
-  SoftBank Corp/SoftBank Group entity-guard trap this thread flagged
-  08-03 is still live in the wires today. Arm ownership, primary-sourced:
-  **Arm's own SEC 6-K filing puts SoftBank's beneficial stake at ~86.4%
-  as of 2026-05-21** — close to, but below, the 87.1% currently on the
-  board.
-  ([SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001973239/000197323926000114/arm-20260630.htm))
+- **Confirmed: the 08-06 Group print has not happened yet** as of 2026-08-04 (a 3-day GDELT search found no contradicting report); the SoftBank Corp/SoftBank Group entity-guard trap this thread flagged 08-03 is still live in the wires today. Arm ownership, primary-sourced: **Arm's own SEC 6-K filing puts SoftBank's beneficial stake at ~86.4% as of 2026-05-21** — close to, but below, the 87.1% currently on the board. ([SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001973239/000197323926000114/arm-20260630.htm))
 - **Son's own framing treats the concentration as deliberate, not
   incidental**: the strategy is branded internally as "Izanagi" (single-
   source, unconfirmed) and at a shareholder meeting Son said "SoftBank's

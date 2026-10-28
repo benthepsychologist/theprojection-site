@@ -11,14 +11,18 @@ entities:
 - tesla
 parent: frontier-lab-ipos
 thread_kind: story
-blurb: 'SpaceX (Nasdaq: SPCX) — the public parent holding xAI + X (crawl 2026-07-24
-  corrected the framing: "SpaceXAI" is only the AI subsidiary). IPO''d 06-12 at $135/~$1.75T
-  (record ~$75B raised), peaked ~$2.6T 06-16, now ~$1.56T (07-23, BELOW the IPO price).
-  The cash engine is Starlink (~$4.4B FY25 op income), funding Starship R&D + xAI''s
-  Colossus burn ($7.7B capex in Q1-26 alone) — the IPO is the AI financing bridge.
-  Watch: the Aug-6 lock-up (911.5M shares); Musk''s ~82% voting control; whether the
-  Anthropic lease-back is real revenue or circular financing. Q7 material.'
+blurb: 'SpaceX (Nasdaq: SPCX) — the public parent holding xAI + X ("SpaceXAI" is only
+  the AI subsidiary). IPO''d 06-12 at $135/~$1.75T (record ~$75B raised), peaked ~$2.6T
+  06-16, now ~$1.56T (07-23, BELOW the IPO price). The cash engine is Starlink (~$4.4B
+  FY25 op income), funding Starship R&D + xAI''s Colossus burn ($7.7B capex in Q1-26
+  alone) — the IPO is the AI financing bridge. Watch: the Aug-6 lock-up (911.5M shares);
+  Musk''s ~82% voting control; whether the Anthropic lease-back is real revenue or
+  circular financing. Q7 material.'
 ---
+
+## 2026-10-26 — SpaceX discloses a binding commitment for roughly $40 billion of GPU lease financing from an Apollo-managed entity
+
+- **TechCrunch reported, citing a SpaceX regulatory filing, that SpaceX has a binding commitment for roughly $40 billion of financing for AI chips and related data center equipment** — An entity managed by Apollo Global Management will buy the chips and server hardware and lease them to SpaceX for about five to five and a quarter years from each delivery; SpaceX expects the deal to close by year-end, with leases starting in the first half of 2027. TechCrunch does not say whether this is the debt package InvestorPlace reported on 2026-10-15 as in talks (kat-claim-16d6a9ef3813). ([TechCrunch](https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/)) Claims: kat-claim-3992d5ceeb91
 
 ## 2026-10-23 — The Verge reports SpaceX and Tesla have formed special committees to discuss a merger; puts SpaceX's AI-infrastructure revenue line at $7 billion
 
@@ -58,7 +62,7 @@ blurb: 'SpaceX (Nasdaq: SPCX) — the public parent holding xAI + X (crawl 2026-
 
 ## 2026-09-01 — SpaceX shakes up AI data-center leadership after reliability failures at Tennessee/Mississippi sites
 
-- ⚠️ **OUT OF WINDOW (first reported 2026-09-01 by The Information, syndicated 09-01/09-02) — flagged because it is not recorded on this thread and materially bears on the Colossus/xAI buildout the thread tracks.** SpaceX reportedly overhauled leadership of its SpaceXAI data-center unit after facilities on the Tennessee-Mississippi border (the Colossus and "Macrohard" clusters, spanning Memphis and Southaven) ran for months without backup cooling or power, pulling uptime below the company's internal 99.9% target and interrupting AI-model training. Physical-infrastructure lead Jake Palmer left in late July along with data-center leaders Zach Wells and Pablo Mendoza (plus reported departures to OpenAI and Anthropic); Starlink engineering veteran Michael Nicolls, installed as SpaceXAI president in April, now has "ultimate oversight" of the turnaround, with rocket-production and Starbase executives (Wesley Salandro, Logan McConnell) reassigned in. Some coverage ties the timing to a September 30 capacity deadline under Google's compute deal, though I could not independently verify that specific linkage beyond the one outlet reporting it. ([BigGo Finance](https://finance.biggo.com/news/598184df-1a3e-4b4f-81e0-0f0a0d9f4bab), [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/spcx-stock-focus-spacex-reportedly-172343782.html))
+- SpaceX reportedly overhauled leadership of its SpaceXAI data-center unit after facilities on the Tennessee-Mississippi border (the Colossus and "Macrohard" clusters, spanning Memphis and Southaven) ran for months without backup cooling or power, pulling uptime below the company's internal 99.9% target and interrupting AI-model training. Physical-infrastructure lead Jake Palmer left in late July along with data-center leaders Zach Wells and Pablo Mendoza (plus reported departures to OpenAI and Anthropic); Starlink engineering veteran Michael Nicolls, installed as SpaceXAI president in April, now has "ultimate oversight" of the turnaround, with rocket-production and Starbase executives (Wesley Salandro, Logan McConnell) reassigned in. Some coverage ties the timing to a September 30 capacity deadline under Google's compute deal, though I could not independently verify that specific linkage beyond the one outlet reporting it. ([BigGo Finance](https://finance.biggo.com/news/598184df-1a3e-4b4f-81e0-0f0a0d9f4bab), [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/spcx-stock-focus-spacex-reportedly-172343782.html))
 
 ## 2026-08-25 — SpaceX commits $100B to a new Louisiana "Starbase" spaceport, testing the capex-vs-cash-flow question directly
 
@@ -225,15 +229,13 @@ blurb: 'SpaceX (Nasdaq: SPCX) — the public parent holding xAI + X (crawl 2026-
   post-IPO peak, ~$600B erased over six weeks; HSBC initiated at $115
   (Friday closed $115.07 vs the $135 issue = −14.8%); Morgan Stanley:
   ~$100–115 prices the AI/Starlink optionality at zero.
-- **⚠ Correction:** the 07-25/26 weekly sweep misreported SpaceX as
-  "pricing its IPO 07-24." Verified against primary source
-  (): **priced 2026-06-11 at $135/sh ($1.77T, $75B
-  raised — largest-ever IPO), trading since 2026-06-12 as Nasdaq:SPCX.**
-  Last week's real story was the below-issue slide, not a listing.
+- **SpaceX priced 2026-06-11 at $135/sh ($1.77T, $75B raised — largest-ever
+  IPO), trading since 2026-06-12 as Nasdaq:SPCX.** The recent story is the
+  below-issue slide, not a listing.
 
 ## 2026-07-24 — Opened + crawled
 
-- **Thread opened** (ben-steer).
+- **Thread opened**.
 - **Verdict: the entity is real, events check out (SEC EDGAR), but the
   framing needed three corrections** (below): the public entity is
   **SpaceX (SPCX)**, not "SpaceXAI" (that's just the AI subsidiary); the

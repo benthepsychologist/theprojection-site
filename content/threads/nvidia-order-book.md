@@ -123,7 +123,7 @@ blurb: The demand side of the chip spend — a ~$1T Blackwell+Rubin book (a mana
   ([OpenAI](https://openai.com/index/jalapeno-first-results/),
   [TechCrunch](https://www.techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/))
 
-## 2026-08-24 (late catch, added 2026-08-26) — SpaceXAI adopts Nvidia's Vera CPU and the NVL72 rack, including for orbit
+## 2026-08-24 — SpaceXAI adopts Nvidia's Vera CPU and the NVL72 rack, including for orbit
 
 - **Nvidia announced that SpaceXAI is adopting the Vera Rubin NVL72 rack
   architecture — Vera CPUs plus Rubin GPUs — for gigawatt-scale
@@ -189,7 +189,7 @@ blurb: The demand side of the chip spend — a ~$1T Blackwell+Rubin book (a mana
 
 ## 2026-07-24 — Opened + crawled
 
-- **Thread opened** (ben-steer).
+- **Thread opened**.
 - **Verdict: the strongest demand book ever reported — ~$1T in Blackwell+
   Rubin orders through 2027 — but it's Huang's own aggregate figure, not an
   audited backlog, and the flashiest pillar (the $100B OpenAI deal)

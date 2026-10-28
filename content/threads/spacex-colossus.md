@@ -18,6 +18,10 @@ blurb: SpaceXAI's self-owned training compute (Colossus, Memphis) — the "owns 
   the "who controls the stack" thesis (radar Q1).
 ---
 
+## 2026-10-26 — Anthropic's S-1 lists about $3.1 billion a month to SpaceX for Nvidia GPU capacity
+
+- **The Verge reported that Anthropic's S-1 details compute commitments of roughly $3.1 billion a month to SpaceX for access to Nvidia GPUs once all planned capacity is delivered, totaling as much as $120.5 billion by 2029** — The Verge's passage does not say which SpaceX sites supply the capacity. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details)) Claims: kat-claim-669396c6a6b9
+
 ## 2026-09-25 — Justice Department asks to pause the NAACP's Clean Air Act suit over SpaceXAI's Southaven turbines
 
 - **The Justice Department asked a federal judge Friday to pause the NAACP's Clean Air Act suit against SpaceXAI over its unpermitted gas turbines in Southaven, Mississippi, while its appeal of the judge's refusal to let it intervene is decided** The department moved in June to intervene for the EPA and have the suit dismissed, arguing SpaceXAI's importance to national security; the judge did not allow it, and the department appealed to the Fifth Circuit on September 18. ([Action News 5](https://www.actionnews5.com/2026/09/25/doj-asks-judge-pause-spacexai-suit-appeal-be-determined/))
@@ -34,9 +38,9 @@ blurb: SpaceXAI's self-owned training compute (Colossus, Memphis) — the "owns 
 
 - **A Westwood/Boxtown community meeting on the xAI Community Benefits Fund broke up early amid shouting after residents demanded to know why $3.2m in xAI property-tax revenue earmarked for the 38109 ZIP code — Boxtown, Westwood and Whitehaven, the neighborhoods closest to Colossus — still hasn't reached them.** The fund is real money tied directly to Colossus's own tax bill: 25% of FY26 property-tax revenue from the facility, created by a Memphis City Council ordinance, with roughly $1.4m planned for home-repair/weatherization forgivable loans and $500k for a paid cleanup workforce. This is the first instance on this thread of the host-community relationship souring over money already committed rather than over turbines, permits or power — a different kind of friction than the gas-plant fight this thread has tracked since August. ([Fox13 Memphis](https://www.fox13memphis.com/news/xai-millions-stalled-chaotic-meeting-ends-early-as-westwood-boxtown-residents-demand-answers/article_5e0d9504-da47-42df-96d0-0c106590a0f1.html))
 
-## 2026-08-24 — xAI tells a Mississippi court that cutting its gas-plant power would make Grok "largely cease to function" (caught late)
+## 2026-08-24 — xAI tells a Mississippi court that cutting its gas-plant power would make Grok "largely cease to function"
 
-- **A hearing scheduled for 2026-08-24 to decide whether to shut down xAI's unpermitted Southaven, Mississippi gas turbines was postponed, but xAI's own court filing opposing the shutdown states an abrupt power loss "would inflict catastrophic harms on Defendants and hundreds of millions of users worldwide: Grok would largely cease to function, and other cutting-edge AI services would be significantly disrupted."** The underlying suit is the NAACP/Southern Environmental Law Center injunction (amended after discovery found ~30 more turbines than initially disclosed at the site). This is the sharpest primary-source statement yet, in xAI's own words, on how tightly Grok's availability is coupled to the power/permit fight this thread exists to track — a direct answer to whether "owning the mines" is actually load-bearing or a liability. ⚠️ Hearing date postponed; no new date confirmed in this sweep. ([Yahoo News](https://www.yahoo.com/news/us/articles/spacexai-hearing-decide-future-southaven-100436668.html), [AOL](https://www.aol.com/articles/spacexai-hearing-decide-future-southaven-100436000.html))
+- **A hearing scheduled for 2026-08-24 to decide whether to shut down xAI's unpermitted Southaven, Mississippi gas turbines was postponed, but xAI's own court filing opposing the shutdown states an abrupt power loss "would inflict catastrophic harms on Defendants and hundreds of millions of users worldwide: Grok would largely cease to function, and other cutting-edge AI services would be significantly disrupted."** The underlying suit is the NAACP/Southern Environmental Law Center injunction (amended after discovery found ~30 more turbines than initially disclosed at the site). This is the sharpest primary-source statement yet, in xAI's own words, on how tightly Grok's availability is coupled to the power/permit fight this thread exists to track — a direct answer to whether "owning the mines" is actually load-bearing or a liability. ⚠️ Hearing date postponed; no new date confirmed. ([Yahoo News](https://www.yahoo.com/news/us/articles/spacexai-hearing-decide-future-southaven-100436668.html), [AOL](https://www.aol.com/articles/spacexai-hearing-decide-future-southaven-100436000.html))
 
 ## 2026-08-18 — Memphis council takes a first vote to freeze new data-center permits, xAI's existing sites exempted
 
@@ -61,7 +65,7 @@ blurb: SpaceXAI's self-owned training compute (Colossus, Memphis) — the "owns 
 
 ## 2026-07-24 — Opened + crawled
 
-- **Thread opened** (ben-steer) — answering the SpaceXAI Q1 gap the board's
+- **Thread opened** — answering the SpaceXAI Q1 gap the board's
   dormant posture exposed.
 - **The "owns its mines" thesis holds and then some.** Compute ownership is
   real, frontier-relevant (Grok 4 was trained on Colossus), and now so large

@@ -9,7 +9,7 @@ entities:
 - intel
 thread_kind: story
 blurb: 'The subsidized-builder paradox, filing-pinned: $10.9B outside equity (US $8.9B/9.9%-at-announce,
-  8.6% now — crawl 07-28; the real mechanism is a 240.5M-share WARRANT that triggers
+  8.6% now as of 07-28; the real mechanism is a 240.5M-share WARRANT that triggers
   only if foundry ownership drops below 51%, a breakup poison pill; Nvidia $5B + real
   x86/NVLink co-design; SoftBank $2B, now pinned) taken in the SAME six-week window
   as 24k layoffs and the DE/PL fab kills. Thrust ≈ 0 stands. Turnaround thesis = 18A/14A:
@@ -63,15 +63,7 @@ blurb: 'The subsidized-builder paradox, filing-pinned: $10.9B outside equity (US
   change behavior" watch: so far, no — it's accumulating with no visible
   governance layer.
   ([Fortune](https://fortune.com/2026/07/26/the-u-s-government-invested-27-billion-in-corporate-stakes-good-luck-finding-them/))
-- **⚠ Contradiction, unresolved — three figures, one stake:** Trump says
-  the position "made about $70 billion in eight or nine months"; a
-  separate Yahoo Finance/Treasury-sourced figure puts unrealized gains at
-  "roughly $47.6 billion" (implying ~$56.5B current value); Fortune/
-  TheNextWeb/Biggo separately size the whole position at $36-42B. None of
-  the three reconcile with each other on the same $8.9B cost basis.
-  Flagging, not resolving — worth a dedicated crawl if Ben wants the real
-  number.
-  ([Yahoo Finance](https://finance.yahoo.com/economy/policy/articles/trump-says-government-intel-stake-143115077.html))
+- **⚠ Contradiction, unresolved — three figures, one stake:** Trump says the position "made about $70 billion in eight or nine months"; a separate Yahoo Finance/Treasury-sourced figure puts unrealized gains at "roughly $47.6 billion" (implying ~$56.5B current value); Fortune/TheNextWeb/Biggo separately size the whole position at $36-42B. None of the three reconcile with each other on the same $8.9B cost basis. Unresolved: the real number is not established. ([Yahoo Finance](https://finance.yahoo.com/economy/policy/articles/trump-says-government-intel-stake-143115077.html))
 
 ## 2026-07-23 — Q2 2026: the best quarter in ~15 years
 

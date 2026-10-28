@@ -51,7 +51,7 @@ blurb: 'Nvidia''s turn from chip vendor to the buildout''s lender of last resort
 
 ## 2026-09-22 — Nvidia's SB Energy commitment formally executes at a 90%-of-IPO-price discount, via a Monday SEC filing, while the IPO's roadshow waits on SEC review
 
-- **Nvidia filed to buy an additional $1.5 billion of SB Energy Class N non-voting shares on Monday 09-21, at a price equal to 90% of whatever SB Energy's IPO ultimately prices at — the execution step for the $3.0bn total commitment (Prepaid Forward Contract + Share Purchase Agreement) this thread has already carried since the S-1 disclosure on 09-01/09-02.** The genuinely new fact is the discount mechanism (90% of IPO price) and the filing date, both absent from this thread's existing record — not a new dollar figure. Multiple outlets (Bloomberg's own headline, corroborated by secondary summaries) describe it as "additional," which is imprecise: it is the same $3.0bn already logged, now moving from disclosed-in-S-1 to filed-and-priced against an IPO that has no roadshow date yet. SB Energy has also separately been seeking up to $500M from Japanese retail investors (Bloomberg, reported 09-15 — out of this window, not new) and is still targeting a ~$50B valuation / $5-7B raise, unpriced as of this writing. ([Bloomberg, via corroborating secondary reporting](https://www.bloomberg.com/news/articles/2026-09-21/nvidia-buying-an-additional-1-5-billion-in-sb-energy-shares-ahead-of-ipo), [Cryptonomist](https://en.cryptonomist.ch/2026/09/21/nvidia-sb-energy-investment/))
+- **Nvidia filed to buy an additional $1.5 billion of SB Energy Class N non-voting shares on Monday 09-21, at a price equal to 90% of whatever SB Energy's IPO ultimately prices at — the execution step for the $3.0bn total commitment (Prepaid Forward Contract + Share Purchase Agreement) this thread has already carried since the S-1 disclosure on 09-01/09-02.** The genuinely new fact is the discount mechanism (90% of IPO price) and the filing date, both absent from this thread's existing record — not a new dollar figure. Multiple outlets (Bloomberg's own headline, corroborated by secondary summaries) describe it as "additional," which is imprecise: it is the same $3.0bn already logged, now moving from disclosed-in-S-1 to filed-and-priced against an IPO that has no roadshow date yet. SB Energy has also separately been seeking up to $500M from Japanese retail investors (Bloomberg, reported 09-15 — not new) and is still targeting a ~$50B valuation / $5-7B raise, unpriced as of this writing. ([Bloomberg, via corroborating secondary reporting](https://www.bloomberg.com/news/articles/2026-09-21/nvidia-buying-an-additional-1-5-billion-in-sb-energy-shares-ahead-of-ipo), [Cryptonomist](https://en.cryptonomist.ch/2026/09/21/nvidia-sb-energy-investment/))
 - **Firmus Technologies, the Nvidia-backed Australian AI data-center builder, is in talks with lenders for about $10 billion of financing to buy Nvidia chips for its Batam, Indonesia campus, Bloomberg reported: roughly $7.5bn of senior and mezzanine debt plus about $2.5bn of equity, possibly over five years.** No lenders are named and nothing is signed. Nvidia is an existing investor (it backed a $330M raise in September 2025 and joined a $505M round in April) and the chip supplier, so the package is another loop in which Nvidia's equity stake, its chips and the customer's borrowing sit together. ([The Edge Singapore, citing Bloomberg](https://www.theedgesingapore.com/news/ipo/nvidia-backed-ai-startup-seeks-us10-billion-australian-ipo), [Billionaires.Africa](https://www.billionaires.africa/2026/09/23/australian-billionaire-oliver-curtis-seeks-10-billion-for-nvidia-chips-before-firmuss-asx-float/))
 - **Firmus plans to launch a roughly A$7 billion (US$5bn) ASX IPO on 10-06, targeting an 10-22 debut, according to a term sheet seen by Reuters.** Institutional bookbuilding runs 10-06 to 10-07, the prospectus is due 10-08 and retail subscriptions run 10-12 to 10-19; an upsize option lifts proceeds to about US$5.5bn, and earlier reporting put the target valuation near A$50bn, which would make it Australia's second-largest float after Telstra's 1997 sale. Startup Daily notes Firmus is still largely a build-out plan without an operating track record. ([Startup Daily, citing Reuters](https://www.startupdaily.net/topic/asx/ai-data-centre-startup-firmus-gears-up-to-raise-7-billion-for-an-asx-ipo-next-month/))
 - **SoftBank-backed data-center developer SB Energy is holding its IPO roadshow until US regulators finish reviewing its filing, after amending its S-1 on Monday partly to put Nvidia's total $3 billion investment on the cover page at the SEC's request.** SB Energy had originally planned to list this month; a source told Reuters it has postponed the roadshow, and Nvidia's purchase of shares at 90% of the eventual IPO price, which this thread records as executed, is priced off an offering with no roadshow date yet. Nuclear-services company Holtec suspended its own IPO last week, and Axios reported insurer Bamboo also postponed a listing that had been expected to price this week. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-22/sb-energy-plans-to-start-ipo-marketing-after-sec-review-finished), [Reuters](https://www.reuters.com/business/finance/financial-stocks-fall-with-ai-flattening-yield-curve-focus-2026-09-22/))
@@ -78,8 +78,7 @@ blurb: 'Nvidia''s turn from chip vendor to the buildout''s lender of last resort
 
 ## 2026-09-04 — Nvidia's own 10-Q puts its total equity-investment portfolio at $99bn, up from $7bn a year ago
 
-- **Nvidia's fiscal Q2 FY2027 10-Q (period ended 2026-07-26, filed 2026-08-26 — the underlying filing predates this run's window, but the aggregated reporting on it is new today) shows non-marketable equity securities of $47.898bn, marketable equity securities of $42.783bn, and $3.3bn in equity-method infrastructure-financing investments, summing to the roughly $99bn total CNBC's synthesis reports — up from about $7bn a year earlier and about $2.2bn two years earlier, a roughly 13-fold increase in twelve months.** CFO Colette Kress is quoted saying investments in frontier AI labs alone have "approached $50 billion," and described the mechanism as a "flywheel" that gives portfolio companies "balance-sheet capacity to procure tens of thousands of GPUs" — the clearest company-side articulation yet of the customer-equity pattern this thread exists to track (Nebius, Naver, Intel, Groq, SB Energy, MediaTek, and now Hugging Face). Nvidia still trails Alphabet and Amazon, both of which report equity investments over $100bn. Filling this thread's own "each new customer-equity position" watch line with the aggregate figure rather than another single deal.
-  ([SEC EDGAR 10-Q, primary](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm), [BigGo Finance, synthesizing CNBC](https://finance.biggo.com/news/54d7048e-1f8e-40ff-b5f9-5b9084d0133a))
+- **Nvidia's fiscal Q2 FY2027 10-Q (period ended 2026-07-26, filed 2026-08-26) shows non-marketable equity securities of $47.898bn, marketable equity securities of $42.783bn, and $3.3bn in equity-method infrastructure-financing investments, summing to the roughly $99bn total CNBC's synthesis reports — up from about $7bn a year earlier and about $2.2bn two years earlier, a roughly 13-fold increase in twelve months.** CFO Colette Kress is quoted saying investments in frontier AI labs alone have "approached $50 billion," and described the mechanism as a "flywheel" that gives portfolio companies "balance-sheet capacity to procure tens of thousands of GPUs" — the clearest company-side articulation yet of the customer-equity pattern this thread exists to track (Nebius, Naver, Intel, Groq, SB Energy, MediaTek, and now Hugging Face). Nvidia still trails Alphabet and Amazon, both of which report equity investments over $100bn. Filling this thread's own "each new customer-equity position" watch line with the aggregate figure rather than another single deal. ([SEC EDGAR 10-Q, primary](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm), [BigGo Finance, synthesizing CNBC](https://finance.biggo.com/news/54d7048e-1f8e-40ff-b5f9-5b9084d0133a))
 
 ## 2026-09-03 — Nvidia confirms $12.93bn Hugging Face acquisition, its first outright buy of AI infrastructure rather than a stake in a customer
 
@@ -300,15 +299,10 @@ prose.*
   actually paid by NVIDIA to the Lessor" — recourse runs back to the party
   whose insolvency is the trigger.
   ([NVIDIA 8-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000069/nvda-20260817.htm))
-- **⚠️ Map-integrity note: the 8-K was public at 08:41 ET, before this map's
-  pass recorded the figure as missing.** ✏️ *Timestamp corrected 2026-08-18:
-  this read "04:41 ET, four hours before" until the finalize pass checked
-  EDGAR's own ACCEPTANCE-DATETIME header (20260817084133) and the
-  submissions API (2026-08-17T12:41:33Z), which agree on 08:41 ET. The
-  original was a UTC-to-Pacific conversion mislabelled as Eastern.* The
-  morning read stopped at exhibit EX-99.1, the press release. The lesson carried forward:
-  on any deal creating a financial obligation, the 8-K BODY (Items
-  1.01/2.03) is the primary source and the press-release exhibit is not.
+- **The 8-K was public at 08:41 ET** (EDGAR's ACCEPTANCE-DATETIME header
+  20260817084133 and the submissions API 2026-08-17T12:41:33Z agree). On any
+  deal creating a financial obligation, the 8-K body (Items 1.01/2.03) is the
+  primary source and the press-release exhibit (EX-99.1) is not.
 - **Groq — rung four on this thread's stake ladder — raised $350M at $3.5B,
   half its $6.9B September valuation, with Nvidia in the round.** Led by
   Disruptive with planned Nvidia participation. Nvidia hired founder/CEO
@@ -413,14 +407,12 @@ prose.*
   verify) — CDS record single-day widening. **+ $5B into
   pre-product SSI** the same day: the lender now backs companies with no
   product at all.
-- **⚠ Date corrected (cross-sweep catch, 5am close 07-29):** this entry
-  originally read "NVDA −5%" as a 07-28 move. It was **07-27** — close
-  **$196.51, −4.99%**. **07-28** dipped ~2% intraday (low $192.74) and
-  closed **+0.25% at $197.01**. The correction sharpens the thread rather
-  than weakening it: credit and equity broke together on 07-27, then on
-  07-28 **equity refused to follow while the CDS stayed wide**. A
-  divergence between what the lender's debt costs and what its equity
-  says is more informative than a one-day round trip.
+- **The NVDA −5% move was on 07-27**, not 07-28 — close **$196.51, −4.99%**.
+  **07-28** dipped ~2% intraday (low $192.74) and closed **+0.25% at $197.01**.
+  This sharpens the thread rather than weakening it: credit and equity broke
+  together on 07-27, then on 07-28 **equity refused to follow while the CDS
+  stayed wide**. A divergence between what the lender's debt costs and what its
+  equity says is more informative than a one-day round trip.
   ([stockanalysis.com](https://stockanalysis.com/stocks/nvda/history/))
 - **Figure resolved, not contradicted:** NYT/Forbes's "$500 billion"
   headlines (07-27/28) refer to the **total project cost** of the Piketon,
@@ -447,6 +439,6 @@ prose.*
 ## ← Backstory
 
 - **The stake ladder to date:** Nebius 9.3% (confirmed 07-20) · Naver $1B
-  (07-27) · Intel $5B (Sep-25) · Groq ~$20B licensing (Dec-25) — equity
-  and credit flowing from the vendor into its own demand base. Thread spun
-  out of [Circular Financing](/threads/ai-circular-financing-risk/) (ben-steer: "thread it").
+  (07-27) · Intel $5B (Sep-25) · Groq ~$20B licensing (Dec-25) — equity and
+  credit flowing from the vendor into its own demand base. Thread spun out of
+  [Circular Financing](/threads/ai-circular-financing-risk/) .

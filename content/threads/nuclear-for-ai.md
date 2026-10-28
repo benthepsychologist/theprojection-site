@@ -78,7 +78,7 @@ rotation. This thread's test is which projects clear LICENSING.*
   **2026-07-21**, before this window. Excluded.
 
 
-## 2026-08-04 — A named hyperscaler retreats from a nuclear-adjacent site (caught 08-05)
+## 2026-08-04 — A named hyperscaler retreats from a nuclear-adjacent site
 
 - **AWS formally withdrew its application for a ~500MW, 8-building data
   center campus on ~2,000 acres of Constellation Energy land next to the
@@ -95,7 +95,7 @@ rotation. This thread's test is which projects clear LICENSING.*
   nuclear-adjacent AI site that was announced and then didn't happen,
   for reasons outside the nuclear technology itself.
 
-## 2026-08-03 — A Nvidia-linked nuclear startup raises $1B to go from prototype to production (caught 08-05)
+## 2026-08-03 — A Nvidia-linked nuclear startup raises $1B to go from prototype to production
 
 - **Valar Atomics closed a $1B Series B led by Sequoia Capital at a $6B
   valuation**, three years after founding — money earmarked to move from
@@ -126,7 +126,7 @@ rotation. This thread's test is which projects clear LICENSING.*
 
 ## 2026-07-24 — Opened + crawled
 
-- **Thread opened** (ben-steer).
+- **Thread opened**.
 - **Verdict: power is the binding constraint, and nuclear is a real but
   2030s-weighted marathon.** Carnegie (06-2026) pegs the ~13GW of announced
   hyperscaler nuclear at <20% of projected datacenter demand through 2035;

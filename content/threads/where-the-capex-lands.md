@@ -74,7 +74,7 @@ blurb: 'The ~$750B question posed as a DESTINATION, not a spender: where does th
   entry read it as. The forums stand at 09-01 (18:00-20:00 ET, Cleveland
   PIE Center) and 09-12.
 
-## 2026-08-22 (late catch, added 2026-08-23) — Alibaba raises $10.2bn in Hong Kong's largest-ever follow-on, and puts 100% of it into AI
+## 2026-08-22 — Alibaba raises $10.2bn in Hong Kong's largest-ever follow-on, and puts 100% of it into AI
 
 - **Alibaba launched a HK$80bn ($10.2bn) share placement — 710 million
   ordinary shares at HK$112.70, a 3.6% discount to the last close — and
@@ -93,12 +93,10 @@ blurb: 'The ~$750B question posed as a DESTINATION, not a spender: where does th
   vendor-financing loop this map tracks on the US side, with the
   dilution taken openly instead.
   ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion))
-- ⚠️ **Digest-day placement, stated because it is genuinely close.** The
-  earliest verified report of this is the Financial Times at 08:33 UTC on
-  08-23 — 04:33 ET, which falls **27 minutes inside** digest-day 08-22's
-  05:00 ET close. It is bucketed to 08-22 on that basis, and
-  cross-referenced on the 08-23 page. The exact HKEX filing time was not
-  established; if it is later pinned past 05:00 ET, this belongs on 08-23.
+- The earliest verified report of this is the Financial Times at 08:33 UTC on
+  08-23 (04:33 ET). It is bucketed to 08-22 on that basis, and cross-referenced
+  on the 08-23 page. The exact HKEX filing time was not established; if it is
+  later pinned past 05:00 ET, this belongs on 08-23.
 
 ## 2026-08-17 — A named destination gets a physical shape: Pike County, Ohio, 8 IT-GW, built in phases
 
@@ -138,7 +136,7 @@ blurb: 'The ~$750B question posed as a DESTINATION, not a spender: where does th
   Shackelford County (full detail on [Datacenter Sites](/threads/ai-datacenter-sites/)), so this is
   a large, named site, not a marginal one.
 
-## 2026-08-04 — The capex-to-capacity gap this thread flagged 08-03 gets its first concrete casualty (caught 08-05)
+## 2026-08-04 — The capex-to-capacity gap this thread flagged 08-03 gets its first concrete casualty
 
 - **AWS formally withdrew its application for a 2,000-acre, ~500MW data
   center campus in Lusby, Maryland** (on Constellation Energy land next
@@ -159,7 +157,7 @@ blurb: 'The ~$750B question posed as a DESTINATION, not a spender: where does th
   that gap — a capex-committed site that didn't convert to capacity, for
   reasons unrelated to power availability at all.
 
-## 2026-08-03 — The destination tree acquires a gatekeeper (caught 08-04, missed on the day)
+## 2026-08-03 — The destination tree acquires a gatekeeper
 
 - **Texas ordered an audit-and-freeze on new data-centre grid connections**,
   directing PUCT and ERCOT to vet every queued project before it can
@@ -175,9 +173,9 @@ blurb: 'The ~$750B question posed as a DESTINATION, not a spender: where does th
 
 ## 2026-07-24 — Opened (meta-thread)
 
-- **Opened as the destination cut of AI capex** (ben-steer) — gathers the
-  clear destination-projects (Stargate, Colossus, Jalapeño) and frames the
-  gaps (the chip-spend itself, power/nuclear-for-AI deals, the specific
-  sites) as the collection worklist.
+- **Opened as the destination cut of AI capex** — gathers the clear
+  destination-projects (Stargate, Colossus, Jalapeño) and frames the gaps (the
+  chip-spend itself, power/nuclear-for-AI deals, the specific sites) as the
+  collection worklist.
 
 ## ← Backstory

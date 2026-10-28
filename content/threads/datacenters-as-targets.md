@@ -113,11 +113,10 @@ live test" of whether any hyperscaler would disclose the strikes.*
 
 ## 2026-07-29 — Opened
 
-- **Opened on Ben's steer** ("A. Yes. add it.") after the story surfaced
-  with no owner — it had been landing across [Datacenter Sites](/threads/ai-datacenter-sites/),
-  [AWS Capex](/threads/aws-capex/) and [Red Sea Shock](/threads/red-sea-oil-shock/), none of which could carry it as a
-  standing variable. Scoped to **physical targeting of compute
-  infrastructure**; the cyber/sabotage angle is adjacent and would widen
+- **Opened because the story had surfaced with no owner** — it had been landing
+  across [Datacenter Sites](/threads/ai-datacenter-sites/), [AWS Capex](/threads/aws-capex/) and [Red Sea Shock](/threads/red-sea-oil-shock/), none of
+  which could carry it as a standing variable. Scoped to **physical targeting of
+  compute infrastructure**; the cyber/sabotage angle is adjacent and would widen
   it.
 
 ## 2026-07-28 — Satellite imagery corroborates the strikes on AWS Bahrain
@@ -135,9 +134,7 @@ live test" of whether any hyperscaler would disclose the strikes.*
   intercepted) — the first ballistic-missile attack on a US base since the
   07-24 pause. Compute infrastructure and conventional military targets in
   the same 24 hours.
-- **Caught by the broad collector sweep, not the cluster agents** — all
-  four tier-2/3 agents were pointed at memory, macro and mental health and
-  missed it. The recall lesson is logged in coverage-log.md.
+The recall lesson is logged in coverage-log.md.
 
 ## ← Backstory
 

@@ -9,14 +9,13 @@ entities:
 - amazon-aws
 parent: hyperscaler-capex-big-picture
 thread_kind: story
-blurb: 'Earnings 07-30 (corrected from ~07-31). Crawl 07-27: the AGI-cuts vs $200B-plan
-  "contradiction" is coherent — retreat from frontier research, double down as the
-  labs'' landlord: $364B backlog EXCLUDING Anthropic''s new $100B+/decade commitment
-  (grew 10 days AFTER the Google TPU deal — diversification, not displacement); OpenAI
-  $50B investment + separate $100B/8yr compute deal CONFIRMED (02-27 announcement).
-  Rainier live (500K Trainium2, $26B IN); 1.4M Trainium deployed; Talen 1.92GW/17yr
-  + X-Energy 5GW-by-2039. Watch 07-30: capex guide, backlog, FCF (reportedly borrowing
-  $25B).'
+blurb: 'Earnings 07-30. As of 07-27: the AGI-cuts vs $200B-plan "contradiction" is
+  coherent — retreat from frontier research, double down as the labs'' landlord: $364B
+  backlog EXCLUDING Anthropic''s new $100B+/decade commitment (grew 10 days AFTER
+  the Google TPU deal — diversification, not displacement); OpenAI $50B investment
+  + separate $100B/8yr compute deal CONFIRMED (02-27 announcement). Rainier live (500K
+  Trainium2, $26B IN); 1.4M Trainium deployed; Talen 1.92GW/17yr + X-Energy 5GW-by-2039.
+  Watch 07-30: capex guide, backlog, FCF (reportedly borrowing $25B).'
 ---
 
 ## 2026-10-02 — Amazon adds a $1 billion community programme and a data-center code of conduct
@@ -57,25 +56,13 @@ blurb: 'Earnings 07-30 (corrected from ~07-31). Crawl 07-27: the AGI-cuts vs $20
   on the same day the vendor guided to $108B.
   ([CNBC](https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html))
 
-## 2026-08-18 — Late catch: $6B more into Shreveport, a third Louisiana campus
+## 2026-08-18 — $6B more into Shreveport, a third Louisiana campus
 
-- **AWS added $6B to its Shreveport, Louisiana buildout — a third campus
-  at Resilient Technology Park — lifting Amazon's committed Louisiana
-  data-center investment from $12B to $18B.** The announcement carries
-  ~210 direct new jobs (≈709 including indirect) and up to $400M of
-  Amazon-funded local water-infrastructure upgrades. It sits inside the
-  ~$220B FY2026 capex plan this thread already tracks, but is a new,
-  dated, site-specific commitment that was not previously on the thread —
-  caught by this run's cold-rotation sweep three days after the fact, not
-  on the day.
-  ([Amazon newsroom](https://www.aboutamazon.com/news/company-news/amazon-data-center-louisiana-new-jobs))
+- **AWS added $6B to its Shreveport, Louisiana buildout — a third campus at Resilient Technology Park — lifting Amazon's committed Louisiana data-center investment from $12B to $18B.** The announcement carries ~210 direct new jobs (≈709 including indirect) and up to $400M of Amazon-funded local water-infrastructure upgrades. It sits inside the ~$220B FY2026 capex plan this thread already tracks, but is a new, dated, site-specific commitment that was not previously on the thread. ([Amazon newsroom](https://www.aboutamazon.com/news/company-news/amazon-data-center-louisiana-new-jobs))
 
 ## 2026-08-03 — Amazon crosses $3T market cap
 
-- **The fifth company ever to reach a $3T market cap** (after Apple,
-  Microsoft, Alphabet, Nvidia), on continued post-earnings rally from
-  the 07-30 Q2 beat (AWS +37% YoY) already tracked on this thread.
-  ([CNBC](https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html))
+- **The fifth company ever to reach a $3T market cap** (after Apple, Microsoft, Alphabet, Nvidia), on continued post-earnings rally from the 07-30 Q2 beat (AWS +37% YoY) already tracked on this thread. ([CNBC](https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html))
 
 ## 2026-08-04 — Amazon prices $25B in bonds, says done issuing 2026 debt
 
@@ -85,7 +72,7 @@ blurb: 'Earnings 07-30 (corrected from ~07-31). Crawl 07-27: the AGI-cuts vs $20
   further debt in 2026.
   ([Briefs.co](https://www.briefs.co/news/amazon-to-issue-25b-in-bonds-halts-further-debt-issuance-for-2026/))
 
-## 2026-08-01 — Late catch: Amazon raised FY2026 capex to ~$220B on memory costs
+## 2026-08-01 — Amazon raised FY2026 capex to ~$220B on memory costs
 
 - **On its 07-30 earnings call Amazon raised FY2026 cash capex guidance
   to approximately $220B from approximately $200B, explicitly citing
@@ -193,14 +180,12 @@ artifacts/bundles/aws-capex-2026-07-27/provenance.yaml)_
   2026-04-27 (Microsoft's exclusivity ended; OpenAI now multi-clouds
   across AWS and Azure; hard 2032 Microsoft-OpenAI partnership end date).
   ([TechCrunch](https://techcrunch.com))
-- **Earnings-date correction:** Amazon's Q2 2026 call is confirmed for
-  **2026-07-30**, not "~07-31" as this thread's watch line has said since
-  opening — worth fixing on next /daily//steer touch. Watch for: a
-  raised $200B capex guide (Alphabet just raised its own 2026 guide
-  07-22/23), backlog growth past $364B, FCF commentary (Amazon reportedly
-  borrowing an extra $25B as FCF turns negative under the capex load,
-  per TIKR/Motley Fool 07-08/09), and any analyst question on the AGI
-  cuts vs. capex tension.
+- **Earnings date:** Amazon's Q2 2026 call is confirmed for **2026-07-30**, not
+  "~07-31". Watch for: a raised $200B capex guide (Alphabet just raised its own
+  2026 guide 07-22/23), backlog growth past $364B, FCF commentary (Amazon
+  reportedly borrowing an extra $25B as FCF turns negative under the capex load,
+  per TIKR/Motley Fool 07-08/09), and any analyst question on the AGI cuts vs.
+  capex tension.
 - **Open gap:** the brief's "$151B TTM" capex figure was not
   independently confirmed this crawl — every direct-fetch attempt
   against Amazon's own IR/blog domains 404'd. Verify at 07-30 earnings.

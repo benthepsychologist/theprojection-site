@@ -9,10 +9,10 @@ entities:
 - google
 parent: hyperscaler-capex-big-picture
 thread_kind: story
-blurb: '$195-205B guided for 2026 (07-22), destination traced by crawl 07-27: a 15+
-  state land-grab (MO $15B, MI 1GW "Cannoli", TX 1GW+, NextEra 3×GW-scale) + India
-  $15B hub — not a few megasites. TPU v7 "Ironwood" vs Nvidia split UNDISCLOSED (Anthropic''s
-  1M-TPU deal is the clearest volume signal). Solar-dominant PPAs + first Gen-IV utility
+blurb: '$195-205B guided for 2026 (07-22), destination traced 07-27: a 15+ state land-grab
+  (MO $15B, MI 1GW "Cannoli", TX 1GW+, NextEra 3×GW-scale) + India $15B hub — not
+  a few megasites. TPU v7 "Ironwood" vs Nvidia split UNDISCLOSED (Anthropic''s 1M-TPU
+  deal is the clearest volume signal). Solar-dominant PPAs + first Gen-IV utility
   deal (TVA/Kairos, 2030). Payoff case ($514B backlog, Cloud +82%) is press-corroborated,
   primary filing unreached. Watch: Q3 guidance, the FCF-negative reaction, TPU externalization
   (Meta eval).'
@@ -38,32 +38,13 @@ blurb: '$195-205B guided for 2026 (07-22), destination traced by crawl 07-27: a 
 
 ## 2026-08-10 — TPU externalization gets a first concrete answer: "TPU Raiden" open-sourced
 
-- **Google quietly open-sourced "TPU Raiden," an Apache-2.0 library for
-  moving KV-cache data between chips during LLM serving — the TPU-stack
-  answer to Nvidia's NIXL library.** Flagged first by SemiAnalysis
-  rather than announced by Google itself; Google's own repo is explicit
-  that it's "under active development and not yet recommended for
-  general use." Directly answers this thread's own standing watch item
-  ("TPU externalization") — the first concrete sign Google is building
-  shared infrastructure around its TPU stack the way Nvidia has around
-  its GPU stack. Caught by the 08-10 finalize's coverage critic; first
-  update to this thread since 07-31.
-  ([GitHub](https://github.com/google/tpu-raiden), [OfficeChai](https://officechai.com/ai/google-has-open-sourced-its-tpu-raiden-inference-library-in-apparent-bid-to-externalize-tpu-stack/), [Dataconomy](https://dataconomy.com/2026/08/10/google-open-sources-tpu-raiden-for-faster-ai-inference/))
+- **Google quietly open-sourced "TPU Raiden," an Apache-2.0 library for moving KV-cache data between chips during LLM serving — the TPU-stack answer to Nvidia's NIXL library.** Flagged first by SemiAnalysis rather than announced by Google itself; Google's own repo is explicit that it's "under active development and not yet recommended for general use." Directly answers this thread's own standing watch item ("TPU externalization") — the first concrete sign Google is building shared infrastructure around its TPU stack the way Nvidia has around its GPU stack. First update to this thread since 07-31. ([GitHub](https://github.com/google/tpu-raiden), [OfficeChai](https://officechai.com/ai/google-has-open-sourced-its-tpu-raiden-inference-library-in-apparent-bid-to-externalize-tpu-stack/), [Dataconomy](https://dataconomy.com/2026/08/10/google-open-sources-tpu-raiden-for-faster-ai-inference/))
 
 ## 2026-08-06 — The financing side surfaces: a jumbo bond met ~$115B of demand
 
-- **Alphabet's jumbo bond sale drew an order book of roughly $115B — read
-  by Bloomberg Technology as a market referendum on AI-capex appetite,
-  landing the day after the DeepMind leadership shock cut the stock
-  4-5%** (caught by the 08-07 finalize's coverage critic; the thread's
-  terms covered capex spend but not its financing). Axios Pro Rata
-  separately led with a new Google fund/venture to commercialize Google
-  X spinouts — the other half of an Alphabet capital-structure story
-  this map had no home for. Term added; an Alphabet-capital-structure
-  thread is offered as a candidate.
-  ([Bloomberg via critic](https://www.bloomberg.com/), [Axios Pro Rata](https://www.axios.com/newsletters/axios-pro-rata))
+- **Alphabet's jumbo bond sale drew an order book of roughly $115B — read by Bloomberg Technology as a market referendum on AI-capex appetite, landing the day after the DeepMind leadership shock cut the stock 4-5%**. Axios Pro Rata separately led with a new Google fund/venture to commercialize Google X spinouts — the other half of an Alphabet capital-structure story. ([Bloomberg](https://www.bloomberg.com/), [Axios Pro Rata](https://www.axios.com/newsletters/axios-pro-rata))
 
-## 2026-08-04 — A second, bigger debt package takes shape for Anthropic's Google-chip compute (caught 08-05)
+## 2026-08-04 — A second, bigger debt package takes shape for Anthropic's Google-chip compute
 
 - **Blackstone has pitched a second mega debt package — an early proposal
   of at least $36B — to fund more of Anthropic's lease of Google's custom
@@ -100,12 +81,7 @@ blurb: '$195-205B guided for 2026 (07-22), destination traced by crawl 07-27: a 
 - **Opened** — split out of [Circular Financing](/threads/ai-circular-financing-risk/) so Google's capex
   trajectory has its own thread rather than one line inside the broader
   circular-financing story.
-- **Full Q2 detail, finalize sweep**: revenue $119.8B (+24% YoY, beat),
-  Google Cloud +82% to $24.8B with a $514B backlog — but stock fell over
-  6% (not the ~5% first-read) and 2027 capex flagged to "increase
-  significantly." Also disclosed: Google is testing Gemini 3.5 Pro and has
-  begun pretraining Gemini 4.
-  ([CNBC](https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html))
+- **Full Q2 detail**: revenue $119.8B (+24% YoY, beat), Google Cloud +82% to $24.8B with a $514B backlog — but stock fell over 6% (not the ~5% first-read) and 2027 capex flagged to "increase significantly." Also disclosed: Google is testing Gemini 3.5 Pro and has begun pretraining Gemini 4. ([CNBC](https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html))
 - **GOOGL still soft in premarket** — continuation of 07-22's after-hours
   reaction, not new news.
   ([Tickmill](https://www.tickmill.com/blog/daily-market-outlook-july-23-2026))

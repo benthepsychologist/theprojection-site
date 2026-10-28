@@ -9,14 +9,13 @@ entities:
 - microsoft
 parent: hyperscaler-capex-big-picture
 thread_kind: story
-blurb: 'Earnings 07-29 is the near-term test — the "$97B TTM" figure is OUR arithmetic
-  (unconfirmed; $80.1B 9-mo FY26 is the IR number). Crawl 07-27 traced: WI+GA "AI
-  superfactory" (~2GW, fiber-linked) + a distinct Pecos TX ~2GW on Chevron''s Kilby
-  PPA ($7B, 2.7GW); Maia 200 confirmed DUAL-PURPOSE (OpenAI inference + MAI training)
-  with the split undisclosed; TMI/Crane restart tracking 2027; $37B AI run-rate +123%.
-  The $250B OpenAI commitment has NO disclosed capex mapping — nobody publishes the
-  OpenAI-vs-own split. Watch Wednesday: FY26 full-year capex, FY27 guide, any split
-  disclosure.'
+blurb: 'Earnings 07-29 is the near-term test — the "$97B TTM" figure is derived arithmetic
+  (unconfirmed; $80.1B 9-mo FY26 is the IR number). As of 07-27: WI+GA "AI superfactory"
+  (~2GW, fiber-linked) + a distinct Pecos TX ~2GW on Chevron''s Kilby PPA ($7B, 2.7GW);
+  Maia 200 confirmed DUAL-PURPOSE (OpenAI inference + MAI training) with the split
+  undisclosed; TMI/Crane restart tracking 2027; $37B AI run-rate +123%. The $250B
+  OpenAI commitment has NO disclosed capex mapping — nobody publishes the OpenAI-vs-own
+  split. Watch Wednesday: FY26 full-year capex, FY27 guide, any split disclosure.'
 ---
 
 ## 2026-09-23 — Microsoft commits $10bn+ to Gulf cloud and AI infrastructure through 2030, framed around wartime "digital resilience"

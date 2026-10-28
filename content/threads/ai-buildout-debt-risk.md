@@ -105,13 +105,11 @@ blurb: 'Whether AI-buildout debt is becoming its own underwritten, rated, public
 
 ## 2026-09-02 — BOJ Governor Ueda hints at a September hike and the yen surges on intervention alert, a day after the 10-year JGB crossed 3%
 
-- **Bank of Japan Governor Kazuo Ueda said after the G20 finance meeting that the board would "decide on policy with upside price risks in mind" at its September 17-18 meeting, and markets read it as tacit acknowledgement of pricing that reached roughly 94% odds of a hike; board member Hajime Takata separately left a larger-than-25bp move open.** The yen, which sat at 160.1 per dollar on 09-01 with intervention odds rising, reversed sharply — Bloomberg has it surging "with traders on high alert for further intervention," Nikkei Asia has it briefly touching the low-158 level. This is the cross-border transmission leg this map's context file twice deferred: the largest foreign holder of Treasuries hardening toward a hike while its own long end sits at a 30-year high. ⚠️ Dated 09-02 and available all day; it sat in this map's own collector buffer 108 times under the four watchlist terms added on 09-01, and was not read until the 09-03 finalize. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-02/boj-s-ueda-to-decide-on-policy-with-upside-price-risks-in-mind), [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-02/yen-surges-with-traders-on-high-alert-for-further-intervention), [Nikkei Asia](https://asia.nikkei.com/business/markets/currencies/yen-surges-to-briefly-touch-low-158-level-as-intervention-concerns-linger))
+- **Bank of Japan Governor Kazuo Ueda said after the G20 finance meeting that the board would "decide on policy with upside price risks in mind" at its September 17-18 meeting, and markets read it as tacit acknowledgement of pricing that reached roughly 94% odds of a hike; board member Hajime Takata separately left a larger-than-25bp move open.** The yen, which sat at 160.1 per dollar on 09-01 with intervention odds rising, reversed sharply — Bloomberg has it surging "with traders on high alert for further intervention," Nikkei Asia has it briefly touching the low-158 level. This is the cross-border transmission leg this map's context file twice deferred: the largest foreign holder of Treasuries hardening toward a hike while its own long end sits at a 30-year high. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-02/boj-s-ueda-to-decide-on-policy-with-upside-price-risks-in-mind), [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-02/yen-surges-with-traders-on-high-alert-for-further-intervention), [Nikkei Asia](https://asia.nikkei.com/business/markets/currencies/yen-surges-to-briefly-touch-low-158-level-as-intervention-concerns-linger))
 
 ## 2026-09-01 — Japan's 10-year JGB crosses 3% for the first time since 1996, and the US Treasury Secretary publicly presses Tokyo to hike
 
-- **Japan's 10-year government bond yield crossed 3% on 09-01, its first time above that line since 1996, while US Treasury Secretary Scott Bessent went on CNBC to press Tokyo and the Bank of Japan publicly for rate hikes.** Reporting on the exchange flagged the specific transmission risk: Japan is the largest foreign holder of US Treasurys, and a yen-defence intervention funded by selling them would push US long-end yields the same direction this thread already tracks domestically. This is the escalation of the cross-border leg this thread first recorded on 08-19, when a JGB push toward its highest yield since 1996 took SoftBank, Kioxia, Arm and Tokyo Electron down together in one Tokyo session — the mechanism is the same, the yield has now actually crossed, and a US cabinet officer is now an actor in it rather than an observer. attention/capital-context.yaml has twice flagged its own reading as "almost entirely US-Fed-framed" with a proper BOJ/JGB leg deferred to a /week-scale addition; this is that deferral coming due.
-  ([CNBC, "Japanese borrowing costs hit 30-year high as Bessent says Tokyo may intervene to boost yen," 2026-09-01](https://www.cnbc.com/2026/09/01/japan-bonds-yen-intervention-bessent.html))
-  <!-- Surfaced by the global-capital coverage critic, 2026-09-02, looking past its benchmark set rather than from the benchmarks themselves (all four were dark, paywalled or structurally unauditable for a past date). Recorded as a NEW DEVELOPMENT ON AN EXISTING STRAND, not a wholly-missing story: the critic's own report is precise about this (its grep found the 08-19 entry, "before the 3% threshold was crossed"), and the distinction is kept here deliberately. -->
+- **Japan's 10-year government bond yield crossed 3% on 09-01, its first time above that line since 1996, while US Treasury Secretary Scott Bessent went on CNBC to press Tokyo and the Bank of Japan publicly for rate hikes.** Reporting on the exchange flagged the specific transmission risk: Japan is the largest foreign holder of US Treasurys, and a yen-defence intervention funded by selling them would push US long-end yields the same direction this thread already tracks domestically. This is the escalation of the cross-border leg this thread first recorded on 08-19, when a JGB push toward its highest yield since 1996 took SoftBank, Kioxia, Arm and Tokyo Electron down together in one Tokyo session — the mechanism is the same, the yield has now actually crossed, and a US cabinet officer is now an actor in it rather than an observer. ([CNBC, "Japanese borrowing costs hit 30-year high as Bessent says Tokyo may intervene to boost yen," 2026-09-01](https://www.cnbc.com/2026/09/01/japan-bonds-yen-intervention-bessent.html)) <!-- Surfaced by the global-capital coverage critic, 2026-09-02, looking past its benchmark set rather than from the benchmarks themselves (all four were dark, paywalled or structurally unauditable for a past date). Recorded as a NEW DEVELOPMENT ON AN EXISTING STRAND, not a wholly-missing story: the critic's own report is precise about this (its grep found the 08-19 entry, "before the 3% threshold was crossed"), and the distinction is kept here deliberately. -->
 
 ## 2026-08-21 — Broadcom's SPV goes to the debt market for $70-80bn to build Anthropic's chips
 
@@ -189,9 +187,6 @@ life or like equipment on a 3-4 year depreciation clock — the two produce
 very different recovery rates in a default.
 
 ## 2026-08-18 — The rate channel reaches the AI trade, with no story attached — then the close adds a dollar figure to what "off-balance-sheet" means
-
-*Rebuilt at finalize with the day's close and a same-day credit-market
-follow-up; the morning/afternoon reads are unchanged from the first pass.*
 
 - **The 30-year Treasury extended to 5.32-5.34% intraday (a fresh
   19-year+ high) and the semis broke together, before easing into the
@@ -388,14 +383,13 @@ follow-up; the morning/afternoon reads are unchanged from the first pass.*
   [CoreWeave Bet](/threads/coreweave-backlog-bet/).
   ([SEC 8-K](https://www.sec.gov/Archives/edgar/data/0001769628/000176962826000362/crwv-20260811.htm), [CNBC](https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html))
 
-## 2026-08-11 — Opened (ben-steer)
+## 2026-08-11 — Opened
 
 - **Opened after three data points landed on the same day at three very
   different scales**, none of which had a home that could hold a
   market-structure question. Until now all three were folded into
-  [Nvidia as Lender](/threads/nvidia-vendor-financing/), which is an ACTOR thread — what Nvidia is
-  doing — and could not carry what the debt is actually worth. (ben-steer,
-  2026-08-11)
+  [Nvidia as Lender](/threads/nvidia-vendor-financing/), which is an ACTOR thread — what Nvidia is doing —
+  and could not carry what the debt is actually worth.
 
 - **Scope is deliberately narrow: the borrowing, not the buildout.** Capex
   volume belongs to [Hyperscaler Capex](/threads/hyperscaler-capex-big-picture/), vendor equity stakes to
@@ -423,31 +417,11 @@ follow-up; the morning/afternoon reads are unchanged from the first pass.*
   public debt issuance. These are MOUs, not final agreements, and no
   transaction has been named.
   ([NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital))
-- **A fourth data point, found independently during the 08-11 finalize
-  pass rather than flagged by any of the above: CoreWeave closed its own
-  $2.6B delayed-draw term loan (JPMorgan/MUFG-led) at SOFR+550 — a
-  10.44% yield-to-maturity — after guidance was flexed wider from an
-  initial S+425-450.** This is the first CONFIRMED transaction-level
-  coupon in this thread's record, not commentary or an unconfirmed
-  report — it resolves [CoreWeave Bet](/threads/coreweave-backlog-bet/)'s own 07-30 flag ("exact
-  new yield not independently confirmed") and lands three days ahead of
-  CoreWeave's Q2 earnings call.
-  ([SEC EDGAR 8-K/credit agreement](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000357/0001769628-26-000357-index.htm), [CoreWeave press release via AOL](https://www.aol.com/articles/coreweave-closes-2-6-billion-200500000.html))
+- **A fourth data point, CoreWeave closed its own $2.6B delayed-draw term loan (JPMorgan/MUFG-led) at SOFR+550 — a 10.44% yield-to-maturity — after guidance was flexed wider from an initial S+425-450.** This is the first CONFIRMED transaction-level coupon in this thread's record, not commentary or an unconfirmed report — it resolves [CoreWeave Bet](/threads/coreweave-backlog-bet/)'s own 07-30 flag ("exact new yield not independently confirmed") and lands three days ahead of CoreWeave's Q2 earnings call. ([SEC EDGAR 8-K/credit agreement](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000357/0001769628-26-000357-index.htm), [CoreWeave press release via AOL](https://www.aol.com/articles/coreweave-closes-2-6-billion-200500000.html))
 
-## 2026-08-09 (late catch, added 2026-08-11) — Moody's flags banks' own AI-vendor dependence as a risk category
+## 2026-08-09 — Moody's flags banks' own AI-vendor dependence as a risk category
 
-- **Moody's warned that banks' rapid AI adoption is building a
-  concentrated "vendor dependence risk" on a small set of foundation-
-  model and cloud providers — naming OpenAI and Anthropic specifically —
-  that could let a single outage cascade across the financial sector and
-  eventually let dominant vendors dictate pricing to the banks that
-  depend on them.** A different axis from the rest of this thread (which
-  tracks how AI-buildout DEBT is priced): this is banks' own operational
-  dependence on AI vendors, the demand-side mirror of the financing-side
-  risk above. Surfaced by this digest's coverage critic as a genuine
-  miss against the original 08-09 digest; logged here at its true event
-  date rather than reopening that already-closed digest.
-  ([The Guardian](https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector), [NewsBytes](https://www.newsbytesapp.com/news/business/banks-ai-rush-could-lead-to-systemic-risks-moody-s/story))
+- **Moody's warned that banks' rapid AI adoption is building a concentrated "vendor dependence risk" on a small set of foundation-model and cloud providers — naming OpenAI and Anthropic specifically — that could let a single outage cascade across the financial sector and eventually let dominant vendors dictate pricing to the banks that depend on them.** A different axis from the rest of this thread (which tracks how AI-buildout DEBT is priced): this is banks' own operational dependence on AI vendors, the demand-side mirror of the financing-side risk above. ([The Guardian](https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector), [NewsBytes](https://www.newsbytesapp.com/news/business/banks-ai-rush-could-lead-to-systemic-risks-moody-s/story))
 
 ## 2026-07-27 — The prior signal this thread was split out of
 

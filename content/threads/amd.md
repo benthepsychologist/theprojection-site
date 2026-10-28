@@ -14,9 +14,9 @@ entities:
 thread_kind: story
 blurb: 'Whether the ~14GW of announced OpenAI/Meta/Anthropic compute deals actually
   convert to shipped hardware and vested warrants on their stated H2-2026/H1-2027
-  timelines, or stay a backlog/announcement story — Q2 2026 earnings (reported 2026-08-04,
-  after this crawl closed) is the first real test. Also watching: China MI325X licensing
-  status, and whether the Oracle 50,000-GPU Q3-2026 rollout starts on schedule.'
+  timelines, or stay a backlog/announcement story — Q2 2026 earnings (reported 2026-08-04)
+  is the first real test. Also watching: China MI325X licensing status, and whether
+  the Oracle 50,000-GPU Q3-2026 rollout starts on schedule.'
 ---
 
 ## 2026-09-28 — AMD agrees to buy Fei-Fei Li's World Labs for $8.2 billion
@@ -33,7 +33,7 @@ blurb: 'Whether the ~14GW of announced OpenAI/Meta/Anthropic compute deals actua
 
 ## 2026-08-26 — A month after committing "tens of billions" to AMD, Anthropic signs a $45B Nvidia deal instead
 
-- **Anthropic agreed to spend $45B over six years renting Nvidia Vera Rubin compute capacity from a planned 460MW Nscale campus in West Virginia (service starting late 2027)** — reported 2026-08-26, roughly one month after Anthropic's own up-to-2GW MI450 commitment to AMD (with AMD investing up to $5B into Anthropic on milestones). Coverage frames this as Anthropic refusing to let its AMD bet foreclose Nvidia's next-gen platform, given Anthropic's own $190-200B 2028 revenue projection. This is directly relevant to the thread's underlying question of how durable AMD's marquee customer commitments (OpenAI, Anthropic, Meta) actually are once a customer diversifies — Anthropic is the second-named customer in the thread's title/entities to visibly hedge away from exclusivity. ⚠️ The Nscale deal is reported by multiple outlets citing sources, not yet confirmed by an Anthropic or Nscale press release found in this sweep. ([TechCrunch](https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/), [CNBC](https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html), [Yahoo Finance/Insider Monkey framing](https://finance.yahoo.com/technology/ai/articles/anthropic-bet-tens-billions-amd-175220772.html))
+- **Anthropic agreed to spend $45B over six years renting Nvidia Vera Rubin compute capacity from a planned 460MW Nscale campus in West Virginia (service starting late 2027)** — reported 2026-08-26, roughly one month after Anthropic's own up-to-2GW MI450 commitment to AMD (with AMD investing up to $5B into Anthropic on milestones). Coverage frames this as Anthropic refusing to let its AMD bet foreclose Nvidia's next-gen platform, given Anthropic's own $190-200B 2028 revenue projection. This is directly relevant to the thread's underlying question of how durable AMD's marquee customer commitments (OpenAI, Anthropic, Meta) actually are once a customer diversifies — Anthropic is the second-named customer in the thread's title/entities to visibly hedge away from exclusivity. ⚠️ The Nscale deal is reported by multiple outlets citing sources, not yet confirmed by an Anthropic or Nscale press release found. ([TechCrunch](https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/), [CNBC](https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html), [Yahoo Finance/Insider Monkey framing](https://finance.yahoo.com/technology/ai/articles/anthropic-bet-tens-billions-amd-175220772.html))
 
 ## 2026-08-24 — AMD lays out the actual MI400/Helios numbers at Hot Chips, past the roadmap slide it showed in June
 

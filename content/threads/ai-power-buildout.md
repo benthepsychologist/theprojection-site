@@ -107,7 +107,7 @@ blurb: Where the capex lands in POWER — the real bottleneck. Nuclear-for-AI (S
   construction in the first half of 2026.
   ([Global Energy Monitor, via The Guardian](https://www.chinastrategy.org/2026/08/25/us-building-twice-as-much-gas-fired-capacity-as-china-in-ai-boom-analysis-finds/))
 
-## 2026-08-24 (late catch, added 2026-08-25) — The Lancium equity stake becomes a 15+ GW deployment platform
+## 2026-08-24 — The Lancium equity stake becomes a 15+ GW deployment platform
 
 - **Three days after taking an equity position in Lancium, Nvidia turned
   the whole of that company's powered-land portfolio into a deployment
@@ -216,7 +216,7 @@ blurb: Where the capex lands in POWER — the real bottleneck. Nuclear-for-AI (S
   Texas PUCT/ERCOT freeze below.
   ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-04/ai-power-demands-spur-builders-to-seek-billions-in-bank-pledges))
 
-## 2026-08-03 — Texas freezes new AI-datacenter grid connections pending an audit (caught 08-04, missed on the day)
+## 2026-08-03 — Texas freezes new AI-datacenter grid connections pending an audit
 
 - **Governor Abbott ordered the Public Utility Commission of Texas and
   ERCOT to audit every data centre seeking a grid connection before it can
@@ -274,6 +274,6 @@ blurb: Where the capex lands in POWER — the real bottleneck. Nuclear-for-AI (S
 
 ## 2026-07-24 — Opened
 
-- **Thread opened** (ben-steer) — meta-thread — groups the child threads below.
+- **Thread opened** — meta-thread — groups the child threads below.
 
 ## ← Backstory

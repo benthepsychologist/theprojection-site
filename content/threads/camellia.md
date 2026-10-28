@@ -52,8 +52,7 @@ blurb: 'OpenAI-direct build (Octans GA LLC/Butler Snow — no named GC or Starga
 
 ## 2026-08-31 — Effingham's Industrial Development Authority approves a $90M OpenAI tax-relief package and cuts the school millage rate
 
-- ⚠️ **Out of window** (this landed 08-31, the day before this run's window opens at 09-01 15:00 ET) **and not on the existing record** — checked the [Camellia](/threads/camellia/) thread timeline (last entry 08-29, the commissioners' work session) and every digest from 08-30 through 09-01 for "Effingham"/"Camellia"; none carry it. Flagging because it's a substantive, primary-sourced development the thread would otherwise skip a cycle on. **The Authority approved three measures on 08-31: an intergovernmental agreement sending $21M to the county and $9M to the school district within 30 days (up to $90M available over the agreement's three-year term) for infrastructure, water/sewer, job-creation and economic-development spending; a Project Camellia PILOT amendment fixing OpenAI's payment rate at 32 mills for 15 years regardless of future local rate changes; and a waiver of the Authority's own 2-mill economic-development tax for 2026.** The school board separately voted its FY2027 millage rate down 2 mills, from 18.45 to 16.45 — the county's case that residents see near-term tax relief from the deal, not just the site's own PILOT. Board member Trisha Boyett argued the fixed 32-mill structure yields more total tax revenue over the term than the fluctuating rate it replaces; resident Raymond Carver pushed back: "We're constantly being pushed out of having a voice in this situation" — the same secrecy/voice complaint this thread has tracked since 07-23.
-  ([Effingham Herald](https://www.effinghamherald.net/data-centers/effingham-industrial-authority-approves-openai-tax-relief-90m-deal-project-camellia-data-center-property-tax/))
+- **The Authority approved three measures on 08-31: an intergovernmental agreement sending $21M to the county and $9M to the school district within 30 days (up to $90M available over the agreement's three-year term) for infrastructure, water/sewer, job-creation and economic-development spending; a Project Camellia PILOT amendment fixing OpenAI's payment rate at 32 mills for 15 years regardless of future local rate changes; and a waiver of the Authority's own 2-mill economic-development tax for 2026.** The school board separately voted its FY2027 millage rate down 2 mills, from 18.45 to 16.45 — the county's case that residents see near-term tax relief from the deal, not just the site's own PILOT. Board member Trisha Boyett argued the fixed 32-mill structure yields more total tax revenue over the term than the fluctuating rate it replaces; resident Raymond Carver pushed back: "We're constantly being pushed out of having a voice in this situation" — the same secrecy/voice complaint this thread has tracked since 07-23. ([Effingham Herald](https://www.effinghamherald.net/data-centers/effingham-industrial-authority-approves-openai-tax-relief-90m-deal-project-camellia-data-center-property-tax/))
 
 ## 2026-08-29 — The work session answers its own open question: no vote, an apology, and a moratorium now on the table
 
@@ -61,14 +60,14 @@ blurb: 'OpenAI-direct build (Octans GA LLC/Butler Snow — no named GC or Starga
 - **Commissioner Roger Burdette, whose District 2 contains the site, broke from the county's messaging to admit the process was mishandled:** "I was wrong... If I would have a chance to do this again I would have done it differently." He and Commissioner Beth Helmly (District 4, who had already been pushing for a dedicated public forum) both said they'd consider an **18-month moratorium on new data centers** plus conditional-use-permit requirements for future projects — the same policy tool this thread has tracked landing elsewhere (Cary, NC; Wisconsin Rapids). **This is a first: county officials engaging the moratorium idea themselves, one day after Sen. Warnock's outside call for one.** No timeline was given for when that policy question would come back for an actual vote.
   ([Effingham Herald](https://www.effinghamherald.net/data-centers/effingham-residents-press-commissioners-over-openai-data-center-protest/))
 
-## 2026-08-28 (late catch, added 2026-08-29) — A US Senator visits the site and calls for a moratorium
+## 2026-08-28 — A US Senator visits the site and calls for a moratorium
 
 - **Sen. Raphael Warnock (D-GA) toured the Belmont Glen neighborhood adjacent to the Camellia site and met privately with community stakeholders at Zion Lutheran Church in Guyton**, then told reporters the project should not proceed until the developer "can make guarantees on utility rates, on pollution, and transparency" — an explicit moratorium call. **This is the first federal-level political figure to weigh in on Camellia specifically**, escalating past the county-level opposition this thread has tracked since 07-30. He called the confidentiality agreements behind the project's pre-announcement land and tax-abatement moves (the subject of the Herald's "moved forward without public input" piece, same week) "the opposite of democracy," and said of stopping the project: "It's not impossible."
   ([WTOC](https://www.wtoc.com/2026/08/28/warnock-calls-data-center-moratorium-during-effingham-county-visit/), [Effingham Herald](https://www.effinghamherald.net/data-centers/warnock-criticizes-lack-of-transparency-on-effingham-data-center/))
 
 - 💡 **Sets up the 08-29 work session directly:** Warnock's visit and the Board of Commissioners' three-hour public work session (10:00-13:00, same administrative complex) landed one day apart, giving commissioners a live political pressure point walking into the session this map flagged as due today. **No outcome from the 08-29 session was available in same-day coverage as of this pass** — worth a direct follow-up check once local press files.
 
-## 2026-08-27 — The final DRI report lands with real numbers, and two dates (late catch, event dated 08-26)
+## 2026-08-27 — The final DRI report lands with real numbers, and two dates
 
 - **Georgia's Coastal Regional Commission released its final Development of Regional Impact report on Project Camellia**, described by the county manager as "the county's final requirement before it can approve Project Camellia's preliminary site plan." **This is the environmental disclosure the thread has been waiting for since the DRI was filed blank on 07-24:** roughly **65% of the site covered by buildings and pavement at full buildout**, with stormwater runoff, wetlands, floodplain and water-quality risks named and mitigation recommended. Two dates now set — a **county commissioners' public work session 08-29, 10:00-13:00** at 804 S. Laurel St., Springfield, and **preliminary site-plan review anticipated 09-14**. PSC Commissioner Peter Hubbard on scale: *"It's 32 times the size of the threshold... Something of this magnitude does deserve special scrutiny."*
   ([Effingham Herald](https://www.effinghamherald.net/data-centers/openai-data-center-moves-forward-power-deal-approved-site-plan-review-next-dri-project-camellia/))
@@ -142,16 +141,15 @@ blurb: 'OpenAI-direct build (Octans GA LLC/Butler Snow — no named GC or Starga
 
 ## 2026-07-28 — Rincon meets on the plan
 
-- **The local-opposition track went live in person** — WTOC: "Coffee,
-  concerns and 'Camellia'" — Rincon residents met today on the OpenAI
-  plan, capping a week of organizing coverage (WJCL 07-22, WTOC 07-24);
-  directly on the watch line's "local secrecy backlash" item. Georgia
-  Power's 25-yr PPA signing (07-23) also recirculated — already on file,
-  not new. (WTOC 07-28, via cold-rotation sweep)
+- **The local-opposition track went live in person** — WTOC: "Coffee, concerns
+  and 'Camellia'" — Rincon residents met today on the OpenAI plan, capping a
+  week of organizing coverage (WJCL 07-22, WTOC 07-24); directly on the watch
+  line's "local secrecy backlash" item. Georgia Power's 25-yr PPA signing
+  (07-23) also recirculated — already on file, not new. (WTOC 07-28)
 
 ## 2026-07-24 — Opened
 
-- **Thread opened** (ben-steer) — opened; /crawl pending for backstory.
+- **Thread opened.**
 
 ## ← Backstory
 

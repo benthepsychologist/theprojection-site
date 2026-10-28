@@ -13,8 +13,7 @@ blurb: 'Meta quit RE100 amid a 7.5GW gas buildout (07-23/24) — the first break
   the hyperscaler clean-power consensus, while still holding a ≤6.6GW nuclear RFP
   and 2.3GW NextEra solar. Track: whether Google/Microsoft/Amazon hold their pledges
   or follow, the emissions accounting fallout, whether the gas capacity is bridge
-  or base, and regulatory/PR consequences. (Both W1 crawl agents flagged this independently;
-  ben-steer: "thread it.")'
+  or base, and regulatory/PR consequences.'
 ---
 
 ## 2026-09-30 — Meta signs a 144MW Texas solar deal while telling reporters it still uses gas
