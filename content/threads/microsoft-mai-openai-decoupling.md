@@ -18,6 +18,12 @@ blurb: Microsoft shipped 7 in-house MAI models and says it was "set free" from t
   genuine independence or a hedge.
 ---
 
+## 2026-10-28 — Microsoft books $10 billion of quarterly revenue from OpenAI as its stake slips to 24%
+
+- **TechCrunch reported that Microsoft said in a regulatory filing that it generated $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ended September 30** — TechCrunch puts that at nearly 11% of Microsoft's $92.3 billion quarterly revenue and $24.1 billion for fiscal 2026, and says it is not clear how much came from revenue sharing and how much from Azure computing services. ([TechCrunch](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/)) Claims: kat-claim-a97e5caf086f
+- **TechCrunch reported that Microsoft had $7.2 billion in outstanding receivables from OpenAI at the end of September, up from $6 billion at the end of June** — TechCrunch notes these are amounts OpenAI owes for previous transactions, not additional revenue. ([TechCrunch](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/)) Claims: kat-claim-ca9ac1a7b0ba
+- **TechCrunch reported that Microsoft's ownership stake in OpenAI fell from about 25% in June to 24% in September, continuing a decline from roughly 27% after the October 2025 recapitalization** — Microsoft did not say what caused the dilution. ([TechCrunch](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/)) Claims: kat-claim-c6fa0b45d23a
+
 ## 2026-10-23 — Science study reports Microsoft's MAI-DxO diagnosing 83% of complex cases against 36% for generalist physicians
 
 - **TechCrunch reported that a study published Thursday in Science found Microsoft's MAI-DxO diagnostic system, which coordinates several AI agents acting as a panel of doctors, correctly diagnosed complex New England Journal of Medicine cases 83% of the time in a simulation, against 36% for primary care doctors and general internists working individually with reference materials** — TechCrunch notes that cases this complex are usually handled by specialists or teams, who were not in the comparison. ([TechCrunch](https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/)) Claims: kat-claim-bad8ce7e3d13

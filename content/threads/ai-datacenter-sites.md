@@ -17,6 +17,14 @@ blurb: Where the capex lands in CONCRETE — the specific gigawatt campuses. Sta
   the specific-sites worklist lives here.
 ---
 
+## 2026-10-29 — Amazon reportedly pulls out of Beale Infrastructure's Project Blue near Tucson after its switch to air cooling
+
+- **The Verge reported that Amazon reportedly pulled out as the tenant of Beale Infrastructure's Project Blue data center in the Tucson area after the project switched from water cooling to closed-loop air cooling, saying an air-cooled facility would not meet its needs** — Beale declined to say whether it has found a new tenant; The Verge reports that the project is going ahead, that the Arizona Department of Water approved two wells on the site allowing up to 31 million gallons of groundwater a year, which Beale says is for construction only, and that the Pima County Board of Supervisors imposed a 120-day moratorium on new data center projects in September. ([The Verge](https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc)) Claims: kat-claim-340aa74806db
+
+## 2026-10-28 — The Verge: Texas holds 26 GW of existing and under-construction data center capacity against Virginia's 13 GW
+
+- **The Verge reported that Texas has 26 GW of existing and under-construction data center capacity, measured by power draw, against 13 GW in Virginia** — Virginia still leads Texas 287 to 170 in planned data center projects as of April, according to Pew Research, which The Verge cites; it says projects are moving out of cities into rural areas, particularly in Texas. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas)) Claims: kat-claim-731f93fa736f
+
 ## 2026-09-25 — Cleveland puts no Project River annexation on Monday's agenda; Pulaski County's judge vetoes Arkansas data-center rules
 
 - **The City of Cleveland, Tennessee said Friday that no annexation related to Project River is on the City Council's agenda for Monday, September 28 (3pm at the Municipal Building).** The statement comes after the developers of the $11.3 billion Bradley County campus asked the city on 09-18 to pause action while a third-party technical team reviews the project. ([Cleveland Daily Banner](https://www.clevelandbanner.com/news/no-annexations-related-to-project-river-on-mondays-city-council-agenda/article_b0ca8491-ffbe-5174-a737-66006db4ccd4.html))

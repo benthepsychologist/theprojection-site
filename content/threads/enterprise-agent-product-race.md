@@ -21,6 +21,12 @@ blurb: 'Whether the enterprise agent-product surface — the layer where labs an
   the packaging actually converts to usage.'
 ---
 
+## 2026-10-28 — Anthropic launches reporting on what enterprise token spend buys; Jellyfish data puts Anthropic-based tools at nearly a third of proposed code changes
+
+- **TechCrunch reported that Anthropic announced a suite of reporting tools designed to give enterprise customers a more granular understanding of the value they get from their token spend** — managers can see a team's work over a date range, what it produced, what it cost and where workflows broke down; Anthropic says it will not use the data for model training by default, and it is also creating pooled group budgets for token spending. ([TechCrunch](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/)) Claims: kat-claim-59b8117f0ad8
+- **TechCrunch reported that a Jellyfish report on agentic coding tool use by 276,000 of its customers found Claude Code and other tools built on Anthropic models the most widely used, responsible for nearly a third of all proposed code changes submitted for review** ([TechCrunch](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/)) Claims: kat-claim-414ec4fb96b7
+- **TechCrunch reported that, per the Jellyfish report, spending on those Anthropic-based tools has grown tenfold since the beginning of the year, to about 2% of total engineering cost** — Jellyfish's AI product lead told TechCrunch that OpenAI's Codex has only recently shown up in its data, since the release of OpenAI's Astra model. ([TechCrunch](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/)) Claims: kat-claim-a3e74c93eb0f
+
 ## 2026-10-26 — Anthropic's S-1 discloses enterprise customer counts, cross-product use and net revenue retention
 
 - **TechCrunch reported that, per Anthropic's SEC filing, at the end of September 2026 Anthropic had more than 11,900 customers spending $100,000 or more annually, 1,900 spending $1 million or more and about 250 spending $10 million or more** ([TechCrunch](https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/)) Claims: kat-claim-d7b65af90499

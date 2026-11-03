@@ -21,6 +21,10 @@ blurb: 'The gpt-5.6 gating dynamic made permanent — and it''s all one buildout
   in a year — can it run classified review?); the first model actually gated.'
 ---
 
+## 2026-10-28 — Google releases Gemini 4 Carbon only to cybersecurity defense companies, with wider access to come through its Fairwind Program
+
+- **The Verge reported that Google released its Gemini 4 Carbon frontier model only to a select group of cybersecurity defense companies, with access to expand later to other partners in its Fairwind Program** — Google says Carbon tops the Artificial Analysis Intelligence Index (v5.0), ahead of Claude Opus 5.5 and GPT-6 Astra, and holds the top spot on the SEC-bench Pro and ExploitGym cybersecurity benchmarks; it launches at Argon's introductory price of $2 per million input tokens and $10 per million output tokens. ([The Verge](https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier)) Claims: kat-claim-3cfef4e3cf13
+
 ## 2026-10-20 — TechCrunch, citing Politico, reports Anthropic is shopping a draft AI safety bill that would let a judge halt a model release
 
 - **TechCrunch reported, citing Politico, that Anthropic has been shopping a draft AI safety bill to Congress under which an AI model's release could be blocked in the case of a "foreseeable, imminent risk" that over 50 people could die or over a billion dollars in property damage could result.** ([TechCrunch](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/)) Claims: kat-claim-07b1a5f576a2

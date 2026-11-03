@@ -17,6 +17,10 @@ blurb: 'Two angles surfaced the same day (2026-08-05/06): Anthropic sought parti
   whether other labs did the same; any read-through to Anthropic''s IPO risk disclosures.'
 ---
 
+## 2026-10-29 — Wikimedia's amicus brief in the publishers' cases against OpenAI and Microsoft proposes a split on fair use
+
+- **The Verge reported that the Wikimedia Foundation, in an amicus brief in publishers' lawsuits including The New York Times's against OpenAI and Microsoft, took neither side and proposed that pre-training on copyrighted works without a license be fair use when it provides something new and different, while models that deliver copies of material in response to user queries, supplanting readers' engagement with the originals, should require a license** — The Verge notes that OpenAI and Microsoft both contend that using LLMs constitutes fair use, and that The Times argues for a more expansive definition of fair use as it applies to LLMs. ([The Verge](https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright)) Claims: kat-claim-fca682080373
+
 ## 2026-09-30 — Third Circuit's unsealed opinion rejects Ross's fair-use defense
 
 - **The Third Circuit's unsealed opinion says Ross Intelligence's use of Westlaw headnotes to build a competing legal search engine was not transformative, so it was not fair use** A unanimous panel opinion by Judge Tamika Montgomery-Reeves, filed under seal Tuesday and unsealed Wednesday, calls it "no more than an ordinary copyright case"; the court stressed that Ross's engine was not generative AI and said in a footnote that concerns the Justice Department raised in its copyright suit against OpenAI "do not apply here." ([Reuters, via Stockopedia](https://www.stockopedia.com/share-prices/thomson-reuters-TSE:TRI/news/unsealed-opinion-shows-why-thomson-reuters-won-landmark-ai-fair-use-ruling-updated-01a0f42b-f99e-7bc8-8584-7b24af27a3de/))

@@ -18,6 +18,12 @@ blurb: 'Earnings 07-30. As of 07-27: the AGI-cuts vs $200B-plan "contradiction" 
   Watch 07-30: capex guide, backlog, FCF (reportedly borrowing $25B).'
 ---
 
+## 2026-10-29 — Amazon keeps its 2026 capex at about $220 billion, expects to spend meaningfully more in 2027, and projects AWS growth above 40% in 2027 and 2028
+
+- **TechCrunch reported that Amazon CEO Andy Jassy said on the company's earnings call that Amazon still expects 2026 cash capex of approximately $220 billion, the majority for AWS, and expects to spend meaningfully more in 2027** — TechCrunch notes that Wall Street analysts repeatedly asked Jassy to explain the spending. ([TechCrunch](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/)) Claims: kat-claim-99672b04ea97
+- **TechCrunch reported that AWS revenue increased 39% from the year-ago quarter, the sixth straight quarter of growth in that trend, and that Jassy described AWS as a $184 billion annualized revenue run-rate business** ([TechCrunch](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/)) Claims: kat-claim-41af49a4a95c
+- **TechCrunch reported that Jassy said Amazon believes AWS can grow north of 40% in each of 2027 and 2028 and be a trillion-dollar revenue business in the next five to 10 years** ([TechCrunch](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/)) Claims: kat-claim-44a04a0338cb
+
 ## 2026-10-02 — Amazon adds a $1 billion community programme and a data-center code of conduct
 
 - **Amazon announced "Built Together," adding more than $1 billion over five years for communities that host its US data centers, alongside a published "Data Center Commitment" that ends nondisclosure agreements with government agencies** AWS chief executive Matt Garman's post also pledges Tier 4 backup generators at new sites, annual public reporting of energy and water use, and says Amazon has put more than $1 billion into such communities over the past three years. ([Amazon](https://www.aboutamazon.com/news/company-news/amazon-data-centers-built-together))

@@ -22,6 +22,15 @@ blurb: 'The combined 2026 plan is now ~$610-650B across the four (Google $195-20
   threads). Earnings Wed/Thu (Meta+MSFT 07-29, AMZN 07-30) are the live test.'
 ---
 
+## 2026-10-29 — Amazon reports: about $220 billion of 2026 cash capex, with more to come in 2027
+
+- **TechCrunch reported that Amazon still expects 2026 cash capex of approximately $220 billion, the majority for AWS, and expects to spend meaningfully more in 2027** — TechCrunch notes that Microsoft, which reported the previous day, has also spent heavily while posting record revenue growth. ([TechCrunch](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/)) Claims: kat-claim-99672b04ea97
+
+## 2026-10-28 — Microsoft and Alphabet report: Microsoft's capex sets a quarterly record, and both clouds are now reported in dollars
+
+- **TechCrunch reported that Microsoft's capital expenditures topped $45.2 billion in the quarter, another all-time quarterly record** — Microsoft also said its commercial remaining performance obligation rose 73% to $677 billion. ([TechCrunch](https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/)) Claims: kat-claim-f7d168bba2f3, kat-claim-81d340643a0a
+- **TechCrunch reported that Azure brought in $33.2 billion of revenue in the quarter, up 48%, against $30.7 billion for Google Cloud, up 103%** — TechCrunch notes that the parents of AWS and Google Cloud already report cloud revenue in dollars every quarter, and that Amazon reports on Thursday. ([TechCrunch](https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/), [TechCrunch](https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/)) Claims: kat-claim-48bb2e691afb, kat-claim-e9f8c90b9e99
+
 ## 2026-09-21 — JPMorgan's Dimon puts hyperscaler AI spending on course for $1 trillion in 2027
 
 - **JPMorgan chief executive Jamie Dimon said spending across the hyperscaler ecosystem has more than doubled from about $300 billion last year to around $700 billion this year and could reach $1 trillion next year.** Speaking to CNBC-TV18 at JPMorgan's India investor conference, he called the surge "like 1% increase to GDP each year" and warned it may also add to inflation. It bears directly on this thread's own tracked question of whether the ~$610-650bn combined 2026 plan across Google/Microsoft/Amazon/Meta is peaking — Dimon's figure covers the wider hyperscaler ecosystem, not just those four, and points the other way. The same quote is already logged on the sibling thread [The Great Rotation](/threads/chip-hyperscaler-rotation/) (dated 09-21, staged 09-24); flagging here since it wasn't yet on this thread and speaks to this thread's specific watch question. ([CNBC](https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html), [CNBC-TV18](https://www.cnbctv18.com/technology/ai/ai-capex-could-hit-1-trillion-next-year-says-jpmorgan-ceo-jamie-dimon-19995144.htm))

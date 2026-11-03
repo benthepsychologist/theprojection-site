@@ -28,6 +28,13 @@ blurb: 'Anthropic has signed four large infrastructure arrangements in roughly t
   — this thread asks a narrower question, who ends up holding the asset.'
 ---
 
+## 2026-10-29 — The Verge's tally of the S-1's commitments: $265.6 billion of purchase commitments, $321.4 billion of leases not yet commenced, and about $245 billion of newer agreements
+
+- **The Verge reported that the S-1's "Commitments and contingencies" section lists a fixed minimum of non-cancelable purchase commitments totalling $265.6 billion, with terms of one to 20 years, and lease agreements, primarily for compute and infrastructure capacity, that had not yet commenced totalling $321.4 billion as of the unaudited June 30 figures** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive)) Claims: kat-claim-a58e6ea6a60f
+- **The Verge reported that, after June 30, Anthropic entered new compute and infrastructure agreements totalling about $245 billion with terms of one to 20 years, and that it estimates other transactions not yet finalized at $125 billion to $150 billion** — Wired reported the same $245 billion and $125 billion to $150 billion figures on 2026-10-26. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive)) Claims: kat-claim-b39d85f9c87f
+- **The Verge reported that PitchBook analyst Harrison Rolfes models Anthropic's future commitments at about $90 billion a year from 2027 to 2030, which would require $188 billion in revenue to keep the current ratio of cost to compute stable** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive)) Claims: kat-claim-13ca1b013493
+- **The Verge reported that, per the S-1, compute and infrastructure (and a few other items) associated with customers cost $2.3 billion in the first half of 2026, while Anthropic spent $9.7 billion on model development (and a few other items)** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive)) Claims: kat-claim-60503880200c
+
 ## 2026-10-26 — Anthropic's S-1 sets out compute commitments to SpaceX, Microsoft, Google and Amazon and about $808 billion in minimum obligations
 
 - **Wired reported that footnotes in Anthropic's S-1 put the future minimum payment obligations of compute and infrastructure leases started or amended since December 31, 2025 at approximately $417 billion in aggregate** — Wired reports a further $245 billion added since June 30, all related to infrastructure agreements. ([Wired](https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/)) Claims: kat-claim-757f8421ed3a
