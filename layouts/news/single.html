@@ -10,13 +10,14 @@
 <p class="crumb" style="max-width:var(--max-width);margin:1.2rem auto 0;padding:0 1.5rem;">
   <a href="/news/">← News</a> · <a href="/methodology/">Methodology</a></p>
 {{ $lens := .Params.lens }}
-{{ partial "briefing.html" (dict "ctx" . "scope" (printf "lens:%s" $lens)) }}
-{{ partial "readout.html" (dict "ctx" . "scope" (printf "lens:%s" $lens)) }}
+{{/* The briefing and readout blocks read data/readouts.json, which the hub stopped writing on 2026-10-14 (readouts
+     retired). It was frozen at 2026-10-03, so they showed old text under an "Updated" stamp of that day. Removed
+     2026-11-03; the page now shows the threads and items below, which are rebuilt from the hub on every publish. */}}
 {{ $p := .Site.Data.payload }}
 
 <div class="thread-header">
   <h1>{{ .Title }}</h1>
-  <p class="dek">One of three lenses · everything kestrel tracks under this beat</p>
+  <p class="dek">One of three lenses · everything kestrel tracks under this beat{{ with $p.generated }} · updated <time datetime="{{ . }}">{{ dateFormat "Jan 2, 2006" . }}</time>{{ end }}</p>
 </div>
 
 <div class="section">

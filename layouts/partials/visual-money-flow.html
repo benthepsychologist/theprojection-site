@@ -9,6 +9,7 @@
   {{ with $flow.export }}
   <p class="fm-totals"><strong>${{ lang.FormatNumber 1 (div .counted_usd 1000000000) }}B</strong> counted across {{ .flow_claims }} flow claims in the corpus's graph{{ with .date }}, export of {{ . }}{{ end }}{{ with .commit }} (corpus commit <code>{{ . }}</code>){{ end }}.
     {{ if .in_talks_count }}Not counted: {{ printf "$%.1fB" (div .in_talks_usd 1000000000) }} across {{ .in_talks_count }} deals still in talks{{ end }}{{ if .contingent_count }}{{ if .in_talks_count }}, and {{ else }}Not counted: {{ end }}{{ .contingent_count }} guarantees{{ with .contingent_usd }} ({{ printf "$%.1fB" (div . 1000000000) }} stated){{ end }}, recorded as who is liable and not as money paid{{ end }}{{ if or .in_talks_count .contingent_count }}.{{ end }}</p>
+  {{ if .excluded_count }}<p class="fm-bd-note"><strong>Left out of every figure here:</strong> {{ .excluded_count }} financing claims, {{ printf "$%.1fB" (div .excluded_usd 1000000000) }} counted. Financing is money raised, or moved between the parties, so it is where the money comes from and not where it goes. That is a separate question. The map below still draws those flows between the parties.</p>{{ end }}
   <p class="fm-bd-note">Recorded transactions, not unique dollars: money raised and then spent can appear in both. An all-time total, and some claims are undated. It moves as the corpus files new claims.</p>
   {{ end }}
   <div class="fm-breakdowns">

@@ -18,7 +18,9 @@
   <h1>{{ $q.title }}</h1>
   <p class="dek">{{ $line.title }} ·
     {{ $q.counts.threads }} threads · {{ $q.counts.stories }} stories ·
-    {{ $q.counts.predictions }} open predictions</p>
+    {{ $q.counts.predictions }} open predictions
+    {{ with $q.stories }}{{ with index . 0 }} · latest story {{ .date }}{{ end }}{{ end }}
+    {{ with $.Site.Data.research.as_of }} · updated {{ . }}{{ end }}</p>
 </div>
 
 <div class="rq wrap">
