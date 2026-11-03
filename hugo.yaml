@@ -53,4 +53,7 @@ menus:
     - name: "News"
       url: "/news/"
       weight: 2
+    - name: "Experimental"
+      url: "/experimental/"
+      weight: 3
 

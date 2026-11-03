@@ -1,0 +1,86 @@
+{{/* The three-box money map (experimental, version in data/experiments.json). Data: data/money_map.json, the hub's flat
+     table of the corpus's flow claims. Logic: static/js/money-map.js. */}}
+{{ $mm := .Site.Data.money_map }}
+<section id="money-map" class="mm">
+  <p class="mm-lede">Where the AI buildout's money comes from, who is spending it, and what it is spent on. Every row opens to the claims behind it.
+    <strong>Dark bars are money reported as paid; light bars are pledged</strong> (contracted, committed or announced). Almost all of it is still pledged.</p>
+
+  <form class="mm-controls" onsubmit="return false">
+    <fieldset><legend>Year recorded</legend>
+      <label><input type="radio" name="year" value="all" checked> All</label>
+      <label><input type="radio" name="year" value="2025"> 2025</label>
+      <label><input type="radio" name="year" value="2026"> 2026</label>
+      <label><input type="radio" name="year" value="other"> Earlier or undated</label>
+    </fieldset>
+    <fieldset><legend>Layer (boxes 2 and 3)</legend>
+      <label><input type="checkbox" name="layer" value="construction" checked> Construction</label>
+      <label><input type="checkbox" name="layer" value="hardware" checked> Hardware</label>
+      <label><input type="checkbox" name="layer" value="above" checked> Above (cloud capacity, licensing)</label>
+    </fieldset>
+    <fieldset><legend>Players shown</legend>
+      <label><select name="mode">
+        <option value="auto" selected>Automatic</option><option value="count">Number of players</option>
+        <option value="pct">Share of the dollars (%)</option><option value="min">Minimum size ($B)</option></select></label>
+      <label><input type="number" name="value" value="10" min="0" step="1" disabled></label>
+    </fieldset>
+    <fieldset><legend>Edge of box 2</legend>
+      <label><input type="checkbox" name="inside"> Count chip-fab, memory, construction and power suppliers' own spending</label>
+    </fieldset>
+    <fieldset><legend>Box 3 shows</legend>
+      <label><input type="radio" name="view" value="buys" checked> What it buys</label>
+      <label><input type="radio" name="view" value="who"> Who receives it</label>
+    </fieldset>
+  </form>
+
+  <div class="mm-boxes">
+    <section class="mm-box"><h3>1 · Where it comes from</h3>
+      <p class="mm-sub">Outside financing: who funds whom, and how. Companies' own revenue and profit going into their own builds are not here yet.</p>
+      <div id="mm-in"></div></section>
+    <section class="mm-box"><h3>2 · Who is spending it</h3>
+      <p class="mm-sub">The box ends at atoms: a payment for something physical counts when its supplier receives it.</p>
+      <div id="mm-spend"></div></section>
+    <section class="mm-box"><h3>3 · What it is spent on</h3>
+      <p class="mm-sub">By layer: construction, hardware, and above.</p>
+      <div id="mm-buys"></div></section>
+  </div>
+
+  <h2 class="mm-notes-h">What this version does and does not do</h2>
+  <ul class="mm-notes">
+    <li><strong>Year is when a claim was recorded</strong>, not when the money is spent. A multi-year commitment recorded in 2026 is not 2026 spending. An estimate of real spending is planned.</li>
+    <li><strong>Box 1 is outside financing only.</strong> It counts the financing claims that the money-flow page leaves out of its totals. Rounds and facilities whose funders are not itemized are grouped by instrument. A company funding its own build from its own revenue is not shown yet.</li>
+    <li><strong>The line between suppliers and players is a short list kept by hand</strong> (TSMC, memory makers, construction and power companies are suppliers; labs, hyperscalers and chip designers are players). It will come from the research data when that exists.</li>
+    <li>Counts are all-time totals of recorded claims, with a settled dollar figure, as of the update time above. Pledged money may never be spent.</li>
+  </ul>
+  <script type="application/json" id="money-map-data">{{ $mm | jsonify | safeJS }}</script>
+</section>
+<style>
+.mm{ margin-bottom:2.5rem; }
+.mm-lede{ line-height:1.55; }
+.mm-controls{ display:grid; grid-template-columns:repeat(auto-fit,minmax(15rem,1fr)); gap:.8rem 1.2rem; margin:1rem 0 1.4rem; }
+.mm-controls fieldset{ border:1px solid var(--rule); padding:.5rem .8rem .7rem; margin:0; }
+.mm-controls legend{ font-size:.8rem; color:var(--ink-faint); padding:0 .3rem; text-transform:uppercase; letter-spacing:.04em; }
+.mm-controls label{ display:block; font-size:.92rem; line-height:1.7; }
+.mm-controls input[type=number]{ width:6rem; }
+.mm-boxes{ display:grid; grid-template-columns:repeat(auto-fit,minmax(20rem,1fr)); gap:1.2rem; align-items:start; }
+.mm-box{ border:1px solid var(--rule); padding:.9rem 1rem 1rem; background:var(--paper); min-width:0; }
+.mm-box h3{ margin:0 0 .2rem; font-size:1.05rem; }
+.mm-sub{ font-size:.85rem; color:var(--ink-faint); margin:0 0 .7rem; line-height:1.45; }
+.mm-total{ font-weight:600; margin:.2rem 0 .6rem; }
+.mm-layer{ margin:1rem 0 .3rem; font-size:.8rem; text-transform:uppercase; letter-spacing:.05em; color:var(--ink-faint); }
+.mm-row{ display:grid; grid-template-columns:minmax(0,9rem) minmax(0,1fr) 4.2rem; gap:.5rem; align-items:center; margin:.28rem 0; }
+.mm-label{ all:unset; cursor:pointer; font-size:.88rem; line-height:1.25; overflow-wrap:anywhere; text-decoration:underline dotted; text-underline-offset:3px; }
+.mm-label:focus-visible{ outline:2px solid var(--ink); }
+.mm-track{ display:flex; height:.85rem; background:var(--paper-dim); min-width:0; }
+.mm-real{ background:var(--ink); display:block; }
+.mm-pled{ background:color-mix(in srgb, var(--ink) 28%, transparent); display:block; }
+.mm-amt{ text-align:right; font-size:.85rem; font-variant-numeric:tabular-nums; }
+.mm-detail{ margin:0 0 .5rem .4rem; font-size:.82rem; }
+.mm-claims{ margin:.2rem 0; padding-left:1.1rem; }
+.mm-claims li{ margin:.25rem 0; line-height:1.35; }
+.mm-claim-meta{ color:var(--ink-faint); }
+.mm-foot,.mm-empty{ font-size:.82rem; color:var(--ink-faint); margin:.7rem 0 0; }
+.mm-notes-h{ font-size:1.05rem; margin-top:2rem; }
+.mm-notes{ line-height:1.55; padding-left:1.1rem; }
+@media (max-width:30rem){ .mm-row{ grid-template-columns:minmax(0,1fr) 4.2rem; } .mm-track{ grid-column:1 / -1; order:3; } }
+</style>
+<script src="/js/money-map.js?v=0.1" defer></script>

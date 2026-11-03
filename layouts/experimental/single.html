@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+{{ partial "head.html" . }}
+</head>
+<body>
+{{ partial "masthead.html" . }}
+<p class="crumb" style="max-width:var(--max-width);margin:1.2rem auto 0;padding:0 1.5rem;"><a href="/experimental/">← Experimental</a></p>
+{{ $slug := .Params.experiment }}
+{{ $e := dict }}{{ range .Site.Data.experiments }}{{ if eq .slug $slug }}{{ $e = . }}{{ end }}{{ end }}
+<div class="thread-header">
+  <h1>{{ .Title }}</h1>
+  {{ with $e.updated }}<p class="dek"><strong>Experiment · version {{ $e.version }}</strong>
+    · updated <time datetime="{{ . }}">{{ dateFormat "2006-01-02 15:04" . }} UTC</time></p>{{ end }}
+</div>
+<div class="wrap">
+  <p class="exp-disclaimer"><strong>An experiment, unfinished on purpose.</strong> It may be wrong, broken or unhelpful, and it changes without notice.
+    The version number and update time above tell you whether you are looking at the latest.</p>
+  {{ if eq $slug "new-map" }}{{ partial "money-map.html" . }}{{ end }}
+</div>
+<style>
+.exp-disclaimer{ border:1px solid var(--rule); background:var(--paper-dim); padding:.9rem 1.1rem; margin:1.2rem 0 1.6rem; line-height:1.55; }
+</style>
+{{ partial "footer.html" . }}
+</body>
+</html>

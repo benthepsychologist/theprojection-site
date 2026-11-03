@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+{{ partial "head.html" . }}
+</head>
+<body>
+{{ partial "masthead.html" . }}
+<p class="crumb" style="max-width:var(--max-width);margin:1.2rem auto 0;padding:0 1.5rem;"><a href="/">← Home</a></p>
+<div class="thread-header">
+  <h1>{{ .Title }}</h1>
+  <p class="dek">Things we are tinkering with</p>
+</div>
+<div class="wrap">
+  <p class="exp-disclaimer"><strong>These are experiments.</strong> They are unfinished on purpose. They may be wrong, broken,
+    or unhelpful, and they change without notice. Do not rely on them. Each one carries a version number and the time it was
+    last updated, so you can tell a new version from an old one.</p>
+  <ul class="exp-list">
+    {{ range .Site.Data.experiments }}
+    <li><a href="/experimental/{{ .slug }}/">{{ .title }}</a>
+      <span class="exp-meta">version {{ .version }} · {{ with .updated }}updated <time datetime="{{ . }}">{{ dateFormat "2006-01-02 15:04" . }} UTC</time>{{ end }}</span>
+      <span class="exp-sum">{{ .summary }}</span></li>
+    {{ end }}
+  </ul>
+</div>
+<style>
+.exp-disclaimer{ border:1px solid var(--rule); background:var(--paper-dim); padding:.9rem 1.1rem; margin:1.2rem 0 1.6rem; line-height:1.55; }
+.exp-list{ list-style:none; padding:0; margin:0 0 2rem; }
+.exp-list li{ padding:.8rem 0; border-top:1px solid var(--rule); }
+.exp-list a{ font-size:1.15rem; font-weight:600; }
+.exp-meta{ display:block; font-size:.85rem; color:var(--ink-faint); margin-top:.15rem; }
+.exp-sum{ display:block; margin-top:.25rem; }
+</style>
+{{ partial "footer.html" . }}
+</body>
+</html>
