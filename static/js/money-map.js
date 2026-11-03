@@ -1,8 +1,9 @@
 /* money-map.js: the three-box money map (experimental, v0.1). Plain JS, no libraries.
    Reads the flat table the hub writes (data/money_map.json, embedded in the page): one row per claim.
    Rows: side 'in' (financing: money coming in) or 'out' (spending); a = payer or funder, b = payee,
-   d = destination, l = layer, y = year recorded (2025, 2026, other), s = realized | pledged, u = dollars,
-   sa / sb = payer / payee is a supplier of physical things. */
+   d = destination, l = layer, y = year recorded (2025, 2026, other), s = realized | pledged | guided, u = dollars,
+   sa / sb = payer / payee is a supplier of physical things. 'guided' rows are guidance, estimates, floors or
+   ceilings: shown apart from firm figures and never added to a total (total = realized + pledged; all = with guided). */
 (function (root) {
   'use strict';
   var LAYERS = ['construction', 'hardware', 'above'];
@@ -32,17 +33,18 @@
     var m = {}, out = [];
     rows.forEach(function (r) {
       var k = keyFn(r), g = m[k];
-      if (!g) { g = m[k] = { key: k, realized: 0, pledged: 0, total: 0, rows: [] }; out.push(g); }
-      g[r.s === 'realized' ? 'realized' : 'pledged'] += r.u;
-      g.total += r.u;
+      if (!g) { g = m[k] = { key: k, realized: 0, pledged: 0, guided: 0, total: 0, all: 0, rows: [] }; out.push(g); }
+      g[r.s === 'realized' ? 'realized' : (r.s === 'guided' ? 'guided' : 'pledged')] += r.u;
+      if (r.s !== 'guided') g.total += r.u;
+      g.all += r.u;
       g.rows.push(r);
     });
-    return out.sort(function (a, b) { return b.total - a.total; });
+    return out.sort(function (a, b) { return b.all - a.all; });
   }
 
   function merge(groups, label) {
-    var o = { key: label, realized: 0, pledged: 0, total: 0, rows: [], members: groups };
-    groups.forEach(function (g) { o.realized += g.realized; o.pledged += g.pledged; o.total += g.total; o.rows = o.rows.concat(g.rows); });
+    var o = { key: label, realized: 0, pledged: 0, guided: 0, total: 0, all: 0, rows: [], members: groups };
+    groups.forEach(function (g) { o.realized += g.realized; o.pledged += g.pledged; o.guided += g.guided; o.total += g.total; o.all += g.all; o.rows = o.rows.concat(g.rows); });
     return o;
   }
 
@@ -53,21 +55,21 @@
        min   every player at or above a dollar size. */
   function scree(groups, rule) {
     var n = groups.length, total = 0, i;
-    groups.forEach(function (g) { total += g.total; });
+    groups.forEach(function (g) { total += g.all; });
     if (!n) return { shown: [], other: null, n: 0, of: 0, share: 0 };
-    function cover(share) { var c = 0; for (i = 0; i < n; i++) { c += groups[i].total; if (c >= share * total - 1e-6) return i + 1; } return n; }
-    function after(N) { var c = 0; for (i = N; i < n; i++) c += groups[i].total; return c; }
+    function cover(share) { var c = 0; for (i = 0; i < n; i++) { c += groups[i].all; if (c >= share * total - 1e-6) return i + 1; } return n; }
+    function after(N) { var c = 0; for (i = N; i < n; i++) c += groups[i].all; return c; }
     var N;
     if (rule.mode === 'count') N = Math.max(1, Math.min(n, Math.round(rule.value) || 1));
-    else if (rule.mode === 'min') N = groups.filter(function (g) { return g.total >= rule.value; }).length;
+    else if (rule.mode === 'min') N = groups.filter(function (g) { return g.all >= rule.value; }).length;
     else if (rule.mode === 'pct') N = cover(Math.max(0, Math.min(100, rule.value)) / 100);
     else {
       N = Math.min(cover(AUTO_SHARE), AUTO_CAP);
-      while (N < Math.min(n, AUTO_CAP) && after(N) > groups[N - 1].total) N++;
+      while (N < Math.min(n, AUTO_CAP) && after(N) > groups[N - 1].all) N++;
     }
     var shown = groups.slice(0, N), rest = groups.slice(N);
     var other = rest.length ? merge(rest, 'Other (' + rest.length + ' more)') : null;
-    var c = 0; shown.forEach(function (g) { c += g.total; });
+    var c = 0; shown.forEach(function (g) { c += g.all; });
     return { shown: shown, other: other, n: N, of: n, share: total ? c / total : 0 };
   }
 
@@ -84,7 +86,7 @@
       var li = el('li'), a = el('a', null, r.a + ' → ' + r.b);
       a.href = '/q1claim/' + r.id + '/';
       li.appendChild(a);
-      li.appendChild(el('span', 'mm-claim-meta', ' ' + usd(r.u) + ' · ' + r.s + ' · recorded ' + (r.y === 'other' ? 'earlier or undated' : r.y) + (r.d ? ' · ' + r.d : '')));
+      li.appendChild(el('span', 'mm-claim-meta', ' ' + usd(r.u) + ' · ' + (r.s === 'guided' ? 'guided or estimated (' + (r.q || 'stated') + ')' : r.s) + ' · recorded ' + (r.y === 'other' ? 'earlier or undated' : r.y) + (r.d ? ' · ' + r.d : '')));
       ul.appendChild(li);
     });
     return ul;
@@ -94,11 +96,13 @@
     groups.forEach(function (g) {
       var row = el('div', 'mm-row'), head = el('button', 'mm-label', g.key);
       head.type = 'button';
-      var track = el('div', 'mm-track'), a = el('span', 'mm-real'), b = el('span', 'mm-pled');
+      var track = el('div', 'mm-track'), a = el('span', 'mm-real'), b = el('span', 'mm-pled'), c = el('span', 'mm-guid');
       a.style.width = (max ? 100 * g.realized / max : 0) + '%';
       b.style.width = (max ? 100 * g.pledged / max : 0) + '%';
-      track.appendChild(a); track.appendChild(b);
-      var amt = el('span', 'mm-amt', usd(g.total));
+      c.style.width = (max ? 100 * g.guided / max : 0) + '%';
+      track.appendChild(a); track.appendChild(b); track.appendChild(c);
+      var amt = el('span', 'mm-amt', g.total ? usd(g.total) : '—');
+      if (g.guided) amt.appendChild(el('small', 'mm-gnote', '+' + usd(g.guided) + ' guided'));
       row.appendChild(head); row.appendChild(track); row.appendChild(amt);
       var detail = el('div', 'mm-detail'); detail.hidden = true;
       detail.appendChild(g.members ? bulletGroups(g.members) : claimList(g.rows));
@@ -108,7 +112,7 @@
   }
   function bulletGroups(members) {
     var ul = el('ul', 'mm-claims');
-    members.forEach(function (g) { ul.appendChild(el('li', null, g.key + ' — ' + usd(g.total))); });
+    members.forEach(function (g) { ul.appendChild(el('li', null, g.key + ' — ' + (g.total ? usd(g.total) : '—') + (g.guided ? ' (+' + usd(g.guided) + ' guided)' : ''))); });
     return ul;
   }
 
@@ -123,9 +127,9 @@
       var rule = { mode: st.mode, value: st.mode === 'min' ? st.value * 1e9 : st.value };
       function fill(id, groups, note) {
         var b = box(id), s = scree(groups, rule), max = 0;
-        s.shown.concat(s.other ? [s.other] : []).forEach(function (g) { if (g.total > max) max = g.total; });
-        var total = 0; groups.forEach(function (g) { total += g.total; });
-        b.appendChild(el('p', 'mm-total', usd(total) + ' recorded'));
+        s.shown.concat(s.other ? [s.other] : []).forEach(function (g) { if (g.all > max) max = g.all; });
+        var total = 0, gd = 0; groups.forEach(function (g) { total += g.total; gd += g.guided; });
+        b.appendChild(el('p', 'mm-total', usd(total) + ' recorded' + (gd ? ' (+' + usd(gd) + ' guided or estimated, not added)' : '')));
         if (!groups.length) { b.appendChild(el('p', 'mm-empty', 'Nothing recorded under these filters.')); return; }
         bars(b, s.shown.concat(s.other ? [s.other] : []), max);
         b.appendChild(el('p', 'mm-foot', note + 'Showing ' + s.n + ' of ' + s.of + ', ' + Math.round(100 * s.share) + '% of the dollars.'));
@@ -134,12 +138,12 @@
       var out = rowsOut(rows, st);
       fill('mm-spend', group(out, function (r) { return r.a; }), '');
       if (st.view === 'buys') {
-        var b = box('mm-buys'), total = 0, max = 0, byLayer = {};
-        out.forEach(function (r) { total += r.u; });
-        b.appendChild(el('p', 'mm-total', usd(total) + ' recorded'));
+        var b = box('mm-buys'), total = 0, gd = 0, max = 0, byLayer = {};
+        out.forEach(function (r) { if (r.s === 'guided') gd += r.u; else total += r.u; });
+        b.appendChild(el('p', 'mm-total', usd(total) + ' recorded' + (gd ? ' (+' + usd(gd) + ' guided or estimated, not added)' : '')));
         LAYERS.forEach(function (L) {
           var gs = group(out.filter(function (r) { return r.l === L; }), function (r) { return r.d; });
-          gs.forEach(function (g) { if (g.total > max) max = g.total; });
+          gs.forEach(function (g) { if (g.all > max) max = g.all; });
           byLayer[L] = gs;
         });
         LAYERS.forEach(function (L) {

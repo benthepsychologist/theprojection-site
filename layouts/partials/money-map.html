@@ -3,7 +3,7 @@
 {{ $mm := .Site.Data.money_map }}
 <section id="money-map" class="mm">
   <p class="mm-lede">Where the AI buildout's money comes from, who is spending it, and what it is spent on. Every row opens to the claims behind it.
-    <strong>Dark bars are money reported as paid; light bars are pledged</strong> (contracted, committed or announced). Almost all of it is still pledged.</p>
+    <strong>Dark bars are money reported as paid; grey bars are pledged</strong> (contracted, committed or announced); <strong>dashed bars are guided or estimated figures</strong> (a company's guidance, a floor or a ceiling), which are not firm, are shown apart and are never added to a total. Almost all firm money is still pledged.</p>
 
   <form class="mm-controls" onsubmit="return false">
     <fieldset><legend>Year recorded</legend>
@@ -49,6 +49,7 @@
     <li><strong>Year is when a claim was recorded</strong>, not when the money is spent. A multi-year commitment recorded in 2026 is not 2026 spending. An estimate of real spending is planned.</li>
     <li><strong>Box 1 is outside financing only.</strong> It counts the financing claims that the money-flow page leaves out of its totals. Rounds and facilities whose funders are not itemized are grouped by instrument. A company funding its own build from its own revenue is not shown yet.</li>
     <li><strong>The line between suppliers and players is a short list kept by hand</strong> (TSMC, memory makers, construction and power companies are suppliers; labs, hyperscalers and chip designers are players). It will come from the research data when that exists.</li>
+    <li><strong>Guided or estimated figures can overlap the pledges beside them</strong> (for example two reports of one commitment), and several are floors or ceilings. They show rough scale only. Hyperscaler capex guidance, such as Microsoft's and Amazon's, is not shown yet: those claims sit in the category the money page is waiting on research-ops to reclassify.</li>
     <li>Counts are all-time totals of recorded claims, with a settled dollar figure, as of the update time above. Pledged money may never be spent.</li>
   </ul>
   <script type="application/json" id="money-map-data">{{ $mm | jsonify | safeJS }}</script>
@@ -67,12 +68,14 @@
 .mm-sub{ font-size:.85rem; color:var(--ink-faint); margin:0 0 .7rem; line-height:1.45; }
 .mm-total{ font-weight:600; margin:.2rem 0 .6rem; }
 .mm-layer{ margin:1rem 0 .3rem; font-size:.8rem; text-transform:uppercase; letter-spacing:.05em; color:var(--ink-faint); }
-.mm-row{ display:grid; grid-template-columns:minmax(0,9rem) minmax(0,1fr) 4.2rem; gap:.5rem; align-items:center; margin:.28rem 0; }
+.mm-row{ display:grid; grid-template-columns:minmax(0,9rem) minmax(0,1fr) 6.6rem; gap:.5rem; align-items:center; margin:.28rem 0; }
 .mm-label{ all:unset; cursor:pointer; font-size:.88rem; line-height:1.25; overflow-wrap:anywhere; text-decoration:underline dotted; text-underline-offset:3px; }
 .mm-label:focus-visible{ outline:2px solid var(--ink); }
 .mm-track{ display:flex; height:.85rem; background:var(--paper-dim); min-width:0; }
 .mm-real{ background:var(--ink); display:block; }
 .mm-pled{ background:color-mix(in srgb, var(--ink) 28%, transparent); display:block; }
+.mm-guid{ display:block; box-sizing:border-box; border:1px dashed var(--ink-faint); border-left:0; background:transparent; }
+.mm-gnote{ display:block; font-size:.72rem; color:var(--ink-faint); }
 .mm-amt{ text-align:right; font-size:.85rem; font-variant-numeric:tabular-nums; }
 .mm-detail{ margin:0 0 .5rem .4rem; font-size:.82rem; }
 .mm-claims{ margin:.2rem 0; padding-left:1.1rem; }
@@ -81,6 +84,6 @@
 .mm-foot,.mm-empty{ font-size:.82rem; color:var(--ink-faint); margin:.7rem 0 0; }
 .mm-notes-h{ font-size:1.05rem; margin-top:2rem; }
 .mm-notes{ line-height:1.55; padding-left:1.1rem; }
-@media (max-width:30rem){ .mm-row{ grid-template-columns:minmax(0,1fr) 4.2rem; } .mm-track{ grid-column:1 / -1; order:3; } }
+@media (max-width:30rem){ .mm-row{ grid-template-columns:minmax(0,1fr) 6.6rem; } .mm-track{ grid-column:1 / -1; order:3; } }
 </style>
-<script src="/js/money-map.js?v=0.1" defer></script>
+<script src="/js/money-map.js?v=0.2" defer></script>
