@@ -27,6 +27,16 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   count.'
 ---
 
+## 2026-11-03 — WIRED: New York City Mayor Zohran Mamdani calls opposition to data centers bipartisan and cites similarities between the housing bubble and the state of AI
+
+- **WIRED reported, in an interview published November 3, that New York City Mayor Zohran Mamdani said opposition to data centers is a bipartisan fight, naming Ron DeSantis as sharing a similar opposition** — Mamdani described it as a repudiation of an AI politics he summarized as "our risk, their reward". ([WIRED](https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/)) Claims: kat-claim-dfb095743d79
+- **WIRED reported that Mamdani said there are far too many similarities between the housing bubble and the state of AI in the economy today** — he answered yes when asked whether he worries about a bubble and whether it will pop. ([WIRED](https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/)) Claims: kat-claim-8002f4936a38
+
+## 2026-11-02 — The Verge: OpenAI pilots a "Grid Protectors Program" at a Georgia data center, promising up to 1,000 megawatts of flexibility
+
+- **The Verge reported that OpenAI announced it will pilot its "Grid Protectors Program" at an upcoming data center in Effingham County, Georgia, where it promises to free up to 1,000 megawatts of power during extreme weather or emergencies** — The Verge puts that at enough to power air conditioners in around 700,000 homes, and describes the program as a pitch for AI campuses as protectors as public opinion on data centers has soured. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program)) Claims: kat-claim-690a29838422
+- **The Verge reported that several US states, including Tennessee, Florida, Oklahoma and Oregon, have enacted laws that say they will prevent AI companies from passing energy costs on to residents** — The Verge adds that this comes alongside moratoriums and other restrictions. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program)) Claims: kat-claim-b7de370d40fc
+
 ## 2026-11-01 — TechCrunch, citing Axios: OpenAI is preparing a post-midterm "PR blitz" that includes rebranding data centers as "AI compute campuses"
 
 - **TechCrunch reported, citing Axios, that OpenAI is preparing a "PR blitz" for after the midterm elections on Tuesday** — TechCrunch quotes OpenAI chief global affairs officer Chris Lehane, via Axios, as calling the midterms "a bit of a movie trailer for what you're going to see in 2028," when he expects AI to be "the issue" in the presidential election. ([TechCrunch](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/)) Claims: kat-claim-e3b9c70ed301

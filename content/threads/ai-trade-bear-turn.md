@@ -14,6 +14,11 @@ blurb: 'Is the tape turning against the AI trade as a whole? Distinct from the c
   the earnings verdicts, and whether the drawdown changes actual capex behavior.'
 ---
 
+## 2026-11-03 — EPFR: technology sector funds take in more than six times the inflow of the next-largest group; equity funds draw $56.2 billion
+
+- **ISI Markets reported, in an EPFR Global Navigator note, that technology sector funds took in more than six times the fresh money that went to the second-most popular group of funds in the latest week** — the note says the funds posted their biggest outflow in over a month on the final day of the reporting period. ([ISI Markets](https://isimarkets.com/publications/global-navigator-navigating-the-late-october-crosscurrents/)) Claims: kat-claim-a8d157c226c6
+- **ISI Markets reported that investors steered $56.2 billion into equity funds and $3.3 billion into money market funds during the week ending October 28** ([ISI Markets](https://isimarkets.com/publications/global-navigator-navigating-the-late-october-crosscurrents/)) Claims: kat-claim-a1a77f31c758
+
 ## 2026-10-19 — EPFR: equity funds take in $64.5 billion in the week to October 14 as alternatives post their first outflow since July
 
 - **ISI Markets reported that EPFR-tracked equity funds took in $64.5 billion during the week to October 14, five times the size of the previous week's inflow** — the note also says flows into technology sector and US equity funds rebounded and that investors' faith in the AI story was not dented by Middle East tensions and high energy prices. ([ISI Markets](https://isimarkets.com/publications/global-navigator-investors-turn-back-the-page-during-the-second-week-of-october/)) Claims: kat-claim-2de8a3791a45

@@ -21,6 +21,11 @@ blurb: 'The gpt-5.6 gating dynamic made permanent — and it''s all one buildout
   in a year — can it run classified review?); the first model actually gated.'
 ---
 
+## 2026-11-02 — MIT Technology Review: the "Super Intelligence" rebrand order and the White House Accord on Super Intelligence, signed by six tech leaders
+
+- **MIT Technology Review reported that at the end of September President Trump signed an executive order directing government agencies to rebrand what they had been calling artificial intelligence as "Super Intelligence"** — the order contained a single directive. ([MIT Technology Review](https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/)) Claims: kat-claim-469521042a66
+- **MIT Technology Review reported that on the day the order was signed Trump also released a nonbinding statement on AI safety, the White House Accord on Super Intelligence, signed by Sundar Pichai of Google, Dario Amodei of Anthropic, Mark Zuckerberg of Meta, Greg Brockman of OpenAI, Elon Musk of xAI and Jensen Huang of Nvidia** ([MIT Technology Review](https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/)) Claims: kat-claim-6c0b5a4b8c1e
+
 ## 2026-10-28 — Google releases Gemini 4 Carbon only to cybersecurity defense companies, with wider access to come through its Fairwind Program
 
 - **The Verge reported that Google released its Gemini 4 Carbon frontier model only to a select group of cybersecurity defense companies, with access to expand later to other partners in its Fairwind Program** — Google says Carbon tops the Artificial Analysis Intelligence Index (v5.0), ahead of Claude Opus 5.5 and GPT-6 Astra, and holds the top spot on the SEC-bench Pro and ExploitGym cybersecurity benchmarks; it launches at Argon's introductory price of $2 per million input tokens and $10 per million output tokens. ([The Verge](https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier)) Claims: kat-claim-3cfef4e3cf13

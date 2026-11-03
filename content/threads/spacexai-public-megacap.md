@@ -20,6 +20,11 @@ blurb: 'SpaceX (Nasdaq: SPCX) — the public parent holding xAI + X ("SpaceXAI" 
   circular financing. Q7 material.'
 ---
 
+## 2026-11-02 — TechCrunch: SpaceX said in an October filing that AI is 52% of company income; its Super Intelligence division reported a $431 million profit
+
+- **TechCrunch reported that SpaceX said in a filing in October that AI now makes up 52% of company income** — TechCrunch describes Grok Bot as positioned as a success story for the newly public company. ([TechCrunch](https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/)) Claims: kat-claim-d46dff7d326b
+- **TechCrunch reported that SpaceX's renamed "Super Intelligence" division turned a profit of $431 million, and that the profit would have been higher without $1.2 billion of one-time costs related to the acquisition of Cursor** — TechCrunch calls a profit a rarity in the AI industry. ([TechCrunch](https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/)) Claims: kat-claim-e6e275135f8d
+
 ## 2026-10-26 — SpaceX discloses a binding commitment for roughly $40 billion of GPU lease financing from an Apollo-managed entity
 
 - **TechCrunch reported, citing a SpaceX regulatory filing, that SpaceX has a binding commitment for roughly $40 billion of financing for AI chips and related data center equipment** — An entity managed by Apollo Global Management will buy the chips and server hardware and lease them to SpaceX for about five to five and a quarter years from each delivery; SpaceX expects the deal to close by year-end, with leases starting in the first half of 2027. TechCrunch does not say whether this is the debt package InvestorPlace reported on 2026-10-15 as in talks (kat-claim-16d6a9ef3813). ([TechCrunch](https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/)) Claims: kat-claim-3992d5ceeb91

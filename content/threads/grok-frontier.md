@@ -18,6 +18,10 @@ blurb: 'The Grok line closing the frontier gap as a FAST FOLLOWER, not mid-pack:
   coding, and whether owning the mines sustains a lead vs. OpenAI/Anthropic.'
 ---
 
+## 2026-11-02 — TechCrunch: Musk says the cost of serving Grok Bot was "unsustainably high relative to revenue" after users' usage limits were cut
+
+- **TechCrunch reported that SpaceX CEO Elon Musk confirmed in an X post on November 1 that the cost of serving Grok Bot was "unsustainably high relative to revenue"** — the post followed reports from some users that their weekly usage limits had jumped, in some cases from as low as 50% to 100%, over the Halloween weekend without overnight use; TechCrunch says Musk has not said how subscribers' limits will change. ([TechCrunch](https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/)) Claims: kat-claim-295488fbe84b
+
 ## 2026-10-25 — Grok publishes the first seven minutes of its AI-generated "Odyssey" series
 
 - **TechCrunch reported that Grok published seven minutes of an AI-generated "Odyssey" series, which the company calls Episode 1, made with Grok Imagine in collaboration with Wonder Studios and director Dev Walker** TechCrunch says Musk had said three months earlier that Grok would release a full-length "historically accurate" film version of the Odyssey; the Grok Imagine account posted the episode on October 23. ([TechCrunch](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/)) Claims: kat-claim-341ce5d5488e

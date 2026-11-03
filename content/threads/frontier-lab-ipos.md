@@ -27,6 +27,13 @@ blurb: 'The frontier labs are converting private, vendor-financed valuations int
   (currently "as late as next year") move.'
 ---
 
+## 2026-11-02 — Crunchbase News: venture funding reached nearly $680 billion through Q3, with a third of Q3 dollars going to 27 rounds of $1 billion or more
+
+- **Crunchbase News reported that global venture capital spending in 2026 reached nearly $680 billion through Q3, a record** — it adds that investors are writing fewer checks to seed and early-stage companies. ([Crunchbase News](https://news.crunchbase.com/venture/q3-2026-charts-funding-amounts-vs-round-counts/)) Claims: kat-claim-6f6a15685388
+- **Crunchbase News reported that about one-third of Q3 2026 venture funding went to 27 companies raising rounds of $1 billion or more** ([Crunchbase News](https://news.crunchbase.com/venture/q3-2026-charts-funding-amounts-vs-round-counts/)) Claims: kat-claim-891e13b39fe6
+- **Crunchbase News reported that in Q3 2026 North American startup deal counts fell 16% year over year to the lowest quarterly total since 2023, while North American funding dollars rose 50% year over year to $92 billion** ([Crunchbase News](https://news.crunchbase.com/venture/q3-2026-charts-funding-amounts-vs-round-counts/)) Claims: kat-claim-faf34160ba00
+- **Crunchbase News reported that Anthropic, which it called the biggest venture-backed private company, is slated to go public in November 2026 in a potential $2 trillion IPO** ([Crunchbase News](https://news.crunchbase.com/venture/q3-2026-charts-funding-amounts-vs-round-counts/)) Claims: kat-claim-657993566009
+
 ## 2026-10-19 — Bloomberg reports investor pushback on Nscale's proposed $30 billion valuation
 
 - **Bloomberg reported on Monday that Nscale is experiencing investor pushback over its proposed $30 billion valuation, TechCrunch reported** — TechCrunch says Nscale is seeking to go public and that Anthropic is still expected to go public this year. ([TechCrunch](https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/)) Claims: kat-claim-73082474045b
