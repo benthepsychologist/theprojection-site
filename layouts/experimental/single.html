@@ -17,6 +17,7 @@
   <p class="exp-disclaimer"><strong>An experiment, unfinished on purpose.</strong> It may be wrong, broken or unhelpful, and it changes without notice.
     The version number and update time above tell you whether you are looking at the latest.</p>
   {{ if eq $slug "new-map" }}{{ partial "money-map.html" . }}{{ end }}
+  {{ if eq $slug "ocf-capex" }}{{ partial "ocf-capex.html" . }}{{ end }}
 </div>
 <style>
 .exp-disclaimer{ border:1px solid var(--rule); background:var(--paper-dim); padding:.9rem 1.1rem; margin:1.2rem 0 1.6rem; line-height:1.55; }

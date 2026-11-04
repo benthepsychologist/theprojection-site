@@ -1,0 +1,67 @@
+{{/* Operating cash flow over capex per company (experimental, version in data/experiments.json). Data: data/ocf_capex.json,
+     which the hub computes from the corpus export's own_funding block. */}}
+{{ $d := .Site.Data.ocf_capex }}
+{{ $scale := 1.6 }}
+<section id="ocf-capex" class="oc">
+  <p class="oc-lede">For each big spender: the cash its business made from operations, divided by what it spent on capital equipment
+    (property, data centres, chips), over the nine months to {{ dateFormat "January 2, 2006" $d.window.end }}.
+    <strong>Above 100%</strong> a company paid for its build-out from its own operations. <strong>Below 100%</strong> it needed money from somewhere else:
+    borrowing, selling stock, its cash pile, or a partner.</p>
+
+  <div class="oc-rows" role="list">
+    {{ range $d.companies }}
+    {{ $pct := mul .ratio 100.0 }}
+    {{ $w := math.Min (div $pct (mul $scale 100.0) | mul 100.0) 100.0 }}
+    <div class="oc-row" role="listitem">
+      <div class="oc-name">{{ .name }}</div>
+      <div class="oc-track" aria-hidden="true">
+        <span class="oc-bar {{ if ge .ratio 1.0 }}oc-self{{ else }}oc-out{{ end }}" style="{{ printf "width:%.1f%%" $w | safeCSS }}"></span>
+        <span class="oc-line" style="{{ printf "left:%.2f%%" (div 100.0 $scale) | safeCSS }}"></span>
+      </div>
+      <div class="oc-pct">{{ printf "%.0f%%" $pct }}</div>
+      <div class="oc-detail">operating cash {{ printf "$%.1fB" (div .ocf 1000000000.0) }} against capex {{ printf "$%.1fB" (div .capex 1000000000.0) }} · {{ .how }}</div>
+    </div>
+    {{ end }}
+  </div>
+  <p class="oc-axis">The vertical line marks 100%: operating cash exactly covers capex. Bars stop at {{ printf "%.0f%%" (mul $scale 100.0) }}.</p>
+
+  {{ $big := slice "Amazon" "Alphabet" "Microsoft" "Meta" }}
+  {{ $capex := 0.0 }}{{ $ocf := 0.0 }}
+  {{ range $d.companies }}{{ if in $big .name }}{{ $capex = add $capex .capex }}{{ $ocf = add $ocf .ocf }}{{ end }}{{ end }}
+  <p class="oc-total"><strong>The four big cloud companies together</strong> (Amazon, Alphabet, Microsoft, Meta) spent about
+    {{ printf "$%.1fB" (div $capex 1000000000.0) }} on capital equipment in this period against about {{ printf "$%.1fB" (div $ocf 1000000000.0) }} of operating cash.</p>
+
+  <h2 class="oc-h">Read this first</h2>
+  <ul class="oc-notes">
+    <li><strong>Actuals only.</strong> These are figures from each company's filed reports. Guidance (what a company says it will spend) is in no figure here.</li>
+    <li><strong>Where a company reports in pieces, the pieces are added</strong> (Amazon's and Microsoft's nine months are periods added together). The detail line says how each figure was built.</li>
+    <li><strong>SpaceX/xAI:</strong> its June share-sale proceeds fall outside this window and are not in operating cash.</li>
+    <li><strong>This is cash from operations, not profit,</strong> and capex here is the cash spent on property and equipment, not every way a company funds a build-out (leases, for one, are not in it).</li>
+  </ul>
+  {{ with $d.apart }}
+  <h2 class="oc-h">Not charted</h2>
+  <ul class="oc-notes">
+    {{ range . }}<li><strong>{{ .name }}.</strong> {{ .why }}</li>{{ end }}
+  </ul>
+  {{ end }}
+  <p class="oc-foot">Source: the figures behind these bars are in the frontier AI and capital corpus's export (own funding, revision 2). The hub only divides them.</p>
+</section>
+<style>
+.oc{ margin-bottom:2.5rem; }
+.oc-lede{ line-height:1.55; }
+.oc-rows{ margin:1.4rem 0 .4rem; }
+.oc-row{ display:grid; grid-template-columns:7.5rem minmax(0,1fr) 3.6rem; gap:.2rem .7rem; align-items:center; margin:1rem 0 1.1rem; }
+.oc-name{ font-weight:600; }
+.oc-track{ position:relative; height:1.15rem; background:var(--paper-dim); min-width:0; }
+.oc-bar{ display:block; height:100%; }
+.oc-self{ background:var(--ink); }
+.oc-out{ background:color-mix(in srgb, var(--ink) 28%, transparent); }
+.oc-line{ position:absolute; top:-.25rem; bottom:-.25rem; width:0; border-left:2px solid var(--ink-faint); }
+.oc-pct{ text-align:right; font-weight:600; font-variant-numeric:tabular-nums; }
+.oc-detail{ grid-column:2 / -1; font-size:.82rem; color:var(--ink-faint); }
+.oc-axis,.oc-foot{ font-size:.82rem; color:var(--ink-faint); }
+.oc-total{ line-height:1.55; margin-top:1.2rem; }
+.oc-h{ font-size:1.05rem; margin-top:2rem; }
+.oc-notes{ line-height:1.55; padding-left:1.1rem; }
+@media (max-width:30rem){ .oc-row{ grid-template-columns:minmax(0,1fr) 3.6rem; } .oc-track{ grid-column:1 / -1; order:3; } .oc-detail{ grid-column:1 / -1; order:4; } }
+</style>
