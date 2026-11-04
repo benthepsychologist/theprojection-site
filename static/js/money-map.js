@@ -6,7 +6,8 @@
    ceilings: shown apart from firm figures and never added to a total (total = realized + pledged; all = with guided). */
 (function (root) {
   'use strict';
-  var LAYERS = ['construction', 'hardware', 'above'];
+  var LAYERS = ['construction', 'hardware', 'above', 'unsplit'];
+  var LAYER_NAME = { unsplit: 'not split by layer (a company\'s whole capex total)' };
   var AUTO_SHARE = 0.9, AUTO_CAP = 12;
 
   function usd(x) {
@@ -142,14 +143,14 @@
         out.forEach(function (r) { if (r.s === 'guided') gd += r.u; else total += r.u; });
         b.appendChild(el('p', 'mm-total', usd(total) + ' recorded' + (gd ? ' (+' + usd(gd) + ' guided or estimated, not added)' : '')));
         LAYERS.forEach(function (L) {
-          var gs = group(out.filter(function (r) { return r.l === L; }), function (r) { return r.d; });
+          var gs = group(out.filter(function (r) { return r.l === L; }), function (r) { return r.d || 'Capex total, not itemized'; });
           gs.forEach(function (g) { if (g.all > max) max = g.all; });
           byLayer[L] = gs;
         });
         LAYERS.forEach(function (L) {
           if (!byLayer[L].length) return;
           var sub = 0; byLayer[L].forEach(function (g) { sub += g.total; });
-          b.appendChild(el('h4', 'mm-layer', L + ' · ' + usd(sub)));
+          b.appendChild(el('h4', 'mm-layer', (LAYER_NAME[L] || L) + ' · ' + usd(sub)));
           bars(b, byLayer[L], max);
         });
         if (!out.length) b.appendChild(el('p', 'mm-empty', 'Nothing recorded under these filters.'));
