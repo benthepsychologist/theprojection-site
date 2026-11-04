@@ -43,6 +43,51 @@
       </tbody></table>
     </div>
   </div>
+
+  {{ with .site.Data.money_realized }}
+  {{ $r := . }}
+  <section class="fm-est" id="estimated-actual-spend">
+    <h2>What was actually spent: estimates</h2>
+    <p class="fm-est-lede">Everything above counts what was announced, committed or paid, as claims in the corpus's graph. This is a different question: how much did each company actually spend on capital expenditure? These are <strong>estimates</strong> built from the companies' own filings. They are added to <strong>none</strong> of the totals above, and a company's capital spending is for the whole company, not only AI.</p>
+    <table class="fm-bd-table fm-est-table">
+      <thead><tr><th>Company</th><th class="fm-bd-amt">2025</th><th class="fm-bd-amt">2026 to date</th></tr></thead>
+      <tbody>
+        {{ range $r.companies }}
+        {{ $y25 := index .years "2025" }}{{ $y26 := index .years "2026" }}
+        <tr><td>{{ .name }}</td>
+          <td class="fm-bd-amt">{{ with $y25 }}{{ if lt .amount_usd 100000000.0 }}{{ printf "$%.0fM" (div .amount_usd 1000000) }}{{ else }}{{ printf "$%.1fB" (div .amount_usd 1000000000) }}{{ end }}<span class="fm-est-sub">{{ .confidence }} confidence</span>{{ else }}<span class="fm-est-none">none held</span>{{ end }}</td>
+          <td class="fm-bd-amt">{{ with $y26 }}{{ if lt .amount_usd 100000000.0 }}{{ printf "$%.0fM" (div .amount_usd 1000000) }}{{ else }}{{ printf "$%.1fB" (div .amount_usd 1000000000) }}{{ end }}<span class="fm-est-sub">to {{ time.Format "2 Jan 2006" .period_end }} · {{ .confidence }} confidence</span>{{ else }}<span class="fm-est-none">none held</span>{{ end }}</td></tr>
+        {{ end }}
+        {{ $t25 := index $r.totals "2025" }}{{ $t26 := index $r.totals "2026" }}
+        <tr class="fm-est-total"><td>All companies with an estimate</td>
+          <td class="fm-bd-amt">{{ printf "$%.1fB" (div $t25.usd 1000000000) }}</td>
+          <td class="fm-bd-amt">{{ printf "$%.1fB" (div $t26.usd 1000000000) }}</td></tr>
+      </tbody>
+    </table>
+    <p class="fm-bd-note">{{ with $t25.without }}{{ range . }}{{ .name }} has no 2025 figure: {{ .reason }}. {{ end }}{{ end }}2026 runs to each company's latest reported period end, so it is a partial year. Cash purchases of property and equipment, except Meta's own total; assets acquired under finance leases are a separate figure and are not included.</p>
+    {{ with $r.commitments }}{{ if .count }}<p class="fm-bd-note">{{ .count }} pledged commitments with a stated start and end also have a straight-line estimate of spending so far in 2026, about {{ printf "$%.1fB" (div .usd 1000000000) }} in all. That is an assumption, because no source states when the money is paid. Confidence: low. It is not in the table above.</p>{{ end }}{{ end }}
+  </section>
+  {{ end }}
+
+  {{ with .site.Data.money_outlets }}
+  {{ $o := . }}
+  <section class="fm-est fm-outlets" id="published-totals-compared">
+    <h2>Published totals, compared</h2>
+    <p class="fm-est-lede">Other outlets publish an overall number for AI spending. We set each beside the matching figure from this corpus and say whether the difference is explained. <strong>An outlet's number is never added to ours.</strong> It is second-hand, so the way we read it is shown beside it.</p>
+    <p class="fm-bd-note">{{ len $o.comparisons }} comparisons: {{ index $o.counts "explained" }} explained, {{ index $o.counts "partly_explained" }} partly explained, {{ index $o.counts "unexplained" }} unexplained, {{ index $o.counts "not_comparable" }} not comparable. Checked {{ with $o.as_of }}{{ . }}{{ end }} against {{ $o.outlet_count }} outlets and {{ $o.figure_count }} published figures.</p>
+    <table class="fm-bd-table fm-est-table fm-cmp-table">
+      <thead><tr><th>Outlet and its figure</th><th class="fm-bd-amt">Ours</th><th>Result</th></tr></thead>
+      <tbody>
+        {{ range $o.comparisons }}
+        <tr><td><a href="{{ .url }}" rel="noopener">{{ .outlet }}</a>: {{ .outlet_text }}<span class="fm-est-sub">{{ .outlet_period }}{{ with .published }} · published {{ . }}{{ end }} · {{ index $o.verification_words .verification }}</span></td>
+          <td class="fm-bd-amt">{{ with .corpus_usd }}{{ printf "$%.1fB" (div . 1000000000) }}{{ else }}—{{ end }}</td>
+          <td>{{ index $o.status_words .status }}</td></tr>
+        <tr class="fm-cmp-why"><td colspan="3"><details><summary>Why they differ</summary><p>{{ .explanation }}</p>{{ with .corpus_what }}<p class="fm-bd-note">Our figure: {{ . }}</p>{{ end }}</details></td></tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </section>
+  {{ end }}
   {{ end }}
 
   {{ if $flow }}

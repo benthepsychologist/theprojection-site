@@ -1265,3 +1265,16 @@ ul.cites a{ font-weight:600; }
   .fm-totals{ font-size:.92rem; margin:.2rem 0 .3rem; }
   .fm-totals strong{ font-size:1.15rem; }
   .fm-bd-note{ color:var(--ink-faint); font-size:.76rem; margin:.5rem 0 0; }
+  .fm-est{ margin:1.8rem 0; }
+  .fm-est h2{ font-size:1.02rem; margin:0 0 .5rem; }
+  .fm-est-lede{ font-size:.88rem; margin:.2rem 0 .8rem; max-width:62ch; }
+  .fm-est-table th{ text-align:left; font-weight:600; font-size:.74rem; color:var(--ink-faint); padding:.3rem 0; }
+  .fm-est-table th.fm-bd-amt{ text-align:right; }
+  .fm-est-table tr:first-child td{ border-top:1px solid var(--rule); }
+  .fm-est-sub{ display:block; font-weight:400; font-size:.72rem; color:var(--ink-faint); }
+  .fm-est-none{ font-weight:400; color:var(--ink-faint); }
+  .fm-est-total td{ font-weight:600; }
+  .fm-cmp-table td{ vertical-align:top; }
+  .fm-cmp-why td{ border-top:none; padding:0 0 .4rem; font-size:.8rem; }
+  .fm-cmp-why summary{ cursor:pointer; color:var(--ink-faint); }
+  .fm-cmp-why p{ margin:.3rem 0 0; max-width:62ch; }
