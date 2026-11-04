@@ -22,6 +22,10 @@ blurb: 'The combined 2026 plan is now ~$610-650B across the four (Google $195-20
   threads). Earnings Wed/Thu (Meta+MSFT 07-29, AMZN 07-30) are the live test.'
 ---
 
+## 2026-11-03 — The Verge on Apple's earnings: $2.2 billion of capital expenditure last quarter, against Amazon's $77.3 billion and Alphabet's $51.4 billion
+
+- **The Verge reported that Apple spent $2.2 billion on capital expenditures in its latest quarter, compared with Amazon's $77.3 billion and Alphabet's $51.4 billion, and that those totals cover company-wide capital expenditure, not just AI** — The Verge says Apple's approach combines on-device processing, its own servers and outside AI technology, and that Apple's capital spending remains a fraction of its peers'. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai)) Claims: kat-claim-304b5fb8d1e2
+
 ## 2026-10-29 — Amazon reports: about $220 billion of 2026 cash capex, with more to come in 2027
 
 - **TechCrunch reported that Amazon still expects 2026 cash capex of approximately $220 billion, the majority for AWS, and expects to spend meaningfully more in 2027** — TechCrunch notes that Microsoft, which reported the previous day, has also spent heavily while posting record revenue growth. ([TechCrunch](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/)) Claims: kat-claim-99672b04ea97

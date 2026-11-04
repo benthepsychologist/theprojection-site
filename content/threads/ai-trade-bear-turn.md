@@ -14,10 +14,13 @@ blurb: 'Is the tape turning against the AI trade as a whole? Distinct from the c
   the earnings verdicts, and whether the drawdown changes actual capex behavior.'
 ---
 
-## 2026-11-03 — EPFR: technology sector funds take in more than six times the inflow of the next-largest group; equity funds draw $56.2 billion
+## 2026-11-03 — EPFR: technology sector funds take in more than six times the inflow of the next-largest group; equity funds draw $56.2 billion; TechCrunch: Palantir's third-quarter revenue grows 96% while its U.S. commercial revenue passes U.S. government revenue
 
 - **ISI Markets reported, in an EPFR Global Navigator note, that technology sector funds took in more than six times the fresh money that went to the second-most popular group of funds in the latest week** — the note says the funds posted their biggest outflow in over a month on the final day of the reporting period. ([ISI Markets](https://isimarkets.com/publications/global-navigator-navigating-the-late-october-crosscurrents/)) Claims: kat-claim-a8d157c226c6
 - **ISI Markets reported that investors steered $56.2 billion into equity funds and $3.3 billion into money market funds during the week ending October 28** ([ISI Markets](https://isimarkets.com/publications/global-navigator-navigating-the-late-october-crosscurrents/)) Claims: kat-claim-a1a77f31c758
+- **TechCrunch reported that Palantir's third-quarter 2026 revenue grew 96% year over year to $2.31 billion, the first time its quarterly revenue has surpassed $2 billion** — TechCrunch says the figure beat analysts' expectation of $2.18 billion, that Palantir raised its full-year revenue guidance, and that its shares traded slightly down on Tuesday. ([TechCrunch](https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/)) Claims: kat-claim-fe8b6cdef2c5
+- **TechCrunch reported that Palantir's U.S. commercial revenue surpassed its U.S. government revenue for the first time, at $984 million (up 148% from a year earlier) against $953 million** ([TechCrunch](https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/)) Claims: kat-claim-0f2817c5bc48
+- **TechCrunch reported that Palantir closed $1.46 billion of total contract value from U.S. enterprises in the quarter, down from a record $2.13 billion in the previous quarter** — TechCrunch says the decline suggests decelerating sales, and quotes CEO Alex Karp describing enterprise contracts as of shorter duration but with an ability to expand dramatically. ([TechCrunch](https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/)) Claims: kat-claim-bc67de4bf639
 
 ## 2026-10-19 — EPFR: equity funds take in $64.5 billion in the week to October 14 as alternatives post their first outflow since July
 

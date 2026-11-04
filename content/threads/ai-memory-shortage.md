@@ -22,6 +22,10 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   and who blinks first on capex.'
 ---
 
+## 2026-11-03 — The Verge: Apple shares fall after it warns that rising memory costs will squeeze holiday-quarter margins
+
+- **The Verge reported that Apple shares fell in premarket trading on Tuesday after Apple warned that rising memory costs would squeeze its profit margins in the holiday quarter** — The Verge says iPhone and Mac sales continued to grow strongly in the September quarter. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai)) Claims: kat-claim-fb5861c4e8f4
+
 ## 2026-10-02 — Toshiba's plan to double hard-drive output hits Seagate and Western Digital
 
 - **Seagate fell about 10% and Western Digital about 7% in early Friday trading after Nikkei Asia reported that Toshiba plans to double its hard-disk-drive output.** Toshiba plans to spend about 60 billion yen expanding production in the Philippines for AI data-center storage; a memory-stock ETF rose 0.8%, so the sell-off was confined to drive makers. ([Nikkei Asia](https://asia.nikkei.com/business/electronics/toshiba-to-double-hard-disk-drive-supply-to-fill-ai-chip-memory-gap), [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/seagate-tumbles-10-western-digital-125250923.html))

@@ -15,6 +15,11 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
   AMD/Azure/Google-TPU compute deals get positioned in the roadshow narrative.'
 ---
 
+## 2026-11-03 — TechCrunch on Anthropic's updated S-1: revenue of $17 billion for the quarter to September 30, with compute taking 58% of it
+
+- **TechCrunch reported that Anthropic's update to its S-1, filed on Monday 2 November, showed revenue of $17 billion for the quarter ended September 30, up from $11.5 billion in the previous quarter** — the update extends the filing's financial disclosures, which had covered the period to June 30, by one quarter; TechCrunch adds that the operating loss grew over the same period, in large part because of growing compute costs. ([TechCrunch](https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/)) Claims: kat-claim-c59f89c1ca8a
+- **TechCrunch reported that, according to the updated S-1, compute took up 58% of Anthropic's revenue in the quarter, up from 48% in the quarter before** — TechCrunch says the filing's chart of revenue per dollar of compute peaked at just over 2x before falling to 1.72x, and that many indications imply the shift is a blip rather than a long-term problem. ([TechCrunch](https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/)) Claims: kat-claim-b763577dcc45
+
 ## 2026-11-02 — TechCrunch on Anthropic's revised S-1/A: risk-factor language says internal estimates indicate it may imminently meet its definition of dramatically accelerated AI-driven progress
 
 - **TechCrunch reported that Anthropic's revised S-1/A, filed on Monday, adds Risk Factors language saying its internal estimates indicate it may imminently meet its Responsible Scaling Policy's definition of "dramatically accelerated progress attributable to AI"** — the filing, as quoted by TechCrunch, adds that Anthropic has not designated any of its current models as exceeding that threshold and continues to assess the underlying data; TechCrunch notes that most coverage of the filing had focused on its updated financials. ([TechCrunch](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/)) Claims: kat-claim-5aedb2b65076

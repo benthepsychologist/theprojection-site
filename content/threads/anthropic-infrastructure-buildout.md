@@ -28,6 +28,12 @@ blurb: 'Anthropic has signed four large infrastructure arrangements in roughly t
   — this thread asks a narrower question, who ends up holding the asset.'
 ---
 
+## 2026-11-03 — TechCrunch on the updated S-1: a $10 billion compute bill for the quarter to September 30, with $5.0 billion bought under short-term commitments
+
+- **TechCrunch reported that Anthropic's compute bill rose to $10 billion for the quarter ended September 30, including $5.0 billion of compute under short-term commitments** — the filing says that compute currently costs significantly more than comparable compute procured under multi-year commitments; TechCrunch says demand grew so fast that Anthropic had to scramble for compute at higher rates. ([TechCrunch](https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/)) Claims: kat-claim-32f238d1a6c6
+- **TechCrunch reported that the filing states Anthropic expects compute and infrastructure expenses to increase in absolute dollars and to remain its largest operating expense for the foreseeable future** — the filing ties this to additional committed compute becoming available under multi-year arrangements with cloud service providers and to continued investment in additional compute. ([TechCrunch](https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/)) Claims: kat-claim-9ae01aca6905
+- **TechCrunch reported that the filing discusses efforts to build Anthropic's own compute base under a project it calls "Anthropic Direct"** — TechCrunch says that, with demand growing so fast, those efforts will not keep pace, and that neoclouds, which offer more flexible compute at higher rates than hyperscalers, will remain the best option. ([TechCrunch](https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/)) Claims: kat-claim-84da112828e9
+
 ## 2026-10-29 — The Verge's tally of the S-1's commitments: $265.6 billion of purchase commitments, $321.4 billion of leases not yet commenced, and about $245 billion of newer agreements
 
 - **The Verge reported that the S-1's "Commitments and contingencies" section lists a fixed minimum of non-cancelable purchase commitments totalling $265.6 billion, with terms of one to 20 years, and lease agreements, primarily for compute and infrastructure capacity, that had not yet commenced totalling $321.4 billion as of the unaudited June 30 figures** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive)) Claims: kat-claim-a58e6ea6a60f

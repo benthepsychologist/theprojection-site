@@ -20,6 +20,10 @@ blurb: 'At WWDC 2026 (06-08) Apple shipped Siri AI on Apple Foundation Models "c
   model.'
 ---
 
+## 2026-11-03 — The Verge: Apple's Siri AI uses models developed with Google's Gemini technology
+
+- **The Verge reported that Apple's Siri AI uses models developed with Google's Gemini technology** — The Verge adds that Apple reportedly plans to let users choose among outside AI providers for features such as writing tools and image generation. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai)) Claims: kat-claim-92f6ba6e1ef9
+
 ## 2026-09-22 — OpenAI tells a court its ChatGPT-in-Siri deal underperformed, and that Apple refused exclusivity
 
 - **OpenAI told a federal court that Apple's ChatGPT integration was "persistently underperforming" and that Apple refused the two-year exclusivity OpenAI first asked for, in a summary-judgment brief filed 09-22 in Musk's companies' antitrust suit.** The brief (heavily redacted) says the integration was "dramatically underperforming" by the time the suit was filed and that OpenAI raised the problem with Apple on 2026-03-25; on the Google side it cites only the 2026-01-12 joint announcement that Apple's next Foundation Models would be "based on Google's Gemini models and cloud technology", so the brief itself does not explain why Apple chose Gemini. Apple's non-exclusivity, and its stated plan to integrate one provider and then add others, is the contractual background to the Gemini deal. ([Court filing, Doc. 403](https://www.courtlistener.com/docket/71191818/403/x-corp-v-apple-inc/), [MacRumors](https://www.macrumors.com/2026/09/23/openai-siri-chatgpt-underperforming/))

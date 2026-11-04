@@ -19,6 +19,10 @@ blurb: 'One story, both directions: Z.AI''s 1 GW all-domestic-chip site, Kimi K3
   its models/chips. US chip-equity reaction is the measure.'
 ---
 
+## 2026-11-03 — Crunchbase News: DeepSeek's $15.9 billion raise at a $90 billion valuation is the largest private funding by a Chinese tech company on record
+
+- **Crunchbase News reported that DeepSeek raised $15.9 billion in October 2026 at a valuation of $90 billion, the largest private funding by a Chinese tech company on record** — the figure compares with the about $15 billion TechCrunch reported, citing Bloomberg, on 2026-10-22; Crunchbase says the round places DeepSeek second among Chinese companies by valuation, after ByteDance, and third among private frontier labs, after Anthropic and OpenAI. ([Crunchbase News](https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/)) Claims: kat-claim-456b5b17b2c3
+
 ## 2026-10-29 — TechCrunch, relaying the New York Times, reports a Megaspeed executive may have been a Chinese spy; Nvidia denies it
 
 - **TechCrunch, relaying anonymous sources quoted by the New York Times, reported that a top executive of Megaspeed, a Singapore AI cloud firm accused of illegally selling Nvidia chips to China, could also have been a Chinese spy** — TechCrunch reports the Times said US intelligence agencies had surveilled the executive for about a year over her ties with China, amid concern that she had grown close to Nvidia CEO Jensen Huang and could have been gathering information about Nvidia's plans and his efforts to persuade the Trump administration to allow it to ship more advanced technology to China; the Times reported in 2025 that the Commerce Department had investigated Megaspeed over concerns it was helping Chinese companies sidestep AI chip export rules by reselling restricted chips. ([TechCrunch](https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/)) Claims: kat-claim-8664232c167c

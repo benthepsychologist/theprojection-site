@@ -27,10 +27,13 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   count.'
 ---
 
-## 2026-11-03 — WIRED: New York City Mayor Zohran Mamdani calls opposition to data centers bipartisan and cites similarities between the housing bubble and the state of AI
+## 2026-11-03 — WIRED: New York City Mayor Zohran Mamdani calls opposition to data centers bipartisan and cites similarities between the housing bubble and the state of AI; The Verge: OpenAI uses "compute campus" over "data center" in its Grid Protectors announcement
 
 - **WIRED reported, in an interview published November 3, that New York City Mayor Zohran Mamdani said opposition to data centers is a bipartisan fight, naming Ron DeSantis as sharing a similar opposition** — Mamdani described it as a repudiation of an AI politics he summarized as "our risk, their reward". ([WIRED](https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/)) Claims: kat-claim-dfb095743d79
 - **WIRED reported that Mamdani said there are far too many similarities between the housing bubble and the state of AI in the economy today** — he answered yes when asked whether he worries about a bubble and whether it will pop. ([WIRED](https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/)) Claims: kat-claim-8002f4936a38
+- **The Verge reported that OpenAI used the term "compute campus" in its Monday announcement of the "Grid Protectors Program", and that in the roughly 900-word announcement the term "data center" appeared twice** — The Verge says a quick search of OpenAI's website turned up no previous use of the term. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses)) Claims: kat-claim-8aaa58c3ee64
+- **The Verge reported that Axios reported on Monday that OpenAI was planning to rebrand data centers as "AI compute campuses" as part of a policy and PR push after Tuesday's midterms** — The Verge says the report described OpenAI as anticipating a more hostile regulatory environment if Democrats make gains. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses)) Claims: kat-claim-de00bdda16c7
+- **The Verge reported that activist groups it spoke to see the rebrand as a fairly transparent attempt to break free from an increasingly toxic label without tackling what made it toxic** — The Verge quotes PauseAI US's Holly Elmore and the NAACP's Abre' Conner as critics. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses)) Claims: kat-claim-e7a6549f6691
 
 ## 2026-11-02 — The Verge: OpenAI pilots a "Grid Protectors Program" at a Georgia data center, promising up to 1,000 megawatts of flexibility
 
