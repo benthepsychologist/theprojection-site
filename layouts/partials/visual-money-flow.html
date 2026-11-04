@@ -31,6 +31,7 @@
           <td class="fm-bd-amt">{{ if gt .total_usd 0 }}{{ printf "$%.1fB" (div .total_usd 1000000000) }}{{ else }}—{{ end }}</td></tr>
         {{ end }}
       </tbody></table>
+      <p class="fm-bd-note">"Unspecified" is spend with no single stated use, mostly a company's whole capital-spending total, which companies do not split by what it bought. It is counted, not dropped, so this table adds up to the whole.</p>
     </div>
     <div class="fm-breakdown">
       <h2>Where it's going — top tracked recipients</h2>
