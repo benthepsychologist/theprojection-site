@@ -19,6 +19,12 @@ blurb: 'Whether the ~14GW of announced OpenAI/Meta/Anthropic compute deals actua
   the Oracle 50,000-GPU Q3-2026 rollout starts on schedule.'
 ---
 
+## 2026-11-03 — AMD reports third-quarter 2026 revenue of $13.4 billion and Data Center segment revenue of $8.5 billion
+
+- **AMD's Exhibit 99.1 to its Form 8-K filed 3 November 2026 states that third quarter 2026 revenue was $13.4 billion, gross margin was 54%, operating income was $2.8 billion and net income was $2.4 billion** ([AMD, Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/q32026991.htm)) Claims: kat-claim-1daa0946c817
+- **AMD's Exhibit 99.1 states that Data Center segment revenue for the third quarter of 2026 was a record $8.5 billion, up 97% year-over-year** ([AMD, Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/q32026991.htm)) Claims: kat-claim-fcc945f90f75
+- **AMD's Exhibit 99.1 states that Anthropic, Meta, Microsoft, OpenAI and Oracle Cloud Infrastructure are running models and workloads on the first AMD Helios rackscale solutions** ([AMD, Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/q32026991.htm)) Claims: kat-claim-cb3ef3168f93
+
 ## 2026-09-28 — AMD agrees to buy Fei-Fei Li's World Labs for $8.2 billion
 
 - **AMD agreed to acquire Fei-Fei Li's World Labs for about $8.2 billion in stock, with Li joining AMD as executive vice president and chief scientist** AMD's release says the deal is expected to close by the end of 2026, subject to regulatory approvals, and that World Labs' spatial-intelligence models will inform AMD's hardware and software roadmaps. CNBC notes AMD is chasing Nvidia, which already offers open-weight world models. ([AMD](https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute), [CNBC](https://www.cnbc.com/2026/09/28/amd-fei-fei-li-world-labs.html))

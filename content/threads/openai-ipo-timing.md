@@ -16,6 +16,10 @@ blurb: Reported slip to 2027 chasing a ~$1T valuation; Altman rejecting a lower 
   fell ~12% on the report).
 ---
 
+## 2026-11-03 — The Verge reports OpenAI is approaching an IPO potentially slated for early next year
+
+- **The Verge reported that OpenAI is approaching an IPO potentially slated for early next year** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search)) Claims: kat-claim-0e4a5bcf14e2
+
 ## 2026-10-31 — TechCrunch, relaying the FT and WSJ, reports OpenAI cut its funding target to $20 billion and has secured $11 billion so far
 
 - **TechCrunch, relaying the Financial Times, reported that OpenAI has lowered the funding target for its latest round to $20 billion, down from a previously reported $30 billion, and that the first close is expected to be lower than $20 billion** — TechCrunch notes the round was earlier reported at $30 billion at a $1.4 trillion valuation and then at a $1.25 trillion valuation, ahead of a planned IPO, and that it had asked OpenAI for comment. ([TechCrunch](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/)) Claims: kat-claim-f24ce38e050c

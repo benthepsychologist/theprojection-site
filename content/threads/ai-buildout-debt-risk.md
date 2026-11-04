@@ -28,6 +28,16 @@ blurb: 'Whether AI-buildout debt is becoming its own underwritten, rated, public
   clock — the two produce very different recovery rates in a default.'
 ---
 
+## 2026-11-03 — Bond sales by Meta, Oracle, Alphabet and Microsoft; PIMCO's chief executive sizes the financing need
+
+- **The Verge reported, citing Bloomberg, that Meta drew $58 billion in orders for a bond offering expected to be $15 billion to $20 billion** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds)) Claims: kat-claim-bb941116a88e
+- **The Verge reported that Oracle said on Monday it would need another $20 billion in bonds, on top of its existing commitments** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds)) Claims: kat-claim-d6ca3d793aac
+- **The Verge reported that Alphabet is selling 6 billion euros (about $6.7 billion) of bonds** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds)) Claims: kat-claim-9279fc2eac29
+- **The Verge reported that Microsoft recently sold bonds for the first time in a decade, $25 billion of them** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds)) Claims: kat-claim-740e4705ff77
+- **The Verge reported that the PIMCO chief executive, Emmanuel Roman, has estimated that the AI buildout could create $2 trillion in financing needs over the next five years** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds)) Claims: kat-claim-ba00746d0af3
+- **The Verge reported that PIMCO bought $4 billion of SpaceX bonds in the month before 3 November 2026** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds)) Claims: kat-claim-f7933017060c
+- **The Verge reported that Wall Street banks were competing to finance $63 billion in debt from Anthropic** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds)) Claims: kat-claim-cf98f54b96e1
+
 ## 2026-10-22 — Blackstone's Khaira on AI-buildout debt; TechCrunch reports Firmus scrapped its ASX IPO
 
 - **TechCrunch reported that Blackstone's Jas Khaira said Blackstone is the largest owner of compute outside of the hyperscalers** — the article's account of his remarks at TechCrunch Disrupt, where it says he discussed neocloud and data-center investments and the debt behind them. ([TechCrunch](https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/)) Claims: kat-claim-ca17f3f059a7
