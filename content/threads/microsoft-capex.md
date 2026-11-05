@@ -18,6 +18,11 @@ blurb: 'Earnings 07-29 is the near-term test — the "$97B TTM" figure is derive
   split. Watch Wednesday: FY26 full-year capex, FY27 guide, any split disclosure.'
 ---
 
+## 2026-11-05 — Quarterly capex reported at $45.2 billion against an expected $50 billion
+
+- **The Verge reported that Microsoft posted $45.2 billion in capital expenditures for the quarter, down from an expected $50 billion, and attributed the lower figure to "third party capacity delays"** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3)) Claims: kat-claim-96bc467d3b62
+- **The Verge reported that Hood said Microsoft had not yet tapped the debt markets before the $25 billion, 10-part bond sale was reported the next morning** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3)) Claims: kat-claim-d66db70dc739
+
 ## 2026-10-29 — Microsoft offers voluntary buyouts to about 60,000 employees while holding AI infrastructure investment
 
 - **The Verge reported that Microsoft is offering voluntary buyouts to around 60,000 employees across the US, UK, Canada and India, which it described as part of an effort to avoid reducing investment in AI infrastructure by lowering operating costs and headcount** ([The Verge](https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad)) Claims: kat-claim-d747b11309b8

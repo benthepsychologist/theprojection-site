@@ -28,6 +28,14 @@ blurb: 'Whether AI-buildout debt is becoming its own underwritten, rated, public
   clock — the two produce very different recovery rates in a default.'
 ---
 
+## 2026-11-05 — Oracle files its November stock and notes offerings; Microsoft's ten-series notes sale appears in a filing
+
+- **Oracle's Form 8-K states that on 2 November 2026 it agreed to issue and sell 86,206,897 shares of common stock, under the heading "Issuance of $10 Billion of Common Stock", and that the offering closed on 4 November** ([Oracle Form 8-K](https://www.sec.gov/Archives/edgar/data/1341439/000119312526447507/d131790d8k.htm)) Claims: kat-claim-02e9c5f51d81
+- **Oracle's Form 8-K states that on 4 November it consummated the sale of notes under the heading "Issuance of $10 Billion Aggregate Principal Amount of Notes", in five series from $2.0 billion of 7.000% notes due 2029 to $1.5 billion of 8.650% notes due 2046** — the filing names BofA Securities as representative of the underwriters and names no purchaser. ([Oracle Form 8-K](https://www.sec.gov/Archives/edgar/data/1341439/000119312526447507/d131790d8k.htm)) Claims: kat-claim-e4b311184395
+- **Oracle's Form 8-K states that the net proceeds of the offerings will be used for general corporate purposes, which may include capital expenditures, repayment of indebtedness, future investments or acquisitions, and dividends or repurchases of common stock** ([Oracle Form 8-K](https://www.sec.gov/Archives/edgar/data/1341439/000119312526447507/d131790d8k.htm)) Claims: kat-claim-3423fd230e62
+- **Microsoft's Form 8-K states that on 29 October 2026 it entered into an underwriting agreement for ten series of senior unsecured notes, from $1.0 billion of floating rate notes due 2028 to $4.0 billion of 6.250% notes due 2056, maturing between 3 November 2028 and 3 November 2066** — the filing lists the series and states no total. ([Microsoft Form 8-K](https://www.sec.gov/Archives/edgar/data/789019/000119312526447173/d178557d8k.htm)) Claims: kat-claim-4e296dc1a2f2
+- **The Verge reported that Microsoft CFO Amy Hood said on the earnings call that Microsoft had not yet tapped the debt markets, and that news of a $25 billion, 10-part Microsoft bond sale broke the next morning** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3)) Claims: kat-claim-d66db70dc739
+
 ## 2026-11-03 — Bond sales by Meta, Oracle, Alphabet and Microsoft; PIMCO's chief executive sizes the financing need
 
 - **The Verge reported, citing Bloomberg, that Meta drew $58 billion in orders for a bond offering expected to be $15 billion to $20 billion** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds)) Claims: kat-claim-bb941116a88e

@@ -22,6 +22,12 @@ blurb: 'The combined 2026 plan is now ~$610-650B across the four (Google $195-20
   threads). Earnings Wed/Thu (Meta+MSFT 07-29, AMZN 07-30) are the live test.'
 ---
 
+## 2026-11-05 — The four hyperscalers' 2026 capex plans reported at $720 billion or more; Alphabet and Amazon point to higher 2027 spending
+
+- **The Verge reported that Amazon, Microsoft, Alphabet and Meta told investors they plan to spend at least $720 billion on capital expenditures this year, on top of at least $1 trillion in spending commitments arranged for the coming years** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3)) Claims: kat-claim-f36d828dfb44
+- **The Verge reported that Alphabet plans $195 billion to $205 billion of capital expenditures this year and, per CFO Anat Ashkenazi, significantly more in 2027, and that Amazon CEO Andy Jassy said Amazon would spend meaningfully more in 2027 than the $220 billion it plans this year** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3)) Claims: kat-claim-69654dc7aeab
+- **The Verge reported that revenue from Google's Search ads grew 12% in the third quarter, down from 17% in the same quarter a year earlier** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3)) Claims: kat-claim-a1af53bab1f4
+
 ## 2026-11-03 — The Verge on Apple's earnings: $2.2 billion of capital expenditure last quarter, against Amazon's $77.3 billion and Alphabet's $51.4 billion
 
 - **The Verge reported that Apple spent $2.2 billion on capital expenditures in its latest quarter, compared with Amazon's $77.3 billion and Alphabet's $51.4 billion, and that those totals cover company-wide capital expenditure, not just AI** — The Verge says Apple's approach combines on-device processing, its own servers and outside AI technology, and that Apple's capital spending remains a fraction of its peers'. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai)) Claims: kat-claim-304b5fb8d1e2

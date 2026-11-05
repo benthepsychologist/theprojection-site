@@ -19,6 +19,10 @@ blurb: 'Qualcomm''s datacenter re-entry, eight years after Centriq died: Dragonf
   test: Q3 FY26 earnings 07-29 (tomorrow) — does Dragonfly move guidance?'
 ---
 
+## 2026-11-05 — Qualcomm forecasts data center revenue of $650 million for the first quarter of 2027
+
+- **The Verge reported that on its earnings call Qualcomm forecast about $650 million of data center revenue for the first quarter of 2027, and said it expects $5 billion by the end of 2027 and $15 billion by 2029** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers)) Claims: kat-claim-022c97bcb65b
+
 ## 2026-09-22 — Qualcomm moves its data-center memory architecture into phones
 
 - **Qualcomm CEO Cristiano Amon said at Snapdragon Summit that the company is scaling HBC, the High Bandwidth Compute near-memory architecture introduced with its Dragonfly data-center roadmap, down into Snapdragon devices as a co-processor, with laptops, glasses and vehicles to follow.** HBC stacks compute against memory to cut the data-movement bottleneck; the data-center versions (HBC Gen 1 on the Dragonfly AI250, rated at 133 TB/s per card, later generations on the AI300) are separate implementations, and Qualcomm says it will give details at Mobile World Congress in March 2027. It is the first sign the Dragonfly-era memory design is being reused outside the data center, alongside the Samsung and SK hynix commercialization deal logged 08-26. ([Converge Digest](https://convergedigest.com/qualcomm-snapdragon-summit-2026-agentic-ai-hbc/), [Gadgets Now](https://gadgetsnow.indiatimes.com/tech-news/snapdragon-summit-2026-qualcomm-brings-its-data-centre-hbc-memory-tech-to-phones/articleshow/134423163.cms))

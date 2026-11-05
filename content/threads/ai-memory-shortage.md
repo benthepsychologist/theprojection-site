@@ -22,6 +22,10 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   and who blinks first on capex.'
 ---
 
+## 2026-11-05 — Intel and SK Hynix shortage outlooks reported alongside Altman's RAM comments
+
+- **The Verge reported that AI data centers have been taking up the world's RAM supply, that Intel expects the shortage to last through at least next year, and that SK Hynix predicted it could last until 2030** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments)) Claims: kat-claim-17a701be7217
+
 ## 2026-11-03 — The Verge: Apple shares fall after it warns that rising memory costs will squeeze holiday-quarter margins
 
 - **The Verge reported that Apple shares fell in premarket trading on Tuesday after Apple warned that rising memory costs would squeeze its profit margins in the holiday quarter** — The Verge says iPhone and Mac sales continued to grow strongly in the September quarter. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai)) Claims: kat-claim-fb5861c4e8f4

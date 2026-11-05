@@ -17,6 +17,11 @@ blurb: Where the capex lands in CONCRETE — the specific gigawatt campuses. Sta
   the specific-sites worklist lives here.
 ---
 
+## 2026-11-05 — Stargate Frontier and Nexus Hubbard sizes in Texas; orbital data center plans reported
+
+- **MIT Technology Review reported that the Stargate Frontier data center in Shackelford County, Texas is projected to serve 1,820 megawatts, and that Nexus Hubbard has a planned size of 6,400 megawatts, behind only Meta's Hyperion project in Louisiana among data centers under construction in the US** ([MIT Technology Review](https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/)) Claims: kat-claim-b3879e83357d
+- **WIRED reported that Google has launched a satellite it says contains "data center class TPU", that SpaceX says it aims to deploy "thousands of AI satellites starting as soon as late 2027", and that Blue Origin has filed with the FCC for 50,000 satellites forming an "orbital data center system"** ([WIRED](https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/)) Claims: kat-claim-704153d3f2c7
+
 ## 2026-10-29 — Amazon reportedly pulls out of Beale Infrastructure's Project Blue near Tucson after its switch to air cooling
 
 - **The Verge reported that Amazon reportedly pulled out as the tenant of Beale Infrastructure's Project Blue data center in the Tucson area after the project switched from water cooling to closed-loop air cooling, saying an air-cooled facility would not meet its needs** — Beale declined to say whether it has found a new tenant; The Verge reports that the project is going ahead, that the Arizona Department of Water approved two wells on the site allowing up to 31 million gallons of groundwater a year, which Beale says is for construction only, and that the Pima County Board of Supervisors imposed a 120-day moratorium on new data center projects in September. ([The Verge](https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc)) Claims: kat-claim-340aa74806db

@@ -28,6 +28,11 @@ blurb: 'Anthropic has signed four large infrastructure arrangements in roughly t
   — this thread asks a narrower question, who ends up holding the asset.'
 ---
 
+## 2026-11-05 — Anthropic's updated S-1 figures and the size of Nexus Hubbard reported
+
+- **The Verge reported that Anthropic's updated S-1 shows third-quarter revenue of $17 billion against compute costs of $17.5 billion, nearly $900 billion committed in future compute and infrastructure costs, and a plan to begin building its own data centers** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3)) Claims: kat-claim-9efe946646fd
+- **MIT Technology Review reported that Nexus Hubbard, under construction in Texas and intended mostly to serve Anthropic, has a planned size of 6,400 megawatts, the second-largest data center being built in the US** ([MIT Technology Review](https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/)) Claims: kat-claim-b3879e83357d
+
 ## 2026-11-03 — TechCrunch on the updated S-1: a $10 billion compute bill for the quarter to September 30, with $5.0 billion bought under short-term commitments
 
 - **TechCrunch reported that Anthropic's compute bill rose to $10 billion for the quarter ended September 30, including $5.0 billion of compute under short-term commitments** — the filing says that compute currently costs significantly more than comparable compute procured under multi-year commitments; TechCrunch says demand grew so fast that Anthropic had to scramble for compute at higher rates. ([TechCrunch](https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/)) Claims: kat-claim-32f238d1a6c6

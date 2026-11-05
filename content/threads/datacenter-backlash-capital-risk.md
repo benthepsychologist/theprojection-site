@@ -27,6 +27,15 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   count.'
 ---
 
+## 2026-11-05 — Midterm results: exit polling on data centers, local ballot measures, and a Texas permit halt
+
+- **TechCrunch reported, citing an NBC exit poll, that almost 80% of respondents oppose data centers in their neighborhoods and almost 60% called data centers a crucial or major factor in their vote** ([TechCrunch](https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/)) Claims: kat-claim-e20274519ec1
+- **WIRED reported that data center ballot measures in nine states saw voters reject construction plans and approve moratoriums, and that, per Ballotpedia, ten states had more than 40 local data center questions, 21 of them in Ohio** ([WIRED](https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/)) Claims: kat-claim-39a0ec8ae3f5
+- **WIRED reported that the industry super PAC Building the Future spent $1.5 million in South Carolina to support Darline Graham, who lost to Annie Andrews** ([WIRED](https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/)) Claims: kat-claim-08dd9d7c9e6c
+- **TechCrunch reported that Goldman Sachs predicts data center construction delays in states such as Georgia and Texas because of Democratic gains** ([TechCrunch](https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/)) Claims: kat-claim-2db51f34d310
+- **MIT Technology Review reported that on 21 September Texas Governor Greg Abbott directed a key state regulator to halt data center permits** ([MIT Technology Review](https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/)) Claims: kat-claim-e0b048bd0287
+- **WIRED reported that Elon Musk spent more than $400 million supporting Republican candidates who, in WIRED's account, all lost their midterm races** ([WIRED](https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/)) Claims: kat-claim-2c4acb92d008
+
 ## 2026-11-03 — WIRED: New York City Mayor Zohran Mamdani calls opposition to data centers bipartisan and cites similarities between the housing bubble and the state of AI; The Verge: OpenAI uses "compute campus" over "data center" in its Grid Protectors announcement
 
 - **WIRED reported, in an interview published November 3, that New York City Mayor Zohran Mamdani said opposition to data centers is a bipartisan fight, naming Ron DeSantis as sharing a similar opposition** — Mamdani described it as a repudiation of an AI politics he summarized as "our risk, their reward". ([WIRED](https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/)) Claims: kat-claim-dfb095743d79
