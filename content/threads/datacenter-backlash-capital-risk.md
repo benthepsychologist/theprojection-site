@@ -27,6 +27,14 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   count.'
 ---
 
+## 2026-11-06 — Meta and OpenAI respond to the midterm data-center backlash; AI political groups report their spending
+
+- **TechCrunch reported that Meta president Dina Powell McCormick said at the WSJ Tech conference on 4 November that the Democratic wins in the midterm elections are going to make it a lot harder for companies to build data centers** ([TechCrunch](https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/)) Claims: kat-claim-3e91e776924a
+- **The Verge reported that OpenAI announced new commitments to communities where it is working on data center projects, including that it will not use non-disclosure agreements with public officials** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda)) Claims: kat-claim-db939e5d0614
+- **TechCrunch reported that Leading the Future, the AI political group backed by OpenAI president Greg Brockman and Andreessen Horowitz, spent $27.38 million in the 2026 primaries, including $8 million on opposing New York Assembly member Alex Bores, who lost his bid for Congress in June** ([TechCrunch](https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/)) Claims: kat-claim-feac13f2b606
+- **WIRED reported that Leading the Future is leaving the 2026 midterm elections with just over $20 million still in the bank** ([WIRED](https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/)) Claims: kat-claim-5d23fcace901
+- **WIRED reported that Public First, a pro-AI-safety network with significant financial backing from Anthropic, spent $15 million boosting Alex Bores' candidacy in New York's 12th congressional district primary** ([WIRED](https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/)) Claims: kat-claim-bc9bb8db7d22
+
 ## 2026-11-05 — Midterm results: exit polling on data centers, local ballot measures, and a Texas permit halt
 
 - **TechCrunch reported, citing an NBC exit poll, that almost 80% of respondents oppose data centers in their neighborhoods and almost 60% called data centers a crucial or major factor in their vote** ([TechCrunch](https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/)) Claims: kat-claim-e20274519ec1

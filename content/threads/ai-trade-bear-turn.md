@@ -14,6 +14,11 @@ blurb: 'Is the tape turning against the AI trade as a whole? Distinct from the c
   the earnings verdicts, and whether the drawdown changes actual capex behavior.'
 ---
 
+## 2026-11-06 — U.S. stocks fall sharply after the midterms; chip index drops 12.2%
+
+- **International Business Times Australia reported that the Nasdaq fell about 5% and the S&P 500 nearly 4% on Thursday 5 November, a day after Wall Street cheered the Democratic sweep of Congress, and that U.S. stocks shed roughly $3 trillion in market value by the close** ([International Business Times Australia](https://www.ibtimes.com.au/chinese-tech-stocks-rally-us-ai-selloff-infrastructure-gap-1877996)) Claims: kat-claim-a830ebeeddff
+- **International Business Times Australia reported that the Philadelphia Semiconductor Index slumped 12.2% on Thursday and that the Nasdaq has shed 12% from its record high close a month earlier** ([International Business Times Australia](https://www.ibtimes.com.au/chinese-tech-stocks-rally-us-ai-selloff-infrastructure-gap-1877996)) Claims: kat-claim-e13e53a9c887
+
 ## 2026-11-03 — EPFR: technology sector funds take in more than six times the inflow of the next-largest group; equity funds draw $56.2 billion; TechCrunch: Palantir's third-quarter revenue grows 96% while its U.S. commercial revenue passes U.S. government revenue
 
 - **ISI Markets reported, in an EPFR Global Navigator note, that technology sector funds took in more than six times the fresh money that went to the second-most popular group of funds in the latest week** — the note says the funds posted their biggest outflow in over a month on the final day of the reporting period. ([ISI Markets](https://isimarkets.com/publications/global-navigator-navigating-the-late-october-crosscurrents/)) Claims: kat-claim-a8d157c226c6

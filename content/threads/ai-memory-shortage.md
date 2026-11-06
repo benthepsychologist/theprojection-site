@@ -22,6 +22,10 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   and who blinks first on capex.'
 ---
 
+## 2026-11-06 — Macronix says its ROM chip production has been crowded out by higher-margin memory
+
+- **Ars Technica reported that Macronix, in its third-quarter earnings report as relayed by BigGo Finance, said its ROM chip production has shrunk 39 percent in the last year to 5 percent of its business, crowded out by more lucrative NOR- and NAND-based memory and eMMC chips** ([Ars Technica](https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/)) Claims: kat-claim-c30bf6ef7652
+
 ## 2026-11-05 — Intel and SK Hynix shortage outlooks reported alongside Altman's RAM comments
 
 - **The Verge reported that AI data centers have been taking up the world's RAM supply, that Intel expects the shortage to last through at least next year, and that SK Hynix predicted it could last until 2030** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments)) Claims: kat-claim-17a701be7217

@@ -28,6 +28,14 @@ blurb: 'Whether AI-buildout debt is becoming its own underwritten, rated, public
   clock — the two produce very different recovery rates in a default.'
 ---
 
+## 2026-11-06 — Alphabet and Meta close note offerings; IREN cites tougher financing
+
+- **Alphabet's Form 8-K states that on 5 November 2026 it closed an underwritten public offering of EUR 6 billion of euro-denominated senior notes in seven series, from EUR 750 million of floating rate notes due 2028 to EUR 1 billion of 5.250% notes due 2045** ([Alphabet Form 8-K](https://www.sec.gov/Archives/edgar/data/1652044/000119312526449835/d174184d8k.htm)) Claims: kat-claim-c6715dfb2f9f
+- **Meta Platforms' Form 8-K states that on 5 November 2026 it completed an offering of five series of U.S. dollar senior notes, from $3.25 billion of 5.850% notes due 2031 to $2.75 billion of 7.500% notes due 2056, with Citigroup Global Markets and Morgan Stanley as representatives of the underwriters** — the filing lists the series and states no total. ([Meta Form 8-K](https://www.sec.gov/Archives/edgar/data/1326801/000119312526450074/d166273d8k.htm)) Claims: kat-claim-ea7d887daf1b
+- **Meta Platforms' Form 8-K states that on 4 November 2026 the underwriters of its Class A common stock offering exercised in full their option to buy 6,000,000 additional shares, and that Meta entered into additional forward sale agreements relating to them** ([Meta Form 8-K](https://www.sec.gov/Archives/edgar/data/1326801/000119312526450074/d166273d8k.htm)) Claims: kat-claim-91e79e1e7341
+- **Business Insider reported that IREN co-CEO Daniel Roberts said IREN is slowing expansion plans because of tougher financing conditions, though customer demand remains strong** ([Business Insider](https://www.businessinsider.com/iren-blames-microsoft-change-for-delay-to-texas-ai-center-2026-11)) Claims: kat-claim-33f6b7422f5e
+- **IREN's results release for the quarter ended 30 September 2026 states that its $15 billion of remaining planned fiscal 2027 capex is expected to be met by $9 billion of cash and committed GPU financing and prepayments and $6 billion of target GPU financing, prepayments, data center financing and other corporate-level sources subject to market conditions** ([IREN results release, Form 8-K Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1878848/000187884826000065/irenreportsq1-fy27result.htm)) Claims: kat-claim-873505392d60
+
 ## 2026-11-05 — Oracle files its November stock and notes offerings; Microsoft's ten-series notes sale appears in a filing
 
 - **Oracle's Form 8-K states that on 2 November 2026 it agreed to issue and sell 86,206,897 shares of common stock, under the heading "Issuance of $10 Billion of Common Stock", and that the offering closed on 4 November** ([Oracle Form 8-K](https://www.sec.gov/Archives/edgar/data/1341439/000119312526447507/d131790d8k.htm)) Claims: kat-claim-02e9c5f51d81

@@ -26,6 +26,12 @@ blurb: 'The week''s reversal: Meta QUIT RE100 amid a 7.5GW gas buildout (07-23/2
   gap.'
 ---
 
+## 2026-11-06 — Meta's Form 8-K lists five dollar note series; its president describes 1-gigawatt sites
+
+- **Meta Platforms' Form 8-K states that on 5 November 2026 it completed an offering of five series of U.S. dollar senior notes, from $3.25 billion of 5.850% notes due 2031 to $2.75 billion of 7.500% notes due 2056, with Citigroup Global Markets and Morgan Stanley as representatives of the underwriters** — the filing lists the series and states no total. ([Meta Form 8-K](https://www.sec.gov/Archives/edgar/data/1326801/000119312526450074/d166273d8k.htm)) Claims: kat-claim-ea7d887daf1b
+- **Meta Platforms' Form 8-K states that on 4 November 2026 the underwriters of its Class A common stock offering exercised in full their option to buy 6,000,000 additional shares, and that Meta entered into additional forward sale agreements relating to them** ([Meta Form 8-K](https://www.sec.gov/Archives/edgar/data/1326801/000119312526450074/d166273d8k.htm)) Claims: kat-claim-91e79e1e7341
+- **TechCrunch reported that Meta president Dina Powell McCormick said Meta has data centers in 23 states, five of which, including one in Texas, are planned as projects of 1 gigawatt or more** ([TechCrunch](https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/)) Claims: kat-claim-8042626bd9fb
+
 ## 2026-10-22 — Meta raises the low end of its 2026 capex range and says it will issue a new non-voting share class
 
 - **The Verge reported that Meta expects capital expenditures between $135 billion and $145 billion this year, up from the previous estimate of $130 billion to $145 billion.** ([The Verge](https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings)) Claims: kat-claim-73db47fbb2a8

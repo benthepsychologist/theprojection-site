@@ -28,6 +28,12 @@ blurb: 'Anthropic has signed four large infrastructure arrangements in roughly t
   — this thread asks a narrower question, who ends up holding the asset.'
 ---
 
+## 2026-11-06 — Engineering News-Record reports Anthropic's 401 MW TeraWulf lease, a Fluor contract and Google credit support
+
+- **Engineering News-Record reported that Anthropic signed a 20-year lease with TeraWulf in July 2026 for about 401 MW of critical IT capacity at the Hawesville, Kentucky campus, and that TeraWulf has said the lease represents about $19 billion in revenue over its term** ([Engineering News-Record](https://www.enr.com/articles/64200-fluor-wins-epc-contract-for-4b-plus-terawulf-data-center-complex-in-kentucky)) Claims: kat-claim-d43f5c7f5f4a
+- **Engineering News-Record reported that Google is providing credit support for TeraWulf's Hawesville project, a structure intended to improve TeraWulf's access to financing for construction** ([Engineering News-Record](https://www.enr.com/articles/64200-fluor-wins-epc-contract-for-4b-plus-terawulf-data-center-complex-in-kentucky)) Claims: kat-claim-62e37627ff9e
+- **Engineering News-Record reported that Fluor signed a definitive engineering, procurement and construction contract with TeraWulf for three AI-focused data center buildings at the $4-billion-plus campus, and that the contract's value was not disclosed** ([Engineering News-Record](https://www.enr.com/articles/64200-fluor-wins-epc-contract-for-4b-plus-terawulf-data-center-complex-in-kentucky)) Claims: kat-claim-ca7ba0f2f67e
+
 ## 2026-11-05 — Anthropic's updated S-1 figures and the size of Nexus Hubbard reported
 
 - **The Verge reported that Anthropic's updated S-1 shows third-quarter revenue of $17 billion against compute costs of $17.5 billion, nearly $900 billion committed in future compute and infrastructure costs, and a plan to begin building its own data centers** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3)) Claims: kat-claim-9efe946646fd

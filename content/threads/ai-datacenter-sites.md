@@ -17,6 +17,14 @@ blurb: Where the capex lands in CONCRETE — the specific gigawatt campuses. Sta
   the specific-sites worklist lives here.
 ---
 
+## 2026-11-06 — TeraWulf's Kentucky campus gets an EPC contractor; IREN's Texas project is delayed
+
+- **Engineering News-Record reported that Fluor signed a definitive engineering, procurement and construction contract with TeraWulf for three AI-focused data center buildings at the $4-billion-plus Hawesville, Kentucky campus, and that the contract's value was not disclosed** ([Engineering News-Record](https://www.enr.com/articles/64200-fluor-wins-epc-contract-for-4b-plus-terawulf-data-center-complex-in-kentucky)) Claims: kat-claim-ca7ba0f2f67e
+- **Business Insider reported that IREN said a Microsoft-requested change to networking equipment resulted in delays to its Childress, Texas data center project** ([Business Insider](https://www.businessinsider.com/iren-blames-microsoft-change-for-delay-to-texas-ai-center-2026-11)) Claims: kat-claim-b946008d978b
+- **Business Insider reported that IREN said it now expects to reach $4 billion in operating annual recurring revenue by January or February 2027, having previously targeted year-end** ([Business Insider](https://www.businessinsider.com/iren-blames-microsoft-change-for-delay-to-texas-ai-center-2026-11)) Claims: kat-claim-ad418eb18b46
+- **IREN's results release for the quarter ended 30 September 2026 states that total quarterly revenue increased 66% sequentially to $228 million, of which AI Cloud revenue was $200 million, and reports a net loss of $263 million** ([IREN results release, Form 8-K Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1878848/000187884826000065/irenreportsq1-fy27result.htm)) Claims: kat-claim-3347f5ca0ed7
+- **IREN's results release states that its revenue backlog increased 22% sequentially to $20.3 billion, approximately two-thirds of it with investment-grade counterparties** ([IREN results release, Form 8-K Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1878848/000187884826000065/irenreportsq1-fy27result.htm)) Claims: kat-claim-187b00553302
+
 ## 2026-11-05 — Stargate Frontier and Nexus Hubbard sizes in Texas; orbital data center plans reported
 
 - **MIT Technology Review reported that the Stargate Frontier data center in Shackelford County, Texas is projected to serve 1,820 megawatts, and that Nexus Hubbard has a planned size of 6,400 megawatts, behind only Meta's Hyperion project in Louisiana among data centers under construction in the US** ([MIT Technology Review](https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/)) Claims: kat-claim-b3879e83357d

@@ -18,6 +18,12 @@ blurb: 'Earnings 07-29 is the near-term test — the "$97B TTM" figure is derive
   split. Watch Wednesday: FY26 full-year capex, FY27 guide, any split disclosure.'
 ---
 
+## 2026-11-06 — Business Insider reports a $5 billion Microsoft shortfall tied to third-party cloud delays, and IREN's account of its Microsoft contract
+
+- **Business Insider reported that Microsoft said the previous week that it spent $5 billion less than expected on AI infrastructure due to delays from third-party cloud providers** ([Business Insider](https://www.businessinsider.com/iren-blames-microsoft-change-for-delay-to-texas-ai-center-2026-11)) Claims: kat-claim-4d27d4872127
+- **Business Insider reported that IREN said on Thursday 5 November that a Microsoft-requested change to networking equipment resulted in delays to a data center project in Childress, Texas** ([Business Insider](https://www.businessinsider.com/iren-blames-microsoft-change-for-delay-to-texas-ai-center-2026-11)) Claims: kat-claim-b946008d978b
+- **Business Insider reported that IREN is building the Childress project, which comprises four phases, under a $9.7 billion contract with Microsoft** ([Business Insider](https://www.businessinsider.com/iren-blames-microsoft-change-for-delay-to-texas-ai-center-2026-11)) Claims: kat-claim-040cd11e4330
+
 ## 2026-11-05 — Quarterly capex reported at $45.2 billion against an expected $50 billion
 
 - **The Verge reported that Microsoft posted $45.2 billion in capital expenditures for the quarter, down from an expected $50 billion, and attributed the lower figure to "third party capacity delays"** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3)) Claims: kat-claim-96bc467d3b62

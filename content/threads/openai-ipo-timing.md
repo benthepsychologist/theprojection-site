@@ -16,6 +16,11 @@ blurb: Reported slip to 2027 chasing a ~$1T valuation; Altman rejecting a lower 
   fell ~12% on the report).
 ---
 
+## 2026-11-06 — OpenAI's president says the company could be IPO-ready in 2027
+
+- **TechCrunch reported that OpenAI president Greg Brockman said at a Wall Street Journal tech conference on 4 November that OpenAI would be ready for an IPO in 2027** ([TechCrunch](https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/)) Claims: kat-claim-bf63c3545058
+- **TechCrunch reported that Brockman said OpenAI saw 70% quarterly growth in its annualized revenue in the third quarter of 2026, which he attributed to its enterprise business doubling** ([TechCrunch](https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/)) Claims: kat-claim-a1b962165285
+
 ## 2026-11-03 — The Verge reports OpenAI is approaching an IPO potentially slated for early next year
 
 - **The Verge reported that OpenAI is approaching an IPO potentially slated for early next year** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search)) Claims: kat-claim-0e4a5bcf14e2
