@@ -27,6 +27,13 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   count.'
 ---
 
+## 2026-11-07 — Protesters enter a Microsoft data center construction site in Amsterdam; Bloomberg reports governors-elect in three states vow to rein in data center construction
+
+- **The Verge reported, citing Reuters, that around 100 people entered the construction site of a new Microsoft data center in Amsterdam on 6 November in a protest organized by the group Geef Tegengas, and that some climbed a crane to place a banner** ([The Verge](https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam)) Claims: kat-claim-b3f16f9c7cb0
+- **The Verge reported that Microsoft will be the sole tenant of the new Amsterdam data center, which is being built by Pure Data Centres, and that the project is proceeding as planned as far back as 2016, before Amsterdam's ban on new data centers was put in place** ([The Verge](https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam)) Claims: kat-claim-1a51e867be2b
+- **The Verge reported that Microsoft abandoned the UK's largest data center project in October, after local electricity grid officials said the site would not be supplied with power until the 2030s** ([The Verge](https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam)) Claims: kat-claim-829dcdea3c52
+- **Bloomberg reported that Democratic governors-elect in Texas, Ohio and Georgia are vowing to rein in data center construction and that newly passed local ballot measures also threaten to slow AI infrastructure projects** ([Bloomberg, as shown on the Arkansas Democrat-Gazette](https://www.arkansasonline.com/news/2026/nov/07/democrats-expected-to-scrutinize-nvidia/)) Claims: kat-claim-fd48a9e3b65a
+
 ## 2026-11-06 — Meta and OpenAI respond to the midterm data-center backlash; AI political groups report their spending
 
 - **TechCrunch reported that Meta president Dina Powell McCormick said at the WSJ Tech conference on 4 November that the Democratic wins in the midterm elections are going to make it a lot harder for companies to build data centers** ([TechCrunch](https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/)) Claims: kat-claim-3e91e776924a

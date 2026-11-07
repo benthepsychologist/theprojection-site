@@ -26,6 +26,10 @@ blurb: 'The ~$750B question posed as a DESTINATION, not a spender: where does th
   not just whether the gap exists.'
 ---
 
+## 2026-11-07 — Dropbox announces plans to acquire Tigris Data, an object-storage startup, for $350 million
+
+- **Crunchbase News reported that Dropbox announced on Thursday 5 November plans to acquire Tigris Data for $350 million, in a transaction Dropbox told Crunchbase News would be its largest acquisition since its founding in 2007** ([Crunchbase News](https://news.crunchbase.com/ma/dbx-ai-infrastructure-deal-tigris-acquisition/)) Claims: kat-claim-e6dcb87a47e0
+
 ## 2026-09-25 — Akamai's Anthropic-deal surge fades to a 3% gain at the close
 
 - **Akamai shares closed up about 3% Friday, a fraction of the 21.3% surge they showed in premarket trading on Thursday's $11.6 billion, seven-year Anthropic cloud-services deal.** CNBC's closing report named Akamai a key winner of the session; the deal, potentially expanding to about $20 billion, carries a warrant for Anthropic to buy up to roughly 5% of Akamai. ([CNBC live updates](https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html))

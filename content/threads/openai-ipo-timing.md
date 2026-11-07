@@ -16,6 +16,12 @@ blurb: Reported slip to 2027 chasing a ~$1T valuation; Altman rejecting a lower 
   fell ~12% on the report).
 ---
 
+## 2026-11-07 — Bloomberg reports OpenAI has raised $11 billion at a $1.25 trillion valuation, in a round that could total about $20 billion
+
+- **TechCrunch reported, citing Bloomberg, that OpenAI has raised $11 billion so far in a new funding round that values the company at $1.25 trillion** — the amount equals the $11 billion secured so far that TechCrunch relayed from The Wall Street Journal on 31 October ([TechCrunch](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)) Claims: kat-claim-33bcdd7df533
+- **TechCrunch reported, citing Bloomberg and a source, that the $11 billion is part of a larger round that has not closed, that the round is expected to close in the coming weeks and could total about $20 billion, and that this falls well short of the $30 billion Bloomberg reported in late September** ([TechCrunch](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)) Claims: kat-claim-18c5e7d21e52
+- **TechCrunch reported that OpenAI lowered its proposed valuation to $1.25 trillion from $1.4 trillion and cut its latest fundraising goal by about $10 billion** — the report appears in TechCrunch's story on Ramp spending data ([TechCrunch](https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/)) Claims: kat-claim-73dd8b5b8ebf
+
 ## 2026-11-06 — OpenAI's president says the company could be IPO-ready in 2027
 
 - **TechCrunch reported that OpenAI president Greg Brockman said at a Wall Street Journal tech conference on 4 November that OpenAI would be ready for an IPO in 2027** ([TechCrunch](https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/)) Claims: kat-claim-bf63c3545058

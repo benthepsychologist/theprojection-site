@@ -21,6 +21,11 @@ blurb: 'The gpt-5.6 gating dynamic made permanent — and it''s all one buildout
   in a year — can it run classified review?); the first model actually gated.'
 ---
 
+## 2026-11-07 — WIRED: Vals tests put an open-weight Chinese model close to OpenAI's gated cyber model in simulated network attacks
+
+- **WIRED reported, citing research by Vals, that in simulated corporate-network attack tests OpenAI's cyber model Daybreak completed 81 percent of its tasks and the Chinese open-weight model DeepSeek completed 73 percent of its objectives, on average** ([WIRED](https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/)) Claims: kat-claim-32e19575a409
+- **WIRED reported, citing Vals, that it costs $17 to $46 in tokens for GPT-6-Sol to carry out an attack in Vals's tests, compared with $2 to $3 for DeepSeek** ([WIRED](https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/)) Claims: kat-claim-062fd10bc0ff
+
 ## 2026-11-02 — MIT Technology Review: the "Super Intelligence" rebrand order and the White House Accord on Super Intelligence, signed by six tech leaders
 
 - **MIT Technology Review reported that at the end of September President Trump signed an executive order directing government agencies to rebrand what they had been calling artificial intelligence as "Super Intelligence"** — the order contained a single directive. ([MIT Technology Review](https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/)) Claims: kat-claim-469521042a66

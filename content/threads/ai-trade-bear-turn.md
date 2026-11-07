@@ -14,6 +14,10 @@ blurb: 'Is the tape turning against the AI trade as a whole? Distinct from the c
   the earnings verdicts, and whether the drawdown changes actual capex behavior.'
 ---
 
+## 2026-11-07 — Bloomberg: the Thursday sell-off took the Nasdaq 100 down 6.4%, its worst session since March 2020
+
+- **Bloomberg reported that a global sell-off in AI-exposed companies on Thursday 5 November drove the Nasdaq 100 down 6.4% in its worst session since March 2020, and that Nvidia fell more than 9%** — the index and the percentage differ from the Nasdaq figure International Business Times Australia gave for the same session ([Bloomberg, as shown on the Arkansas Democrat-Gazette](https://www.arkansasonline.com/news/2026/nov/07/democrats-expected-to-scrutinize-nvidia/)) Claims: kat-claim-0f5551b90535
+
 ## 2026-11-06 — U.S. stocks fall sharply after the midterms; chip index drops 12.2%
 
 - **International Business Times Australia reported that the Nasdaq fell about 5% and the S&P 500 nearly 4% on Thursday 5 November, a day after Wall Street cheered the Democratic sweep of Congress, and that U.S. stocks shed roughly $3 trillion in market value by the close** ([International Business Times Australia](https://www.ibtimes.com.au/chinese-tech-stocks-rally-us-ai-selloff-infrastructure-gap-1877996)) Claims: kat-claim-a830ebeeddff

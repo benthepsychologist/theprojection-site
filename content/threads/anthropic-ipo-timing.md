@@ -15,6 +15,14 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
   AMD/Azure/Google-TPU compute deals get positioned in the roadshow narrative.'
 ---
 
+## 2026-11-07 — TechCrunch, relaying Bloomberg: IPO buyers eye an Anthropic valuation as low as $1.1 trillion, and a junk credit rating is reportedly expected
+
+- **TechCrunch reported, citing Bloomberg, that some potential buyers of shares in Anthropic's IPO believe its valuation could be as low as $1.1 trillion, compared with the $2 trillion that investors were said to be expecting roughly a month earlier** ([TechCrunch](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)) Claims: kat-claim-bac8119920a1
+- **TechCrunch reported, citing Bloomberg, that Anthropic's potential valuation fell from the $2 trillion estimated in early October 2026 to $1.2 to $1.3 trillion** — the range differs from the $1.1 trillion low end in TechCrunch's other Bloomberg-sourced report of the same day ([TechCrunch](https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/)) Claims: kat-claim-a10e101eeb74
+- **TechCrunch reported that Anthropic is reportedly expected to receive a high "junk" rating from credit agencies** ([TechCrunch](https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/)) Claims: kat-claim-dd425dc6fa1b
+- **TechCrunch reported that Anthropic has made significant reductions to the pricing of Fable 5.1 and Opus 5.5, a decision the company said in a recent filing reduced revenue growth by about $600 million** ([TechCrunch](https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/)) Claims: kat-claim-02d5bc8bd5dd
+- **TechCrunch reported, citing a Ramp report, that token spend grew 1.5% across August and September 2026, compared with 42% growth in July from the previous month** ([TechCrunch](https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/)) Claims: kat-claim-15eeebed4704
+
 ## 2026-11-03 — TechCrunch on Anthropic's updated S-1: revenue of $17 billion for the quarter to September 30, with compute taking 58% of it
 
 - **TechCrunch reported that Anthropic's update to its S-1, filed on Monday 2 November, showed revenue of $17 billion for the quarter ended September 30, up from $11.5 billion in the previous quarter** — the update extends the filing's financial disclosures, which had covered the period to June 30, by one quarter; TechCrunch adds that the operating loss grew over the same period, in large part because of growing compute costs. ([TechCrunch](https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/)) Claims: kat-claim-c59f89c1ca8a

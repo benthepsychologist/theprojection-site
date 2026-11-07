@@ -17,6 +17,11 @@ blurb: Where the capex lands in CONCRETE — the specific gigawatt campuses. Sta
   the specific-sites worklist lives here.
 ---
 
+## 2026-11-07 — Crusoe confirms the sale of its unfinished Wyoming data center project to Google
+
+- **TechCrunch reported that Crusoe confirmed on Friday 6 November that it has sold an unfinished data center project in southeastern Wyoming to Google, which is taking over the development** ([TechCrunch](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)) Claims: kat-claim-a09c55f3ddd1
+- **TechCrunch reported that Google did not disclose how much it paid Crusoe for the project, and that Google announced plans to invest $17 billion to develop the data center campus** ([TechCrunch](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)) Claims: kat-claim-fce03cf335ea
+
 ## 2026-11-06 — TeraWulf's Kentucky campus gets an EPC contractor; IREN's Texas project is delayed
 
 - **Engineering News-Record reported that Fluor signed a definitive engineering, procurement and construction contract with TeraWulf for three AI-focused data center buildings at the $4-billion-plus Hawesville, Kentucky campus, and that the contract's value was not disclosed** ([Engineering News-Record](https://www.enr.com/articles/64200-fluor-wins-epc-contract-for-4b-plus-terawulf-data-center-complex-in-kentucky)) Claims: kat-claim-ca7ba0f2f67e

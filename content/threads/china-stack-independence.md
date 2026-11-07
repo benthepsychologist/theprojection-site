@@ -19,6 +19,12 @@ blurb: 'One story, both directions: Z.AI''s 1 GW all-domestic-chip site, Kimi K3
   its models/chips. US chip-equity reaction is the measure.'
 ---
 
+## 2026-11-07 — The Verge, relaying the New York Times: China's intelligence agency recruited a Megaspeed executive to gather information on Nvidia's chief executive; House Republicans seek a briefing
+
+- **The Verge reported, citing The New York Times, that China's Ministry of State Security recruited Megaspeed executive Alice Huang to gather information about American AI chips from Nvidia CEO Jensen Huang** ([The Verge](https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy)) Claims: kat-claim-c9bc7392a89b
+- **Bloomberg reported that a trio of House Republicans who head national security committees said they had asked Nvidia CEO Jensen Huang for a briefing on his interactions with a Megaspeed International executive** ([Bloomberg, as shown on the Arkansas Democrat-Gazette](https://www.arkansasonline.com/news/2026/nov/07/democrats-expected-to-scrutinize-nvidia/)) Claims: kat-claim-633fd29946e0
+- **Bloomberg reported that Nvidia is stepping up monitoring of AI accelerators sold in Southeast Asia, citing people familiar with the matter** ([Bloomberg, as shown on the Arkansas Democrat-Gazette](https://www.arkansasonline.com/news/2026/nov/07/democrats-expected-to-scrutinize-nvidia/)) Claims: kat-claim-45ee09b89008
+
 ## 2026-11-03 — Crunchbase News: DeepSeek's $15.9 billion raise at a $90 billion valuation is the largest private funding by a Chinese tech company on record
 
 - **Crunchbase News reported that DeepSeek raised $15.9 billion in October 2026 at a valuation of $90 billion, the largest private funding by a Chinese tech company on record** — the figure compares with the about $15 billion TechCrunch reported, citing Bloomberg, on 2026-10-22; Crunchbase says the round places DeepSeek second among Chinese companies by valuation, after ByteDance, and third among private frontier labs, after Anthropic and OpenAI. ([Crunchbase News](https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/)) Claims: kat-claim-456b5b17b2c3

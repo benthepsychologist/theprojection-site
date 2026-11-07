@@ -16,6 +16,12 @@ blurb: 'The capital pools stopped just financing the buildout and started OWNING
   "locked" fiduciary capital keeps sliding into physical AI infra.'
 ---
 
+## 2026-11-07 — Brookfield Asset Management reports $10 billion of commitments to its AI infrastructure fund and infrastructure debt strategy
+
+- **Brookfield Asset Management's results release for the quarter ended 30 September 2026 states that its AI infrastructure fund and infrastructure debt strategy have received $10 billion in commitments during the past year** ([Brookfield Asset Management, Exhibit 99.1 to Form 8-K](https://www.sec.gov/Archives/edgar/data/1937926/000117184326007210/exh_991.htm)) Claims: kat-claim-7c052ed59944
+- **Brookfield's release states that it signed agreements to jointly develop, deliver and operate an AI factory in the U.K., and to invest up to $9 billion in next-generation AI computing infrastructure in Korea through its partnerships with NAVER and NVIDIA** ([Brookfield Asset Management, Exhibit 99.1 to Form 8-K](https://www.sec.gov/Archives/edgar/data/1937926/000117184326007210/exh_991.htm)) Claims: kat-claim-280ea3cd3361
+- **Brookfield's release states that it signed an agreement to acquire a stake in a U.S.-based hyperscale data center developer** — the release does not name the developer ([Brookfield Asset Management, Exhibit 99.1 to Form 8-K](https://www.sec.gov/Archives/edgar/data/1937926/000117184326007210/exh_991.htm)) Claims: kat-claim-bcccd3b69746
+
 ## 2026-09-28 — Samsung commits $1 billion to KKR's Helix AI-infrastructure company
 
 - **Samsung Electronics and five affiliates committed a combined $1 billion to Helix Digital Infrastructure, the AI-infrastructure company KKR launched in June and Nvidia backs.** Samsung Electronics puts in $500 million, with Samsung C&T, SDS, SDI, Life Insurance and Fire and Marine contributing the rest; KKR, Nvidia, the Kuwait Investment Authority and Vistra are founding investors, and former AWS chief Adam Selipsky leads Helix, which targets hyperscale data centers, power generation and fiber networks. ([CNBC](https://www.cnbc.com/2026/09/29/samsung-investment-nvidia-kkr-ai-helix-digital.html), [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-28/samsung-to-invest-1-billion-in-kkr-s-ai-infrastructure-company))
