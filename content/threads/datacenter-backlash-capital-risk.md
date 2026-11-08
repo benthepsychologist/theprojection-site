@@ -27,6 +27,14 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   count.'
 ---
 
+## 2026-11-08 — TechCrunch and Tech Times: most data center restriction measures on the midterm ballots passed; Texas governor-elect campaigned on a moratorium; CoreWeave and two other data center stocks fell
+
+- **TechCrunch reported, in a note on its Equity podcast discussion, that many of the ballot measures voted on in this week's US midterm elections would have imposed restrictions or moratoriums on data centers, and that almost all of those measures passed** ([TechCrunch](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)) Claims: kat-claim-1f6416684e74
+- **Tech Times reported, citing Fortune, that Democrat Gina Hinojosa defeated Texas Gov. Greg Abbott after promising during the campaign to impose a data center construction moratorium and eliminate subsidies and tax breaks for major developers** ([Tech Times](https://www.techtimes.com/articles/330159/20261106/coreweave-announces-global-ai-network-no-published-speed-latency-data-stock-drops.htm)) Claims: kat-claim-0b778258f66a
+- **Tech Times reported, citing Fortune, that shares of CoreWeave, Applied Digital and Cipher Digital fell on Nov. 4** ([Tech Times](https://www.techtimes.com/articles/330159/20261106/coreweave-announces-global-ai-network-no-published-speed-latency-data-stock-drops.htm)) Claims: kat-claim-5bf5f912109f
+- **Tech Times reported, citing CNBC, that CoreWeave shares fell 9.83% at the close on Thursday, Nov. 5, as investors worried about a backlash against data centers after votes in several states** ([Tech Times](https://www.techtimes.com/articles/330159/20261106/coreweave-announces-global-ai-network-no-published-speed-latency-data-stock-drops.htm)) Claims: kat-claim-6e5440fc5fe9
+- **TechCrunch reported that Kirsten Korosec said OpenAI had released a "compute campus policy blueprint" under which it will no longer require non-disclosure agreements and will share its plans** ([TechCrunch](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)) Claims: kat-claim-f59c922c31ee
+
 ## 2026-11-07 — Protesters enter a Microsoft data center construction site in Amsterdam; Bloomberg reports governors-elect in three states vow to rein in data center construction
 
 - **The Verge reported, citing Reuters, that around 100 people entered the construction site of a new Microsoft data center in Amsterdam on 6 November in a protest organized by the group Geef Tegengas, and that some climbed a crane to place a banner** ([The Verge](https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam)) Claims: kat-claim-b3f16f9c7cb0

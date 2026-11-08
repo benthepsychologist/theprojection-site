@@ -19,6 +19,11 @@ blurb: 'The neocloud wager, quantified: $99.4B backlog (Q1-26; OpenAI $18.4B + M
   08-11.'
 ---
 
+## 2026-11-08 — Tech Times: CoreWeave shares fell 9.83% on 5 November; its reported active and contracted power
+
+- **Tech Times reported, citing CNBC, that CoreWeave shares fell 9.83% at the close on Thursday, Nov. 5, as investors worried about a backlash against data centers after votes in several states** ([Tech Times](https://www.techtimes.com/articles/330159/20261106/coreweave-announces-global-ai-network-no-published-speed-latency-data-stock-drops.htm)) Claims: kat-claim-6e5440fc5fe9
+- **Tech Times reported that CoreWeave reported more than 1.5GW of active power as of June 30, 2026, and about 4.2GW of contracted power, in figures CoreWeave's blog attributes to the Aug. 11 earnings call** ([Tech Times](https://www.techtimes.com/articles/330159/20261106/coreweave-announces-global-ai-network-no-published-speed-latency-data-stock-drops.htm)) Claims: kat-claim-779e39957736
+
 ## 2026-10-27 — Neocloud General Compute raises a $100 million Series A at an $800 million valuation
 
 - **TechCrunch reported that General Compute, a neocloud built on specialized inference chips, raised $100 million in Series A funding led by Blackbird Ventures and Abstract Ventures, at a post-money valuation of $800 million** — TechCrunch says the round follows a customer deal worth $100 million in annual recurring revenue and a May seed round at a $60 million valuation, notes that CoreWeave's stock has fallen to a 12-month low, and quotes CEO Finn Puklowski calling fears of a chip-led collapse "massively overstated". ([TechCrunch](https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/)) Claims: kat-claim-29a21bdfbf0e

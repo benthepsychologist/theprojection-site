@@ -19,6 +19,14 @@ blurb: 'One story, both directions: Z.AI''s 1 GW all-domestic-chip site, Kimi K3
   its models/chips. US chip-equity reaction is the measure.'
 ---
 
+## 2026-11-08 — TechCrunch and The Verge: a reported U.S. intelligence memo on the Megaspeed executive, Nvidia's response, and New York Times findings on New Matrix, an approved Nvidia chip buyer
+
+- **TechCrunch reported, citing multiple media reports, that a memo circulated earlier this year, reportedly based on U.S. intelligence and first reported by The New York Times, claimed that Megaspeed executive Alice Huang was recruited by China's Ministry of State Security to spy on Nvidia CEO Jensen Huang** ([TechCrunch](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/)) Claims: kat-claim-2184833fe3c6
+- **TechCrunch reported that an Nvidia spokesperson told The New York Times that Jensen Huang's interactions with Megaspeed executive Alice Huang were "not unusual" and that Nvidia does not share classified information with its customers** ([TechCrunch](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/)) Claims: kat-claim-ffb31ce05c96
+- **The Verge reported, citing The New York Times, that New Matrix, a Chinese company on the list of firms approved to buy Nvidia's H200 AI chips, has offices that are empty, "a hollow gray shell with wires dangling from the ceiling where lights should be."** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government)) Claims: kat-claim-eff83fc0fe70
+- **The Verge reported, citing The New York Times, that New Matrix, which was created 17 months ago, has owners with ties to a Chinese private equity firm that the US government has blacklisted since 2024** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government)) Claims: kat-claim-583c4bb3c076
+- **The Verge reported that the Trump administration relaxed limits on Nvidia's chip sales to China after Nvidia agreed to give the government a 15-percent cut of all sales** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government)) Claims: kat-claim-13979cfdc164
+
 ## 2026-11-07 — The Verge, relaying the New York Times: China's intelligence agency recruited a Megaspeed executive to gather information on Nvidia's chief executive; House Republicans seek a briefing
 
 - **The Verge reported, citing The New York Times, that China's Ministry of State Security recruited Megaspeed executive Alice Huang to gather information about American AI chips from Nvidia CEO Jensen Huang** ([The Verge](https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy)) Claims: kat-claim-c9bc7392a89b

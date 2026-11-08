@@ -16,6 +16,10 @@ blurb: Reported slip to 2027 chasing a ~$1T valuation; Altman rejecting a lower 
   fell ~12% on the report).
 ---
 
+## 2026-11-08 — The Verge, citing Bloomberg: OpenAI is still pursuing investments that could take its round to $20 billion; it had hoped to raise $30 billion at $1.4 trillion
+
+- **The Verge reported, citing Bloomberg, that OpenAI is still pursuing additional investments that could raise its new round to $20 billion, and that it had initially hoped to raise as much as $30 billion at a higher valuation of $1.4 trillion** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation)) Claims: kat-claim-e0ba5e1db55f
+
 ## 2026-11-07 — Bloomberg reports OpenAI has raised $11 billion at a $1.25 trillion valuation, in a round that could total about $20 billion
 
 - **TechCrunch reported, citing Bloomberg, that OpenAI has raised $11 billion so far in a new funding round that values the company at $1.25 trillion** — the amount equals the $11 billion secured so far that TechCrunch relayed from The Wall Street Journal on 31 October ([TechCrunch](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)) Claims: kat-claim-33bcdd7df533
