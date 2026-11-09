@@ -28,6 +28,10 @@ blurb: 'Anthropic has signed four large infrastructure arrangements in roughly t
   — this thread asks a narrower question, who ends up holding the asset.'
 ---
 
+## 2026-11-09 — Ticker Report: TeraWulf describes how Google's credit support covers Anthropic's Justified lease
+
+- **Ticker Report reported that TeraWulf's chief financial officer said Google's credit support for the Anthropic lease at the Justified campus protects against an Anthropic default after lease commencement through either a mandatory lease assumption or a debt-reducing termination payment, that its cost is recoverable from the tenant, and that it falls away if Anthropic achieves specified investment-grade credit ratings** ([Ticker Report](https://www.tickerreport.com/banking-finance/13655797/what-terawulf-wulf-said-on-its-q3-earnings-call.html)) Claims: kat-claim-c5b6a6519d3b
+
 ## 2026-11-06 — Engineering News-Record reports Anthropic's 401 MW TeraWulf lease, a Fluor contract and Google credit support
 
 - **Engineering News-Record reported that Anthropic signed a 20-year lease with TeraWulf in July 2026 for about 401 MW of critical IT capacity at the Hawesville, Kentucky campus, and that TeraWulf has said the lease represents about $19 billion in revenue over its term** ([Engineering News-Record](https://www.enr.com/articles/64200-fluor-wins-epc-contract-for-4b-plus-terawulf-data-center-complex-in-kentucky)) Claims: kat-claim-d43f5c7f5f4a

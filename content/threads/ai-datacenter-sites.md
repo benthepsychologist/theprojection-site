@@ -17,6 +17,12 @@ blurb: Where the capex lands in CONCRETE — the specific gigawatt campuses. Sta
   the specific-sites worklist lives here.
 ---
 
+## 2026-11-09 — Ticker Report: TeraWulf's third-quarter call gives revenue, project cost per megawatt and a 2028 power timetable for its Kentucky Muskie site
+
+- **Ticker Report reported that TeraWulf's third-quarter revenue was $76.2 million, up from $44.8 million in the second quarter, with HPC lease revenue nearly doubling to $63 million, about 83% of the total, according to Chief Financial Officer Patrick Fleury on the earnings call** ([Ticker Report](https://www.tickerreport.com/banking-finance/13655797/what-terawulf-wulf-said-on-its-q3-earnings-call.html)) Claims: kat-claim-fcb297db2399
+- **Ticker Report reported that TeraWulf's chief financial officer estimated total WULF Compute project costs at approximately $8.9 million per critical IT megawatt, and said approximately $2.9 billion of project capital spending had been completed as of 30 September 2026, with about $1 billion remaining** ([Ticker Report](https://www.tickerreport.com/banking-finance/13655797/what-terawulf-wulf-said-on-its-q3-earnings-call.html)) Claims: kat-claim-586cddf58b19
+- **Ticker Report reported that at its Muskie site in Kentucky TeraWulf said the first 500 megawatts of an initial gigawatt of electric service are scheduled to begin delivery in 2028, and that the next 500 megawatts requires new generation, with Kentucky regulatory approval of Kentucky Power's proposed 760-megawatt Big Sandy combined-cycle gas plant expected by mid-2027** ([Ticker Report](https://www.tickerreport.com/banking-finance/13655797/what-terawulf-wulf-said-on-its-q3-earnings-call.html)) Claims: kat-claim-948408ea0005
+
 ## 2026-11-07 — Crusoe confirms the sale of its unfinished Wyoming data center project to Google
 
 - **TechCrunch reported that Crusoe confirmed on Friday 6 November that it has sold an unfinished data center project in southeastern Wyoming to Google, which is taking over the development** ([TechCrunch](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)) Claims: kat-claim-a09c55f3ddd1

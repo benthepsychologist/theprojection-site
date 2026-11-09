@@ -27,6 +27,14 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   count.'
 ---
 
+## 2026-11-09 — WIRED: a petition of almost 55,000 signatures and an alliance of wildlife and motorcycle groups oppose Google's Thurrock data center
+
+- **WIRED reported that a petition signed by almost 55,000 people calls on Google to abandon plans for a large new data center in Thurrock, 15 miles east of London** ([WIRED](https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/)) Claims: kat-claim-769aac399e1c
+- **WIRED reported that of the 1,000 responses submitted by members of the public to the planning authority on Google's Thurrock data center, only one supported the project, and that Thurrock Council says many of the responses came from people living outside the local area** ([WIRED](https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/)) Claims: kat-claim-bf70d85a817b
+- **WIRED reported that the protest group says Google's proposed Thurrock data center could produce up to 570,000 tonnes of emissions each year, which the nonprofit Foxglove claims cannot be accommodated under the UK government's carbon budget** ([WIRED](https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/)) Claims: kat-claim-ffe2e986fdf8
+- **WIRED reported that Foxglove recently succeeded in a legal challenge that forced the UK government to withdraw planning permission for a data center to the west of London** ([WIRED](https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/)) Claims: kat-claim-ee84708c79ec
+- **WIRED reported that Thurrock Council told it that it expects to rule on Google's initial planning application for the Thurrock data center early next year** ([WIRED](https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/)) Claims: kat-claim-1891f1aed46a
+
 ## 2026-11-08 — TechCrunch and Tech Times: most data center restriction measures on the midterm ballots passed; Texas governor-elect campaigned on a moratorium; CoreWeave and two other data center stocks fell
 
 - **TechCrunch reported, in a note on its Equity podcast discussion, that many of the ballot measures voted on in this week's US midterm elections would have imposed restrictions or moratoriums on data centers, and that almost all of those measures passed** ([TechCrunch](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)) Claims: kat-claim-1f6416684e74
