@@ -28,6 +28,12 @@ blurb: 'Anthropic has signed four large infrastructure arrangements in roughly t
   — this thread asks a narrower question, who ends up holding the asset.'
 ---
 
+## 2026-11-10 — TechCrunch, relaying the Financial Times: Anthropic buys $3.4 billion of Caterpillar generators; Akamai plans $1.7 billion of component pre-purchases for its Anthropic contract
+
+- **TechCrunch reported, citing the Financial Times, that Anthropic is spending $3.4 billion on natural gas turbines, buying Caterpillar generators capable of producing up to 1.7 gigawatts of electricity that equipment supplier OnePWR had originally ordered** ([TechCrunch](https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/)) Claims: kat-claim-76c54d23a691
+- **TechCrunch reported, citing the Financial Times, that OnePWR ordered the turbines a couple of years ago but could not find financing to complete the purchase, and that Anthropic had planned to buy them from OnePWR but instead went directly to the manufacturer, Caterpillar** ([TechCrunch](https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/)) Claims: kat-claim-b9a96dec3f60
+- **Markets Daily reported that Akamai expects fourth-quarter capital expenditures of $2.445 billion to $2.645 billion, including approximately $1.7 billion to pre-purchase memory and other critical components for its Anthropic contract** ([Markets Daily](https://www.themarketsdaily.com/2026/11/08/what-akamai-technologies-akam-said-on-its-q3-earnings-call.html)) Claims: kat-claim-cba1aeefaa3d
+
 ## 2026-11-09 — Ticker Report: TeraWulf describes how Google's credit support covers Anthropic's Justified lease
 
 - **Ticker Report reported that TeraWulf's chief financial officer said Google's credit support for the Anthropic lease at the Justified campus protects against an Anthropic default after lease commencement through either a mandatory lease assumption or a debt-reducing termination payment, that its cost is recoverable from the tenant, and that it falls away if Anthropic achieves specified investment-grade credit ratings** ([Ticker Report](https://www.tickerreport.com/banking-finance/13655797/what-terawulf-wulf-said-on-its-q3-earnings-call.html)) Claims: kat-claim-c5b6a6519d3b

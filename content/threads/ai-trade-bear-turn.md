@@ -14,6 +14,10 @@ blurb: 'Is the tape turning against the AI trade as a whole? Distinct from the c
   the earnings verdicts, and whether the drawdown changes actual capex behavior.'
 ---
 
+## 2026-11-10 — ISI Markets, relaying EPFR: almost $9.8 billion into Technology Sector Funds in the week ending 4 November
+
+- **EPFR, in a Global Navigator note published by ISI Markets on November 10, 2026, reported that investors steered almost $9.8 billion into Technology Sector Funds and a combined $48.3 billion into all US Equity and Bond Funds during the week ending November 4** ([ISI Markets](https://isimarkets.com/publications/global-navigator-us-political-map-changes-color-but-flows-follow-same-route-in-early-november/)) Claims: kat-claim-581d919aa12c
+
 ## 2026-11-07 — Bloomberg: the Thursday sell-off took the Nasdaq 100 down 6.4%, its worst session since March 2020
 
 - **Bloomberg reported that a global sell-off in AI-exposed companies on Thursday 5 November drove the Nasdaq 100 down 6.4% in its worst session since March 2020, and that Nvidia fell more than 9%** — the index and the percentage differ from the Nasdaq figure International Business Times Australia gave for the same session ([Bloomberg, as shown on the Arkansas Democrat-Gazette](https://www.arkansasonline.com/news/2026/nov/07/democrats-expected-to-scrutinize-nvidia/)) Claims: kat-claim-0f5551b90535

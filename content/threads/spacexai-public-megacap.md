@@ -20,6 +20,10 @@ blurb: 'SpaceX (Nasdaq: SPCX) — the public parent holding xAI + X ("SpaceXAI" 
   circular financing. Q7 material.'
 ---
 
+## 2026-11-10 — Ars Technica: SpaceX's vice president of launch calls it fundamentally an infrastructure company
+
+- **Ars Technica reported that Kiko Dontchev, SpaceX's vice president of launch, said at the UP.Summit conference that "fundamentally we are an infrastructure company at this point"** ([Ars Technica](https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/)) Claims: kat-claim-fe05425a7018
+
 ## 2026-11-02 — TechCrunch: SpaceX said in an October filing that AI is 52% of company income; its Super Intelligence division reported a $431 million profit
 
 - **TechCrunch reported that SpaceX said in a filing in October that AI now makes up 52% of company income** — TechCrunch describes Grok Bot as positioned as a success story for the newly public company. ([TechCrunch](https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/)) Claims: kat-claim-d46dff7d326b

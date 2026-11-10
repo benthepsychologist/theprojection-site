@@ -15,6 +15,11 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
   AMD/Azure/Google-TPU compute deals get positioned in the roadshow narrative.'
 ---
 
+## 2026-11-10 — TechCrunch, relaying The Wall Street Journal: Anthropic plans to set a valuation range this week and begin trading next week, with some institutional investors pushing below $1.5 trillion
+
+- **TechCrunch reported, citing The Wall Street Journal on 9 November 2026, that Anthropic plans to set a valuation range this week and begin trading on Thursday or Friday of next week** ([TechCrunch](https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/)) Claims: kat-claim-59a02608c78b
+- **TechCrunch reported, citing The Wall Street Journal, that some institutional investors are pushing for an Anthropic IPO valuation below the $1.5 trillion target discussed as recently as the previous week, a figure itself considerably below the $2 trillion floated a few months earlier** ([TechCrunch](https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/)) Claims: kat-claim-b406df84b030
+
 ## 2026-11-07 — TechCrunch, relaying Bloomberg: IPO buyers eye an Anthropic valuation as low as $1.1 trillion, and a junk credit rating is reportedly expected
 
 - **TechCrunch reported, citing Bloomberg, that some potential buyers of shares in Anthropic's IPO believe its valuation could be as low as $1.1 trillion, compared with the $2 trillion that investors were said to be expecting roughly a month earlier** ([TechCrunch](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)) Claims: kat-claim-bac8119920a1

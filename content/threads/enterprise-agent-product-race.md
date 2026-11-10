@@ -21,6 +21,12 @@ blurb: 'Whether the enterprise agent-product surface — the layer where labs an
   the packaging actually converts to usage.'
 ---
 
+## 2026-11-10 — TechCrunch: Anthropic releases Mythos 5.2 and Fable 5.2 and lowers Fable's price; Meta prices Muse Ember at 10 cents per million input tokens
+
+- **TechCrunch reported that Anthropic released new versions of its most advanced models, Mythos 5.2 and Fable 5.2, on Monday 9 November 2026** ([TechCrunch](https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/)) Claims: kat-claim-7e51d3c3802e
+- **TechCrunch reported that Anthropic is lowering the cost of Fable from $10 to $8 per million input tokens, and that as a result Fable 5.2 is cheaper than its primary competitor GPT-6 Astra** ([TechCrunch](https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/)) Claims: kat-claim-2a905699a47a
+- **TechCrunch reported that Meta's Muse Ember model is priced at 10 cents per million input tokens, significantly cheaper than frontier competitors like Anthropic's Haiku and OpenAI's Luna** ([TechCrunch](https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/)) Claims: kat-claim-bec4d6129506
+
 ## 2026-10-28 — Anthropic launches reporting on what enterprise token spend buys; Jellyfish data puts Anthropic-based tools at nearly a third of proposed code changes
 
 - **TechCrunch reported that Anthropic announced a suite of reporting tools designed to give enterprise customers a more granular understanding of the value they get from their token spend** — managers can see a team's work over a date range, what it produced, what it cost and where workflows broke down; Anthropic says it will not use the data for model training by default, and it is also creating pooled group budgets for token spending. ([TechCrunch](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/)) Claims: kat-claim-59b8117f0ad8

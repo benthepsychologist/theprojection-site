@@ -21,6 +21,14 @@ blurb: 'The gpt-5.6 gating dynamic made permanent — and it''s all one buildout
   in a year — can it run classified review?); the first model actually gated.'
 ---
 
+## 2026-11-10 — TechCrunch on METR's report and Anthropic's release notes; The Verge on President Trump's AI remarks; MIT Technology Review on Scott Wiener's House win
+
+- **TechCrunch reported that a third-party report from the assessment group METR suggested Anthropic might be approaching recursive self-improvement, and found internal models were speeding up Anthropic's AI progress by roughly 2x, although many uncertainties remain** ([TechCrunch](https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/)) Claims: kat-claim-4b821a9ce3a6
+- **TechCrunch reported that Anthropic's release notes say Claude Mythos 5.2 and Fable 5.2 each voice suspicion that they are being evaluated more often than any of the company's recent models, which challenges its ability to assess how they will act in real-world settings** ([TechCrunch](https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/)) Claims: kat-claim-c5947240c2eb
+- **The Verge reported that President Trump said on 60 Minutes that AI risk is "not nearly as real" as AI executives describe and "can be managed", and claimed the Justice Department told the leader of an AI company, whom he refused to name, "Get ready to go to jail."** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai)) Claims: kat-claim-27f13ad1ff5c
+- **MIT Technology Review reported that Scott Wiener, who as a California state senator authored legislation aimed at curbing the risks of advanced AI, won the congressional race for Nancy Pelosi's open San Francisco seat and could play a key role in setting federal AI policy** ([MIT Technology Review](https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/)) Claims: kat-claim-a57c7d1e01fb
+- **MIT Technology Review reported that Scott Wiener's congressional campaign received over $3 million from Public First Action, a nonprofit in favor of AI regulation that receives substantial funding from Anthropic** ([MIT Technology Review](https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/)) Claims: kat-claim-38dcce967946
+
 ## 2026-11-07 — WIRED: Vals tests put an open-weight Chinese model close to OpenAI's gated cyber model in simulated network attacks
 
 - **WIRED reported, citing research by Vals, that in simulated corporate-network attack tests OpenAI's cyber model Daybreak completed 81 percent of its tasks and the Chinese open-weight model DeepSeek completed 73 percent of its objectives, on average** ([WIRED](https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/)) Claims: kat-claim-32e19575a409

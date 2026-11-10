@@ -27,6 +27,11 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   count.'
 ---
 
+## 2026-11-10 — MIT Technology Review: voters approved 40 of 41 anti-data-center ballot measures, and new Virginia rules make data centers pay for new transmission lines
+
+- **MIT Technology Review reported on 9 November 2026 that voters approved 40 out of 41 anti-data-center ballot measures on Tuesday** ([MIT Technology Review](https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/)) Claims: kat-claim-249fd93352de
+- **MIT Technology Review reported that recent protests in Virginia have led to new state rules that data centers must pay fully for the cost of new transmission lines to the grid, and that data center developers said they are preparing for new rules that would cut them off from grid power during peak demand** ([MIT Technology Review](https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/)) Claims: kat-claim-117f1b8b52e6
+
 ## 2026-11-09 — WIRED: a petition of almost 55,000 signatures and an alliance of wildlife and motorcycle groups oppose Google's Thurrock data center
 
 - **WIRED reported that a petition signed by almost 55,000 people calls on Google to abandon plans for a large new data center in Thurrock, 15 miles east of London** ([WIRED](https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/)) Claims: kat-claim-769aac399e1c

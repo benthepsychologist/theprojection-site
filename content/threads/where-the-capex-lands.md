@@ -26,6 +26,10 @@ blurb: 'The ~$750B question posed as a DESTINATION, not a spender: where does th
   not just whether the gap exists.'
 ---
 
+## 2026-11-10 — MIT Technology Review: Google to spend $15 billion on data center projects in Malaysia
+
+- **MIT Technology Review reported that Google announced the day after the US midterm elections that it will spend $15 billion on data center projects in Malaysia** ([MIT Technology Review](https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/)) Claims: kat-claim-b92a39b4370d
+
 ## 2026-11-07 — Dropbox announces plans to acquire Tigris Data, an object-storage startup, for $350 million
 
 - **Crunchbase News reported that Dropbox announced on Thursday 5 November plans to acquire Tigris Data for $350 million, in a transaction Dropbox told Crunchbase News would be its largest acquisition since its founding in 2007** ([Crunchbase News](https://news.crunchbase.com/ma/dbx-ai-infrastructure-deal-tigris-acquisition/)) Claims: kat-claim-e6dcb87a47e0
