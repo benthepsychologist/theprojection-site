@@ -19,6 +19,10 @@ blurb: 'One story, both directions: Z.AI''s 1 GW all-domestic-chip site, Kimi K3
   its models/chips. US chip-equity reaction is the measure.'
 ---
 
+## 2026-11-11 — TechCrunch: Nvidia's board hires Wachtell, Lipton, Rosen & Katz for its internal investigation
+
+- **TechCrunch reported that Nvidia's board hired the law firm Wachtell, Lipton, Rosen & Katz to conduct an internal investigation** ([TechCrunch](https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/)) Claims: kat-claim-96c611df56a6
+
 ## 2026-11-10 — TechCrunch and The Verge: a proposed securities class action names Nvidia and its chief executive; the Financial Times on Alibaba lending to Megaspeed; President Trump says the FBI is looking into the matter
 
 - **TechCrunch reported that a proposed securities class action names both Nvidia and its chief executive Jensen Huang and covers anyone who bought Nvidia securities between 9 October 2025 and 8 November 2026** ([TechCrunch](https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/)) Claims: kat-claim-4a4da4630b9f

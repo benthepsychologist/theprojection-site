@@ -25,6 +25,13 @@ blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops wh
   follow Nvidia''s retreat.'
 ---
 
+## 2026-11-11 — Nvidia, AMD and TSMC buy into Anthropic's IPO private placement, and TSMC's board approves up to $500 million for OpenAI preferred stock
+
+- **TechCrunch reported that Nvidia is investing $10 billion in Anthropic's $26 billion private sale of non-voting Class N stock at the IPO price, whose buyers Anthropic named as AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC** ([TechCrunch](https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/)) Claims: kat-claim-506e7323996a
+- **Anthropic's Form S-1/A of 10 November 2026 states that the $2.5 billion AMD pays for Class N stock in the placement will satisfy a portion of AMD's existing equity commitment to Anthropic** ([SEC EDGAR, Anthropic Form S-1/A](https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm)) Claims: kat-claim-440838b05d4d
+- **TSMC's Form 6-K of 10 November 2026 states that its board approved an investment in Anthropic, at the per-share IPO price, of no more than US$500 million** ([SEC EDGAR, TSMC Form 6-K](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000797/tsm-boardx202611xx.htm)) Claims: kat-claim-7cdb8ed29a2b
+- **The same filing states that TSMC's board approved an investment in OpenAI Group PBC of no more than US$500 million to acquire OpenAI's preferred stock** ([SEC EDGAR, TSMC Form 6-K](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000797/tsm-boardx202611xx.htm)) Claims: kat-claim-529ed055cda6
+
 ## 2026-09-25 — CleanSpark closes its $2.276 billion data-center notes at a 7.875% coupon
 
 - **CleanSpark's finance subsidiary closed its $2.276 billion offering of 7.875% senior secured notes due 2031 on Friday, the debt behind its Sandersville, Georgia data center.** The notes were priced on September 18 at 98.5% of principal; CleanSpark's release says the proceeds fund the remaining build-out cost, reimburse earlier equity contributions and fund debt-service reserves, with CleanSpark giving a completion guarantee. ([CleanSpark](https://www.prnewswire.com/news-releases/cleanspark-inc-announces-closing-of-2-276-billion-of-senior-secured-notes-302890605.html), [CleanSpark pricing release](https://www.prnewswire.com/news-releases/cleanspark-inc-announces-pricing-of-2-276-billion-of-senior-secured-notes-302883634.html))

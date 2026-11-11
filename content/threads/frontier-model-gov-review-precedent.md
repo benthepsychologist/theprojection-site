@@ -21,6 +21,11 @@ blurb: 'The gpt-5.6 gating dynamic made permanent — and it''s all one buildout
   in a year — can it run classified review?); the first model actually gated.'
 ---
 
+## 2026-11-11 — TechCrunch: New York's AI safety law takes effect, with large frontier developers required to register by 1 January 2027
+
+- **TechCrunch reported that New York opened a registration portal on 10 November 2026, with which large frontier AI developers such as Anthropic and OpenAI are required to register by 1 January 2027** ([TechCrunch](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/)) Claims: kat-claim-6076fe0cda03
+- **TechCrunch reported that the law requires large frontier developers, companies with more than $500 million in annual revenue, to publish safety frameworks on their websites, report critical safety incidents within 72 hours and issue public model transparency reports** ([TechCrunch](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/)) Claims: kat-claim-876385e0eec3
+
 ## 2026-11-10 — TechCrunch on METR's report and Anthropic's release notes; The Verge on President Trump's AI remarks; MIT Technology Review on Scott Wiener's House win
 
 - **TechCrunch reported that a third-party report from the assessment group METR suggested Anthropic might be approaching recursive self-improvement, and found internal models were speeding up Anthropic's AI progress by roughly 2x, although many uncertainties remain** ([TechCrunch](https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/)) Claims: kat-claim-4b821a9ce3a6

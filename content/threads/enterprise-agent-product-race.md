@@ -21,6 +21,13 @@ blurb: 'Whether the enterprise agent-product surface — the layer where labs an
   the packaging actually converts to usage.'
 ---
 
+## 2026-11-11 — Anthropic's workplace tools, ChatGPT's verified Business Agents, Google's Gemini 4 Carbon, and OpenAI's acquisition of Odessia
+
+- **The Verge reported that Anthropic made Claude Whiteboards, Sheets and Meetings available in beta, the first two on all paid plans and Meetings on Teams and Enterprise subscriptions, and made Claude Data, formerly Claude Dashboards, generally available to all paid plans** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now)) Claims: kat-claim-41974906e912
+- **The Verge reported that ChatGPT will let users chat with verified Business Agents that represent a brand, available first to eligible e-commerce and online service businesses in the US, as part of a suite of business features announced in beta** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub)) Claims: kat-claim-f94d923d3540
+- **Google DeepMind said on 10 November 2026 that it was making Gemini 4 Carbon, which it called its strongest model, available to developers, enterprises, scientists and consumers** ([Google DeepMind](https://deepmind.google/blog/gemini-4-carbon-is-now-available/)) Claims: kat-claim-a2d020e9356b
+- **TechCrunch reported, citing Odessia founder Francis Davidson, that OpenAI has acquired the AI travel agent Odessia** ([TechCrunch](https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/)) Claims: kat-claim-56025c7da206
+
 ## 2026-11-10 — TechCrunch: Anthropic releases Mythos 5.2 and Fable 5.2 and lowers Fable's price; Meta prices Muse Ember at 10 cents per million input tokens
 
 - **TechCrunch reported that Anthropic released new versions of its most advanced models, Mythos 5.2 and Fable 5.2, on Monday 9 November 2026** ([TechCrunch](https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/)) Claims: kat-claim-7e51d3c3802e

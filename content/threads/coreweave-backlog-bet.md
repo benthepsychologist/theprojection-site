@@ -19,6 +19,12 @@ blurb: 'The neocloud wager, quantified: $99.4B backlog (Q1-26; OpenAI $18.4B + M
   08-11.'
 ---
 
+## 2026-11-11 — CoreWeave's third-quarter release: revenue of $3.66 billion, a $132.5 billion backlog, and 2026 capex guidance raised at the low end to $37 to $39 billion
+
+- **CoreWeave's third-quarter 2026 earnings release states revenue of $3,661 million for the three months to 30 September 2026, against $1,365 million a year earlier** ([SEC EDGAR, CoreWeave Form 8-K Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000461/coreweave3q26earningspress.htm)) Claims: kat-claim-d6bc5546fef7
+- **The release states that CoreWeave's revenue backlog was approximately $132.5 billion as of 30 September 2026** ([SEC EDGAR, CoreWeave Form 8-K Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000461/coreweave3q26earningspress.htm)) Claims: kat-claim-c9d7dccfaaca
+- **The release states that CoreWeave now expects full-year 2026 capital expenditures of $37 billion to $39 billion, raising the low end of its prior range of $35 billion to $39 billion** ([SEC EDGAR, CoreWeave Form 8-K Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000461/coreweave3q26earningspress.htm)) Claims: kat-claim-6bce78a9ae49
+
 ## 2026-11-08 — Tech Times: CoreWeave shares fell 9.83% on 5 November; its reported active and contracted power
 
 - **Tech Times reported, citing CNBC, that CoreWeave shares fell 9.83% at the close on Thursday, Nov. 5, as investors worried about a backlash against data centers after votes in several states** ([Tech Times](https://www.techtimes.com/articles/330159/20261106/coreweave-announces-global-ai-network-no-published-speed-latency-data-stock-drops.htm)) Claims: kat-claim-6e5440fc5fe9

@@ -28,6 +28,11 @@ blurb: 'Anthropic has signed four large infrastructure arrangements in roughly t
   — this thread asks a narrower question, who ends up holding the asset.'
 ---
 
+## 2026-11-11 — Anthropic's second amended S-1 puts its new compute and infrastructure obligations since 30 September at about $106 billion
+
+- **Anthropic's Form S-1/A filed on 10 November 2026 states that after 30 September 2026 it entered into new, and amended existing, lease and commercial arrangements, mainly for additional compute and infrastructure capacity, with aggregate future minimum payment obligations of approximately $106 billion, some of them subject to contingent conditions** ([SEC EDGAR, Anthropic Form S-1/A](https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm)) Claims: kat-claim-d4f39a54210a
+- **The S-1/A filed on 2 November 2026 had stated approximately $100.2 billion of aggregate future minimum payment obligations for commitments entered into after 30 September 2026** ([SEC EDGAR, Anthropic Form S-1/A of 2 November](https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm)) Claims: kat-claim-933f7a613ecb
+
 ## 2026-11-10 — TechCrunch, relaying the Financial Times: Anthropic buys $3.4 billion of Caterpillar generators; Akamai plans $1.7 billion of component pre-purchases for its Anthropic contract
 
 - **TechCrunch reported, citing the Financial Times, that Anthropic is spending $3.4 billion on natural gas turbines, buying Caterpillar generators capable of producing up to 1.7 gigawatts of electricity that equipment supplier OnePWR had originally ordered** ([TechCrunch](https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/)) Claims: kat-claim-76c54d23a691

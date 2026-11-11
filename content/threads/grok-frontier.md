@@ -18,6 +18,10 @@ blurb: 'The Grok line closing the frontier gap as a FAST FOLLOWER, not mid-pack:
   coding, and whether owning the mines sustains a lead vs. OpenAI/Anthropic.'
 ---
 
+## 2026-11-11 — Ars Technica: Grok Build links exposed confidential data, some of it from SpaceXSI's own apps
+
+- **Ars Technica reported, citing the security firm Claroc, that some of the confidential data exposed through Grok Build links came from two dozen apps built by SpaceXSI, the merged SpaceX and xAI** ([Ars Technica](https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/)) Claims: kat-claim-4d30d4acfd2d
+
 ## 2026-11-02 — TechCrunch: Musk says the cost of serving Grok Bot was "unsustainably high relative to revenue" after users' usage limits were cut
 
 - **TechCrunch reported that SpaceX CEO Elon Musk confirmed in an X post on November 1 that the cost of serving Grok Bot was "unsustainably high relative to revenue"** — the post followed reports from some users that their weekly usage limits had jumped, in some cases from as low as 50% to 100%, over the Halloween weekend without overnight use; TechCrunch says Musk has not said how subscribers' limits will change. ([TechCrunch](https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/)) Claims: kat-claim-295488fbe84b

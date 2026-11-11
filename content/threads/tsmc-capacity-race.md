@@ -18,6 +18,11 @@ blurb: 'The chokepoint is cashing in: capex raised 15% to $60-64B + another $100
   The ~90% advanced-node share is carried, not re-verified. Next: Q3 earnings.'
 ---
 
+## 2026-11-11 — TSMC's board approves about US$40.9 billion of capital appropriations; October revenue is up 59.7% on a year earlier
+
+- **TSMC's Form 6-K of 10 November 2026 states that its board approved capital appropriations of approximately US$40,926.70 million, mainly for advanced technology capacity, advanced packaging and mature and specialty capacity, fab construction and facility systems, and 2027 R&D capital investments, sustaining capital expenditures and capitalized leased assets** ([SEC EDGAR, TSMC Form 6-K](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000797/tsm-boardx202611xx.htm)) Claims: kat-claim-0d65bcb9ba05
+- **TSMC's October 2026 revenue report states consolidated revenue of approximately NT$586.89 billion for the month, up 14.7 percent from September 2026 and 59.7 percent from October 2025** ([SEC EDGAR, TSMC Form 6-K](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000796/tsm-revenue20261110.htm)) Claims: kat-claim-81deb8c13cdc
+
 ## 2026-10-01 — TSMC weighs a multi-fab Texas campus
 
 - **TSMC is weighing a new multi-fab chip campus in Texas that would add tens of billions of dollars to its US investment, Bloomberg reported, citing people familiar with its plans.** Each plant would cost at least $20 billion and the plans are at an early stage; the project is contingent on Congress extending the 35% advanced-manufacturing tax credit that expires at the end of the year. TSMC has already committed $265 billion to its Arizona site, and North America is more than 75% of its wafer revenue this year. ([Bloomberg via Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/tsmc-mulls-multibillion-dollar-texas-102454782.html))
