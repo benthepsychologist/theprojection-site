@@ -28,6 +28,11 @@ blurb: 'Whether AI-buildout debt is becoming its own underwritten, rated, public
   clock — the two produce very different recovery rates in a default.'
 ---
 
+## 2026-11-12 — Insurance Journal: Marsh presses US regulators on capital relief for credit-insured loans; Barclays seeks cover on more than $10 billion of data center debt
+
+- **An article on Insurance Journal by Esteban Duarte and Katanga Johnson reported that Marsh & McLennan is urging US regulators to allow banks to hold less capital against loans covered by credit risk insurance, as lenders look for new ways to offload data center exposure** ([Insurance Journal](https://www.insurancejournal.com/news/national/2026/11/12/892334.htm)) Claims: kat-claim-1a8eb375a612
+- **An article on Insurance Journal by Esteban Duarte and Katanga Johnson reported that Barclays has been looking to buy credit risk insurance cover on more than $10 billion of data center debt, and that HSBC has explored a similar transaction** ([Insurance Journal](https://www.insurancejournal.com/news/national/2026/11/12/892334.htm)) Claims: kat-claim-8edc22dfd9be
+
 ## 2026-11-06 — Alphabet and Meta close note offerings; IREN cites tougher financing
 
 - **Alphabet's Form 8-K states that on 5 November 2026 it closed an underwritten public offering of EUR 6 billion of euro-denominated senior notes in seven series, from EUR 750 million of floating rate notes due 2028 to EUR 1 billion of 5.250% notes due 2045** ([Alphabet Form 8-K](https://www.sec.gov/Archives/edgar/data/1652044/000119312526449835/d174184d8k.htm)) Claims: kat-claim-c6715dfb2f9f

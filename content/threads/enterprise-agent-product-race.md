@@ -21,6 +21,10 @@ blurb: 'Whether the enterprise agent-product surface — the layer where labs an
   the packaging actually converts to usage.'
 ---
 
+## 2026-11-12 — Google prices its new Gemini Decision 1 model at $0.10 per million input tokens and nothing for output
+
+- **Google said its new Gemini Decision 1 model, which powers the Gemini Decisions API it introduced on 11 November 2026, is priced at $0.10 per million input tokens and $0 for output tokens** ([Google](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)) Claims: kat-claim-945924699b2b
+
 ## 2026-11-11 — Anthropic's workplace tools, ChatGPT's verified Business Agents, Google's Gemini 4 Carbon, and OpenAI's acquisition of Odessia
 
 - **The Verge reported that Anthropic made Claude Whiteboards, Sheets and Meetings available in beta, the first two on all paid plans and Meetings on Teams and Enterprise subscriptions, and made Claude Data, formerly Claude Dashboards, generally available to all paid plans** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now)) Claims: kat-claim-41974906e912

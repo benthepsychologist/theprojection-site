@@ -18,6 +18,11 @@ blurb: Where the capex lands in SILICON — the $ flowing to Nvidia/AMD/TSMC/ Br
   to stop renting from Nvidia. Category meta under where-the-capex-lands.
 ---
 
+## 2026-11-12 — TechCrunch: British AI chip startup Fractile raises a $720 million Series C
+
+- **TechCrunch reported that Fractile, a British AI chip startup, raised a $720 million Series C backed by Britain's Sovereign AI Fund** ([TechCrunch](https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/)) Claims: kat-claim-5d77a170bef5
+- **TechCrunch reported that Fractile's Series C was led by Thrive Capital, Founders Fund, Lightspeed Venture Partners and Redpoint, at a valuation the British government put at over £5 billion** ([TechCrunch](https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/)) Claims: kat-claim-55eee1eb9f0f
+
 ## 2026-09-27 — China signals it may let ByteDance and Alibaba buy Nvidia's RTX PRO 5500
 
 - **China's industry ministry has signaled it intends to approve purchases of Nvidia's RTX PRO 5500 chip by firms including ByteDance and Alibaba, The Information reported on 2026-09-27, citing two people familiar.** The ministry asked the companies to report their purchase plans, and some executives expect the chip to fall outside US export restrictions. Reuters said it could not immediately verify the report, and an Nvidia spokesperson said US firms remain restricted by outdated US export controls and by China's own import limits. ([CNBC](https://www.cnbc.com/2026/09/27/china-bytedance-alibaba-nvidia-chips.html), [Reuters](https://www.reuters.com/business/retail-consumer/china-weighs-allowing-bytedance-alibaba-buy-new-nvidia-chips-information-reports-2026-09-27/))

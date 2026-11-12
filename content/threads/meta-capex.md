@@ -26,6 +26,10 @@ blurb: 'The week''s reversal: Meta QUIT RE100 amid a 7.5GW gas buildout (07-23/2
   gap.'
 ---
 
+## 2026-11-12 — TechCrunch: Meta's head of infrastructure Santosh Janardhan steps down and Dave Brown replaces him
+
+- **TechCrunch reported that Meta said Santosh Janardhan, its longtime head of infrastructure and co-head of engineering, will step down and be replaced by Dave Brown, who joined Meta as vice president of infrastructure earlier in 2026** ([TechCrunch](https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/)) Claims: kat-claim-698c70f71710
+
 ## 2026-11-06 — Meta's Form 8-K lists five dollar note series; its president describes 1-gigawatt sites
 
 - **Meta Platforms' Form 8-K states that on 5 November 2026 it completed an offering of five series of U.S. dollar senior notes, from $3.25 billion of 5.850% notes due 2031 to $2.75 billion of 7.500% notes due 2056, with Citigroup Global Markets and Morgan Stanley as representatives of the underwriters** — the filing lists the series and states no total. ([Meta Form 8-K](https://www.sec.gov/Archives/edgar/data/1326801/000119312526450074/d166273d8k.htm)) Claims: kat-claim-ea7d887daf1b

@@ -19,6 +19,12 @@ blurb: 'The neocloud wager, quantified: $99.4B backlog (Q1-26; OpenAI $18.4B + M
   08-11.'
 ---
 
+## 2026-11-12 — TechCrunch: CoreWeave expects about $9 billion in customer prepayments and deposits and rules out unsecured debt at current yields
+
+- **TechCrunch reported that CoreWeave said it expects about $9 billion in customer prepayments and deposits over the three months after its third-quarter 2026 results, including more than $3 billion tied to new customer contracts for capacity it has already built** ([TechCrunch](https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/)) Claims: kat-claim-30804c1fef46
+- **TechCrunch reported that CoreWeave chief executive Michael Intrator said on the company's third-quarter 2026 earnings call that CoreWeave would not use the unsecured debt market to fund its business at current yields** ([TechCrunch](https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/)) Claims: kat-claim-480319c355da
+- **TechCrunch reported that CoreWeave chief executive Michael Intrator said the company was selling short-term capacity at more than $40 million per megawatt annually, while pricing for new infrastructure on four- and five-year contracts was moving to $20 million to $25 million per megawatt** ([TechCrunch](https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/)) Claims: kat-claim-3a9e234d4542
+
 ## 2026-11-11 — CoreWeave's third-quarter release: revenue of $3.66 billion, a $132.5 billion backlog, and 2026 capex guidance raised at the low end to $37 to $39 billion
 
 - **CoreWeave's third-quarter 2026 earnings release states revenue of $3,661 million for the three months to 30 September 2026, against $1,365 million a year earlier** ([SEC EDGAR, CoreWeave Form 8-K Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000461/coreweave3q26earningspress.htm)) Claims: kat-claim-d6bc5546fef7

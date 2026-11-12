@@ -25,6 +25,11 @@ blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops wh
   follow Nvidia''s retreat.'
 ---
 
+## 2026-11-12 — Bloomberg, via TechCrunch: OpenAI's quarterly revenue passes $10 billion and its adjusted operating margin narrows
+
+- **TechCrunch reported, citing Bloomberg and anonymous sources, that OpenAI's quarterly revenue crossed $10 billion for the first time** ([TechCrunch](https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/)) Claims: kat-claim-b0b2059bb077
+- **TechCrunch reported, citing Bloomberg, that OpenAI's adjusted operating margin narrowed from -150% in the second quarter of 2026 to -109% in the third quarter** ([TechCrunch](https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/)) Claims: kat-claim-18187e03e79a
+
 ## 2026-11-11 — Nvidia, AMD and TSMC buy into Anthropic's IPO private placement, and TSMC's board approves up to $500 million for OpenAI preferred stock
 
 - **TechCrunch reported that Nvidia is investing $10 billion in Anthropic's $26 billion private sale of non-voting Class N stock at the IPO price, whose buyers Anthropic named as AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC** ([TechCrunch](https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/)) Claims: kat-claim-506e7323996a
