@@ -19,6 +19,10 @@ blurb: 'Whether the ~14GW of announced OpenAI/Meta/Anthropic compute deals actua
   the Oracle 50,000-GPU Q3-2026 rollout starts on schedule.'
 ---
 
+## 2026-11-13 — Wired: AMD shares up 28 percent over five days as Nvidia's chief executive resigns
+
+- **Wired reported that AMD shares were up 28 percent over the five days to 12 November 2026 and Broadcom shares nearly 16 percent** ([Wired](https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/)) Claims: kat-claim-f15565367242
+
 ## 2026-11-03 — AMD reports third-quarter 2026 revenue of $13.4 billion and Data Center segment revenue of $8.5 billion
 
 - **AMD's Exhibit 99.1 to its Form 8-K filed 3 November 2026 states that third quarter 2026 revenue was $13.4 billion, gross margin was 54%, operating income was $2.8 billion and net income was $2.4 billion** ([AMD, Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/q32026991.htm)) Claims: kat-claim-1daa0946c817

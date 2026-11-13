@@ -18,6 +18,13 @@ blurb: Where the capex lands in SILICON — the $ flowing to Nvidia/AMD/TSMC/ Br
   to stop renting from Nvidia. Category meta under where-the-capex-lands.
 ---
 
+## 2026-11-13 — Cerebras's third quarter: record revenue of $210.8 million, $26.1 billion of remaining performance obligations and 700 megawatts under contract
+
+- **Cerebras Systems' third-quarter 2026 earnings release states record GAAP total revenue of $210.8 million for the quarter ended 30 September 2026, up 55% year over year, and GAAP cloud and other services revenue of $141.9 million, up 265%** ([SEC EDGAR, Cerebras Systems Form 8-K Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/2021728/000162828026073366/cbrsannouncesfinancialresu.htm)) Claims: kat-claim-5fd2ddc9a550
+- **The release states that Cerebras had $26.1 billion in remaining performance obligations as of 30 September 2026** ([SEC EDGAR, Cerebras Systems Form 8-K Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/2021728/000162828026073366/cbrsannouncesfinancialresu.htm)) Claims: kat-claim-d57799ee57a9
+- **The release states that Cerebras has 700 megawatts of data center capacity under contract and commercial wins with two new hyperscalers** ([SEC EDGAR, Cerebras Systems Form 8-K Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/2021728/000162828026073366/cbrsannouncesfinancialresu.htm)) Claims: kat-claim-7344f99dc730
+- **The release states that Oracle is integrating Cerebras' inference into Oracle Cloud Infrastructure and that Cerebras will be available there in 2027** ([SEC EDGAR, Cerebras Systems Form 8-K Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/2021728/000162828026073366/cbrsannouncesfinancialresu.htm)) Claims: kat-claim-730fae571b89
+
 ## 2026-11-12 — TechCrunch: British AI chip startup Fractile raises a $720 million Series C
 
 - **TechCrunch reported that Fractile, a British AI chip startup, raised a $720 million Series C backed by Britain's Sovereign AI Fund** ([TechCrunch](https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/)) Claims: kat-claim-5d77a170bef5

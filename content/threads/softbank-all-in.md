@@ -28,6 +28,11 @@ blurb: 'The empire''s concentration play, assembled from pieces other threads ca
   and whether Roze/ABB actually reaches IPO.'
 ---
 
+## 2026-11-13 — TechCrunch: SoftBank's $7.1 billion quarterly loss, more than half of it tied to power-generating equipment
+
+- **TechCrunch reported that SoftBank announced a $7.1 billion quarterly loss, with over half of it stemming from losses related to power-generating equipment, after it had paid turbine manufacturers nonrefundable deposits that it now considered largely worthless** ([TechCrunch](https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/)) Claims: kat-claim-274d77b6fc31
+- **TechCrunch reported that SoftBank, starting about two years earlier, had reportedly put down deposits on more than 13 gigawatts of turbines, almost 50% more than it needed** ([TechCrunch](https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/)) Claims: kat-claim-de3a11df618f
+
 ## 2026-10-01 — SoftBank completes its $30 billion OpenAI follow-on
 
 - **SoftBank executed the third and final $10.0 billion tranche of its follow-on investment in OpenAI on October 1 (Japan time), completing the $30.0 billion commitment and lifting its cumulative investment to $64.6 billion and its stake to about 13%.** SoftBank says the tranche was funded with the proceeds of the senior notes it announced on September 24, and that it cancelled the last $10.0 billion of undrawn capacity on its $40.0 billion bridge facility effective September 30, so no bridge borrowing remains. ([SoftBank Group](https://group.softbank/en/news/press/20261001))

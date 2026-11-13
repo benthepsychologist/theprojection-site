@@ -21,6 +21,11 @@ blurb: 'Whether the enterprise agent-product surface — the layer where labs an
   the packaging actually converts to usage.'
 ---
 
+## 2026-11-13 — Google DeepMind introduces Gemini 4 Hydrogen, priced at $1.50 per million input tokens
+
+- **Google DeepMind said on 12 November 2026 that with Gemini 4 Hydrogen it was bringing Gemini 4 to all tiers of Google AI Studio, the Gemini API, Gemini for business, the Gemini app and Google Search, and to paid Google AI Pro and Ultra subscribers in Google Antigravity** ([Google DeepMind](https://deepmind.google/blog/introducing-gemini-4-hydrogen/)) Claims: kat-claim-9d8d220e4e12
+- **Google DeepMind said Gemini 4 Hydrogen is priced at $1.50 per million input tokens and $7.50 per million output tokens across its 1 million-token context window** ([Google DeepMind](https://deepmind.google/blog/introducing-gemini-4-hydrogen/)) Claims: kat-claim-22e6d7728260
+
 ## 2026-11-12 — Google prices its new Gemini Decision 1 model at $0.10 per million input tokens and nothing for output
 
 - **Google said its new Gemini Decision 1 model, which powers the Gemini Decisions API it introduced on 11 November 2026, is priced at $0.10 per million input tokens and $0 for output tokens** ([Google](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)) Claims: kat-claim-945924699b2b

@@ -19,6 +19,14 @@ blurb: 'The neocloud wager, quantified: $99.4B backlog (Q1-26; OpenAI $18.4B + M
   08-11.'
 ---
 
+## 2026-11-13 — Nebius's third quarter: $980.8 million of revenue and $15.4 billion of nine-month equipment purchases; TechCrunch on $40 billion to $45 billion of planned 2027 capex and a delayed Microsoft site
+
+- **Nebius Group's operating and financial review for the third quarter of 2026, filed with the SEC on Form 6-K, states that its total revenues rose by $834.7 million, or 571%, from $146.1 million in the third quarter of 2025 to $980.8 million** ([SEC EDGAR, Nebius Group Form 6-K Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1513845/000110465926126238/nbis-ex99d1.htm)) Claims: kat-claim-bb9f7c3db192
+- **The review states that net cash used in investing activities in the nine months to 30 September 2026 was $15,924.0 million, consisting primarily of $15,430.7 million of purchases of property and equipment and intangible assets for the Nebius AI cloud business** ([SEC EDGAR, Nebius Group Form 6-K Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1513845/000110465926126238/nbis-ex99d1.htm)) Claims: kat-claim-0a9cedc75787
+- **TechCrunch reported that Nebius expects prepayments plus asset-backed financing of investment-grade contracts to cover up to 85% of its planned $40 billion to $45 billion of 2027 capital expenditure** ([TechCrunch](https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/)) Claims: kat-claim-06053bebd2a1
+- **TechCrunch reported that Nebius's contract with Microsoft is worth up to $19.4 billion and that only just over half of the Microsoft capacity is now planned for delivery by the end of 2026, with the rest in the second quarter of 2027** ([TechCrunch](https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/)) Claims: kat-claim-5f21c551e71f
+- **TechCrunch reported that Nebius forecast 2027 revenue of $12 billion to $13 billion and said it expects to break even on a pre-tax basis by the fourth quarter** ([TechCrunch](https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/)) Claims: kat-claim-299b2c15e5cd
+
 ## 2026-11-12 — TechCrunch: CoreWeave expects about $9 billion in customer prepayments and deposits and rules out unsecured debt at current yields
 
 - **TechCrunch reported that CoreWeave said it expects about $9 billion in customer prepayments and deposits over the three months after its third-quarter 2026 results, including more than $3 billion tied to new customer contracts for capacity it has already built** ([TechCrunch](https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/)) Claims: kat-claim-30804c1fef46

@@ -14,6 +14,11 @@ blurb: 'Is the tape turning against the AI trade as a whole? Distinct from the c
   the earnings verdicts, and whether the drawdown changes actual capex behavior.'
 ---
 
+## 2026-11-13 — Wired: Nvidia loses roughly $546 billion of market value within an hour of the open after Huang's resignation, while AMD and Broadcom shares rise
+
+- **Wired reported that Nvidia's stock lost roughly $546 billion in market value within an hour of the market open after the company announced Jensen Huang's resignation, and that the weeks of scandal had cut its valuation by more than $1 trillion** ([Wired](https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/)) Claims: kat-claim-3bcf81fb153f
+- **Wired reported that AMD shares were up 28 percent over the five days to 12 November 2026 and Broadcom shares nearly 16 percent** ([Wired](https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/)) Claims: kat-claim-f15565367242
+
 ## 2026-11-10 — ISI Markets, relaying EPFR: almost $9.8 billion into Technology Sector Funds in the week ending 4 November
 
 - **EPFR, in a Global Navigator note published by ISI Markets on November 10, 2026, reported that investors steered almost $9.8 billion into Technology Sector Funds and a combined $48.3 billion into all US Equity and Bond Funds during the week ending November 4** ([ISI Markets](https://isimarkets.com/publications/global-navigator-us-political-map-changes-color-but-flows-follow-same-route-in-early-november/)) Claims: kat-claim-581d919aa12c

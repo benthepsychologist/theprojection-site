@@ -17,6 +17,11 @@ blurb: Where the capex lands in POWER — the real bottleneck. Nuclear-for-AI (S
   battles. Category meta under where-the-capex-lands.
 ---
 
+## 2026-11-13 — TechCrunch: SoftBank writes off turbine deposits after ordering more than 13 gigawatts of turbines
+
+- **TechCrunch reported that SoftBank, starting about two years earlier, had reportedly put down deposits on more than 13 gigawatts of turbines, almost 50% more than it needed** ([TechCrunch](https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/)) Claims: kat-claim-de3a11df618f
+- **TechCrunch reported that SoftBank announced a $7.1 billion quarterly loss, with over half of it stemming from losses related to power-generating equipment, after it had paid turbine manufacturers nonrefundable deposits that it now considered largely worthless** ([TechCrunch](https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/)) Claims: kat-claim-274d77b6fc31
+
 ## 2026-09-29 — Warren-led lawmakers ask regulators to block BlackRock-led purchase of AES
 
 - **US lawmakers including Senator Elizabeth Warren asked federal energy regulators to reject the $33.4 billion sale of power company AES to a group led by BlackRock's Global Infrastructure Partners, arguing it could raise electricity bills for the benefit of data centers.** The letter, dated September 28 and reported by Reuters, says GIP typically seeks a 15% to 20% return against a 10% historical median for regulated utilities; AES says the deal is not expected to affect customer rates. ([Reuters via US News](https://www.usnews.com/news/politics/articles/2026-09-29/exclusive-us-lawmakers-including-sen-warren-push-energy-regulators-to-reject-acquisition-of-power-company-aes), [Traders Union](https://tradersunion.com/news/financial-news/show/3570727-us-lawmakers-urge-block-aes-sale/))

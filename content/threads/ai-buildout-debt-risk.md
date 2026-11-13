@@ -28,6 +28,11 @@ blurb: 'Whether AI-buildout debt is becoming its own underwritten, rated, public
   clock — the two produce very different recovery rates in a default.'
 ---
 
+## 2026-11-13 — Meta completes a six-tranche euro bond offering; Nebius plans to fund most of its 2027 capex with prepayments and asset-backed financing
+
+- **Meta Platforms' Form 8-K filed on 12 November 2026 states that it completed an offering of euro-denominated senior notes that day in six tranches: EUR 1.75 billion due 2031, EUR 1.25 billion due 2033, EUR 1 billion due 2035, EUR 1.75 billion due 2038, EUR 1.75 billion due 2044 and EUR 1.5 billion due 2065** ([SEC EDGAR, Meta Platforms Form 8-K](https://www.sec.gov/Archives/edgar/data/1326801/000119312526458525/d177728d8k.htm)) Claims: kat-claim-c4ab005955b7
+- **TechCrunch reported that Nebius expects prepayments plus asset-backed financing of investment-grade contracts to cover up to 85% of its planned $40 billion to $45 billion of 2027 capital expenditure** ([TechCrunch](https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/)) Claims: kat-claim-06053bebd2a1
+
 ## 2026-11-12 — Insurance Journal: Marsh presses US regulators on capital relief for credit-insured loans; Barclays seeks cover on more than $10 billion of data center debt
 
 - **An article on Insurance Journal by Esteban Duarte and Katanga Johnson reported that Marsh & McLennan is urging US regulators to allow banks to hold less capital against loans covered by credit risk insurance, as lenders look for new ways to offload data center exposure** ([Insurance Journal](https://www.insurancejournal.com/news/national/2026/11/12/892334.htm)) Claims: kat-claim-1a8eb375a612
