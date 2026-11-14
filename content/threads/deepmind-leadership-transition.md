@@ -22,6 +22,10 @@ blurb: 'Demis Hassabis is stepping down as DeepMind CEO to become chairman and A
   becomes a pattern; whether other frontier labs see similar moves.'
 ---
 
+## 2026-11-14 — Unions put forward by Google DeepMind staff apply to the UK's Central Arbitration Committee to trigger a union ballot
+
+- **Wired reported that on Thursday the Communication Workers Union and Unite the Union, put forward by Google DeepMind staff as joint representatives, filed an application with the UK's Central Arbitration Committee asking it to confirm the unions have enough worker support to trigger a unionization ballot** ([Wired](https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/)) Claims: kat-claim-35da26101067
+
 ## 2026-09-23 — DeepMind's new chief says Gemini 4 is nearing release
 
 - **Google DeepMind's new chief, Koray Kavukcuoglu, said Gemini 4 is nearing release and that Google aims to ship an early post-training version "much earlier" than the end of the year** In his first media interview as DeepMind's leader, given to The Information, he conceded Google "took a little bit of a step back" to ship faster Flash models instead of the Gemini 3.5 Pro update promised for June. ([The Information](https://www.theinformation.com/articles/google-nears-release-flagship-gemini-4-ai-model), [The Verge](https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu))

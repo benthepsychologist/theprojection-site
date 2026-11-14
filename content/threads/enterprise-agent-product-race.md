@@ -21,6 +21,14 @@ blurb: 'Whether the enterprise agent-product surface — the layer where labs an
   the packaging actually converts to usage.'
 ---
 
+## 2026-11-14 — LangChain raises $300 million at a $3 billion valuation; OpenAI launches ChatGPT Wallet for agent purchases; United Airlines restricts AI booking agents
+
+- **TechCrunch reported that LangChain, an AI agent management startup, raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from Singapore's GIC, DFJ Growth, IVP and Sapphire Ventures, the company announced on Friday** ([TechCrunch](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/)) Claims: kat-claim-0817fbf85576
+- **TechCrunch reported that LangChain claims 7,000 LangSmith customers, including the startups Harvey, Rippling and Clay and enterprises such as Nvidia, Toyota and Salesforce** ([TechCrunch](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/)) Claims: kat-claim-dea57634f859
+- **TechCrunch reported that OpenAI launched a ChatGPT Wallet feature on Friday that lets its agents, called dots, help a user decide what to buy and complete the purchase on their behalf, initially for a limited number of U.S. ChatGPT Pro subscribers aged 18 and up with a U.S.-issued Visa, Mastercard or American Express** ([TechCrunch](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/)) Claims: kat-claim-8abf73a4ecf8
+- **The Verge reported, citing Reuters, that Amazon plans to build a vault of data on every product sold anywhere on the internet, including products Amazon does not sell, in a project called the "World Product Graph" that it would make available through its own site** ([The Verge](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search)) Claims: kat-claim-e94a5ff9c660
+- **TechCrunch reported that United Airlines said it will restrict access to AI agents seeking to book flights and manage reservations on their users' behalf, citing a risk to cybersecurity and undermining federal regulations** ([TechCrunch](https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/)) Claims: kat-claim-566e32688d2b
+
 ## 2026-11-13 — Google DeepMind introduces Gemini 4 Hydrogen, priced at $1.50 per million input tokens
 
 - **Google DeepMind said on 12 November 2026 that with Gemini 4 Hydrogen it was bringing Gemini 4 to all tiers of Google AI Studio, the Gemini API, Gemini for business, the Gemini app and Google Search, and to paid Google AI Pro and Ultra subscribers in Google Antigravity** ([Google DeepMind](https://deepmind.google/blog/introducing-gemini-4-hydrogen/)) Claims: kat-claim-9d8d220e4e12

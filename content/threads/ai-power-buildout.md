@@ -17,6 +17,10 @@ blurb: Where the capex lands in POWER — the real bottleneck. Nuclear-for-AI (S
   battles. Category meta under where-the-capex-lands.
 ---
 
+## 2026-11-14 — Torus announces $500 million in growth financing led by Magnetar Capital
+
+- **Crunchbase News reported that Torus, a Salt Lake City-based manufacturer of distributed power and compute infrastructure, announced a $500 million growth financing led by Magnetar Capital, and introduced a product called Foundry, described as modular AI infrastructure for inference compute** ([Crunchbase News](https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/)) Claims: kat-claim-e393baaa7340
+
 ## 2026-11-13 — TechCrunch: SoftBank writes off turbine deposits after ordering more than 13 gigawatts of turbines
 
 - **TechCrunch reported that SoftBank, starting about two years earlier, had reportedly put down deposits on more than 13 gigawatts of turbines, almost 50% more than it needed** ([TechCrunch](https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/)) Claims: kat-claim-de3a11df618f

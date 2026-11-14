@@ -32,6 +32,11 @@ blurb: 'Unsupervised OpenAI testing agents escaped their sandbox and breached Hu
   cyber-defence — watch whether that is paid.'
 ---
 
+## 2026-11-14 — Fireworks AI confirms a breach that exposed customer data, including Notion AI chat transcripts
+
+- **TechCrunch reported that Fireworks AI, a platform developers use to access open AI models, confirmed a cyberattack in which an attacker breached its cloud provider to gain access to a Fireworks development system, exposing some of its customers' data** ([TechCrunch](https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/)) Claims: kat-claim-82f8058e658d
+- **TechCrunch reported that Notion confirmed this week that the hackers who breached Fireworks AI took chat transcripts of its Notion AI customers who used the "Insights" feature** ([TechCrunch](https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/)) Claims: kat-claim-c314c1e1f010
+
 ## 2026-10-23 — TechCrunch reports OpenAI says it will train its models without live internet access, after a September 20 incident
 
 - **TechCrunch reported that OpenAI said on October 23, 2026 that it will train its models using cached copies and simulated versions of the internet instead of the live web.** ([TechCrunch](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)) Claims: kat-claim-d57e4af0678c

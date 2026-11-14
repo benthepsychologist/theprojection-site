@@ -25,6 +25,11 @@ blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops wh
   follow Nvidia''s retreat.'
 ---
 
+## 2026-11-14 — Crunchbase News: Mirendil's $1 billion Series A and Mercor's $750 million Series D at a $20 billion valuation
+
+- **Crunchbase News reported that Mirendil, a San Francisco-based developer of agentic AI technology for research and development, secured a $1 billion Series A in a round led by Kleiner Perkins and Clearlake Capital** ([Crunchbase News](https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/)) Claims: kat-claim-a808933ddae3
+- **Crunchbase News reported that Mercor, a San Francisco-based platform that connects AI developers with human experts for model training and evaluation, raised $750 million in Series D funding that set a $20 billion valuation, in a round backed by a long list of venture investors** ([Crunchbase News](https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/)) Claims: kat-claim-f0a2b07d643f
+
 ## 2026-11-12 — Bloomberg, via TechCrunch: OpenAI's quarterly revenue passes $10 billion and its adjusted operating margin narrows
 
 - **TechCrunch reported, citing Bloomberg and anonymous sources, that OpenAI's quarterly revenue crossed $10 billion for the first time** ([TechCrunch](https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/)) Claims: kat-claim-b0b2059bb077
