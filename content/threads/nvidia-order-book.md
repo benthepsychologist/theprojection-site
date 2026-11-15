@@ -17,6 +17,10 @@ blurb: The demand side of the chip spend — a ~$1T Blackwell+Rubin book (a mana
   stakes (Nvidia's 10-Q investments in its own buyers).
 ---
 
+## 2026-11-15 — South Korea's Science Ministry says Nvidia reaffirmed its plan to supply 260,000 advanced GPUs after Jensen Huang's exit
+
+- **TechCrunch reported that, following Jensen Huang's exit, South Korea's Science Ministry said Nvidia had reaffirmed its plan to supply 260,000 advanced GPUs to South Korea and to continue joint AI projects** ([TechCrunch](https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/)) Claims: kat-claim-e9f1deca455c
+
 ## 2026-10-02 — Nvidia touches its first record since May, then closes just short of one
 
 - **Nvidia shares touched their first record high since May on Friday, up as much as 3%, then closed up 1.3%, just short of the May record, as its market value neared $6 trillion, Bloomberg reported** Bloomberg's first dispatch was at about 9:47am ET and its headline says the value "nears $6 trillion"; Quartz puts the value at around $5.7 trillion and attributes the run to the $150 billion buyback increase Nvidia's board approved on Monday, September 28, and the company's agent-security system. Bloomberg's closing account says the stock trimmed its gains after a two-month selloff that wiped out more than $1 trillion of market value, leaving its value at roughly $5.6 trillion. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-10-02/nvidia-hits-first-record-since-may-as-value-nears-6-trillion), [Bloomberg close, via Economic Times](https://economictimes.indiatimes.com/tech/technology/nvidia-falls-short-of-may-record-as-value-nears-6-trillion/articleshow/134657856.cms), [Quartz](https://qz.com/nvidia-stock-record-high-market-cap-6-trillion-100226))
