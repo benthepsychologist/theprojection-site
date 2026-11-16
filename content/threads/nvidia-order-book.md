@@ -17,6 +17,12 @@ blurb: The demand side of the chip spend — a ~$1T Blackwell+Rubin book (a mana
   stakes (Nvidia's 10-Q investments in its own buyers).
 ---
 
+## 2026-11-16 — WIRED: Nvidia's share of AI accelerator sales, AMD's gain and Nvidia's revenue growth since 2022
+
+- **WIRED reported, citing Silicon Analysis, that Nvidia captures 80 percent of AI accelerator sales** ([WIRED](https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/)) Claims: kat-claim-f26097b6796d
+- **WIRED reported that AMD's share of the AI accelerator market has risen from two percent in 2022 to between 7 and 10 percent in 2026** ([WIRED](https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/)) Claims: kat-claim-28e6d3cd67a7
+- **WIRED reported that Nvidia's revenue rose from $26.91 billion in January 2022 to $215.94 billion in January 2026** ([WIRED](https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/)) Claims: kat-claim-7afe23cd3d45
+
 ## 2026-11-15 — South Korea's Science Ministry says Nvidia reaffirmed its plan to supply 260,000 advanced GPUs after Jensen Huang's exit
 
 - **TechCrunch reported that, following Jensen Huang's exit, South Korea's Science Ministry said Nvidia had reaffirmed its plan to supply 260,000 advanced GPUs to South Korea and to continue joint AI projects** ([TechCrunch](https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/)) Claims: kat-claim-e9f1deca455c
