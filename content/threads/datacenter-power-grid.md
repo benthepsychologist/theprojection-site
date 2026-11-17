@@ -17,6 +17,12 @@ blurb: The grid is the binding constraint (not chips) — interconnection queues
   — the improvisation has outrun the regulatory system.
 ---
 
+## 2026-11-17 — A Nature Sustainability paper estimates the electricity use and emissions of 403 US hyperscale data centres
+
+- **The Verge reported that a Nature Sustainability paper estimated that 403 US hyperscale data centers consumed around 82 terawatt-hours of electricity between May 2024 and April 2025, about 1.8 percent of all US electricity consumption** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard)) Claims: kat-claim-9092c4e3df3d
+- **The Verge reported that the Nature Sustainability paper estimated the electricity demand of the 403 US hyperscale data centers produced 25.7 million metric tons of CO2 emissions, comparable to the annual carbon footprint of Denmark** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard)) Claims: kat-claim-e50112d42c93
+- **The Verge reported that about 54 percent of the electricity the 403 hyperscale data centers consumed likely came from gas and coal, according to the Nature Sustainability paper** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard)) Claims: kat-claim-aad4f5133ac8
+
 ## 2026-11-03 — Converted jet engines power xAI's Colossus 2; Microsoft leaves an Nscale site over power timing
 
 - **TechCrunch reported, citing the New York Times, that xAI has installed eight converted jet-engine turbines in Mississippi to help power its Colossus 2 data center in Memphis, with the units coming from ProEnergy** ([TechCrunch](https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/)) Claims: kat-claim-7b1a85a0fd71

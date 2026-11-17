@@ -20,6 +20,10 @@ blurb: 'At WWDC 2026 (06-08) Apple shipped Siri AI on Apple Foundation Models "c
   model.'
 ---
 
+## 2026-11-17 — The Verge, citing MacRumors: Apple tests daily usage limits for Siri AI and Apple Intelligence features
+
+- **The Verge reported, citing MacRumors, that Apple is using its iOS 27.3, iPadOS 27.3 and macOS 27.3 betas to test new per-device daily usage limits for some Siri AI and Apple Intelligence features** ([The Verge](https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription)) Claims: kat-claim-1d6fc7792043
+
 ## 2026-11-03 — The Verge: Apple's Siri AI uses models developed with Google's Gemini technology
 
 - **The Verge reported that Apple's Siri AI uses models developed with Google's Gemini technology** — The Verge adds that Apple reportedly plans to let users choose among outside AI providers for features such as writing tools and image generation. ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai)) Claims: kat-claim-92f6ba6e1ef9

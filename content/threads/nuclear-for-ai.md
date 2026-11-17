@@ -17,6 +17,10 @@ blurb: The nuclear-for-AI wave — but ~0 net-new MW power any AI datacenter bef
   2030s-weighted. Watch which actually clear licensing.
 ---
 
+## 2026-11-17 — The Verge: Constellation signed third-quarter contracts to power Amazon and Google data centers
+
+- **The Verge reported, citing Constellation CEO Joe Dominguez, that Constellation signed major contracts in the third quarter to provide power to Amazon and Google data centers** ([The Verge](https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats)) Claims: kat-claim-edd1f0bc2cbb
+
 ## 2026-09-25 — NRC and DOE issue the final environmental clearance for the Three Mile Island/Crane restart
 
 - **The Nuclear Regulatory Commission and the Department of Energy issued a final environmental assessment and finding of no significant impact for reauthorizing power operations at the Christopher M. Crane Clean Energy Center, formerly Three Mile Island Unit 1** The NRC is separately deciding whether to grant an exemption and three license amendments Constellation Energy requested, and DOE's Office of Energy Dominance Financing is deciding on a loan guarantee for refueling; Constellation's 2024 20-year power purchase agreement commits the reactor's 835 megawatts to Microsoft's data centers on the PJM grid. This finalizes a draft environmental assessment from June 2026 and is not itself a license decision. ([Federal Register / NRC](https://www.federalregister.gov/documents/2026/09/25/2026-19603/constellation-energy-generation-llc-christopher-m-crane-clean-energy-center-environmental-assessment))

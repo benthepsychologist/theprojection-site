@@ -22,6 +22,11 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   and who blinks first on capex.'
 ---
 
+## 2026-11-17 — Sam Altman on DRAM prices and OpenAI's supply constraints
+
+- **The Verge reported that OpenAI CEO Sam Altman said onstage at Semafor's Silicon Valley & The World summit that DRAM prices had gone up maybe 5x or 7x because the world did not build out enough memory supply** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor)) Claims: kat-claim-d152ddc30472
+- **The Verge reported that Sam Altman said OpenAI has been constrained by different things at different times, such as memory, rack assembly, data center capacity or some random component** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor)) Claims: kat-claim-dc7617fb49d3
+
 ## 2026-11-06 — Macronix says its ROM chip production has been crowded out by higher-margin memory
 
 - **Ars Technica reported that Macronix, in its third-quarter earnings report as relayed by BigGo Finance, said its ROM chip production has shrunk 39 percent in the last year to 5 percent of its business, crowded out by more lucrative NOR- and NAND-based memory and eMMC chips** ([Ars Technica](https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/)) Claims: kat-claim-c30bf6ef7652
