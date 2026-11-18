@@ -27,6 +27,10 @@ blurb: 'The frontier labs are converting private, vendor-financed valuations int
   (currently "as late as next year") move.'
 ---
 
+## 2026-11-18 — TechCrunch: Isomorphic Labs raises $5 billion in a Series C round
+
+- **TechCrunch reported that Isomorphic Labs has raised $5 billion in a Series C funding round co-led by Greenoaks and Sequoia Capital, with Andreessen Horowitz participating as a new investor** ([TechCrunch](https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/)) Claims: kat-claim-52bf6f264946
+
 ## 2026-11-03 — Crunchbase News: October venture funding reaches $59 billion, with seven billion-dollar rounds taking just over 40%; TechCrunch: Fal raises $1.3 billion at a $16 billion valuation
 
 - **Crunchbase News reported that global venture funding in October 2026 totaled $59 billion, a 45% increase from a year earlier, per Crunchbase data** — the report ties the rise in large part to DeepSeek's record round; data are as of November 2, and Cohere's targeted $5 billion round, announced in October without an initial or final close, is not in the October total. ([Crunchbase News](https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/)) Claims: kat-claim-f3ce61d886fd

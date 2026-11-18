@@ -17,6 +17,14 @@ blurb: The demand side of the chip spend — a ~$1T Blackwell+Rubin book (a mana
   stakes (Nvidia's 10-Q investments in its own buyers).
 ---
 
+## 2026-11-18 — Nvidia's third-quarter fiscal 2027 results: revenue, Data Center revenue, the fourth-quarter outlook, supply commitments and Hopper shipments to China
+
+- **Nvidia's Form 8-K dated November 17, 2026 (Exhibit 99.1, earnings release) stated that revenue was $115,844 million for the three months ended October 25, 2026 (the third quarter of fiscal 2027)** ([Nvidia Form 8-K, Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27pr.htm)) Claims: kat-claim-0b10b337a62a
+- **Nvidia's Form 8-K (Exhibit 99.1) stated that Data Center revenue for the third quarter of fiscal 2027 was $107.6 billion, up 110% from a year ago** ([Nvidia Form 8-K, Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27pr.htm)) Claims: kat-claim-25d0fa853fd2
+- **Nvidia's Form 8-K (Exhibit 99.1) stated that Nvidia expects revenue of $130.0 billion, plus or minus 3%, for the fourth quarter of fiscal 2027, and is not assuming any Data Center compute revenue from China in that outlook** ([Nvidia Form 8-K, Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27pr.htm)) Claims: kat-claim-84339ebeb9fd
+- **Nvidia's Form 8-K (Exhibit 99.2, CFO commentary) stated that its supply commitments increased from $279 billion in the previous quarter to $390 billion as of October 25, 2026, primarily related to the multi-year procurement of memory supply** ([Nvidia Form 8-K, Exhibit 99.2](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27cfocommentary.htm)) Claims: kat-claim-090377059e41
+- **Nvidia's Form 8-K (Exhibit 99.2, CFO commentary) stated that shipments of Data Center Hopper products to China during the third quarter of fiscal 2027 were $2.4 billion** ([Nvidia Form 8-K, Exhibit 99.2](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27cfocommentary.htm)) Claims: kat-claim-b823de8e8918
+
 ## 2026-11-16 — WIRED: Nvidia's share of AI accelerator sales, AMD's gain and Nvidia's revenue growth since 2022
 
 - **WIRED reported, citing Silicon Analysis, that Nvidia captures 80 percent of AI accelerator sales** ([WIRED](https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/)) Claims: kat-claim-f26097b6796d

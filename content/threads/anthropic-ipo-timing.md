@@ -15,6 +15,11 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
   AMD/Azure/Google-TPU compute deals get positioned in the roadshow narrative.'
 ---
 
+## 2026-11-18 — TechCrunch: Amazon's and Google's stakes in Anthropic after the IPO
+
+- **TechCrunch reported that Anthropic disclosed that Amazon's total stake in the company after its IPO will be 14.7%** ([TechCrunch](https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/)) Claims: kat-claim-e2e585cb5e9e
+- **TechCrunch reported that Google will own just under 14% (13.7%) of Anthropic after its IPO, in non-voting shares from the conversion of notes and from the private placement sale of shares as part of the IPO** ([TechCrunch](https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/)) Claims: kat-claim-b2f19280848b
+
 ## 2026-11-11 — Anthropic's second amended S-1 sets a $70 to $78 range for 801.4 million new shares, estimates about $84.6 billion of net proceeds and adds a $26 billion private placement
 
 - **Anthropic's Form S-1/A filed on 10 November 2026 states that Anthropic is selling 801,351,354 Class A shares and selling stockholders a further 23,648,646, at an estimated initial public offering price of $70.00 to $78.00 per share** ([SEC EDGAR, Anthropic Form S-1/A](https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm)) Claims: kat-claim-de5f3788b00e
