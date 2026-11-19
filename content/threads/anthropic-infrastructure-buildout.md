@@ -28,6 +28,10 @@ blurb: 'Anthropic has signed four large infrastructure arrangements in roughly t
   — this thread asks a narrower question, who ends up holding the asset.'
 ---
 
+## 2026-11-19 — Crunchbase News on Anthropic's S-1: an $895.4 billion compute purchase and lease agreement
+
+- **Crunchbase News reported, from Anthropic's S-1, that the company has a purchase and lease agreement for $895.4 billion of compute, of which $447.5 billion will be incurred before the end of 2030** ([Crunchbase News](https://news.crunchbase.com/ai/anthropic-ant-ipo-revenue-growth-risks-s1-analysis/)) Claims: kat-claim-75be041ba3af
+
 ## 2026-11-11 — Anthropic's second amended S-1 puts its new compute and infrastructure obligations since 30 September at about $106 billion
 
 - **Anthropic's Form S-1/A filed on 10 November 2026 states that after 30 September 2026 it entered into new, and amended existing, lease and commercial arrangements, mainly for additional compute and infrastructure capacity, with aggregate future minimum payment obligations of approximately $106 billion, some of them subject to contingent conditions** ([SEC EDGAR, Anthropic Form S-1/A](https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm)) Claims: kat-claim-d4f39a54210a

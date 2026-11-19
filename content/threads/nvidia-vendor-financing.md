@@ -24,6 +24,11 @@ blurb: 'Nvidia''s turn from chip vendor to the buildout''s lender of last resort
   treatment (still untracked).'
 ---
 
+## 2026-11-19 — TechCrunch on how Nvidia's loan guarantees work and on Nvidia becoming more selective in financing customers
+
+- **TechCrunch reported that Nvidia's quarterly CFO commentary clarified that guaranteeing a loan does not mean the company is providing the financing itself, and that the guarantee only takes effect once the customer has secured the financing needed to build the facility and install Nvidia's products** ([TechCrunch](https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/)) Claims: kat-claim-8f49a6aa916c
+- **TechCrunch reported that interim Nvidia CEO Colette Kress said Nvidia would not stop financing data centers but would be far more selective in future** ([TechCrunch](https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/)) Claims: kat-claim-56427032d892
+
 ## 2026-11-18 — Nvidia's filed figures on guarantees, commitments, own funding and capital returns; TechCrunch on its equity stakes and Hugging Face
 
 - **Nvidia's Form 8-K (Exhibit 99.2, CFO commentary) stated that its maximum gross exposure related to guarantees at October 25, 2026 was $118.0 billion in total: $3.5 billion of land, power and shell guarantees for neoclouds, $105.0 billion of SB Energy Corp. credit support guarantees and $9.5 billion of power and systems credit support guarantees** ([Nvidia Form 8-K, Exhibit 99.2](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27cfocommentary.htm)) Claims: kat-claim-0211829aea05

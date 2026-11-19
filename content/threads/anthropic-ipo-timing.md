@@ -15,6 +15,17 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
   AMD/Azure/Google-TPU compute deals get positioned in the roadshow narrative.'
 ---
 
+## 2026-11-19 — Anthropic prices its IPO at $83 a share: proceeds, valuation, Nasdaq listing, S-1 revenue and founder sales
+
+- **TechCrunch reported that Anthropic priced its IPO at $83 per share, above its initial range of $70 to $78** ([TechCrunch](https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/)) Claims: kat-claim-1246fcc00033
+- **TechCrunch reported that Anthropic sold 980 million shares in its IPO, up from the 825 million initially planned, generating $81.3 billion in proceeds** ([TechCrunch](https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/)) Claims: kat-claim-962e165076b1
+- **TechCrunch reported that at the IPO price Anthropic is valued at roughly $1.5 trillion on a fully diluted basis, up from the $965 billion it reached in May when it raised $65 billion in its last private round** ([TechCrunch](https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/)) Claims: kat-claim-65c82cb758bc
+- **TechCrunch reported that Anthropic will begin trading on Nasdaq on Thursday under the ticker symbol ANT** ([TechCrunch](https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/)) Claims: kat-claim-b0cf555c94ff
+- **Crunchbase News reported, citing CNBC, Reuters and the Wall Street Journal, that investor demand for Anthropic's IPO shares was well in excess of the company's capital-raising goals** ([Crunchbase News](https://news.crunchbase.com/public/ipo/anthropic-prices-ipo-ant-above-range/)) Claims: kat-claim-6f059a6a5d44
+- **TechCrunch reported, citing Anthropic's S-1 filing, that each of the company's seven co-founders, including CEO Dario Amodei, sold nearly 3.4 million shares in the IPO, bringing in about $282 million each** ([TechCrunch](https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/)) Claims: kat-claim-9fdd6dee8886
+- **Crunchbase News reported that Anthropic's revenue reached $17 billion in the third quarter of 2026, up 12x from the third quarter of 2025** ([Crunchbase News](https://news.crunchbase.com/ai/anthropic-ant-ipo-revenue-growth-risks-s1-analysis/)) Claims: kat-claim-10ddbd75f568
+- **Crunchbase News reported that Anthropic is putting aside 5% of equity for a fund devoted to public good, adding 2% for every 50% increase in share price** ([Crunchbase News](https://news.crunchbase.com/ai/anthropic-ant-ipo-revenue-growth-risks-s1-analysis/)) Claims: kat-claim-d57d1b2f9bcc
+
 ## 2026-11-18 — TechCrunch: Amazon's and Google's stakes in Anthropic after the IPO
 
 - **TechCrunch reported that Anthropic disclosed that Amazon's total stake in the company after its IPO will be 14.7%** ([TechCrunch](https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/)) Claims: kat-claim-e2e585cb5e9e

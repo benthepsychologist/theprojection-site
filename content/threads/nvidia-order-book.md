@@ -17,6 +17,13 @@ blurb: The demand side of the chip spend — a ~$1T Blackwell+Rubin book (a mana
   stakes (Nvidia's 10-Q investments in its own buyers).
 ---
 
+## 2026-11-19 — The Verge on Nvidia's third-quarter call: frontier labs' share of Data Center revenue, a raised growth forecast and Vera Rubin customers; AMD's quarter
+
+- **The Verge reported that Kress said on Nvidia's earnings call that the company expects major frontier labs to account for approximately 15 percent of its data center revenue this fiscal year** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models)) Claims: kat-claim-78d4bf9c50bc
+- **The Verge reported that Nvidia raised its revenue growth forecast for next fiscal year from 70 percent to 75 percent** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models)) Claims: kat-claim-93cec057b1a9
+- **The Verge reported that Anthropic has expanded access to Nvidia Vera Rubin capacity through cloud providers and continues to work with Nvidia on future chip designs tailored to its workloads** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models)) Claims: kat-claim-9d516032ea07
+- **The Verge reported that AMD, which reported its biggest quarter earlier in November, had revenue up 45 percent to $13.4 billion, with data center sales nearly doubling to $8.5 billion** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models)) Claims: kat-claim-953c2afe523a
+
 ## 2026-11-18 — Nvidia's third-quarter fiscal 2027 results: revenue, Data Center revenue, the fourth-quarter outlook, supply commitments and Hopper shipments to China
 
 - **Nvidia's Form 8-K dated November 17, 2026 (Exhibit 99.1, earnings release) stated that revenue was $115,844 million for the three months ended October 25, 2026 (the third quarter of fiscal 2027)** ([Nvidia Form 8-K, Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27pr.htm)) Claims: kat-claim-0b10b337a62a

@@ -21,6 +21,10 @@ blurb: 'Whether the enterprise agent-product surface — the layer where labs an
   the packaging actually converts to usage.'
 ---
 
+## 2026-11-19 — Google DeepMind introduces Gemini 4 Neon
+
+- **Google DeepMind announced Gemini 4 Neon on November 18, 2026, describing it as bringing frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows** ([Google DeepMind](https://deepmind.google/blog/introducing-gemini-4-neon/)) Claims: kat-claim-771f4d056658
+
 ## 2026-11-14 — LangChain raises $300 million at a $3 billion valuation; OpenAI launches ChatGPT Wallet for agent purchases; United Airlines restricts AI booking agents
 
 - **TechCrunch reported that LangChain, an AI agent management startup, raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from Singapore's GIC, DFJ Growth, IVP and Sapphire Ventures, the company announced on Friday** ([TechCrunch](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/)) Claims: kat-claim-0817fbf85576
