@@ -25,6 +25,11 @@ blurb: 'The systemic risk under the whole AI capital thesis: ~$800B+ of loops wh
   follow Nvidia''s retreat.'
 ---
 
+## 2026-11-20 — TechCrunch on Anthropic's IPO and circular financing: Amazon's and Google's combined stakes and a SemiAnalysis estimate of the revenue Anthropic needs
+
+- **TechCrunch reported that Amazon and Google hold stakes in Anthropic valued at around a combined $307.9 billion at the $83 IPO price, according to share ownership figures in Anthropic's IPO prospectus** ([TechCrunch](https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/)) Claims: kat-claim-99d8708105ae
+- **TechCrunch reported that Joey Brookhart, who leads the Tokenomics team at SemiAnalysis, estimates that Anthropic needs roughly $280 billion in cumulative revenue over the next four years to pay for its compute bill** ([TechCrunch](https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/)) Claims: kat-claim-0e8a1b632680
+
 ## 2026-11-14 — Crunchbase News: Mirendil's $1 billion Series A and Mercor's $750 million Series D at a $20 billion valuation
 
 - **Crunchbase News reported that Mirendil, a San Francisco-based developer of agentic AI technology for research and development, secured a $1 billion Series A in a round led by Kleiner Perkins and Clearlake Capital** ([Crunchbase News](https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/)) Claims: kat-claim-a808933ddae3

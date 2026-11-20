@@ -15,6 +15,16 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
   AMD/Azure/Google-TPU compute deals get positioned in the roadshow narrative.'
 ---
 
+## 2026-11-20 — Anthropic's Nasdaq debut: opening trades, cash on hand, amounts raised, cloud-provider ownership, philanthropic pledges and the Amodei pacing statement
+
+- **TechCrunch reported that Anthropic shares were trading at $111.50 in the early minutes of trading on Nasdaq on November 19, 2026, a 33% premium over the $83 IPO price** ([TechCrunch](https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/)) Claims: kat-claim-03851c0e3190
+- **TechCrunch reported that the IPO funding, together with existing fundraising and new private offerings timed to coincide with the public market debut, will leave Anthropic with an expected $220 billion in cash reserves** ([TechCrunch](https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/)) Claims: kat-claim-74e3c7829ba1
+- **TechCrunch reported that the amount Anthropic raised for its own coffers was $104.8 billion, or $117 billion if the underwriters buy their full allotment, counting its sale of Class A common stock and a previously announced $26 billion of non-voting Class N stock** ([TechCrunch](https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/)) Claims: kat-claim-2d0256bdcf8d
+- **WIRED reported that the Anthropic IPO raised about $81 billion, or more than $107 billion with private sales of shares, which is more than the $75 billion SpaceX received in June in a previous world record** ([WIRED](https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/)) Claims: kat-claim-f8947fe8b05d
+- **TechCrunch reported, citing the company, that Amazon and Google together own 28% of Anthropic after its IPO** ([TechCrunch](https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/)) Claims: kat-claim-a497ccc3db17
+- **TechCrunch estimated that the potential philanthropy from Anthropic's IPO, across its Public Benefit Fund, employee pledges and the company's matching of them, adds up to $156 billion** ([TechCrunch](https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/)) Claims: kat-claim-8f813c31da42
+- **TechCrunch reported that Anthropic CEO Dario Amodei said in his speech before the Nasdaq opening bell on November 19, 2026 that the company will pace the training and deployment of AI systems, taking as long as is necessary to have confidence that they are safe and will remain under human control** ([TechCrunch](https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/)) Claims: kat-claim-afc323babff4
+
 ## 2026-11-19 — Anthropic prices its IPO at $83 a share: proceeds, valuation, Nasdaq listing, S-1 revenue and founder sales
 
 - **TechCrunch reported that Anthropic priced its IPO at $83 per share, above its initial range of $70 to $78** ([TechCrunch](https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/)) Claims: kat-claim-1246fcc00033

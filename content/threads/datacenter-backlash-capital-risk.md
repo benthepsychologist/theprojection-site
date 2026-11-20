@@ -27,6 +27,10 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   count.'
 ---
 
+## 2026-11-20 — WIRED: a West Virginia residents' group fights a data center intended for Anthropic
+
+- **WIRED quoted a member of Mason County United, a grassroots organization of 70 members, as saying the group is fighting an under-construction data center intended for Anthropic in West Virginia** ([WIRED](https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/)) Claims: kat-claim-e49bbb64c9d8
+
 ## 2026-11-17 — The Verge: Constellation's CEO says the market overreacted to the midterms; a $2.5 trillion sell-off in AI-adjacent stocks
 
 - **The Verge reported that many Democrats who won control of the House and Senate in the November 2026 midterms ran on anti-data-center campaigns, which it said triggered a $2.5 trillion sell-off in AI-adjacent stocks** ([The Verge](https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats)) Claims: kat-claim-1b42f4feb8a3

@@ -28,6 +28,11 @@ blurb: 'Anthropic has signed four large infrastructure arrangements in roughly t
   — this thread asks a narrower question, who ends up holding the asset.'
 ---
 
+## 2026-11-20 — Anthropic's compute commitments after the IPO: $70.7 billion due within 12 months, $451.6 billion by 2030 and more than $900 billion owed to vendors
+
+- **TechCrunch reported that, as of the quarter ended September 30, 2026, Anthropic needs about $70.7 billion to cover its compute and infrastructure spending commitments over the next 12 months and $451.6 billion to cover them before the end of 2030** ([TechCrunch](https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/)) Claims: kat-claim-1347ec52aaf5
+- **WIRED reported that after closing the IPO Anthropic has about $200 billion in the bank, and that it has committed to paying vendors more than $900 billion over the next 19 years, mostly to develop data centers powering its AI models** ([WIRED](https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/)) Claims: kat-claim-60b2a6470ff9
+
 ## 2026-11-19 — Crunchbase News on Anthropic's S-1: an $895.4 billion compute purchase and lease agreement
 
 - **Crunchbase News reported, from Anthropic's S-1, that the company has a purchase and lease agreement for $895.4 billion of compute, of which $447.5 billion will be incurred before the end of 2030** ([Crunchbase News](https://news.crunchbase.com/ai/anthropic-ant-ipo-revenue-growth-risks-s1-analysis/)) Claims: kat-claim-75be041ba3af

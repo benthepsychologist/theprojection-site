@@ -17,6 +17,11 @@ blurb: The grid is the binding constraint (not chips) — interconnection queues
   — the improvisation has outrun the regulatory system.
 ---
 
+## 2026-11-20 — EconoTimes on JLL's forecast of 200 gigawatts of global data center capacity by 2030
+
+- **EconoTimes reported that JLL's 2026 Global Data Center Outlook projects global data center capacity will rise from 103 gigawatts to 200 gigawatts by 2030** ([EconoTimes](https://econotimes.com/AI-Data-Center-Capacity-Set-to-Nearly-Double-as-Grid-Limits-Tighten-1780006)) Claims: kat-claim-272b9b65ea42
+- **EconoTimes reported that JLL estimates up to $3 trillion could be invested in data centers over the next five years, including new real-estate assets and debt financing** ([EconoTimes](https://econotimes.com/AI-Data-Center-Capacity-Set-to-Nearly-Double-as-Grid-Limits-Tighten-1780006)) Claims: kat-claim-6098b0b81f5f
+
 ## 2026-11-17 — A Nature Sustainability paper estimates the electricity use and emissions of 403 US hyperscale data centres
 
 - **The Verge reported that a Nature Sustainability paper estimated that 403 US hyperscale data centers consumed around 82 terawatt-hours of electricity between May 2024 and April 2025, about 1.8 percent of all US electricity consumption** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard)) Claims: kat-claim-9092c4e3df3d

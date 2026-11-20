@@ -17,6 +17,11 @@ blurb: The demand side of the chip spend — a ~$1T Blackwell+Rubin book (a mana
   stakes (Nvidia's 10-Q investments in its own buyers).
 ---
 
+## 2026-11-20 — The Verge on Nvidia's third quarter: revenue of $115.8 billion and nearly $20 billion from Vera Rubin
+
+- **The Verge reported that Nvidia's third-quarter revenue more than doubled from the same period a year earlier to $115.8 billion, with data center revenue up 110 percent** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings)) Claims: kat-claim-c46ba9369435
+- **The Verge reported that nearly $20 billion of Nvidia's third-quarter revenue came from the Vera Rubin platform, which shipped during the quarter** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings)) Claims: kat-claim-0ad8a763db7a
+
 ## 2026-11-19 — The Verge on Nvidia's third-quarter call: frontier labs' share of Data Center revenue, a raised growth forecast and Vera Rubin customers; AMD's quarter
 
 - **The Verge reported that Kress said on Nvidia's earnings call that the company expects major frontier labs to account for approximately 15 percent of its data center revenue this fiscal year** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models)) Claims: kat-claim-78d4bf9c50bc
