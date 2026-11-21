@@ -28,6 +28,11 @@ blurb: 'Whether AI-buildout debt is becoming its own underwritten, rated, public
   clock — the two produce very different recovery rates in a default.'
 ---
 
+## 2026-11-21 — TechCrunch on chips as loan collateral: GPU resale values and the lenders' condition on SpaceX's $40 billion chip financing
+
+- **TechCrunch reported, citing the Financial Times, that lenders behind SpaceX's $40 billion chip financing deal asked that none of the chips purchased be used for the company's orbital data center plans, and that it is not clear whether they succeeded in getting SpaceX to agree to the provision** ([TechCrunch](https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/)) Claims: kat-claim-eb87d0fc2acb
+- **TechCrunch reported, citing Compute Credit Index Research, that some Nvidia H100 chips are selling for about half of their original 2023 cost basis, while some H200 configurations are selling for the same price they did when introduced in 2024** ([TechCrunch](https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/)) Claims: kat-claim-acf1fbf0c9b3
+
 ## 2026-11-13 — Meta completes a six-tranche euro bond offering; Nebius plans to fund most of its 2027 capex with prepayments and asset-backed financing
 
 - **Meta Platforms' Form 8-K filed on 12 November 2026 states that it completed an offering of euro-denominated senior notes that day in six tranches: EUR 1.75 billion due 2031, EUR 1.25 billion due 2033, EUR 1 billion due 2035, EUR 1.75 billion due 2038, EUR 1.75 billion due 2044 and EUR 1.5 billion due 2065** ([SEC EDGAR, Meta Platforms Form 8-K](https://www.sec.gov/Archives/edgar/data/1326801/000119312526458525/d177728d8k.htm)) Claims: kat-claim-c4ab005955b7

@@ -27,6 +27,10 @@ blurb: 'Whether political opposition to the AI buildout is becoming a priced fin
   count.'
 ---
 
+## 2026-11-21 — The Verge on President Trump's tax threat for data centers built outside the US
+
+- **The Verge reported that President Donald Trump promised at a press conference on Friday, November 20, 2026, to put a "tremendous tax" on companies that build data centers outside of the US, and that he did not share many details of the plan** ([The Verge](https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax)) Claims: kat-claim-c0323ba2d510
+
 ## 2026-11-20 — WIRED: a West Virginia residents' group fights a data center intended for Anthropic
 
 - **WIRED quoted a member of Mason County United, a grassroots organization of 70 members, as saying the group is fighting an under-construction data center intended for Anthropic in West Virginia** ([WIRED](https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/)) Claims: kat-claim-e49bbb64c9d8

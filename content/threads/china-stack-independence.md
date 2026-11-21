@@ -19,6 +19,12 @@ blurb: 'One story, both directions: Z.AI''s 1 GW all-domestic-chip site, Kimi K3
   its models/chips. US chip-equity reaction is the measure.'
 ---
 
+## 2026-11-21 — WIRED on Nvidia's board and the shareholder lawsuits over Megaspeed; Reuters on the US investigation of Megaspeed
+
+- **WIRED reported, citing two people familiar with private discussions among the board chair and other members, that "multiple issues" related to Jensen Huang's "lack of candor" and "lying" ultimately moved Nvidia's board of directors** ([WIRED](https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/)) Claims: kat-claim-c95d9b2c21a6
+- **WIRED reported that Nvidia and Jensen Huang are facing several shareholder lawsuits alleging that the CEO and the company made misleading statements about dealings with Alice Huang and Megaspeed** ([WIRED](https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/)) Claims: kat-claim-82b4b77b994a
+- **Reuters reported, as shown on Internazionale, that the US Justice and Commerce departments said this week that US authorities have been investigating Singapore-based Megaspeed since 2024 over possible export-control violations related to alleged shipments of Nvidia AI chips to China** ([Reuters, as shown on Internazionale](https://www.internazionale.it/ultime-notizie-reuters/2026/11/20/exclusive-nvidia-s-accounting-is-a-focus-of-us-sec-investigation-sources-say)) Claims: kat-claim-1fd305f068ff
+
 ## 2026-11-20 — Alibaba and Tencent on the new US remote-access rules; Nvidia's share price and the House interviews of Jensen Huang; Megaspeed's reported Nvidia chip purchases
 
 - **The Independent reported that Alibaba's AI cloud and compute services revenue rose 53% year on year in the July-September quarter to nearly 61 billion yuan ($9 billion)** ([The Independent](https://www.independent.co.uk/news/world/americas/china-chinese-alibaba-nvidia-hong-kong-b3088067.html)) Claims: kat-claim-7d7eee2387c5

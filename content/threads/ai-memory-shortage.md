@@ -22,6 +22,10 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   and who blinks first on capex.'
 ---
 
+## 2026-11-21 — SK hynix's Form 6-K on a planned indirect stake in Kioxia
+
+- **SK hynix's Form 6-K for November 2026 states that, on November 20, 2026, it disclosed to the Korea Exchange its plan to acquire common shares of BCPE Pangea Cayman2, Ltd. by exercising conversion rights under convertible bonds it holds, after which it will hold an indirect equity interest of approximately 14.1% in the former semiconductor business of Toshiba Corporation (currently Kioxia Holdings Corporation), with a scheduled acquisition date of December 4, 2026** ([SEC EDGAR, SK hynix Form 6-K](https://www.sec.gov/Archives/edgar/data/2120882/000119312526469266/d79768d6k.htm)) Claims: kat-claim-3de228353d1e
+
 ## 2026-11-17 — Sam Altman on DRAM prices and OpenAI's supply constraints
 
 - **The Verge reported that OpenAI CEO Sam Altman said onstage at Semafor's Silicon Valley & The World summit that DRAM prices had gone up maybe 5x or 7x because the world did not build out enough memory supply** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor)) Claims: kat-claim-d152ddc30472

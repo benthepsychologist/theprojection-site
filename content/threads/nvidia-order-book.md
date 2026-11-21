@@ -17,6 +17,13 @@ blurb: The demand side of the chip spend — a ~$1T Blackwell+Rubin book (a mana
   stakes (Nvidia's 10-Q investments in its own buyers).
 ---
 
+## 2026-11-21 — Reuters on the reported SEC probe of Nvidia's accounting, the share-price fall, the Singapore revenue reporting change and the Justice Department's Hugging Face review
+
+- **Reuters reported, as shown on Internazionale, citing two people briefed on the matter, that the US Securities and Exchange Commission is probing Nvidia's accounting practices; the report says Reuters could not determine when the inquiry opened or which accounting issues are being examined** ([Reuters, as shown on Internazionale](https://www.internazionale.it/ultime-notizie-reuters/2026/11/20/exclusive-nvidia-s-accounting-is-a-focus-of-us-sec-investigation-sources-say)) Claims: kat-claim-2c76c95873ad
+- **Reuters reported, as shown on Internazionale, that Nvidia shares were down about 13% on Friday, November 20, 2026, according to LSEG data, after Reuters reported details of the SEC probe, having been down more than 6% before its report** ([Reuters, as shown on Internazionale](https://www.internazionale.it/ultime-notizie-reuters/2026/11/20/exclusive-nvidia-s-accounting-is-a-focus-of-us-sec-investigation-sources-say)) Claims: kat-claim-1fd7621b3a4e
+- **Reuters reported, as shown on Internazionale, that the Financial Times, citing company accounts, had reported on Tuesday that Nvidia changed how it reports geographic revenue (customer headquarters rather than billing address) even as Singapore sales soared to almost half of its global revenue** ([Reuters, as shown on Internazionale](https://www.internazionale.it/ultime-notizie-reuters/2026/11/20/exclusive-nvidia-s-accounting-is-a-focus-of-us-sec-investigation-sources-say)) Claims: kat-claim-cef549755c6b
+- **Reuters reported, as shown on Internazionale, that the US Justice Department has been reviewing Nvidia's $12.9-billion deal to buy Hugging Face alongside a broader antitrust investigation into Nvidia's acquisitions and practices, as Reuters had reported the previous month** ([Reuters, as shown on Internazionale](https://www.internazionale.it/ultime-notizie-reuters/2026/11/20/exclusive-nvidia-s-accounting-is-a-focus-of-us-sec-investigation-sources-say)) Claims: kat-claim-a1762ba08aee
+
 ## 2026-11-20 — The Verge on Nvidia's third quarter: revenue of $115.8 billion and nearly $20 billion from Vera Rubin
 
 - **The Verge reported that Nvidia's third-quarter revenue more than doubled from the same period a year earlier to $115.8 billion, with data center revenue up 110 percent** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings)) Claims: kat-claim-c46ba9369435
