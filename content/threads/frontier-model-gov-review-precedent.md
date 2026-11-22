@@ -21,6 +21,12 @@ blurb: 'The gpt-5.6 gating dynamic made permanent — and it''s all one buildout
   in a year — can it run classified review?); the first model actually gated.'
 ---
 
+## 2026-11-22 — MIT Technology Review on METR's updated time-horizon report: judgment-heavy tasks, evaluation design and Opus 5.5
+
+- **MIT Technology Review reported that a new report from the AI evaluation nonprofit METR finds some AI capabilities continuing to improve along an exponential trajectory, and indicates that models are not quite as good at tasks that require judgment as they are at coding** ([MIT Technology Review](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/)) Claims: kat-claim-7b0846db7c3f
+- **MIT Technology Review reported that on a METR task asking models to design new AI evaluations, not one of the AI-designed evaluations was good enough for METR employees to consider it useful for their research** ([MIT Technology Review](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/)) Claims: kat-claim-bce9ba0c8a0f
+- **MIT Technology Review reported that some of the newest models, such as Opus 5.5, tend to reach what METR calls “borderline above the bar” performance on its evaluation-design tasks, where a year earlier every model scored in the “clearly below the bar” category** ([MIT Technology Review](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/)) Claims: kat-claim-61e196ec57b8
+
 ## 2026-11-11 — TechCrunch: New York's AI safety law takes effect, with large frontier developers required to register by 1 January 2027
 
 - **TechCrunch reported that New York opened a registration portal on 10 November 2026, with which large frontier AI developers such as Anthropic and OpenAI are required to register by 1 January 2027** ([TechCrunch](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/)) Claims: kat-claim-6076fe0cda03

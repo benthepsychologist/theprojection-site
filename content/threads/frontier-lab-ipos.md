@@ -27,6 +27,10 @@ blurb: 'The frontier labs are converting private, vendor-financed valuations int
   (currently "as late as next year") move.'
 ---
 
+## 2026-11-22 — Crunchbase News: venture funding of $679 billion through the first three quarters of 2026 and AI's share of the third quarter, as cited by Runway Growth Capital's David Spreng
+
+- **Crunchbase News published an opinion piece by David Spreng, founder, co-CEO and co-CIO of Runway Growth Capital, stating that Crunchbase data show global venture funding of $679 billion through the first three quarters of 2026, the highest amount recorded for that period, and AI companies attracting $102 billion in the third quarter alone, roughly 64% of global venture funding** ([Crunchbase News](https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/)) Claims: kat-claim-42750323bac3
+
 ## 2026-11-18 — TechCrunch: Isomorphic Labs raises $5 billion in a Series C round
 
 - **TechCrunch reported that Isomorphic Labs has raised $5 billion in a Series C funding round co-led by Greenoaks and Sequoia Capital, with Andreessen Horowitz participating as a new investor** ([TechCrunch](https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/)) Claims: kat-claim-52bf6f264946

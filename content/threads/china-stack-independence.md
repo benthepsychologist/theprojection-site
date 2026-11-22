@@ -19,6 +19,10 @@ blurb: 'One story, both directions: Z.AI''s 1 GW all-domestic-chip site, Kimi K3
   its models/chips. US chip-equity reaction is the measure.'
 ---
 
+## 2026-11-22 — TechCrunch's Equity podcast on critics' estimate of the share of Nvidia's business that comes from China
+
+- **TechCrunch's Anthony Ha said on the Equity podcast that critics of Nvidia's stance toward China estimate that 20% of its business comes from China, which does not show directly in its financials because it is not direct sales to Chinese companies** ([TechCrunch](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/)) Claims: kat-claim-d6bdc09bc76e
+
 ## 2026-11-21 — WIRED on Nvidia's board and the shareholder lawsuits over Megaspeed; Reuters on the US investigation of Megaspeed
 
 - **WIRED reported, citing two people familiar with private discussions among the board chair and other members, that "multiple issues" related to Jensen Huang's "lack of candor" and "lying" ultimately moved Nvidia's board of directors** ([WIRED](https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/)) Claims: kat-claim-c95d9b2c21a6

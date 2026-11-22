@@ -17,6 +17,12 @@ blurb: The demand side of the chip spend — a ~$1T Blackwell+Rubin book (a mana
   stakes (Nvidia's 10-Q investments in its own buyers).
 ---
 
+## 2026-11-22 — The Motley Fool on Nvidia's share-price decline and Dan Ives's valuation with and without Jensen Huang; TechCrunch's Equity podcast on calls for Huang's return
+
+- **The Motley Fool reported that Nvidia stock reached a record closing price of around $239 in early October and had fallen to roughly $136 as of November 20, 2026, a decline of roughly 43% that it said wiped out more than $2.5 trillion in market capitalization and moved Nvidia from the world's most valuable public company to fourth place** ([The Motley Fool](https://www.fool.com/investing/2026/11/20/here-s-how-much-nvidia-stock-is-worth-without-jensen-huang-according-to-dan-ives/)) Claims: kat-claim-29ca7552331d
+- **The Motley Fool reported that analyst Dan Ives estimated that Jensen Huang contributed $1 trillion to Nvidia's valuation, and that Ives says Nvidia stock is worth $225 without Huang and $300 with him as CEO** ([The Motley Fool](https://www.fool.com/investing/2026/11/20/here-s-how-much-nvidia-stock-is-worth-without-jensen-huang-according-to-dan-ives/)) Claims: kat-claim-0ddf49447192
+- **TechCrunch's Equity podcast reported that Elon Musk and others were pushing to bring Jensen Huang back as Nvidia CEO and circulating a petition, and that Huang said he is prepared to come back** ([TechCrunch](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/)) Claims: kat-claim-b689c712d4a3
+
 ## 2026-11-21 — Reuters on the reported SEC probe of Nvidia's accounting, the share-price fall, the Singapore revenue reporting change and the Justice Department's Hugging Face review
 
 - **Reuters reported, as shown on Internazionale, citing two people briefed on the matter, that the US Securities and Exchange Commission is probing Nvidia's accounting practices; the report says Reuters could not determine when the inquiry opened or which accounting issues are being examined** ([Reuters, as shown on Internazionale](https://www.internazionale.it/ultime-notizie-reuters/2026/11/20/exclusive-nvidia-s-accounting-is-a-focus-of-us-sec-investigation-sources-say)) Claims: kat-claim-2c76c95873ad

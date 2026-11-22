@@ -28,6 +28,11 @@ blurb: 'Whether AI-buildout debt is becoming its own underwritten, rated, public
   clock — the two produce very different recovery rates in a default.'
 ---
 
+## 2026-11-22 — Crunchbase News opinion: Runway Growth Capital's David Spreng on the shift from equity to debt in AI financing and Morgan Stanley's infrastructure spending forecast
+
+- **David Spreng of Runway Growth Capital argued in a Crunchbase News opinion piece that the financing of the AI buildout is shifting from equity to debt, and that those who invested through the telecom bubble may recognize what that shift tends to mean** ([Crunchbase News](https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/)) Claims: kat-claim-a6baa84df842
+- **David Spreng of Runway Growth Capital wrote in Crunchbase News that Morgan Stanley expects the big AI and cloud companies to spend about $3 trillion on infrastructure through 2028, with only about half of it expected to come from their own cash flow** ([Crunchbase News](https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/)) Claims: kat-claim-97cf5de46d55
+
 ## 2026-11-21 — TechCrunch on chips as loan collateral: GPU resale values and the lenders' condition on SpaceX's $40 billion chip financing
 
 - **TechCrunch reported, citing the Financial Times, that lenders behind SpaceX's $40 billion chip financing deal asked that none of the chips purchased be used for the company's orbital data center plans, and that it is not clear whether they succeeded in getting SpaceX to agree to the provision** ([TechCrunch](https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/)) Claims: kat-claim-eb87d0fc2acb
