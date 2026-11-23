@@ -27,6 +27,10 @@ blurb: 'The frontier labs are converting private, vendor-financed valuations int
   (currently "as late as next year") move.'
 ---
 
+## 2026-11-23 — News On Japan: the Dow and S&P 500 more than 10% below their peaks as AI stocks sell off
+
+- **News On Japan reported that the Dow Jones Industrial Average and the S&P 500 fell more than 10% below their previous peaks, entering correction territory** ([News On Japan](https://newsonjapan.com/article/151486.php)) Claims: kat-claim-9756e63722fc
+
 ## 2026-11-22 — Crunchbase News: venture funding of $679 billion through the first three quarters of 2026 and AI's share of the third quarter, as cited by Runway Growth Capital's David Spreng
 
 - **Crunchbase News published an opinion piece by David Spreng, founder, co-CEO and co-CIO of Runway Growth Capital, stating that Crunchbase data show global venture funding of $679 billion through the first three quarters of 2026, the highest amount recorded for that period, and AI companies attracting $102 billion in the third quarter alone, roughly 64% of global venture funding** ([Crunchbase News](https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/)) Claims: kat-claim-42750323bac3

@@ -18,6 +18,11 @@ blurb: 'The Grok line closing the frontier gap as a FAST FOLLOWER, not mid-pack:
   coding, and whether owning the mines sustains a lead vs. OpenAI/Anthropic.'
 ---
 
+## 2026-11-23 — Wired: Oregon and Virginia attorneys general sue SpaceX and X Corp. over Grok
+
+- **Wired reported that the attorneys general of Oregon and Virginia are suing SpaceX and X Corp. in their own state courts, alleging violations of consumer protection laws over the safety of generative AI tools including Grok** ([Wired](https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/)) Claims: kat-claim-32a33661b151
+- **Wired reported that SpaceX acquired xAI, the parent company of X Corp., in February and with it took ownership of the Grok chatbot** ([Wired](https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/)) Claims: kat-claim-8315e57e8e9a
+
 ## 2026-11-11 — Ars Technica: Grok Build links exposed confidential data, some of it from SpaceXSI's own apps
 
 - **Ars Technica reported, citing the security firm Claroc, that some of the confidential data exposed through Grok Build links came from two dozen apps built by SpaceXSI, the merged SpaceX and xAI** ([Ars Technica](https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/)) Claims: kat-claim-4d30d4acfd2d

@@ -21,6 +21,11 @@ blurb: 'Whether the enterprise agent-product surface — the layer where labs an
   the packaging actually converts to usage.'
 ---
 
+## 2026-11-23 — The Verge: Walmart's Agent Gateway goes live with Meta's Muse
+
+- **The Verge reported that Walmart will let Meta's Muse AI agent shop on its website on a user's behalf, to find and purchase Black Friday deals** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday)) Claims: kat-claim-74964b554585
+- **The Verge reported that Amazon and eBay have blocked AI agents from browsing their platforms, while Walmart said support for Meta's Muse is just the beginning** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday)) Claims: kat-claim-296e84cf2893
+
 ## 2026-11-19 — Google DeepMind introduces Gemini 4 Neon
 
 - **Google DeepMind announced Gemini 4 Neon on November 18, 2026, describing it as bringing frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows** ([Google DeepMind](https://deepmind.google/blog/introducing-gemini-4-neon/)) Claims: kat-claim-771f4d056658

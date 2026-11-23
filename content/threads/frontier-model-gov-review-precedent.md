@@ -21,6 +21,11 @@ blurb: 'The gpt-5.6 gating dynamic made permanent — and it''s all one buildout
   in a year — can it run classified review?); the first model actually gated.'
 ---
 
+## 2026-11-23 — TechCrunch on OpenAI chief scientist's perplexity proposal for limits on AI development and Amodei's pacing plan
+
+- **TechCrunch reported that OpenAI chief scientist Jakub Pachocki published a blog post on potential limits on AI development that focuses on perplexity as a measurement** ([TechCrunch](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/)) Claims: kat-claim-b5d1adb979ee
+- **TechCrunch reported that Anthropic CEO Dario Amodei published a plan to pace the frontier that was seemingly endorsed by OpenAI CEO Sam Altman and SpaceX CEO Elon Musk** ([TechCrunch](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/)) Claims: kat-claim-725e9e4cf234
+
 ## 2026-11-22 — MIT Technology Review on METR's updated time-horizon report: judgment-heavy tasks, evaluation design and Opus 5.5
 
 - **MIT Technology Review reported that a new report from the AI evaluation nonprofit METR finds some AI capabilities continuing to improve along an exponential trajectory, and indicates that models are not quite as good at tasks that require judgment as they are at coding** ([MIT Technology Review](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/)) Claims: kat-claim-7b0846db7c3f

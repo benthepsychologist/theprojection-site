@@ -28,6 +28,10 @@ blurb: 'Whether AI-buildout debt is becoming its own underwritten, rated, public
   clock — the two produce very different recovery rates in a default.'
 ---
 
+## 2026-11-23 — arXiv: a paper on markets for compute and inference, their financing and risk transfer
+
+- **A paper by Gabriel Borrageiro posted to arXiv states that CME and ICE futures on compute rental rates reference published short-dated rental rates, while most operator revenue comes from private multi-year contracts whose prices are largely undisclosed** ([arXiv](https://arxiv.org/abs/2611.20242)) Claims: kat-claim-b16dd7eeeadd
+
 ## 2026-11-22 — Crunchbase News opinion: Runway Growth Capital's David Spreng on the shift from equity to debt in AI financing and Morgan Stanley's infrastructure spending forecast
 
 - **David Spreng of Runway Growth Capital argued in a Crunchbase News opinion piece that the financing of the AI buildout is shifting from equity to debt, and that those who invested through the telecom bubble may recognize what that shift tends to mean** ([Crunchbase News](https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/)) Claims: kat-claim-a6baa84df842

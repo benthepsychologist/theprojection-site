@@ -15,6 +15,15 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
   AMD/Azure/Google-TPU compute deals get positioned in the roadshow narrative.'
 ---
 
+## 2026-11-23 — TechCrunch on Notable Capital, GIC and Baillie Gifford's investments in Anthropic before its IPO; News On Japan on Anthropic shares falling toward the offering price
+
+- **TechCrunch reported that Anthropic reached a fully diluted valuation of about $1.5 trillion in its IPO, before its shares began trading the next day** ([TechCrunch](https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/)) Claims: kat-claim-47a0a00f453e
+- **TechCrunch reported that Notable Capital (formerly GGV Capital) put roughly 10% of the U.S. portion of its more than $1 billion fund into Anthropic's Series E at a $61.5 billion valuation** ([TechCrunch](https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/)) Claims: kat-claim-c19a780ef849
+- **TechCrunch reported that GIC invested more than $4.5 billion in Anthropic across three rounds and holds a stake of about 1% after the IPO, according to a person familiar with GIC's financials** ([TechCrunch](https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/)) Claims: kat-claim-13f87ba1eef2
+- **TechCrunch reported that GIC led Anthropic's Series G alongside Coatue at a $380 billion valuation and was one of the co-leads of the pre-IPO round at $965 billion** ([TechCrunch](https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/)) Claims: kat-claim-7a11add5adae
+- **TechCrunch reported that Baillie Gifford invested a total of $1.5 billion in Anthropic across three funding rounds** ([TechCrunch](https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/)) Claims: kat-claim-29c9e2ce57d7
+- **News On Japan reported that Anthropic's shares fell toward their $83 offering price in trading on November 20, its second day of trading, erasing much of their initial gains** ([News On Japan](https://newsonjapan.com/article/151486.php)) Claims: kat-claim-c1e2c5c25cb3
+
 ## 2026-11-20 — Anthropic's Nasdaq debut: opening trades, cash on hand, amounts raised, cloud-provider ownership, philanthropic pledges and the Amodei pacing statement
 
 - **TechCrunch reported that Anthropic shares were trading at $111.50 in the early minutes of trading on Nasdaq on November 19, 2026, a 33% premium over the $83 IPO price** ([TechCrunch](https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/)) Claims: kat-claim-03851c0e3190
