@@ -14,6 +14,12 @@ blurb: 'Is the tape turning against the AI trade as a whole? Distinct from the c
   the earnings verdicts, and whether the drawdown changes actual capex behavior.'
 ---
 
+## 2026-11-24 — Nvidia's share price on Huang's reinstatement; Nasdaq's weekly decline
+
+- **TechCrunch reported that Nvidia shares opened 30% higher on Monday, November 23, 2026 and were priced at $159.95, up 27%, at 9:51 a.m. ET** ([TechCrunch](https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/)) Claims: kat-claim-d412d795627b
+- **WIRED reported that the Nasdaq Composite dropped 10 percent in the week before November 23, 2026, in part due to Nvidia's struggles, the index's biggest decline since March 2020** ([WIRED](https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/)) Claims: kat-claim-18ffc8a50cab
+- **WIRED reported that, asked by CNBC whether Nvidia's influence on the stock market influenced his decision to push for Huang's return, President Trump responded that it probably did, but that the bigger impact was the long term** ([WIRED](https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/)) Claims: kat-claim-2949d5bec0f6
+
 ## 2026-11-13 — Wired: Nvidia loses roughly $546 billion of market value within an hour of the open after Huang's resignation, while AMD and Broadcom shares rise
 
 - **Wired reported that Nvidia's stock lost roughly $546 billion in market value within an hour of the market open after the company announced Jensen Huang's resignation, and that the weeks of scandal had cut its valuation by more than $1 trillion** ([Wired](https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/)) Claims: kat-claim-3bcf81fb153f

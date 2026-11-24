@@ -27,6 +27,12 @@ blurb: 'The frontier labs are converting private, vendor-financed valuations int
   (currently "as late as next year") move.'
 ---
 
+## 2026-11-24 — Crunchbase on the unicorn board around the Anthropic IPO
+
+- **Crunchbase News reported that its Unicorn Board peaked at $10 trillion before the Anthropic IPO and that the company's public-market debut removed close to $1 trillion from the board** ([Crunchbase News](https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/)) Claims: kat-claim-c53b11c9d191
+- **Crunchbase News reported that the more than 1,900 startups on its Unicorn Board have a combined valuation of roughly $9 trillion on their last reported valuations, and that its new Current Valuation Model puts that figure closer to $11 trillion** ([Crunchbase News](https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/)) Claims: kat-claim-43967f13f5b6
+- **Crunchbase News reported that its Current Valuation Model estimates that Thinking Machines Lab's value has climbed from $12 billion to $40 billion and Sierra's from nearly $16 billion to $31.5 billion** ([Crunchbase News](https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/)) Claims: kat-claim-1a8f4698c729
+
 ## 2026-11-23 — News On Japan: the Dow and S&P 500 more than 10% below their peaks as AI stocks sell off
 
 - **News On Japan reported that the Dow Jones Industrial Average and the S&P 500 fell more than 10% below their previous peaks, entering correction territory** ([News On Japan](https://newsonjapan.com/article/151486.php)) Claims: kat-claim-9756e63722fc

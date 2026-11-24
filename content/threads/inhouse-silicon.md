@@ -21,6 +21,12 @@ blurb: The custom-silicon revolt (TPU/Trainium/Maia/MTIA) — real but INFERENCE
   Watch whether displacement reaches frontier training.
 ---
 
+## 2026-11-24 — Amazon reported to be paying $7.5 billion for Decart as it prepares to sell Trainium chips
+
+- **TechCrunch reported, citing Bloomberg, that Amazon is paying $7.5 billion for Israeli startup Decart, describing it as Amazon agreeing to acquire a good chunk of the startup** ([TechCrunch](https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/)) Claims: kat-claim-6c92eacdc2ff
+- **TechCrunch reported that, as part of the deal, Amazon will acquire the technology behind Decart's Decart Optimization Stack (DOS) as well as Decart's founding team and its team of AI researchers and engineers, as Amazon said in a blog post** ([TechCrunch](https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/)) Claims: kat-claim-0a444503e2ca
+- **TechCrunch reported that Amazon, which has so far used its Trainium chips at its own data centers, is preparing to start selling them to customers as a competitor to Nvidia** ([TechCrunch](https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/)) Claims: kat-claim-33cd3f9eb493
+
 ## 2026-10-20 — Google releases TorchTPU as open source, a day after Amazon's TorchNeuron
 
 - **Google announced on Tuesday that TorchTPU, its version of PyTorch, is available as an open-source project, TechCrunch reported** — the article says it lets AI apps run on Google's Tensor Processing Units and lets existing PyTorch apps move to TPUs and Google Cloud with a configuration change and no rewriting. ([TechCrunch](https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/)) Claims: kat-claim-5ee1826be130

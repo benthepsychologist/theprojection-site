@@ -19,6 +19,10 @@ blurb: 'The ~$800B-gravity ISA chokepoint: SoftBank''s 87.1% leaned on as LOAN C
   earnings 07-29 — the live test.'
 ---
 
+## 2026-11-24 — Arm CEO Rene Haas's agreement through 2033 and SoftBank vice chairmanship
+
+- **Arm's Form 6-K press release dated November 23, 2026 stated that CEO Rene Haas has a new agreement extending through 2033 and will assume the role of Vice Chairman of SoftBank Group effective December 1, 2026** ([Arm Form 6-K, Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1973239/000197323926000155/ex991pressrelease.htm)) Claims: kat-claim-18571e583041
+
 ## 2026-09-21 — Arm jumps 17% in a Meta-driven CPU rally, up about 32% in three sessions
 
 - **Arm Holdings rose 17.16% on Monday 09-21 to close at $322.90, up about 32% in three sessions from $243.98 on 09-16, as Meta's new Muse AI agent, which topped Apple's US App Store, revived the trade in the central processors that coordinate agentic workloads.** Meta is the lead partner and co-developer of Arm's in-house "AGI CPU", the first chip Arm has sold itself rather than licensed, so the rally lands directly on this thread's question of whether Arm can convert leverage into its own silicon revenue; Intel rose about 12% and AMD closed above $1 trillion the same session. Arm's move follows CEO Rene Haas's 09-16 statement that AGI-CPU demand is "off the charts". ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-21/amd-set-to-top-1-trillion-in-market-value-as-chip-stocks-soar), [FinanceFeeds](https://financefeeds.com/arm-rose-17-to-322-90-up-32-in-three-sessions-as-metas-agent-revives-the-cpu-trade/))

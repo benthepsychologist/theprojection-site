@@ -21,6 +21,16 @@ blurb: 'Whether the enterprise agent-product surface — the layer where labs an
   the packaging actually converts to usage.'
 ---
 
+## 2026-11-24 — Anthropic launches Claude Ship; Sierra raises $1.75 billion at a $30 billion valuation
+
+- **TechCrunch reported that Anthropic announced on Monday, November 23, 2026 the launch of Claude Ship, a suite of AI agents for automating code reviews, fixes and approvals of routine code changes** ([TechCrunch](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/)) Claims: kat-claim-e81ec6ec1977
+- **TechCrunch reported that Claude Ship consists of Code Review, which is already generally available, and two new agents in beta, PR Steward and Claude Approvals** ([TechCrunch](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/)) Claims: kat-claim-97acffd3d98a
+- **TechCrunch reported that Claude Approvals applies an approval policy that the team writes as a file in the repository, and that the approval can incorporate signals including Code Review findings or the company's own classifiers** ([TechCrunch](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/)) Claims: kat-claim-e6eb681308b3
+- **TechCrunch reported that Claude Ship is rolling out to Claude Team and Enterprise plans for repositories on GitHub** ([TechCrunch](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/)) Claims: kat-claim-7d334e6d708a
+- **TechCrunch reported that Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday, November 23, 2026 that it has raised $1.75 billion in a Series F round that doubles its valuation to $30 billion** ([TechCrunch](https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/)) Claims: kat-claim-cd64f8390cdd
+- **TechCrunch reported that the Sierra Series F was led by Greenoaks and Lightspeed Venture Partners, with participation from existing investors including Benchmark, Sequoia, Greenoaks, GV and Tiger Global** ([TechCrunch](https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/)) Claims: kat-claim-758efd68d229
+- **TechCrunch reported that Sierra said it serves almost 50% of Fortune 50 companies, and that the company said late last month that its outcome-based pricing model had helped it double its run-rate revenue to $400 million within five months** ([TechCrunch](https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/)) Claims: kat-claim-ae91c806fa9b
+
 ## 2026-11-23 — The Verge: Walmart's Agent Gateway goes live with Meta's Muse
 
 - **The Verge reported that Walmart will let Meta's Muse AI agent shop on its website on a user's behalf, to find and purchase Black Friday deals** ([The Verge](https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday)) Claims: kat-claim-74964b554585
