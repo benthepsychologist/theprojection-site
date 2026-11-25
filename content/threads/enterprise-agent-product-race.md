@@ -21,6 +21,11 @@ blurb: 'Whether the enterprise agent-product surface — the layer where labs an
   the packaging actually converts to usage.'
 ---
 
+## 2026-11-25 — TechCrunch: Walmart and Meta's Muse partnership, run through Walmart's Agent Gateway
+
+- **TechCrunch reported on 24 November 2026 that Walmart is teaming up with Meta to let customers shop its Black Friday deals through Muse, Meta's AI agent** ([TechCrunch](https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/)) Claims: kat-claim-891978cc6f36
+- **TechCrunch reported on 24 November 2026 that the Muse shopping experience is powered by Walmart's Agent Gateway, which launched in October and which Walmart plans to open up to more developers and AI platforms** ([TechCrunch](https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/)) Claims: kat-claim-fc08648600c3
+
 ## 2026-11-24 — Anthropic launches Claude Ship; Sierra raises $1.75 billion at a $30 billion valuation
 
 - **TechCrunch reported that Anthropic announced on Monday, November 23, 2026 the launch of Claude Ship, a suite of AI agents for automating code reviews, fixes and approvals of routine code changes** ([TechCrunch](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/)) Claims: kat-claim-e81ec6ec1977

@@ -14,6 +14,10 @@ blurb: 'Is the tape turning against the AI trade as a whole? Distinct from the c
   the earnings verdicts, and whether the drawdown changes actual capex behavior.'
 ---
 
+## 2026-11-25 — TechCrunch: Nvidia falls more than 7% by midday on the day after the reinstatement rally
+
+- **TechCrunch reported on 24 November 2026 that Nvidia fell more than 7% by midday that day, giving back some of the gain of more than 30% it posted on Monday after Jensen Huang was reinstated as CEO** ([TechCrunch](https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/)) Claims: kat-claim-3f4168821458
+
 ## 2026-11-24 — Nvidia's share price on Huang's reinstatement; Nasdaq's weekly decline
 
 - **TechCrunch reported that Nvidia shares opened 30% higher on Monday, November 23, 2026 and were priced at $159.95, up 27%, at 9:51 a.m. ET** ([TechCrunch](https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/)) Claims: kat-claim-d412d795627b

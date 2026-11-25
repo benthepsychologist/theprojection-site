@@ -18,6 +18,10 @@ blurb: 'The chokepoint is cashing in: capex raised 15% to $60-64B + another $100
   The ~90% advanced-node share is carried, not re-verified. Next: Q3 earnings.'
 ---
 
+## 2026-11-25 — TSMC's October report to the SEC lists NT$38.8 billion of building and facility acquisitions
+
+- **Taiwan Semiconductor Manufacturing Company's month-end Form 6-K filed on 25 November 2026, covering October 2026, reports that TSMC and its subsidiaries made acquisitions of buildings and facilities of NT$38.8 billion** ([TSMC Form 6-K](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000805/tsm-monthend6kx20261125.htm)) Claims: kat-claim-c14430b4cfad
+
 ## 2026-11-11 — TSMC's board approves about US$40.9 billion of capital appropriations; October revenue is up 59.7% on a year earlier
 
 - **TSMC's Form 6-K of 10 November 2026 states that its board approved capital appropriations of approximately US$40,926.70 million, mainly for advanced technology capacity, advanced packaging and mature and specialty capacity, fab construction and facility systems, and 2027 R&D capital investments, sustaining capital expenditures and capitalized leased assets** ([SEC EDGAR, TSMC Form 6-K](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000797/tsm-boardx202611xx.htm)) Claims: kat-claim-0d65bcb9ba05

@@ -21,6 +21,11 @@ blurb: The custom-silicon revolt (TPU/Trainium/Maia/MTIA) — real but INFERENCE
   Watch whether displacement reaches frontier training.
 ---
 
+## 2026-11-25 — TechCrunch on Decart: Anthropic and Nvidia reported as other prospective buyers; Amazon on its Trainium work with Decart
+
+- **TechCrunch reported on 24 November 2026 that Anthropic reportedly tried to acquire Decart in the same price range as Amazon's reported USD 7.5 billion deal, and that Nvidia, which invested in Decart's USD 300 million funding round at a USD 4 billion valuation, was also rumored as a prospective buyer** ([TechCrunch](https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/)) Claims: kat-claim-8d20435a9585
+- **TechCrunch reported on 24 November 2026 that Amazon said in its announcement that it has worked with Decart since 2025 to optimize its Trainium chips** ([TechCrunch](https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/)) Claims: kat-claim-453becf93209
+
 ## 2026-11-24 — Amazon reported to be paying $7.5 billion for Decart as it prepares to sell Trainium chips
 
 - **TechCrunch reported, citing Bloomberg, that Amazon is paying $7.5 billion for Israeli startup Decart, describing it as Amazon agreeing to acquire a good chunk of the startup** ([TechCrunch](https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/)) Claims: kat-claim-6c92eacdc2ff

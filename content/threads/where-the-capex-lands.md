@@ -26,6 +26,10 @@ blurb: 'The ~$750B question posed as a DESTINATION, not a spender: where does th
   not just whether the gap exists.'
 ---
 
+## 2026-11-25 — TechCrunch: G2 Venture Partners estimates data center investment will top $4 trillion by the end of the decade
+
+- **TechCrunch reported on 24 November 2026 that the venture firm G2 Venture Partners estimates data center investment will top USD 4 trillion until the end of the decade** ([TechCrunch](https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/)) Claims: kat-claim-b8db74de2ec8
+
 ## 2026-11-10 — MIT Technology Review: Google to spend $15 billion on data center projects in Malaysia
 
 - **MIT Technology Review reported that Google announced the day after the US midterm elections that it will spend $15 billion on data center projects in Malaysia** ([MIT Technology Review](https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/)) Claims: kat-claim-b92a39b4370d

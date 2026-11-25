@@ -15,6 +15,11 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
   AMD/Azure/Google-TPU compute deals get positioned in the roadshow narrative.'
 ---
 
+## 2026-11-25 — TechCrunch: Anthropic shares fall below the $83 IPO price, less than a week after the Nasdaq debut
+
+- **TechCrunch reported on 24 November 2026 that Anthropic's stock fell below its IPO price of USD 83, trading as low as USD 76 a share by midday Tuesday, down nearly 12% from Monday's close** ([TechCrunch](https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/)) Claims: kat-claim-aebb0e394e82
+- **TechCrunch reported on 24 November 2026 that Anthropic debuted on Nasdaq at USD 111.50 a share less than a week earlier** ([TechCrunch](https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/)) Claims: kat-claim-0611d94eb444
+
 ## 2026-11-23 — TechCrunch on Notable Capital, GIC and Baillie Gifford's investments in Anthropic before its IPO; News On Japan on Anthropic shares falling toward the offering price
 
 - **TechCrunch reported that Anthropic reached a fully diluted valuation of about $1.5 trillion in its IPO, before its shares began trading the next day** ([TechCrunch](https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/)) Claims: kat-claim-47a0a00f453e

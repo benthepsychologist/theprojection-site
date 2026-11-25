@@ -17,6 +17,11 @@ blurb: Where the capex lands in CONCRETE — the specific gigawatt campuses. Sta
   the specific-sites worklist lives here.
 ---
 
+## 2026-11-25 — Applied Digital signs a 150 MW, 18-year lease with an unnamed hyperscaler and states how it will finance the build
+
+- **Applied Digital stated in a press release furnished with its Form 8-K that on 23 November 2026 it entered into a new 18-year lease with a tier-one investment-grade hyperscaler, which it did not name, for 150 MW of critical IT capacity, providing approximately USD 5.4 billion in base-term contracted revenue, or approximately USD 12.7 billion if all renewal options are exercised over a 33-year total term** ([Applied Digital press release, Exhibit 99.1 to Form 8-K](https://www.sec.gov/Archives/edgar/data/1144879/000149315226054002/ex99-1.htm)) Claims: kat-claim-29d87b0a2e0a
+- **Applied Digital's chief financial officer was quoted in a press release furnished with its Form 8-K as saying the company plans to finance the 150 MW build through first-in equity already funded from its balance sheet and its USD 5 billion programmatic equity partnership with Macquarie Asset Management, followed by project financing supported by the lease** ([Applied Digital press release, Exhibit 99.1 to Form 8-K](https://www.sec.gov/Archives/edgar/data/1144879/000149315226054002/ex99-1.htm)) Claims: kat-claim-ad2d2447d5fe
+
 ## 2026-11-09 — Ticker Report: TeraWulf's third-quarter call gives revenue, project cost per megawatt and a 2028 power timetable for its Kentucky Muskie site
 
 - **Ticker Report reported that TeraWulf's third-quarter revenue was $76.2 million, up from $44.8 million in the second quarter, with HPC lease revenue nearly doubling to $63 million, about 83% of the total, according to Chief Financial Officer Patrick Fleury on the earnings call** ([Ticker Report](https://www.tickerreport.com/banking-finance/13655797/what-terawulf-wulf-said-on-its-q3-earnings-call.html)) Claims: kat-claim-fcb297db2399

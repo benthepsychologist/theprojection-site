@@ -28,6 +28,12 @@ blurb: 'Whether AI-buildout debt is becoming its own underwritten, rated, public
   clock — the two produce very different recovery rates in a default.'
 ---
 
+## 2026-11-25 — Alphabet closes a C$6 billion senior notes offering; Applied Digital closes a $300 million bridge facility and raises its preferred equity commitment
+
+- **Alphabet's Form 8-K filed on 24 November 2026 states that on 24 November 2026 it closed an underwritten public offering of C$6 billion aggregate principal amount of Canadian dollar-denominated senior notes, in four tranches: C$2,000,000,000 of 4.100% notes due 2029, C$1,250,000,000 of 4.800% notes due 2034, C$1,500,000,000 of 5.325% notes due 2038 and C$1,250,000,000 of 6.000% notes due 2066** ([Alphabet Form 8-K](https://www.sec.gov/Archives/edgar/data/1652044/000119312526475973/d91615d8k.htm)) Claims: kat-claim-c7841f7afbb4
+- **Applied Digital stated in a press release furnished with its Form 8-K that on 23 November 2026 it announced the closing of a USD 300 million senior secured bridge facility, led by an unnamed global financial institution and structured as a delayed draw term loan with a 364-day maturity bearing interest at SOFR plus 300 basis points, to fund development of its Delta Forge 1 campus in Louisiana** ([Applied Digital press release, Exhibit 99.2 to Form 8-K](https://www.sec.gov/Archives/edgar/data/1144879/000149315226054002/ex99-2.htm)) Claims: kat-claim-ea4ced3e96f6
+- **Applied Digital's Form 8-K filed on 24 November 2026 states that the company entered into a letter agreement with the investors under its Preferred Equity Purchase Agreement of 30 April 2025 to increase the aggregate commitment amount for its Series G Convertible Preferred Stock from USD 2,000,000,000 to USD 2,500,000,000, leaving USD 1,035,000,000 of remaining availability** ([Applied Digital Form 8-K](https://www.sec.gov/Archives/edgar/data/1144879/000149315226054002/form8-k.htm)) Claims: kat-claim-0b59dec1ad73
+
 ## 2026-11-23 — arXiv: a paper on markets for compute and inference, their financing and risk transfer
 
 - **A paper by Gabriel Borrageiro posted to arXiv states that CME and ICE futures on compute rental rates reference published short-dated rental rates, while most operator revenue comes from private multi-year contracts whose prices are largely undisclosed** ([arXiv](https://arxiv.org/abs/2611.20242)) Claims: kat-claim-b16dd7eeeadd
