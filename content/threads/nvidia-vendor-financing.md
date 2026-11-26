@@ -24,6 +24,11 @@ blurb: 'Nvidia''s turn from chip vendor to the buildout''s lender of last resort
   treatment (still untracked).'
 ---
 
+## 2026-11-26 — S&P Global Ratings reviews Nvidia's AA rating for a possible downgrade; Equity podcast on Nvidia's backstop timing
+
+- **TechCrunch reported that S&P Global Ratings said it is considering downgrading Nvidia's credit rating, citing "weak executive oversight and lack of succession planning" and "key man risk" after the ouster and reinstatement of CEO Jensen Huang, expects to finish its review within 90 days, and could cut the rating from AA to AA-** ([TechCrunch](https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/)) Claims: kat-claim-d02005cbc269
+- **TechCrunch's Equity podcast episode description stated that Nvidia has made clear it will not backstop an AI data center until it is nearly ready to run, as neoclouds report construction delays and more expensive debt** ([TechCrunch Equity](https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/)) Claims: kat-claim-e18678e1b5a8
+
 ## 2026-11-19 — TechCrunch on how Nvidia's loan guarantees work and on Nvidia becoming more selective in financing customers
 
 - **TechCrunch reported that Nvidia's quarterly CFO commentary clarified that guaranteeing a loan does not mean the company is providing the financing itself, and that the guarantee only takes effect once the customer has secured the financing needed to build the facility and install Nvidia's products** ([TechCrunch](https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/)) Claims: kat-claim-8f49a6aa916c

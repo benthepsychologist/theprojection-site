@@ -22,6 +22,11 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   and who blinks first on capex.'
 ---
 
+## 2026-11-26 — SK hynix's Form 6-K on a shareholder-return plan of about Won 100 trillion and its nine-month revenue and net cash
+
+- **SK hynix's Form 6-K for November 2026 stated that, in a voluntary disclosure filed with the Korea Exchange on November 25, 2026, it is pursuing shareholder returns of approximately Won 100 trillion for fiscal year 2026, comprising cash dividends of Won 30 trillion or more and acquisition and cancellation of treasury shares of Won 60 trillion or more** ([SK hynix Form 6-K](https://www.sec.gov/Archives/edgar/data/2120882/000119312526476869/d135553d6k.htm)) Claims: kat-claim-b022b99be1b9
+- **SK hynix's Form 6-K stated that the company recorded revenue of Won 237 trillion for the nine months ended September 30, 2026 and secured net cash of Won 99 trillion as of September 30, 2026** ([SK hynix Form 6-K](https://www.sec.gov/Archives/edgar/data/2120882/000119312526476869/d135553d6k.htm)) Claims: kat-claim-a0ce36e9887f
+
 ## 2026-11-21 — SK hynix's Form 6-K on a planned indirect stake in Kioxia
 
 - **SK hynix's Form 6-K for November 2026 states that, on November 20, 2026, it disclosed to the Korea Exchange its plan to acquire common shares of BCPE Pangea Cayman2, Ltd. by exercising conversion rights under convertible bonds it holds, after which it will hold an indirect equity interest of approximately 14.1% in the former semiconductor business of Toshiba Corporation (currently Kioxia Holdings Corporation), with a scheduled acquisition date of December 4, 2026** ([SEC EDGAR, SK hynix Form 6-K](https://www.sec.gov/Archives/edgar/data/2120882/000119312526469266/d79768d6k.htm)) Claims: kat-claim-3de228353d1e

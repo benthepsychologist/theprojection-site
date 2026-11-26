@@ -17,6 +17,10 @@ blurb: Where the capex lands in CONCRETE — the specific gigawatt campuses. Sta
   the specific-sites worklist lives here.
 ---
 
+## 2026-11-26 — The Verge on the FCC's authorization of up to 1 million SpaceX AI-chip satellites
+
+- **The Verge reported that the FCC said on Wednesday it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites under its "Starmind" initiative, the first approval the agency has granted for a full constellation of AI satellites, and that the approval requires SpaceX to deploy at least one satellite by 2033 and reach the 1 million satellite milestone by 2040** ([The Verge](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers)) Claims: kat-claim-7ea7f372857e
+
 ## 2026-11-25 — Applied Digital signs a 150 MW, 18-year lease with an unnamed hyperscaler and states how it will finance the build
 
 - **Applied Digital stated in a press release furnished with its Form 8-K that on 23 November 2026 it entered into a new 18-year lease with a tier-one investment-grade hyperscaler, which it did not name, for 150 MW of critical IT capacity, providing approximately USD 5.4 billion in base-term contracted revenue, or approximately USD 12.7 billion if all renewal options are exercised over a 33-year total term** ([Applied Digital press release, Exhibit 99.1 to Form 8-K](https://www.sec.gov/Archives/edgar/data/1144879/000149315226054002/ex99-1.htm)) Claims: kat-claim-29d87b0a2e0a

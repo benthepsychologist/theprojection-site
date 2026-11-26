@@ -21,6 +21,13 @@ blurb: 'Whether the enterprise agent-product surface — the layer where labs an
   the packaging actually converts to usage.'
 ---
 
+## 2026-11-26 — Amazon–Meta talks on Muse, the UK regulator on Muse testing, and OpenAI's merged Chat and Work usage limits
+
+- **TechCrunch reported, citing a Fortune report that cited people familiar with the discussions, that Amazon and Meta have held multiple rounds of talks on a deal that would let Meta's Muse agent connect directly to Amazon's store, with how search results are presented and how advertising is handled still under negotiation, and that any agreement would reportedly require approval from both companies' CEOs** ([TechCrunch](https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/)) Claims: kat-claim-953f292a5c6b
+- **WIRED reported, citing the Financial Conduct Authority's head of innovation Colin Payne, that Meta declined the UK financial regulator's suggestion last week to joint-test Muse in the regulator's sandbox, and that Meta said it has engaged constructively with the appropriate regulatory authorities** ([WIRED](https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/)) Claims: kat-claim-ca875b50e2c6
+- **WIRED reported that more than 10 million users have set up Muse in North America since its launch in September, and that British retailers including Sainsbury's, Marks & Spencer, Ocado, Debenhams Group and Currys said they had been working with Meta to smooth Muse's access to their sites** ([WIRED](https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/)) Claims: kat-claim-026afea838d9
+- **TechCrunch reported that OpenAI has started rolling out a unified Chat and Work experience in ChatGPT to a small group of Pro subscribers, that Chat and Work will share a single usage meter, that an OpenAI spokesperson said a small fraction of its heaviest users may hit their limits sooner, and that OpenAI plans to bring shared usage limits more broadly in December** ([TechCrunch](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/)) Claims: kat-claim-3a01660299cb
+
 ## 2026-11-25 — TechCrunch: Walmart and Meta's Muse partnership, run through Walmart's Agent Gateway
 
 - **TechCrunch reported on 24 November 2026 that Walmart is teaming up with Meta to let customers shop its Black Friday deals through Muse, Meta's AI agent** ([TechCrunch](https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/)) Claims: kat-claim-891978cc6f36

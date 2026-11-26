@@ -21,6 +21,10 @@ blurb: 'The gpt-5.6 gating dynamic made permanent — and it''s all one buildout
   in a year — can it run classified review?); the first model actually gated.'
 ---
 
+## 2026-11-26 — TechCrunch on Dario Amodei's statement on recursive self-improvement and limits
+
+- **TechCrunch reported that Anthropic CEO Dario Amodei said in a long X post on Wednesday that claims Anthropic believes people should surrender human free will to AI are "absurd", and suggested drawing a line at recursive self-improvement, writing that "we may want limits on this process"** ([TechCrunch](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/)) Claims: kat-claim-299dc79e05a8
+
 ## 2026-11-23 — TechCrunch on OpenAI chief scientist's perplexity proposal for limits on AI development and Amodei's pacing plan
 
 - **TechCrunch reported that OpenAI chief scientist Jakub Pachocki published a blog post on potential limits on AI development that focuses on perplexity as a measurement** ([TechCrunch](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/)) Claims: kat-claim-b5d1adb979ee
