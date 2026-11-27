@@ -19,6 +19,10 @@ blurb: 'The neocloud wager, quantified: $99.4B backlog (Q1-26; OpenAI $18.4B + M
   08-11.'
 ---
 
+## 2026-11-27 — Applied Digital's presentation lists its 400 MW Polaris Forge 1 lease with CoreWeave at USD 10.71 billion
+
+- **Applied Digital's investor presentation, furnished as Exhibit 99.1 to its Form 8-K, listed its Polaris Forge 1 lease of 400 MW of contracted IT capacity with CoreWeave, a 15-year base term plus three five-year renewal options, at USD 10.71 billion of expected base-term lease value (USD 27.40 billion with renewals)** ([Applied Digital investor presentation, Exhibit 99.1 to Form 8-K](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000069/apldpresentation11232026.htm)) Claims: kat-claim-a1476a1068bd
+
 ## 2026-11-13 — Nebius's third quarter: $980.8 million of revenue and $15.4 billion of nine-month equipment purchases; TechCrunch on $40 billion to $45 billion of planned 2027 capex and a delayed Microsoft site
 
 - **Nebius Group's operating and financial review for the third quarter of 2026, filed with the SEC on Form 6-K, states that its total revenues rose by $834.7 million, or 571%, from $146.1 million in the third quarter of 2025 to $980.8 million** ([SEC EDGAR, Nebius Group Form 6-K Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1513845/000110465926126238/nbis-ex99d1.htm)) Claims: kat-claim-bb9f7c3db192

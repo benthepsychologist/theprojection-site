@@ -28,6 +28,12 @@ blurb: 'Whether AI-buildout debt is becoming its own underwritten, rated, public
   clock — the two produce very different recovery rates in a default.'
 ---
 
+## 2026-11-27 — Applied Digital's presentation sets out the Macquarie Asset Management preferred equity transaction
+
+- **Applied Digital's investor presentation, furnished as Exhibit 99.1 to its Form 8-K, stated that Macquarie has agreed to partner with Applied Digital, potentially committing up to USD 5 billion of capital that could unlock about USD 25 billion of data center capacity** ([Applied Digital investor presentation, Exhibit 99.1 to Form 8-K](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000069/apldpresentation11232026.htm)) Claims: kat-claim-884fbf2fe31a
+- **Applied Digital's presentation stated that Macquarie Asset Management will have the right to invest in future hyperscaler projects and that at closing Macquarie will receive a 15% common equity interest in APLD HPC Holdings, a subsidiary that will hold the data centers Macquarie helps finance, and marked the transaction as subject to negotiation of additional definitive documentation** ([Applied Digital investor presentation, Exhibit 99.1 to Form 8-K](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000069/apldpresentation11232026.htm)) Claims: kat-claim-33d3158434cd
+- **Applied Digital's presentation summarized the preferred equity as issued by APLD HPC TopCo 2 LLC, an indirect wholly owned subsidiary, with at least USD 225 million funded at closing, a perpetual maturity and a 12.75% dividend payable in kind or in cash during years 0 to 5** ([Applied Digital investor presentation, Exhibit 99.1 to Form 8-K](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000069/apldpresentation11232026.htm)) Claims: kat-claim-507675f5725e
+
 ## 2026-11-26 — Bloomberg on lenders pausing billions of dollars of Asian data-center loans after new U.S. chip curbs
 
 - **Bloomberg reported, as shown on The Economic Times, that lenders have paused billions of dollars of loans tied to ByteDance, Alibaba and Tencent after new U.S. curbs on chip access, that deals near completion are in doubt, and that Citigroup, Standard Chartered and Singapore's major banks have launched a review of their data center clients** ([Bloomberg, as shown on The Economic Times](https://economictimes.indiatimes.com/news/international/business/data-center-financing-faces-crisis-as-us-chip-curbs-halt-billions-in-loans-for-asian-tech-giants/articleshow/136176811.cms)) Claims: kat-claim-c5358899c75d

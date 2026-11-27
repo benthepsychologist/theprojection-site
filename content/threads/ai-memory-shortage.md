@@ -22,6 +22,10 @@ blurb: 'The data-center buildout is diverting wafer capacity to HBM — a report
   and who blinks first on capex.'
 ---
 
+## 2026-11-27 — SK hynix's Form 6-K on a reported Won 60 trillion Solidigm NAND plant in the United States
+
+- **SK hynix's Form 6-K of November 27, 2026 stated that the Maeil Business Newspaper reported on October 29, 2026 that Solidigm, a U.S. subsidiary of SK hynix, is pursuing an investment of approximately Won 60 trillion for a new NAND flash memory production facility in the United States, and that the company clarified that no matters have been determined as of the date of the report** ([SK hynix Form 6-K](https://www.sec.gov/Archives/edgar/data/2120882/000119312526479067/d139543d6k.htm)) Claims: kat-claim-77679019edc8
+
 ## 2026-11-26 — SK hynix's Form 6-K on a shareholder-return plan of about Won 100 trillion and its nine-month revenue and net cash
 
 - **SK hynix's Form 6-K for November 2026 stated that, in a voluntary disclosure filed with the Korea Exchange on November 25, 2026, it is pursuing shareholder returns of approximately Won 100 trillion for fiscal year 2026, comprising cash dividends of Won 30 trillion or more and acquisition and cancellation of treasury shares of Won 60 trillion or more** ([SK hynix Form 6-K](https://www.sec.gov/Archives/edgar/data/2120882/000119312526476869/d135553d6k.htm)) Claims: kat-claim-b022b99be1b9
