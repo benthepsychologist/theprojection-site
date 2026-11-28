@@ -17,6 +17,11 @@ blurb: The grid is the binding constraint (not chips) — interconnection queues
   — the improvisation has outrun the regulatory system.
 ---
 
+## 2026-11-28 — JERA in talks with US technology companies on data centers beside its Tokyo-area power plants (ZeroHedge, citing Nikkei)
+
+- **ZeroHedge reported, citing a Nikkei interview with JERA global CEO and chair Yukio Kani, that JERA, Japan's largest power producer, has opened talks with Anthropic, Meta and other US tech companies to build AI data centers next to its power plants around Tokyo, supplied with electricity directly from the generators rather than through the grid** ([ZeroHedge, citing Nikkei](https://www.zerohedge.com/ai/days-after-trumps-tremendous-tax-threat-anthropic-and-meta-are-talking-data-centers-japan)) Claims: kat-claim-f7d69c8e2592
+- **ZeroHedge reported, citing Nikkei, that JERA CEO Yukio Kani said JERA is in similar data center discussions with Amazon, Microsoft and Google, and that no deal with any of them has been announced** ([ZeroHedge, citing Nikkei](https://www.zerohedge.com/ai/days-after-trumps-tremendous-tax-threat-anthropic-and-meta-are-talking-data-centers-japan)) Claims: kat-claim-82081c40e0a0
+
 ## 2026-11-20 — EconoTimes on JLL's forecast of 200 gigawatts of global data center capacity by 2030
 
 - **EconoTimes reported that JLL's 2026 Global Data Center Outlook projects global data center capacity will rise from 103 gigawatts to 200 gigawatts by 2030** ([EconoTimes](https://econotimes.com/AI-Data-Center-Capacity-Set-to-Nearly-Double-as-Grid-Limits-Tighten-1780006)) Claims: kat-claim-272b9b65ea42

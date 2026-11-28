@@ -28,6 +28,10 @@ blurb: 'Anthropic has signed four large infrastructure arrangements in roughly t
   — this thread asks a narrower question, who ends up holding the asset.'
 ---
 
+## 2026-11-28 — NTT Data in final-stage talks on Anthropic's first dedicated Japan data center (ZeroHedge, citing Nikkei)
+
+- **ZeroHedge reported, citing an October Nikkei report, that NTT Data Group is in the final stages of talks to build Anthropic's first dedicated data center in Japan, a facility of roughly US$6.3 billion in Osaka due to partly open by 2028** ([ZeroHedge, citing Nikkei](https://www.zerohedge.com/ai/days-after-trumps-tremendous-tax-threat-anthropic-and-meta-are-talking-data-centers-japan)) Claims: kat-claim-2c5c272912f1
+
 ## 2026-11-20 — Anthropic's compute commitments after the IPO: $70.7 billion due within 12 months, $451.6 billion by 2030 and more than $900 billion owed to vendors
 
 - **TechCrunch reported that, as of the quarter ended September 30, 2026, Anthropic needs about $70.7 billion to cover its compute and infrastructure spending commitments over the next 12 months and $451.6 billion to cover them before the end of 2030** ([TechCrunch](https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/)) Claims: kat-claim-1347ec52aaf5

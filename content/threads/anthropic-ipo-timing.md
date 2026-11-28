@@ -15,6 +15,15 @@ blurb: 'Reported confidential IPO filing at ~$965B (single-source — thin, need
   AMD/Azure/Google-TPU compute deals get positioned in the roadshow narrative.'
 ---
 
+## 2026-11-28 — Anthropic closes at $91.88, above the $83 IPO price; December 15 lockup release; analyst revenue forecasts (The Motley Fool)
+
+- **The Motley Fool reported that shares of Anthropic (NASDAQ: ANT) climbed nearly 11% on Friday, November 27, 2026, closing at $91.88, above its initial public offering price of $83** ([The Motley Fool](https://www.fool.com/investing/2026/11/27/why-anthropic-stock-rallied-on-friday-wall-street-analysts-say-buy-right-now/)) Claims: kat-claim-84c56d4db38c
+- **The Motley Fool reported that Anthropic's next insider lockup release is December 15, 2026, when as many as 303 million shares become eligible for sale, with more shares becoming tradable in January and February and later in 2027** ([The Motley Fool](https://www.fool.com/investing/2026/11/27/why-anthropic-stock-rallied-on-friday-wall-street-analysts-say-buy-right-now/)) Claims: kat-claim-3ed638914540
+- **The Motley Fool reported that funds tracking the Morningstar US Total Market Index, the Russell 3000 and the Nasdaq-100 are expected to begin buying Anthropic stock once it is added to those indexes in the coming weeks** ([The Motley Fool](https://www.fool.com/investing/2026/11/27/why-anthropic-stock-rallied-on-friday-wall-street-analysts-say-buy-right-now/)) Claims: kat-claim-44e826758ea2
+- **The Motley Fool reported that Oppenheimer analyst Param Singh sees Anthropic's revenue surpassing US$275 billion by 2028, up from US$4.6 billion in 2025** ([The Motley Fool](https://www.fool.com/investing/2026/11/27/why-anthropic-stock-rallied-on-friday-wall-street-analysts-say-buy-right-now/)) Claims: kat-claim-d4d7eb4cc045
+- **The Motley Fool reported that Melius Research analyst Ben Reitzes sees Anthropic's revenue rising to US$430 billion by 2029** ([The Motley Fool](https://www.fool.com/investing/2026/11/27/why-anthropic-stock-rallied-on-friday-wall-street-analysts-say-buy-right-now/)) Claims: kat-claim-cf5cbf37244a
+- **The Motley Fool reported that Anthropic raised US$93.5 billion from its IPO** ([The Motley Fool](https://www.fool.com/investing/2026/11/27/why-anthropic-stock-rallied-on-friday-wall-street-analysts-say-buy-right-now/)) Claims: kat-claim-592f08b710dc
+
 ## 2026-11-26 — Anthropic's Form 8-K: the IPO closed on November 20 with a $26.0 billion concurrent private placement and $119.5 billion of aggregate gross proceeds
 
 - **Anthropic, PBC's Form 8-K signed November 25, 2026 stated that on November 20, 2026 it completed its IPO of 1,127,000,000 shares of Class A common stock at $83.00 per share, of which 1,103,351,354 shares were sold by the company and 23,648,646 by selling stockholders, including the underwriters' full exercise of their option to buy 147,000,000 additional shares** ([Anthropic, PBC Form 8-K](https://www.sec.gov/Archives/edgar/data/2130357/000162828026075973/ant-20261119.htm)) Claims: kat-claim-36a776b16bc0
